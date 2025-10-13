@@ -17,6 +17,33 @@ const turndown = new TurndownService({
   codeBlockStyle: 'fenced',
 });
 
+// Preserve affiliate link attributes (rel="nofollow", target="_blank", etc)
+turndown.addRule('links', {
+  filter: 'a',
+  replacement: function (content, node) {
+    const href = node.getAttribute('href');
+    const title = node.getAttribute('title');
+    const rel = node.getAttribute('rel');
+    const target = node.getAttribute('target');
+
+    if (!href) return content;
+
+    let linkText = '[' + content + '](' + href;
+    if (title) linkText += ' "' + title + '"';
+    linkText += ')';
+
+    // Add HTML attributes as a comment for preservation if needed
+    if (rel || target) {
+      const attrs = [];
+      if (rel) attrs.push(`rel="${rel}"`);
+      if (target) attrs.push(`target="${target}"`);
+      linkText += `{${attrs.join(' ')}}`;
+    }
+
+    return linkText;
+  }
+});
+
 /**
  * Clean and convert HTML to Markdown
  */
@@ -33,11 +60,24 @@ function htmlToMarkdown(html) {
 }
 
 /**
- * Get language code
+ * Get language code from URL since language field might not be available
  */
 function getLanguageCode(item) {
-  const code = item.language?.code || 'EN';
-  return code.toLowerCase().substring(0, 2);
+  // Try language field first
+  if (item.language?.code) {
+    return item.language.code.toLowerCase().substring(0, 2);
+  }
+
+  // Detect from URL/link
+  if (item.link) {
+    // Albanian URLs contain /sq/
+    if (item.link.includes('/sq/')) {
+      return 'sq';
+    }
+  }
+
+  // Default to English
+  return 'en';
 }
 
 /**

@@ -39,9 +39,7 @@ async function fetchAllPosts() {
           modified
           content
           excerpt
-          language {
-            code
-          }
+          link
           featuredImage {
             node {
               sourceUrl
@@ -68,16 +66,6 @@ async function fetchAllPosts() {
             nodes {
               name
               slug
-            }
-          }
-          seo {
-            title
-            metaDesc
-            canonical
-            opengraphTitle
-            opengraphDescription
-            opengraphImage {
-              sourceUrl
             }
           }
         }
@@ -130,19 +118,12 @@ async function fetchAllPages() {
           date
           modified
           content
-          language {
-            code
-          }
+          link
           featuredImage {
             node {
               sourceUrl
               altText
             }
-          }
-          seo {
-            title
-            metaDesc
-            canonical
           }
         }
       }
@@ -190,9 +171,7 @@ async function fetchCustomPostType(postType, queryName) {
           slug
           date
           content
-          language {
-            code
-          }
+          link
           featuredImage {
             node {
               sourceUrl
@@ -262,9 +241,15 @@ function generateInventoryReport(data) {
   ['posts', 'pages', 'accommodation', 'destinations', 'activities', 'attractions', 'tours'].forEach(type => {
     if (data[type]) {
       data[type].forEach(item => {
-        const lang = item.language?.code || 'en';
-        if (lang === 'en' || lang === 'EN') report.languages.en++;
-        if (lang === 'sq' || lang === 'SQ') report.languages.sq++;
+        // Detect language from URL if language field not available
+        let lang = item.language?.code || 'en';
+        if (item.link && item.link.includes('/sq/')) {
+          lang = 'sq';
+        }
+        lang = lang.toLowerCase();
+
+        if (lang === 'en') report.languages.en++;
+        if (lang === 'sq') report.languages.sq++;
 
         if (item.featuredImage?.node?.sourceUrl) {
           report.totalImages++;
@@ -301,45 +286,42 @@ async function migrate() {
   console.log('');
 
   // Try to fetch custom post types (these might fail if not configured in WPGraphQL)
+  // Based on error: "allAccommodation" exists
   try {
-    data.accommodation = await fetchCustomPostType('accommodation', 'accommodations');
+    data.accommodation = await fetchCustomPostType('accommodation', 'allAccommodation');
   } catch (error) {
     console.log('ℹ️  Accommodation post type not available or not configured in WPGraphQL');
+    console.log('   Error:', error.message.split(':')[0]);
     data.accommodation = [];
   }
   console.log('');
 
-  try {
-    data.destinations = await fetchCustomPostType('destinations', 'destinations');
-  } catch (error) {
-    console.log('ℹ️  Destinations post type not available or not configured in WPGraphQL');
-    data.destinations = [];
-  }
-  console.log('');
+  // Try other common patterns for custom post types
+  const customTypes = [
+    { key: 'destinations', queries: ['allDestination', 'destinations'] },
+    { key: 'activities', queries: ['allActivity', 'activities'] },
+    { key: 'attractions', queries: ['allAttraction', 'attractions'] },
+    { key: 'tours', queries: ['allTour', 'tours'] },
+  ];
 
-  try {
-    data.activities = await fetchCustomPostType('activities', 'activities');
-  } catch (error) {
-    console.log('ℹ️  Activities post type not available or not configured in WPGraphQL');
-    data.activities = [];
+  for (const type of customTypes) {
+    let fetched = false;
+    for (const queryName of type.queries) {
+      if (!fetched) {
+        try {
+          data[type.key] = await fetchCustomPostType(type.key, queryName);
+          fetched = true;
+        } catch (error) {
+          // Try next query name
+        }
+      }
+    }
+    if (!fetched) {
+      console.log(`ℹ️  ${type.key} post type not available or not configured in WPGraphQL`);
+      data[type.key] = [];
+    }
+    console.log('');
   }
-  console.log('');
-
-  try {
-    data.attractions = await fetchCustomPostType('attractions', 'attractions');
-  } catch (error) {
-    console.log('ℹ️  Attractions post type not available or not configured in WPGraphQL');
-    data.attractions = [];
-  }
-  console.log('');
-
-  try {
-    data.tours = await fetchCustomPostType('tours', 'tours');
-  } catch (error) {
-    console.log('ℹ️  Tours post type not available or not configured in WPGraphQL');
-    data.tours = [];
-  }
-  console.log('');
 
   // Save all data
   console.log('\n💾 Saving extracted data...');

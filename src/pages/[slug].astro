@@ -1,0 +1,24 @@
+---
+/**
+ * Dynamic Blog Post Route (English)
+ * Handles all English blog post URLs: /post-slug/
+ */
+
+import { getCollection } from 'astro:content';
+import BlogPostLayout from '../layouts/BlogPostLayout.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts', ({ data }) => {
+    return data.language === 'en';
+  });
+
+  return posts.map(post => ({
+    params: { slug: post.data.slug },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+---
+
+<BlogPostLayout post={post} />

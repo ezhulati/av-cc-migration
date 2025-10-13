@@ -1,0 +1,24 @@
+---
+/**
+ * Dynamic Blog Post Route (Albanian)
+ * Handles all Albanian blog post URLs: /sq/post-slug/
+ */
+
+import { getCollection } from 'astro:content';
+import BlogPostLayout from '../../layouts/BlogPostLayout.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts', ({ data }) => {
+    return data.language === 'sq';
+  });
+
+  return posts.map(post => ({
+    params: { slug: post.data.slug },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+---
+
+<BlogPostLayout post={post} />

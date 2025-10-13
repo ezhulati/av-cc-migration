@@ -1,0 +1,132 @@
+---
+/**
+ * SEO Component
+ * Handles all meta tags, Open Graph, Twitter Cards, and structured data
+ */
+
+export interface Props {
+  title: string;
+  description: string;
+  canonical?: string;
+  image?: string;
+  imageAlt?: string;
+  type?: 'website' | 'article';
+  publishedTime?: string;
+  modifiedTime?: string;
+  author?: string;
+  locale?: 'en_US' | 'sq_AL';
+  alternateLocale?: string;
+  alternateUrl?: string;
+}
+
+const {
+  title,
+  description,
+  canonical,
+  image,
+  imageAlt = '',
+  type = 'website',
+  publishedTime,
+  modifiedTime,
+  author,
+  locale = 'en_US',
+  alternateLocale,
+  alternateUrl,
+} = Astro.props;
+
+const siteName = 'Visit Albania';
+const siteUrl = 'https://albaniavisit.com';
+const fullCanonical = canonical || `${siteUrl}${Astro.url.pathname}`;
+const fullImage = image ? (image.startsWith('http') ? image : `${siteUrl}${image}`) : `${siteUrl}/images/default-og.jpg`;
+
+// Structured Data for Organization
+const organizationSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'TravelAgency',
+  name: 'AlbaniaVisit',
+  description: 'Discover The Land Of The Eagles - Complete Albania Travel Guide',
+  url: siteUrl,
+  logo: `${siteUrl}/images/albaniavisit-logo.png`,
+  sameAs: [
+    'https://www.facebook.com/albaniavisit',
+    'https://www.instagram.com/albaniavisit',
+    'https://twitter.com/albaniavisit',
+  ],
+};
+
+// Structured Data for Article (if type is article)
+const articleSchema = type === 'article' ? {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: title,
+  description: description,
+  image: fullImage,
+  datePublished: publishedTime,
+  dateModified: modifiedTime || publishedTime,
+  author: {
+    '@type': 'Person',
+    name: author || 'AlbaniaVisit Team',
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'AlbaniaVisit',
+    logo: {
+      '@type': 'ImageObject',
+      url: `${siteUrl}/images/albaniavisit-logo.png`,
+    },
+  },
+} : null;
+---
+
+<!-- Primary Meta Tags -->
+<title>{title}</title>
+<meta name="title" content={title} />
+<meta name="description" content={description} />
+<link rel="canonical" href={fullCanonical} />
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content={type} />
+<meta property="og:url" content={fullCanonical} />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:image" content={fullImage} />
+<meta property="og:image:alt" content={imageAlt || title} />
+<meta property="og:site_name" content={siteName} />
+<meta property="og:locale" content={locale} />
+
+{type === 'article' && publishedTime && (
+  <>
+    <meta property="article:published_time" content={publishedTime} />
+    {modifiedTime && <meta property="article:modified_time" content={modifiedTime} />}
+    {author && <meta property="article:author" content={author} />}
+  </>
+)}
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:url" content={fullCanonical} />
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={fullImage} />
+<meta name="twitter:image:alt" content={imageAlt || title} />
+
+<!-- Language Alternates (hreflang) -->
+{alternateUrl && alternateLocale && (
+  <>
+    <link rel="alternate" hreflang={locale === 'en_US' ? 'en' : 'sq'} href={fullCanonical} />
+    <link rel="alternate" hreflang={alternateLocale === 'sq_AL' ? 'sq' : 'en'} href={alternateUrl} />
+    <link rel="alternate" hreflang="x-default" href={locale === 'en_US' ? fullCanonical : alternateUrl} />
+  </>
+)}
+
+<!-- Structured Data -->
+<script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
+{articleSchema && (
+  <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+)}
+
+<!-- Additional SEO Meta Tags -->
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta charset="UTF-8" />

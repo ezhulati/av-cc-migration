@@ -10,9 +10,10 @@
     "astro": "astro",
     "migrate:extract": "node scripts/migrate-content.js",
     "migrate:images": "node scripts/download-images.js",
+    "migrate:images:all": "node scripts/download-all-images.js",
     "migrate:markdown": "node scripts/generate-markdown.js",
     "migrate:validate": "node scripts/validate-urls.js",
-    "migrate:all": "npm run migrate:extract && npm run migrate:images && npm run migrate:markdown"
+    "migrate:all": "npm run migrate:extract && npm run migrate:images:all && npm run migrate:markdown"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",

@@ -1,0 +1,314 @@
+---
+/**
+ * Base Layout
+ * Global wrapper for all pages with SEO, navigation, and footer
+ */
+
+import SEO from '../components/SEO.astro';
+
+export interface Props {
+  title: string;
+  description: string;
+  canonical?: string;
+  image?: string;
+  type?: 'website' | 'article';
+  publishedTime?: string;
+  modifiedTime?: string;
+  author?: string;
+  language?: 'en' | 'sq';
+  alternateUrl?: string;
+}
+
+const {
+  title,
+  description,
+  canonical,
+  image,
+  type = 'website',
+  publishedTime,
+  modifiedTime,
+  author,
+  language = 'en',
+  alternateUrl,
+} = Astro.props;
+
+const fullTitle = title.includes('AlbaniaVisit') ? title : `${title} | Visit Albania`;
+const locale = language === 'sq' ? 'sq_AL' : 'en_US';
+const alternateLocale = language === 'sq' ? 'en_US' : 'sq_AL';
+---
+
+<!doctype html>
+<html lang={language}>
+  <head>
+    <SEO
+      title={fullTitle}
+      description={description}
+      canonical={canonical}
+      image={image}
+      type={type}
+      publishedTime={publishedTime}
+      modifiedTime={modifiedTime}
+      author={author}
+      locale={locale}
+      alternateLocale={alternateLocale}
+      alternateUrl={alternateUrl}
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Merriweather:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <!-- Navigation -->
+    <header class="site-header">
+      <nav class="container">
+        <a href={language === 'sq' ? '/sq/' : '/'} class="logo">
+          <span>Albania</span><span class="highlight">Visit</span>
+        </a>
+
+        <ul class="nav-menu">
+          <li><a href={language === 'sq' ? '/sq/' : '/'}>Home</a></li>
+          <li><a href={language === 'sq' ? '/sq/about/' : '/about/'}>About</a></li>
+          <li><a href={language === 'sq' ? '/sq/accommodation/' : '/accommodation/'}>Accommodation</a></li>
+          <li><a href={language === 'sq' ? '/sq/blog/' : '/blog/'}>Blog</a></li>
+          <li><a href={language === 'sq' ? '/sq/contact/' : '/contact/'}>Contact</a></li>
+        </ul>
+
+        <!-- Language Switcher -->
+        <div class="language-switcher">
+          {language === 'en' ? (
+            <a href={alternateUrl || '/sq/'} class="lang-link">SQ</a>
+          ) : (
+            <a href={alternateUrl || '/'} class="lang-link">EN</a>
+          )}
+        </div>
+      </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+      <slot />
+    </main>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+      <div class="container">
+        <div class="footer-content">
+          <div class="footer-section">
+            <h3>AlbaniaVisit</h3>
+            <p>Discover The Land Of The Eagles</p>
+          </div>
+
+          <div class="footer-section">
+            <h4>Quick Links</h4>
+            <ul>
+              <li><a href={language === 'sq' ? '/sq/about/' : '/about/'}>About Us</a></li>
+              <li><a href={language === 'sq' ? '/sq/accommodation/' : '/accommodation/'}>Accommodation</a></li>
+              <li><a href={language === 'sq' ? '/sq/blog/' : '/blog/'}>Blog</a></li>
+              <li><a href={language === 'sq' ? '/sq/contact/' : '/contact/'}>Contact</a></li>
+            </ul>
+          </div>
+
+          <div class="footer-section">
+            <h4>Resources</h4>
+            <ul>
+              <li><a href="/terms-conditions/">Terms & Conditions</a></li>
+              <li><a href="/partnerships/">Partnerships</a></li>
+              <li><a href="/foundation/">Foundation</a></li>
+            </ul>
+          </div>
+
+          <div class="footer-section">
+            <h4>Connect</h4>
+            <div class="social-links">
+              <a href="https://facebook.com/albaniavisit" target="_blank" rel="noopener">Facebook</a>
+              <a href="https://instagram.com/albaniavisit" target="_blank" rel="noopener">Instagram</a>
+              <a href="https://twitter.com/albaniavisit" target="_blank" rel="noopener">Twitter</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="footer-bottom">
+          <p>&copy; {new Date().getFullYear()} AlbaniaVisit. All rights reserved.</p>
+        </div>
+      </div>
+    </footer>
+
+    <style>
+      :root {
+        --color-primary: #e41e20;
+        --color-secondary: #000000;
+        --color-text: #333333;
+        --color-text-light: #666666;
+        --color-bg: #ffffff;
+        --color-bg-light: #f8f9fa;
+        --color-border: #e0e0e0;
+        --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+        --font-serif: 'Merriweather', Georgia, serif;
+        --max-width: 1200px;
+      }
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: var(--font-sans);
+        color: var(--color-text);
+        line-height: 1.6;
+      }
+
+      .container {
+        max-width: var(--max-width);
+        margin: 0 auto;
+        padding: 0 20px;
+      }
+
+      /* Header */
+      .site-header {
+        background: var(--color-bg);
+        border-bottom: 1px solid var(--color-border);
+        padding: 1rem 0;
+        position: sticky;
+        top: 0;
+        z-index: 100;
+      }
+
+      .site-header nav {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+
+      .logo {
+        font-size: 1.5rem;
+        font-weight: 700;
+        text-decoration: none;
+        color: var(--color-secondary);
+      }
+
+      .logo .highlight {
+        color: var(--color-primary);
+      }
+
+      .nav-menu {
+        display: flex;
+        list-style: none;
+        gap: 2rem;
+      }
+
+      .nav-menu a {
+        text-decoration: none;
+        color: var(--color-text);
+        font-weight: 500;
+        transition: color 0.2s;
+      }
+
+      .nav-menu a:hover {
+        color: var(--color-primary);
+      }
+
+      .language-switcher {
+        margin-left: 1rem;
+      }
+
+      .lang-link {
+        padding: 0.5rem 1rem;
+        background: var(--color-primary);
+        color: white;
+        text-decoration: none;
+        border-radius: 4px;
+        font-weight: 600;
+        font-size: 0.875rem;
+        transition: opacity 0.2s;
+      }
+
+      .lang-link:hover {
+        opacity: 0.9;
+      }
+
+      /* Main Content */
+      main {
+        min-height: 60vh;
+      }
+
+      /* Footer */
+      .site-footer {
+        background: var(--color-secondary);
+        color: white;
+        padding: 3rem 0 1rem;
+        margin-top: 4rem;
+      }
+
+      .footer-content {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 2rem;
+        margin-bottom: 2rem;
+      }
+
+      .footer-section h3 {
+        color: var(--color-primary);
+        margin-bottom: 0.5rem;
+      }
+
+      .footer-section h4 {
+        color: white;
+        margin-bottom: 1rem;
+        font-size: 1rem;
+      }
+
+      .footer-section ul {
+        list-style: none;
+      }
+
+      .footer-section ul li {
+        margin-bottom: 0.5rem;
+      }
+
+      .footer-section a {
+        color: rgba(255, 255, 255, 0.8);
+        text-decoration: none;
+        transition: color 0.2s;
+      }
+
+      .footer-section a:hover {
+        color: var(--color-primary);
+      }
+
+      .social-links {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+      }
+
+      .footer-bottom {
+        border-top: 1px solid rgba(255, 255, 255, 0.1);
+        padding-top: 1rem;
+        text-align: center;
+        color: rgba(255, 255, 255, 0.6);
+        font-size: 0.875rem;
+      }
+
+      /* Responsive */
+      @media (max-width: 768px) {
+        .nav-menu {
+          display: none; /* TODO: Add mobile menu */
+        }
+
+        .footer-content {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </body>
+</html>

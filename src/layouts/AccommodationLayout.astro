@@ -1,0 +1,386 @@
+---
+/**
+ * Accommodation Layout
+ * Template for accommodation listings
+ */
+
+import BaseLayout from './BaseLayout.astro';
+import type { CollectionEntry } from 'astro:content';
+
+export interface Props {
+  accommodation: CollectionEntry<'accommodation'>;
+}
+
+const { accommodation } = Astro.props;
+const { Content } = await accommodation.render();
+
+const {
+  title,
+  description,
+  location,
+  featuredImage,
+  images,
+  amenities,
+  price,
+  rating,
+  bookingURL,
+  language,
+  slug,
+} = accommodation.data;
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={`https://albaniavisit.com/${language === 'sq' ? 'sq/akomodimi' : 'accommodation'}/${slug}/`}
+  image={featuredImage}
+  type="website"
+  language={language}
+>
+  <article class="accommodation">
+    <div class="container">
+      <!-- Breadcrumbs -->
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <ol>
+          <li><a href={language === 'sq' ? '/sq/' : '/'}>Home</a></li>
+          <li><a href={language === 'sq' ? '/sq/akomodimi/' : '/accommodation/'}>Accommodation</a></li>
+          {location && <li>{location}</li>}
+          <li aria-current="page">{title}</li>
+        </ol>
+      </nav>
+
+      <!-- Header -->
+      <header class="accommodation-header">
+        <div class="header-content">
+          <h1 class="accommodation-title">{title}</h1>
+
+          <div class="accommodation-meta">
+            {location && (
+              <span class="location">
+                📍 {location}
+              </span>
+            )}
+            {rating && (
+              <span class="rating">
+                ⭐ {rating}/5
+              </span>
+            )}
+            {price && (
+              <span class="price">
+                💰 {price}
+              </span>
+            )}
+          </div>
+        </div>
+
+        {bookingURL && (
+          <div class="booking-cta">
+            <a href={bookingURL} class="book-now-btn" target="_blank" rel="nofollow">
+              {language === 'sq' ? 'Rezervo Tani' : 'Book Now'}
+            </a>
+          </div>
+        )}
+      </header>
+
+      <!-- Image Gallery -->
+      {(featuredImage || (images && images.length > 0)) && (
+        <div class="accommodation-gallery">
+          {featuredImage && (
+            <div class="featured-image">
+              <img
+                src={featuredImage}
+                alt={title}
+                loading="eager"
+              />
+            </div>
+          )}
+
+          {images && images.length > 0 && (
+            <div class="gallery-grid">
+              {images.slice(0, 4).map((img) => (
+                <div class="gallery-item">
+                  <img src={img} alt={title} loading="lazy" />
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
+      )}
+
+      <!-- Content -->
+      <div class="accommodation-content">
+        <div class="main-content">
+          <section class="description">
+            <h2>{language === 'sq' ? 'Përshkrimi' : 'Description'}</h2>
+            <Content />
+          </section>
+
+          {amenities && amenities.length > 0 && (
+            <section class="amenities">
+              <h2>{language === 'sq' ? 'Lehtësirat' : 'Amenities'}</h2>
+              <ul class="amenities-list">
+                {amenities.map((amenity) => (
+                  <li>✓ {amenity}</li>
+                ))}
+              </ul>
+            </section>
+          )}
+        </div>
+
+        <aside class="sidebar">
+          {bookingURL && (
+            <div class="booking-card">
+              <h3>{language === 'sq' ? 'Rezervo Këtë Akomodim' : 'Book This Accommodation'}</h3>
+              {price && <p class="card-price">{price}</p>}
+              <a href={bookingURL} class="book-btn" target="_blank" rel="nofollow">
+                {language === 'sq' ? 'Kontrollo Disponueshmërinë' : 'Check Availability'}
+              </a>
+            </div>
+          )}
+
+          {location && (
+            <div class="location-card">
+              <h3>{language === 'sq' ? 'Vendndodhja' : 'Location'}</h3>
+              <p>{location}</p>
+              {/* TODO: Add map integration */}
+            </div>
+          )}
+        </aside>
+      </div>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .accommodation {
+    padding: 2rem 0;
+  }
+
+  /* Breadcrumbs */
+  .breadcrumbs {
+    margin-bottom: 2rem;
+    font-size: 0.875rem;
+  }
+
+  .breadcrumbs ol {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    list-style: none;
+  }
+
+  .breadcrumbs li:not(:last-child)::after {
+    content: '›';
+    margin-left: 0.5rem;
+    color: var(--color-text-light);
+  }
+
+  .breadcrumbs a {
+    color: var(--color-primary);
+    text-decoration: none;
+  }
+
+  .breadcrumbs a:hover {
+    text-decoration: underline;
+  }
+
+  /* Header */
+  .accommodation-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 2rem;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+  }
+
+  .accommodation-title {
+    font-family: var(--font-serif);
+    font-size: 2.5rem;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+    color: var(--color-secondary);
+  }
+
+  .accommodation-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    font-size: 1rem;
+    color: var(--color-text);
+  }
+
+  .location, .rating, .price {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .book-now-btn {
+    display: inline-block;
+    padding: 1rem 2rem;
+    background: var(--color-primary);
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 1.125rem;
+    transition: opacity 0.2s;
+  }
+
+  .book-now-btn:hover {
+    opacity: 0.9;
+  }
+
+  /* Gallery */
+  .accommodation-gallery {
+    margin-bottom: 3rem;
+  }
+
+  .featured-image {
+    margin-bottom: 1rem;
+    border-radius: 12px;
+    overflow: hidden;
+  }
+
+  .featured-image img {
+    width: 100%;
+    height: auto;
+    max-height: 500px;
+    object-fit: cover;
+    display: block;
+  }
+
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+  }
+
+  .gallery-item {
+    border-radius: 8px;
+    overflow: hidden;
+    aspect-ratio: 4/3;
+  }
+
+  .gallery-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  /* Content */
+  .accommodation-content {
+    display: grid;
+    grid-template-columns: 1fr 350px;
+    gap: 3rem;
+  }
+
+  .main-content {
+    min-width: 0;
+  }
+
+  .description {
+    margin-bottom: 3rem;
+  }
+
+  .description h2,
+  .amenities h2 {
+    font-family: var(--font-serif);
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
+    color: var(--color-secondary);
+  }
+
+  .description :global(p) {
+    margin-bottom: 1rem;
+    line-height: 1.8;
+    font-size: 1.0625rem;
+  }
+
+  .amenities-list {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 0.75rem;
+  }
+
+  .amenities-list li {
+    padding: 0.5rem;
+    background: var(--color-bg-light);
+    border-radius: 4px;
+  }
+
+  /* Sidebar */
+  .sidebar {
+    position: sticky;
+    top: 100px;
+    height: fit-content;
+  }
+
+  .booking-card,
+  .location-card {
+    background: var(--color-bg-light);
+    padding: 1.5rem;
+    border-radius: 12px;
+    margin-bottom: 1.5rem;
+  }
+
+  .booking-card h3,
+  .location-card h3 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+    color: var(--color-secondary);
+  }
+
+  .card-price {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--color-primary);
+    margin-bottom: 1rem;
+  }
+
+  .book-btn {
+    display: block;
+    width: 100%;
+    padding: 0.875rem;
+    background: var(--color-primary);
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 600;
+    transition: opacity 0.2s;
+  }
+
+  .book-btn:hover {
+    opacity: 0.9;
+  }
+
+  /* Responsive */
+  @media (max-width: 968px) {
+    .accommodation-content {
+      grid-template-columns: 1fr;
+    }
+
+    .sidebar {
+      position: static;
+    }
+
+    .accommodation-title {
+      font-size: 2rem;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .accommodation-header {
+      flex-direction: column;
+    }
+
+    .book-now-btn {
+      width: 100%;
+      text-align: center;
+    }
+  }
+</style>
