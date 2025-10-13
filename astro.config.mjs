@@ -8,9 +8,7 @@ export default defineConfig({
   site: 'https://albaniavisit.com',
   output: 'static',
   integrations: [
-    tailwind({
-      applyBaseStyles: false,
-    }),
+    tailwind(),
     sitemap({
       i18n: {
         defaultLocale: 'en',
@@ -25,6 +23,12 @@ export default defineConfig({
     format: 'directory',
   },
   image: {
-    domains: ['albaniavisit.com'],
+    domains: ['albaniavisit.com', 'eia476h758b.exactdn.com'],
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: '**.exactdn.com',
+      },
+    ],
   },
 });
