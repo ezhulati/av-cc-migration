@@ -25,3 +25,4 @@ data/*.json
 # downloaded images (too large for git)
 public/images/*
 !public/images/.gitkeep
+Practical-UI.pdf

@@ -1,0 +1,43 @@
+# Netlify Configuration for Astro 5 Site
+
+[build]
+  # Command to build your site
+  command = "npm run build"
+
+  # Directory with the built assets (Astro's default output)
+  publish = "dist"
+
+[build.environment]
+  # Node version
+  NODE_VERSION = "18"
+
+# Redirect rules (if needed)
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+  force = false
+
+# Headers for caching and security
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*.css"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*.js"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"

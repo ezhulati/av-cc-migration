@@ -1,0 +1,621 @@
+---
+/**
+ * Simplified Destination Page Template
+ * Clean, responsive, and flawless on all devices
+ * Inspired by "honest luxury" design principles
+ */
+
+import { getCollection } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const destinations = await getCollection('destinations', ({ data }) => {
+    return !data.language || data.language === 'en';
+  });
+
+  return destinations.map(destination => ({
+    params: { slug: destination.slug },
+    props: { destination },
+  }));
+}
+
+interface Props {
+  destination: CollectionEntry<'destinations'>;
+}
+
+const { destination } = Astro.props;
+const { Content } = await destination.render();
+
+const {
+  title,
+  description,
+  region,
+  featuredImage,
+  images,
+  coordinates,
+  highlights,
+  language,
+} = destination.data;
+
+const slug = destination.slug;
+---
+
+<BaseLayout
+  title={`${title} - Albania Destination Guide`}
+  description={description}
+  canonical={`https://albaniavisit.com/destinations/${slug}/`}
+  image={featuredImage}
+  type="article"
+  language={language}
+>
+  <!-- Simplified Hero -->
+  <div class="hero">
+    {featuredImage && (
+      <div class="hero__image">
+        <img src={featuredImage} alt={title} loading="eager" />
+        <div class="hero__overlay"></div>
+      </div>
+    )}
+
+    <div class="hero__content">
+      <div class="container">
+        <nav class="breadcrumb" aria-label="Breadcrumb">
+          <a href="/">Home</a>
+          <span>/</span>
+          <a href="/destinations/">Destinations</a>
+          {region && (
+            <>
+              <span>/</span>
+              <span>{region}</span>
+            </>
+          )}
+        </nav>
+
+        <h1 class="hero__title">{title}</h1>
+
+        {description && (
+          <p class="hero__description">{description}</p>
+        )}
+      </div>
+    </div>
+  </div>
+
+  <!-- Content -->
+  <article class="article">
+    <div class="container">
+      <div class="layout">
+
+        <!-- Main Column -->
+        <div class="content">
+
+          <!-- Highlights -->
+          {highlights && highlights.length > 0 && (
+            <section class="highlights">
+              <h2 class="highlights__title">Highlights</h2>
+              <ul class="highlights__list">
+                {highlights.map((highlight) => (
+                  <li>{highlight}</li>
+                ))}
+              </ul>
+            </section>
+          )}
+
+          <!-- Article Body -->
+          <div class="prose prose-lg max-w-none article-content">
+            <Content />
+          </div>
+
+          <!-- Gallery -->
+          {images && images.length > 0 && (
+            <section class="gallery">
+              <h2 class="gallery__title">Gallery</h2>
+              <div class="gallery__grid">
+                {images.map((img, index) => (
+                  <figure class="gallery__item">
+                    <img src={img} alt={`${title} ${index + 1}`} loading="lazy" />
+                  </figure>
+                ))}
+              </div>
+            </section>
+          )}
+
+        </div>
+
+        <!-- Sidebar -->
+        <aside class="sidebar">
+
+          <!-- Actions Card -->
+          <div class="card card--sticky">
+            <h3 class="card__title">Plan Your Visit</h3>
+            <div class="card__actions">
+              <a href="/accommodation/" class="btn btn--primary">
+                Find Accommodation
+              </a>
+              <a href="/activities/" class="btn btn--secondary">
+                Things to Do
+              </a>
+            </div>
+          </div>
+
+          <!-- Info Card -->
+          <div class="card">
+            <h3 class="card__title">Quick Facts</h3>
+            <dl class="info-list">
+              {region && (
+                <>
+                  <dt>Region</dt>
+                  <dd>{region}</dd>
+                </>
+              )}
+              <dt>Country</dt>
+              <dd>Albania 🇦🇱</dd>
+              <dt>Language</dt>
+              <dd>Albanian, English</dd>
+              <dt>Currency</dt>
+              <dd>Albanian Lek (ALL)</dd>
+            </dl>
+          </div>
+
+          <!-- Navigation Card -->
+          <div class="card">
+            <h3 class="card__title">Explore More</h3>
+            <nav class="nav-links">
+              <a href="/destinations/">← All Destinations</a>
+              <a href="/attractions/">Top Attractions</a>
+              <a href="/activities/">Activities & Tours</a>
+            </nav>
+          </div>
+
+        </aside>
+
+      </div>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  /* === Variables === */
+  :root {
+    --container-max: 1200px;
+    --container-padding: 1.5rem;
+    --space-xs: 0.5rem;
+    --space-sm: 1rem;
+    --space-md: 1.5rem;
+    --space-lg: 2rem;
+    --space-xl: 3rem;
+    --space-2xl: 4rem;
+    --radius: 0.5rem;
+    --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+    --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+  }
+
+  /* === Container === */
+  .container {
+    max-width: var(--container-max);
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: var(--container-padding);
+    padding-right: var(--container-padding);
+  }
+
+  /* === Hero === */
+  .hero {
+    position: relative;
+    min-height: 50vh;
+    display: flex;
+    align-items: flex-end;
+    overflow: hidden;
+  }
+
+  .hero__image {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+  }
+
+  .hero__image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .hero__overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to bottom, transparent 0%, rgba(0,0,0,0.7) 100%);
+  }
+
+  .hero__content {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    padding: var(--space-xl) 0;
+    color: white;
+  }
+
+  .breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+    font-size: 0.875rem;
+    margin-bottom: var(--space-md);
+    opacity: 0.9;
+  }
+
+  .breadcrumb a {
+    text-decoration: none;
+    transition: opacity 0.2s;
+  }
+
+  .breadcrumb a:hover {
+    opacity: 1;
+    text-decoration: underline;
+  }
+
+  .breadcrumb span {
+    opacity: 0.6;
+  }
+
+  .hero__title {
+    font-size: clamp(2rem, 5vw, 4rem);
+    font-weight: 700;
+    line-height: 1.1;
+    margin-bottom: var(--space-md);
+    text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+  }
+
+  .hero__description {
+    font-size: clamp(1rem, 2vw, 1.25rem);
+    line-height: 1.6;
+    max-width: 42rem;
+    opacity: 0.95;
+  }
+
+  /* === Layout === */
+  .article {
+    padding: var(--space-2xl) 0;
+  }
+
+  .layout {
+    display: grid;
+    gap: var(--space-xl);
+  }
+
+  @media (min-width: 1024px) {
+    .layout {
+      grid-template-columns: 1fr 320px;
+    }
+  }
+
+  /* === Content === */
+  .content {
+    min-width: 0;
+  }
+
+  /* === Highlights === */
+  .highlights {
+    margin-bottom: var(--space-xl);
+    padding: var(--space-lg);
+    background: hsl(var(--muted));
+    border-radius: var(--radius);
+    border: 1px solid hsl(var(--border));
+  }
+
+  .highlights__title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: var(--space-md);
+  }
+
+  .highlights__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: var(--space-sm);
+  }
+
+  @media (min-width: 768px) {
+    .highlights__list {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  .highlights__list li {
+    display: flex;
+    align-items: flex-start;
+    gap: var(--space-sm);
+    line-height: 1.6;
+  }
+
+  .highlights__list li::before {
+    content: '✓';
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.25rem;
+    height: 1.25rem;
+    background: hsl(var(--primary));
+    color: white;
+    border-radius: 50%;
+    font-size: 0.75rem;
+    font-weight: 700;
+    margin-top: 0.125rem;
+  }
+
+  /* === Article Content (Prose) === */
+  .article-content :global(h2) {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-top: var(--space-2xl);
+    margin-bottom: var(--space-md);
+    border-left: 4px solid hsl(var(--primary));
+    padding-left: var(--space-md);
+  }
+
+  .article-content :global(h3) {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-top: var(--space-xl);
+    margin-bottom: var(--space-md);
+  }
+
+  .article-content :global(h4) {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-top: var(--space-lg);
+    margin-bottom: var(--space-sm);
+  }
+
+  .article-content :global(p) {
+    line-height: 1.75;
+    margin-bottom: var(--space-md);
+    font-size: 1.0625rem;
+  }
+
+  .article-content :global(a) {
+    color: hsl(var(--primary));
+    text-decoration: underline;
+    transition: opacity 0.2s;
+  }
+
+  .article-content :global(a:hover) {
+    opacity: 0.8;
+  }
+
+  .article-content :global(img) {
+    width: 100%;
+    height: auto;
+    border-radius: var(--radius);
+    margin: var(--space-xl) 0;
+  }
+
+  .article-content :global(ul),
+  .article-content :global(ol) {
+    margin: var(--space-md) 0;
+    padding-left: var(--space-lg);
+  }
+
+  .article-content :global(li) {
+    margin-bottom: var(--space-xs);
+    line-height: 1.75;
+  }
+
+  .article-content :global(blockquote) {
+    border-left: 4px solid hsl(var(--primary));
+    padding-left: var(--space-lg);
+    padding-top: var(--space-md);
+    padding-bottom: var(--space-md);
+    margin: var(--space-xl) 0;
+    font-style: italic;
+    background: hsl(var(--muted) / 0.5);
+    border-radius: 0 var(--radius) var(--radius) 0;
+  }
+
+  .article-content :global(strong) {
+    font-weight: 600;
+  }
+
+  .article-content :global(em) {
+    font-style: italic;
+  }
+
+  .article-content :global(code) {
+    background: hsl(var(--muted));
+    padding: 0.125rem 0.375rem;
+    border-radius: 0.25rem;
+    font-size: 0.875em;
+    font-family: monospace;
+  }
+
+  .article-content :global(pre) {
+    background: hsl(var(--muted));
+    padding: var(--space-md);
+    border-radius: var(--radius);
+    overflow-x: auto;
+    margin: var(--space-md) 0;
+  }
+
+  .article-content :global(pre code) {
+    background: none;
+    padding: 0;
+  }
+
+  /* === Gallery === */
+  .gallery {
+    margin-top: var(--space-2xl);
+  }
+
+  .gallery__title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: var(--space-lg);
+  }
+
+  .gallery__grid {
+    display: grid;
+    gap: var(--space-md);
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  }
+
+  .gallery__item {
+    margin: 0;
+    border-radius: var(--radius);
+    overflow: hidden;
+    aspect-ratio: 4 / 3;
+    transition: transform 0.2s;
+  }
+
+  .gallery__item:hover {
+    transform: scale(1.02);
+  }
+
+  .gallery__item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  /* === Sidebar === */
+  .sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-lg);
+  }
+
+  @media (max-width: 1023px) {
+    .sidebar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    }
+  }
+
+  /* === Card === */
+  .card {
+    background: hsl(var(--card));
+    border: 1px solid hsl(var(--border));
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: var(--shadow-sm);
+  }
+
+  .card--sticky {
+    position: sticky;
+    top: calc(var(--space-lg) + var(--space-md));
+  }
+
+  @media (max-width: 1023px) {
+    .card--sticky {
+      position: static;
+    }
+  }
+
+  .card__title {
+    font-size: 1.125rem;
+    font-weight: 600;
+    padding: var(--space-md);
+    border-bottom: 1px solid hsl(var(--border));
+    background: hsl(var(--muted) / 0.3);
+  }
+
+  .card__actions {
+    padding: var(--space-md);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+  }
+
+  /* === Buttons === */
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.75rem 1.5rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    border-radius: var(--radius);
+    text-decoration: none;
+    transition: all 0.2s;
+    border: 2px solid transparent;
+  }
+
+  .btn--primary {
+    background: hsl(var(--primary));
+    color: hsl(var(--primary-foreground));
+  }
+
+  .btn--primary:hover {
+    opacity: 0.9;
+  }
+
+  .btn--secondary {
+    background: transparent;
+    border-color: hsl(var(--primary));
+    color: hsl(var(--primary));
+  }
+
+  .btn--secondary:hover {
+    background: hsl(var(--primary));
+    color: hsl(var(--primary-foreground));
+  }
+
+  /* === Info List === */
+  .info-list {
+    padding: var(--space-md);
+    display: grid;
+    gap: var(--space-md);
+    font-size: 0.875rem;
+  }
+
+  .info-list dt {
+    font-weight: 600;
+    color: hsl(var(--foreground));
+  }
+
+  .info-list dd {
+    margin: 0;
+    margin-top: var(--space-xs);
+    color: hsl(var(--muted-foreground));
+  }
+
+  /* === Nav Links === */
+  .nav-links {
+    padding: var(--space-md);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+  }
+
+  .nav-links a {
+    color: hsl(var(--primary));
+    text-decoration: none;
+    font-size: 0.875rem;
+    font-weight: 500;
+    transition: opacity 0.2s;
+  }
+
+  .nav-links a:hover {
+    opacity: 0.8;
+    text-decoration: underline;
+  }
+
+  /* === Responsive === */
+  @media (max-width: 768px) {
+    :root {
+      --container-padding: 1rem;
+      --space-xl: 2rem;
+      --space-2xl: 3rem;
+    }
+
+    .hero {
+      min-height: 40vh;
+    }
+
+    .gallery__grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

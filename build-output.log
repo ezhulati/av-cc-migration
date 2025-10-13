@@ -1,0 +1,107 @@
+
+> av-cc-migration@1.0.0 build
+> astro check && astro build
+
+
+Auto-generating collections for folders in "src/content/" that are not defined as collections.
+This is deprecated, so you should define these collections yourself in "src/content.config.ts".
+The following collections have been auto-generated: activities, attractions, destinations, tours
+
+02:36:37 [content] Syncing content
+02:36:37 [WARN] [glob-loader] No files found matching "**/*.md,!**/_*/**/*.md,!**/_*.md" in directory "src/content/activities"
+02:36:37 [WARN] [glob-loader] No files found matching "**/*.md,!**/_*/**/*.md,!**/_*.md" in directory "src/content/attractions"
+02:36:37 [WARN] [glob-loader] No files found matching "**/*.md,!**/_*/**/*.md,!**/_*.md" in directory "src/content/destinations"
+02:36:37 [WARN] [glob-loader] No files found matching "**/*.md,!**/_*/**/*.md,!**/_*.md" in directory "src/content/tours"
+02:36:38 [content] Synced content
+02:36:38 [types] Generated 789ms
+02:36:38 [check] Getting diagnostics for Astro files in /Users/ez/Desktop/AI Library/Apps/AV-CC...
+[96mscripts/download-images.js[0m:[93m99[0m:[93m10[0m - [93mwarning[0m[90m ts(6133): [0m'extractInlineImages' is declared but its value is never read.
+
+[7m99[0m function extractInlineImages(content) {
+[7m  [0m [93m         ~~~~~~~~~~~~~~~~~~~[0m
+
+[96mscripts/fix-malformed-quotes.js[0m:[93m55[0m:[93m15[0m - [93mwarning[0m[90m ts(6133): [0m'fullDescription' is declared but its value is never read.
+
+[7m55[0m         const fullDescription = malformedMatch[1] + malformedMatch[2];
+[7m  [0m [93m              ~~~~~~~~~~~~~~~[0m
+
+[96mscripts/fix-yaml.js[0m:[93m63[0m:[93m90[0m - [93mwarning[0m[90m ts(6133): [0m'match' is declared but its value is never read.
+
+[7m63[0m       frontmatter = frontmatter.replace(/description:\s*\|-?\n([\s\S]*?)(?=\n\w+:|$)/g, (match, desc) => {
+[7m  [0m [93m                                                                                         ~~~~~[0m
+
+[96mscripts/generate-markdown.js[0m:[93m171[0m:[93m9[0m - [93mwarning[0m[90m ts(6133): [0m'lang' is declared but its value is never read.
+
+[7m171[0m   const lang = getLanguageCode(item);
+[7m   [0m [93m        ~~~~[0m
+
+[96msrc/components/SEO.astro[0m:[93m125[0m:[93m11[0m - [93mwarning[0m[90m astro(4000): [0mThis script will be treated as if it has the `is:inline` directive because it contains an attribute. Therefore, features that require processing (e.g. using TypeScript or npm packages in the script) are unavailable.
+
+See docs for more details: https://docs.astro.build/en/guides/client-side-scripts/#script-processing.
+
+Add the `is:inline` directive explicitly to silence this hint.
+
+[7m125[0m   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+[7m   [0m [93m          ~~~~[0m
+[96msrc/components/SEO.astro[0m:[93m123[0m:[93m9[0m - [93mwarning[0m[90m astro(4000): [0mThis script will be treated as if it has the `is:inline` directive because it contains an attribute. Therefore, features that require processing (e.g. using TypeScript or npm packages in the script) are unavailable.
+
+See docs for more details: https://docs.astro.build/en/guides/client-side-scripts/#script-processing.
+
+Add the `is:inline` directive explicitly to silence this hint.
+
+[7m123[0m <script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
+[7m   [0m [93m        ~~~~[0m
+
+[96msrc/content/config.ts[0m:[93m100[0m:[93m7[0m - [93mwarning[0m[90m ts(6133): [0m'toursCollection' is declared but its value is never read.
+
+[7m100[0m const toursCollection = defineCollection({
+[7m   [0m [93m      ~~~~~~~~~~~~~~~[0m
+[96msrc/content/config.ts[0m:[93m86[0m:[93m7[0m - [93mwarning[0m[90m ts(6133): [0m'attractionsCollection' is declared but its value is never read.
+
+[7m86[0m const attractionsCollection = defineCollection({
+[7m  [0m [93m      ~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/content/config.ts[0m:[93m74[0m:[93m7[0m - [93mwarning[0m[90m ts(6133): [0m'activitiesCollection' is declared but its value is never read.
+
+[7m74[0m const activitiesCollection = defineCollection({
+[7m  [0m [93m      ~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/content/config.ts[0m:[93m56[0m:[93m7[0m - [93mwarning[0m[90m ts(6133): [0m'destinationsCollection' is declared but its value is never read.
+
+[7m56[0m const destinationsCollection = defineCollection({
+[7m  [0m [93m      ~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96msrc/pages/[slug].astro[0m:[93m39[0m:[93m19[0m - [91merror[0m[90m ts(2322): [0mType '{ id: string; render(): Promise<RenderResult>; slug: string; body: string; collection: "posts"; data: { title: string; pubDate: Date; description: string; tags: string[]; ... 8 more ...; alternateURL?: string | undefined; }; rendered?: RenderedContent | undefined; filePath?: string | undefined; } | { ...; }' is not assignable to type '{ id: string; render(): Promise<RenderResult>; slug: string; body: string; collection: "posts"; data: { title: string; pubDate: Date; description: string; tags: string[]; ... 8 more ...; alternateURL?: string | undefined; }; rendered?: RenderedContent | undefined; filePath?: string | undefined; }'.
+  Type '{ id: string; render(): Promise<RenderResult>; slug: string; body: string; collection: "pages"; data: { title: string; description: string; seo?: any; slug?: string | undefined; featuredImage?: string | undefined; language?: "en" | ... 1 more ... | undefined; }; rendered?: RenderedContent | undefined; filePath?: str...' is not assignable to type '{ id: string; render(): Promise<RenderResult>; slug: string; body: string; collection: "posts"; data: { title: string; pubDate: Date; description: string; tags: string[]; ... 8 more ...; alternateURL?: string | undefined; }; rendered?: RenderedContent | undefined; filePath?: string | undefined; }'.
+
+[7m39[0m   <BlogPostLayout post={content} />
+[7m  [0m [91m                  ~~~~[0m
+
+[96msrc/pages/accommodation/index.astro[0m:[93m94[0m:[93m9[0m - [91merror[0m[90m ts(18047): [0m'resultCount' is possibly 'null'.
+
+[7m94[0m         resultCount.textContent = '';
+[7m  [0m [91m        ~~~~~~~~~~~[0m
+[96msrc/pages/accommodation/index.astro[0m:[93m92[0m:[93m9[0m - [91merror[0m[90m ts(18047): [0m'resultCount' is possibly 'null'.
+
+[7m92[0m         resultCount.textContent = `Showing ${visibleCount} of ${totalCount} accommodations`;
+[7m  [0m [91m        ~~~~~~~~~~~[0m
+[96msrc/pages/accommodation/index.astro[0m:[93m87[0m:[93m16[0m - [91merror[0m[90m ts(2339): [0mProperty 'style' does not exist on type 'Element'.
+
+[7m87[0m           card.style.display = 'none';
+[7m  [0m [91m               ~~~~~[0m
+[96msrc/pages/accommodation/index.astro[0m:[93m84[0m:[93m16[0m - [91merror[0m[90m ts(2339): [0mProperty 'style' does not exist on type 'Element'.
+
+[7m84[0m           card.style.display = 'block';
+[7m  [0m [91m               ~~~~~[0m
+[96msrc/pages/accommodation/index.astro[0m:[93m78[0m:[93m35[0m - [91merror[0m[90m ts(2339): [0mProperty 'value' does not exist on type 'EventTarget'.
+
+[7m78[0m       const searchTerm = e.target.value.toLowerCase();
+[7m  [0m [91m                                  ~~~~~[0m
+[96msrc/pages/accommodation/index.astro[0m:[93m78[0m:[93m26[0m - [91merror[0m[90m ts(18047): [0m'e.target' is possibly 'null'.
+
+[7m78[0m       const searchTerm = e.target.value.toLowerCase();
+[7m  [0m [91m                         ~~~~~~~~[0m
+
+Result (39 files): 
+- 7 errors
+- 0 warnings
+- 10 hints
+

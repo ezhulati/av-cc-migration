@@ -1,0 +1,30 @@
+---
+title: Marjana's Sea View Apartment 1
+description: This apartment distinguishes itself with its commitment to providing a smoke-free environment, ensuring a clean and healthy stay for all guests. The inclusion o
+featuredImage: "/images/accommodation/463794481.jpg"
+language: en
+slug: marjanas-sea-view-apartment-1
+location: ""
+amenities: []
+images: []
+---
+
+This apartment distinguishes itself with its commitment to providing a smoke-free environment, ensuring a clean and healthy stay for all guests. The inclusion of a balcony offers breathtaking sea views, allowing guests to soak in the coastal ambiance from the comfort of their accommodation. The convenience of free WiFi and air conditioning adds to the comfort, ensuring a stay that is both connected and comfortable.
+
+Designed with the modern traveler in mind, the apartment boasts a bedroom equipped with a flat-screen TV and a fully equipped kitchenette, catering to the needs of those who prefer the flexibility of preparing their own meals. The presence of an in-house bar and a nearby minimarket offers additional convenience, providing options for relaxation and essentials without the need to venture far.
+
+Families visiting Marjana's Sea View Apartment 1 will find the outdoor play equipment an excellent addition, allowing children to enjoy their holiday to the fullest.
+
+Located just 48 km from Tirana International Mother Teresa Airport, the apartment ensures ease of access for international travelers, making it an attractive option for those seeking a blend of beachfront bliss and cultural exploration in Albania.
+
+#### Was this helpful?
+
+✅ YES ❌ NO
+
+Good job! Please give your positive feedback
+
+How could we improve this post? Please Help us.
+
+Submit
+
+.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

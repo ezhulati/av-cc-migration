@@ -1,0 +1,62 @@
+---
+/**
+ * Card Component
+ * Container for content with shadow and hover effects
+ */
+interface Props {
+  variant?: 'default' | 'bordered' | 'elevated';
+  padding?: 'none' | 'sm' | 'md' | 'lg';
+  hoverable?: boolean;
+  href?: string;
+  class?: string;
+}
+
+const {
+  variant = 'default',
+  padding = 'md',
+  hoverable = false,
+  href,
+  class: className = ''
+} = Astro.props;
+
+const Tag = href ? 'a' : 'article';
+
+const variantClasses = {
+  default: 'bg-white border border-gray-200',
+  bordered: 'bg-white border-2 border-gray-300',
+  elevated: 'bg-white shadow-md'
+};
+
+const paddingClasses = {
+  none: 'p-0',
+  sm: 'p-4',
+  md: 'p-6',
+  lg: 'p-8'
+};
+---
+
+<Tag
+  href={href}
+  class={`card ${variantClasses[variant]} ${paddingClasses[padding]} ${hoverable ? 'card-hoverable' : ''} ${className}`}
+>
+  <slot />
+</Tag>
+
+<style>
+  .card {
+    border-radius: 12px;
+    transition: all 0.3s ease;
+    display: block;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .card-hoverable:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.12);
+  }
+
+  a.card {
+    cursor: pointer;
+  }
+</style>

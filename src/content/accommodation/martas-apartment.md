@@ -1,0 +1,26 @@
+---
+title: Marta's apartment
+description: The apartment itself is a spacious retreat featuring a bedroom, a bathroom equipped with a bidet, and comes complete with bed linen and towels for guest conveni
+featuredImage: "/images/accommodation/407213726.jpg"
+language: en
+slug: martas-apartment
+location: ""
+amenities: []
+images: []
+---
+
+The apartment itself is a spacious retreat featuring a bedroom, a bathroom equipped with a bidet, and comes complete with bed linen and towels for guest convenience. Entertainment and dining needs are well catered for with a flat-screen TV offering cable channels and a dining area adjacent to a fully equipped kitchen. Perhaps the most captivating feature is the balcony, presenting breathtaking mountain views, perfect for those serene morning coffees or tranquil evening reflections. Additionally, the apartment benefits from soundproofing, ensuring a peaceful stay amidst the vibrant city life.
+
+For those needing essentials or a quick snack, a minimarket on the property provides utmost convenience. Marta's Apartment is also ideally positioned for guests eager to explore Tirana's cultural scene, with the Toptani Shopping Centre, National Gallery of Arts Tirana, and Clock Tower Tirana all within easy reach. For travelers, the Tirana International Mother Teresa Airport is conveniently 16 km away, making Marta's Apartment an excellent choice for both short and extended stays in Albania's bustling capital.
+
+#### Was this helpful?
+
+✅ YES ❌ NO
+
+Good job! Please give your positive feedback
+
+How could we improve this post? Please Help us.
+
+Submit
+
+.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

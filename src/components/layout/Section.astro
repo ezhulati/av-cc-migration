@@ -1,0 +1,47 @@
+---
+/**
+ * Section Component
+ * Full-width section with background and consistent spacing
+ */
+interface Props {
+  background?: 'white' | 'light' | 'dark' | 'primary' | 'gradient';
+  padding?: 'none' | 'sm' | 'md' | 'lg' | 'xl';
+  class?: string;
+}
+
+const { background = 'white', padding = 'lg', class: className = '' } = Astro.props;
+
+const bgClasses = {
+  white: 'bg-white text-gray-900',
+  light: 'bg-gray-50 text-gray-900',
+  dark: 'bg-gray-900 text-white',
+  primary: 'bg-crimson text-white',
+  gradient: 'bg-gradient-to-br from-crimson to-crimson-dark text-white'
+};
+
+const paddingClasses = {
+  none: 'py-0',
+  sm: 'py-8',
+  md: 'py-12',
+  lg: 'py-16',
+  xl: 'py-24'
+};
+---
+
+<section class={`section ${bgClasses[background]} ${paddingClasses[padding]} ${className}`}>
+  <slot />
+</section>
+
+<style>
+  .section {
+    width: 100%;
+  }
+
+  .bg-crimson {
+    background-color: var(--color-primary);
+  }
+
+  .bg-gradient-to-br {
+    background: linear-gradient(135deg, var(--color-primary) 0%, #8b0000 100%);
+  }
+</style>

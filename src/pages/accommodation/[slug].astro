@@ -1,0 +1,24 @@
+---
+/**
+ * Individual Accommodation Page
+ * Displays details for a specific accommodation
+ */
+
+import { getCollection } from 'astro:content';
+import AccommodationLayout from '../../layouts/AccommodationLayout.astro';
+
+export async function getStaticPaths() {
+  const accommodations = await getCollection('accommodation', ({ data }) => {
+    return data.language === 'en';
+  });
+
+  return accommodations.map(accommodation => ({
+    params: { slug: accommodation.data.slug || accommodation.slug },
+    props: { accommodation },
+  }));
+}
+
+const { accommodation } = Astro.props;
+---
+
+<AccommodationLayout accommodation={accommodation} />

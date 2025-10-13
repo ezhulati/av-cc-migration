@@ -1,0 +1,158 @@
+---
+/**
+ * Page Layout
+ * Used for static pages (about, contact, etc.)
+ */
+
+import BaseLayout from './BaseLayout.astro';
+
+const { page } = Astro.props;
+const { Content } = await page.render();
+
+const { language = 'en' } = page.data;
+---
+
+<BaseLayout
+  title={page.data.seo?.metaTitle || page.data.title}
+  description={page.data.seo?.metaDescription || page.data.description}
+  canonical={page.data.seo?.canonicalURL}
+  language={language}
+>
+  <article class="section">
+    <div class="container-custom max-w-7xl">
+      <!-- Breadcrumbs -->
+      <nav class="mb-8 text-sm" aria-label="Breadcrumb">
+        <ol class="flex flex-wrap gap-2 list-none">
+          <li class="flex items-center">
+            <a href={language === 'sq' ? '/sq/' : '/'} class="text-primary hover:underline">
+              {language === 'sq' ? 'Ballina' : 'Home'}
+            </a>
+            <span class="mx-2 text-muted-foreground">›</span>
+          </li>
+          <li class="text-muted-foreground" aria-current="page">{page.data.title}</li>
+        </ol>
+      </nav>
+
+      <!-- Featured Image -->
+      {page.data.featuredImage && (
+        <div class="mb-12 rounded-lg overflow-hidden">
+          <img
+            src={page.data.featuredImage}
+            alt={page.data.title}
+            class="w-full h-auto max-h-[400px] object-cover"
+            loading="eager"
+          />
+        </div>
+      )}
+
+      <!-- Page Header -->
+      <header class="mb-12 max-w-3xl">
+        <h1 class="text-4xl md:text-5xl font-bold tracking-tight mb-4">{page.data.title}</h1>
+        {page.data.description && (
+          <p class="lead">{page.data.description}</p>
+        )}
+        <div class="h-1 w-20 bg-primary rounded-full mt-6"></div>
+      </header>
+
+      <!-- Page Content -->
+      <div class="page-content max-w-3xl">
+        <Content />
+      </div>
+
+      <!-- Footer Navigation -->
+      <footer class="mt-16 pt-8 border-t border-border max-w-3xl">
+        <a href={language === 'sq' ? '/sq/' : '/'} class="btn-ghost inline-flex items-center gap-2">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+          </svg>
+          {language === 'sq' ? 'Kthehu në Ballina' : 'Back to Home'}
+        </a>
+      </footer>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  /* Page Content Styling */
+  .page-content :global(h2) {
+    @apply text-3xl font-semibold tracking-tight mt-12 mb-6;
+    @apply border-l-4 border-primary pl-4;
+  }
+
+  .page-content :global(h3) {
+    @apply text-2xl font-semibold tracking-tight mt-8 mb-4;
+  }
+
+  .page-content :global(h4) {
+    @apply text-xl font-semibold tracking-tight mt-6 mb-3;
+  }
+
+  .page-content :global(p) {
+    @apply mb-6 leading-7 text-base;
+  }
+
+  .page-content :global(a) {
+    @apply text-primary underline hover:no-underline transition-all;
+  }
+
+  .page-content :global(ul),
+  .page-content :global(ol) {
+    @apply my-6 pl-8;
+  }
+
+  .page-content :global(li) {
+    @apply mb-2 leading-7;
+  }
+
+  .page-content :global(ul li) {
+    @apply list-disc;
+  }
+
+  .page-content :global(ol li) {
+    @apply list-decimal;
+  }
+
+  .page-content :global(img) {
+    @apply w-full h-auto rounded-lg my-8 shadow-lg;
+  }
+
+  .page-content :global(blockquote) {
+    @apply border-l-4 border-primary pl-6 my-8 italic text-muted-foreground;
+  }
+
+  .page-content :global(code) {
+    @apply bg-muted px-2 py-1 rounded text-sm font-mono;
+  }
+
+  .page-content :global(pre) {
+    @apply bg-muted p-6 rounded-lg overflow-x-auto my-8;
+  }
+
+  .page-content :global(pre code) {
+    @apply bg-transparent p-0;
+  }
+
+  .page-content :global(table) {
+    @apply w-full my-8 border-collapse;
+  }
+
+  .page-content :global(th) {
+    @apply bg-muted px-4 py-3 text-left font-semibold border border-border;
+  }
+
+  .page-content :global(td) {
+    @apply px-4 py-3 border border-border;
+  }
+
+  .page-content :global(hr) {
+    @apply my-12 border-border;
+  }
+
+  .page-content :global(strong) {
+    @apply font-semibold;
+  }
+
+  .page-content :global(em) {
+    @apply italic;
+  }
+</style>

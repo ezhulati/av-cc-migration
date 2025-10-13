@@ -1,0 +1,28 @@
+---
+title: Star Room's
+description: Each room at Star Room's is thoughtfully designed with guest comfort in mind, featuring a private balcony for enjoying the gentle Mediterranean breeze. The room
+featuredImage: "/images/accommodation/466264429.jpg"
+language: en
+slug: star-rooms
+location: ""
+amenities: []
+images: []
+---
+
+Each room at Star Room's is thoughtfully designed with guest comfort in mind, featuring a private balcony for enjoying the gentle Mediterranean breeze. The rooms are equipped with modern amenities including air conditioning for those warm summer days, a flat-screen TV for entertainment, and a private bathroom complete with a bath. For added convenience, a fridge is provided in every unit, making it easy for guests to store refreshments and snacks.
+
+Located just 3.6 km away from the historic Independence Square and a bit further from the iconic Kuzum Baba, Star Room's offers an ideal base for exploring the rich cultural tapestry of Vlorë. For guests looking to venture further, Tirana International Mother Teresa Airport is 151 km away, making it a manageable journey for international travelers.
+
+Star Room's stands as a testament to the blend of convenience, comfort, and accessibility, making it a preferred choice for families and solo travelers alike seeking a memorable stay in Vlorë.
+
+#### Was this helpful?
+
+✅ YES ❌ NO
+
+Good job! Please give your positive feedback
+
+How could we improve this post? Please Help us.
+
+Submit
+
+.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

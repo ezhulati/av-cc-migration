@@ -1,0 +1,306 @@
+---
+/**
+ * Attraction Page
+ * Dynamic routing for individual attraction pages
+ */
+
+import { getCollection } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const attractions = await getCollection('attractions', ({ data }) => {
+    return !data.language || data.language === 'en';
+  });
+
+  return attractions.map(attraction => ({
+    params: { slug: attraction.slug },
+    props: { attraction },
+  }));
+}
+
+interface Props {
+  attraction: CollectionEntry<'attractions'>;
+}
+
+const { attraction } = Astro.props;
+const { Content } = await attraction.render();
+
+const {
+  title,
+  description,
+  type,
+  location,
+  featuredImage,
+  images,
+  language,
+} = attraction.data;
+
+const slug = attraction.slug;
+---
+
+<BaseLayout
+  title={`${title} - Attractions in Albania`}
+  description={description}
+  canonical={`https://albaniavisit.com/attractions/${slug}/`}
+  image={featuredImage}
+  type="article"
+  language={language}
+>
+  <article class="attraction">
+    <div class="container-custom max-w-7xl">
+      <!-- Breadcrumbs -->
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <ol>
+          <li><a href="/">Home</a></li>
+          <li><a href="/attractions/">Attractions</a></li>
+          {type && <li>{type}</li>}
+          <li aria-current="page">{title}</li>
+        </ol>
+      </nav>
+
+      <!-- Featured Image -->
+      {featuredImage && (
+        <div class="featured-image mb-12">
+          <img
+            src={featuredImage}
+            alt={title}
+            loading="eager"
+          />
+        </div>
+      )}
+
+      <!-- Header -->
+      <header class="attraction-header mb-12">
+        {type && <span class="type-badge">{type}</span>}
+        <h1 class="attraction-title">{title}</h1>
+
+        {location && (
+          <div class="attraction-meta">
+            <span class="meta-item">
+              📍 {location}
+            </span>
+          </div>
+        )}
+
+        {description && (
+          <p class="lead">{description}</p>
+        )}
+      </header>
+
+      <!-- Two Column Layout: Content + Sidebar -->
+      <div class="attraction-layout">
+        <!-- Main Content -->
+        <div class="attraction-main">
+          <div class="attraction-content">
+            <Content />
+          </div>
+
+          {images && images.length > 0 && (
+            <section class="gallery mt-12">
+              <h2 class="text-2xl font-semibold mb-6">Gallery</h2>
+              <div class="gallery-grid">
+                {images.map((img) => (
+                  <div class="gallery-item">
+                    <img src={img} alt={title} loading="lazy" />
+                  </div>
+                ))}
+              </div>
+            </section>
+          )}
+        </div>
+
+        <!-- Sidebar -->
+        <aside class="attraction-sidebar">
+          {type && (
+            <div class="sidebar-card">
+              <h3 class="sidebar-title">Type</h3>
+              <p>{type}</p>
+            </div>
+          )}
+
+          {location && (
+            <div class="sidebar-card">
+              <h3 class="sidebar-title">Location</h3>
+              <p>{location}</p>
+            </div>
+          )}
+
+          <div class="sidebar-card">
+            <h3 class="sidebar-title">Plan Your Visit</h3>
+            <p class="text-sm text-muted-foreground mb-4">
+              Find accommodation near {title}
+            </p>
+            <a href="/accommodation/" class="btn-primary w-full text-center">
+              Find Accommodation
+            </a>
+          </div>
+
+          <div class="sidebar-card">
+            <h3 class="sidebar-title">Explore More</h3>
+            <div class="space-y-3">
+              <a href="/attractions/" class="block text-sm text-primary hover:text-primary/80">
+                ← All Attractions
+              </a>
+              <a href="/destinations/" class="block text-sm text-primary hover:text-primary/80">
+                Destinations
+              </a>
+              <a href="/activities/" class="block text-sm text-primary hover:text-primary/80">
+                Activities
+              </a>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .attraction {
+    @apply py-12 md:py-16 lg:py-20;
+  }
+
+  /* Breadcrumbs */
+  .breadcrumbs {
+    @apply mb-8 text-sm;
+  }
+
+  .breadcrumbs ol {
+    @apply flex flex-wrap gap-2 list-none;
+  }
+
+  .breadcrumbs li:not(:last-child)::after {
+    content: '›';
+    @apply ml-2 text-muted-foreground;
+  }
+
+  .breadcrumbs a {
+    @apply text-primary no-underline hover:underline;
+  }
+
+  /* Featured Image */
+  .featured-image {
+    @apply rounded-xl overflow-hidden shadow-xl;
+  }
+
+  .featured-image img {
+    @apply w-full h-auto max-h-[500px] object-cover;
+  }
+
+  /* Header */
+  .type-badge {
+    @apply inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-semibold transition-colors;
+    @apply border-transparent bg-primary text-primary-foreground hover:bg-primary/80 mb-4;
+  }
+
+  .attraction-title {
+    @apply text-4xl md:text-5xl font-bold tracking-tight mb-4 text-foreground;
+  }
+
+  .attraction-meta {
+    @apply flex flex-wrap gap-4 text-sm text-muted-foreground mb-6;
+  }
+
+  .meta-item {
+    @apply flex items-center gap-2 bg-muted px-4 py-2 rounded-lg;
+  }
+
+  /* Layout */
+  .attraction-layout {
+    @apply grid lg:grid-cols-[1fr_300px] gap-12;
+  }
+
+  .attraction-main {
+    @apply min-w-0;
+  }
+
+  /* Content */
+  .attraction-content :global(h2) {
+    @apply text-3xl font-semibold tracking-tight mt-12 mb-6 text-foreground;
+  }
+
+  .attraction-content :global(h3) {
+    @apply text-2xl font-semibold tracking-tight mt-8 mb-4 text-foreground;
+  }
+
+  .attraction-content :global(h4) {
+    @apply text-xl font-semibold tracking-tight mt-6 mb-3 text-foreground;
+  }
+
+  .attraction-content :global(p) {
+    @apply mb-6 leading-7 text-lg;
+  }
+
+  .attraction-content :global(a) {
+    @apply text-primary underline hover:no-underline transition-all;
+  }
+
+  .attraction-content :global(img) {
+    @apply w-full h-auto rounded-lg shadow-lg my-8;
+  }
+
+  .attraction-content :global(ul),
+  .attraction-content :global(ol) {
+    @apply mb-6 pl-8 space-y-2;
+  }
+
+  .attraction-content :global(ul li) {
+    @apply list-disc;
+  }
+
+  .attraction-content :global(ol li) {
+    @apply list-decimal;
+  }
+
+  .attraction-content :global(blockquote) {
+    @apply border-l-4 border-primary pl-6 my-8 italic text-muted-foreground bg-muted/30 py-4 rounded-r-lg;
+  }
+
+  /* Gallery */
+  .gallery-grid {
+    @apply grid grid-cols-2 md:grid-cols-3 gap-4;
+  }
+
+  .gallery-item {
+    @apply rounded-lg overflow-hidden aspect-[4/3] hover:opacity-80 transition-opacity cursor-pointer;
+  }
+
+  .gallery-item img {
+    @apply w-full h-full object-cover;
+  }
+
+  /* Sidebar */
+  .attraction-sidebar {
+    @apply space-y-6;
+  }
+
+  .sidebar-card {
+    @apply rounded-lg border bg-card text-card-foreground shadow-sm p-6;
+  }
+
+  .sidebar-title {
+    @apply text-lg font-semibold mb-4 text-foreground;
+  }
+
+  /* Responsive */
+  @media (max-width: 1024px) {
+    .attraction-layout {
+      @apply grid-cols-1;
+    }
+
+    .attraction-sidebar {
+      @apply order-first;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .attraction-title {
+      @apply text-3xl;
+    }
+
+    .attraction-content :global(p) {
+      @apply text-base;
+    }
+  }
+</style>

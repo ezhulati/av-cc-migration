@@ -1,0 +1,78 @@
+---
+/**
+ * Button Component
+ * Primary interactive element with multiple variants
+ */
+interface Props {
+  variant?: 'primary' | 'secondary' | 'outline' | 'ghost';
+  size?: 'sm' | 'md' | 'lg';
+  href?: string;
+  type?: 'button' | 'submit' | 'reset';
+  class?: string;
+}
+
+const {
+  variant = 'primary',
+  size = 'md',
+  href,
+  type = 'button',
+  class: className = ''
+} = Astro.props;
+
+const Tag = href ? 'a' : 'button';
+
+const baseClasses = 'btn inline-flex items-center justify-center font-semibold rounded-lg transition-all duration-200 no-underline';
+
+const variantClasses = {
+  primary: 'btn-primary bg-crimson text-white hover:bg-crimson-dark hover:shadow-lg',
+  secondary: 'btn-secondary bg-black text-white hover:bg-gray-800 hover:shadow-lg',
+  outline: 'btn-outline border-2 border-crimson text-crimson hover:bg-crimson hover:text-white',
+  ghost: 'btn-ghost text-crimson hover:bg-crimson/10'
+};
+
+const sizeClasses = {
+  sm: 'px-4 py-2 text-sm',
+  md: 'px-6 py-3 text-base',
+  lg: 'px-8 py-4 text-lg'
+};
+---
+
+<Tag
+  href={href}
+  type={!href ? type : undefined}
+  class={`${baseClasses} ${variantClasses[variant]} ${sizeClasses[size]} ${className}`}
+>
+  <slot />
+</Tag>
+
+<style>
+  .btn {
+    cursor: pointer;
+    text-decoration: none;
+    border: none;
+  }
+
+  .btn:hover {
+    transform: translateY(-1px);
+  }
+
+  .btn:active {
+    transform: translateY(0);
+  }
+
+  .bg-crimson {
+    background-color: var(--color-primary);
+  }
+
+  .bg-crimson-dark {
+    background-color: #8b0000;
+  }
+
+  .border-crimson {
+    border-color: var(--color-primary);
+  }
+
+  .text-crimson {
+    color: var(--color-primary);
+  }
+</style>

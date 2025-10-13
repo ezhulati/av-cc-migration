@@ -1,0 +1,26 @@
+---
+title: Giulia
+description: The accommodation boasts a generously sized layout, including a balcony that invites guests to relax and unwind. Inside, the apartment is equipped with two bedr
+featuredImage: "/images/accommodation/481484546.jpg"
+language: en
+slug: giulia
+location: ""
+amenities: []
+images: []
+---
+
+The accommodation boasts a generously sized layout, including a balcony that invites guests to relax and unwind. Inside, the apartment is equipped with two bedrooms, a cozy living room, and a kitchen that comes well-stocked for those who enjoy preparing their own meals. Entertainment needs are well catered to with the inclusion of a flat-screen TV, making it an ideal retreat for families or groups seeking a blend of home comfort and holiday convenience.
+
+Situated just 2.3 km away from the tranquil Ri Beach, Giulia also offers easy access to local landmarks such as Independence Square and Kuzum Baba, both located approximately 2.4 km from the property. For guests arriving by air, the Tirana International Mother Teresa Airport is 151 km away, making Giulia a well-positioned base for exploring the enchanting city of Vlorë and its surroundings.
+
+#### Was this helpful?
+
+✅ YES ❌ NO
+
+Good job! Please give your positive feedback
+
+How could we improve this post? Please Help us.
+
+Submit
+
+.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

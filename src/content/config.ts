@@ -7,19 +7,15 @@ const postsCollection = defineCollection({
     description: z.string(),
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
-    author: z.string(),
+    author: z.string().optional(),
     category: z.string().optional(),
     tags: z.array(z.string()).default([]),
     featuredImage: z.string().optional(),
-    language: z.enum(['en', 'sq']),
+    language: z.enum(['en', 'sq']).optional(),
     alternateLanguage: z.string().optional(),
     alternateURL: z.string().optional(),
-    slug: z.string(),
-    seo: z.object({
-      metaTitle: z.string().optional(),
-      metaDescription: z.string().optional(),
-      canonicalURL: z.string().optional(),
-    }).optional(),
+    slug: z.string().optional(), // Made optional as fallback
+    seo: z.any().optional(),
   }),
 });
 
@@ -29,13 +25,9 @@ const pagesCollection = defineCollection({
     title: z.string(),
     description: z.string(),
     featuredImage: z.string().optional(),
-    language: z.enum(['en', 'sq']),
-    slug: z.string(),
-    seo: z.object({
-      metaTitle: z.string().optional(),
-      metaDescription: z.string().optional(),
-      canonicalURL: z.string().optional(),
-    }).optional(),
+    language: z.enum(['en', 'sq']).optional(),
+    slug: z.string().optional(), // Made optional as fallback
+    seo: z.any().optional(),
   }),
 });
 
@@ -55,8 +47,8 @@ const accommodationCollection = defineCollection({
     featuredImage: z.string().optional(),
     rating: z.number().optional(),
     bookingURL: z.string().optional(),
-    language: z.enum(['en', 'sq']),
-    slug: z.string(),
+    language: z.enum(['en', 'sq']).optional(),
+    slug: z.string().optional(), // Made optional as fallback
     pubDate: z.coerce.date().optional(),
   }),
 });
@@ -73,8 +65,8 @@ const destinationsCollection = defineCollection({
       lat: z.number(),
       lng: z.number(),
     }).optional(),
-    language: z.enum(['en', 'sq']),
-    slug: z.string(),
+    language: z.enum(['en', 'sq']).optional(),
+    slug: z.string().optional(),
     highlights: z.array(z.string()).default([]),
   }),
 });
@@ -86,8 +78,8 @@ const activitiesCollection = defineCollection({
     description: z.string(),
     category: z.string().optional(),
     featuredImage: z.string().optional(),
-    language: z.enum(['en', 'sq']),
-    slug: z.string(),
+    language: z.enum(['en', 'sq']).optional(),
+    slug: z.string().optional(),
   }),
 });
 
@@ -100,8 +92,8 @@ const attractionsCollection = defineCollection({
     location: z.string().optional(),
     featuredImage: z.string().optional(),
     images: z.array(z.string()).default([]),
-    language: z.enum(['en', 'sq']),
-    slug: z.string(),
+    language: z.enum(['en', 'sq']).optional(),
+    slug: z.string().optional(),
   }),
 });
 

@@ -1,0 +1,45 @@
+---
+/**
+ * Pages Listing
+ * Shows all available pages
+ */
+
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const pages = await getCollection('pages', ({ data }) => {
+  return data.language === 'en';
+});
+
+// Sort by title
+pages.sort((a, b) => a.data.title.localeCompare(b.data.title));
+---
+
+<BaseLayout
+  title="All Pages - AlbaniaVisit.com"
+  description="Browse all pages on AlbaniaVisit.com"
+>
+  <div style="max-width: 1200px; margin: 0 auto; padding: 2rem;">
+    <h1>All Pages</h1>
+    <p>Browse all {pages.length} pages</p>
+
+    <div style="display: grid; gap: 1.5rem; margin-top: 2rem;">
+      {pages.map(page => (
+        <article style="border: 1px solid #ddd; padding: 1.5rem; border-radius: 8px;">
+          <h2 style="margin-top: 0;">
+            <a href={`/${page.data.slug || page.slug}/`} style="color: #dc143c; text-decoration: none;">
+              {page.data.title}
+            </a>
+          </h2>
+          <p style="color: #666; margin: 0.5rem 0;">
+            {page.data.description}
+          </p>
+        </article>
+      ))}
+    </div>
+
+    <div style="margin-top: 2rem;">
+      <a href="/" style="color: #dc143c;">← Back to Home</a>
+    </div>
+  </div>
+</BaseLayout>

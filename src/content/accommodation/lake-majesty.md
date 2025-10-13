@@ -1,0 +1,26 @@
+---
+title: Lake majesty
+description: Guests are welcomed into a space where comfort meets convenience. The holiday home boasts a terrace that opens up to sweeping garden views, inviting guests to u
+featuredImage: "/images/accommodation/473826776.jpg"
+language: en
+slug: lake-majesty
+location: ""
+amenities: []
+images: []
+---
+
+Guests are welcomed into a space where comfort meets convenience. The holiday home boasts a terrace that opens up to sweeping garden views, inviting guests to unwind in a peaceful setting. Inside, the residence is equipped with a flat-screen TV, a fully outfitted kitchen, and a well-appointed bathroom, ensuring a stay that blends relaxation with the comforts of home.
+
+For those looking to venture beyond, Podgorica Airport is located 69 km away, making Lake Majesty an accessible escape for both local and international travelers. This property stands as a testament to the beauty of Shkodër, offering a tranquil haven from which to explore the natural and historical wonders of the area.
+
+#### Was this helpful?
+
+✅ YES ❌ NO
+
+Good job! Please give your positive feedback
+
+How could we improve this post? Please Help us.
+
+Submit
+
+.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

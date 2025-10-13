@@ -1,0 +1,26 @@
+---
+title: Rooms Fatmiri
+description: This non-smoking villa promises a comfortable stay with its air-conditioned interiors that open up to a balcony offering serene garden views. It houses 2 cozy b
+featuredImage: "/images/accommodation/457667991.jpg"
+language: en
+slug: rooms-fatmiri
+location: ""
+amenities: []
+images: []
+---
+
+This non-smoking villa promises a comfortable stay with its air-conditioned interiors that open up to a balcony offering serene garden views. It houses 2 cozy bedrooms alongside a fully equipped kitchen, ensuring guests feel at home. Entertainment needs are met with the provision of a flat-screen TV, perfect for unwinding after a day of adventure.
+
+The villa's garden invites guests to relax and soak in the peaceful atmosphere, providing a perfect setting for a leisurely evening or a morning cup of coffee. For those traveling by air, Ioannina Airport is located 99 km away, making Rooms Fatmiri accessible for international and domestic travelers seeking a memorable stay in Sarandë.
+
+#### Was this helpful?
+
+✅ YES ❌ NO
+
+Good job! Please give your positive feedback
+
+How could we improve this post? Please Help us.
+
+Submit
+
+.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

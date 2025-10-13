@@ -1,0 +1,147 @@
+---
+/**
+ * Accommodation Listing
+ * Shows all 6,906 accommodation options with search
+ */
+
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const accommodations = await getCollection('accommodation', ({ data }) => {
+  return data.language === 'en';
+});
+
+// Sort by title
+accommodations.sort((a, b) => a.data.title.localeCompare(b.data.title));
+---
+
+<BaseLayout
+  title="Accommodation in Albania - AlbaniaVisit.com"
+  description="Browse over 6,900 accommodation options in Albania - hotels, apartments, guesthouses, and more"
+>
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-content">
+      <h1 class="hero-title">Accommodation in Albania</h1>
+      <p class="hero-description">
+        Browse {accommodations.length.toLocaleString()} hotels, apartments, guesthouses, and more across Albania's beautiful destinations
+      </p>
+    </div>
+  </section>
+
+  <!-- Stats Bar -->
+  <section class="stats-section">
+    <div class="stats-grid">
+      <div class="stat-item">
+        <div class="stat-value">{accommodations.length.toLocaleString()}</div>
+        <div class="stat-label">Total Accommodations</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-value">100+</div>
+        <div class="stat-label">Cities & Towns</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-value">24/7</div>
+        <div class="stat-label">Booking Support</div>
+      </div>
+    </div>
+  </section>
+
+  <div class="container-custom max-w-7xl section">
+    <!-- Search Bar -->
+    <div class="search-bar">
+      <input
+        type="text"
+        id="searchBox"
+        placeholder="🔍 Search accommodations by name, location, or type..."
+        class="search-input"
+      />
+      <p id="resultCount" class="mt-3 text-sm text-muted-foreground"></p>
+    </div>
+
+    <!-- Accommodation Grid -->
+    <div id="accommodationGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+      {accommodations.map(accommodation => (
+        <article class="accommodation-card card-hover" data-title={accommodation.data.title.toLowerCase()}>
+          {accommodation.data.featuredImage ? (
+            <a href={`/accommodation/${accommodation.data.slug || accommodation.slug}/`} class="block">
+              <div class="accommodation-card-image">
+                <img
+                  src={accommodation.data.featuredImage}
+                  alt={accommodation.data.title}
+                  class="w-full h-full object-cover"
+                  loading="lazy"
+                />
+              </div>
+            </a>
+          ) : (
+            <div class="accommodation-card-image bg-gradient-to-br from-primary/10 to-primary/5"></div>
+          )}
+
+          <div class="accommodation-card-body">
+            <h2 class="accommodation-card-title">
+              <a href={`/accommodation/${accommodation.data.slug || accommodation.slug}/`} class="text-foreground hover:text-primary transition-colors no-underline">
+                {accommodation.data.title}
+              </a>
+            </h2>
+
+            {accommodation.data.location && (
+              <p class="text-sm text-muted-foreground mb-3 flex items-center gap-2">
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
+                </svg>
+                {accommodation.data.location}
+              </p>
+            )}
+
+            <p class="accommodation-card-description">
+              {accommodation.data.description}
+            </p>
+
+            <div class="accommodation-card-footer">
+              <a href={`/accommodation/${accommodation.data.slug || accommodation.slug}/`} class="text-primary hover:text-primary/80 font-semibold text-sm inline-flex items-center gap-1 transition-colors">
+                View Details
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                </svg>
+              </a>
+            </div>
+          </div>
+        </article>
+      ))}
+    </div>
+  </div>
+
+  <script>
+    // Client-side search functionality
+    const searchBox = document.getElementById('searchBox') as HTMLInputElement;
+    const cards = document.querySelectorAll('.accommodation-card');
+    const resultCount = document.getElementById('resultCount') as HTMLElement;
+    const totalCount = cards.length;
+
+    searchBox?.addEventListener('input', (e) => {
+      const target = e.target as HTMLInputElement;
+      const searchTerm = target.value.toLowerCase();
+      let visibleCount = 0;
+
+      cards.forEach(card => {
+        const htmlCard = card as HTMLElement;
+        const title = htmlCard.getAttribute('data-title') || '';
+        if (title.includes(searchTerm)) {
+          htmlCard.style.display = 'block';
+          visibleCount++;
+        } else {
+          htmlCard.style.display = 'none';
+        }
+      });
+
+      if (searchTerm) {
+        resultCount.textContent = `Showing ${visibleCount} of ${totalCount} accommodations`;
+      } else {
+        resultCount.textContent = '';
+      }
+    });
+  </script>
+
+</BaseLayout>

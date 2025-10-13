@@ -1,0 +1,103 @@
+---
+/**
+ * Hero Component
+ * Large header section with title, description, and CTA
+ */
+interface Props {
+  title: string;
+  description?: string;
+  background?: 'gradient' | 'dark' | 'light';
+  size?: 'md' | 'lg' | 'xl';
+  class?: string;
+}
+
+const {
+  title,
+  description,
+  background = 'gradient',
+  size = 'lg',
+  class: className = ''
+} = Astro.props;
+
+const bgClasses = {
+  gradient: 'bg-gradient-to-br from-crimson to-crimson-dark text-white',
+  dark: 'bg-gray-900 text-white',
+  light: 'bg-gray-50 text-gray-900'
+};
+
+const sizeClasses = {
+  md: 'py-12',
+  lg: 'py-16 md:py-24',
+  xl: 'py-24 md:py-32'
+};
+
+const titleSizes = {
+  md: 'text-3xl md:text-4xl',
+  lg: 'text-4xl md:text-5xl lg:text-6xl',
+  xl: 'text-5xl md:text-6xl lg:text-7xl'
+};
+---
+
+<section class={`hero ${bgClasses[background]} ${sizeClasses[size]} ${className}`}>
+  <div class="hero-content">
+    <h1 class={`hero-title ${titleSizes[size]}`}>{title}</h1>
+    {description && (
+      <p class="hero-description">{description}</p>
+    )}
+    <div class="hero-actions">
+      <slot />
+    </div>
+  </div>
+</section>
+
+<style>
+  .hero {
+    width: 100%;
+    text-align: center;
+  }
+
+  .hero-content {
+    max-width: 56rem;
+    margin: 0 auto;
+    padding: 0 2rem;
+  }
+
+  .hero-title {
+    font-weight: 700;
+    line-height: 1.1;
+    margin-bottom: 1.5rem;
+    color: inherit;
+  }
+
+  .hero-description {
+    font-size: 1.125rem;
+    line-height: 1.7;
+    opacity: 0.9;
+    margin-bottom: 2rem;
+  }
+
+  .hero-actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .bg-gradient-to-br {
+    background: linear-gradient(135deg, var(--color-primary) 0%, #8b0000 100%);
+  }
+
+  .from-crimson {
+    --tw-gradient-from: var(--color-primary);
+  }
+
+  .to-crimson-dark {
+    --tw-gradient-to: #8b0000;
+  }
+
+  @media (min-width: 768px) {
+    .hero-description {
+      font-size: 1.25rem;
+    }
+  }
+</style>

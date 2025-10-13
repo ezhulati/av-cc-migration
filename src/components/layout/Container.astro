@@ -1,0 +1,38 @@
+---
+/**
+ * Container Component
+ * Provides consistent max-width and padding for content sections
+ */
+interface Props {
+  size?: 'sm' | 'md' | 'lg' | 'xl' | 'full';
+  padding?: 'none' | 'sm' | 'md' | 'lg';
+  class?: string;
+}
+
+const { size = 'lg', padding = 'md', class: className = '' } = Astro.props;
+
+const sizeClasses = {
+  sm: 'max-w-3xl',
+  md: 'max-w-4xl',
+  lg: 'max-w-6xl',
+  xl: 'max-w-7xl',
+  full: 'max-w-full'
+};
+
+const paddingClasses = {
+  none: 'px-0',
+  sm: 'px-4',
+  md: 'px-6 lg:px-8',
+  lg: 'px-8 lg:px-12'
+};
+---
+
+<div class={`container ${sizeClasses[size]} ${paddingClasses[padding]} mx-auto ${className}`}>
+  <slot />
+</div>
+
+<style>
+  .container {
+    width: 100%;
+  }
+</style>

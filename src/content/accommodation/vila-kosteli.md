@@ -1,0 +1,28 @@
+---
+title: Vila Kosteli
+description: The attention to detail in each guest room at Vila Kosteli is evident. From the essential wardrobe for personal belongings to the luxury of air conditioning for
+featuredImage: "/images/accommodation/108651521.jpg"
+language: en
+slug: vila-kosteli
+location: ""
+amenities: []
+images: []
+---
+
+The attention to detail in each guest room at Vila Kosteli is evident. From the essential wardrobe for personal belongings to the luxury of air conditioning for those warmer days, every aspect has been thoughtfully considered. The inclusion of a flat-screen TV and a private bathroom in all units ensures a stay that combines relaxation with entertainment. For guests seeking a little extra, selected rooms boast a seating area for added comfort, alongside a balcony that presents captivating city views, inviting guests to unwind in their private oasis.
+
+Situated a mere 400 meters from the serene Prinos Beach, Vila Kosteli offers an ideal base for beach enthusiasts. Moreover, the property's location ensures that the wonders of Himare are within easy reach, while the Ioannina Airport, located 143 km away, provides convenient access for international travelers.
+
+Vila Kosteli not only promises a memorable stay through its facilities and services but also positions itself as a gateway to exploring the enchanting surroundings of Himare, making it a top recommendation for those planning their next coastal getaway.
+
+#### Was this helpful?
+
+✅ YES ❌ NO
+
+Good job! Please give your positive feedback
+
+How could we improve this post? Please Help us.
+
+Submit
+
+.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

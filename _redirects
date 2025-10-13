@@ -1,0 +1,8 @@
+# Force HTTPS
+http://albaniavisit.com/* https://albaniavisit.com/:splat 301!
+
+# Redirect www to non-www
+https://www.albaniavisit.com/* https://albaniavisit.com/:splat 301!
+
+# 404 catch-all
+/* /404 404

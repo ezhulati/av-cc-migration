@@ -1,24 +1,42 @@
 ---
 /**
- * Dynamic Blog Post Route (English)
- * Handles all English blog post URLs: /post-slug/
+ * Dynamic Route (English)
+ * Handles all English blog posts AND pages: /slug/
  */
 
 import { getCollection } from 'astro:content';
 import BlogPostLayout from '../layouts/BlogPostLayout.astro';
+import PageLayout from '../layouts/PageLayout.astro';
 
 export async function getStaticPaths() {
+  // Get posts
   const posts = await getCollection('posts', ({ data }) => {
     return data.language === 'en';
   });
 
-  return posts.map(post => ({
-    params: { slug: post.data.slug },
-    props: { post },
-  }));
+  // Get pages
+  const pages = await getCollection('pages', ({ data }) => {
+    return data.language === 'en';
+  });
+
+  // Combine both
+  return [
+    ...posts.map(post => ({
+      params: { slug: post.data.slug || post.slug },
+      props: { content: post, type: 'post' },
+    })),
+    ...pages.map(page => ({
+      params: { slug: page.data.slug || page.slug },
+      props: { content: page, type: 'page' },
+    })),
+  ];
 }
 
-const { post } = Astro.props;
+const { content, type } = Astro.props;
 ---
 
-<BlogPostLayout post={post} />
+{type === 'post' ? (
+  <BlogPostLayout post={content as any} />
+) : (
+  <PageLayout page={content as any} />
+)}
