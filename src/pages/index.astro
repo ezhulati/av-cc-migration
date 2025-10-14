@@ -25,24 +25,8 @@ posts.sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDat
   <!-- Hero Section with Image Slider -->
   <section class="hero-slider">
     <div class="slider-container">
-      <!-- Slide 1: Berat Castle -->
-      <div class="slide active" style="background-image: url('/images/hero/berat-castle.jpg');">
-        <div class="slide-overlay"></div>
-      </div>
-      <!-- Slide 2: Vjosa River -->
-      <div class="slide" style="background-image: url('/images/hero/vjosa-river.jpg');">
-        <div class="slide-overlay"></div>
-      </div>
-      <!-- Slide 3: Butrint -->
-      <div class="slide" style="background-image: url('/images/hero/butrint.jpg');">
-        <div class="slide-overlay"></div>
-      </div>
-      <!-- Slide 4: Jale Beach -->
-      <div class="slide" style="background-image: url('/images/hero/jale-beach.jpg');">
-        <div class="slide-overlay"></div>
-      </div>
-      <!-- Slide 5: Tirana Opera -->
-      <div class="slide" style="background-image: url('/images/hero/tirana-opera.jpg');">
+      <!-- Slide 1: Visit Albania -->
+      <div class="slide active" style="background-image: url('https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/VisitAlbania.jpeg');">
         <div class="slide-overlay"></div>
       </div>
     </div>
@@ -63,63 +47,8 @@ posts.sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDat
       </div>
     </div>
 
-    <!-- Slider Navigation Dots -->
-    <div class="slider-dots">
-      <button class="dot active" data-slide="0" aria-label="Slide 1"></button>
-      <button class="dot" data-slide="1" aria-label="Slide 2"></button>
-      <button class="dot" data-slide="2" aria-label="Slide 3"></button>
-      <button class="dot" data-slide="3" aria-label="Slide 4"></button>
-      <button class="dot" data-slide="4" aria-label="Slide 5"></button>
-    </div>
   </section>
 
-  <script>
-    // Hero Slider Script
-    let currentSlide = 0;
-    const slides = document.querySelectorAll('.slide');
-    const dots = document.querySelectorAll('.slider-dots .dot');
-    const totalSlides = slides.length;
-    const slideInterval = 5000; // 5 seconds per slide
-
-    function showSlide(index: number) {
-      // Remove active class from all slides and dots
-      slides.forEach(slide => slide.classList.remove('active'));
-      dots.forEach(dot => dot.classList.remove('active'));
-
-      // Add active class to current slide and dot
-      slides[index].classList.add('active');
-      dots[index].classList.add('active');
-    }
-
-    function nextSlide() {
-      currentSlide = (currentSlide + 1) % totalSlides;
-      showSlide(currentSlide);
-    }
-
-    // Auto-advance slides
-    let slideTimer = setInterval(nextSlide, slideInterval);
-
-    // Manual navigation via dots
-    dots.forEach((dot, index) => {
-      dot.addEventListener('click', () => {
-        currentSlide = index;
-        showSlide(currentSlide);
-        // Reset timer on manual navigation
-        clearInterval(slideTimer);
-        slideTimer = setInterval(nextSlide, slideInterval);
-      });
-    });
-
-    // Pause on hover
-    const sliderContainer = document.querySelector('.hero-slider');
-    sliderContainer?.addEventListener('mouseenter', () => {
-      clearInterval(slideTimer);
-    });
-
-    sliderContainer?.addEventListener('mouseleave', () => {
-      slideTimer = setInterval(nextSlide, slideInterval);
-    });
-  </script>
 
   <style>
     /* Hero Slider Styles */
