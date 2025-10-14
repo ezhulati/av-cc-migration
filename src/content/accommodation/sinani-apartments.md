@@ -1,30 +1,7 @@
----
-title: Sinani Apartments
-description: Guests at Sinani Apartments are treated to a blend of modern amenities and natural beauty. Each apartment is thoughtfully equipped with air conditioning, ensuri
-featuredImage: "/images/accommodation/426796090.jpg"
-language: en
-slug: sinani-apartments
-location: ""
-amenities: []
-images: []
----
-
-Guests at Sinani Apartments are treated to a blend of modern amenities and natural beauty. Each apartment is thoughtfully equipped with air conditioning, ensuring a comfortable stay regardless of the season. The highlight for many is the private balcony that opens up to either lush garden or sweeping city views, providing a perfect backdrop for a morning coffee or an evening unwind.
+---\ntitle: "Sinani Apartments"\ndescription: "Sinani Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Ksamil."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426796090.jpg?k=c9b315d509b1a581d353d3382f8af41cbfd9e2d2f9887d3273d23e983539e3c7&o=&hp=1"\nlanguage: en\nslug: sinani-apartments\naddress: "Rruga Riviera, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.76819988\n  lng: 20.00010118\nprice: "US$215"\npriceFrom: 215\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426796090.jpg?k=c9b315d509b1a581d353d3382f8af41cbfd9e2d2f9887d3273d23e983539e3c7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426796149.jpg?k=73dc05553275fbd55cc4b1f5c53d90d5b68684adb119f261f50e549d9823ab8a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426796074.jpg?k=56bb63dd97a33b23ff59c7764649d0735fd6fb7f7cf8f07dd8aa703cdcf6ab41&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426796184.jpg?k=c531e6d1982bacbd4b3f7480ad4d147070dc329eb2a5cf3d2e0004f57fa6d559&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424442876.jpg?k=b4cc8cdeba89e8b280d13a8bd92117678c23ef87c5239889a9d81770e2900212&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426796122.jpg?k=aeb93f3101e6e5f9313dfc57cd2e98fa5955f83e732ccccb690a111a6938362b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424442874.jpg?k=731b154201e49b2159595d82878c5b0317be999d309691b1e0cda13fe34fef68&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424442880.jpg?k=304875d28d9e83119ee2085d63a7a5110fcd45d7e99d2267bf6f97b5aa5222f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426796228.jpg?k=4b0fd13226b9317c434a84f84f660cc4137d84c5d2e4c18951eb41fec2c8b956&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Deluxe Apartment"\nnearbyAttractions:\n  - "Museum of Banknotes 17 km"\n  - "New Fortress 17 km"\n  - "Serbian Museum 18 km"\n  - "Theotoki G. Square 18 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 18 km"\n  - "Trion Martiron Park 19 km"\n  - "Mon Repos Palace 19 km"\n  - "Kapodistrias Museum 20 km"\nnearbyRestaurants:\n  - "Ftelea Fishop and Grill 50 m"\n  - "Fast Food 50 m"\nnearbyBeaches:\n  - "Ksamil Beach 9 100 m"\n  - "Bora Bora Beach 350 m"\n  - "Ksamil Beach 7 400 m"\n  - "Paradise Beach 400 m"\n  - "Ksamil Beach 500 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 200 m"\n  - "Butrint National Park 2.8 km"\n  - "Plazhi I Krorezes 3.5 km"\n  - "Parc National de Butrint 10 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 17 km"\n  - "Old Fortress 17 km"\nairports:\n  - "Corfu International Airport 19 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/sinani-apartments-ksamil.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Sinani Apartments are treated to a blend of modern amenities and natural beauty. Each apartment is thoughtfully equipped with air conditioning, ensuring a comfortable stay regardless of the season. The highlight for many is the private balcony that opens up to either lush garden or sweeping city views, providing a perfect backdrop for a morning coffee or an evening unwind.
 
 The accommodation doesn't just stop at visual appeal. The interior boasts a cozy bedroom, a spacious living room for relaxation, a flat-screen TV for entertainment, and a fully equipped kitchen for those who love to cook. The convenience of a modern bathroom with a shower adds to the comfort of the stay.
 
 For those intrigued by local culture and history, the proximity to Butrint National Park, just 2.8 km away, offers an easy opportunity to explore one of Albania's archaeological treasures. Moreover, the accessibility of Corfu International Airport, located 92 km from the apartments, facilitates smooth travel plans for international guests.
 
 Sinani Apartments not only promises a stay marked by comfort and convenience but also provides a smoke-free environment, ensuring a healthy and refreshing experience for all guests. With the added perks of free private parking and complimentary WiFi, it's clear that this property is designed to meet the needs of modern travelers looking for a hassle-free stay in Ksamil.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

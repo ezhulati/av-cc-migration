@@ -1,26 +1,4 @@
----
-title: Guesthouse Dioni
-description: Designed with the well-being of its guests in mind, the entire accommodation maintains a strict non-smoking policy, promoting a clean and healthy environment fo
-featuredImage: "/images/accommodation/379532589.jpg"
-language: en
-slug: guesthouse-dioni
-location: ""
-amenities: []
-images: []
----
-
-Designed with the well-being of its guests in mind, the entire accommodation maintains a strict non-smoking policy, promoting a clean and healthy environment for a restful escape.
+---\ntitle: "Guesthouse Dioni"\ndescription: "Guesthouse Dioni stands as a serene retreat in the heart of Valbonë, offering guests a unique blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379532589.jpg?k=a72dd047e17b047ded1a773c895e38e80c9a712234c7d99255c3f3e222c327c7&o=&hp=1"\nlanguage: en\nslug: guesthouse-dioni\naddress: "Rruga Azem Hajdari, 8702 Valbonë, Albania"\ncity: "Valbonë"\nlocation: "Valbonë"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 42.4204691\n  lng: 19.87073269\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 48\nratings:\n  overall: 9.5\n  location: 9.7\n  cleanliness: 9.5\n  facilities: 8.6\n  value: 9.7\n  comfort: 9.3\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379532589.jpg?k=a72dd047e17b047ded1a773c895e38e80c9a712234c7d99255c3f3e222c327c7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386622003.jpg?k=faa45e33e3e99a2e1ffb0c897468f4407abcc544397537b0802a2487ed598d71&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379532584.jpg?k=5aaf0bde0271bc8e7de6c75354f07633c5b6443b6b356c3a2eaa3e870587b15c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506102303.jpg?k=b882c17c7147286fae4df16541a3e69ced1a9cb62b5b5f0969d66e5d681c7431&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477015211.jpg?k=4fc763e475c0e3d7d363ac04c9ac2d5eb41e2ab7ec6041bc576be9520a50c995&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477019298.jpg?k=bc5eabefc98ff89efcc2e51e01f3d4b7b1ed84b1818633d69881e1b357e59ab2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506102329.jpg?k=3cbfd79b5623f4a5ac20fe516cec921f2c6f51f0a839ead10ddaaf69e2f89447&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386622210.jpg?k=2d20f81a6be34084dcfe6bc4d47929e241cfed3544f935b592613f3feec3a3f5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506104666.jpg?k=f2c347c645fbe1ad90d82715ad7b55d57f09ce4fab3167873b51ebcd5859e933&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Fusha E Gjes 1.1 km"\n  - "Simoni Kafe 2.7 km"\nwhatsNearby:\n  - "Valbona Valley National Park 0 m"\n  - "Theth National Park 4.7 km"\n  - "Parku Kombëtar Lugina e Valbonës 6 km"\n  - "Prokletije National Park 6 km"\n  - "Theth National Park 7 km"\n  - "Nacionalni Park Prokletije 13 km"\n  - "Prokletije National Park 14 km"\n  - "Nacionalni park Prokletije 17 km"\n  - "Valbona Valley National Park 19 km"\nairports:\n  - "Podgorica Airport 51 km"\n  - "Tivat Airport 93 km"\n  - "Pristina International Airport 97 km"\nreviews:\n  - name: "Toni"\n    country: "Finland"\n    text: "“Host was very lovely and friendly person. She did everything for our comfort. Perfect!”"\n  - name: "Sassan"\n    country: "United Kingdom"\n    text: "“A nice, clean, comfortable mountain hut well located for the hike to Thet. Marita was friendly and welcoming. The home-cooked breakfast and dinner by the fire were good too. I had an altogether pleasant stay. You need to walk a little from where...”"\n  - name: "Eva"\n    country: "Netherlands"\n    text: "“Great location, just next to the hiking trail from Valbona to Theth! The host was also super nice, she offered us tea, and red wine. It’s cozy to have fireplace outside. We got up
+early to start hiking and the breakfast was great! We liked our...”"\nbookingURL: "https://www.booking.com/hotel/al/guesthouse-dioni.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nDesigned with the well-being of its guests in mind, the entire accommodation maintains a strict non-smoking policy, promoting a clean and healthy environment for a restful escape.
 
 For travelers venturing from afar, Pristina International Airport is located 150 km away, making Guesthouse Dioni an accessible haven for both local and international visitors seeking tranquility and relaxation amidst the beauty of Valbonë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

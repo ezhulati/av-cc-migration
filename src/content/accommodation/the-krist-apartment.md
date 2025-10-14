@@ -1,28 +1,7 @@
----
-title: The Krist Apartment
-description: Guests are welcomed into a generously sized apartment, featuring two well-appointed bedrooms that promise restful nights. The living space is designed for relax
-featuredImage: "/images/accommodation/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
-language: en
-slug: the-krist-apartment
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into a generously sized apartment, featuring two well-appointed bedrooms that promise restful nights. The living space is designed for relaxation and entertainment, equipped with a flat-screen TV, while the kitchen is fully equipped to cater to culinary needs. The inclusion of a bathroom complete with a bidet and bathrobes adds a touch of home comfort to the experience.
+---\ntitle: "The Krist Apartment"\ndescription: "The Krist Apartment in Vlorë stands out as a prime choice for travelers seeking comfort and convenience, located less than a kilometer from the serene Vjetër Beach and a mere 17-minute stroll from the bustling Vlore Beach."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"\nlanguage: en\nslug: the-krist-apartment\naddress: "Rr. Gjergj Arianiti, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45713896\n  lng: 19.48628756\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 20\nratings:\n  overall: 9.8\n  location: 9.4\n  cleanliness: 9.8\n  facilities: 9.6\n  value: 9.9\n  comfort: 9.9\n  staff: 9.9\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"\n  - "https://cf.bstatic.com/static/img/flags/12/nl/7b4427cefda046f99f0efc11622be2e83b8ba511.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-l/c9a51000ce90cbf81dcc81b847f9bccc3330d3a4.png"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-y/ea90dc6a44b984e60291f9db43e96ddfa72b1aef.png"\n  - "https://cf.bstatic.com/static/img/flags/12/ua/da35c421a013b5d14c01763bcde8aa42d474eff0.png"\n  - "https://graph.facebook.com/v2.9/2128454140522987/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"\n  - "https://cf.bstatic.com/static/img/flags/12/ua/da35c421a013b5d14c01763bcde8aa42d474eff0.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-o/ecc2e23c1dd875ae18fc261d4a08d35f71db9440.png"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"\n  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Pizzeria Trattoria Jonçe 100 m"\n  - "Pizza Time 100 m"\nwhatsNearby:\n  - "Kuzum Baba 1.3 km"\n  - "Independence Square 1.6 km"\n  - "Scooby Doo Vlore 2.4 km"\nreviews:\n  - name: "Lisard"\n    country: "Albania"\n    text: "“Big and clean apartment. Everything new and clean. You can find all the necessary equipments.
+The host was really friendly and supportive. We enjoyed the stay
+The location is great, we will definitely visit again.”"\n  - name: "Yuliia"\n    country: "Ukraine"\n    text: "“The apartments are so nice and cozy! Stylish, clean, and modern. Good location and very helpful hosts. We were glad to stay there!”"\n  - name: "Mariusz"\n    country: "Poland"\n    text: "“Very good contact with host. Krist is helpful and he is happy to answer any questions. The apartment is big and clean. Has everything you need to live.”"\nbookingURL: "https://www.booking.com/hotel/al/the-krist-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nGuests are welcomed into a generously sized apartment, featuring two well-appointed bedrooms that promise restful nights. The living space is designed for relaxation and entertainment, equipped with a flat-screen TV, while the kitchen is fully equipped to cater to culinary needs. The inclusion of a bathroom complete with a bidet and bathrobes adds a touch of home comfort to the experience.
 
 Strategically positioned, The Krist Apartment is a short 1.7 km journey from Independence Square and an easy 2.1 km from the historic Kuzum Baba, making it an ideal base for exploring the rich cultural tapestry of Vlorë. For those venturing further, Tirana International Mother Teresa Airport is 150 km away, ensuring that both local and international travelers can easily access this charming retreat.
 
 In summary, The Krist Apartment offers a blend of convenience, comfort, and connectivity, making it a compelling choice for those looking to explore the beauty of Vlorë from a homely and welcoming base.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

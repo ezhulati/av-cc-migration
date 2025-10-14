@@ -1,30 +1,7 @@
----
-title: IDRIZ HOUSE
-description: The apartment itself boasts a thoughtful layout, featuring two well-appointed bedrooms that cater to rest and relaxation. A fully equipped kitchen allows guests
-featuredImage: "/images/accommodation/500730510.jpg"
-language: en
-slug: idriz-house
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself boasts a thoughtful layout, featuring two well-appointed bedrooms that cater to rest and relaxation. A fully equipped kitchen allows guests the freedom to craft meals suited to their taste, adding a touch of home comfort to the travel experience. The inclusion of a modern bathroom further ensures a stay marked by convenience and luxury.
+---\ntitle: "IDRIZ HOUSE"\ndescription: "IDRIZ HOUSE emerges as a prime choice for travelers seeking a serene retreat in Durrës, strategically positioned to offer both tranquility and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500730510.jpg?k=a420c955b9a63af3fb6ff521fbbd5934d6bfc51851625b63bef60bf32ca6b2e9&o=&hp=1"\nlanguage: en\nslug: idriz-house\naddress: "Rruga Pavaresia, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30410599\n  lng: 19.49364544\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500730510.jpg?k=a420c955b9a63af3fb6ff521fbbd5934d6bfc51851625b63bef60bf32ca6b2e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/500730506.jpg?k=b40514479c9a2c2f6ec66052c0e4db01df6b5fdfb9637bf7ad824eb50117f4a4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/500730513.jpg?k=073a69cf64c02e1e4282a861f1bdc79df7bd776a05a4fb7632a37df44d7ee04e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/500730516.jpg?k=a5dd78b2faf6c3eb6cdfc7b10cf18eb8eeaafeca729f5da9fac07ad463e18735&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/500730519.jpg?k=64cf1ea3431965883c242cd464fc7ef061d122598a2d0d62ce5e8725b409a600&o=&hp=1"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Dyrrah Mare Bar 50 m"\n  - "Elita Tetove 50 m"\nnearbyBeaches:\n  - "Durres Beach 100 m"\n  - "Shkëmbi i Kavajës Beach 2.4 km"\n  - "Currila Beach 3.9 km"\n  - "Golem Beach 4.8 km"\n  - "Kallmi Beach 5 km"\nwhatsNearby:\n  - "Bekimi 3 km"\n  - "Wine Dhe Pooh 4 km"\n  - "Sheshi Demokracia 4.1 km"\n  - "Yje Dhe Hena 4.1 km"\n  - "Durres Amphiteatre 4.2 km"\n  - "1. Maj 4.3 km"\n  - "Sotir Noka 4.4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/idriz-house.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself boasts a thoughtful layout, featuring two well-appointed bedrooms that cater to rest and relaxation. A fully equipped kitchen allows guests the freedom to craft meals suited to their taste, adding a touch of home comfort to the travel experience. The inclusion of a modern bathroom further ensures a stay marked by convenience and luxury.
 
 Beyond its immediate comforts, IDRIZ HOUSE serves as an ideal base for explorers keen to immerse themselves in the rich tapestry of the region. Historical landmarks such as the Durres Amphitheatre, only 7.2 km away, offer a glimpse into the area's storied past. Meanwhile, the proximity to Skanderbeg Square and the National Museum of History Albania, both within 39 km, provides ample opportunity for cultural enrichment.
 
 For those intrigued by natural wonders, the Rock of Kavaje is a mere 4.3 km journey, offering a unique outdoor adventure. Additionally, the property's location ensures easy access to Tirana International Mother Teresa Airport, located 33 km away, facilitating stress-free travel arrangements.
 
 IDRIZ HOUSE distinguishes itself not only through its strategic location and well-crafted amenities but also by its commitment to a smoke-free environment, ensuring a healthy and pleasant stay for all guests. Whether seeking a peaceful beachside getaway or a cultural exploration of Durrës and its surroundings, IDRIZ HOUSE stands out as a premier choice for discerning travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

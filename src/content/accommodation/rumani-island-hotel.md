@@ -1,28 +1,5 @@
----
-title: Rumani Island Hotel
-description: The accommodations at Rumani Island Hotel are thoughtfully designed with guest comfort in mind. Each room is equipped with essential modern amenities such as ai
-featuredImage: "/images/accommodation/518888297.jpg"
-language: en
-slug: rumani-island-hotel
-location: ""
-amenities: []
-images: []
----
-
-The accommodations at Rumani Island Hotel are thoughtfully designed with guest comfort in mind. Each room is equipped with essential modern amenities such as air conditioning, a flat-screen TV, and a private bathroom stocked with complimentary toiletries. For those seeking a little extra, select rooms boast balconies, offering a private outdoor space to unwind.
+---\ntitle: "Rumani Island Hotel"\ndescription: "Rumani Island Hotel, located in the serene Vlorë County region of Ksamil, stands out as a distinguished 4-star establishment, merely a short drive from the enchanting Butrint National Park."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518888297.jpg?k=e8d8f9c847d0a868a1b6847fa7189b03532362315423eb0b72baf55600997a29&o=&hp=1"\nlanguage: en\nslug: rumani-island-hotel\naddress: "Rruga Butrinti, 4 Valltaret, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.77271724\n  lng: 20.00455547\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518888297.jpg?k=e8d8f9c847d0a868a1b6847fa7189b03532362315423eb0b72baf55600997a29&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518888538.jpg?k=a76048133e8c3823801f279e229c101950669e9fe2a8fb129f52751812fa94e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518888363.jpg?k=bd1c12d3234809547a2a9f4608172f9750071e7e9bf1b39ff7b9532d99f2fbe9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518888472.jpg?k=4d853740614aa5bc7773e7e6eb8033ce87d139cba07495b8c168238fff254b3d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518888503.jpg?k=1c7078ec2d876f9833556fe114a68c3b86249aa8209ed40118de8e832b93c654&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518888423.jpg?k=5f09f0d606541dceec6c6a76920b3ae438a56e8d7440849d5e14ef35b3cfaa53&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Double Room with Balcony and Sea View"\n  - "Deluxe Triple Room with Balcony and Sea View"\n  - "Deluxe Triple Room with French Balcony"\n  - "Deluxe Triple Room with Balcony"\n  - "Deluxe Triple Room with French Balcony and Sea View"\nnearbyAttractions:\n  - "Museum of Banknotes 18 km"\n  - "New Fortress 18 km"\n  - "Serbian Museum 18 km"\n  - "Theotoki G. Square 18 km"\n  - "Archaeological Museum 19 km"\n  - "Ntougkla Square 19 km"\n  - "Trion Martiron Park 19 km"\n  - "Mon Repos Palace 20 km"\nnearbyRestaurants:\n  - "Fast Food 4 Valltaret 8 m"\n  - "Zgara Tradicionale Qendra Rest 20 m"\nnearbyBeaches:\n  - "Ksamil Beach 200 m"\n  - "Coco Beach 450 m"\n  - "Bora Bora Beach 550 m"\n  - "Ksamil Beach 7 550 m"\n  - "Ksamil Beach 9 700 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 600 m"\n  - "Butrint National Park 2.6 km"\n  - "Plazhi I Krorezes 3 km"\n  - "Parc National de Butrint 10 km"\n  - "Byzantine Museum 18 km"\n  - "Public Garden 18 km"\n  - "Solomos Museum 18 km"\n  - "Asian Art Museum 18 km"\n  - "Old Fortress 18 km"\nairports:\n  - "Corfu International Airport 20 km"\n  - "Ioannina Airport 69 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Mariglen"\n    country: "United States"\n    text: "“Everything was great, exceptional and friendly staff. Very clean and bright room. Quick check in!!!”"\nbookingURL: "https://www.booking.com/hotel/al/rumani-island.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodations at Rumani Island Hotel are thoughtfully designed with guest comfort in mind. Each room is equipped with essential modern amenities such as air conditioning, a flat-screen TV, and a private bathroom stocked with complimentary toiletries. For those seeking a little extra, select rooms boast balconies, offering a private outdoor space to unwind.
 
 Mornings at Rumani Island Hotel are greeted with a choice of a buffet or continental breakfast, providing the perfect start to a day of exploration or relaxation. The hotel's prime location places guests within easy reach of Ksamil's pristine beaches, including the popular Ksamil Beach, Coco Beach, and Bora Bora Beach, making it an ideal base for beach lovers.
 
 For international travelers, Corfu International Airport is the nearest gateway, located 93 km away, ensuring Rumani Island Hotel is both accessible and a peaceful retreat away from the hustle and bustle.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

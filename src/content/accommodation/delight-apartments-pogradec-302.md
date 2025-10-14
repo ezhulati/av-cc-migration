@@ -1,30 +1,7 @@
----
-title: Delight Apartments Pogradec 302
-description: "The apartment itself is a haven of modern living, boasting air-conditioned spaces that promise a refreshing retreat from the day's adventures."
-featuredImage: "/images/accommodation/456767452.jpg"
-language: en
-slug: delight-apartments-pogradec-302
-location: ''
-amenities: []
-images: []
----
-
-The apartment itself is a haven of modern living, boasting air-conditioned spaces that promise a refreshing retreat from the day's adventures. Guests will find themselves in a meticulously designed space, featuring one bedroom and one bathroom, complemented by a flat-screen TV for entertainment needs.
+---\ntitle: "Delight Apartments Pogradec 302"\ndescription: "Delight Apartments Pogradec 302 emerges as a prime choice for travelers seeking comfort and convenience, located just a short drive from the serene Ohrid Lake Springs."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456767452.jpg?k=e5dba11355eec0e9136cc89f709645b35bcf1e2536b69f51b957335856fd6e8c&o=&hp=1"\nlanguage: en\nslug: delight-apartments-pogradec-302\naddress: "Rruga Reshit Çollaku, 7301 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.90538388\n  lng: 20.65246371\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456767452.jpg?k=e5dba11355eec0e9136cc89f709645b35bcf1e2536b69f51b957335856fd6e8c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/456768532.jpg?k=9e83776ad246060ced110fac1f022e47f42dc0a0bc0b0199aefb7c511a6afb01&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/456767468.jpg?k=b4bc9fac549bc80259e9fb0ab24ef9c6dda1bf5db4105c319b272a256e6d0e4b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/456768886.jpg?k=7ab4398735f6091b90ebb12109df49729f0aa735a5b749e646451bc872089e55&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/456767458.jpg?k=bf1e2f67219901b6235cb4fd9c9a61c8fc1005bebe8ef08641a9b5801afa3556&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/456767415.jpg?k=5879e0626096bd97c7707e8938b2d26682245008a62a86a118de31bf4e908bd8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/456767445.jpg?k=94450221f0ee4d0a4ea66a95dde0d0aede7cf4db8b1de034e0a37089c02135c4&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Zgara Pogradecare 200 m"\n  - "Bakery Kosovari 400 m"\nwhatsNearby:\n  - "Driloni National Park 1.6 km"\n  - "National Park Galicica 8 km"\n  - "National Park Galicica 15 km"\n  - "Bay of Bones 16 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 72 km"\n  - "Tirana International Airport Mother Teresa 95 km"\nbookingURL: "https://www.booking.com/hotel/al/delight-apartments-pogradec-pogradec2.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nThe apartment itself is a haven of modern living, boasting air-conditioned spaces that promise a refreshing retreat from the day's adventures. Guests will find themselves in a meticulously designed space, featuring one bedroom and one bathroom, complemented by a flat-screen TV for entertainment needs.
 
 For those intrigued by historical and cultural explorations, Delight Apartments Pogradec 302 serves as an ideal base. The Cave Church Archangel Michael and the Early Christian Basilica are both within easy reach, promising enriching day trips. Moreover, the Church of St. John at Kaneo, a notable landmark, is just a bit further, offering insights into the area's rich heritage.
 
 Convenience is further underscored by the inclusion of complimentary WiFi and private parking, ensuring that guests' needs are seamlessly met. The nearest airport, Ohrid Airport, is located 47 km away, making arrivals and departures a breeze for international and domestic travelers alike.
 
 Delight Apartments Pogradec 302 not only offers a comfortable stay but also positions guests perfectly to explore the rich tapestry of history and natural beauty that the region boasts.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

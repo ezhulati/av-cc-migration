@@ -1,28 +1,5 @@
----
-title: Tirana Sukaj Apartment
-description: The apartment itself is a testament to thoughtful living spaces, featuring a spacious layout that includes one bedroom, a living room, a fully equipped kitchen,
-featuredImage: "/images/accommodation/379393940.jpg"
-language: en
-slug: tirana-sukaj-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to thoughtful living spaces, featuring a spacious layout that includes one bedroom, a living room, a fully equipped kitchen, and a bathroom. The inclusion of towels and bed linen ensures a hassle-free stay, allowing guests to focus on exploring the city rather than worrying about the basics.
+---\ntitle: "Tirana Sukaj Apartment"\ndescription: "Tirana Sukaj Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379393940.jpg?k=5326ed5ab8940ec05d6eafb38cde17134a5909c2fc4acf156311668c877799bd&o=&hp=1"\nlanguage: en\nslug: tirana-sukaj-apartment\naddress: "Rruga Jorgo Plaku, Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.34330625\n  lng: 19.82846979\nprice: "US$44"\npriceFrom: 44\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 9.9\n  location: 9.2\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379393940.jpg?k=5326ed5ab8940ec05d6eafb38cde17134a5909c2fc4acf156311668c877799bd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370317229.jpg?k=43cd755d4a87d2c8997971f08d60a21a2b7cb38aae61cc24c75c9bc947443ffb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379393876.jpg?k=0318f5fb79b92a8641fb949a8ad549c4a1e9255ee2d2a0efbd05eec054f9fb59&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379393201.jpg?k=279e99844edc49529a3b8c183e71c0079b400f6cf14cad1a16ce4e506cb67c71&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379393349.jpg?k=99b05931ba687cf698578e54e7625230b48fbea7ac2db39997f64ec52a26ce07&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379441242.jpg?k=6a0093e99833b2a9c6967c70c740ac0ccf78e11799272548359b2c325e6a7c2f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379393899.jpg?k=ebce382c7359fd9fe05281ae05b8ce5033915bbd7ca289051322449e5bd43768&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379393549.jpg?k=f721576f0ef121f167c202722d881db6d12e3fbed0092d9561a4486e13866bb4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379393991.jpg?k=a83d4b96deb888422d9e2fb6c8c26b3e0b1629e03d341cad2b621fa57955c24c&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Skanderbeg Square 1.9 km"\n  - "National Gallery of Arts Tirana 2 km"\n  - "House of Leaves 2.1 km"\n  - "Rinia Park 2.2 km"\n  - "Former Residence of Enver Hoxha 2.7 km"\n  - "Bunk'Art 1 Museum 2.8 km"\n  - "Grand Park of Tirana 3.5 km"\nnearbyRestaurants:\n  - "Le Gemelle 150 m"\n  - "Byrektore 300 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Allias 800 m"\n  - "Sheshi Rekreativ Gjolek Kokona 1.1 km"\n  - "Sheshi Jjosef Shtraus 1.1 km"\n  - "Amazing Nature 1.3 km"\n  - "Sheshi Rekreativ tek ish ATSh 1.7 km"\n  - "Sheshi Sulejman Pasha 1.7 km"\n  - "National Museum of History Albania 1.8 km"\n  - "Sheshi Skënderbej 1.9 km"\n  - "Clock Tower Tirana 1.9 km"\n  - "Tanners' Bridge 1.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 78 km"\nbookingURL: "https://www.booking.com/hotel/al/tirana-sukaj-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a testament to thoughtful living spaces, featuring a spacious layout that includes one bedroom, a living room, a fully equipped kitchen, and a bathroom. The inclusion of towels and bed linen ensures a hassle-free stay, allowing guests to focus on exploring the city rather than worrying about the basics.
 
 For those keen on experiencing Tirana's natural beauty and historical sites, the Dajti Ekspres Cable Car is located just 4 km away, offering breathtaking views of the city from above. Meanwhile, history enthusiasts will appreciate the proximity to the Former Residence of Enver Hoxha, a mere 3.2 km from the apartment, providing a glimpse into Albania's past.
 
 Situated 14 km from Tirana International Mother Teresa Airport, Tirana Sukaj Apartment stands out as an accessible and inviting option for both short-term and extended stays. Its strategic location and well-appointed amenities make it a compelling choice for travelers looking to immerse themselves in the vibrant life of Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

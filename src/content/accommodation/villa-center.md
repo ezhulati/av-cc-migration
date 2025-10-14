@@ -1,15 +1,6 @@
----
-title: Villa Center
-description: Guests at Villa Center are treated to a seamless connectivity experience with complimentary WiFi enveloping the property, alongside the convenience of on-site p
-featuredImage: "/images/accommodation/95984600.jpg"
-language: en
-slug: villa-center
-location: ""
-amenities: []
-images: []
----
-
-Guests at Villa Center are treated to a seamless connectivity experience with complimentary WiFi enveloping the property, alongside the convenience of on-site private parking. For those looking to explore the area at a leisurely pace, the guest house provides a bicycle rental service, adding a touch of adventure to the stay.
+---\ntitle: "Villa Center"\ndescription: "Villa Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95984600.jpg?k=75d9a57599ec4aff2be24eebfaa6e115f316275821c4f4c09cc00dbd8d1660b8&o=&hp=1"\nlanguage: en\nslug: villa-center\naddress: "Rruga e Dibres 49, 9999 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.3316114\n  lng: 19.82061267\nprice: "US$25"\npriceFrom: 25\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 555\nratings:\n  overall: 8.8\n  location: 9.6\n  cleanliness: 8.4\n  facilities: 8.1\n  value: 9\n  comfort: 8.3\n  staff: 9.3\n  wifi: 9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95984600.jpg?k=75d9a57599ec4aff2be24eebfaa6e115f316275821c4f4c09cc00dbd8d1660b8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323069946.jpg?k=d9e97e19a9e4a115df72318908b253397733b1e4dd817cc38d3b876412bbf751&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/157794012.jpg?k=7c4c4c4c7d78f24fbcb16b35787e106e2ef863388bf94b67031722fe80ca5c52&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323069895.jpg?k=df28d039aee8e1f4dc03194a5812f2a70a0fdbfae2305ad04fcc47a83b8b56c7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323069905.jpg?k=d93ce990a55b17dfd6523c13a4606a5bc37ccc7bd86cc0750755174d82dbe182&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323069910.jpg?k=c6f82f7be16aeca7f2bd471852fe993f36977b1192f08d50d9756c63324f7473&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Double Room"\n  - "Twin Room with Bathroom"\nnearbyAttractions:\n  - "House of Leaves 650 m"\n  - "Tanners' Bridge 750 m"\n  - "Rinia Park 800 m"\n  - "Former Residence of Enver Hoxha 1.2 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 3.9 km"\nnearbyRestaurants:\n  - "Mon Amour Bar 20 m"\n  - "Bar Caffee Marco Polo 30 m"\nwhatsNearby:\n  - "Amazing Nature 250 m"\n  - "Sheshi Sulejman Pasha 350 m"\n  - "National Museum of History Albania 350 m"\n  - "Sheshi Skënderbej 400 m"\n  - "Clock Tower Tirana 450 m"\n  - "Skanderbeg Square 450 m"\n  - "Parku Europa 500 m"\n  - "Sheshi Paris 550 m"\n  - "National Gallery of Arts Tirana 600 m"\n  - "Sheshi Rekreativ tek ish ATSh 600 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Jensth"\n    country: "Germany"\n    text: "“Stayed there for a third time.
+brilliant location
+well maintained nice outdoor seating”"\n  - name: "Andrea"\n    country: "Italy"\n    text: "“Excellent experience. very close to the center and very comfortable. staff always friendly and available for anything.”"\n  - name: "Harm"\n    country: "Netherlands"\n    text: "“Solid 10 for me! Location is perfect, the room was nice and big, and the information received via whatsapp was spot on - even directions to Berat by bus”"\nbookingURL: "https://www.booking.com/hotel/al/villa-center.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests at Villa Center are treated to a seamless connectivity experience with complimentary WiFi enveloping the property, alongside the convenience of on-site private parking. For those looking to explore the area at a leisurely pace, the guest house provides a bicycle rental service, adding a touch of adventure to the stay.
 
 Accommodations at Villa Center are thoughtfully designed to cater to diverse needs and preferences. Each unit is well-appointed with modern amenities including a kettle, and select units elevate the experience further with a satellite TV, a fully equipped kitchen complete with a dishwasher, and the luxury of a private bathroom featuring a hot tub and bathrobes. The comfort of air conditioning and the practicality of a desk are standard across all rooms, ensuring a blend of relaxation and productivity.
 
@@ -18,15 +9,3 @@ The guest house doesn't just stop at providing comfortable lodging; it extends i
 Villa Center's proximity to notable attractions such as the Former Residence of Enver Hoxha, the National Theatre of Opera and Ballet of Albania, and the National Museum of History Albania, positions it as an ideal spot for guests eager to delve into Albania's historical and cultural offerings. With Tirana International Mother Teresa Airport just 14 km away, the guest house also ensures a hassle-free transition to and from the city.
 
 In essence, Villa Center stands out as a welcoming haven for travelers looking to immerse themselves in the vibrancy of Tirana, offering a harmonious blend of comfort, convenience, and cultural proximity.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,15 +1,4 @@
----
-title: Amphora Apartment
-description: The apartment itself is a spacious haven, boasting a bedroom, a bathroom, and an array of modern amenities including a flat-screen TV with streaming services, a
-featuredImage: "/images/accommodation/523366958.jpg"
-language: en
-slug: amphora-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a spacious haven, boasting a bedroom, a bathroom, and an array of modern amenities including a flat-screen TV with streaming services, a dining area, and a fully equipped kitchen. The highlight, however, is the balcony that presents breathtaking sea vistas, complemented by an outdoor dining area for guests to relish meals against the backdrop of the city.
+---\ntitle: "Amphora Apartment"\ndescription: "Amphora Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523366958.jpg?k=c97731b2db85a31ad39403623c5c53e715e8487638f16316690cc2723ba0ddaa&o=&hp=1"\nlanguage: en\nslug: amphora-apartment\naddress: "Rruga Vlore - Orikum, mbi vilen qeveritare, Uji i Ftohte Pallatet Golemi, blloku 1, hyrja 3, kati i 4, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4162492\n  lng: 19.48695378\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 12\nratings:\n  overall: 9.6\n  location: 8.9\n  cleanliness: 9.8\n  facilities: 9.8\n  value: 9.5\n  comfort: 9.8\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523366958.jpg?k=c97731b2db85a31ad39403623c5c53e715e8487638f16316690cc2723ba0ddaa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/128686743.jpg?k=c59631d5349d465f23e659683ec52ac3f7a6fc1e6ae4f4173a78767e670acac5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/128692534.jpg?k=f8c564d4ea44ad62c61ae6fd0c4670f12a236503ff2d7728df92b3a91b866f7a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/128680112.jpg?k=fad5958f91c6dbb795dc75693b2b7cf81a0b10d74cc0bd7219b9cab4f5f3caaa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/128687960.jpg?k=4b48d0b2118e40947187ea8531a7df010dbaf5690bd682ba45c0afaa6bc2b1ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/128691126.jpg?k=0f81c248d4e3851e0b079c103fbd5ddaeb2db03ce90f1fa955c774733a06443f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/128682157.jpg?k=1976c4a7d94ad918d8fd83b00b8dc135d13881c52a2c8ceb9c1fc34596292c00&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/128699778.jpg?k=eea861125e0d5b6135ab428d855cd7f2b2c0b00c57c435c94de2e7a53ead21d6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/147551932.jpg?k=114d2a533bab9fca1fa5110ebd9f4f06aeecd2aad14954b8e007e70f9e87ee6d&o=&hp=1"\namenities:\n  - "Airport shuttle (free)"\n  - "Spa and wellness centre"\n  - "Non-smoking rooms"\n  - "Fitness centre"\n  - "Free parking"\n  - "Fast free WiFi (65 Mbps)"\n  - "Family rooms"\n  - "Beachfront"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Movida 30 m"\n  - "Perla E Jonit 100 m"\nnearbyBeaches:\n  - "Beach at Government Villas 200 m"\n  - "Liro Beach 550 m"\n  - "Coco Bongo Beach 1.5 km"\n  - "Ri Beach 1.6 km"\n  - "Sunny Beach 1.7 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 2.3 km"\n  - "Kuzum Baba 6 km"\n  - "Independence Square 6 km"\nairports:\n  - "Corfu International Airport 96 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Josef"\n    country: "Czech Republic"\n    text: "“peace and quiet , available garage which is very convenient for e.g. motorbikes, jet skis....”"\n  - name: "Pavlo"\n    country: "Ukraine"\n    text: "“We have succeeded with this apartment. The view from enormous terrace-balcony is magnificent. Barbecue at the balcony is very pleasant. Adrian is a nice, warm person. You have everything you need in the apartment. Konditioner and garage are very...”"\n  - name: "Selman"\n    country: "Australia"\n    text: "“Great apartment with all you need inside. Great view from a huge balcony on the top floor. Great owner easy to deal with. Great secure car parking.”"\nbookingURL: "https://www.booking.com/hotel/al/amphora-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a spacious haven, boasting a bedroom, a bathroom, and an array of modern amenities including a flat-screen TV with streaming services, a dining area, and a fully equipped kitchen. The highlight, however, is the balcony that presents breathtaking sea vistas, complemented by an outdoor dining area for guests to relish meals against the backdrop of the city.
 
 Designed with the guest's comfort in mind, Amphora Apartment is an allergy-free and non-smoking environment. For convenience, a minimarket is located on the premises, ensuring essentials are always within reach.
 
@@ -18,15 +7,3 @@ For those looking to explore the vibrant surroundings of Vlorë, the apartment o
 Noteworthy nearby attractions include Coco Bongo Beach, located 2.3 km away, and the historic Kuzum Baba at 6.6 km distance. For international travelers, Tirana International Mother Teresa Airport is accessible, located 156 km from the property.
 
 Amphora Apartment stands out as an ideal lodging choice for those desiring a memorable stay in Vlorë, offering both the tranquility of a beachfront location and the convenience of modern amenities.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

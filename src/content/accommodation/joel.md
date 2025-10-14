@@ -1,26 +1,3 @@
----
-title: Joel
-description: "This beachfront gem boasts a modern 1-bedroom apartment that is a testament to contemporary living."
-featuredImage: "/images/accommodation/436147535.jpg"
-language: en
-slug: joel
-location: ""
-amenities: []
-images: []
----
-
-This beachfront gem boasts a modern 1-bedroom apartment that is a testament to contemporary living. Guests can unwind in a spacious living room, adorned with a flat-screen TV, or prepare their meals in a fully equipped kitchen that comes with both a dishwasher and a microwave. The inclusion of a private bathroom, complete with slippers, adds a touch of luxury to the stay. Privacy and security are paramount, with a private entrance for guests and round-the-clock security ensuring a peaceful stay.
+---\ntitle: "Joel"\ndescription: "Joel Apartment stands as a prime choice for travelers seeking the perfect blend of comfort and convenience in Shëngjin."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/436147535.jpg?k=dc347603fc5929c1dbae429b6302268da60bcb225849146983e2b7a13489b298&o=&hp=1"\nlanguage: en\nslug: joel\naddress: "Rruga Shengjin Kune, 1000 Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.80872683\n  lng: 19.59820121\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/436147535.jpg?k=dc347603fc5929c1dbae429b6302268da60bcb225849146983e2b7a13489b298&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437656691.jpg?k=347527c25bc21bee76233c4ce8a8bd0b0aa8d92d5f38462ac5ff6486983d9e8e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437656690.jpg?k=2a3576dd994db59966442fd9c0af104e1f376354d1d715e7d0480e5bd133ccbd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437656685.jpg?k=0fb98cd117729c0339a29672fee91b584c9a64b814e1044b7ba77cc978917238&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437656689.jpg?k=8e586c1a6052d252bfade7cb75dd7bae9df1d79dfbaa62aeea881a91d2d3dc07&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437656711.jpg?k=c07f5be9d999518040f7bac0e17d1433949af84f80eff0ef32b8da336b83b6af&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437656694.jpg?k=8070de191eb10f27ca96a41541e318d266b02514fa660604e586bf38c70e7847&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/436147575.jpg?k=e9cb7d8c7fb0a590f684278a26746d423abd7ad027028609499d4d0ec61afb46&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/436147567.jpg?k=4ca6e0bcd0fd0e3c9bd011525f26802f0d6409ce482b3f9aaf4164eb7ab92516&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Kolonat Shengjin 50 m"\n  - "Pizza Bella Vita 150 m"\nnearbyBeaches:\n  - "Shëngjin Beach 50 m"\n  - "Ylberi Beach 1 km"\n  - "Rana e Hedhun Beach 2.9 km"\n  - "Laguna Park Beach 4.4 km"\n  - "Kune Beach 4.4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 43 km"\n  - "Podgorica Airport 66 km"\n  - "Tivat Airport 96 km"\npaymentMethods:\n  - "Mastercard"\nbookingURL: "https://www.booking.com/hotel/al/joel-lezha-shengjin.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis beachfront gem boasts a modern 1-bedroom apartment that is a testament to contemporary living. Guests can unwind in a spacious living room, adorned with a flat-screen TV, or prepare their meals in a fully equipped kitchen that comes with both a dishwasher and a microwave. The inclusion of a private bathroom, complete with slippers, adds a touch of luxury to the stay. Privacy and security are paramount, with a private entrance for guests and round-the-clock security ensuring a peaceful stay.
 
 Connectivity is never an issue, as guests can enjoy the convenience of free WiFi throughout their stay. For those looking to explore beyond the local area, the Tirana International Mother Teresa Airport is just 48 km away, making Joel Apartment an ideal base for both local and international travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

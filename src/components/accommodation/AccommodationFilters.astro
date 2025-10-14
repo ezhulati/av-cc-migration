@@ -1,0 +1,319 @@
+---
+interface Props {
+  starRatings: number[];
+  types: string[];
+  locations: string[];
+}
+
+const { starRatings, types, locations } = Astro.props;
+---
+
+<aside class="filters-sidebar">
+  <div class="filters-header">
+    <h2>Filter Results</h2>
+    <button class="clear-filters" id="clearFilters">Clear All</button>
+  </div>
+
+  <!-- Star Rating Filter -->
+  <div class="filter-section">
+    <h3>Star Rating</h3>
+    <div class="filter-options">
+      {starRatings.map(rating => (
+        <label class="filter-option">
+          <input
+            type="checkbox"
+            name="starRating"
+            value={rating}
+            data-filter="starRating"
+          />
+          <span class="checkbox-custom"></span>
+          <span class="filter-label">
+            {[...Array(rating)].map(() => '⭐').join('')} {rating} Star
+          </span>
+        </label>
+      ))}
+    </div>
+  </div>
+
+  <!-- Accommodation Type Filter -->
+  <div class="filter-section">
+    <h3>Property Type</h3>
+    <div class="filter-options">
+      {types.map(type => (
+        <label class="filter-option">
+          <input
+            type="checkbox"
+            name="accommodationType"
+            value={type}
+            data-filter="accommodationType"
+          />
+          <span class="checkbox-custom"></span>
+          <span class="filter-label">{type.charAt(0).toUpperCase() + type.slice(1)}</span>
+        </label>
+      ))}
+    </div>
+  </div>
+
+  <!-- Location Filter -->
+  <div class="filter-section">
+    <h3>Location</h3>
+    <div class="filter-options scrollable">
+      {locations.map(location => (
+        <label class="filter-option">
+          <input
+            type="checkbox"
+            name="location"
+            value={location}
+            data-filter="location"
+          />
+          <span class="checkbox-custom"></span>
+          <span class="filter-label">{location}</span>
+        </label>
+      ))}
+    </div>
+  </div>
+
+  <!-- Amenities Filter -->
+  <div class="filter-section">
+    <h3>Amenities</h3>
+    <div class="filter-options">
+      {['WiFi', 'Pool', 'Parking', 'Air Conditioning', 'Restaurant', 'Bar', 'Gym', 'Spa'].map(amenity => (
+        <label class="filter-option">
+          <input
+            type="checkbox"
+            name="amenities"
+            value={amenity}
+            data-filter="amenities"
+          />
+          <span class="checkbox-custom"></span>
+          <span class="filter-label">{amenity}</span>
+        </label>
+      ))}
+    </div>
+  </div>
+</aside>
+
+<style>
+  .filters-sidebar {
+    background: white;
+    border-radius: 12px;
+    padding: 24px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 100px;
+    height: fit-content;
+    max-height: calc(100vh - 120px);
+    overflow-y: auto;
+  }
+
+  .filters-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+    padding-bottom: 16px;
+    border-bottom: 2px solid #f0f0f0;
+  }
+
+  .filters-header h2 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin: 0;
+  }
+
+  .clear-filters {
+    background: none;
+    border: none;
+    color: #e31c2a;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 4px 8px;
+    border-radius: 4px;
+    transition: background 0.2s;
+  }
+
+  .clear-filters:hover {
+    background: #fff5f5;
+  }
+
+  .filter-section {
+    margin-bottom: 28px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #e8e8e8;
+  }
+
+  .filter-section:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+  }
+
+  .filter-section h3 {
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+    margin: 0 0 16px 0;
+  }
+
+  .filter-options {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .filter-options.scrollable {
+    max-height: 200px;
+    overflow-y: auto;
+  }
+
+  .filter-option {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    padding: 4px;
+    border-radius: 4px;
+    transition: background 0.2s;
+  }
+
+  .filter-option:hover {
+    background: #f9f9f9;
+  }
+
+  .filter-option input[type="checkbox"] {
+    display: none;
+  }
+
+  .checkbox-custom {
+    width: 20px;
+    height: 20px;
+    border: 2px solid #d0d0d0;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s;
+    flex-shrink: 0;
+  }
+
+  .filter-option input[type="checkbox"]:checked + .checkbox-custom {
+    background: #e31c2a;
+    border-color: #e31c2a;
+  }
+
+  .filter-option input[type="checkbox"]:checked + .checkbox-custom::after {
+    content: '✓';
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+  }
+
+  .filter-label {
+    font-size: 14px;
+    color: #555;
+    user-select: none;
+  }
+
+  /* Mobile Responsive */
+  @media (max-width: 968px) {
+    .filters-sidebar {
+      position: fixed;
+      left: -100%;
+      top: 0;
+      height: 100vh;
+      max-height: 100vh;
+      width: 300px;
+      z-index: 1000;
+      transition: left 0.3s;
+      border-radius: 0;
+    }
+
+    .filters-sidebar.open {
+      left: 0;
+    }
+  }
+</style>
+
+<script>
+  // Filter functionality
+  document.addEventListener('DOMContentLoaded', () => {
+    const filterInputs = document.querySelectorAll('[data-filter]');
+    const clearButton = document.getElementById('clearFilters');
+    const cards = document.querySelectorAll('[data-accommodation]');
+
+    function applyFilters() {
+      const activeFilters = {
+        starRating: [],
+        accommodationType: [],
+        location: [],
+        amenities: []
+      };
+
+      // Collect active filters
+      filterInputs.forEach(input => {
+        if (input.checked) {
+          const filterType = input.dataset.filter;
+          activeFilters[filterType].push(input.value);
+        }
+      });
+
+      // Apply filters to cards
+      cards.forEach(card => {
+        const data = JSON.parse(card.dataset.accommodation);
+        let visible = true;
+
+        // Check star rating
+        if (activeFilters.starRating.length > 0) {
+          visible = visible && activeFilters.starRating.includes(String(data.starRating));
+        }
+
+        // Check accommodation type
+        if (activeFilters.accommodationType.length > 0) {
+          visible = visible && activeFilters.accommodationType.includes(data.accommodationType);
+        }
+
+        // Check location
+        if (activeFilters.location.length > 0) {
+          visible = visible && activeFilters.location.includes(data.location);
+        }
+
+        // Check amenities (show if ANY selected amenity is present)
+        if (activeFilters.amenities.length > 0) {
+          const hasAmenity = activeFilters.amenities.some(amenity =>
+            data.amenities.includes(amenity)
+          );
+          visible = visible && hasAmenity;
+        }
+
+        // Toggle visibility
+        if (visible) {
+          card.style.display = 'block';
+          setTimeout(() => card.style.opacity = '1', 10);
+        } else {
+          card.style.opacity = '0';
+          setTimeout(() => card.style.display = 'none', 300);
+        }
+      });
+
+      // Update results count
+      const visibleCount = Array.from(cards).filter(c => c.style.display !== 'none').length;
+      const resultsCount = document.getElementById('resultsCount');
+      if (resultsCount) {
+        resultsCount.textContent = `${visibleCount} properties found`;
+      }
+    }
+
+    // Attach listeners
+    filterInputs.forEach(input => {
+      input.addEventListener('change', applyFilters);
+    });
+
+    clearButton?.addEventListener('click', () => {
+      filterInputs.forEach(input => {
+        input.checked = false;
+      });
+      applyFilters();
+    });
+  });
+</script>

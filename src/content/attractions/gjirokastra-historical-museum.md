@@ -7,6 +7,10 @@ featuredImage: /images/attractions/gjirokastra-historical-museum.jpg
 images: []
 language: en
 slug: gjirokastra-historical-museum
+seo:
+  metaTitle: "Discover the %title% %page% - Albania"
+  metaDescription: "Through its exhibits spanning ancient to modern times, the Gjirokastra Historical Museum provides unique insights into the storied past of the area."
+  robots: "index"
 ---
 
 Why Visit
@@ -91,10 +95,3 @@ In addition to driving tourism and economic growth, the museum has been instrume
 
 So, for anyone interested in experiencing Albania’s rich history and culture, the Gjirokastër Castle Museum is an unforgettable destination. Let the echoes of the past come alive within these monumental walls.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

@@ -1,26 +1,3 @@
----
-title: Welcome home
-description: "The apartment boasts a generous layout that includes a balcony, a cozy bedroom, an inviting living room, and a kitchen equipped with modern amenities..."
-featuredImage: "/images/accommodation/475624703.jpg"
-language: en
-slug: welcome-home
-location: ""
-amenities: []
-images: []
----
-
-The apartment boasts a generous layout that includes a balcony, a cozy bedroom, an inviting living room, and a kitchen equipped with modern amenities such as a dishwasher and an oven. Designed with comfort in mind, the air-conditioned space also features a bidet and a dressing room, catering to the needs of the contemporary traveler. Additionally, an outdoor dining area is available, perfect for guests who appreciate the charm of al fresco meals amidst the tranquility of nature.
+---\ntitle: "Welcome home"\ndescription: "Welcome Home emerges as a serene retreat offering breathtaking mountain views, strategically positioned 39 km from the historic landmarks of Kalaja Fortress Prizren, Albanian League of Prizren Museum, and Sinan Pasha Mosque."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475624703.jpg?k=b0499f9cc35b31482d5be28c0ebc982f444ce5602118a6b1fb2a5a03cc95cbdc&o=&hp=1"\nlanguage: en\nslug: welcome-home\naddress: "Lagjia 5 kukes, 8500 Kukës, Albania"\ncity: "Kukës"\nlocation: "Kukës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.07606655\n  lng: 20.41707867\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 2\nratings:\n  overall: 7.5\n  location: 10\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 7.5\n  comfort: 7.5\n  staff: 5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475624703.jpg?k=b0499f9cc35b31482d5be28c0ebc982f444ce5602118a6b1fb2a5a03cc95cbdc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/479185563.jpg?k=4de0f0bfb93203e87ba5078a36cae56ab74cf5f418749d60e0d6183969b89d3d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/479185341.jpg?k=d1884be6cfc1b557290f99ec7fff3c15cb6ca33ffb645bb3f461abdc55095e7f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/479185218.jpg?k=1b876c821989fb4fdf94697a5f0c42697a013cd040ecfa02e5833502a4072f8c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475625583.jpg?k=ac6e186915b94eee0d7b0547b1bb6c0f36287753b421edd943bb29b29af2ee20&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/479185632.jpg?k=c2ae73c438502a63edc4a36995b8b1bfd12dda13ae189083d5d3ec130a7453cc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/479185469.jpg?k=be7e0ade5a34919ac17bcc1a46a98ae33f813dc5c3ddd44257b3e44b4de4085e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475625610.jpg?k=2877326c87ff24bc2dba728dae369196cdf2f12167924a520b07b70ee21d2014&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475624186.jpg?k=f34edc54a5952faa0a69e8d1f1bf0d467afc40df03063ab1f10f5afd2764a944&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475625587.jpg?k=1b739276c19a4fe486e9f94dba6ed1544d3d3f1f413e946cc8300d69c716dac3&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Fast Food & Snack Shija e Ushqimit Bajraktari 10 m"\n  - "Bar Pizzeri Jamaica 150 m"\nwhatsNearby:\n  - "Partia Socialiste Kukes 100 m"\n  - "Brekija Perla Kuksiane 1 km"\nairports:\n  - "Pristina International Airport 74 km"\n  - "Tirana International Airport Mother Teresa 92 km"\npaymentMethods:\n  - "Mastercard"\nbookingURL: "https://www.booking.com/hotel/al/welcome-home-kukes.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe apartment boasts a generous layout that includes a balcony, a cozy bedroom, an inviting living room, and a kitchen equipped with modern amenities such as a dishwasher and an oven. Designed with comfort in mind, the air-conditioned space also features a bidet and a dressing room, catering to the needs of the contemporary traveler. Additionally, an outdoor dining area is available, perfect for guests who appreciate the charm of al fresco meals amidst the tranquility of nature.
 
 Located a considerable distance from the bustling city life, yet within easy reach of significant cultural sites, Welcome Home offers a unique blend of convenience and serenity. The nearest airport, Pristina International Airport, is 111 km away, making it a viable option for both domestic and international visitors seeking a peaceful escape with a touch of historical exploration.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

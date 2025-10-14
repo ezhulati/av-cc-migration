@@ -10,6 +10,13 @@ tags:
 featuredImage: "/images/posts/Albania-EU.jpeg"
 language: en
 slug: modern-day-albania
+seo:
+  focusKeyword: "modern day albania"
+  robots: "index"
+  metaTitle: "Winds of Change Propell Albania's EU Pursuit"
+  metaDescription: "Propelled by accession talks after almost 20 years of EU membership pursuit, Albania mobilizes to reform as it emerges a rejuvenated tourist and tech hub."
+  focusKeyword: "modern day albania"
+  robots: "index"
 ---
 
 ## Reforms, Revival, and EU Aspirations
@@ -50,14 +57,3 @@ Such dynamism signifies the importance placed on self-expression, entrepreneursh
 
 Yet these second acts showcase national potential that has been too long obscured. What endures is Albania's spirit-molded by adversity but fueled by hopes of forging a destiny neither defined by geography nor past. The hidden gem dazzles no more, proudly reclaiming its place as an emerging Adriatic dynamo where the future beckons brightly.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

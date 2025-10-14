@@ -1,28 +1,5 @@
----
-title: YELLOW ROOM
-description: "The apartment itself is a study in modern living, featuring a well-appointed bedroom, a living area equipped with a flat-screen TV offering satellite..."
-featuredImage: "/images/accommodation/333328807.jpg"
-language: en
-slug: yellow-room
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a study in modern living, featuring a well-appointed bedroom, a living area equipped with a flat-screen TV offering satellite channels, and a kitchen that leaves nothing to be desired. Complete with a fridge, kitchenware, and even a washing machine, it ensures all the comforts of home are at guests' fingertips. The inclusion of a bathroom with a walk-in shower adds an extra layer of convenience.
+---\ntitle: "YELLOW ROOM"\ndescription: "YELLOW ROOM emerges as a prime choice for travelers seeking comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333328807.jpg?k=27ce9b26aebc92c35a2ff1bb3eaf6550f35717f71422f6b272524fbd6077a360&o=&hp=1"\nlanguage: en\nslug: yellow-room\naddress: "Rruga Pavaresia, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31174844\n  lng: 19.4802734\nprice: "US$27"\npriceFrom: 27\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333328807.jpg?k=27ce9b26aebc92c35a2ff1bb3eaf6550f35717f71422f6b272524fbd6077a360&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/333328076.jpg?k=d9ab99b201c098c32375647f25f868931c7f77cb371e4c10e43bb5535ba74944&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/333329038.jpg?k=f26a1252be845d39a436d5214d227d39f081a052e0e1276ce30836d4393155e1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/333329059.jpg?k=40f9c7cead1ec61ae39a1a0cd132e0e37d99b63715ee260fc72504dcc4acc538&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/333329091.jpg?k=b016223c28c76fa01985c31377c95967efed3b7487ae0ef7245a365a68bd1c46&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Bar"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Venera 50 m"\n  - "Restorant de Lux 100 m"\nnearbyBeaches:\n  - "Durres Beach 5 m"\n  - "Currila Beach 2.8 km"\n  - "Shkëmbi i Kavajës Beach 3.7 km"\n  - "Kallmi Beach 4.1 km"\n  - "West End Beach 5 km"\nwhatsNearby:\n  - "Bekimi 1.8 km"\n  - "Wine Dhe Pooh 2.7 km"\n  - "Sheshi Demokracia 2.7 km"\n  - "Yje Dhe Hena 2.8 km"\n  - "Durres Amphiteatre 2.9 km"\n  - "Sotir Noka 3 km"\n  - "1. Maj 3.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/yellow-room.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a study in modern living, featuring a well-appointed bedroom, a living area equipped with a flat-screen TV offering satellite channels, and a kitchen that leaves nothing to be desired. Complete with a fridge, kitchenware, and even a washing machine, it ensures all the comforts of home are at guests' fingertips. The inclusion of a bathroom with a walk-in shower adds an extra layer of convenience.
 
 One of the highlights of YELLOW ROOM is undoubtedly its outdoor dining area, where guests can savor their meals against the backdrop of stunning sea views, making every dining experience memorable. Additionally, the presence of an on-site bar elevates the living experience, providing a cozy spot for evening relaxation.
 
 Located just a short walk from the vibrant Durres Beach and within a manageable distance from Skanderbeg Square, the apartment serves as an ideal base for both relaxation and adventure. For international travelers, the proximity to Tirana International Mother Teresa Airport, located 32 km away, adds to the appeal, making YELLOW ROOM a compelling choice for those visiting Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

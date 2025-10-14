@@ -1,30 +1,7 @@
----
-title: Luxury Apartment BB
-description: This apartment doesn't just promise space; it delivers it with two well-appointed bedrooms, a cozy living room, and a terrace that invites guests to relax while
-featuredImage: "/images/accommodation/485515535.jpg"
-language: en
-slug: luxury-apartment-bb
-location: ""
-amenities: []
-images: []
----
-
-This apartment doesn't just promise space; it delivers it with two well-appointed bedrooms, a cozy living room, and a terrace that invites guests to relax while soaking in the sea vistas. The inclusion of modern amenities such as a flat-screen TV, a fully equipped kitchen with an oven and microwave, and two bathrooms complete with a bidet, ensures a stay that combines convenience with luxury. The air-conditioned unit also boasts a bath and a dressing room, adding an extra layer of comfort.
+---\ntitle: "Luxury Apartment BB"\ndescription: "Luxury Apartment BB stands as a prime choice for travelers seeking a blend of comfort and scenic beauty in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485515535.jpg?k=14fb3b7ad104650cd86f7f33d17f5e62bd70820668189f59b3e40940131415de&o=&hp=1"\nlanguage: en\nslug: luxury-apartment-bb\naddress: "4 Rruga Piro Sava 8, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4492137\n  lng: 19.4923491\nprice: "US$97"\npriceFrom: 97\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485515535.jpg?k=14fb3b7ad104650cd86f7f33d17f5e62bd70820668189f59b3e40940131415de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485515684.jpg?k=d1f57e4355c5485a3e68bd3c4e250f76e23b5d444ea1643d4b2d4abd8ae3d96c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485515737.jpg?k=c99b6b9d4bea29e0d829379796f0b12aca336c1266c42db827b4128bd08bc367&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485515746.jpg?k=1dd4e01cdcd8e960cff37010af0b2fc08ba9b1307193526379eaea31090183c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485515601.jpg?k=7294bc16aea857b698418eaaf9a7176d2f7ff349907485b2d992f24922c146db&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485515656.jpg?k=9f81f4634a2f97a297f3b46ff0c911b8bf854ae35e9aadf183fdc45a6d5e6495&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485656311.jpg?k=49f9cc8cbb9f4792a715c2ea110a3bd826b6dd01d6c90c90e4eff12dd34c57f5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485515645.jpg?k=769aedaf51e5c1ffe4535b082606d3df267cfa083dfa6842468aecd5e109203e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485515624.jpg?k=990e1d967a48152216775e5294307e111376f4b3d93acf754286715941b35faf&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nroomTypes:\n  - "Apartment with Sea View"\nnearbyRestaurants:\n  - "Street Food Grill 50 m"\n  - "Aiden Zgara Korcare 100 m"\nnearbyBeaches:\n  - "Vlore Beach 150 m"\n  - "Vjetër Beach 1,000 m"\n  - "Ri Beach 1.5 km"\n  - "Beach at Government Villas 3.3 km"\n  - "Liro Beach 3.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.5 km"\n  - "Kuzum Baba 2 km"\n  - "Independence Square 2.4 km"\nbookingURL: "https://www.booking.com/hotel/al/luxury-apartment-bb.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThis apartment doesn't just promise space; it delivers it with two well-appointed bedrooms, a cozy living room, and a terrace that invites guests to relax while soaking in the sea vistas. The inclusion of modern amenities such as a flat-screen TV, a fully equipped kitchen with an oven and microwave, and two bathrooms complete with a bidet, ensures a stay that combines convenience with luxury. The air-conditioned unit also boasts a bath and a dressing room, adding an extra layer of comfort.
 
 Designed with privacy in mind, Luxury Apartment BB features soundproofing and a private entrance, ensuring a tranquil retreat from the bustling city life. The property prides itself on being non-smoking, catering to guests' health and comfort.
 
 Situated a mere 2.8 km from both Independence Square and Kuzum Baba, guests have the cultural heartbeat of Vlorë at their fingertips. For those traveling further afield, Tirana International Mother Teresa Airport is 151 km away, making Luxury Apartment BB an accessible haven for both local and international visitors.
 
 In summary, Luxury Apartment BB offers an unparalleled stay for those looking to enjoy the picturesque landscapes of Vlorë without compromising on modern comforts and privacy.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

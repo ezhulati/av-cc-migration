@@ -1,15 +1,6 @@
----
-title: Hotel Regency
-description: Located at the heart of the city, Hotel Regency offers easy access to Korçë's rich tapestry of cultural landmarks. A short stroll will take you to the Museum of
-featuredImage: "/images/accommodation/67709490.jpg"
-language: en
-slug: hotel-regency
-location: ""
-amenities: []
-images: []
----
-
-Located at the heart of the city, Hotel Regency offers easy access to Korçë's rich tapestry of cultural landmarks. A short stroll will take you to the Museum of Medieval Arts, the Archaeological Museum, and the vibrant old Bazaar, among other notable attractions.
+---\ntitle: "Hotel Regency"\ndescription: "Discover the charm of Korçë with a stay at the stylish Hotel Regency, a prime spot for travelers seeking both comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67709490.jpg?k=ec03490ac469cd6dbaf6ac7ff9595e42b69ab7f539a39e02bed60bfad36a3625&o=&hp=1"\nlanguage: en\nslug: hotel-regency\naddress: "Ismail Qemali 7 , 7001 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.61738114\n  lng: 20.77720642\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 25\nratings:\n  overall: 8.5\n  location: 9.7\n  cleanliness: 8.6\n  facilities: 7.8\n  value: 8.1\n  comfort: 8.5\n  staff: 9.1\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67709490.jpg?k=ec03490ac469cd6dbaf6ac7ff9595e42b69ab7f539a39e02bed60bfad36a3625&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/14624389.jpg?k=02ed070b2c50caa6e848a1f19eca692825d65490cb0eef2fe418083ed7c15fe6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/14624207.jpg?k=1d17d56e96a6875aafaa4da87782d37918c98739a2a5604dccb562a825a4cb05&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/14623763.jpg?k=3a46b84cfbb8397fbcea7d40a958b9ad5d5fa1033d54935887a3f5ea2beae22b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67709547.jpg?k=7297686d5e7632bd4e0988d3cea440c64fbe1831847ba115a8d0ff5a1c28bf28&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/14623920.jpg?k=da8d2777d89485e73402cddb55da01c4a0d09da1c58db261e2bf16262498e9d2&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Airport shuttle"\n  - "Free parking"\n  - "Free WiFi"\n  - "Facilities for disabled guests"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Single Room"\n  - "Double or Twin Room"\n  - "Triple Room"\nnearbyRestaurants:\n  - "Amigos 40 m"\n  - "Feedra Bar-Bilardo 100 m"\nwhatsNearby:\n  - "Parku Rinia 200 m"\n  - "Parku Vangjush Mio 200 m"\n  - "Parku Themistokli Gërmenji 450 m"\n  - "Field of Tears 500 m"\n  - "Sheshi Patriku Joasaf 500 m"\n  - "Parku Rinia 1.3 km"\n  - "Sheshi Panxhar 5 km"\n  - "Sheshi Koço Plaku 12 km"\n  - "Sheshi Penetori 12 km"\nairports:\n  - "Kastoria National Airport 45 km"\n  - "Ohrid Airport 61 km"\n  - "Kozani National Airport 96 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Fatos"\n    country: "Kosovo"\n    text: "“Location is just a quick walk to the center and old baazar.
+Breakfast was plentifull and though hotel is somehow old, it is a great value for money and I would highly recommend it.
+Staff was very freindly and helpfull.”"\n  - name: "Enor"\n    country: "Albania"\n    text: "“The location is perfect. The staff are all very friendly. The breakfast is tasty and aboundant. Overall it is a good value for the money.”"\n  - name: "64-66"\n    country: "Germany"\n    text: "“Zentrale Lage für alle Aktivitäten um die Stadt zu erkunden. Sehr gutes und umfangreiches Frühstück. Gute Tipps vom Personal.”"\nbookingURL: "https://www.booking.com/hotel/al/regency.en-gb.html?aid=8035640"\nbestFor: "Best for Cultural Experience"\nbestCategories: "Cultural Experience"\ncategory: "Cultural Experience"\n---\n\nLocated at the heart of the city, Hotel Regency offers easy access to Korçë's rich tapestry of cultural landmarks. A short stroll will take you to the Museum of Medieval Arts, the Archaeological Museum, and the vibrant old Bazaar, among other notable attractions.
 
 Accommodations at Hotel Regency are a blend of elegance and functionality. Each room and suite boasts air conditioning, satellite TV, and a minibar, catering to the needs of modern travelers. The private bathrooms are well-appointed with a hairdryer and complimentary toiletries, adding a touch of luxury to your stay.
 
@@ -20,15 +11,3 @@ Business travelers will appreciate the convenience of the hotel's conference roo
 The Hotel Regency's location next to the Main Bus Station offers effortless connectivity to the surrounding area. Adventure seekers will find the Mountain of Dardhe just 17 km away, while the serene Lake Ohrid lies 39 km from the hotel. Additionally, the proximity to the Greek and Macedonian borders, within a 40 km radius, opens up further opportunities for exploration.
 
 In summary, Hotel Regency is more than just a place to stay; it's a gateway to the cultural and natural wonders of Korçë and beyond.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

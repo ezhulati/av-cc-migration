@@ -1,26 +1,3 @@
----
-title: Vacation Apartment
-description: The apartment itself is thoughtfully equipped with modern amenities, including a kitchen complete with a microwave and toaster, a flat-screen TV for entertainme
-featuredImage: "/images/accommodation/476435405.jpg"
-language: en
-slug: vacation-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is thoughtfully equipped with modern amenities, including a kitchen complete with a microwave and toaster, a flat-screen TV for entertainment, and a cozy seating area perfect for unwinding after a day of exploration. The bathroom, designed for comfort, includes a bidet and a shower, complemented by a dressing room for added convenience. Notably, the accommodation prioritizes guest privacy with a private entrance, setting the stage for an undisturbed retreat.
+---\ntitle: "Vacation Apartment"\ndescription: "Vacation Apartment in Durrës emerges as a prime choice for travelers seeking comfort and convenience, mere steps away from the serene Durres Beach and the picturesque Shkëmbi i Kavajës Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476435405.jpg?k=8058363e535542201eabde6a8b9dbe54661be5595c7112f7a957ed7e1d049b08&o=&hp=1"\nlanguage: en\nslug: vacation-apartment\naddress: "L13, 2000 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.28617854\n  lng: 19.51257524\nprice: "US$91"\npriceFrom: 91\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476435405.jpg?k=8058363e535542201eabde6a8b9dbe54661be5595c7112f7a957ed7e1d049b08&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/476435453.jpg?k=b6a1c8d4f0b8de4448b295f9437446382964ddc5650d460c4a923486ac9a3b2c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/476435472.jpg?k=64118f4effd73439be75130c7851c15cb81c3295051be113c0f1bd740f4345d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/476435459.jpg?k=01d85cd1b12732bd23f3a656331bd5462256eb777199d82c572c935dfcab860a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/476435454.jpg?k=c7ba828b7d6c1f911214dc136c8dbd31bdd4d3e3898a41cabaa6e0a3511a709b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/476435464.jpg?k=6996af6ab4d2bf129bd32f24b7f60474bec1b89ad07cd1889c59d1ca2915de66&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/476435460.jpg?k=e39310099ac92e36fc0869c70c36a647e1453e6a724fc7d763fdaf86de27e362&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/476435468.jpg?k=20bfd1d9be42fc4a4630acc699ce60734e6dcda14de468e32e31b2ec4cb824bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/476435447.jpg?k=7f5d193beba4279a9be569df24c2279726a34b79dbfceb0cedf663fb3ae7fd46&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Hasani 100 m"\n  - "Restorant 4 Stinet Plazh 150 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 250 m"\n  - "Durres Beach 250 m"\n  - "Golem Beach 2.4 km"\n  - "Mali I Robit Beach 4.3 km"\n  - "Currila Beach 6 km"\nwhatsNearby:\n  - "Bekimi 6 km"\n  - "Wine Dhe Pooh 6 km"\n  - "Durres Amphiteatre 6 km"\n  - "Yje Dhe Hena 6 km"\n  - "Sheshi Demokracia 6 km"\n  - "1. Maj 7 km"\n  - "Sotir Noka 7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\nbookingURL: "https://www.booking.com/hotel/al/vacation-apartment-durres4.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is thoughtfully equipped with modern amenities, including a kitchen complete with a microwave and toaster, a flat-screen TV for entertainment, and a cozy seating area perfect for unwinding after a day of exploration. The bathroom, designed for comfort, includes a bidet and a shower, complemented by a dressing room for added convenience. Notably, the accommodation prioritizes guest privacy with a private entrance, setting the stage for an undisturbed retreat.
 
 Situated a mere 2.7 km from the vibrant Golem Beach and within easy reach of historical sites such as the Former Residence of Enver Hoxha and the Durres Amphitheatre, Vacation Apartment stands as an ideal base for those eager to explore the rich cultural tapestry of Durrës. With Tirana International Mother Teresa Airport only 35 km away, guests will find both the journey to and the stay at this charming apartment effortlessly enjoyable.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

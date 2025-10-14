@@ -1,28 +1,5 @@
----
-title: Luis Apartments
-description: This garden-adorned property provides guests with a peaceful retreat, featuring an inviting balcony that serves as a perfect spot for morning coffees or evening
-featuredImage: "/images/accommodation/465790158.jpg"
-language: en
-slug: luis-apartments
-location: ""
-amenities: []
-images: []
----
-
-This garden-adorned property provides guests with a peaceful retreat, featuring an inviting balcony that serves as a perfect spot for morning coffees or evening relaxation, all while staying connected with complimentary WiFi. The commitment to a non-smoking environment ensures a clean and fresh stay for all guests.
+---\ntitle: "Luis Apartments"\ndescription: "Luis Apartments emerges as a serene oasis in the vibrant city of Vlorë, boasting a prime beachfront location that effortlessly combines convenience with tranquility."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465790158.jpg?k=9ea8ceaf83b8cab02463d33b03131939afe7357ed8a51c1a7bf77785ba94ce63&o=&hp=1"\nlanguage: en\nslug: luis-apartments\naddress: "Rruga Reshat Osmani, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4493222\n  lng: 19.4969642\nprice: "US$51"\npriceFrom: 51\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465790158.jpg?k=9ea8ceaf83b8cab02463d33b03131939afe7357ed8a51c1a7bf77785ba94ce63&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/465790193.jpg?k=6d94d5c19e2a9538aea98c5851a1b4f64f177ff27b23102ea17d28f4de7e996f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/465790196.jpg?k=d4f1368379234a531f84c0652d847e64ea14eb547a0b6c5ceb969f7597d4dce5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/465790198.jpg?k=2bf61e07a8c10ba91d1168acfac6742b7ac6690f2fc4731a6699758cea3f3ee8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/465790200.jpg?k=c71c9bd942b74e011a884f8d6bfd2f45023680a985bb36fbb790b03e590d2e13&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/465790203.jpg?k=57c9a20fe1351813e9f44b07ab7533400f7af2f972c76ab44500c195ad52148b&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Tradicional Zgara 300 m"\n  - "Restorant Xhokla 300 m"\nnearbyBeaches:\n  - "Vlore Beach 350 m"\n  - "Vjetër Beach 1.4 km"\n  - "Ri Beach 1.5 km"\n  - "Beach at Government Villas 3.4 km"\n  - "Liro Beach 4.1 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.4 km"\n  - "Kuzum Baba 2.1 km"\n  - "Independence Square 2.4 km"\nbookingURL: "https://www.booking.com/hotel/al/luis-apartments-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis garden-adorned property provides guests with a peaceful retreat, featuring an inviting balcony that serves as a perfect spot for morning coffees or evening relaxation, all while staying connected with complimentary WiFi. The commitment to a non-smoking environment ensures a clean and fresh stay for all guests.
 
 Accommodation at Luis Apartments is thoughtfully designed with comfort in mind. The air-conditioned apartment includes a bedroom that promises restful nights, a fully equipped kitchen for those who enjoy crafting their meals, and a bathroom that caters to all essential needs. Entertainment is readily available with the inclusion of a flat-screen TV, making it an ideal setting for both short and extended stays.
 
 Located just 2.6 km from Independence Square, guests have the convenience of exploring Vlorë's cultural landmarks with ease. For those traveling further afield, Tirana International Mother Teresa Airport is 152 km away, making Luis Apartments a strategic choice for both local and international travelers seeking a memorable stay in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

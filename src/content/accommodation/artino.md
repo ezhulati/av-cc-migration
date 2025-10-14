@@ -1,30 +1,7 @@
----
-title: Artino
-description: The villa itself is a testament to thoughtful design and convenience, featuring three well-appointed bedrooms, a fully equipped kitchen with modern appliances i
-featuredImage: "/images/accommodation/481541046.jpg"
-language: en
-slug: artino
-location: ""
-amenities: []
-images: []
----
-
-The villa itself is a testament to thoughtful design and convenience, featuring three well-appointed bedrooms, a fully equipped kitchen with modern appliances including a dishwasher and an oven, and a cozy seating area perfect for unwinding. The inclusion of three bathrooms, each with a bidet, ensures a comfortable stay for all guests. The highlight for many, however, is the outdoor dining area, offering stunning garden views that promise memorable meals under the open sky. For those concerned with privacy and security, rest assured, as Artino boasts a private entrance and round-the-clock security.
+---\ntitle: "Artino"\ndescription: "Artino stands as a prime example of modern comfort meeting serene beachfront living in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481541046.jpg?k=d7f831b33f659ce776e727331969d643bb50bb59142ddc200466274393764312&o=&hp=1"\nlanguage: en\nslug: artino\naddress: "Perla Resort, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.50693769\n  lng: 19.5180092\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481541046.jpg?k=d7f831b33f659ce776e727331969d643bb50bb59142ddc200466274393764312&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483683226.jpg?k=60e6dbeee16c62143a82cbd1a38ae58e121cd6042c9a4055d8978742522c418a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481541150.jpg?k=abbf5509cea34fc50cf5643e5fddae29fdefd113ebd2fdf2fec8636802f78680&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481541111.jpg?k=28c62de222c416153b8fc86a40722fa474f379ad0ab549e0b4c6d31295896325&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481541136.jpg?k=1028820baf0a4ccf3142432219f623dc4ced85ab866eccf53d5682863580d30c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481541152.jpg?k=d375611ff6208dd1dee871e3242a1dfff033b5d49e5a5f79a4d7903c7840eb84&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481541126.jpg?k=2a993eb841204107c84e22da74000d8266cadcce213fa9132237408978832dec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483683161.jpg?k=5ef706099e0c5163e9d4eb99563fe3568259ab58f0f0af54a0e93e2c5281658e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481541090.jpg?k=4e272f814ac297d7c848dbde104906a8bd1405175539155f9a4c11f0a20905e8&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Triumf 2 250 m"\n  - "Bar Restorant Oasis 450 m"\nnearbyBeaches:\n  - "Lalëz Bay Beach 300 m"\n  - "Rodoni Beach 9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 18 km"\n  - "Podgorica Airport 96 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "Diners Club"\nbookingURL: "https://www.booking.com/hotel/al/artino-durres.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe villa itself is a testament to thoughtful design and convenience, featuring three well-appointed bedrooms, a fully equipped kitchen with modern appliances including a dishwasher and an oven, and a cozy seating area perfect for unwinding. The inclusion of three bathrooms, each with a bidet, ensures a comfortable stay for all guests. The highlight for many, however, is the outdoor dining area, offering stunning garden views that promise memorable meals under the open sky. For those concerned with privacy and security, rest assured, as Artino boasts a private entrance and round-the-clock security.
 
 For leisure and convenience, guests need not venture far, as the property hosts an on-site bar perfect for evening relaxation. Additionally, the villa complex offers a picnic area, ideal for those days when guests wish to enjoy the outdoors without straying too far from the comfort of their temporary home.
 
 Situated strategically, Artino is not only close to the beach but also offers easy access to notable attractions. The Dajti Ekspres Cable Car is located 47 km away, offering breathtaking views and a unique way to experience the local landscape, while the Rock of Kavaje, a notable landmark, is just 41 km from the villa. For those traveling by air, the convenience of Tirana International Mother Teresa Airport being only 28 km away cannot be overstated.
 
 In summary, Artino emerges as a distinguished choice for travelers seeking a harmonious blend of comfort, privacy, and scenic beauty in Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

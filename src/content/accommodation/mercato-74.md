@@ -1,30 +1,7 @@
----
-title: Mercato 74
-description: This establishment prides itself on offering a smoke-free environment, ensuring a clean and healthy stay for all guests. Connectivity is never an issue, as free
-featuredImage: "/images/accommodation/514513560.jpg"
-language: en
-slug: mercato-74
-location: ""
-amenities: []
-images: []
----
-
-This establishment prides itself on offering a smoke-free environment, ensuring a clean and healthy stay for all guests. Connectivity is never an issue, as free WiFi blankets the entire property, keeping guests connected with the world or simply providing the means to share their experiences instantly.
+---\ntitle: "Mercato 74"\ndescription: "Mercato 74 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514513560.jpg?k=7f5035670b2a2ff5d44a6eda4c936c9d40a812987d925b91a1f68cad03dd1671&o=&hp=1"\nlanguage: en\nslug: mercato-74\naddress: "Rruga Profesor Halil Myrto, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3196644\n  lng: 19.4539448\nprice: "US$27"\npriceFrom: 27\nstarRating: 4\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 1\nratings:\n  overall: 7.5\n  location: 7.5\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 7.5\n  comfort: 7.5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514513560.jpg?k=7f5035670b2a2ff5d44a6eda4c936c9d40a812987d925b91a1f68cad03dd1671&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514513641.jpg?k=56ce23a573359bc79d5ee9a89c989b05927f3d7529c64b2c038e1e7f253c7bf4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514513651.jpg?k=3628aa31bff120877755679f41c0151a5077342cf6bc71c355ea2267620bc7b0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514513645.jpg?k=1b2b80d38f40e98fe62d1dafd763c773bfb84edde60e4630a7bb8ffea8743114&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519426103.jpg?k=79ea8611d3fc09b0cb607b08f7b9f82d88c6cbf17614c4097728f9fc401726d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514513635.jpg?k=122d3ebe2f640b543f19292ec81656581518fa72784301ef2c6e67bd0566b643&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514513632.jpg?k=d5fefe75fd06194f9b7a0136a7bf3f7829be07c0bc5e4a672a766e472a97768a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519426100.jpg?k=9872021472b5cc4da471ab2afdd508f1975654082edf0f4f5c63d7dc47d657b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514513628.jpg?k=f4df20164ccf62d48b716ae9f7fabd396b563f96cca3e12d2569afa66bcc41aa&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyBeaches:\n  - "Durres Beach 1.2 km"\n  - "Currila Beach 1.4 km"\n  - "Kallmi Beach 1.8 km"\n  - "West End Beach 2.7 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nbookingURL: "https://www.booking.com/hotel/al/mercato-74-durres.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis establishment prides itself on offering a smoke-free environment, ensuring a clean and healthy stay for all guests. Connectivity is never an issue, as free WiFi blankets the entire property, keeping guests connected with the world or simply providing the means to share their experiences instantly.
 
 A mere 1.6 km separates guests from the inviting sands of Durres Beach, promising easy access to days of sun-soaked leisure. For those fascinated by history, the Durres Amphitheatre is just 1.5 km away, offering a glimpse into the past of this vibrant city. Meanwhile, the House of Leaves lies 37 km from the doorstep, presenting an intriguing excursion option.
 
 Convenience is further underscored by the proximity to Tirana International Mother Teresa Airport, located 32 km from Mercato 74, making arrivals and departures as smooth as possible for international and domestic travelers alike.
 
 Mercato 74 not only offers a strategic base for exploring the rich tapestry of Durrës and its surroundings but also ensures a stay marked by comfort and ease, making it a compelling choice for discerning guests.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

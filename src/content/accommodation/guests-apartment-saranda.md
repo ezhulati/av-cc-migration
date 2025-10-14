@@ -1,30 +1,7 @@
----
-title: Guests Apartment Saranda
-description: This beachfront gem not only boasts breathtaking views from its balcony but also ensures a seamless stay with complimentary WiFi throughout the premises. The co
-featuredImage: "/images/accommodation/484314634.jpg"
-language: en
-slug: guests-apartment-saranda
-location: ""
-amenities: []
-images: []
----
-
-This beachfront gem not only boasts breathtaking views from its balcony but also ensures a seamless stay with complimentary WiFi throughout the premises. The commitment to a smoke-free environment further enhances the appeal for those in pursuit of a clean and healthy retreat.
+---\ntitle: "Guests Apartment Saranda"\ndescription: "Guests Apartment Saranda emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484314634.jpg?k=86c08fdd9a0d5cf68262e79444f33e8c05d57d6e9d444b8b445e7426ab3b36dd&o=&hp=1"\nlanguage: en\nslug: guests-apartment-saranda\naddress: "Rruga Skënderbeu 4, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87365661\n  lng: 20.01222405\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484314634.jpg?k=86c08fdd9a0d5cf68262e79444f33e8c05d57d6e9d444b8b445e7426ab3b36dd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/484264971.jpg?k=8862e866eceebbf70f7a074a2992acd6e23f644d8f62b526d806738ac61e9d8b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/484264825.jpg?k=088b8617ca1cd98d747e8c95b9c46a8cf2302c68d2fdb52617147cb21d333b0e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/484264943.jpg?k=ee01cbe87452e16bee15c61247e83da42c6e16f34d0b189151e9ba7a658b21b4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/484264955.jpg?k=46c2d2b945f3d77eaafeab51c2efff554aed3d154df7bb82c07ba72461dd15a2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/484264959.jpg?k=5bf5b2eb11f6c0531bb2c125a563438de5b5dd0c829187ab90eec9fef72a3993&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/484264963.jpg?k=83b77fc57cac71e33e60c8646e97fd0a8683115fcb89199111b782fe6f98fdc3&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Haxhi 20 m"\n  - "Centrali 40 m"\nnearbyBeaches:\n  - "Saranda City Beach 40 m"\n  - "La Petite Beach 600 m"\n  - "Maestral Beach 800 m"\n  - "Sarande Main Beach 950 m"\n  - "VIP Beach 1.7 km"\nwhatsNearby:\n  - "Parc National de Butrint 2 km"\n  - "Butrint National Park 2.8 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nbookingURL: "https://www.booking.com/hotel/al/guests-apartment-saranda.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis beachfront gem not only boasts breathtaking views from its balcony but also ensures a seamless stay with complimentary WiFi throughout the premises. The commitment to a smoke-free environment further enhances the appeal for those in pursuit of a clean and healthy retreat.
 
 Accommodation at Guests Apartment Saranda is generously proportioned, featuring a well-appointed bedroom, a cozy living room complete with a flat-screen TV for entertainment, a fully equipped kitchen for those who enjoy preparing their own meals, and a modern bathroom outfitted with a shower and hair dryer, ensuring all the comforts of home.
 
 For those looking to explore beyond the beach, Butrint National Park offers a dose of nature and history just 16 km away, making for an easy day trip. Additionally, the proximity to Ioannina Airport, located 96 km from the apartment, facilitates convenient travel arrangements for international guests.
 
 In summary, Guests Apartment Saranda stands out as a top-tier accommodation choice, promising a memorable stay for visitors to Sarandë, whether they're here to soak up the sun, explore local attractions, or simply unwind in a serene setting.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

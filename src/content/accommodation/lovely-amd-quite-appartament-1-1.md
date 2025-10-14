@@ -1,28 +1,5 @@
----
-title: Lovely amd quite appartament 1-1
-description: The apartment is conveniently located just 2 km from the National Theatre of Opera and Ballet of Albania, offering culture vultures a chance to immerse themselv
-featuredImage: "/images/accommodation/445625165.jpg"
-language: en
-slug: lovely-amd-quite-appartament-1-1
-location: ""
-amenities: []
-images: []
----
-
-The apartment is conveniently located just 2 km from the National Theatre of Opera and Ballet of Albania, offering culture vultures a chance to immerse themselves in the rich artistic scene of Tirana. Similarly, the National Museum of History Albania and the Toptani Shopping Centre are within a 2.5 km radius, providing an insightful glimpse into the country's past and present. For those looking to explore the heart of the city, Skanderbeg Square is a mere 3.4 km away, promising a blend of historical landmarks and vibrant city life.
+---\ntitle: "Lovely amd quite appartament 1-1"\ndescription: "Discover the charm of Tirana with a stay at the Lovely and Quiet Apartment 1-1, a prime choice for travelers seeking comfort and convenience in Albania's vibrant capital."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445625165.jpg?k=a69c599d536dc88c55cdd2e925f82813c0859466e7de9f637631750a193e0f17&o=&hp=1"\nlanguage: en\nslug: lovely-amd-quite-appartament-1-1\naddress: "Rruga Gani Strazimiri, 1012 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.34443895\n  lng: 19.82633427\nprice: "US$28"\npriceFrom: 28\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445625165.jpg?k=a69c599d536dc88c55cdd2e925f82813c0859466e7de9f637631750a193e0f17&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/445625199.jpg?k=8f7ee4f4fc25c34bc59d8166e9dbf2504efa6878db377dc6d18289e4af09cee5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/445625203.jpg?k=06a43dc9c992d29824344d161ff1eb05fcdaab80bb2646223c448ba1039db192&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/445625208.jpg?k=a5d183c3fb114ffd8d49c9e5b6a8c968ea9e28640af323a02f40897ee853ff67&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/445625211.jpg?k=8d03cd0564cb40ff471c22a7aa35922b5f194f9536a0e13c8fdea43b22cbb110&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Clock Tower Tirana 1.9 km"\n  - "Skanderbeg Square 1.9 km"\n  - "Tanners' Bridge 2 km"\n  - "National Gallery of Arts Tirana 2.1 km"\n  - "House of Leaves 2.1 km"\n  - "Rinia Park 2.3 km"\n  - "Former Residence of Enver Hoxha 2.7 km"\n  - "Bunk'Art 1 Museum 2.9 km"\n  - "Grand Park of Tirana 3.6 km"\nnearbyRestaurants:\n  - "Byrektore 100 m"\n  - "Vila 5 200 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Allias 850 m"\n  - "Sheshi Rekreativ Gjolek Kokona 1.3 km"\n  - "Sheshi Jjosef Shtraus 1.3 km"\n  - "Amazing Nature 1.4 km"\n  - "Sheshi Sulejman Pasha 1.8 km"\n  - "Sheshi Rekreativ tek ish ATSh 1.8 km"\n  - "National Museum of History Albania 1.8 km"\n  - "Sheshi Skënderbej 1.9 km"\n  - "Sheshi Rekreativ Don Bosko 1.9 km"\n  - "Sheshi Paris 1.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/lovely-apt-1-3-tirane.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nThe apartment is conveniently located just 2 km from the National Theatre of Opera and Ballet of Albania, offering culture vultures a chance to immerse themselves in the rich artistic scene of Tirana. Similarly, the National Museum of History Albania and the Toptani Shopping Centre are within a 2.5 km radius, providing an insightful glimpse into the country's past and present. For those looking to explore the heart of the city, Skanderbeg Square is a mere 3.4 km away, promising a blend of historical landmarks and vibrant city life.
 
 Guests of Lovely and Quiet Apartment 1-1 are treated to a serene retreat in the bustling city. The apartment boasts air-conditioning for those warm Albanian days and comes equipped with a fully functional kitchen, ensuring a home-away-from-home experience. The living space includes a separate bedroom, offering privacy and tranquility, and a modern bathroom. Entertainment needs are met with the provision of a flat-screen TV, and the convenience of free WiFi throughout the property ensures that guests stay connected.
 
 For those interested in exploring the local area, Tanners' Bridge and the Clock Tower of Tirana are both within a 3 km radius, offering a peek into the architectural beauty and historical significance of the city. The apartment's proximity to Tirana International Mother Teresa Airport, located just 14 km away, adds to the convenience, making Lovely and Quiet Apartment 1-1 a compelling choice for travelers looking for a blend of comfort, location, and local charm.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

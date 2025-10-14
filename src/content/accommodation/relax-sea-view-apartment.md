@@ -1,28 +1,5 @@
----
-title: Relax Sea View Apartment
-description: Guests are welcomed into a generously sized apartment that opens up to a balcony offering a slice of Sarandë's serene landscape. The living quarters are thought
-featuredImage: "/images/accommodation/427052924.jpg"
-language: en
-slug: relax-sea-view-apartment
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into a generously sized apartment that opens up to a balcony offering a slice of Sarandë's serene landscape. The living quarters are thoughtfully designed with two bedrooms, a cozy living room, and a kitchen equipped with everything needed for a home-cooked meal. Entertainment is readily available with a flat-screen TV, and the promise of a restful night's sleep is ensured through soundproofing and a private entrance, adding an extra layer of privacy.
+---\ntitle: "Relax Sea View Apartment"\ndescription: "Relax Sea View Apartment emerges as a serene retreat in the heart of Sarandë, merely a stone's throw away from the main beach and a short stroll from the vibrant Saranda City Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427052924.jpg?k=4ff66a096fb1777d3611422bfb34d9d43d74d4fc0e88f54851a06c5c6be6e22a&o=&hp=1"\nlanguage: en\nslug: relax-sea-view-apartment\naddress: "Rruga Ismail Qemali, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87213934\n  lng: 19.99578812\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427052924.jpg?k=4ff66a096fb1777d3611422bfb34d9d43d74d4fc0e88f54851a06c5c6be6e22a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427053004.jpg?k=779f8fc3e7d5678c6f9bb4b69f41f953374cee746a555d1aa18236bd7a73a843&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427052997.jpg?k=a9061c99cd7194131d43f5c1c90e9578db61da4336573733fa1b90820288ed60&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427053067.jpg?k=5f4ad26328cb15896bae7fedbb2a099af565045c223ba2696426019b690f495c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427052976.jpg?k=9c950e650691938867ae1244d89fbb75434ca52b0296bb8706a2bab0dc2cada6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427052991.jpg?k=a023a262540d5fbac177f33b8677eb202742ed580906a10a1c245a4fa4ea965f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427053039.jpg?k=1a1fc9b7c4243822572e019973ffae943bd1d9511d9d4e5ccf485d1375b99ade&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427053051.jpg?k=fb88c5122afec6c34259209e59ec26b9ec491d2f35ab553d06525274ce19cd79&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427053016.jpg?k=980066d7536c97bfe3991896e15879f99e456810aecc3dfdeba3489f5d9e0184&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Terrace"\nnearbyRestaurants:\n  - "Oxhaku Saranda 30 m"\n  - "Moma Pasta Fresca 50 m"\nnearbyBeaches:\n  - "Sarande Main Beach 150 m"\n  - "Saranda City Beach 1.2 km"\n  - "Saranda Bay Beach 1.3 km"\n  - "La Petite Beach 1.6 km"\n  - "Maestral Beach 1.8 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.9 km"\n  - "Butrint National Park 3.5 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\nbookingURL: "https://www.booking.com/hotel/al/relax-sea-view-apartment-sarande.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into a generously sized apartment that opens up to a balcony offering a slice of Sarandë's serene landscape. The living quarters are thoughtfully designed with two bedrooms, a cozy living room, and a kitchen equipped with everything needed for a home-cooked meal. Entertainment is readily available with a flat-screen TV, and the promise of a restful night's sleep is ensured through soundproofing and a private entrance, adding an extra layer of privacy.
 
 For adventurers eager to explore beyond the city's borders, Butrint National Park awaits at a distance of 18 km, offering a glimpse into Albania's rich history and natural beauty. Conveniently, Relax Sea View Apartment is situated 98 km from Ioannina Airport, with a paid shuttle service available to ensure seamless travel arrangements.
 
 In essence, Relax Sea View Apartment stands out as an ideal choice for travelers seeking comfort, privacy, and the convenience of modern amenities, all while being enveloped by the captivating charm of Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

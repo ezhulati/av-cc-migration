@@ -1,30 +1,7 @@
----
-title: Sea view apartament
-description: The Sea View Apartment stands out for its thoughtful amenities, including air conditioning for those warm summer days and complimentary WiFi that keeps guests c
-featuredImage: "/images/accommodation/513926613.jpg"
-language: en
-slug: sea-view-apartament
-location: ""
-amenities: []
-images: []
----
-
-The Sea View Apartment stands out for its thoughtful amenities, including air conditioning for those warm summer days and complimentary WiFi that keeps guests connected throughout their stay. The property prides itself on being a smoke-free environment, ensuring a clean and fresh experience for all visitors.
+---\ntitle: "Sea view apartament"\ndescription: "Discover the charm of Pogradec with a stay at the Sea View Apartment, a serene holiday home that promises more than just a place to rest."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513926613.jpg?k=f2877928fd42f8c8e2bd31f733c4ac18c20c4a0158c342b6f73653d7eab6e443&o=&hp=1"\nlanguage: en\nslug: sea-view-apartament\naddress: "Rruga 10 Deshmoret e Pojskes, 7301 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.90122057\n  lng: 20.66630934\nprice: "US$28"\npriceFrom: 28\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513926613.jpg?k=f2877928fd42f8c8e2bd31f733c4ac18c20c4a0158c342b6f73653d7eab6e443&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/513926627.jpg?k=b5720698774e1b40a7db40e1fe9c3a02a531bd783a4c6c07ae1cc462ee32c9e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/513926630.jpg?k=30f68cc4d2b2e5734b24248cbc3a4e4aa8f8d1c1a33caec4d0dda5ca547901df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/513926634.jpg?k=eea1f41946194ad526d755f7b951d58f42d950d002adcc71464152568d56e893&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/513926635.jpg?k=456e78e50f88c5e1e33924ed8e3ba4d2c93397bbae2c82fbfe570d1d379386cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/513926643.jpg?k=2dc8b3dde3807ccc4fb9b7d9ab33610d52b1ad68094bdb07a3c2a9386d442799&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom House"\nnearbyRestaurants:\n  - "Restorant Piceri Dante Pograde 30 m"\n  - "Taverna Konaku Zgjani 50 m"\nwhatsNearby:\n  - "Driloni National Park 350 m"\n  - "National Park Galicica 7 km"\n  - "National Park Galicica 14 km"\n  - "Bay of Bones 15 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 71 km"\n  - "Tirana International Airport Mother Teresa 96 km"\nbookingURL: "https://www.booking.com/hotel/al/sea-view-apartament-pogradec.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nThe Sea View Apartment stands out for its thoughtful amenities, including air conditioning for those warm summer days and complimentary WiFi that keeps guests connected throughout their stay. The property prides itself on being a smoke-free environment, ensuring a clean and fresh experience for all visitors.
 
 Accommodation at the Sea View Apartment includes a cozy bedroom that promises a restful night's sleep, a fully equipped kitchen for those who love to cook, and a modern bathroom. Entertainment is guaranteed with a flat-screen TV available for guests' enjoyment.
 
 For those keen on exploring the spiritual side of Pogradec, the Monastery Saint Naum is merely 6.8 km away, offering a peaceful retreat. The Saint Nicholas Church, another spiritual landmark, is also within reach at 17 km from the property. And for the convenience of travelers, Ohrid Airport is located 45 km away, making arrivals and departures as smooth as possible.
 
 Whether it's the allure of historical sites or the comfort of a well-appointed holiday home, the Sea View Apartment in Pogradec is a perfect base for travelers looking to explore the rich heritage and natural beauty of the region.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

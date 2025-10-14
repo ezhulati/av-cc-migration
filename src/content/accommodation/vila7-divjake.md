@@ -1,26 +1,3 @@
----
-title: Vila7 divjake
-description: The villa itself is a testament to modern living, featuring two well-appointed bedrooms, a contemporary flat-screen TV, and a fully equipped kitchen that caters
-featuredImage: "/images/accommodation/498675668.jpg"
-language: en
-slug: vila7-divjake
-location: ""
-amenities: []
-images: []
----
-
-The villa itself is a testament to modern living, featuring two well-appointed bedrooms, a contemporary flat-screen TV, and a fully equipped kitchen that caters to all culinary needs. Additionally, the inclusion of a washing machine and a bathroom complete with a bidet underscores the villa's commitment to providing a home-away-from-home experience. For those cooler evenings, the fireplace offers a cozy ambiance, making it the perfect setting for unwinding after a day of exploration.
+---\ntitle: "Vila7 divjake"\ndescription: "Vila7 Divjake emerges as a serene retreat for travelers seeking comfort and convenience in Divjakë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498675668.jpg?k=e9022de5e3f4d87b2dc834a5b592883d00c83fd15ddf7dacedcb7e674c501f84&o=&hp=1"\nlanguage: en\nslug: vila7-divjake\naddress: "Divjakë, Albanian Riviera, Albania, 9022 Divjakë, Albania"\ncity: "Divjakë"\nlocation: "Divjakë"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.9714863\n  lng: 19.47949059\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498675668.jpg?k=e9022de5e3f4d87b2dc834a5b592883d00c83fd15ddf7dacedcb7e674c501f84&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498675694.jpg?k=1c49f248c420298e9ff273af2b5eaa67c313e6634fb116b5447309eb6195d8e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498675599.jpg?k=ceb1149efbe363c2e6a55fa2136fcb5c69aa4cb27d966e251b1efd2b7106611c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498675673.jpg?k=bae3113d5e09b38832565f68c16dad9efde7e68f6252789fe785068904c593f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498675684.jpg?k=5f5e432f9bd26698ee1b51ec08a56927e2c3cbacda8dc28a7c7c2a6c6ef2180d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499152097.jpg?k=fee80a51ab3b216f0166f05350fa38ffec10dbc269adc771354b03a10b133041&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498675681.jpg?k=a57754455b4af594a81c8220b502c399b32fac42c921015fad739e089aaf7628&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498675677.jpg?k=0b4dd272dc195db8e17b30049a5217cd9c110654e0ca80848e3d15509c45b13e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498675664.jpg?k=80fb95c4793478258ae08d616d284c44e68bf1e71a5f4a0f0f5ebfa53482309c&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fast free WiFi (90 Mbps)"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Due Gemelli Divjake 30 m"\n  - "Restorant te Taku 450 m"\nnearbyBeaches:\n  - "Spille Beach 10 km"\nwhatsNearby:\n  - "Divjake-Karavasta National Park 0 m"\n  - "Sheshi I Bashkise 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 51 km"\nbookingURL: "https://www.booking.com/hotel/al/vila7-divjake.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nThe villa itself is a testament to modern living, featuring two well-appointed bedrooms, a contemporary flat-screen TV, and a fully equipped kitchen that caters to all culinary needs. Additionally, the inclusion of a washing machine and a bathroom complete with a bidet underscores the villa's commitment to providing a home-away-from-home experience. For those cooler evenings, the fireplace offers a cozy ambiance, making it the perfect setting for unwinding after a day of exploration.
 
 Situated a mere 50 km from the iconic Rock of Kavaje and with the Tirana International Mother Teresa Airport 85 km away, Vila7 Divjake positions itself as an ideal base for both local sightseeing and further travel adventures. This property stands out for its dedication to a smoke-free environment, ensuring a clean and healthy stay for all guests.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

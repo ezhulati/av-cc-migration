@@ -4,9 +4,19 @@ description: Guests at J&P Apartment are treated to a host of amenities designed
 featuredImage: "/images/accommodation/438413679.jpg"
 language: en
 slug: jp-appartment
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Pogradec"
+amenities:
+  - "WiFi"
+  - "Parking"
+  - "Bar"
+  - "Spa"
+  - "Kitchen"
+  - "Balcony"
 ---
 
 Guests at J&P Apartment are treated to a host of amenities designed to enhance their stay. The apartment boasts a generous layout, including a balcony that invites guests to unwind in the open air. Inside, two bedrooms offer ample space for relaxation, while the living room provides a cozy setting for leisurely evenings. The kitchen doesn't disappoint either, coming well-equipped and even featuring a minibar for those who appreciate a good drink.
@@ -17,14 +27,3 @@ Cultural enthusiasts will find the location of J&P Apartment particularly appeal
 
 In summary, J&P Apartment stands out as a prime choice for travelers who value both the tranquility of their lodging and the ease of exploring the rich cultural tapestry of Pogradec and its surroundings.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -7,6 +7,10 @@ featuredImage: /images/attractions/secluded-boat-only-virgin-beaches.jpg
 images: []
 language: en
 slug: secluded-boat-only-virgin-beaches
+seo:
+  metaTitle: "Discover %title% %sep% %sitename%"
+  metaDescription: "Discover Albania's best virgin secluded beaches, only reachable by boat. From Grama Bay to Filikuri Beach, explore Albania's untouched coastal beauty."
+  focusKeyword: "best secluded beaches in albania"
 ---
 
 Boat Only Beaches
@@ -365,10 +369,3 @@ Remember, the best adventures are those that take you off the beaten path, and t
 
 So go ahead, make your plans, and let Albania’s virgin beaches be your next great escape.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

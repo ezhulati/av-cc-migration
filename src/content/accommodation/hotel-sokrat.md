@@ -1,15 +1,4 @@
----
-title: Hotel Sokrat
-description: Hotel Sokrat stands out for its contemporary and vibrant rooms, each boasting air conditioning and complimentary Wi-Fi, ensuring a comfortable and connected sta
-featuredImage: "/images/accommodation/228665047.jpg"
-language: en
-slug: hotel-sokrat
-location: ""
-amenities: []
-images: []
----
-
-Hotel Sokrat stands out for its contemporary and vibrant rooms, each boasting air conditioning and complimentary Wi-Fi, ensuring a comfortable and connected stay. The convenience of free parking is an added bonus for guests arriving by car.
+---\ntitle: "Hotel Sokrat"\ndescription: "Discover the hidden gem of Tirana, Hotel Sokrat, through the eyes of a seasoned hotel reviewer."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/228665047.jpg?k=36f9f505fb313db592c15c0d7ad7dbcdddc674c39fcfc3745a28ef8d54d56cc5&o=&hp=1"\nlanguage: en\nslug: hotel-sokrat\naddress: "Rr. e Elbasanit 81, AL 1000 Tirana, Albania"\ncity: "1000"\nlocation: "1000"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.3225404\n  lng: 19.82525289\nprice: "US$86"\npriceFrom: 86\nstarRating: 4\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 66\nratings:\n  overall: 9.3\n  location: 9.7\n  cleanliness: 9.3\n  facilities: 9\n  value: 8.9\n  comfort: 9.6\n  staff: 9.4\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/228665047.jpg?k=36f9f505fb313db592c15c0d7ad7dbcdddc674c39fcfc3745a28ef8d54d56cc5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/228658409.jpg?k=a1a7da79873a477eb24e5fb0242f36306b6190e5ef7c000fee6e5ade7912a92c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/228658810.jpg?k=dda8ce2210ae39d580a2b83254ed846825626721eef85e05019387d64dcbf255&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/228659599.jpg?k=ff4b1ecefd2bc85afcbb4b5068f82bade700c4c4eaad1832e8d201ec0359fd3b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/11985244.jpg?k=78cdd48b95c198c5ce2399ff2eb01018a8a12dd0af04cc0a7da3691028016c19&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/17810907.jpg?k=cb6ff5ebe67f7039ee6c8b1e04d7c19d3a10e8b42a333b9e6117e234beb07b4d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/228659945.jpg?k=ffec6a6a09e639b98412722e566634d3788c16f9b331b366a826bf9ac47f7cd5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295089294.jpg?k=278d20b7e06137d73e4b049e9b1f14d0d7d7f61a3610386f785ab87e8ed0e7b8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/228665056.jpg?k=afc64794b571731230ab831541890f88efb4e06ef1297cb170f50ebafddaa1fa&o=&hp=1"\namenities:\n  - "Airport shuttle (free)"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Superb breakfast"\nnearbyAttractions:\n  - "Clock Tower Tirana 750 m"\n  - "Skanderbeg Square 750 m"\n  - "House of Leaves 850 m"\n  - "National Museum of History Albania 1 km"\n  - "Grand Park of Tirana 1.2 km"\n  - "Bunk'Art 1 Museum 4.2 km"\nnearbyRestaurants:\n  - "Nami Lounge & Bar 20 m"\n  - "Fit Food Bar 20 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Piramida 250 m"\n  - "Shesh Rekreativ 300 m"\n  - "Sheshi Rekreativ tek Arena Kombëtare 350 m"\n  - "Tanners' Bridge 450 m"\n  - "Shesh Rekreativ 500 m"\n  - "National Gallery of Arts Tirana 550 m"\n  - "Parku Rinia 600 m"\n  - "Sheshi Rekreativ tek ish ATSh 600 m"\n  - "Rinia Park 650 m"\n  - "Former Residence of Enver Hoxha 700 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Marcin"\n    country: "United Kingdom"\n    text: "“Small hotel in walking distance from central square. Very nice staff. Big room, clean. Absolutely nothing to complain.”"\n  - name: "Riccardo"\n    country: "Germany"\n    text: "“central location, comfortable and quiet room, good breakfast, helpful staff, very good value for money.”"\n  - name: "Umut"\n    country: "Turkey"\n    text: "“the location and breakfast perfect. room is very large”"\nbookingURL: "https://www.booking.com/hotel/al/sokrat.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nHotel Sokrat stands out for its contemporary and vibrant rooms, each boasting air conditioning and complimentary Wi-Fi, ensuring a comfortable and connected stay. The convenience of free parking is an added bonus for guests arriving by car.
 
 The attention to detail in each room is evident. Guests are treated to a visual feast of soft hues and modern furnishings, complemented by a flat-screen TV with cable channels for in-room entertainment. The bathrooms are well-appointed with a shower, towels, toiletries, and slippers, adding a touch of home comfort to the stay.
 
@@ -18,15 +7,3 @@ Mornings at Hotel Sokrat are greeted with a rich buffet breakfast, promising a d
 A short 5-minute walk unveils the bustling Blloku neighbourhood, a haven for foodies, nightlife enthusiasts, and shoppers alike. The city centre, with its array of attractions, is accessible within a 10-minute walk, inviting guests to immerse themselves in Tirana's rich culture and history.
 
 For those venturing further, local buses conveniently stop 200 meters from the hotel, and Tirana Airport is located 20 km away, making Hotel Sokrat an ideal base for both local and international travelers seeking a blend of comfort, convenience, and exploration in the heart of Albania's vibrant capital.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

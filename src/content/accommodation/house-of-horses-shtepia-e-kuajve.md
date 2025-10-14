@@ -1,15 +1,9 @@
----
-title: House of Horses Shtepia e Kuajve
-description: Each air-conditioned room at House of Horses Shtepia e Kuajve is a testament to thoughtful hospitality, equipped with free WiFi, a private bathroom, a desk, and
-featuredImage: "/images/accommodation/506340247.jpg"
-language: en
-slug: house-of-horses-shtepia-e-kuajve
-location: ""
-amenities: []
-images: []
----
-
-Each air-conditioned room at House of Horses Shtepia e Kuajve is a testament to thoughtful hospitality, equipped with free WiFi, a private bathroom, a desk, and a flat-screen TV for a truly relaxing stay. Select rooms elevate the experience further, boasting garden views and private balconies where guests can unwind in the tranquility of their surroundings.
+---\ntitle: "House of Horses Shtepia e Kuajve"\ndescription: "Discover the charm of Korçë with a stay at House of Horses Shtepia e Kuajve, a serene oasis located just 45 km from the enchanting Ohrid Lake Springs and the historic Monastery Saint Naum."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506340247.jpg?k=0548eed57c228f668e2e1852388ea3f2548464b8db5ee62c9938c4f545e52235&o=&hp=1"\nlanguage: en\nslug: house-of-horses-shtepia-e-kuajve\naddress: "SH63, 7000 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.62323733\n  lng: 20.74352801\nprice: "US$65"\npriceFrom: 65\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 84\nratings:\n  overall: 9.4\n  location: 8.7\n  cleanliness: 9.7\n  facilities: 9.2\n  value: 9.5\n  comfort: 9.5\n  staff: 9.6\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506340247.jpg?k=0548eed57c228f668e2e1852388ea3f2548464b8db5ee62c9938c4f545e52235&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/326676726.jpg?k=61ce16a2eb5ecc89c8e8f55fd25ba67a0dfcbcfe430e4369dd97896c2802b997&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/326676882.jpg?k=2dd172c720bd8be7406c986c41aa97f99079648ff93f230639da5b66b772350e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307946561.jpg?k=91889656807b63759afdb7f1f6a7ca9f99083a8d39a55f5634c3634b07ba01ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310162379.jpg?k=d442568d3876a98eb1390b2344fa26c7cffe72c2629ddb960fe862db06ce1803&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307966923.jpg?k=e736c2ca93d5279ddc2581d54d458d6bd3af164aa1fdd65dbc644b69dcd53e12&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506340152.jpg?k=c53a0b9c7ea7c26773d9725bfcc93e5bf06076a6f59308e3e86d1c1577f4c740&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307946566.jpg?k=e265dc2c5426e4bed883540ef4f351434b67b187df38211821e71d75f62a26cc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506340612.jpg?k=ffa8255e8491b6749287136621de32d704a0c142e4971e98bbdd273bbf63c72b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307946527.jpg?k=e084cd58c6d844e19f86e354dbe248eef9a22be43822afb06561f335925b2af9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/326676961.jpg?k=01cfa68e18ec3c2a350c20b3409016f063f988b94538994f50f0b6fe9488cb30&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/326676951.jpg?k=6e3d730ab14aef3603ddf49d7f38872eb05eca79405df0fcded985a25e7d93d5&o=&hp=1"\namenities:\n  - "Indoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Double Room with Balcony"\n  - "Standard Twin Room"\n  - "Triple Room with Balcony"\n  - "Family Room with Balcony"\nnearbyRestaurants:\n  - "Restorant OAZ 2.2 km"\n  - "Demokracia 2.5 km"\nwhatsNearby:\n  - "Sheshi Panxhar 2.6 km"\n  - "Parku Rinia 3 km"\n  - "Parku Vangjush Mio 3 km"\n  - "Parku Themistokli Gërmenji 3.3 km"\n  - "Field of Tears 3.4 km"\n  - "Sheshi Patriku Joasaf 3.4 km"\n  - "Parku Rinia 3.7 km"\n  - "Sheshi Penetori 10 km"\n  - "Sheshi Koço Plaku 15 km"\nairports:\n  - "Kastoria National Airport 48 km"\n  - "Ohrid Airport 60 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Matteo"\n    country: "Italy"\n    text: "“Very nice brand new place with kind staff and delicious meals. The room was good and were horses in the backyard. My wife and her friend even took a ride! The breakfast was plenty and fresh, with perfectly cooked eggs, meet and typical cheese. We...”"\n  - name: "Aydan"\n    country: "United Kingdom"\n    text: "“Everything.
+This hotel was the highlight of our stay in Korce.
+Hotel is run by very good manager and his family and all other staff members were very nice and kind.
+The hotel itself is very clean, big and all facilities were provided.
+The...”"\n  - name: "Irissa"\n    country: "Albania"\n    text: "“The best place for having relax in korce.
+The food was super, the hosts were amazing and ready to satisfy all your necessity, the place was stunning. Surely, we’ll come back.”"\nbookingURL: "https://www.booking.com/hotel/al/house-of-horses.en-gb.html?aid=8035640"\nbestFor: "Best for Adventure Activities"\nbestCategories: "Adventure Activities"\ncategory: "Adventure Activities"\n---\n\nEach air-conditioned room at House of Horses Shtepia e Kuajve is a testament to thoughtful hospitality, equipped with free WiFi, a private bathroom, a desk, and a flat-screen TV for a truly relaxing stay. Select rooms elevate the experience further, boasting garden views and private balconies where guests can unwind in the tranquility of their surroundings.
 
 Beyond the comfort of the rooms, the hotel invites guests to explore its beautifully maintained garden, enjoy the convenience of free private parking, and socialize in the welcoming shared lounge. The on-site restaurant and bar serve as social hubs, offering delicious dining options and refreshing drinks in a friendly atmosphere.
 
@@ -18,15 +12,3 @@ For those seeking to bask in the sun, the hotel's sun terrace is the perfect spo
 The multilingual staff, proficient in Greek, English, and Albanian, are always available at the reception to assist guests, ensuring a seamless and enjoyable stay.
 
 Located a mere 73 km from Kastoria National Airport, House of Horses Shtepia e Kuajve is not just a place to stay but a gateway to the rich culture and breathtaking landscapes of Korçë, promising an unforgettable experience for every visitor.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,26 +1,3 @@
----
-title: City apartment 101
-description: "The apartment unfolds over a generous layout, featuring three well-appointed bedrooms, a cozy living room for relaxation, a fully equipped kitchen for..."
-featuredImage: "/images/accommodation/477950047.jpg"
-language: en
-slug: city-apartment-101
-location: ""
-amenities: []
-images: []
----
-
-The apartment unfolds over a generous layout, featuring three well-appointed bedrooms, a cozy living room for relaxation, a fully equipped kitchen for culinary adventures, and three modern bathrooms. Entertainment needs are met with a flat-screen TV, making it a perfect retreat for families or groups.
+---\ntitle: "City apartment 101"\ndescription: "City Apartment 101 emerges as a prime choice for travelers seeking comfort and convenience in Shkodër."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477950047.jpg?k=18eaf94c5825c24b69261bc03357aa54beec7de824267211e3c3ade1d9a6aac3&o=&hp=1"\nlanguage: en\nslug: city-apartment-101\naddress: "Rruga 3 Heronjtë, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.06633563\n  lng: 19.52085998\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 8\nratings:\n  overall: 9.9\n  location: 10\n  cleanliness: 9.7\n  facilities: 9.7\n  value: 10\n  comfort: 10\n  staff: 9.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477950047.jpg?k=18eaf94c5825c24b69261bc03357aa54beec7de824267211e3c3ade1d9a6aac3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477950039.jpg?k=5271a9eb30bdd5b47dd9af4180cefcfa0b6ba4e2d7ac124e3e332f80bac000bb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477949997.jpg?k=276e0bab56f936c03bb000adf6501ddef44f738567d6d4bb6948da21c321a3ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477949935.jpg?k=9160934ba644cee20b548c21f6a0591594d49bb367943ac688ee3f76ad21058d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477950035.jpg?k=212111b266b149d88527e131beddb6d65106f5d4a9b7b8e0d052e6e23ce4bf39&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477949976.jpg?k=379b3f888418afe5d60e246fa1c61bed482da5d7284c009f7308446a0875cbc4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477949974.jpg?k=64b4525b9bf603865eefa982001c659387e022bf72c85b67c88d78b783b6f6df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477949931.jpg?k=ff0afe020fa4809fcf4aefe2d9ec3838a2f8bb767cefa4903685ea7e4d2dfbf4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477949913.jpg?k=dd5be5ebd39ecc138749bd171abf21800c479be145be4221415630d3db180660&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "EDI 50 m"\n  - "BOBI 50 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 3.1 km"\n  - "National Park Skadar Lake 11 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 73 km"\n  - "Tivat Airport 74 km"\nreviews:\n  - name: "Li"\n    country: "China"\n    text: "“Everything is perfect！Very convenient location. The house is clean and new. The host is friendly and helpful.”"\n  - name: "Josip"\n    country: "Croatia"\n    text: "“New, comfortable, garage, good location. Friendly and helpful staff. Good value for your money. To recommend.”"\n  - name: "Xhino"\n    country: "Albania"\n    text: "“The apartment was very clean and stylish, it had a great view of the city. Also everything was provided(fully equipped kitchen, clothing iron and hair dryer, and a smart tv). Nothing was more than a 15min walk away(especially the popular cocktail...”"\nbookingURL: "https://www.booking.com/hotel/al/city-apartment-101.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment unfolds over a generous layout, featuring three well-appointed bedrooms, a cozy living room for relaxation, a fully equipped kitchen for culinary adventures, and three modern bathrooms. Entertainment needs are met with a flat-screen TV, making it a perfect retreat for families or groups.
 
 Strategically located, the property is just 58 km away from Podgorica Airport, making arrivals and departures as smooth as possible for international and domestic travelers alike.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

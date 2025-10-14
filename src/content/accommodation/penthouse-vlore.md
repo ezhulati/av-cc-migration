@@ -1,26 +1,3 @@
----
-title: Penthouse Vlore
-description: The apartment itself is a spacious retreat, featuring a sun-drenched terrace, three cozy bedrooms, a welcoming living room, and a kitchen equipped with everythi
-featuredImage: "/images/accommodation/471774052.jpg"
-language: en
-slug: penthouse-vlore
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a spacious retreat, featuring a sun-drenched terrace, three cozy bedrooms, a welcoming living room, and a kitchen equipped with everything needed for a home-cooked meal. Entertainment is readily available with a flat-screen TV, ensuring guests have a relaxing stay.
+---\ntitle: "Penthouse Vlore"\ndescription: "Penthouse Vlore emerges as a prime choice for travelers seeking a blend of comfort and convenience, located just a stone's throw away from Vlore Beach and within easy reach of Ri Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471774052.jpg?k=661c7b1d5c97029028084aa4dac50b1200b4dc26c051f08c172571ad109c0d9c&o=&hp=1"\nlanguage: en\nslug: penthouse-vlore\naddress: "Vlore - Kanine, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44620793\n  lng: 19.49672526\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471774052.jpg?k=661c7b1d5c97029028084aa4dac50b1200b4dc26c051f08c172571ad109c0d9c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482645853.jpg?k=17a16a752619cb1ce54be70914acdd42d0644e15d2de75fdfb89c7100df60cb3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471771657.jpg?k=15f001a5c21b2c626848d97af8c2a085c1b22b6c0bfceaf4101dfe12a03f19a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471774099.jpg?k=460d26df958a9750333a7d04f93e6d056c91094a10a3f6f67f6f494bcf44464b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471774072.jpg?k=a0ed98cd615a312c3ca3f4b5b8a0f788ec7136ce5b31900507fa24eaa8522ffc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471776038.jpg?k=43c4a844c0ab32706de23c00a1d7eb940bab8ec708da19165268ece2d24b4aeb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471771653.jpg?k=0e83bb3a0b2d7c1aa25e390c9d5566896a6689caef39c960bfe4e4f2f459dd0e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482645822.jpg?k=919e2c37b2f220047ad2de1dd0498f219dd8e58faf7a3fc49a2d5cb67e4a2ec7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482646188.jpg?k=e9ca6634456c18978aa4fe1e17ef145110bfedcc64637e29a8c811e7cbc062f6&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Primo Gusto 200 m"\n  - "Patio 250 m"\nnearbyBeaches:\n  - "Vlore Beach 200 m"\n  - "Ri Beach 1.2 km"\n  - "Vjetër Beach 1.5 km"\n  - "Beach at Government Villas 3 km"\n  - "Liro Beach 3.7 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.1 km"\n  - "Kuzum Baba 2.4 km"\n  - "Independence Square 2.8 km"\nbookingURL: "https://www.booking.com/hotel/al/penthouse-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a spacious retreat, featuring a sun-drenched terrace, three cozy bedrooms, a welcoming living room, and a kitchen equipped with everything needed for a home-cooked meal. Entertainment is readily available with a flat-screen TV, ensuring guests have a relaxing stay. 
 
 Located 3 km from Independence Square, Penthouse Vlore offers an ideal base for visitors looking to immerse themselves in the local culture. For those traveling further afield, Tirana International Mother Teresa Airport is 152 km away, making it a convenient option for international guests. This property stands out as a top-tier accommodation choice for those looking to experience Vlorë in style and comfort.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

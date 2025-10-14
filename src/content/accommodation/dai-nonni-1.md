@@ -1,28 +1,5 @@
----
-title: Dai nonni 1
-description: "This apartment boasts a well-appointed bedroom, a fully equipped kitchen for those who love to prepare their meals, and a modern bathroom, ensuring a..."
-featuredImage: "/images/accommodation/482308567.jpg"
-language: en
-slug: dai-nonni-1
-location: ""
-amenities: []
-images: []
----
-
-This apartment boasts a well-appointed bedroom, a fully equipped kitchen for those who love to prepare their meals, and a modern bathroom, ensuring a stay that combines the essence of home with the comfort of upscale amenities. The commitment to a non-smoking environment underscores the property's dedication to providing a clean and healthy stay for all guests.
+---\ntitle: "Dai nonni 1"\ndescription: "Dai nonni 1 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Golem."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482308567.jpg?k=83b7751c35b0a945343cb946163159193073709cf682bba32485fd59b684a126&o=&hp=1"\nlanguage: en\nslug: dai-nonni-1\naddress: "Perroji i Agait 3 rd floor, Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.26420517\n  lng: 19.52325145\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482308567.jpg?k=83b7751c35b0a945343cb946163159193073709cf682bba32485fd59b684a126&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/482308576.jpg?k=6148f6e268eed9f128c01425563f635f7421b4fc3a0fed1196c98283314ba50a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/482308584.jpg?k=411c5bd0761c2d3f037dc001032c4af7a795afbb792501805aa7a0144b0c6b27&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/482308462.jpg?k=de2d1880b04dab57744996920b645acba67f7f983bd7d73f197893e81d484671&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/482308564.jpg?k=0c105ebb1b42b962e520d5f6218e48325cb8a0bf5d7a8d89ea13c8a844459617&o=&hp=1"\namenities:\n  - "Private parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Sevian Pizza & Snack 250 m"\n  - "Fresh Fish 300 m"\nnearbyBeaches:\n  - "Golem Beach 350 m"\n  - "Shkëmbi i Kavajës Beach 400 m"\n  - "Mali I Robit Beach 1.8 km"\n  - "Durres Beach 2.7 km"\n  - "Qerret Beach 3.9 km"\nwhatsNearby:\n  - "Bekimi 8 km"\n  - "Durres Amphiteatre 8 km"\n  - "Wine Dhe Pooh 9 km"\n  - "1. Maj 9 km"\n  - "Yje Dhe Hena 9 km"\n  - "Sheshi Demokracia 9 km"\n  - "Sotir Noka 9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/dai-nonni-1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment boasts a well-appointed bedroom, a fully equipped kitchen for those who love to prepare their meals, and a modern bathroom, ensuring a stay that combines the essence of home with the comfort of upscale amenities. The commitment to a non-smoking environment underscores the property's dedication to providing a clean and healthy stay for all guests.
 
 Connectivity is never an issue, as guests enjoy access to complimentary WiFi, allowing for seamless planning of day trips or sharing of holiday snaps. For those arriving by car, the convenience of private parking is available, albeit at an additional charge, ensuring peace of mind for travelers.
 
 Situated 44 km from the enigmatic Former Residence of Enver Hoxha and a manageable distance of 38 km from Tirana International Mother Teresa Airport, Dai nonni 1 stands as a beacon for those desiring a tranquil retreat close to both natural beauty and historical marvels.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

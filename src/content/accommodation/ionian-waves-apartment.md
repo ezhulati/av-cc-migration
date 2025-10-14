@@ -1,30 +1,7 @@
----
-title: Ionian Waves Apartment
-description: This property doesn't just offer a place to stay; it provides a home away from home. The apartment boasts a generous layout that includes two well-appointed bed
-featuredImage: "/images/accommodation/286613855.jpg"
-language: en
-slug: ionian-waves-apartment
-location: ""
-amenities: []
-images: []
----
-
-This property doesn't just offer a place to stay; it provides a home away from home. The apartment boasts a generous layout that includes two well-appointed bedrooms, a cozy living room, and a balcony that presents breathtaking sea views. The inclusion of a fully equipped kitchen, complete with an oven and fridge, allows guests the freedom to prepare their meals, adding a touch of personalization to their stay. The modern conveniences extend to a flat-screen TV and complimentary WiFi that blankets the entire property, ensuring guests stay connected and entertained.
+---\ntitle: "Ionian Waves Apartment"\ndescription: "Ionian Waves Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/286613855.jpg?k=7d0a2af2d29bd81e3223757cefe082d578049265340b563c646bea7382d719ad&o=&hp=1"\nlanguage: en\nslug: ionian-waves-apartment\naddress: "Rruga Butrinti Next To Layos Restaurant, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86234196\n  lng: 20.01916151\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 5.6\nratingWords: "Below Average"\nnumberOfReviews: 3\nratings:\n  overall: 5.6\n  location: 5.8\n  cleanliness: 6.7\n  facilities: 4.2\n  value: 5.8\n  comfort: 5\n  staff: 5.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/286613855.jpg?k=7d0a2af2d29bd81e3223757cefe082d578049265340b563c646bea7382d719ad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/308099171.jpg?k=59d7f9754b2f47b164184f7a345134de8e62eac6e4a17b1a896a636863c23d51&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/308099172.jpg?k=421c50f6d56798b5fe69338b4fbd5c12502dc0ea015dd1120f462ce5a8321a99&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/286613853.jpg?k=14c0439f76ba0612a15d774f769ae694a3ca00b1671def64558403125c20a6ff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/286613869.jpg?k=7a12f77b4239f2b8ef1a5b128795ae44fd36c33b97396feed9096421751a2370&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/286613872.jpg?k=262aabfee1d2a3dbca89faa429ebf08e84a7bbebd98a38cfa81d30f9ce846087&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/286613862.jpg?k=5a6a7d094d3b5f2d4c480e89ddbfa1c17f3ef03107182455c1e5afdaa2b040db&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Te Bequa 2 20 m"\n  - "Street Food 30 m"\nnearbyBeaches:\n  - "VIP Beach 350 m"\n  - "Santa Quaranta Beach 450 m"\n  - "Maestral Beach 500 m"\n  - "Flamingo Beach 700 m"\n  - "La Petite Beach 750 m"\nwhatsNearby:\n  - "Parc National de Butrint 600 m"\n  - "Butrint National Park 1.4 km"\n  - "Plazhi I Krorezes 7 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 11 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/ionian-waves-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis property doesn't just offer a place to stay; it provides a home away from home. The apartment boasts a generous layout that includes two well-appointed bedrooms, a cozy living room, and a balcony that presents breathtaking sea views. The inclusion of a fully equipped kitchen, complete with an oven and fridge, allows guests the freedom to prepare their meals, adding a touch of personalization to their stay. The modern conveniences extend to a flat-screen TV and complimentary WiFi that blankets the entire property, ensuring guests stay connected and entertained.
 
 Attention to detail is evident in the thoughtful amenities provided, such as soundproofing for a peaceful retreat and a private entrance for an added layer of privacy. The bathroom, equipped with a walk-in shower, along with the provision of towels and bed linen, underscores the property's commitment to comfort.
 
 For those looking to explore beyond the immediate surroundings, Ionian Waves Apartment serves as an excellent base. The enchanting Butrint National Park is a mere 14 km away, offering a glimpse into the area's rich history and natural beauty. Further afield, Ancient Fanoti can be found at a distance of 48 km, inviting adventurous spirits to discover the region's archaeological treasures.
 
 Accessibility is seamlessly addressed with Ioannina Airport located 96 km away, and the apartment facilitates travel arrangements with its paid airport shuttle service. Ionian Waves Apartment not only promises a memorable stay but also delivers an experience that combines the ease of modern living with the charm of Sarandë's coastal allure.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

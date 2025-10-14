@@ -1,30 +1,7 @@
----
-title: Hotel Tosi
-description: The accommodations at Hotel Tosi are designed with guest comfort in mind. Each room is equipped with air conditioning, ensuring a restful environment regardless
-featuredImage: "/images/accommodation/361098756.jpg"
-language: en
-slug: hotel-tosi
-location: ""
-amenities: []
-images: []
----
-
-The accommodations at Hotel Tosi are designed with guest comfort in mind. Each room is equipped with air conditioning, ensuring a restful environment regardless of the weather outside. Guests will appreciate the thoughtful amenities, including a flat-screen TV for entertainment, a private bathroom stocked with essentials, and complimentary bed linen and towels for a touch of home.
+---\ntitle: "Hotel Tosi"\ndescription: "Hotel Tosi stands out as a prime choice for travelers seeking comfort and convenience in Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361098756.jpg?k=e84f7529837cc0eb385b2bc7ba3938fcbfd70568a2aa8df0c77706174220f04e&o=&hp=1"\nlanguage: en\nslug: hotel-tosi\naddress: "Rruga Hamdi Pepo, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.31925497\n  lng: 19.78969129\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 7\nratings:\n  overall: 7.9\n  location: 7.1\n  cleanliness: 7.9\n  facilities: 7.1\n  value: 8.3\n  comfort: 8.2\n  staff: 8.6\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361098756.jpg?k=e84f7529837cc0eb385b2bc7ba3938fcbfd70568a2aa8df0c77706174220f04e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361098749.jpg?k=d3851973f627794b6453896d495772ecf34db60087aa56e2c0ca63ba6e67cf15&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361098761.jpg?k=efad09f5e81c9b0c22a593176ff52673f3b92db05934eff0d7da8f3f51f1ae5e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361098751.jpg?k=ee03af21d493b16618259f0b8364098179a0946a15f53492cc05f8e46fe6ca28&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361086024.jpg?k=947252737dad2143388e705ab09e877f2cb8d5c1f525fcf1f4c5c2c942e26427&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361098748.jpg?k=e7d3a2216a6c76c91d8cf708a4abb327bf4f3d1b269f7895a90fe95e63e06fa2&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "24-hour front desk"\n  - "Bar"\nroomTypes:\n  - "Double Room"\n  - "Twin Room"\n  - "Triple Room"\nnearbyAttractions:\n  - "Former Residence of Enver Hoxha 2.3 km"\n  - "House of Leaves 2.4 km"\n  - "Rinia Park 2.5 km"\n  - "National Museum of History Albania 2.6 km"\n  - "Skanderbeg Square 2.6 km"\n  - "Clock Tower Tirana 2.7 km"\n  - "National Gallery of Arts Tirana 2.7 km"\n  - "Grand Park of Tirana 3.1 km"\n  - "Tanners' Bridge 3.1 km"\n  - "Bunk'Art 1 Museum 7 km"\nnearbyRestaurants:\n  - "Fast Food Roan 10 m"\n  - "Bar Piceri Taraca 200 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Pallati me Shigjeta 300 m"\n  - "Sheshi Rekreativ Bajram Curri 650 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 750 m"\n  - "Sheshi Rekreativ Sali Butka 900 m"\n  - "Sheshi Rekreativ Shefqet Musaraj 1.1 km"\n  - "Sheshi Rekreativ Parku 1Km 1.4 km"\n  - "Sheshi Rekreativ Blloku 1 Maji 1.4 km"\n  - "Sheshi Rekreativ Komuna e Parisit 1.5 km"\n  - "Shesh Rekreativ Yzberisht 1.5 km"\n  - "Park Lojrash 1.5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 81 km"\npaymentMethods:\n  - "JCB"\nbookingURL: "https://www.booking.com/hotel/al/tosi-tirane1.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe accommodations at Hotel Tosi are designed with guest comfort in mind. Each room is equipped with air conditioning, ensuring a restful environment regardless of the weather outside. Guests will appreciate the thoughtful amenities, including a flat-screen TV for entertainment, a private bathroom stocked with essentials, and complimentary bed linen and towels for a touch of home.
 
 What sets Hotel Tosi apart is the dedication of its staff. Available around the clock, the reception team is ready to offer personalized advice, ensuring that every stay is as enjoyable and hassle-free as possible. Whether it's recommendations for local dining or assistance with navigating the city, the staff goes above and beyond to meet guests' needs.
 
 For those interested in cultural experiences, Hotel Tosi is conveniently located near several attractions, including the House of Leaves and Rinia Park. Additionally, the unique Reja - The Cloud and the historical Postbllok - Checkpoint Monument are just a stone's throw away, offering guests a glimpse into the city's vibrant culture and past.
 
 With Tirana International Mother Teresa Airport only 13 km away, Hotel Tosi is an accessible option for international travelers. Whether visiting Tirana for business or leisure, this hotel promises a stay that combines comfort, convenience, and a warm welcome, making it an excellent choice for discerning guests.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

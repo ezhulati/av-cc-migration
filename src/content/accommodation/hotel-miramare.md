@@ -1,30 +1,7 @@
----
-title: Hotel Miramare
-description: "Accommodations at Hotel Miramare are thoughtfully designed with the guest's comfort in mind."
-featuredImage: "/images/accommodation/282685885.jpg"
-language: en
-slug: hotel-miramare
-location: ''
-amenities: []
-images: []
----
-
-Accommodations at Hotel Miramare are thoughtfully designed with the guest's comfort in mind. Each air-conditioned room is equipped with free WiFi and a private bathroom, ensuring a stay that is both connected and comfortable. For added security, rooms include a safety deposit box, and select accommodations feature a balcony or boast impressive sea views, adding a touch of luxury to the stay. Entertainment and convenience are seamlessly integrated, with each room housing a flat-screen TV and providing complimentary toiletries.
+---\ntitle: "Hotel Miramare"\ndescription: "Hotel Miramare stands out as a beacon of comfort and convenience in Vlorë, located just a short 500-meter stroll from the pristine Liro Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/282685885.jpg?k=df735ffdd69d6af123a0dbb501614194aa40d16212db2c49daf651c1769f5f2c&o=&hp=1"\nlanguage: en\nslug: hotel-miramare\naddress: "Near Goverment Residence, 8402 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.4158989\n  lng: 19.48395789\nprice: "US$100"\npriceFrom: 100\nstarRating: 4\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 293\nratings:\n  overall: 9\n  location: 9\n  cleanliness: 9.3\n  facilities: 9\n  value: 8.4\n  comfort: 9.3\n  staff: 8.9\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/282685885.jpg?k=df735ffdd69d6af123a0dbb501614194aa40d16212db2c49daf651c1769f5f2c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404220583.jpg?k=d3df9b45d1a05660d951ca8a60076fa04a981cc76b6771da8024a65612f7f11c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/282686702.jpg?k=b9d644f812c57314c1f04daa1dce482f9688bc4746b3aeb814542e8603dd65ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/282686687.jpg?k=19ec3f652db8f6abdc8cfd8475a940cff7e7e4fddf38bf91c91155842099cffa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/282690537.jpg?k=bf3e5059d01af6ab1922ee152939e78b5f34901b2fa613f0d3a8fbd96db662d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/282685621.jpg?k=516b3f9060bdef2056c37bb5f8c5d5a79957f9a3c1e91ca9aca327cc76337f34&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Fabulous breakfast"\nroomTypes:\n  - "Double Room with Garden View"\n  - "Superior Suite with Side Sea View"\n  - "Superior Suite with Sea View"\n  - "Executive Suite"\n  - "Suite with Private Pool"\nnearbyRestaurants:\n  - "Taverna Djepi 50 m"\n  - "Mandarine 100 m"\nnearbyBeaches:\n  - "Beach at Government Villas 200 m"\n  - "Liro Beach 300 m"\n  - "Coco Bongo Beach 1.3 km"\n  - "Sunny Beach 1.5 km"\n  - "Ri Beach 1.8 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 2.5 km"\n  - "Kuzum Baba 6 km"\n  - "Independence Square 6 km"\nairports:\n  - "Corfu International Airport 96 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Jessy"\n    country: "Belgium"\n    text: "“I would like to appreciate the support of the staff, helping in room service order food, and especially breakfast was very excellent. Hospitality of the staff members is very nice and respectful.”"\n  - name: "Konstantinos"\n    country: "Albania"\n    text: "“Nice staff, nice interior. Really nice Seaview apartments.”"\n  - name: "Maury"\n    country: "Ireland"\n    text: "“The hotel has the most spectacular sea view ever! The staff is super nice too! The hotel is small but cozy, great location, it's just amazing! Truly recommend it!”"\nbookingURL: "https://www.booking.com/hotel/al/miramare.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Hotel Miramare are thoughtfully designed with the guest's comfort in mind. Each air-conditioned room is equipped with free WiFi and a private bathroom, ensuring a stay that is both connected and comfortable. For added security, rooms include a safety deposit box, and select accommodations feature a balcony or boast impressive sea views, adding a touch of luxury to the stay. Entertainment and convenience are seamlessly integrated, with each room housing a flat-screen TV and providing complimentary toiletries.
 
 Beyond the comfort of their rooms, guests at Hotel Miramare can enjoy a range of services designed to make their stay as effortless as possible. Room service ensures that a quiet night in is just as appealing as a night out, while the availability of currency exchange on-site adds an extra layer of convenience for international travelers.
 
 For those looking to explore the area, the hotel is ideally situated less than 1 km from the Beach at Government Villas and just 2 km from Sunny Beach, making it a perfect base for beach lovers. Furthermore, the property is located 156 km from Tirana International Mother Teresa Airport, facilitating easy access for arriving and departing guests.
 
 Hotel Miramare emerges as a top choice for travelers seeking a harmonious blend of convenience, comfort, and accessibility in the heart of Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

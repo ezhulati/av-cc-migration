@@ -1,30 +1,8 @@
----
-title: Vila Alba 1
-description: "The apartment itself boasts a modern, air-conditioned interior with two well-appointed bedrooms and a bathroom complete with either a bath or shower,..."
-featuredImage: "/images/accommodation/489967011.jpg"
-language: en
-slug: vila-alba-1
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself boasts a modern, air-conditioned interior with two well-appointed bedrooms and a bathroom complete with either a bath or shower, alongside a hair dryer for guest convenience. Entertainment is readily available through a flat-screen TV, ensuring that guests have access to leisure even within the comfort of their accommodation. The inclusion of a balcony adds a touch of elegance, providing a private space for guests to enjoy the fresh air and perhaps a morning cup of coffee or an evening glass of wine.
+---\ntitle: "Vila Alba 1"\ndescription: "Vila Alba 1 emerges as a distinguished choice for travelers seeking a serene getaway in Korçë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489967011.jpg?k=c51de8948f42250c25598a49222009eddf4cda3ef8fa8b8688ec418c262cb3c3&o=&hp=1"\nlanguage: en\nslug: vila-alba-1\naddress: "Rr Foqon Postoli, Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.6203295\n  lng: 20.78532859\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 9\nratings:\n  overall: 9.8\n  location: 9.7\n  cleanliness: 9.7\n  facilities: 9.7\n  value: 10\n  comfort: 9.7\n  staff: 9.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489967011.jpg?k=c51de8948f42250c25598a49222009eddf4cda3ef8fa8b8688ec418c262cb3c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471115086.jpg?k=1b45d3f9f3ffa9a77b136bb401369f2996a72b048d1acb39eea05af9a33a80b0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490062158.jpg?k=13395f1824d444c7cf6b8c99c2ad74905100327cfde9a831fe367d63eaffdac7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471115067.jpg?k=33d6e4acf3c3b091d6023279fd4d1e206eb139524c51ac6f48abe3a9ab27f20e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468591611.jpg?k=cf0cc748fdd35e3892ea18d4a696c3d76400be1a921d26176ce9508a387f433c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471115082.jpg?k=f6e1cb51ef3c97c846a118e592c205055f42e89476209e4de454b8577bdcf0cc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467839834.jpg?k=080cbd0a7af7102c3d154d07542d2ca29b1555604d953c546e945d65b1770312&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523878028.jpg?k=335c1e628c014329f03386792d3dd1a5e287edcb80340c91db85933b622797f5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523878076.jpg?k=19761ecf71bd3a0d00bdf82b3161aa0c0100b7142fd00b52e8d715be121795a9&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Bar"\nroomTypes:\n  - "Standard Apartment"\nnearbyRestaurants:\n  - "Vila 95 200 m"\n  - "Proper Pizza Korce 200 m"\nwhatsNearby:\n  - "Field of Tears 300 m"\n  - "Parku Themistokli Gërmenji 350 m"\n  - "Sheshi Patriku Joasaf 550 m"\n  - "Parku Rinia 650 m"\n  - "Parku Rinia 850 m"\n  - "Parku Vangjush Mio 850 m"\n  - "Sheshi Panxhar 6 km"\n  - "Sheshi Koço Plaku 11 km"\n  - "Sheshi Penetori 12 km"\nairports:\n  - "Kastoria National Airport 45 km"\n  - "Ohrid Airport 61 km"\n  - "Kozani National Airport 96 km"\nreviews:\n  - name: "Anxhelo"\n    country: "Albania"\n    text: "“The location was very good and there was free parking in front of the building as well. The facilities were all new and modern, and the host was very friendly. The apartment was clean and very quiet, no noise whatsoever. The air conditioning was...”"\n  - name: "Cela"\n    country: "Albania"\n    text: "“Very welcoming, clean and very nice staff.
+Recommended.”"\nbookingURL: "https://www.booking.com/hotel/al/villa-alba-korca.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nThe apartment itself boasts a modern, air-conditioned interior with two well-appointed bedrooms and a bathroom complete with either a bath or shower, alongside a hair dryer for guest convenience. Entertainment is readily available through a flat-screen TV, ensuring that guests have access to leisure even within the comfort of their accommodation. The inclusion of a balcony adds a touch of elegance, providing a private space for guests to enjoy the fresh air and perhaps a morning cup of coffee or an evening glass of wine.
 
 For those who value connectivity, Vila Alba 1 ensures that guests remain linked to the digital world with free WiFi accessible throughout the property. Additionally, the presence of a garden and a bar on-site suggests a thoughtful consideration for guest relaxation and socialization options.
 
 Travelers concerned with accessibility will find reassurance in the property's proximity to Kastoria National Airport, located 71 km away, making Vila Alba 1 a practical choice for both domestic and international visitors.
 
 In summary, Vila Alba 1 stands out as a compelling option for guests looking for comfortable, convenient accommodation in Korçë, backed by the promise of natural beauty and historical sites just a short journey away.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

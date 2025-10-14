@@ -1,28 +1,5 @@
----
-title: KERCULLA Resort
-description: Accommodations at KERCULLA Resort are designed with guest comfort in mind, featuring flat-screen TVs in every room, allowing for a perfect blend of modernity an
-featuredImage: "/images/accommodation/478102113.jpg"
-language: en
-slug: kerculla-resort
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at KERCULLA Resort are designed with guest comfort in mind, featuring flat-screen TVs in every room, allowing for a perfect blend of modernity and convenience. The availability of free WiFi throughout the resort and complimentary private parking adds to the seamless experience for every guest.
+---\ntitle: "KERCULLA Resort"\ndescription: "KERCULLA Resort, situated in the historic city of Gjirokastër and a scenic drive away from Sarandë, presents a perfect blend of leisure and luxury for travelers."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478102113.jpg?k=a8784a88dd2e55993f3970c689fd27ed0eb584a70b82a8b753e2958b86b2f43b&o=&hp=1"\nlanguage: en\nslug: kerculla-resort\naddress: "RRUGA BASHKIM KOKONA, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "resort"\ncoordinates:\n  lat: 40.07299991\n  lng: 20.13246372\nprice: "US$102"\npriceFrom: 102\nstarRating: 4\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 571\nratings:\n  overall: 9.5\n  location: 9.5\n  cleanliness: 9.7\n  facilities: 9.6\n  value: 9.3\n  comfort: 9.7\n  staff: 9.5\n  wifi: 9.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478102113.jpg?k=a8784a88dd2e55993f3970c689fd27ed0eb584a70b82a8b753e2958b86b2f43b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307949739.jpg?k=e0bc4b0bb19984dd765d7e39e9ecac051566a663403a720f6d3658b98a87cb8f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478102205.jpg?k=5f758e0d882a41b6ae976f66d32c0e703086aa94b51149d49adb530ec611b24e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307950027.jpg?k=db3158f97bda52567cb429bc80305bdc5e0197a0bd748e5bbca0dff5d4a82487&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478736248.jpg?k=c54008a05c33ec47f156cee76bbb8d0b435df67a6d1c907281db4a6fa785761f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/147323191.jpg?k=2c9f9cfc81a982cac27f77b2395469a8365bd4080e5763193ae8ef9461c0b6f7&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Fitness centre"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Facilities for disabled guests"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Deluxe Double Room with Balcony"\n  - "Duplex Quadruple Room"\n  - "Deluxe Queen Suite"\n  - "Deluxe King Suite"\nnearbyRestaurants:\n  - "Kerculla 50 m"\n  - "Halal Klajdi 200 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 71 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Will"\n    country: "Australia"\n    text: "“The staff were excellent and welcoming, the property exceptional and the view amazing. Highly recommended.”"\n  - name: "Kjetil"\n    country: "Norway"\n    text: "“Very nice and special hotel at an exciting location. Beautiful view, very nice staff and excellant food. Nothing more you may wish !”"\n  - name: "Lisa"\n    country: "Germany"\n    text: "“Awesome location and very friendly staff! The view is definitely worth it. We even got to use the pool (even though it is not heated)”"\nbookingURL: "https://www.booking.com/hotel/al/kerculla-resort.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at KERCULLA Resort are designed with guest comfort in mind, featuring flat-screen TVs in every room, allowing for a perfect blend of modernity and convenience. The availability of free WiFi throughout the resort and complimentary private parking adds to the seamless experience for every guest.
 
 The resort prides itself on its round-the-clock front desk service, ensuring that guests' needs are promptly attended to at any hour. Moreover, the on-site bar offers a cozy spot for guests to unwind with a drink after a day of exploring the enchanting surroundings of Gjirokastër or the nearby beaches of Ksamil.
 
 KERCULLA Resort stands out as a prime destination for those seeking a blend of relaxation, convenience, and a touch of adventure in the heart of one of Albania's most captivating regions.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

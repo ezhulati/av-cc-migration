@@ -1,28 +1,6 @@
----
-title: Tony Home
-description: Accommodations at Tony Home are thoughtfully designed with the guest's comfort in mind. Each unit is equipped with essential amenities, including a wardrobe for
-featuredImage: "/images/accommodation/472865302.jpg"
-language: en
-slug: tony-home
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Tony Home are thoughtfully designed with the guest's comfort in mind. Each unit is equipped with essential amenities, including a wardrobe for personal belongings and a private bathroom featuring a shower. The commitment to guest convenience is further highlighted by the provision of complimentary WiFi across the premises. For those seeking a little extra, select rooms boast terraces, offering private slices of paradise where guests can soak in the sea views.
+---\ntitle: "Tony Home"\ndescription: "Tony Home stands as a prime beachfront retreat in Borsh, merely 70 meters from the pristine Borsh Beach, offering guests a unique blend of convenience and serenity."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472865302.jpg?k=1748f350feea340b9d2e2a343eafaa3a200e1ad2e49e2e12bfbb72946f774fbd&o=&hp=1"\nlanguage: en\nslug: tony-home\naddress: "Rruga Plazhit, 9714 Borsh, Albania"\ncity: "Borsh"\nlocation: "Borsh"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.02999498\n  lng: 19.87020142\nprice: "US$22"\npriceFrom: 22\nstarRating: 3\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 44\nratings:\n  overall: 8.2\n  location: 9.1\n  cleanliness: 8.2\n  facilities: 6.9\n  value: 7.8\n  comfort: 7.7\n  staff: 9.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472865302.jpg?k=1748f350feea340b9d2e2a343eafaa3a200e1ad2e49e2e12bfbb72946f774fbd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472865350.jpg?k=becb6beb2fb21d969a01806aae02ab690e6bdcf0b21f9bd6e19eca01c9785e0f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472865345.jpg?k=b19c1d65bb57c8c4d4ada1a1dfcc5bf7857588dc807935b30128c17bc70a9dbc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472865284.jpg?k=0cacf6b7145c32623d8e902ced1ea0dab9844b1516d265854eb3a1eab5cbe127&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472865278.jpg?k=707cf76e29524d72710012c0aa5e14c49e34ec74558b853986531747ed991890&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472865316.jpg?k=a022621d3544cbd09f63ca780b05aa49e616378c26c466dc5a6403c3315337a6&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Good free WiFi (39 Mbps)"\n  - "Beachfront"\n  - "Bar"\nroomTypes:\n  - "Double Room with Sea View"\n  - "Quadruple Room with Sea View"\nnearbyRestaurants:\n  - "Elisabeta 40 m"\n  - "Taverne Horizonti 50 m"\nnearbyBeaches:\n  - "Borsh Beach 50 m"\n  - "Buneci Beach 3 km"\n  - "Qeparo Beach 4.1 km"\n  - "Porto Palermo Beach 3 6 km"\n  - "Porto Palermo Beach 6 km"\nairports:\n  - "Corfu International Airport 47 km"\n  - "Ioannina Airport 88 km"\nreviews:\n  - name: "Dominik"\n    country: "United Kingdom"\n    text: "“This is a garden stay and you can hear the waves. The room was very clean, bed super comfy. I've had a balcony with table. The price is amazing for what you get!”"\n  - name: "Anastasia"\n    country: "Ukraine"\n    text: "“Чудові господарі, відповідали на усі наші потреби та запити. Хороше розташування, близько до моря. Повністю відповідає своїй ціні”"\n  - name: "Jana"\n    country: "Czech Republic"\n    text: "“Velmi milí majitelé apartmánu, během týdenního pobytu nám 3x darovali přes 1kg čerstvých fíků z jejich zahrady.
+V domě jsou tři apartmány se společnou terasou oddělenou stěnami mezi venkovními jídelními stoly, které zajišťují soukromí. Naprostá...”"\nbookingURL: "https://www.booking.com/hotel/al/tony-home.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Tony Home are thoughtfully designed with the guest's comfort in mind. Each unit is equipped with essential amenities, including a wardrobe for personal belongings and a private bathroom featuring a shower. The commitment to guest convenience is further highlighted by the provision of complimentary WiFi across the premises. For those seeking a little extra, select rooms boast terraces, offering private slices of paradise where guests can soak in the sea views.
 
 Beyond the confines of this cozy guest house, the Butrint National Park lies 46 km away, presenting an opportunity for guests to explore the rich tapestry of Albania's natural and historical heritage. For travelers, the nearest gateway through Ioannina Airport is 123 km away, making Tony Home an accessible escape for both domestic and international visitors.
 
 With free private parking and an on-site minimarket, guests are afforded the luxury of worry-free travel, whether they're there to bask in the sun-drenched shores or to explore the surrounding beauty. Tony Home emerges as a top choice for those in pursuit of a tranquil beachfront stay, coupled with the convenience of modern amenities and the charm of Albanian hospitality.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

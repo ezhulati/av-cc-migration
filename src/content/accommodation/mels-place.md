@@ -4,9 +4,16 @@ description: This apartment, boasting a spacious layout complete with a balcony 
 featuredImage: "/images/accommodation/8ecb6dbf787bac20deb3945d9c8a8b1c94cc5e64.png"
 language: en
 slug: mels-place
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "Spa"
+  - "Kitchen"
+  - "Balcony"
 ---
 
 This apartment, boasting a spacious layout complete with a balcony that offers sweeping city views, is designed to cater to the needs of modern travelers. Guests will find a well-appointed living room, a bedroom that promises restful nights, and a fully equipped kitchen featuring a dishwasher and an oven, ensuring that home-cooked meals are never off the menu. The inclusion of a walk-in shower in the bathroom, along with the provision of towels and bed linen, adds a touch of convenience to the stay.
@@ -17,14 +24,3 @@ For those keen to explore, Mel's Place serves as an ideal base. The property is 
 
 In summary, Mel's Place offers a blend of strategic location, thoughtful amenities, and privacy, making it a compelling choice for visitors to Tirana looking for a comfortable and convenient stay.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

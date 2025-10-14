@@ -4,9 +4,19 @@ description: Upon arrival, guests are greeted with the convenience of free priva
 featuredImage: "/images/accommodation/481045208.jpg"
 language: en
 slug: modern-apt-in-mangalem21-complex-wifiac
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Parking"
+  - "Restaurant"
+  - "Spa"
+  - "Kitchen"
+  - "TV"
 ---
 
 Upon arrival, guests are greeted with the convenience of free private parking and the assurance of full-day security, making for a worry-free stay. The addition of free WiFi and a currency exchange service on-site further enhances the guest experience, ensuring all needs are met without stepping outside the complex.
@@ -19,14 +29,3 @@ Location-wise, the Modern Apt in Mangalem21 Complex is ideally situated. Just a 
 
 In summary, the Modern Apt in Mangalem21 Complex stands out as a top-tier accommodation choice for those visiting Tirana, offering a blend of modern amenities, comfort, and convenience, all wrapped up in a stylish package.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

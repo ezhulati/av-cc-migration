@@ -4,9 +4,19 @@ description: Accommodations at Dritëza are thoughtfully designed to cater to th
 featuredImage: "/images/accommodation/410019409.jpg"
 language: en
 slug: driteza
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 3
+rating: 3
+accommodationType: "apartment"
+location: "Korçë"
+amenities:
+  - "Restaurant"
+  - "Bar"
+  - "Breakfast"
+  - "Kitchen"
+  - "Balcony"
+  - "TV"
 ---
 
 Accommodations at Dritëza are thoughtfully designed to cater to the diverse needs of its guests. Each room extends into a private patio, complemented by a satellite flat-screen TV, a dining area, and a fully equipped kitchen. The attention to detail is evident in the private bathrooms, which feature walk-in showers, plush bathrobes, and slippers, promising a stay that is as comfortable as it is luxurious. Select units elevate the experience further with terraces or balconies, offering enchanting views of the garden or the city's dynamic skyline.
@@ -19,14 +29,3 @@ Situated a mere 43 km from the historic Monastery Saint Naum and 71 km from Kast
 
 Dritëza stands out as a premier choice for travelers seeking a blend of modern amenities, comfort, and a touch of local charm in Korçë.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,26 +1,3 @@
----
-title: Vlore Lungomare apartament Albania
-description: The apartment itself is generously sized, featuring a terrace that invites guests to relax and unwind. Inside, the layout includes one bedroom, a cozy living ro
-featuredImage: "/images/accommodation/404963730.jpg"
-language: en
-slug: vlore-lungomare-apartament-albania
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is generously sized, featuring a terrace that invites guests to relax and unwind. Inside, the layout includes one bedroom, a cozy living room, and a well-equipped kitchenette, catering to all the essentials needed for a comfortable stay. Entertainment needs are also well met with the provision of a flat-screen TV.
+---\ntitle: "Vlore Lungomare apartament Albania"\ndescription: "Vlore Lungomare Apartment Albania offers a refreshing retreat in the heart of Vlorë, boasting air-conditioned accommodations complete with a private balcony."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404963730.jpg?k=8769cf6cc2c1c755bf643b24eddd83f0c4be14977b7cbb05932e4ec5aaa0d08d&o=&hp=1"\nlanguage: en\nslug: vlore-lungomare-apartament-albania\naddress: "Vlore - Lungomare, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4505476\n  lng: 19.4889468\nprice: "US$59"\npriceFrom: 59\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404963730.jpg?k=8769cf6cc2c1c755bf643b24eddd83f0c4be14977b7cbb05932e4ec5aaa0d08d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/404963799.jpg?k=be9fc18b3b39bf6bd7424a5f13d8f660fbc4acfb48ee5f6178efddecada0cef5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/404963786.jpg?k=56ec93c6a129e55b794e7839266332b0e0380a2f308af6cab66d40021e2a8469&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/404963795.jpg?k=459e7d6f1deb6834e5d65df5e2c8f50267d3cf156d4e0b20180c1812923437ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/404963778.jpg?k=9d2daa87faeed15cb9d147799162669e0ca0c90cf14b72e06f21350fbbab2ab6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/404963806.jpg?k=c53e53659c27795488f350ca658855bf3116c12a00bdc86c7fd3ffd9cdaf01fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/404963792.jpg?k=e8eaa531361bc86b0e72513b824ee8ab5122474f89f03a4c8ee40cbe1caea225&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/404963804.jpg?k=ce96e74bbf6b7ae5b27dfac5d1fe5080f5fe9320169b5fcdbbf90e6d16dd4673&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/404963788.jpg?k=b51a07a315bdd7b17a246f4950d8025076080b5c1256b2a51308f117ee4f5b17&o=&hp=1"\namenities:\n  - "Private parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Da Michele Ristorante 40 m"\n  - "Brooklyn 100 m"\nnearbyBeaches:\n  - "Vlore Beach 450 m"\n  - "Vjetër Beach 650 m"\n  - "Ri Beach 1.7 km"\n  - "Beach at Government Villas 3.4 km"\n  - "Liro Beach 4 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.7 km"\n  - "Kuzum Baba 1.9 km"\n  - "Independence Square 2.3 km"\nbookingURL: "https://www.booking.com/hotel/al/vlore-lungomare-apartament-albania.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is generously sized, featuring a terrace that invites guests to relax and unwind. Inside, the layout includes one bedroom, a cozy living room, and a well-equipped kitchenette, catering to all the essentials needed for a comfortable stay. Entertainment needs are also well met with the provision of a flat-screen TV.
 
 For those keen to explore the local beaches, Vjetër Beach is conveniently situated just 1.1 km away, while the serene Ri Beach is a bit further at 2 km, offering diverse options for sun-seekers and water enthusiasts. For international travelers, the Tirana International Mother Teresa Airport is located 151 km from the apartment, making Vlore Lungomare Apartment Albania an accessible choice for both domestic and international visitors seeking a tranquil escape in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

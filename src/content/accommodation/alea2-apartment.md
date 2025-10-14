@@ -1,30 +1,10 @@
----
-title: ALEA2 Apartment
-description: The apartment itself is a testament to spacious living, featuring two well-appointed bedrooms, a cozy living room complete with a flat-screen TV for entertainme
-featuredImage: "/images/accommodation/519864408.jpg"
-language: en
-slug: alea2-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to spacious living, featuring two well-appointed bedrooms, a cozy living room complete with a flat-screen TV for entertainment, a fully equipped kitchen for those who love to cook, and a bathroom outfitted with a bath for relaxing soaks.
+---\ntitle: "ALEA2 Apartment"\ndescription: "ALEA2 Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519864408.jpg?k=9956e1a32d38d51f02f6483aa3e40ac8ce116fb87a35cddd62151ef76cac5bd0&o=&hp=1"\nlanguage: en\nslug: alea2-apartment\naddress: "Rruga Luigj Gurakuqi, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3288289\n  lng: 19.82267922\nprice: "US$37"\npriceFrom: 37\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 4\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519864408.jpg?k=9956e1a32d38d51f02f6483aa3e40ac8ce116fb87a35cddd62151ef76cac5bd0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519864478.jpg?k=07c0381d3bc10c26b27a0be9d4074dd7d6f43d41a64b96521554751345ca1398&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519864495.jpg?k=7d3d54358edac49d1f89dd4612dbfa381bb05b7341eeccffbc31fa01e69c5eea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519864500.jpg?k=65e7ead8ba95214e6c677f622cf68e8c64df6426fe63b2d24fcdbca7c6a21c46&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519872692.jpg?k=7f4a8887adc97e382e9671ead2d981b8ac46f50da78b7bf6bf9592ea295c9d3f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519864502.jpg?k=d06d2823e88442f814fa0abd287c5a10ddfd4e906f0ede142de29f089ecc305d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519864482.jpg?k=f2bccb0892c6aba2b71adb75a65afa4b0c428d271464fb409b854aae4fe77a30&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519864492.jpg?k=2ddf48847de75086065c8f20a64fbcc723caab166d000821fcfe21e1202d0eed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519864483.jpg?k=c668c3e7e2c46abf90e286601d8c57465fdcd57bbc48a45699a3a65b1ec000f5&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 550 m"\n  - "Rinia Park 600 m"\n  - "Former Residence of Enver Hoxha 1,000 m"\n  - "Grand Park of Tirana 1.9 km"\n  - "Bunk'Art 1 Museum 3.9 km"\nnearbyRestaurants:\n  - "Rozafa 6 m"\n  - "Coffee Island 20 m"\nwhatsNearby:\n  - "Sheshi Sulejman Pasha 100 m"\n  - "Clock Tower Tirana 250 m"\n  - "Sheshi Rekreativ tek ish ATSh 300 m"\n  - "Skanderbeg Square 300 m"\n  - "National Gallery of Arts Tirana 350 m"\n  - "Parku Europa 350 m"\n  - "Tanners' Bridge 400 m"\n  - "Sheshi Skënderbej 400 m"\n  - "National Museum of History Albania 450 m"\n  - "Parku Rinia 500 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Gergely"\n    country: "United Kingdom"\n    text: "“Great location with a very friendly and helpful host”"\n  - name: "Christoforidis"\n    country: "Greece"\n    text: "“Κεντρικό σημείο και άνετο περιβάλλον σε χαμηλή τιμή”"\n  - name: "Sherinald"\n    country: "Albania"\n    text: "“It is located in a good area of the city
+You have everything near you
+The house was veey clean and the owner of the house is very very polite
+We will be back”"\nbookingURL: "https://www.booking.com/hotel/al/alea2-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Location"\nbestCategories: "Location"\ncategory: "Location"\n---\n\nThe apartment itself is a testament to spacious living, featuring two well-appointed bedrooms, a cozy living room complete with a flat-screen TV for entertainment, a fully equipped kitchen for those who love to cook, and a bathroom outfitted with a bath for relaxing soaks. 
 
 For those looking to explore local culinary delights, a variety of dining options await just a stone's throw from the apartment. Moreover, ALEA2 Apartment is strategically located to offer easy access to some of Tirana's most sought-after attractions, including the historic Skanderbeg Square, the intriguing Former Residence of Enver Hoxha, and the bustling Toptani Shopping Centre.
 
 Travelers will appreciate the convenience of the available shuttle service, and for those looking to venture further, a car rental service is readily available. Situated merely 14 km from Tirana International Mother Teresa Airport, the apartment also facilitates travel arrangements with a paid airport shuttle service, ensuring a seamless experience for arriving and departing guests.
 
 In summary, ALEA2 Apartment stands out as a stellar accommodation choice, promising a blend of comfort, convenience, and a strategic location for an unforgettable stay in Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

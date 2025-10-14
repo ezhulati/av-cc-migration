@@ -1,30 +1,7 @@
----
-title: Hotel Triart
-description: Guests at Hotel Triart are treated to an array of amenities designed to enhance their stay. The establishment prides itself on its commitment to service, featur
-featuredImage: "/images/accommodation/340544709.jpg"
-language: en
-slug: hotel-triart
-location: ""
-amenities: []
-images: []
----
-
-Guests at Hotel Triart are treated to an array of amenities designed to enhance their stay. The establishment prides itself on its commitment to service, featuring a 24-hour front desk, room service, and complimentary WiFi that extends throughout the premises. The inclusion of a bar adds a touch of relaxation, providing a perfect spot to unwind after a day of exploration.
+---\ntitle: "Hotel Triart"\ndescription: "Hotel Triart stands out as a prime choice for travelers seeking comfort and convenience in Korçë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/340544709.jpg?k=019e6e7bacd3ac82599c205b4b5df8d90cf5f8d991b1a0c10714bdef97a03350&o=&hp=1"\nlanguage: en\nslug: hotel-triart\naddress: "Bulevardi Shën Gjergji, Pedonale, Korce, 7001 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.61709821\n  lng: 20.77866699\nprice: "US$44"\npriceFrom: 44\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 145\nratings:\n  overall: 9.2\n  location: 9.7\n  cleanliness: 9.2\n  facilities: 8.8\n  value: 9.1\n  comfort: 9.2\n  staff: 9\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/340544709.jpg?k=019e6e7bacd3ac82599c205b4b5df8d90cf5f8d991b1a0c10714bdef97a03350&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352898281.jpg?k=bc2247fb6481ed2cf3816784351ed4d9a45b0a0dd58e844ef2cf71a08c09faf9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352897990.jpg?k=3c82d007b508227bc7cd185386fed3166903ea01c9378befb9673aa1e187d918&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/340544763.jpg?k=a2a3c80f0cf50d01b6b46c420e2fb023583cfc971fae454303f932960f08f240&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/340544701.jpg?k=21892cdee869bb70fa0630e53a67dda5c3d2112a0b8f0499a93743c1ee245ba0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352897989.jpg?k=1a0e42e97941a9831cd431c603b58959d7b97c32fe27f40ce4a7161bd2a08588&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352898282.jpg?k=8d42516c4d25492654370b05168296eb8342ee0f2473236f56645afa69d43719&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/340544702.jpg?k=f1e04b957d110715f7ddada8fc3ec5fc4b9b4912908fb7a8cbc00bfc5b3d2b06&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/340544657.jpg?k=e143e62f73626c4567e4f6a7e2d4636aaa213479cae4a3fd46cb917374a00430&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Standard Twin Room"\n  - "Double or Twin Room"\n  - "Triple Room with Balcony"\n  - "Family Room with Private Bathroom"\nnearbyRestaurants:\n  - "Krimea 20 m"\n  - "Nickys 30 m"\nwhatsNearby:\n  - "Parku Rinia 200 m"\n  - "Parku Vangjush Mio 200 m"\n  - "Parku Themistokli Gërmenji 350 m"\n  - "Field of Tears 400 m"\n  - "Sheshi Patriku Joasaf 400 m"\n  - "Parku Rinia 1.2 km"\n  - "Sheshi Panxhar 5 km"\n  - "Sheshi Koço Plaku 12 km"\n  - "Sheshi Penetori 12 km"\nairports:\n  - "Kastoria National Airport 45 km"\n  - "Ohrid Airport 61 km"\n  - "Kozani National Airport 96 km"\nreviews:\n  - name: "Denis"\n    country: "Albania"\n    text: "“Excellent location, friendly staff and very good accommodation”"\n  - name: "Alis"\n    country: "Albania"\n    text: "“Everything was on point. It was clean, the breakfast was very nice and the room was comfortable, cozy. Great location, on pedestrian.”"\n  - name: "Shehadin"\n    country: "Kosovo"\n    text: "“Everything was perfect! The staff were the best people i have ever met.”"\nbookingURL: "https://www.booking.com/hotel/al/triart.en-gb.html?aid=8035640"\nbestFor: "Best for Location"\nbestCategories: "Location"\ncategory: "Location"\n---\n\nGuests at Hotel Triart are treated to an array of amenities designed to enhance their stay. The establishment prides itself on its commitment to service, featuring a 24-hour front desk, room service, and complimentary WiFi that extends throughout the premises. The inclusion of a bar adds a touch of relaxation, providing a perfect spot to unwind after a day of exploration.
 
 Accommodations at Hotel Triart are thoughtfully appointed to ensure a comfortable and relaxing experience. Each room boasts air conditioning, a wardrobe, and a flat-screen TV, with select rooms offering the added luxury of a balcony. This attention to detail ensures that every guest finds a space that meets their needs, whether visiting for business or leisure.
 
 For those traveling to the area, Hotel Triart's proximity to Kastoria National Airport, just 71 km away, makes it an accessible destination for international and domestic travelers alike.
 
 In summary, Hotel Triart emerges as a distinguished option for guests looking for a blend of convenience, comfort, and attentive service in the heart of Korçë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Ronaldo Apartment
-description: "Guests at Ronaldo Apartment are treated to the luxury of a private balcony, complemented by the convenience of complimentary private parking and WiFi,..."
-featuredImage: "/images/accommodation/476668010.jpg"
-language: en
-slug: ronaldo-apartment
-location: ""
-amenities: []
-images: []
----
-
-Guests at Ronaldo Apartment are treated to the luxury of a private balcony, complemented by the convenience of complimentary private parking and WiFi, ensuring a stay that is both connected and secluded. The commitment to a smoke-free environment further enhances the appeal for those seeking a clean and healthy living space.
+---\ntitle: "Ronaldo Apartment"\ndescription: "Ronaldo Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476668010.jpg?k=03587f310b0ec208f5b3377477347899ecaa9c4bc441a5cd94af18066ae6a395&o=&hp=1"\nlanguage: en\nslug: ronaldo-apartment\naddress: "Rruga Lefter Talo, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87375936\n  lng: 20.01309325\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 9.6\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 8.8\n  comfort: 10\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476668010.jpg?k=03587f310b0ec208f5b3377477347899ecaa9c4bc441a5cd94af18066ae6a395&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486414427.jpg?k=2571f1712018475e24fed32700565dc7dad473b5087dae418ead46ad252cac7e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487895788.jpg?k=f20ef9365b10b0f086568c324e587cee0bcbd74431210e5891e582e6c8ce7545&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487895766.jpg?k=69682e82f894b2dfa66e9e5435b408cb53f94911ecafbebd567a8160c238d568&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480472085.jpg?k=0ce28156481e42fd50ca136ed80e3dcb70274b2e9818064c4b053df96eb4b7e8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480472093.jpg?k=55b972285e142468eecc811647066a0ab78795a6be11f5ac4be69bb79fe12fec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487895784.jpg?k=8d981f16c189cda6e61bac19fea61b9aff0c7782cc9e505bb67d1097245228ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487895772.jpg?k=aa7f8241bc5dee281336479861056b5de2c817cce9e48190dac3309eff8cf2a0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486415551.jpg?k=179a14e1a2b87bf195a2eb61e65347fd4d0db0c71fc0aac3a000f4d7a45006a9&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Haxhi 50 m"\n  - "Arches 100 m"\nnearbyBeaches:\n  - "Saranda City Beach 100 m"\n  - "La Petite Beach 600 m"\n  - "Maestral Beach 750 m"\n  - "Sarande Main Beach 1 km"\n  - "VIP Beach 1.7 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.9 km"\n  - "Butrint National Park 2.8 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Arijana"\n    country: "Bosnia and Herzegovina"\n    text: "“Objekat je lijepo opremljen, ima sve sto je potrebno, nalazi se na super lokaciji”"\nbookingURL: "https://www.booking.com/hotel/al/ronaldo-apartment-sarande.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Ronaldo Apartment are treated to the luxury of a private balcony, complemented by the convenience of complimentary private parking and WiFi, ensuring a stay that is both connected and secluded. The commitment to a smoke-free environment further enhances the appeal for those seeking a clean and healthy living space.
 
 The apartment itself is a haven of comfort, featuring air conditioning for those warm Mediterranean days. It houses two cozy bedrooms, a fully equipped kitchen ready for culinary adventures, and a bathroom designed with modern amenities. Entertainment needs are well catered to with the inclusion of a flat-screen TV, making it easy for guests to unwind after a day of exploration.
 
 For those arriving by air, the nearest gateway is Ioannina Airport, located 96 km away, making Ronaldo Apartment accessible for international and domestic travelers alike. This property does not just offer a place to stay; it provides a home away from home in one of Sarandë's most desirable locations.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

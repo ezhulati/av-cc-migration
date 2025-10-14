@@ -5,11 +5,15 @@ region: Southern Albania
 featuredImage: /images/destinations/grabove.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: grabove
 highlights: []
+seo:
+  metaTitle: "%title% Përmet Village Guide – Food, Stays & The Vjosa River"
+  metaDescription: "Discover Grabovë in Albania’s Vjosa Valley: directions, heritage homes, Tek Xhako guesthouse, forest walks, and local dishes that make Përmet cuisine famous."
 ---
 
 Why Visit Grabovë
@@ -141,10 +145,3 @@ Not yet—carry cash.
 
 They roam the higher forests; sightings near the village are extremely rare.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

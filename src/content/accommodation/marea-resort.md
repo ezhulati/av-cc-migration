@@ -1,30 +1,7 @@
----
-title: Marea Resort
-description: Guests at Marea Resort are treated to elegantly designed air-conditioned apartments that promise comfort and luxury. Each apartment is equipped with complimenta
-featuredImage: "/images/accommodation/486599560.jpg"
-language: en
-slug: marea-resort
-location: ""
-amenities: []
-images: []
----
-
-Guests at Marea Resort are treated to elegantly designed air-conditioned apartments that promise comfort and luxury. Each apartment is equipped with complimentary Wi-Fi and an LCD satellite TV, ensuring that guests stay connected and entertained throughout their stay.
+---\ntitle: "Marea Resort"\ndescription: "Discover the hidden gem of Marea Resort, a serene oasis surrounded by lush pine trees, merely a stone's throw away from the crystalline sea."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486599560.jpg?k=0e117e1d5d34c530a54a8b8dedc54ec1aaa91eb22e90162a6f6b48c5c2844bf5&o=&hp=1"\nlanguage: en\nslug: marea-resort\naddress: "Rr. Golem - Kavaje, 1000 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "resort"\ncoordinates:\n  lat: 41.22597754\n  lng: 19.51378888\nprice: "US$42"\npriceFrom: 42\nstarRating: 4\nrating: 6.7\nratingWords: "Average"\nnumberOfReviews: 52\nratings:\n  overall: 6.7\n  location: 7.6\n  cleanliness: 6\n  facilities: 5.6\n  value: 6\n  comfort: 6.3\n  staff: 7.6\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486599560.jpg?k=0e117e1d5d34c530a54a8b8dedc54ec1aaa91eb22e90162a6f6b48c5c2844bf5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/42564737.jpg?k=ae045c898e51b15e1ff93033dfb6ae50ef72420bf05971e84900aa1ef0443789&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/49133899.jpg?k=0924e53c278e2b16ac1887542611352cf40cf2316264ffb0d2289fdb8f2101ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/42564878.jpg?k=d87467810cd162b33ac8f77bd8ee4475f0e1477a6e2854ecf707ca005bab3484&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/18467687.jpg?k=f0908939f0c571b5968bcbd0bdc73cbd241fa1fa4b610ffd34a4e6c5becb075d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/42564727.jpg?k=062eba6c2f7e6599315293c06f2263276b32c3ee31f405ee84aaa00b4e9daec1&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Apartment with Sea View"\n  - "Apartment with Sea View"\n  - "Apartment with Garden View"\n  - "Apartment with Sea View"\n  - "Penthouse Apartment"\nnearbyRestaurants:\n  - "Baca 350 m"\n  - "AROME DETI RESTAURANT 750 m"\nnearbyBeaches:\n  - "Qerret Beach 200 m"\n  - "Mali I Robit Beach 500 m"\n  - "Golem Beach 2.5 km"\n  - "Shkëmbi i Kavajës Beach 4.4 km"\n  - "Durres Beach 7 km"\nwhatsNearby:\n  - "Durres Amphiteatre 11 km"\n  - "1. Maj 11 km"\n  - "Wine Dhe Pooh 11 km"\n  - "Yje Dhe Hena 12 km"\n  - "Sheshi Demokracia 12 km"\n  - "Bekimi 12 km"\n  - "Sotir Noka 12 km"\n  - "Divjake-Karavasta National Park 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 26 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/marea-resort.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Marea Resort are treated to elegantly designed air-conditioned apartments that promise comfort and luxury. Each apartment is equipped with complimentary Wi-Fi and an LCD satellite TV, ensuring that guests stay connected and entertained throughout their stay.
 
 The resort takes pride in offering its guests complimentary access to sun loungers and parasols, both by the poolside and on the beach, allowing for uninterrupted leisure under the sun. Additionally, the convenience of free private parking on the premises adds to the hassle-free experience at Marea Resort.
 
 Located in a peaceful area just outside Kavaja, Marea Resort is perfectly positioned away from the hustle and bustle, yet close enough to explore. The city center is a mere 5 km away, offering a blend of local culture and cuisine. For those looking to venture further, Mother Teresa Airport is 27 km away, and the vibrant capital city of Tirana is easily accessible, located 37 km away along the SH2 Motorway.
 
 Marea Resort stands out as a tranquil haven, offering a blend of elegance, comfort, and convenience, making it a must-visit destination for those seeking a peaceful getaway by the sea.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

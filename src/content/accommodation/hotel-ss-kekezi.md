@@ -1,30 +1,7 @@
----
-title: Hotel SS KEKEZI
-description: Guests at Hotel SS KEKEZI are treated to an array of amenities designed to enhance their stay. Each room boasts a well-appointed wardrobe, ensuring ample storag
-featuredImage: "/images/accommodation/355450048.jpg"
-language: en
-slug: hotel-ss-kekezi
-location: ""
-amenities: []
-images: []
----
-
-Guests at Hotel SS KEKEZI are treated to an array of amenities designed to enhance their stay. Each room boasts a well-appointed wardrobe, ensuring ample storage for personal belongings. The essence of comfort is further amplified by the inclusion of a private bathroom in every room, complete with a shower, complimentary toiletries, and a hairdryer, catering to the needs of the modern traveler.
+---\ntitle: "Hotel SS KEKEZI"\ndescription: "Hotel SS KEKEZI emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Gjirokastër."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355450048.jpg?k=52196e5750086d9e6cbaac9f8489df3fdc7c01aaaaede02e232956b3ba82edc0&o=&hp=1"\nlanguage: en\nslug: hotel-ss-kekezi\naddress: "Obelisku, Rruga Zejtareve 3floor, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.07439806\n  lng: 20.13826662\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 426\nratings:\n  overall: 9.4\n  location: 9.6\n  cleanliness: 9.5\n  facilities: 9.3\n  value: 9.5\n  comfort: 9.4\n  staff: 9.8\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355450048.jpg?k=52196e5750086d9e6cbaac9f8489df3fdc7c01aaaaede02e232956b3ba82edc0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355449809.jpg?k=37e5e7ccbecff4ade96bdc487923679f457d30c52a51539b586dceaac66935e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355449739.jpg?k=effa79f7e6950de900da897bb56b463362e0454cc5c0fc281bbaf33cf5897d28&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355449798.jpg?k=101cd8c1e96801d0c1b18dfcf92e6b1161d3c5d5b8b47a490669d6508b780006&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355450144.jpg?k=cd36a2d1fa5ecf3fa9423a669261ad8950e1a17acf26488df7369b250554542f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355450077.jpg?k=553142bcf34f0deced1eb3d0f2520c62d984a41998ae5437b60787e69d64ae2e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Superb breakfast"\nroomTypes:\n  - "Superior Triple Room"\n  - "Standard Double Room"\n  - "Triple Room with City View"\n  - "Superior Triple Room"\n  - "Economy Twin Room"\n  - "Family Suite"\nnearbyRestaurants:\n  - "Pizzeria Liti 30 m"\n  - "Simple 40 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Alana"\n    country: "United Kingdom"\n    text: "“We loved everything about this hotel ♥️ the beautiful views the decor had like a homely feel .. the staff was amazing and helped with anything we needed and the breakfast was so nice to I will definitely stay here again next year”"\n  - name: "Dennies"\n    country: "United Kingdom"\n    text: "“The property is well maintained, the staff are accommodating, and the location is gorgeous”"\n  - name: "Kavya"\n    country: "Poland"\n    text: "“This place is right in middle of old town with spectacular view and everything is near by. This place is run by old couple who are very sweet and prepare best breakfast in entire Gjirokaster! Google map landed us to a different route and it was...”"\nbookingURL: "https://www.booking.com/hotel/al/ss-kekezi-gjirokaster.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests at Hotel SS KEKEZI are treated to an array of amenities designed to enhance their stay. Each room boasts a well-appointed wardrobe, ensuring ample storage for personal belongings. The essence of comfort is further amplified by the inclusion of a private bathroom in every room, complete with a shower, complimentary toiletries, and a hairdryer, catering to the needs of the modern traveler.
 
 For those concerned with connectivity and comfort, the hotel does not disappoint. Free WiFi is accessible throughout the premises, allowing guests to stay connected with the world or plan their next adventure in Gjirokastër. Additionally, each room is equipped with air conditioning and a flat-screen TV, providing a sanctuary for relaxation and entertainment after a day of exploration.
 
 The convenience of Hotel SS KEKEZI is underscored by its proximity to Ioannina Airport, located 83 km away, making it an accessible option for international and domestic travelers alike. Moreover, the hotel prides itself on offering round-the-clock front desk service, ensuring that guests' needs are promptly attended to at any hour.
 
 In summary, Hotel SS KEKEZI stands out as a prime accommodation choice, offering a blend of essential amenities and thoughtful touches, all designed to make guests' stays as comfortable and enjoyable as possible.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

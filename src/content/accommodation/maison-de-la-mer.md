@@ -1,30 +1,7 @@
----
-title: Maison De La Mer
-description: The apartment is thoughtfully equipped with a bedroom that promises restful nights, a fully functional kitchen featuring a fridge and stovetop for home-cooked m
-featuredImage: "/images/accommodation/526190725.jpg"
-language: en
-slug: maison-de-la-mer
-location: ""
-amenities: []
-images: []
----
-
-The apartment is thoughtfully equipped with a bedroom that promises restful nights, a fully functional kitchen featuring a fridge and stovetop for home-cooked meals, and a cozy seating area perfect for unwinding. The inclusion of a flat-screen TV and complimentary WiFi allows guests to stay connected and entertained throughout their stay. The bathroom, complete with a bidet, adds a touch of convenience and luxury.
+---\ntitle: "Maison De La Mer"\ndescription: "Maison De La Mer emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë, just a stone's throw away from Vjetër Beach and a short distance from the vibrant Vlore Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526190725.jpg?k=68a5f13e56fc71bd27eff500362ff2806aae87acd42efea390aa381a75da08c1&o=&hp=1"\nlanguage: en\nslug: maison-de-la-mer\naddress: "Rr. Sazani, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45833899\n  lng: 19.46743899\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526190725.jpg?k=68a5f13e56fc71bd27eff500362ff2806aae87acd42efea390aa381a75da08c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517738008.jpg?k=bcd450bc869114241effa3d7dcfd93714413f5e70b7ec8e6cfa794ba967cbd67&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517738054.jpg?k=df92cd5233860490d9dc8b6e247de867ac75cc629a5789cf59a711ecb121a16c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517738050.jpg?k=edd83a87733def50c36dd04744705b19841bde09ee95ff70b793e849a7fae646&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517738067.jpg?k=3e0473164a34a750e1b8848cd570fb73602bb2227dd9bf5675c27610dd524067&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517739272.jpg?k=ee2c85ed51556476bb87222a3f2f94035e8787d3fb1be012b402a8da9ab1458d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517738044.jpg?k=8c96864be63dab8b167a6ab9606d59b0bb215f3397f500726e32e5c7c5c05bc9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517737901.jpg?k=e9ad6796ce8e6519da4b23b66e7d8c57d748bb7fd49d5a8fa3ab3713aab9c677&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526190824.jpg?k=dd606ca6b3363d488af1d909fa7aa35ead9f05e9f88f2a99da8ff0dd7b5f2111&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Love Beach 20 m"\n  - "Bar Restorant F. Feimi 250 m"\nnearbyBeaches:\n  - "Vjetër Beach 20 m"\n  - "Vlore Beach 2.5 km"\n  - "Ri Beach 3.4 km"\n  - "Narta Beach 4.2 km"\n  - "Beach at Government Villas 4.5 km"\nwhatsNearby:\n  - "Independence Square 2.4 km"\n  - "Kuzum Baba 2.4 km"\n  - "Scooby Doo Vlore 3.4 km"\nbookingURL: "https://www.booking.com/hotel/al/maison-de-la-mer.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment is thoughtfully equipped with a bedroom that promises restful nights, a fully functional kitchen featuring a fridge and stovetop for home-cooked meals, and a cozy seating area perfect for unwinding. The inclusion of a flat-screen TV and complimentary WiFi allows guests to stay connected and entertained throughout their stay. The bathroom, complete with a bidet, adds a touch of convenience and luxury.
 
 One of the highlights of Maison De La Mer is the opportunity to dine al fresco in the outdoor dining area, offering captivating city views that elevate the dining experience. Additionally, the property boasts quiet street views, providing a tranquil retreat from the bustling city life.
 
 For those looking to explore the local cuisine, a variety of dining options are available in close proximity to the apartment, offering a taste of Vlorë's culinary delights. The revered Kuzum Baba is situated just 4.1 km away, making it an accessible destination for those interested in exploring local landmarks.
 
 Travelers will find Maison De La Mer to be an ideal base for their Vlorë adventures, with Tirana International Mother Teresa Airport located 151 km away, ensuring ease of travel to and from the accommodation. This property stands out as a top selection for guests in search of comfort, convenience, and a touch of seaside serenity.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,15 +1,4 @@
----
-title: Vila Llaka
-description: The hotel prides itself on its well-appointed accommodations, each featuring a cozy seating area, a flat-screen TV with satellite channels, and a private bathro
-featuredImage: "/images/accommodation/313983563.jpg"
-language: en
-slug: vila-llaka
-location: ""
-amenities: []
-images: []
----
-
-The hotel prides itself on its well-appointed accommodations, each featuring a cozy seating area, a flat-screen TV with satellite channels, and a private bathroom stocked with complimentary toiletries. The convenience of air conditioning and a desk in every room ensures that guests enjoy both comfort and functionality during their stay.
+---\ntitle: "Vila Llaka"\ndescription: "Vila Llaka emerges as a serene haven for travelers seeking the perfect blend of comfort and adventure in Himare."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/313983563.jpg?k=15890062818c83d8bf52edd11b6c5b01bb68d3e0a7002385efa51b74c51b9ed2&o=&hp=1"\nlanguage: en\nslug: vila-llaka\naddress: "Potam Hill, 9405 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.08590651\n  lng: 19.7559835\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 280\nratings:\n  overall: 9.1\n  location: 7.9\n  cleanliness: 9.2\n  facilities: 8.6\n  value: 9.2\n  comfort: 9.1\n  staff: 9.5\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/313983563.jpg?k=15890062818c83d8bf52edd11b6c5b01bb68d3e0a7002385efa51b74c51b9ed2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328529726.jpg?k=994b453558b4c8af38140a38b3550c2dc1fca0148debe9223e00b8755baf74e2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328529855.jpg?k=d9bf2fe91cb5671a861f0f523bf45d007a3b569290ba15fe2ed6becdcd057ed4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352540973.jpg?k=d3a0d8f40dedfa2cd782d40263212c73c698ac62feb4fc0a55965a0b70a50534&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328529748.jpg?k=7ffcd95483b2b5b109fafd899e4de903296609e1fd479d10b384a2c5234eb7e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328529804.jpg?k=64d0d766e5434c3d5c81b35b3b541b64d2c6671cd34b134eb9a5d1b1396e41b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219447447.jpg?k=03882af8f21b77a82a5bac1fb578aebdac1bbda9dcac98d7d295111554f20041&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/283344467.jpg?k=c477a1b5785d363d639db193a108714681d2cdcb1494272b59a22eaef9187a66&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442390200.jpg?k=fd31b421776e77c35a05d51b992838901bac96b836f345aafe6438a0c4698904&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Exceptional breakfast"\nnearbyRestaurants:\n  - "Tramonto Ristorante 500 m"\n  - "Fanes & Beach Bar 600 m"\nnearbyBeaches:\n  - "Gjiri i Filikurit Beach 350 m"\n  - "Potam Beach 500 m"\n  - "Llamani Beach 1 km"\n  - "Prinos Beach 1.1 km"\n  - "Maracit Beach 1.5 km"\nwhatsNearby:\n  - "Llogora National Park 18 km"\nairports:\n  - "Corfu International Airport 54 km"\nreviews:\n  - name: "Anete"\n    country: "Latvia"\n    text: "“The best feeling - when the host is waiting for you and knows your name. Dont be afraid of the little offroad that takes you you to the vila. It is worth it.”"\n  - name: "Inna"\n    country: "Ukraine"\n    text: "“Cozy place on top of the hill, friendly staff, check-in at any time, delicious breakfast, amazing air filled with the smell of coniferous trees, sea view from the room and a beautiful view of the village. quiet place for a relaxing holiday”"\n  - name: "Yann"\n    country: "Germany"\n    text: "“Spectacular view from the third floor of the building towards the sea! That was the reason for our booking and we were not disappointed. Just be sure to be at the sea side as there are also rooms on the other side towards the mountains. Great...”"\nbookingURL: "https://www.booking.com/hotel/al/llaka.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe hotel prides itself on its well-appointed accommodations, each featuring a cozy seating area, a flat-screen TV with satellite channels, and a private bathroom stocked with complimentary toiletries. The convenience of air conditioning and a desk in every room ensures that guests enjoy both comfort and functionality during their stay.
 
 Beyond the rooms, Vila Llaka extends its hospitality to include a range of amenities designed to enhance the guest experience. A lush garden invites relaxation, while free private parking, a bar, and barbecue facilities cater to the needs and whims of every visitor. The provision of a shared kitchen, room service, and luggage storage underscores the hotel's commitment to guest satisfaction.
 
@@ -18,15 +7,3 @@ Mornings at Vila Llaka start with a delightful continental breakfast, setting th
 Accessibility is thoughtfully considered, with Ioannina Airport located 142 km away, making Vila Llaka a convenient choice for both domestic and international travelers.
 
 In summary, Vila Llaka stands out as a comprehensive retreat that caters to the diverse needs of its guests, ensuring a memorable stay amidst the scenic landscapes of Himare.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

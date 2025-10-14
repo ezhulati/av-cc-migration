@@ -1,30 +1,9 @@
----
-title: Willy Apartments
-description: This holiday home is a haven of relaxation, boasting a spacious balcony that offers breathtaking mountain views. Designed to accommodate the modern traveler, th
-featuredImage: "/images/accommodation/376790539.jpg"
-language: en
-slug: willy-apartments
-location: ""
-amenities: []
-images: []
----
-
-This holiday home is a haven of relaxation, boasting a spacious balcony that offers breathtaking mountain views. Designed to accommodate the modern traveler, the apartment features two cozy bedrooms, dual living spaces for added comfort, a flat-screen TV for entertainment, and an equipped kitchen complete with a fridge and kitchenware. The convenience of a walk-in shower in the bathroom adds to the thoughtful amenities provided.
+---\ntitle: "Willy Apartments"\ndescription: "Willy Apartments emerges as a serene retreat for travelers seeking the perfect blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376790539.jpg?k=3ba8b0a8258e8f7b491d425263aa270d6f04efc2269486fa4444da8dc2086388&o=&hp=1"\nlanguage: en\nslug: willy-apartments\naddress: "Rruga e Hidrovorit, 4020 Velipojë, Albania"\ncity: "Velipojë"\nlocation: "Velipojë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.86413885\n  lng: 19.44043983\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 19\nratings:\n  overall: 9.1\n  location: 8.6\n  cleanliness: 9.5\n  facilities: 8.3\n  value: 9.2\n  comfort: 8.9\n  staff: 9.3\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376790539.jpg?k=3ba8b0a8258e8f7b491d425263aa270d6f04efc2269486fa4444da8dc2086388&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370993708.jpg?k=462e9a245a7db554119d8d894151bd73111443735418cafb12253d558bb04736&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376789801.jpg?k=d76cb53d2560c92715d2eb786c3327c5519f977840fdc6838a74ef3095745fe3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376790554.jpg?k=b887b181aa5c47f22511b00bff8076c6a2a15e318cb969f66adb4c27c688005f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370993715.jpg?k=8daa255003c40d32310090f1064f897998624dd9873c6921705b3aedb30755d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370993725.jpg?k=7ddd69e9d30a222aa01cfe1cf8caf11a70eb0bcfece6a188a52bc84b9af50be6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376790553.jpg?k=8264007993c4f4aff05d71428a168318935ec8dc05e33c22280adc8af589325d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370995276.jpg?k=05983ec127b2933c17cc29ced66183f241e335f0f4f06e9e84af73dfa859c7e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370996115.jpg?k=90550b7fba4762b1a98fbb0a9da168fa5da5aef9279ac8b6d5891c51efaaf50f&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Il Faro 350 m"\n  - "Restorant Erkoci 450 m"\nnearbyBeaches:\n  - "Velipoja Beach 400 m"\n  - "Rana e Hedhun Beach 850 m"\n  - "Ada Bojana Beach 6 km"\n  - "Velika Plaza Beach 8 km"\nwhatsNearby:\n  - "Copacabana 11 km"\n  - "Cola Beach 12 km"\n  - "Imperiam Beach 14 km"\n  - "Msm Beach 14 km"\n  - "Tropicana 15 km"\n  - "Plaža Safari 15 km"\n  - "Bukurija Beach 16 km"\n  - "Saranda 16 km"\n  - "Plaža Toni 17 km"\n  - "Nudistička Plaža Albatros 20 km"\nairports:\n  - "Tirana International Airport Mother Teresa 54 km"\n  - "Podgorica Airport 56 km"\n  - "Tivat Airport 83 km"\nreviews:\n  - name: "Sanja"\n    country: "North Macedonia"\n    text: "“Huh where to start...
+If I can use only one word it would be 'perfect', but let's expand the explanation 😇
+Peaceful place, the beach is close to the apartment, the host is soo hospitable, kind and polite, there are even cool places where to go in...”"\n  - name: "Cezar"\n    country: "Romania"\n    text: "“Close to the beach - walking distance. close to restaurants. hot water at shower with pressurre, which is a must at the sea. we had 2 dogs with us so it was the perfect location because of the surroundings. The host was kind enough to arrange us...”"\n  - name: "Silvia"\n    country: "Germany"\n    text: "“The apartment is located in a quiet area, the beach and good restaurants are at walking distance. The apartment is comfortable and nicely decorated. The owners are really kind and helpful. Highly recommended!”"\nbookingURL: "https://www.booking.com/hotel/al/willy-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis holiday home is a haven of relaxation, boasting a spacious balcony that offers breathtaking mountain views. Designed to accommodate the modern traveler, the apartment features two cozy bedrooms, dual living spaces for added comfort, a flat-screen TV for entertainment, and an equipped kitchen complete with a fridge and kitchenware. The convenience of a walk-in shower in the bathroom adds to the thoughtful amenities provided.
 
 Guests of Willy Apartments enjoy the luxury of private parking on the premises, ensuring peace of mind during their stay. The added benefit of complimentary WiFi allows for seamless connectivity, keeping guests in touch with the world or planning their next adventure in the area.
 
 For those flying in, the Tirana International Mother Teresa Airport is 84 km away, making Willy Apartments an accessible choice for international and domestic travelers alike. The property prides itself on being a non-smoking environment, ensuring a clean and healthy atmosphere for all guests.
 
 Willy Apartments stands out as an ideal choice for those in search of a peaceful getaway, where the beauty of nature meets the comforts of home.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

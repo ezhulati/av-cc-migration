@@ -5,8 +5,8 @@ featuredImage: "/images/pages/Albania-Heritage-Foundation.jpg"
 language: en
 slug: foundation
 seo:
-  metaTitle: Albania Heritage Foundation
-  metaDescription: ""
   canonicalURL: https://albaniavisit.com/foundation/
+  metaTitle: "Protecting Heritage &amp; Nature | Albania Heritage Foundation"
+  metaDescription: "Independent nonprofit preserving Albania's cultural heritage through archaeological excavations, sustainable tourism, and environmental protection."
 ---
 

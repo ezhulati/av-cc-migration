@@ -1,30 +1,7 @@
----
-title: Bristol Hotel Tirana
-description: Each room is thoughtfully equipped with a minibar and an en-suite bathroom, ensuring a comfortable stay. Mornings at Bristol Hotel are greeted with a buffet-sty
-featuredImage: "/images/accommodation/15167803.jpg"
-language: en
-slug: bristol-hotel-tirana
-location: ""
-amenities: []
-images: []
----
-
-Each room is thoughtfully equipped with a minibar and an en-suite bathroom, ensuring a comfortable stay. Mornings at Bristol Hotel are greeted with a buffet-style breakfast, setting the tone for a day of exploration or relaxation.
+---\ntitle: "Bristol Hotel Tirana"\ndescription: "Discover the charm of Bristol Hotel Tirana, a gem located just a short stroll from the lively Blloku district, renowned for its bustling nightlife, eclectic bars, and gourmet restaurants."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15167803.jpg?k=a2cc947d175b0b2e72c478a485ace63af4adf618dc907c4ab8a3ac229680212b&o=&hp=1"\nlanguage: en\nslug: bristol-hotel-tirana\naddress: "Nikolla Jorga, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.32324904\n  lng: 19.8089633\nprice: "US$47"\npriceFrom: 47\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 235\nratings:\n  overall: 8.8\n  location: 9.1\n  cleanliness: 8.9\n  facilities: 8.2\n  value: 8.9\n  comfort: 8.7\n  staff: 9\n  wifi: 8.9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15167803.jpg?k=a2cc947d175b0b2e72c478a485ace63af4adf618dc907c4ab8a3ac229680212b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15167928.jpg?k=d3c849d8f63a274fec145917f9a11632817789ce9f96d41ef1d0e1ac1f059d19&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/115849688.jpg?k=7d8a869a705746ba0b45beded6ede7029cbb5d3fd51e8538344eb129e0ed51ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15167958.jpg?k=84027ab9a6644e9e091df3ee486a2df4e5bfd732ae11892e8067e8ab8c8132ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15168045.jpg?k=f5cc58e02dba6412d7f57ca1b5207902b4823f2459778bc6fa21f589f22de970&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15557432.jpg?k=533abe448605ba5fef963bd6ad49268cb8059f84e5e2a37dd3de502e207a4db6&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Parking on site"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Twin Room"\n  - "Double Room"\n  - "Triple Room"\nnearbyAttractions:\n  - "National Museum of History Albania 1,000 m"\n  - "Skanderbeg Square 1,000 m"\n  - "Clock Tower Tirana 1 km"\n  - "National Gallery of Arts Tirana 1 km"\n  - "Tanners' Bridge 1.5 km"\n  - "Grand Park of Tirana 1.9 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Grepi I Arte 6 m"\n  - "Thejollytaxpayer 40 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Blloku 1 Maji 400 m"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 550 m"\n  - "Sheshi Rekreativ Shefqet Musaraj 550 m"\n  - "Sheshi Rekreativ Komuna e Parisit 750 m"\n  - "House of Leaves 750 m"\n  - "Former Residence of Enver Hoxha 750 m"\n  - "Sheshi Rekreativ Sali Butka 750 m"\n  - "Rinia Park 800 m"\n  - "Sheshi Paris 850 m"\n  - "Parku Rinia 900 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 80 km"\nreviews:\n  - name: "Sky"\n    country: "United Kingdom"\n    text: "“The property was nice and clean and had a lovely bar opposite and nice shops in the surrounding areas!”"\n  - name: "Esteban"\n    country: "Costa Rica"\n    text: "“The man in reception is really nice he will help you with everything.”"\n  - name: "Emma"\n    country: "Albania"\n    text: "“I enjoyed the staff, they were very nice and helpful. they booked me a taxi to the bus station too.”"\nbookingURL: "https://www.booking.com/hotel/al/bristol-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach room is thoughtfully equipped with a minibar and an en-suite bathroom, ensuring a comfortable stay. Mornings at Bristol Hotel are greeted with a buffet-style breakfast, setting the tone for a day of exploration or relaxation.
 
 For those looking to venture out, the hotel is conveniently surrounded by supermarkets, shops, and additional dining options. Public transportation is easily accessible, with a bus stop just 400 meters away, making it effortless to navigate the city.
 
 Cultural enthusiasts will appreciate the hotel's proximity to Skanderbeg Square, located roughly 800 meters away, and the National Museum, which is within a kilometer's reach. For a touch of nature, the city's main park and lake are a mere 2.5 kilometers away, offering a serene escape from the urban environment.
 
 Situated 19 kilometers from Mother Theresa International Airport, Bristol Hotel Tirana also provides an airport transfer service upon request, ensuring a seamless travel experience. Whether you're in town for business or leisure, Bristol Hotel Tirana stands out as a convenient and comfortable choice for your stay.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

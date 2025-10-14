@@ -1,26 +1,3 @@
----
-title: Rozafa Fish City Hotel
-description: "Accommodations at Rozafa Fish City Hotel are thoughtfully designed with the guest's comfort in mind."
-featuredImage: "/images/accommodation/510118615.jpg"
-language: en
-slug: rozafa-fish-city-hotel
-location: ''
-amenities: []
-images: []
----
-
-Accommodations at Rozafa Fish City Hotel are thoughtfully designed with the guest's comfort in mind. Each air-conditioned room is equipped with a desk, kettle, safety deposit box, flat-screen TV, and a balcony for enjoying the serene surroundings. The private bathrooms are fitted with showers, and the hotel ensures the comfort of its guests with the provision of quality bed linen and towels in every room.
+---\ntitle: "Rozafa Fish City Hotel"\ndescription: "Rozafa Fish City Hotel emerges as a serene oasis in Labinot-Fushë, situated a mere 46 km from the bustling Skanderbeg Square."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510118615.jpg?k=bd6f9ecd4bb700173e688aacb22e16e82cb94291e1f2d91832bea31d19ccb703&o=&hp=1"\nlanguage: en\nslug: rozafa-fish-city-hotel\naddress: "E852 Rozafa Fish City , Labinot-Fushe , Elbasan, 3010 Labinot-Fushë, Albania"\ncity: "Labinot-Fushë"\nlocation: "Labinot-Fushë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.1393182\n  lng: 20.1452379\nprice: "US$65"\npriceFrom: 65\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510118615.jpg?k=bd6f9ecd4bb700173e688aacb22e16e82cb94291e1f2d91832bea31d19ccb703&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/510118679.jpg?k=290f549fd4e9251b7cbb768b8056a3ae6be93c66fdf8f68be2dc464274b63323&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/510118688.jpg?k=d837449a8df334a96614789465d1c0980cfae89d07338bcc3e378a75bc25f305&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/510118692.jpg?k=9ea5c54d3a972d52981cc0f0a82fde50dcbc79ec6a5a0031578669fc87bcd2cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/510118698.jpg?k=6b98c5734c4bad9a0b6e6de72a42e3f8d2d584414f63143a0113226e8076cfaa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/525639904.jpg?k=aa1a17b8bccf5180f20c7d9e28e14affb45da682160b5f85b0db4053f7e36e1f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/525639903.jpg?k=b9ac941450690e444168f062a844d1e5d8b8042f9f7f729c84392df41a9448c5&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Double Room (2 Adults + 1 Child)"\nnearbyRestaurants:\n  - "Rozafa - Fish City 50 m"\n  - "Fiorentina Elbasan 250 m"\nwhatsNearby:\n  - "Parku I Bleteve Kokreve 15 km"\n  - "Dajti Mountain National Park 20 km"\nairports:\n  - "Tirana International Airport Mother Teresa 45 km"\n  - "Ohrid Airport 50 km"\nbookingURL: "https://www.booking.com/hotel/al/rozafa-fish-city-labinot-fushe1.en-gb.html?aid=8035640"\nbestFor: "Best for Airport Access"\nbestCategories: "Airport Access"\ncategory: "Airport Access"\n---\n\nAccommodations at Rozafa Fish City Hotel are thoughtfully designed with the guest's comfort in mind. Each air-conditioned room is equipped with a desk, kettle, safety deposit box, flat-screen TV, and a balcony for enjoying the serene surroundings. The private bathrooms are fitted with showers, and the hotel ensures the comfort of its guests with the provision of quality bed linen and towels in every room.
 
 Strategically located, the hotel is just a short distance from notable landmarks, including the Former Residence of Enver Hoxha, 45 km away, and the Grand Park of Tirana, 46 km away. For those looking to explore the natural beauty of the area, the Dajti Ekspres Cable Car is within reach at 49 km from the property. Additionally, the Tirana International Mother Teresa Airport is conveniently located 58 km away, making Rozafa Fish City Hotel an ideal choice for both leisure and business travelers seeking a tranquil retreat amidst the vibrant landscape of Labinot-Fushë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

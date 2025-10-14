@@ -1,30 +1,7 @@
----
-title: The Red Bricks Hotel
-description: Upon entering The Red Bricks Hotel, guests are greeted with a blend of modern amenities and impeccable service. The hotel prides itself on its 24-hour front des
-featuredImage: "/images/accommodation/226061969.jpg"
-language: en
-slug: the-red-bricks-hotel
-location: ""
-amenities: []
-images: []
----
-
-Upon entering The Red Bricks Hotel, guests are greeted with a blend of modern amenities and impeccable service. The hotel prides itself on its 24-hour front desk, efficient airport transfer services, a communal kitchen, and seamless access to free WiFi, ensuring a stay that is as comfortable as it is connected.
+---\ntitle: "The Red Bricks Hotel"\ndescription: "Discover the charm of Shkodër with a stay at The Red Bricks Hotel, a distinguished four-star establishment that stands out for its exceptional services and prime location, just a stone's throw away from the Port of Bar."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/226061969.jpg?k=12901a233b31ff01ea081b6d684845a8b87955f3c8cf7d730ad3a96dd9737363&o=&hp=1"\nlanguage: en\nslug: the-red-bricks-hotel\naddress: "Rruga studenti, Sheshi Demokracia, Shkoder, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.06748976\n  lng: 19.51172845\nprice: "US$73"\npriceFrom: 73\nstarRating: 4\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 643\nratings:\n  overall: 9.4\n  location: 9.7\n  cleanliness: 9.4\n  facilities: 9.3\n  value: 9.4\n  comfort: 9.5\n  staff: 9.7\n  wifi: 9.1\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/226061969.jpg?k=12901a233b31ff01ea081b6d684845a8b87955f3c8cf7d730ad3a96dd9737363&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/226062420.jpg?k=28384ca2db1741989bca7a192d174f08ddf59daa38d9e670a683c23d9666311b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/226062430.jpg?k=bc54b553cedd90bdade774e6b59803ef3415ff0aee90074e1669d495c3eddf97&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/226062217.jpg?k=6294d121845133e059e8250097f732878b58f39bd133a6ef77fd3c629dd0bf78&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/226062917.jpg?k=26985c5e449a0e963b1ed41c81976b0192f1b6086a96b0c3e4f7f751b7faf990&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/226062412.jpg?k=5512db78598c994deb98405c4b92eef4187eec5e92a4d2673f6d56770bc777ef&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Facilities for disabled guests"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Superb breakfast"\nroomTypes:\n  - "Deluxe Double Room"\n  - "Deluxe Twin Room"\n  - "Deluxe Suite"\n  - "Deluxe King Suite"\n  - "Standard Triple Room"\n  - "Deluxe Triple Room"\n  - "Superior Triple Room"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Duncan"\n    country: "Australia"\n    text: "“THEY DID OUR WASHING FREE! NICE BREAKFAST. BUILDING DESIGN WAS INTERESTING.”"\n  - name: "Lorraine"\n    country: "United Kingdom"\n    text: "“Very welcoming and helpful. Nothing was too much trouble, whether directions to a museum or advice on restaurants.”"\n  - name: "Nica"\n    country: "Netherlands"\n    text: "“I think it is the most pleasant experience in recent years in terms of professionalism, actually all the staff have a standard of quality that can only be seen in the biggest hotels in the world, we have to think about how these people like them...”"\nbookingURL: "https://www.booking.com/hotel/al/the-red-bricks.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nUpon entering The Red Bricks Hotel, guests are greeted with a blend of modern amenities and impeccable service. The hotel prides itself on its 24-hour front desk, efficient airport transfer services, a communal kitchen, and seamless access to free WiFi, ensuring a stay that is as comfortable as it is connected.
 
 The guest rooms at The Red Bricks Hotel are thoughtfully designed to cater to the needs of every traveler. Each room is equipped with air conditioning, a cozy seating area, and a flat-screen TV with satellite channels for entertainment. Safety is paramount, with each room featuring a secure deposit box. The private bathrooms are stocked with complimentary toiletries and a hairdryer for added convenience. For those who appreciate a good brew, a kettle is provided in every room, with select rooms boasting a patio or breathtaking mountain views. A desk in each room makes it easy for guests to catch up on work.
 
-Beyond the comfort of the rooms, The Red Bricks Hotel offers practical services such as ironing, fax, and photocopying, catering to the needs of business travelers.
+Beyond the comfort of the rooms, The Red Bricks Hotel offers practical services such as ironing, fax, and photocopying, catering to the needs of business travelers. 
 
 Located 58 km from Podgorica Airport, the hotel ensures that the wonders of Shkodër and beyond are within easy reach, making The Red Bricks Hotel an ideal choice for those looking to explore the beauty of the region while enjoying the comforts of a top-tier accommodation.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

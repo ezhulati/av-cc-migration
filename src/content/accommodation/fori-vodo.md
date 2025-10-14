@@ -1,30 +1,7 @@
----
-title: Fori Vodo
-description: Accommodations at Fori Vodo are thoughtfully equipped to ensure a restful stay. Each unit features a practical desk, air conditioning for those warm Divjakë day
-featuredImage: "/images/accommodation/481703390.jpg"
-language: en
-slug: fori-vodo
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Fori Vodo are thoughtfully equipped to ensure a restful stay. Each unit features a practical desk, air conditioning for those warm Divjakë days, and options for seating and/or dining, making it easy to relax or enjoy a meal in private comfort. The option to dine al fresco adds a delightful touch to meal times, allowing guests to savor their food in the fresh air.
+---\ntitle: "Fori Vodo"\ndescription: "Fori Vodo emerges as a charming 3-star retreat in Divjakë, located just 44 km away from the iconic Rock of Kavaje."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481703390.jpg?k=bc170acea5e5275e52a96433e8647e6bca8ae2b4a5815903cb9d9eb4d3a43c68&o=&hp=1"\nlanguage: en\nslug: fori-vodo\naddress: "Rruga Xengut, 9022 Divjakë, Albania"\ncity: "Divjakë"\nlocation: "Divjakë"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.99085804\n  lng: 19.53381747\nprice: "US$30"\npriceFrom: 30\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 158\nratings:\n  overall: 9.3\n  location: 8.3\n  cleanliness: 9.7\n  facilities: 8.9\n  value: 9.4\n  comfort: 9.3\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481703390.jpg?k=bc170acea5e5275e52a96433e8647e6bca8ae2b4a5815903cb9d9eb4d3a43c68&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481703384.jpg?k=bd3bf57f8a1d87ee11e01a1b1e91e03a4e1c2be2da3826d2976b14cedf7b6419&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481703695.jpg?k=ab1517a49cebea95768b9e23d688fbb3dff30e74d30f44f742e8e8adae9701ea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310929225.jpg?k=c40d4dadede0e45ef2ecaff1b842967d73fc77c31d9b57f0bff723d65b1a7d04&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481703911.jpg?k=6b9782e5741f6a50990735857307ded4d01761a8aa0a882d456462824c7b4aba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481703525.jpg?k=3074921124431d8f94b13aca510ff97f7d4489d0e9add2b158ceab15affdd3a3&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Superb breakfast"\nroomTypes:\n  - "Double or Twin Room with Private Bathroom"\nnearbyRestaurants:\n  - "Kuka 350 m"\n  - "Zhuka 400 m"\nwhatsNearby:\n  - "Divjake-Karavasta National Park 0 m"\n  - "Sheshi I Bashkise 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 48 km"\nreviews:\n  - name: "Antoine"\n    country: "France"\n    text: "“Good location to explore the area if you have a car. The room is clean and the breakfast is excellent (2 eggs and a homemade byrek)”"\n  - name: "Bojana"\n    country: "Serbia"\n    text: "“Very nice ans friendly family, very clean and comfortable room. Also delicious homade breakfast.”"\n  - name: "Ph"\n    country: "Netherlands"\n    text: "“Perfect and great breakfast, very nice and kind owners with whom i communicated in Italian/Spanje (glad i speak 7 languages). Highly recommended. And we saw the Dalmatian Pelicans :-)”"\nbookingURL: "https://www.booking.com/hotel/al/olive-guesthouse.en-gb.html?aid=8035640"\nbestFor: "Best for Eco-Friendly Practices"\nbestCategories: "Eco-Friendly Practices"\ncategory: "Eco-Friendly Practices"\n---\n\nAccommodations at Fori Vodo are thoughtfully equipped to ensure a restful stay. Each unit features a practical desk, air conditioning for those warm Divjakë days, and options for seating and/or dining, making it easy to relax or enjoy a meal in private comfort. The option to dine al fresco adds a delightful touch to meal times, allowing guests to savor their food in the fresh air.
 
 For relaxation, the guest house offers a cozy lounge area, perfect for unwinding after a day of exploration. For those planning day trips, packed lunches are available upon request, ensuring guests can enjoy local adventures without worrying about their next meal.
 
 Adventure seekers and nature enthusiasts will find Fori Vodo ideally situated for engaging in a variety of activities. From walking tours that reveal the beauty and history of Divjakë to cycling and fishing opportunities just a stone's throw away, there's no shortage of ways to immerse oneself in the local landscape. The sun terrace invites guests to soak up the Mediterranean sunshine, offering a peaceful spot to relax and recharge.
 
 Located a manageable distance from Tirana International Mother Teresa Airport, 79 km to be exact, Fori Vodo represents a convenient and captivating choice for travelers seeking a blend of relaxation, adventure, and authentic Albanian hospitality.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

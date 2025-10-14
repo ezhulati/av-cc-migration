@@ -7,6 +7,9 @@ featuredImage: /images/attractions/ancient-city-phoenice.jpg
 images: []
 language: en
 slug: ancient-city-phoenice
+seo:
+  metaTitle: "Explore %title%: A Timeless Journey "
+  metaDescription: "Embark on a journey back in time as you explore the ancient city of Phoenice and Albania's rich history. Discover the secrets of this archaeological site."
 ---
 
 Why Visit
@@ -75,10 +78,3 @@ Nearby villages offer food and lodging options, including traditional guest hous
 
 A well-preserved ancient theater surrounded by mountains and olive groves awaits you on this walk through history. Let the spirit of Phoenice take you back over two millennia as its enchanting ruins reveal the achievements of past civilizations.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

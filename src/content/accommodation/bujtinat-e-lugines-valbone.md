@@ -1,26 +1,3 @@
----
-title: Bujtinat e lugines valbone
-description: Equipped with modern amenities, including free WiFi, satellite TV, and a washing machine, the property ensures a stay that combines the comforts of home with th
-featuredImage: "/images/accommodation/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"
-language: en
-slug: bujtinat-e-lugines-valbone
-location: ""
-amenities: []
-images: []
----
-
-Equipped with modern amenities, including free WiFi, satellite TV, and a washing machine, the property ensures a stay that combines the comforts of home with the luxury of a getaway. The fully equipped kitchen, complete with a dishwasher and oven, allows guests the freedom to prepare their meals. Perhaps the most enchanting feature is the outdoor dining area, where guests can dine al fresco while soaking in the breathtaking mountain scenery. To elevate the experience further, the guest house provides wine or champagne, adding a touch of elegance to any meal.
+---\ntitle: "Bujtinat e lugines valbone"\ndescription: "Bujtinat e lugines valbone, located in the picturesque Kukës County region of Valbonë, presents a serene retreat with its stunning lake views and the convenience of a balcony."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"\nlanguage: en\nslug: bujtinat-e-lugines-valbone\naddress: "Rruga Azem Hajdari, 8702 Valbonë, Albania"\ncity: "Valbonë"\nlocation: "Valbonë"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 42.449889\n  lng: 19.888639\nprice: "US$162"\npriceFrom: 162\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"\n  - "https://cf.bstatic.com/static/img/flags/12/es/0bcb9025339e650f3fbbcfb64ac38edd46efe4f6.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216889068.jpg?k=8a282fb110caf97291f80085d6309df2ca7ec89c7b57d4deba585a278b2d1d8a&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Free parking"\n  - "Family rooms"\nroomTypes:\n  - "Family Room with Bathroom"\nnearbyRestaurants:\n  - "Tahirs Café & Guesthouse 650 m"\n  - "Fusha E Gjes 2.6 km"\nwhatsNearby:\n  - "Valbona Valley National Park 0 m"\n  - "Parku Kombëtar Lugina e Valbonës 2.2 km"\n  - "Prokletije National Park 3.6 km"\n  - "Theth National Park 4.9 km"\n  - "Theth National Park 10 km"\n  - "Nacionalni Park Prokletije 10 km"\n  - "Prokletije National Park 11 km"\n  - "Nacionalni park Prokletije 13 km"\n  - "Valbona Valley National Park 19 km"\nairports:\n  - "Podgorica Airport 53 km"\n  - "Pristina International Airport 95 km"\n  - "Tivat Airport 95 km"\nreviews:\n  - name: "Gloria"\n    country: "Spain"\n    text: "“Everything was excellent, apartments very comfortable, new and clean, lovely staff and wonderful views. Perfect location!”"\nbookingURL: "https://www.booking.com/hotel/al/bujtinat-e-lugines-valbone-valbone1.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEquipped with modern amenities, including free WiFi, satellite TV, and a washing machine, the property ensures a stay that combines the comforts of home with the luxury of a getaway. The fully equipped kitchen, complete with a dishwasher and oven, allows guests the freedom to prepare their meals. Perhaps the most enchanting feature is the outdoor dining area, where guests can dine al fresco while soaking in the breathtaking mountain scenery. To elevate the experience further, the guest house provides wine or champagne, adding a touch of elegance to any meal.
 
 Situated 139 km from Pristina International Airport, Bujtinat e lugines valbone offers a perfect blend of accessibility and seclusion, making it an ideal choice for those seeking a peaceful escape with the convenience of modern amenities.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

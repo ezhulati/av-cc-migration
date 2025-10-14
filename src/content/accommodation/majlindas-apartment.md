@@ -4,9 +4,16 @@ description: The apartment itself is a haven of comfort and style, boasting soun
 featuredImage: "/images/accommodation/363790996.jpg"
 language: en
 slug: majlindas-apartment
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 3
+rating: 3
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "Restaurant"
+  - "Kitchen"
+  - "TV"
 ---
 
 The apartment itself is a haven of comfort and style, boasting soundproof rooms that promise a peaceful retreat from the outside world. It features two elegantly appointed bedrooms, a living room designed for relaxation, and a dining area perfect for intimate meals. The fully equipped kitchen, complete with a fridge, invites guests to prepare their own culinary delights, while the inclusion of a satellite flat-screen TV ensures entertainment is always at hand. For added convenience, towels and bed linen are readily available, and the entire apartment is designated as allergy-free and non-smoking, catering to the well-being of all guests.
@@ -15,14 +22,3 @@ For those needing to pick up essentials or snacks, a minimarket on the premises 
 
 In summary, Majlinda's Apartment stands out as a meticulously designed sanctuary, perfect for those looking to immerse themselves in the beauty of Durrës while enjoying the comforts of a thoughtfully appointed home away from home.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

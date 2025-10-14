@@ -4,9 +4,19 @@ description: Guests will appreciate the ease of access to both free WiFi and on-
 featuredImage: "/images/accommodation/502084094.jpg"
 language: en
 slug: 21-apartament-near-korca-bazzar
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Korçë"
+amenities:
+  - "WiFi"
+  - "Parking"
+  - "Spa"
+  - "Kitchen"
+  - "Balcony"
+  - "TV"
 ---
 
 Guests will appreciate the ease of access to both free WiFi and on-site parking, a rarity in such a sought-after location, all without any additional charge. The apartment's commitment to a smoke-free environment further enhances the quality of stay, providing a fresh and healthy living space for all visitors.
@@ -19,14 +29,3 @@ For those looking to venture further, Kastoria National Airport is conveniently 
 
 In summary, the 2+1 Apartment near Korça Bazaar presents an unbeatable combination of location, amenities, and comfort, making it a top recommendation for anyone planning a visit to Korçë.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

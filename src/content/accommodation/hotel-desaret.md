@@ -1,28 +1,5 @@
----
-title: Hotel Desaret
-description: Each guest room at Hotel Desaret is thoughtfully designed with comfort in mind, featuring a private balcony, a sleek flat-screen TV, and an ensuite bathroom, pr
-featuredImage: "/images/accommodation/517406042.jpg"
-language: en
-slug: hotel-desaret
-location: ""
-amenities: []
-images: []
----
-
-Each guest room at Hotel Desaret is thoughtfully designed with comfort in mind, featuring a private balcony, a sleek flat-screen TV, and an ensuite bathroom, providing a perfect blend of convenience and luxury.
+---\ntitle: "Hotel Desaret"\ndescription: "Hotel Desaret emerges as a serene retreat in Pogradec, a mere stone's throw from the enchanting Ohrid Lake Springs, located 7."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517406042.jpg?k=8df78720d60d4a0153d0fe713b36a3b77a485a63267c3d4e60c474d048be89ce&o=&hp=1"\nlanguage: en\nslug: hotel-desaret\naddress: "Rruga Dëshmorët e Pojskës, 7301 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.90173875\n  lng: 20.66333497\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517406042.jpg?k=8df78720d60d4a0153d0fe713b36a3b77a485a63267c3d4e60c474d048be89ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/517406077.jpg?k=153bc04a85b50fef59da1beb2f5fea897b839b7ace97c88cecc7ddf00b7edf17&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/517406080.jpg?k=e7edd5e48f0b3836994743850281300adab1a395f88ddb2a47500ec8340a7303&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/517406083.jpg?k=15b2204ff235c776791040b69621f8574e74e317bf2ec5075d68e0fb5e529c26&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/517406086.jpg?k=6760b34e3f6d4fde1b0cfca9d724ac805c57ef9a875aba27657d4cb90fc4a28e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/517406091.jpg?k=bbbe194332315893970c6aea4a555bc6decab2a95e246fece05270de914dd701&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/517406094.jpg?k=538e46d25b2faa8c46aa5989c31c23795ec6fb95c5e11b9f594f8ad18d9abb90&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Room service"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Double Room"\nnearbyRestaurants:\n  - "Restorant Pogradeci 20 m"\n  - "Max Lloto 30 m"\nwhatsNearby:\n  - "Driloni National Park 600 m"\n  - "National Park Galicica 7 km"\n  - "National Park Galicica 14 km"\n  - "Bay of Bones 15 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 71 km"\n  - "Tirana International Airport Mother Teresa 96 km"\nbookingURL: "https://www.booking.com/hotel/al/desaret-pogradec.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nEach guest room at Hotel Desaret is thoughtfully designed with comfort in mind, featuring a private balcony, a sleek flat-screen TV, and an ensuite bathroom, providing a perfect blend of convenience and luxury.
 
 Situated 22 km from the captivating Bay of Bones and within easy reach of historical sites such as the Early Christian Basilica and Port Ohrid, 38 km and 39 km away respectively, the hotel serves as an ideal base for explorers keen to uncover the rich tapestry of the region's history. Moreover, with Ohrid Airport just 45 km away, accessibility is effortlessly ensured for international travelers.
 
 Hotel Desaret stands out not only for its prime location and superior amenities but also for its commitment to a smoke-free environment, catering to the well-being of its guests. Offering room service that upholds the highest standards of hospitality, this hotel guarantees an unforgettable stay for all who visit.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

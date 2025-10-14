@@ -1,28 +1,5 @@
----
-title: Travel Alb
-description: The highlight of Travel Alb is undoubtedly its spacious apartment, boasting a balcony that offers captivating city views. The apartment is well-appointed with t
-featuredImage: ""
-language: en
-slug: travel-alb
-location: ""
-amenities: []
-images: []
----
-
-The highlight of Travel Alb is undoubtedly its spacious apartment, boasting a balcony that offers captivating city views. The apartment is well-appointed with two bedrooms, a cozy living room, a flat-screen TV for entertainment, and a fully equipped kitchen featuring an oven and a toaster for those who enjoy preparing their own meals. The presence of two bathrooms, each with a bidet, along with the provision of towels and bed linen, adds to the comfort and convenience. The added luxury of a private entrance enhances the sense of exclusivity.
+---\ntitle: "Travel Alb"\ndescription: "Travel Alb emerges as a distinguished choice for travelers seeking comfort and convenience in Shkodër, located just 49 km from the Port of Bar."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475812644.jpg?k=ba3a463868516d39747f54b17542b48fa558fe1f6e2c1f3b671d2207bdae5073&o=&hp=1"\nlanguage: en\nslug: travel-alb\naddress: "Rruga Marin Bicikemi, Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.06730613\n  lng: 19.52191467\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 4\nratings:\n  overall: 7.9\n  location: 8.1\n  cleanliness: 8.1\n  facilities: 7.5\n  value: 8.1\n  comfort: 7.5\n  staff: 8.1\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475812644.jpg?k=ba3a463868516d39747f54b17542b48fa558fe1f6e2c1f3b671d2207bdae5073&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475812624.jpg?k=164112d90b016c9bfcced29f5c9958ae9ebacd6151d7b2078340efb1b4fa4e50&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475812593.jpg?k=017845d70f698436e3208923619a0a74eaf6e0139c331e1fe713a71101bd63af&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475812582.jpg?k=73d5ace8d5634d0e98380d1eed1202d3c804451e064abe8067be8dddc41959f9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476259426.jpg?k=8eafb2079c70ef1ede826019e26640ebeb397403ffd564c1c787a993eb27cd91&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478784201.jpg?k=f73859ffe960338e43ba347f452d59b628c034dfd563645cccd13734585577d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471981076.jpg?k=bea8f781c13206389d982f8b71f1812dcdf6529229ead39ae62e41d547f304ff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481470510.jpg?k=8ea844209021e92701111699378a7db789ab3b8e793ef18106ee85c9003d001c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471981156.jpg?k=feb4400496b6c0f096a1de0801fa195bb5f67c2cf62e59ba4f463aa3b48ae720&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Bar Pasticeri Amici 40 m"\n  - "D&G 100 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 3.3 km"\n  - "National Park Skadar Lake 11 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 73 km"\n  - "Tivat Airport 74 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Joris"\n    country: "Netherlands"\n    text: "“Friendy Host, Big Apartment, Super close to the Busstation in Tirana. Defenitly recommend!”"\n  - name: "Andres"\n    country: "Germany"\n    text: "“Big and well situated apartment with nice owners.”"\nbookingURL: "https://www.booking.com/hotel/al/travel-alb.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe highlight of Travel Alb is undoubtedly its spacious apartment, boasting a balcony that offers captivating city views. The apartment is well-appointed with two bedrooms, a cozy living room, a flat-screen TV for entertainment, and a fully equipped kitchen featuring an oven and a toaster for those who enjoy preparing their own meals. The presence of two bathrooms, each with a bidet, along with the provision of towels and bed linen, adds to the comfort and convenience. The added luxury of a private entrance enhances the sense of exclusivity.
 
 Guests can also take advantage of the outdoor fireplace and terrace, perfect for relaxing evenings under the stars.
 
 Situated a manageable distance from Podgorica Airport, which is 58 km away, Travel Alb presents an appealing option for both short and extended stays, promising a blend of comfort, convenience, and privacy.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

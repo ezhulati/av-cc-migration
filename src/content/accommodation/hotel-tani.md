@@ -1,28 +1,5 @@
----
-title: Hotel Tani
-description: Each air-conditioned room at Hotel Tani is thoughtfully designed to ensure maximum comfort, featuring a private bathroom, complimentary WiFi, and the added luxu
-featuredImage: "/images/accommodation/521913059.jpg"
-language: en
-slug: hotel-tani
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Hotel Tani"\ndescription: "Discover the charm of Hotel Tani, a serene oasis located in Ulëz, offering guests a unique blend of comfort and natural beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521913059.jpg?k=db99d6f87ab55e04a27f18ea1305c61befa7eb97731c01cfd7c5e246cd4a5af6&o=&hp=1"\nlanguage: en\nslug: hotel-tani\naddress: "SH46, 8003 Ulëz, Albania"\ncity: "Ulëz"\nlocation: "Ulëz"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.68093743\n  lng: 19.892346\nprice: "US$27"\npriceFrom: 27\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521913059.jpg?k=db99d6f87ab55e04a27f18ea1305c61befa7eb97731c01cfd7c5e246cd4a5af6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/521913042.jpg?k=9692e1cb1605336528e5a8939ee2cbf1c102687c2686b5b23b91f2b510f36812&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/521913061.jpg?k=3c4d2efcc352f8f565858e304a162eb0085de966e48a91db9b5d2b10e253d1d7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/521913062.jpg?k=97aebc4f53c357d772740e4980b47c2c961918f0b7969299c8fce4c14aa94291&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/521913064.jpg?k=9077a28795358fc5d2cf50c52d57178ceb6d30a7e87570862945998f05e2df74&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room"\nnearbyRestaurants:\n  - "Restorant Shpani 250 m"\n  - "Keshtjella Duka 9 km"\nwhatsNearby:\n  - "Sofra e Kthelles 10 km"\n  - "Dajti Mountain National Park 15 km"\nairports:\n  - "Tirana International Airport Mother Teresa 31 km"\n  - "Ohrid Airport 90 km"\n  - "Podgorica Airport 91 km"\nbookingURL: "https://www.booking.com/hotel/al/tani-qyteti-ulez1.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nEach air-conditioned room at Hotel Tani is thoughtfully designed to ensure maximum comfort, featuring a private bathroom, complimentary WiFi, and the added luxury of a balcony that opens up to breathtaking lake views. The attention to detail extends to in-room amenities, including a flat-screen TV and cozy slippers, promising a home-away-from-home experience.
 
-Each air-conditioned room at Hotel Tani is thoughtfully designed to ensure maximum comfort, featuring a private bathroom, complimentary WiFi, and the added luxury of a balcony that opens up to breathtaking lake views. The attention to detail extends to in-room amenities, including a flat-screen TV and cozy slippers, promising a home-away-from-home experience.
-
-Mornings at Hotel Tani begin with a delightful continental breakfast, providing the perfect start to a day of exploration or relaxation.
+Mornings at Hotel Tani begin with a delightful continental breakfast, providing the perfect start to a day of exploration or relaxation. 
 
 Situated just 55 km from Tirana International Mother Teresa Airport, Hotel Tani offers both convenience and an escape to those seeking tranquility amidst nature's beauty. Whether traveling with family or seeking a peaceful retreat, Hotel Tani is a destination that promises an enchanting stay.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

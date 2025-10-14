@@ -4,9 +4,21 @@ description: The accommodations at SARA'S VILLA are designed with the discerning
 featuredImage: "/images/accommodation/184269445.jpg"
 language: en
 slug: saras-villa
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Shkodër"
+amenities:
+  - "WiFi"
+  - "Parking"
+  - "Restaurant"
+  - "Bar"
+  - "Spa"
+  - "Kitchen"
+  - "Balcony"
+  - "TV"
 ---
 
 The accommodations at SARA'S VILLA are designed with the discerning guest in mind, featuring air-conditioned rooms that promise a restful retreat. The convenience of complimentary private parking and WiFi adds to the allure, making it an ideal spot for both leisure and business travelers.
@@ -19,14 +31,3 @@ The property is not just about the interiors; the garden invites guests to conne
 
 Situated 59 km from Podgorica Airport, SARA'S VILLA is conveniently located for travelers looking to explore the region or those in transit. With its blend of modern amenities, stunning views, and thoughtful touches, SARA'S VILLA stands as a beacon of hospitality for those visiting the area.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

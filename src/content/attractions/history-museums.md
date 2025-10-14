@@ -7,6 +7,9 @@ featuredImage: /images/attractions/history-museums.jpg
 images: []
 language: en
 slug: history-museums
+seo:
+  metaTitle: "%title% %sep% %sitename%"
+  focusKeyword: "history museums"
 ---
 
 The Prehistoric Era
@@ -81,10 +84,3 @@ The history museums stand as silent witnesses to the unfolding narrative, preser
 
 [Through these museums](https://albaniavisit.com/museums/), visitors can journey through time, discovering the vibrant narrative that forms the Albanian story, a tale of resilience, pride, and cultural richness.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

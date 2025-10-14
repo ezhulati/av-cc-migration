@@ -1,28 +1,5 @@
----
-title: Hotel Vila Maledhi
-description: Accommodations at Hotel Vila Maledhi are thoughtfully designed with guest comfort in mind. Each room is equipped with essential amenities such as a wardrobe, en
-featuredImage: "/images/accommodation/463897857.jpg"
-language: en
-slug: hotel-vila-maledhi
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Hotel Vila Maledhi are thoughtfully designed with guest comfort in mind. Each room is equipped with essential amenities such as a wardrobe, ensuring ample storage for personal belongings. The highlight of these cozy retreats is the private bathroom, complete with a bidet and slippers, adding a touch of luxury to the stay. Moreover, guests can stay connected with the outside world through the free WiFi available in every unit, while the provision of bed linen and towels adds an extra layer of convenience.
+---\ntitle: "Hotel Vila Maledhi"\ndescription: "Hotel Vila Maledhi stands out as a prime choice for travelers seeking comfort and convenience in Berat."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463897857.jpg?k=f67f1e2703c2b1405dd8f9a30b8f7643963f9ee9b35ca5e8ace7f3ae591b91a5&o=&hp=1"\nlanguage: en\nslug: hotel-vila-maledhi\naddress: "Rruga Pjeshkorja, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.69893556\n  lng: 19.96731818\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 62\nratings:\n  overall: 9.6\n  location: 8.4\n  cleanliness: 9.8\n  facilities: 9.6\n  value: 9.8\n  comfort: 9.8\n  staff: 9.9\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463897857.jpg?k=f67f1e2703c2b1405dd8f9a30b8f7643963f9ee9b35ca5e8ace7f3ae591b91a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463899309.jpg?k=b82a93cb44703fd14f769fcad9434409bd8d389103e141c5c97c88a9be97cb2e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455230571.jpg?k=b47d2eb31c028c3dd828da0a1704842ad7370e8e4a33becc201e7799239f4af1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455230912.jpg?k=8fb89d49675b4adf53cbe415cd1ada674fdfb80469268b8b53609f22e56d8b97&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463899493.jpg?k=780a16dfaa4361ac6bcb7afaf6a882e33280f45d0eb32361d794378935243c94&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455230956.jpg?k=92002a9bb3345f86549dc0d484755a144e14cb9b8d93603ee37a809c31438175&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Superb breakfast"\nroomTypes:\n  - "Deluxe Triple Room"\n  - "Deluxe Triple Room"\n  - "Deluxe Double Room"\nnearbyRestaurants:\n  - "Fast Food&Pizza Muçolli 150 m"\n  - "Fatos Bajraktari 300 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 8 km"\n  - "Sheshi Tomorri 15 km"\nairports:\n  - "Tirana International Airport Mother Teresa 80 km"\n  - "Ohrid Airport 83 km"\nreviews:\n  - name: "Nedzan"\n    country: "Bosnia and Herzegovina"\n    text: "“Savršena čistoća , prostrana i svijetla soba i ulazni hol. Zvučna izolacija odlična. Kupatilo savremeno opremljeno , sve funkcioniše besprijekorno. Doručak raznovrstan, domaće placke, a posebno mi se svidjelo što je servirano mnogo voća. Domaćica...”"\n  - name: "Ray"\n    country: "France"\n    text: "“Very nice room. The host was very nice. She was doing everything to make our stay as perfect as it can be. We parked our car in front of the building.”"\n  - name: "Lara"\n    country: "Slovenia"\n    text: "“Wwoman with red hair was the nicest person and most amazing host. She welcomed us, was there for us and even made us breakfast!”"\nbookingURL: "https://www.booking.com/hotel/al/vila-maledhi.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nAccommodations at Hotel Vila Maledhi are thoughtfully designed with guest comfort in mind. Each room is equipped with essential amenities such as a wardrobe, ensuring ample storage for personal belongings. The highlight of these cozy retreats is the private bathroom, complete with a bidet and slippers, adding a touch of luxury to the stay. Moreover, guests can stay connected with the outside world through the free WiFi available in every unit, while the provision of bed linen and towels adds an extra layer of convenience.
 
 Morning at Hotel Vila Maledhi starts on a high note with a buffet breakfast that caters to diverse tastes. Guests can enjoy a variety of options, including pancakes, fresh fruits, and juice, providing the perfect fuel for a day of exploration. Additionally, the on-site bar serves as a cozy spot for guests to unwind after a day's adventures.
 
 Located 119 km from Tirana International Mother Teresa Airport, Hotel Vila Maledhi offers a peaceful retreat that is conveniently accessible for international travelers. This guest house is an excellent choice for families and solo travelers alike, promising a memorable stay in the heart of Berat.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

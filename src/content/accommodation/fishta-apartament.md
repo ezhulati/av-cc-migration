@@ -1,28 +1,5 @@
----
-title: Fishta Apartament
-description: Located just 400 meters from the serene Velipoja Beach and within a reasonable distance from the historic Rozafa Castle Shkodra, 31 km away, guests are perfectl
-featuredImage: ""
-language: en
-slug: fishta-apartament
-location: ""
-amenities: []
-images: []
----
-
-Located just 400 meters from the serene Velipoja Beach and within a reasonable distance from the historic Rozafa Castle Shkodra, 31 km away, guests are perfectly positioned to explore the local area's natural beauty and cultural heritage. Lake Skadar, another notable attraction, is also within reach at 32 km from the apartment, offering opportunities for day trips and outdoor adventures.
+---\ntitle: "Fishta Apartament"\ndescription: "Fishta Apartament emerges as a prime choice for travelers seeking comfort and convenience in Velipojë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472229482.jpg?k=e1af241343d615d30fd6d2e257f34f253ed7061d1bd34ff41e1e360778b0e2bf&o=&hp=1"\nlanguage: en\nslug: fishta-apartament\naddress: "Kompleksi Fishta, Godina C8, Velipoje, Shkoder, 4020 Velipojë, Albania"\ncity: "Velipojë"\nlocation: "Velipojë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.86251905\n  lng: 19.43141461\nprice: "US$91"\npriceFrom: 91\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 4\nratings:\n  overall: 9.4\n  location: 9.4\n  cleanliness: 9.4\n  facilities: 9.4\n  value: 9.4\n  comfort: 9.4\n  staff: 9.4\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472229482.jpg?k=e1af241343d615d30fd6d2e257f34f253ed7061d1bd34ff41e1e360778b0e2bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/472217251.jpg?k=b71e256f23bef6f0f05ccc6f59477a0c42ceb11e8345d03a7bdeef8e924743cd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/472217264.jpg?k=872c9f6c5bea8de7a9137251e5b37152bc84d062a34f5e266c33ebddcb3d271a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/471981147.jpg?k=d3203c5f5822541b4b44a2470323bcb73d77e2ef0ffd6b9e65374ae16de2970f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/471981142.jpg?k=fa35b1560bc1803235a62f5e2c2c6560839d5a5eaf851a73f80570d8d1bcd9ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/471981128.jpg?k=b414060a4b465e2f8101f14ad9881dd1b7072be9c5f4c77a267137d70178df2b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/471981138.jpg?k=331f90cf829899fe53b75f4296362138a0c5d6719ca63edd4c6afc0cc4ad09b4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/472114057.jpg?k=a4b7361f8f882d3f4a8f6a0684085b005725c2c986f30160b12853b822043676&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/472114197.jpg?k=d6517628e91fd8207694c71a48e1f7bbe2b6606c4f49cc2605f441596a6536bc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/472217258.jpg?k=a576739de79f7430ad224df97f17dd2f8f0042eae78d06ff71c66b7777b80971&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Restorant Valet E Detit 150 m"\n  - "Restorant 4 Stinet 150 m"\nnearbyBeaches:\n  - "Velipoja Beach 150 m"\n  - "Rana e Hedhun Beach 1.4 km"\n  - "Ada Bojana Beach 5 km"\n  - "Velika Plaza Beach 8 km"\nwhatsNearby:\n  - "Copacabana 11 km"\n  - "Cola Beach 12 km"\n  - "Imperiam Beach 13 km"\n  - "Msm Beach 14 km"\n  - "Tropicana 14 km"\n  - "Plaža Safari 15 km"\n  - "Bukurija Beach 15 km"\n  - "Saranda 16 km"\n  - "Plaža Toni 16 km"\n  - "Nudistička Plaža Albatros 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 54 km"\n  - "Podgorica Airport 56 km"\n  - "Tivat Airport 82 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/apartament-per-qera-velipoj.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nLocated just 400 meters from the serene Velipoja Beach and within a reasonable distance from the historic Rozafa Castle Shkodra, 31 km away, guests are perfectly positioned to explore the local area's natural beauty and cultural heritage. Lake Skadar, another notable attraction, is also within reach at 32 km from the apartment, offering opportunities for day trips and outdoor adventures.
 
 Moreover, the apartment's garden views provide a tranquil backdrop for a relaxing stay, whether one is sipping morning coffee on the patio or enjoying the evening breeze on the balcony. For travelers flying in, the Tirana International Mother Teresa Airport is 84 km away, making Fishta Apartament an accessible retreat for both domestic and international visitors.
 
 In summary, Fishta Apartament stands out for its strategic location, comprehensive amenities, and the promise of a memorable stay in Velipojë, whether one is looking to unwind by the beach or explore the rich cultural landscape of the region.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

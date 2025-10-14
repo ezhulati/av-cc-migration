@@ -1,28 +1,10 @@
----
-title: Geri Apartment
-description: This generously sized apartment doesn't just promise space; it delivers with two bedrooms, a living room, and a balcony that invites guests to enjoy serene gard
-featuredImage: "/images/accommodation/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"
-language: en
-slug: geri-apartment
-location: ""
-amenities: []
-images: []
----
-
-This generously sized apartment doesn't just promise space; it delivers with two bedrooms, a living room, and a balcony that invites guests to enjoy serene garden views. The inclusion of a well-equipped kitchen ensures that home-cooked meals can be a part of the vacation experience, while a flat-screen TV keeps entertainment options open.
+---\ntitle: "Geri Apartment"\ndescription: "Geri Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Ksamil."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"\nlanguage: en\nslug: geri-apartment\naddress: "Sheshi Valltaret, Ksamil, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.77270197\n  lng: 20.00514539\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 6\nratings:\n  overall: 9.8\n  location: 10\n  cleanliness: 10\n  facilities: 9.6\n  value: 9.2\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://graph.facebook.com/v2.9/10212270108822789/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-f/8ecb6dbf787bac20deb3945d9c8a8b1c94cc5e64.png"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305670811.jpg?k=79a410c57a756117c363ac9830dd4a7532d49ed507f6a454eed372945951b8a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/305670835.jpg?k=bc4d453120ad8c863bd38ada57a22da9f6f893fc66da433891311ea817cf8a33&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/305670839.jpg?k=2dccaca5e4839846219a2c42bf027c990120896d9e3b5e55fe4454c1f441b0d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/305670841.jpg?k=dcef62f65aaad85dc28de1e5f6014d7ed90f6807b3bf935b6d979dc1ee0d6b98&o=&hp=1"\namenities:\n  - "Free parking"\nnearbyAttractions:\n  - "Museum of Banknotes 18 km"\n  - "New Fortress 18 km"\n  - "Serbian Museum 18 km"\n  - "Theotoki G. Square 18 km"\n  - "Archaeological Museum 19 km"\n  - "Ntougkla Square 19 km"\n  - "Trion Martiron Park 19 km"\n  - "Mon Repos Palace 20 km"\nnearbyRestaurants:\n  - "3 Island 50 m"\n  - "Fast Food 4 Valltaret 50 m"\nnearbyBeaches:\n  - "Ksamil Beach 250 m"\n  - "Coco Beach 450 m"\n  - "Bora Bora Beach 600 m"\n  - "Ksamil Beach 7 600 m"\n  - "Ksamil Beach 9 750 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 650 m"\n  - "Butrint National Park 2.6 km"\n  - "Plazhi I Krorezes 3.1 km"\n  - "Parc National de Butrint 10 km"\n  - "Byzantine Museum 18 km"\n  - "Public Garden 18 km"\n  - "Solomos Museum 18 km"\n  - "Asian Art Museum 18 km"\n  - "Old Fortress 18 km"\nairports:\n  - "Corfu International Airport 20 km"\n  - "Ioannina Airport 69 km"\nreviews:\n  - name: "Riccardo"\n    country: "Italy"\n    text: "“Ottima la posizione per mare e servizi, appartamento di grandi dimensioni, 2 camere e bagno rifatto da poco, bene!”"\n  - name: "Gentian"\n    country: "Italy"\n    text: "“La casa e vicino mare attraversi la strada e sei al mare.acolienza ottima la signora molto gentile prossimo anno ritornerò ancora”"\n  - name: "Francesca"\n    country: "Italy"\n    text: "“La casa ha un'ottima posizione centrale, ed è dotata di un parcheggio.
+Comoda per il mare, supermercato e centro del paese.
+C'è il wifi.
+Proprietaria disponibile e gentile.
+Ottimo rapporto qualità prezzo.
+La casa era pulita.”"\nbookingURL: "https://www.booking.com/hotel/al/geri-apartment-ksamil1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis generously sized apartment doesn't just promise space; it delivers with two bedrooms, a living room, and a balcony that invites guests to enjoy serene garden views. The inclusion of a well-equipped kitchen ensures that home-cooked meals can be a part of the vacation experience, while a flat-screen TV keeps entertainment options open.
 
 For those looking to explore beyond the immediate comforts of their accommodation, Bora Bora Beach awaits less than a kilometer away, offering another spot for sunbathing and relaxation. Further afield, the historical treasures of Butrint National Park are just 3.1 km from the doorstep, making for an easy day trip. For international travelers, Corfu International Airport is the gateway to this charming locale, situated 93 km from Geri Apartment.
 
 In summary, Geri Apartment stands out as a delightful base for both relaxation and adventure in Ksamil, offering spacious and comfortable accommodations close to some of the area's most attractive beaches and sights.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

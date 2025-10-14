@@ -4,9 +4,18 @@ description: The apartment itself is a haven of modern amenities, featuring air 
 featuredImage: "/images/accommodation/411818611.jpg"
 language: en
 slug: helgas-deluxe-2
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Air Conditioning"
+  - "Spa"
+  - "Kitchen"
+  - "TV"
 ---
 
 The apartment itself is a haven of modern amenities, featuring air conditioning for those warm Albanian afternoons, a fully equipped kitchen for culinary enthusiasts, and a sleek flat-screen TV for a relaxing night in. The space is thoughtfully designed to be a non-smoking environment, ensuring a clean and fresh stay for all guests.
@@ -19,14 +28,3 @@ The surrounding area is rich with points of interest, including Rinia Park for a
 
 Helga's Deluxe 2 stands out as an exemplary choice for those looking to immerse themselves in the culture, history, and beauty of Tirana, all while enjoying the comforts of a well-appointed apartment.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,26 +1,3 @@
----
-title: Klajdi appartament
-description: Designed with comfort in mind, the apartment features a single, well-appointed bedroom, a bathroom equipped with modern amenities, and a kitchen that boasts ful
-featuredImage: "/images/accommodation/482565356.jpg"
-language: en
-slug: klajdi-appartament
-location: ""
-amenities: []
-images: []
----
-
-Designed with comfort in mind, the apartment features a single, well-appointed bedroom, a bathroom equipped with modern amenities, and a kitchen that boasts full equipment for those who love to prepare their own meals. Entertainment needs are met with the inclusion of a flat-screen TV, ensuring guests have a relaxing stay. Importantly, the apartment maintains a strict non-smoking policy, ensuring a clean and fresh environment for all guests.
+---\ntitle: "Klajdi appartament"\ndescription: "Klajdi Apartment emerges as a prime choice for travelers seeking a serene stay in Berat."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482565356.jpg?k=a6c6c5d972e401b7ff49339735bb2a64dc52fb14d9acd0fce0db66fb631a4280&o=&hp=1"\nlanguage: en\nslug: klajdi-appartament\naddress: "Rruga Muzhakaj, Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.71068695\n  lng: 19.93962657\nprice: "US$52"\npriceFrom: 52\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482565356.jpg?k=a6c6c5d972e401b7ff49339735bb2a64dc52fb14d9acd0fce0db66fb631a4280&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/482565403.jpg?k=00f3f12e295d83c28a9740c000c9f480ddfadf9e8506eff3077c6ec98e2b6f32&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/482565411.jpg?k=530217006de8ac0cfe8e7d18d97bd078c3e398da94b6b97d962f259081b539de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/482565419.jpg?k=e96cd0db35be9511e3953a33fb72516efbf64904a8c5338419afa381d657072b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/482565425.jpg?k=166d0400c4dcd329123a4bb638cabc7a2f656bfc7a8f766f0c329362601bf458&o=&hp=1"\namenities:\n  - "Free parking"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Sweet House 100 m"\n  - "Pasticeri Landi 300 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 10 km"\n  - "Sheshi Tomorri 17 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 84 km"\nbookingURL: "https://www.booking.com/hotel/al/klajdi-appartament.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nDesigned with comfort in mind, the apartment features a single, well-appointed bedroom, a bathroom equipped with modern amenities, and a kitchen that boasts full equipment for those who love to prepare their own meals. Entertainment needs are met with the inclusion of a flat-screen TV, ensuring guests have a relaxing stay. Importantly, the apartment maintains a strict non-smoking policy, ensuring a clean and fresh environment for all guests.
 
 Situated at a distance of 116 km from Tirana International Mother Teresa Airport, Klajdi Apartment offers a peaceful retreat with easy access for international travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

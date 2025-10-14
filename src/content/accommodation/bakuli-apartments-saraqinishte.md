@@ -1,26 +1,3 @@
----
-title: Bakuli apartments Saraqinishte
-description: The apartment itself is thoughtfully designed to cater to the needs of modern travelers, featuring a cozy bedroom, a versatile living room, a well-equipped kitc
-featuredImage: "/images/accommodation/477227537.jpg"
-language: en
-slug: bakuli-apartments-saraqinishte
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is thoughtfully designed to cater to the needs of modern travelers, featuring a cozy bedroom, a versatile living room, a well-equipped kitchenette, and a dining area, all rounded off with a bathroom that includes both a bath and shower. The addition of a private entrance underscores the property's commitment to providing an intimate and undisturbed stay.
+---\ntitle: "Bakuli apartments Saraqinishte"\ndescription: "Bakuli Apartments Saraqinishte emerges as a serene retreat in the heart of Gjirokastër County, offering guests a unique blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477227537.jpg?k=4ec2970821945777e25662f8796b97f9d1e9b7f1ff301bd25ba33f36bc2ba848&o=&hp=1"\nlanguage: en\nslug: bakuli-apartments-saraqinishte\naddress: "rruga Lame Petri, 6017 Saraqinishtë, Albania"\ncity: "Saraqinishtë"\nlocation: "Saraqinishtë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.1063792\n  lng: 20.2318416\nprice: "US$52"\npriceFrom: 52\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477227537.jpg?k=4ec2970821945777e25662f8796b97f9d1e9b7f1ff301bd25ba33f36bc2ba848&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/477227568.jpg?k=a3e40d0032d0dac91d5478ac2d9488b605bb9cc801042c4aa0fbadeb1d5eb998&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/477227569.jpg?k=4f08d1b9480e08ea9916be7f068f096f059d07edaef3f916e308ad62b1201b13&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/477227575.jpg?k=8e06b8e7e8e25c8dbaffad7981c21040978a65d9d29dd597001b3c3382a92404&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/477227581.jpg?k=e3a2c24d759e2c62335e21078557e532a8b8c831e82ddb9cb412948bc4e8e971&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Pishinat Valare 7 km"\n  - "Kafe Zgara Kujtimi 7 km"\nairports:\n  - "Corfu International Airport 61 km"\n  - "Ioannina Airport 67 km"\n  - "Kastoria National Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/bakuli-apartments-saraqinishte.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe apartment itself is thoughtfully designed to cater to the needs of modern travelers, featuring a cozy bedroom, a versatile living room, a well-equipped kitchenette, and a dining area, all rounded off with a bathroom that includes both a bath and shower. The addition of a private entrance underscores the property's commitment to providing an intimate and undisturbed stay.
 
 Situated a mere 90 km from Ioannina Airport, Bakuli Apartments Saraqinishte represents an ideal choice for those seeking a peaceful escape without straying too far from the conveniences of the city.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,9 @@
----
-title: Rooms Panorama
-description: The property is renowned for its selection of family rooms, each meticulously designed to provide a comfortable stay. Every room is equipped with essential amen
-featuredImage: "/images/accommodation/325658421.jpg"
-language: en
-slug: rooms-panorama
-location: ""
-amenities: []
-images: []
----
-
-The property is renowned for its selection of family rooms, each meticulously designed to provide a comfortable stay. Every room is equipped with essential amenities such as a desk, a flat-screen TV, and a private bathroom, ensuring a blend of functionality and comfort.
+---\ntitle: "Rooms Panorama"\ndescription: "Rooms Panorama emerges as a serene oasis in Krujë, strategically positioned just a stone's throw away from the vibrant Skanderbeg Square and the captivating Dajti Ekspres Cable Car."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325658421.jpg?k=8f3fc6c93b3c67bf213d4feb9f6c4bcc89c6ba695668e7aa4d60ae5096afa610&o=&hp=1"\nlanguage: en\nslug: rooms-panorama\naddress: "Center, 1501 Krujë, Albania"\ncity: "Krujë"\nlocation: "Krujë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.51015226\n  lng: 19.79380935\nprice: "US$61"\npriceFrom: 61\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 246\nratings:\n  overall: 9.3\n  location: 9.8\n  cleanliness: 9.3\n  facilities: 9.2\n  value: 9.3\n  comfort: 9.2\n  staff: 9.3\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325658421.jpg?k=8f3fc6c93b3c67bf213d4feb9f6c4bcc89c6ba695668e7aa4d60ae5096afa610&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472318401.jpg?k=743882e59d2426983820d5a4fea56458e9707bebce9413dc3a3942b32232016c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472318427.jpg?k=237b9bcc40acc858d92fb3e12bb71b74491c33a42ae58c564fd6b0ad3c5458ec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377275636.jpg?k=5667e094a5ce3f203bf8631906729306dd0ea444668ced876e5477984930c43d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/75156415.jpg?k=8fd8dc51b99b981d27784a1be4efc26bca48b8e63272dc43cf7815bb142faf70&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311659244.jpg?k=1df51c206d5549e8a98ef3c87c9252a80aa66106d55a72413a4c122fef87b6e3&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Airport shuttle"\n  - "Restaurant"\n  - "Free parking"\n  - "Good free WiFi (37 Mbps)"\n  - "Family rooms"\n  - "Bar"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Small Single Room"\n  - "Small Double Room"\n  - "Small Twin Room"\n  - "Standard Twin Room"\n  - "Standard Triple Room"\n  - "Family Double Room"\nnearbyRestaurants:\n  - "Pizzeri Kupa Hallall 20 m"\n  - "Deal 50 m"\nwhatsNearby:\n  - "Dajti Mountain National Park 3.1 km"\n  - "Sheshi Rekreativ Allias 18 km"\n  - "Bunk'Art 1 Museum 19 km"\n  - "Sheshi Rekreativ Lord Bajron 19 km"\n  - "Sheshi Rekreativ Gjolek Kokona 19 km"\n  - "Sheshi Rekreativ Don Bosko 19 km"\n  - "Sheshi Rekreativ Mine Peza 20 km"\n  - "Amazing Nature 20 km"\n  - "Sheshi Jjosef Shtraus 20 km"\n  - "Shesh Rekreativ Yzberisht 20 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 87 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Mary"\n    country: "United Kingdom"\n    text: "“Fabulous location- great views in all directions. Definitely a top quality hotel. Good restaurant with a relaxed feel and attentive friendly staff.
+Good parking arrangements.”"\n  - name: "Maria"\n    country: "Spain"\n    text: "“Great en lace and nice and helpfull personal. I recomend it very much.”"\n  - name: "Katrin"\n    country: "Spain"\n    text: "“You need to know that rooms panorama is in the same building as panorama hotel - that also means that rooms panorama are the cheaper option compared to panorama hotel
+clean room, comfy beds, rooftop terrace with the (small) pool, breakfast...”"\nbookingURL: "https://www.booking.com/hotel/al/rooms-panorama.en-gb.html?aid=8035640"\nbestFor: "Best for Panoramic Views"\nbestCategories: "Panoramic Views"\ncategory: "Panoramic Views"\n---\n\nThe property is renowned for its selection of family rooms, each meticulously designed to provide a comfortable stay. Every room is equipped with essential amenities such as a desk, a flat-screen TV, and a private bathroom, ensuring a blend of functionality and comfort.
 
 Dining at Rooms Panorama is an experience in itself, with an on-site restaurant that serves a variety of culinary delights. Guests can also unwind at the bar, which offers a selection of beverages in a relaxed atmosphere. The addition of a terrace provides an ideal setting for guests to enjoy panoramic views in a tranquil environment.
 
 Situated conveniently close to historical and natural attractions, including the Former Residence of Enver Hoxha and the Rock of Kavaje, Rooms Panorama serves as an excellent base for exploring the rich cultural heritage and natural beauty of the area. For those traveling by air, the proximity to Tirana International Mother Teresa Airport, just 17 km away, coupled with the availability of a paid airport shuttle service, ensures a hassle-free travel experience.
 
 Rooms Panorama stands out as a premier choice for travelers seeking a blend of comfort, convenience, and a touch of luxury during their stay in Krujë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

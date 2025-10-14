@@ -1,28 +1,6 @@
----
-title: Hotel Flamingo
-description: Accommodations at Hotel Flamingo go beyond the basics, offering a cozy seating area for relaxation and private bathrooms equipped with hairdryers, ensuring a st
-featuredImage: "/images/accommodation/149116999.jpg"
-language: en
-slug: hotel-flamingo
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Hotel Flamingo go beyond the basics, offering a cozy seating area for relaxation and private bathrooms equipped with hairdryers, ensuring a stay that combines comfort with privacy.
+---\ntitle: "Hotel Flamingo"\ndescription: "Hotel Flamingo stands out as a premier choice for travelers seeking comfort and convenience in Korçë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149116999.jpg?k=f72f2a04865045be35279fd63c0443ec6ccdb06df74132a08d572bbd122b56a7&o=&hp=1"\nlanguage: en\nslug: hotel-flamingo\naddress: "Rruga e Veteraneve; Lagja12, 7001 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.6199041\n  lng: 20.77901423\nprice: "US$59"\npriceFrom: 59\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 178\nratings:\n  overall: 9.3\n  location: 9.4\n  cleanliness: 9.2\n  facilities: 8.9\n  value: 9.1\n  comfort: 9.2\n  staff: 9.5\n  wifi: 9.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149116999.jpg?k=f72f2a04865045be35279fd63c0443ec6ccdb06df74132a08d572bbd122b56a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149119041.jpg?k=781b56169f14ab0f33764b1864c36ff094cbe7791f1f288f914b5f3b5994558b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149115831.jpg?k=9998da70ea252c00d53097f90e372f133fa517a1ac87ee81e8c08512807feef9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149115462.jpg?k=9673b4fedb4da8d90e6850a0b6ee03ee13f1581d00cc814a570145029472f933&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149116856.jpg?k=316efe9ae28fa3681d2d347f36d047b4824e7304758e8a29b12da307282d8e26&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149114722.jpg?k=bd047c8997be76277e0c1c35851e91313ffde3d0187a8f0116942ca400d7460b&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Airport shuttle"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Superb breakfast"\nroomTypes:\n  - "Standard Double Room"\n  - "Triple Room"\nnearbyRestaurants:\n  - "Medusa 150 m"\n  - "Ristorante Alfa 250 m"\nwhatsNearby:\n  - "Parku Themistokli Gërmenji 300 m"\n  - "Field of Tears 350 m"\n  - "Parku Rinia 500 m"\n  - "Parku Vangjush Mio 500 m"\n  - "Sheshi Patriku Joasaf 600 m"\n  - "Parku Rinia 950 m"\n  - "Sheshi Panxhar 5 km"\n  - "Sheshi Koço Plaku 12 km"\n  - "Sheshi Penetori 12 km"\nairports:\n  - "Kastoria National Airport 45 km"\n  - "Ohrid Airport 61 km"\n  - "Kozani National Airport 96 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "J"\n    country: "Albania"\n    text: "“I have consistently enjoyed my stays at Hotel Flamingo.
+The rooms are consistently clean, it's near the city center, and the staff is very friendly. Highly recommend”"\n  - name: "Arlind"\n    country: "Albania"\n    text: "“Great service, location 3 minutes walk from center, room was clean, friendly staff.”"\n  - name: "Mario"\n    country: "Spain"\n    text: "“Kevin was very helpful. I arrived late afternoon with a need for laundry and it was like, don't worry I will take care of it.”"\nbookingURL: "https://www.booking.com/hotel/al/flamingo.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nAccommodations at Hotel Flamingo go beyond the basics, offering a cozy seating area for relaxation and private bathrooms equipped with hairdryers, ensuring a stay that combines comfort with privacy.
 
 The hotel prides itself on exceptional guest services, including a 24-hour front desk ready to attend to any need and a welcoming bar perfect for unwinding after a day of exploration. Additionally, the shared lounge area serves as a pleasant space for guests to socialize or simply relax.
 
 For those traveling by car, Hotel Flamingo makes the journey worry-free with complimentary parking available on-site, adding to the ease of your stay in this charming city.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

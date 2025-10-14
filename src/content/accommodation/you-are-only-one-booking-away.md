@@ -1,28 +1,5 @@
----
-title: You are only one booking away
-description: The apartment itself boasts a generous layout, featuring two well-appointed bedrooms, a living area with a satellite TV, and a balcony for enjoying the calm eve
-featuredImage: "/images/accommodation/487572438.jpg"
-language: en
-slug: you-are-only-one-booking-away
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself boasts a generous layout, featuring two well-appointed bedrooms, a living area with a satellite TV, and a balcony for enjoying the calm evenings. The heart of the home, a fully equipped kitchen, invites guests to prepare meals with ease, offering an oven, toaster, washing machine, fridge, and a complete set of kitchenware.
+---\ntitle: "You are only one booking away"\ndescription: "Discover the charm of Kamëz with a stay at \"You are only one booking away,\" a prime choice for travelers seeking comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487572438.jpg?k=969fe89488ce597997eba07526ceb6e6e5d152bda6f28b1d90f213d49f2bd6b3&o=&hp=1"\nlanguage: en\nslug: you-are-only-one-booking-away\naddress: "Bulevardi Blu, 1001 Kamëz, Albania, 1001 Kamëz, Albania"\ncity: "Kamëz"\nlocation: "Kamëz"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3731713\n  lng: 19.7667002\nprice: "US$113"\npriceFrom: 113\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487572438.jpg?k=969fe89488ce597997eba07526ceb6e6e5d152bda6f28b1d90f213d49f2bd6b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484278813.jpg?k=8ff6ab647dcb323f2e04b6b12cb210c5ef7d6b6cf629aaebeff6b6debf1eb042&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484278841.jpg?k=a5c9553c5b9dad9debcbd6a73ecaff87c497408fca3310d5d930117c8d1c4678&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484278806.jpg?k=98b95fea4eef7ed6a6a5606f978b3d9ca6ae7a6bbfcf6e16ef803baba5cc8e4b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484278830.jpg?k=a964fa457a21b62cabd19ec1c0fc16c1af7e82643d072d3ce9102fd21c0a092d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484278847.jpg?k=26403725d849e8c9bb9fed5eeeebdade1cd489e3bfc250194c6d1b3fc4ababfd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484278850.jpg?k=c8676abafb7cf5145d8f77da5dd5902ea0d6c6a0348cd161d8ca46bddba2d031&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484278854.jpg?k=8167931b17fe496d884d210a7ddff2dbd1a79b02dbcbf29a700b3945d054305e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484278819.jpg?k=52361eeb6e6ef580af737755b1a2dded56e4813d2a87d38fd875e6f1526443cc&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\nroomTypes:\n  - "Apartment"\nnearbyAttractions:\n  - "National Museum of History Albania 6 km"\n  - "House of Leaves 7 km"\n  - "Skanderbeg Square 7 km"\n  - "Clock Tower Tirana 7 km"\n  - "Rinia Park 7 km"\n  - "National Gallery of Arts Tirana 7 km"\n  - "Tanners' Bridge 7 km"\n  - "Former Residence of Enver Hoxha 7 km"\n  - "Bunk'Art 1 Museum 8 km"\n  - "Grand Park of Tirana 8 km"\nnearbyRestaurants:\n  - "Restorant Gjallica 100 m"\n  - "Zgara Korçare Fatosi 300 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Lord Bajron 4.5 km"\n  - "Shesh Rekreativ Yzberisht 4.7 km"\n  - "Park Lojrash 4.8 km"\n  - "Sheshi Rekreativ Don Bosko 5 km"\n  - "Sheshi Rekreativ Parku 1Km 5 km"\n  - "Sheshi Rekreativ Mine Peza 6 km"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 6 km"\n  - "Sheshi Rekreativ Pallati me Shigjeta 6 km"\n  - "Sheshi Rekreativ Sali Butka 6 km"\n  - "Amazing Nature 6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 4.4 km"\n  - "Ohrid Airport 84 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/you-are-only-one-booking-away.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nThe apartment itself boasts a generous layout, featuring two well-appointed bedrooms, a living area with a satellite TV, and a balcony for enjoying the calm evenings. The heart of the home, a fully equipped kitchen, invites guests to prepare meals with ease, offering an oven, toaster, washing machine, fridge, and a complete set of kitchenware.
 
 For those keen to explore the local culture and history, the apartment is conveniently situated just 9.2 km from the Former Residence of Enver Hoxha. Meanwhile, nature and leisure seekers will find the House of Leaves and Rinia Park within a short 8.4 km and 8.7 km drive, respectively. Adding to the appeal is the proximity to Tirana International Mother Teresa Airport, located only 6 km away, making arrivals and departures as smooth as possible.
 
 "You are only one booking away" stands as a testament to the blend of accessibility, comfort, and local charm, making it an ideal base for both short-term and extended stays in the heart of Kamëz.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

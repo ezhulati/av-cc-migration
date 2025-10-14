@@ -1,30 +1,7 @@
----
-title: Gardenland Resort
-description: Accommodations at Gardenland Resort are a testament to comfort and elegance, featuring air-conditioned rooms equipped with flat-screen TVs, minibars, and privat
-featuredImage: "/images/accommodation/402389426.jpg"
-language: en
-slug: gardenland-resort
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Gardenland Resort are a testament to comfort and elegance, featuring air-conditioned rooms equipped with flat-screen TVs, minibars, and private bathrooms adorned with complimentary toiletries, slippers, and hairdryers. Select rooms and suites elevate the experience further, boasting balconies that offer sweeping views of the garden, pool, or the majestic mountains beyond.
+---\ntitle: "Gardenland Resort"\ndescription: "Gardenland Resort emerges as a serene oasis in Shkodër, positioned gracefully beside the tranquil Lumi Drin River and offering a picturesque escape with its palm-fringed outdoor swimming pool and inviting sun beds."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402389426.jpg?k=427460dc662ffc7d19bb1557cba0fb5c16284263e6b025bbc348ce5a7cea921c&o=&hp=1"\nlanguage: en\nslug: gardenland-resort\naddress: "Shkodër, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "resort"\ncoordinates:\n  lat: 41.93894442\n  lng: 19.54554409\nprice: "US$43"\npriceFrom: 43\nstarRating: 4\nrating: 8.6\nratingWords: "Very Good"\nnumberOfReviews: 235\nratings:\n  overall: 8.6\n  location: 8.1\n  cleanliness: 8.9\n  facilities: 8.8\n  value: 8.7\n  comfort: 8.9\n  staff: 9.1\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402389426.jpg?k=427460dc662ffc7d19bb1557cba0fb5c16284263e6b025bbc348ce5a7cea921c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/283370884.jpg?k=c19e69a467f0baa223ec0b3aa9dcae857c4fa73df883273e69c7c7f4fd68b267&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402389435.jpg?k=07ec98a6a72451fee6c9ac064e2a586b35c74d0c89e3191bab5a7b28bf750d2a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/273341738.jpg?k=67a858e47074f87cccf6803848b776da6e48e023c3ddc4a7c76e1222df7bf33b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402389474.jpg?k=511146b03f7ac8e63a09997854d3e4bbae992b0df8a754192a4cb794b6e9db8e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402389445.jpg?k=627a08c19860305c66565ee5073cb851c5601e7fa58052967cded987967c1737&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Facilities for disabled guests"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Single Room"\n  - "Double Room"\n  - "Twin Room"\n  - "Triple Room"\n  - "Family Room"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Osama"\n    country: "Saudi Arabia"\n    text: "“The place is very nice, the rooms are excellent, and the staff is classy and helpful, especially the most wonderful employee, SIZBIE, I think. Thank you.”"\n  - name: "Michiel"\n    country: "Belgium"\n    text: "“The friendly staff at the reception and the restaurant. Also the pool is very nice and we had a balcony overlooking the pool. Nice rooms!”"\n  - name: "Hernando"\n    country: "France"\n    text: "“Amazing surprise to discover this beautiful resort, for sure we are planning to come back!”"\nbookingURL: "https://www.booking.com/hotel/al/gardenland-resort.en-gb.html?aid=8035640"\nbestFor: "Best for Resort Experience"\nbestCategories: "Resort Experience"\ncategory: "Resort Experience"\n---\n\nAccommodations at Gardenland Resort are a testament to comfort and elegance, featuring air-conditioned rooms equipped with flat-screen TVs, minibars, and private bathrooms adorned with complimentary toiletries, slippers, and hairdryers. Select rooms and suites elevate the experience further, boasting balconies that offer sweeping views of the garden, pool, or the majestic mountains beyond.
 
 Culinary adventures await at the resort's main restaurant, Gardenland, where a sumptuous buffet breakfast blending Mediterranean flavors with local fare starts the day on a high note. The dining experience continues to delight with a menu that spans traditional specialties and international cuisines, catering to a variety of palates.
 
 Beyond the luxurious accommodations and gourmet dining, Gardenland Resort is a haven of activities and amenities. Sports enthusiasts will appreciate the on-site courts, while the fishing pond offers a tranquil retreat for those seeking a quieter pastime. The greenhouse, brimming with homegrown vegetables, underscores the resort's commitment to freshness and sustainability. Families visiting with young children will find joy in the dedicated playground, designed for guests under the age of six.
 
 Explorers eager to venture beyond the resort's confines will find Rozafa Castle Shkodra and Lake Skadar within a 15 km radius, offering a glimpse into the region's rich history and natural beauty. The sandy shores of Velipoja Beach and the city center lie 25 and 26 km away, respectively, promising a day of seaside relaxation or urban exploration. For those arriving by air, Tirana Airport is conveniently located 67 km from the resort, making Gardenland Resort an accessible and enticing choice for travelers seeking a blend of relaxation, recreation, and discovery.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

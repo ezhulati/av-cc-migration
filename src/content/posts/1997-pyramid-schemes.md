@@ -9,6 +9,10 @@ tags: []
 featuredImage: "/images/posts/Vlore_Money_Lenders_1997-2.jpg"
 language: en
 slug: 1997-pyramid-schemes
+seo:
+  metaTitle: "Albania's Road to Ruin - The 1997 Pyramid Scheme Implosion"
+  metaDescription: "The dramatic unraveling of 1990s Albanian pyramid schemes robbed citizens of $1.2 billion and unleashed a wave of violence that brought the nation to its knees."
+  robots: "index"
 ---
 
 ## Albania's Road to Ruin
@@ -39,14 +43,3 @@ However, challenges remain. The informal economy, development deficits, and the 
 
 Today, Albania stands at a crossroads, balancing its rich cultural heritage with the demands of a globalized economy. As the nation navigates its complex economic landscape, cautious optimism exists. With its resilient spirit and potential for growth, Albania's economic odyssey is a testament to its people's enduring strength and adaptability.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

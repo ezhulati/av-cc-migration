@@ -1,28 +1,5 @@
----
-title: Vila Murataj Lekures
-description: Guests are treated to a selection of family-friendly accommodations, each boasting the comfort of air conditioning, the privacy of en-suite bathrooms, and the c
-featuredImage: "/images/accommodation/475041135.jpg"
-language: en
-slug: vila-murataj-lekures
-location: ""
-amenities: []
-images: []
----
-
-Guests are treated to a selection of family-friendly accommodations, each boasting the comfort of air conditioning, the privacy of en-suite bathrooms, and the convenience of fully equipped kitchens. The inclusion of flat-screen TVs and balconies in every unit ensures that relaxation and entertainment are never far from reach.
+---\ntitle: "Vila Murataj Lekures"\ndescription: "Vila Murataj Lekures emerges as a serene oasis in Sarandë, offering a tranquil retreat just a stone's throw away from the pristine shores of Maestral Beach and La Petite Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475041135.jpg?k=f5d21c369f37014f8962c4a154c558ed4331bc17aacd8683db365de190380002&o=&hp=1"\nlanguage: en\nslug: vila-murataj-lekures\naddress: "Lagja Lekures Sarande, 9703 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86764942\n  lng: 20.02859392\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 7.1\nratingWords: "Good"\nnumberOfReviews: 2\nratings:\n  overall: 7.1\n  location: 8.8\n  cleanliness: 7.5\n  facilities: 6.3\n  value: 6.3\n  comfort: 7.5\n  staff: 6.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475041135.jpg?k=f5d21c369f37014f8962c4a154c558ed4331bc17aacd8683db365de190380002&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475073573.jpg?k=43be3927c26b4c6067f3a3b3ad92cd6f78399c37630e429c29cf054c76591953&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475072688.jpg?k=77ec469db155c67dddacfb6edbddf15dc590a0b423fccaf91360e38f85af6660&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475073560.jpg?k=b1b17d6c7ca6d0a11c56c306ce242237a7f6e2ab2963d73c51a87adc93fa9911&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475041446.jpg?k=4090bc682ebc007e5d567101fc522c238f34c6a75d9d0f5a25edfab5686fb93b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475041319.jpg?k=72ae81ad461e0aa566833b8a84591d23c92067d97b1ab7ae13933ccaea6a489a&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\n  - "Breakfast"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "Apartment with Balcony"\n  - "One-Bedroom Apartment"\n  - "Apartment with Balcony"\nnearbyRestaurants:\n  - "Lekuresi Castle 300 m"\n  - "Natyra Restorant 350 m"\nnearbyBeaches:\n  - "Maestral Beach 1.1 km"\n  - "La Petite Beach 1.2 km"\n  - "VIP Beach 1.2 km"\n  - "Santa Quaranta Beach 1.3 km"\n  - "Saranda City Beach 1.3 km"\nwhatsNearby:\n  - "Parc National de Butrint 1 km"\n  - "Butrint National Park 1.9 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 69 km"\nbookingURL: "https://www.booking.com/hotel/al/vila-murataj.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nGuests are treated to a selection of family-friendly accommodations, each boasting the comfort of air conditioning, the privacy of en-suite bathrooms, and the convenience of fully equipped kitchens. The inclusion of flat-screen TVs and balconies in every unit ensures that relaxation and entertainment are never far from reach.
 
 The property's strategic location places it within easy reach of Sarandë's must-visit destinations, including the serene VIP Beach, the historic Butrint National Park, and the ancient ruins of Fanoti, all within a 50 km radius. Moreover, the terrace offers a perfect spot for unwinding after a day of exploration.
 
 For travelers considering their journey to or from the area, Ioannina Airport is located 95 km away, making Vila Murataj Lekures an accessible haven for both short stays and extended getaways in the heart of Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

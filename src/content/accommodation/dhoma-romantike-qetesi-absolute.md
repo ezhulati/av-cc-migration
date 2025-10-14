@@ -1,28 +1,5 @@
----
-title: Dhoma romantike , qetesi absolute!
-description: Each room at Dhoma Romantike is thoughtfully appointed with a patio that presents breathtaking mountain views, ensuring a tranquil retreat from the hustle and b
-featuredImage: "/images/accommodation/443942996.jpg"
-language: en
-slug: dhoma-romantike-qetesi-absolute
-location: ""
-amenities: []
-images: []
----
-
-Each room at Dhoma Romantike is thoughtfully appointed with a patio that presents breathtaking mountain views, ensuring a tranquil retreat from the hustle and bustle of daily life. Inside, guests will find all the essentials for a comfortable stay, including a wardrobe, a private bathroom equipped with a shower and slippers, and the added benefit of free WiFi. The attention to detail extends to the provision of bed linen and towels, enhancing the home-away-from-home experience.
+---\ntitle: "Dhoma romantike , qetesi absolute!"\ndescription: "Dhoma Romantike, Qetesi Absolute!"\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443942996.jpg?k=deebf4e7242df07c71b5ed8e7a530a414dff2e8d6694f21ca4e8ef44a450be30&o=&hp=1"\nlanguage: en\nslug: dhoma-romantike-qetesi-absolute\naddress: "Rruga Sali Butka 22, 7001 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.60297064\n  lng: 20.77889928\nprice: "US$45"\npriceFrom: 45\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 8\nratings:\n  overall: 10\n  location: 9.7\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443942996.jpg?k=deebf4e7242df07c71b5ed8e7a530a414dff2e8d6694f21ca4e8ef44a450be30&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514859578.jpg?k=1bdb803c5d04480e1542070c651c11c1ff0a3e7d2cca01f8c0cb85caf93aa480&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490150298.jpg?k=7b60a4dcd347b0796d50f8a309fd209b3a99ab40260cc6ed5fca27bd0740bdaf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462928224.jpg?k=9ff5caa38fb3880b1a330a3dc9395fdc3e95517fbb2fa5c365fe5161bb236e70&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475441763.jpg?k=62fb91478d97499c793a1bf4214b4202a6e4997e51e37eb657c3bd3f4af05086&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511996032.jpg?k=f776cc2ce3bbf6e331071ff369c9bbbd418971edf4a2cd809a5c5c01f858f7ac&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Tea/coffee maker in all rooms"\nroomTypes:\n  - "Deluxe Double Room (2 Adults + 1 Child)"\n  - "Double Room with Private Bathroom"\nnearbyRestaurants:\n  - "Versus 450 m"\n  - "Dea 2002 600 m"\nwhatsNearby:\n  - "Parku Vangjush Mio 1.4 km"\n  - "Parku Rinia 1.4 km"\n  - "Sheshi Patriku Joasaf 1.4 km"\n  - "Parku Themistokli Gërmenji 1.8 km"\n  - "Field of Tears 1.8 km"\n  - "Parku Rinia 2.6 km"\n  - "Sheshi Panxhar 6 km"\n  - "Sheshi Koço Plaku 12 km"\n  - "Sheshi Penetori 14 km"\nairports:\n  - "Kastoria National Airport 45 km"\n  - "Ohrid Airport 63 km"\n  - "Kozani National Airport 96 km"\nreviews:\n  - name: "Xhenis"\n    country: "Albania"\n    text: "“Everything was perfect, room was very clean, people there very friendly”"\n  - name: "Alena"\n    country: "Czech Republic"\n    text: "“The surroundings is very peaceful and close to city Korca, rooms are big and perfectly clean. The hostess is so friendly and helpful! We were very glad to choose this accomodation and recommend 10/10.”"\n  - name: "Vachou54"\n    country: "France"\n    text: "“The size of the room, the view of the mountains, the kindness of the hosts and the amenities, everything was perfect.”"\nbookingURL: "https://www.booking.com/hotel/al/dhoma-romantike-qetesi-absolute.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach room at Dhoma Romantike is thoughtfully appointed with a patio that presents breathtaking mountain views, ensuring a tranquil retreat from the hustle and bustle of daily life. Inside, guests will find all the essentials for a comfortable stay, including a wardrobe, a private bathroom equipped with a shower and slippers, and the added benefit of free WiFi. The attention to detail extends to the provision of bed linen and towels, enhancing the home-away-from-home experience.
 
 The property boasts a beautifully maintained garden, inviting guests to unwind and soak in the peaceful atmosphere. Whether seeking a moment of solitude or a picturesque spot for morning contemplation, the garden serves as an ideal setting.
 
 Located 45 km from the historic Monastery Saint Naum and 73 km from Kastoria National Airport, Dhoma Romantike, Qetesi Absolute! positions itself as a perfect base for exploring the surrounding area's natural beauty and cultural heritage. This guest house stands out as a preferred choice for those in search of absolute tranquility combined with the convenience of modern amenities.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

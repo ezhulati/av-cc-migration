@@ -1,15 +1,4 @@
----
-title: Villa
-description: Strategically placed, Villa finds itself within easy reach of some of Albania's most significant landmarks. It is a comfortable drive from the historic Skanderb
-featuredImage: "/images/accommodation/527698248.jpg"
-language: en
-slug: villa
-location: ""
-amenities: []
-images: []
----
-
-Strategically placed, Villa finds itself within easy reach of some of Albania's most significant landmarks. It is a comfortable drive from the historic Skanderbeg Square and the intriguing Dajti Ekspres Cable Car, 38 km and 41 km away respectively. Moreover, the enigmatic Rock of Kavaje is just 10 km from the doorstep, offering an easy escape to one of the area's natural wonders.
+---\ntitle: "Villa"\ndescription: "Villa emerges as a serene oasis located in the vibrant heart of Durrës, offering guests a unique blend of cultural immersion and relaxation."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527698248.jpg?k=72c5cfa476c40f388eeb0b7497333d152043208fddd2b839d456a2a95a38a833&o=&hp=1"\nlanguage: en\nslug: villa\naddress: "Rruga Drenica nd.22 durres 2024, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.32033381\n  lng: 19.46547837\nprice: "US$28"\npriceFrom: 28\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527698248.jpg?k=72c5cfa476c40f388eeb0b7497333d152043208fddd2b839d456a2a95a38a833&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527698323.jpg?k=bc69cf086e19911c4f5eb894a2998cdba4cea63ff76950e883ce7701f0077b2c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527698331.jpg?k=e2b9c49fb4cf98a8a72f87facc4aa3f9cbd5d934d4dbe77ea207f945b6ff1d93&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527698341.jpg?k=7cce9b06a448903731bc39b72e876a4cdf3ab0bd15af3326e1e4740ee98678ba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527698305.jpg?k=b82f9cc538e773f74fcdef12121e51980e0ceed98109bd41055588b41ccbe870&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527698312.jpg?k=046fa1151cd3ec166551131dcb506ad94723c74bbb2ceb18149eb9a54cf14db0&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom House"\nnearbyRestaurants:\n  - "Hirjani 150 m"\n  - "Bar Milano 250 m"\nnearbyBeaches:\n  - "Durres Beach 600 m"\n  - "Currila Beach 2.1 km"\n  - "Kallmi Beach 2.8 km"\n  - "West End Beach 3.6 km"\n  - "Shkëmbi i Kavajës Beach 5 km"\nwhatsNearby:\n  - "Bekimi 1.4 km"\n  - "Sheshi Demokracia 1.4 km"\n  - "Wine Dhe Pooh 1.5 km"\n  - "Yje Dhe Hena 1.6 km"\n  - "Sotir Noka 1.6 km"\n  - "Durres Amphiteatre 1.9 km"\n  - "1. Maj 2.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 23 km"\nbookingURL: "https://www.booking.com/hotel/al/villa-durres3.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nStrategically placed, Villa finds itself within easy reach of some of Albania's most significant landmarks. It is a comfortable drive from the historic Skanderbeg Square and the intriguing Dajti Ekspres Cable Car, 38 km and 41 km away respectively. Moreover, the enigmatic Rock of Kavaje is just 10 km from the doorstep, offering an easy escape to one of the area's natural wonders.
 
 The property stands out not only for its prime location but also for its thoughtful amenities. Each air-conditioned unit within Villa boasts a private bathroom, a flat-screen TV for entertainment, a fully equipped kitchen for those who love to cook, and a balcony to enjoy the serene views or a morning cup of coffee in peace.
 
@@ -18,19 +7,3 @@ Cultural sites are within arm's reach, with the Durres Amphitheatre only 3.1 km 
 For those interested in exploring further, Rinia Park and the National Museum of History Albania are also 37 km from Villa, offering insightful outings. Conveniently, Tirana International Mother Teresa Airport is the nearest airport, located 32 km away, ensuring easy arrivals and departures.
 
 Villa stands as a testament to the perfect balance between accessibility to cultural landmarks and the tranquility of a holiday home, making it an excellent choice for travelers seeking both adventure and relaxation in Durrës.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

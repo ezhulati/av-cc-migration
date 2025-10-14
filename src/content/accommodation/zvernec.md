@@ -1,26 +1,3 @@
----
-title: zvernec
-description: "Guests are welcomed into a spacious, air-conditioned apartment that boasts a private balcony, offering a tranquil space to unwind after a day of adventure."
-featuredImage: "/images/accommodation/465726466.jpg"
-language: en
-slug: zvernec
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into a spacious, air-conditioned apartment that boasts a private balcony, offering a tranquil space to unwind after a day of adventure. The apartment features a thoughtfully designed bedroom, a fully equipped kitchen for those who enjoy preparing their meals, and a modern bathroom. Entertainment needs are well catered to with the inclusion of a flat-screen TV, complemented by complimentary WiFi access throughout the property, ensuring guests stay connected and entertained.
+---\ntitle: "zvernec"\ndescription: "Zvernec presents an inviting retreat for travelers seeking the perfect blend of comfort and convenience in Vlorë, just a stone's throw away from the serene Vjetër Beach and a short drive from the bustling Vlore Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465726466.jpg?k=898bc982070d347a940018df4fee57722d943d161e8d72dddccfe66183ac2340&o=&hp=1"\nlanguage: en\nslug: zvernec\naddress: "Rr. Sazani, 9404 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45831436\n  lng: 19.46774379\nprice: "US$75"\npriceFrom: 75\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465726466.jpg?k=898bc982070d347a940018df4fee57722d943d161e8d72dddccfe66183ac2340&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465726480.jpg?k=7a756931cdf5526b36239e46cd6cb336621faf896e6f1d1900922d9242f77f74&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465726483.jpg?k=1cc34917894dc55ddbdf0054833e2b29604d5d022d2139a423481b2a5bd5e6be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465726493.jpg?k=fc3cc5d1b2fc03cfacab5575ce6767031859df0eb9e600ee898c473d0b5258ff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465726496.jpg?k=41a98ef541e1b68ac51ae5bf1c11046c03d6147bf0ced26c5913b6b9cb37840b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465726492.jpg?k=16ba6b3e31185088ef548d419378263e1c2f9852970e6a8eebc1bfed10f8b3f9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465726482.jpg?k=e09b6c15463c7d24d704a64254e89b079ad8d861c862da23b68ce419cf9e3da0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465726485.jpg?k=ab4dd664005e1145da9e2caeff266b4531882864771c1df9b439dc5d28e6692a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465726488.jpg?k=57c20e949f16d297f43bcfac5d141663a6015657119c26a896b71b5d976fdc14&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Love Beach 40 m"\n  - "Bar Restorant F. Feimi 200 m"\nnearbyBeaches:\n  - "Vjetër Beach 40 m"\n  - "Vlore Beach 2.4 km"\n  - "Ri Beach 3.4 km"\n  - "Narta Beach 4.2 km"\n  - "Beach at Government Villas 4.5 km"\nwhatsNearby:\n  - "Independence Square 2.4 km"\n  - "Kuzum Baba 2.4 km"\n  - "Scooby Doo Vlore 3.4 km"\nbookingURL: "https://www.booking.com/hotel/al/zvernenc.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into a spacious, air-conditioned apartment that boasts a private balcony, offering a tranquil space to unwind after a day of adventure. The apartment features a thoughtfully designed bedroom, a fully equipped kitchen for those who enjoy preparing their meals, and a modern bathroom. Entertainment needs are well catered to with the inclusion of a flat-screen TV, complemented by complimentary WiFi access throughout the property, ensuring guests stay connected and entertained.
 
 For those looking to explore beyond the local beaches and historical sites, Kuzum Baba is located just 4.1 km away, offering a glimpse into the area's spiritual heritage. For international travelers, the convenience of Tirana International Mother Teresa Airport, situated 151 km from Zvernec, makes this apartment an excellent choice for both short and extended stays in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

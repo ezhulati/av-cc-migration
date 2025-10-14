@@ -1,28 +1,5 @@
----
-title: LUNGOMARE CIAK APARTMENT 3
-description: The apartment itself is a testament to spacious living, boasting a balcony that offers breathtaking mountain views. It is well-appointed with a bedroom, a livin
-featuredImage: "/images/accommodation/468671152.jpg"
-language: en
-slug: lungomare-ciak-apartment-3
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to spacious living, boasting a balcony that offers breathtaking mountain views. It is well-appointed with a bedroom, a living room that invites relaxation, a flat-screen TV for entertainment, and a fully equipped kitchen that includes an oven and a fridge, catering to all culinary needs. Additionally, guests will find two bathrooms equipped with a bidet, enhancing the convenience factor. For added comfort, towels and bed linen are thoughtfully provided, ensuring a home-away-from-home experience.
+---\ntitle: "LUNGOMARE CIAK APARTMENT 3"\ndescription: "Lungomare Ciak Apartment 3 emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, positioned just a stone's throw away from the serene Vlore Beach and within easy reach of Ri Beach and Vjetër Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468671152.jpg?k=132e304f2e99cc305b5bf9301ab7e5775f26001de2464cc7232ed4c6932ef70e&o=&hp=1"\nlanguage: en\nslug: lungomare-ciak-apartment-3\naddress: "Rruga Shaban Demiraj, 1001 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44846763\n  lng: 19.49462301\nprice: "US$92"\npriceFrom: 92\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468671152.jpg?k=132e304f2e99cc305b5bf9301ab7e5775f26001de2464cc7232ed4c6932ef70e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469604825.jpg?k=e70a81f3393c0ffa5e8c6cdd4e7ec55542f98501226f4863042797dba0126e15&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469642043.jpg?k=6580b83978e908d5d78204481e0d11f14f89614521f1fd2f604be6b9632af22d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468677049.jpg?k=6342b2358a735f55f9323caea5f6360ad044b536fcc6ff5b4b54c72c7739a82c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468622323.jpg?k=99b7958b2d710e9648c7c1d19781a85bc838fc29718041fc80023fc0a7d09a3f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468622340.jpg?k=36f06cc996a31f0af150f622660b5c35a5b586534d85440edbbbc7c3ff1d86cc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468667399.jpg?k=2a84b6cc71b2a37d06958dca1a80d39f461697056bf6aa4fdd6b9f347c7c81fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469642554.jpg?k=b436c9eb48ea389f399877bf2d6146b55d11b736520acd7a38ea45d28a917a46&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483095902.jpg?k=184da0cd756b0fdc55d4bdf14a220ef73a2b20701b9a5b878b6d87e92f471e55&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Tradicional Zgara 50 m"\n  - "Patio 150 m"\nnearbyBeaches:\n  - "Vlore Beach 150 m"\n  - "Vjetër Beach 1.2 km"\n  - "Ri Beach 1.4 km"\n  - "Beach at Government Villas 3.2 km"\n  - "Liro Beach 3.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.4 km"\n  - "Kuzum Baba 2.1 km"\n  - "Independence Square 2.5 km"\nbookingURL: "https://www.booking.com/hotel/al/lungomare-ciak-apartment-3.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to spacious living, boasting a balcony that offers breathtaking mountain views. It is well-appointed with a bedroom, a living room that invites relaxation, a flat-screen TV for entertainment, and a fully equipped kitchen that includes an oven and a fridge, catering to all culinary needs. Additionally, guests will find two bathrooms equipped with a bidet, enhancing the convenience factor. For added comfort, towels and bed linen are thoughtfully provided, ensuring a home-away-from-home experience.
 
 For those keen to explore the local area, Kuzum Baba and Independence Square are within a short driving distance, offering a glimpse into the rich culture and history of Vlorë. Moreover, for international travelers, the Tirana International Mother Teresa Airport is located 152 km away, making Lungomare Ciak Apartment 3 an accessible retreat for both domestic and international visitors.
 
 In summary, Lungomare Ciak Apartment 3 stands out as a stellar accommodation option in Vlorë, perfectly blending comfort, convenience, and the promise of an unforgettable stay.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

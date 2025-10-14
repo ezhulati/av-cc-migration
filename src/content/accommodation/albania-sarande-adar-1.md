@@ -1,28 +1,5 @@
----
-title: Albania Sarande Adar 1
-description: The apartment itself is a spacious retreat, boasting a balcony that offers captivating sea views. It is well-appointed with two bedrooms, a cozy living room com
-featuredImage: "/images/accommodation/355091535.jpg"
-language: en
-slug: albania-sarande-adar-1
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a spacious retreat, boasting a balcony that offers captivating sea views. It is well-appointed with two bedrooms, a cozy living room complete with a TV for entertainment, and a fully equipped kitchen that includes a dishwasher and an oven, ensuring guests feel right at home. The convenience extends to the bathroom, equipped with a bidet, and the provision of towels and bed linen, enhancing the comfort of the stay.
+---\ntitle: "Albania Sarande Adar 1"\ndescription: "Albania Sarande Adar 1 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355091535.jpg?k=5c5bb62e479bd3f7ec1006457882476d6fccb8e876cab77c8488829a17d9bba4&o=&hp=1"\nlanguage: en\nslug: albania-sarande-adar-1\naddress: "Rruga 4 Deshmoret , Sarande , Albania, 9700 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.8517835\n  lng: 20.0229504\nprice: "US$97"\npriceFrom: 97\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355091535.jpg?k=5c5bb62e479bd3f7ec1006457882476d6fccb8e876cab77c8488829a17d9bba4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/355091577.jpg?k=a982b580a999c6421aa1fda4abccdd6b20d352d0e1186898141dfd1414a72cde&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/355091555.jpg?k=2b4b036a303fb7c9af802493744fd175f5b7d9f23eee74ce6573316efbc8a7f8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/329954053.jpg?k=7cae42092b2754eb42fa901effecc40498406134121377e01c98377f11957acd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/355091534.jpg?k=02fa82d137deba9c820a0275707b812cf72d6028ee4a457c3947b2a264b91e17&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/327781201.jpg?k=aa0cf9f00ed728a876c19f3d38141c90cf2702e526f52835d2d3d5fcb03e0aa1&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free WiFi"\nroomTypes:\n  - "Apartment"\nnearbyRestaurants:\n  - "Clubitalianelmondo 20 m"\n  - "Shpella 100 m"\nnearbyBeaches:\n  - "Mango Beach 150 m"\n  - "Flamingo Beach 350 m"\n  - "Santa Quaranta Beach 700 m"\n  - "VIP Beach 800 m"\n  - "Maestral Beach 1.7 km"\nwhatsNearby:\n  - "Butrint National Park 250 m"\n  - "Parc National de Butrint 800 m"\n  - "Plazhi I Krorezes 6 km"\n  - "Parku Kombetar I Butrintit 10 km"\n  - "Butrint National Park 10 km"\nairports:\n  - "Corfu International Airport 28 km"\n  - "Ioannina Airport 69 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/albania-sarande-adar-1-sarande.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe apartment itself is a spacious retreat, boasting a balcony that offers captivating sea views. It is well-appointed with two bedrooms, a cozy living room complete with a TV for entertainment, and a fully equipped kitchen that includes a dishwasher and an oven, ensuring guests feel right at home. The convenience extends to the bathroom, equipped with a bidet, and the provision of towels and bed linen, enhancing the comfort of the stay.
 
 For those looking to explore the area at their own pace, the availability of a car rental service directly from the apartment adds a layer of ease to travel plans. Furthermore, for guests arriving from afar, the property facilitates a smoother journey by offering a paid airport shuttle service from Ioannina Airport, located 97 km away.
 
 Albania Sarande Adar 1 not only promises a stay filled with ease and comfort but also positions itself as a gateway to the rich cultural and natural beauty of Sarandë, making it an ideal choice for both leisure and exploration.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

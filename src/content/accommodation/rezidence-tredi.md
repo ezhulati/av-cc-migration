@@ -1,28 +1,6 @@
----
-title: Rezidence Tredi
-description: Guests at Rezidence Tredi are treated to the luxury of modern amenities in every room, including air conditioning and flat-screen TVs, ensuring a stay that comb
-featuredImage: "/images/accommodation/404032695.jpg"
-language: en
-slug: rezidence-tredi
-location: ""
-amenities: []
-images: []
----
-
-Guests at Rezidence Tredi are treated to the luxury of modern amenities in every room, including air conditioning and flat-screen TVs, ensuring a stay that combines relaxation with the comforts of home. The addition of a hot tub and the convenience of a 24-hour front desk elevate the guest experience, catering to needs around the clock.
+---\ntitle: "Rezidence Tredi"\ndescription: "Rezidence Tredi emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404032695.jpg?k=4d65a9570bebd548a9b075277ac3fc5c01356feff8c2870998ede431ac61f2ab&o=&hp=1"\nlanguage: en\nslug: rezidence-tredi\naddress: "Rruga e Dibrës 61, 1011 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.331158\n  lng: 19.821101\nprice: "US$77"\npriceFrom: 77\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 96\nratings:\n  overall: 9.4\n  location: 9.6\n  cleanliness: 9.2\n  facilities: 9\n  value: 9.1\n  comfort: 9.1\n  staff: 9.5\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404032695.jpg?k=4d65a9570bebd548a9b075277ac3fc5c01356feff8c2870998ede431ac61f2ab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409704097.jpg?k=654141e103a3eeb5c4f349ddea6b387fe0819fba261a771999c47308590586b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409705039.jpg?k=0848d8545656cd2af1642829a6e9c9804ef45be0d43cba82f6ca61fe73558398&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409704025.jpg?k=cd8b7ee2abc8f4ac43b99531533d4eb61eedf7b1507581df519e8694a2098bad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409705030.jpg?k=582342cdf972e32974084d0ade20a51c861deff23b24ec0f0862eefda472ebb5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409704035.jpg?k=3a9fee00870280b676c733f71397870ff411f6cac7be7359d1b2dba874313256&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\nroomTypes:\n  - "Budget Double Room"\n  - "Budget Double or Twin Room"\n  - "Basic Triple Room"\nnearbyAttractions:\n  - "House of Leaves 650 m"\n  - "Tanners' Bridge 650 m"\n  - "Rinia Park 750 m"\n  - "Former Residence of Enver Hoxha 1.2 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 3.9 km"\nnearbyRestaurants:\n  - "Shije Fshati 8 m"\n  - "LAngolo 100 m"\nwhatsNearby:\n  - "Sheshi Sulejman Pasha 300 m"\n  - "Amazing Nature 300 m"\n  - "National Museum of History Albania 350 m"\n  - "Clock Tower Tirana 400 m"\n  - "Sheshi Skënderbej 400 m"\n  - "Skanderbeg Square 400 m"\n  - "Parku Europa 450 m"\n  - "Sheshi Rekreativ tek ish ATSh 550 m"\n  - "National Gallery of Arts Tirana 550 m"\n  - "Sheshi Paris 550 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Ahmed"\n    country: "Egypt"\n    text: "“Comfy , near city center , very good place to stay”"\n  - name: "Ilaz"\n    country: "Germany"\n    text: "“Breakfast was wery good and yummy
+Sightes easily accessible on foot without a car”"\n  - name: "Sam"\n    country: "United Kingdom"\n    text: "“Absolutely amazing location. Right in the heart of Tirana, so perfect for us to explore and have a few drinks in the evening. There was abit of alanguage barrier but nethertheless our hosts were so attentive and really lovely to be around. We...”"\nbookingURL: "https://www.booking.com/hotel/al/rezidence-tredi.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests at Rezidence Tredi are treated to the luxury of modern amenities in every room, including air conditioning and flat-screen TVs, ensuring a stay that combines relaxation with the comforts of home. The addition of a hot tub and the convenience of a 24-hour front desk elevate the guest experience, catering to needs around the clock.
 
 For those keen to explore Tirana's rich history and vibrant culture, the hotel is conveniently situated near significant landmarks such as the Former Residence of Enver Hoxha, the National Theatre of Opera and Ballet, and the National Museum of History. Moreover, with Tirana International Mother Teresa Airport just 14 km away, Rezidence Tredi offers both accessibility and a gateway to exploring the wider region.
 
 In summary, Rezidence Tredi stands as a testament to thoughtful hospitality, where every detail is designed to ensure guests' stays are not just comfortable, but truly memorable.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

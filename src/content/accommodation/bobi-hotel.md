@@ -1,28 +1,5 @@
----
-title: Bobi Hotel
-description: Accommodations at Bobi Hotel are thoughtfully appointed, featuring flat-screen TVs with satellite channels for entertainment at any time. Each room boasts a pri
-featuredImage: "/images/accommodation/505556162.jpg"
-language: en
-slug: bobi-hotel
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Bobi Hotel"\ndescription: "Bobi Hotel stands out as a prime choice for travelers seeking comfort and convenience in Shkodër, located just 49 km from the Port of Bar."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505556162.jpg?k=a37f231bd1f8e228171966ce87a91afecb894256fd7bbe95ec5090a20f8f94bc&o=&hp=1"\nlanguage: en\nslug: bobi-hotel\naddress: "Rruga Marin Bicikemi Nr 2, 4002 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.06614891\n  lng: 19.52001327\nprice: "US$83"\npriceFrom: 83\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 215\nratings:\n  overall: 9.1\n  location: 9.4\n  cleanliness: 9\n  facilities: 8.7\n  value: 9\n  comfort: 9\n  staff: 9.6\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505556162.jpg?k=a37f231bd1f8e228171966ce87a91afecb894256fd7bbe95ec5090a20f8f94bc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505554170.jpg?k=e461b9e04b5cb2f606d3bf28dd2b943bedeed7c752c795dc212ec379b5b6c883&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304349434.jpg?k=d4bb24723fcd0ade23bd1be7a75df64e33da858898137ea31f39f536596687d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304349540.jpg?k=835c0eda4d699b04748c9d4d48fab120615c2c3491db0a64df02f0f987de4fa2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469845786.jpg?k=4a7174a8d31f704cb595f9a6dfcade0a46b49bd039455bde42c8665ad63772b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465794068.jpg?k=af078558f80deed7e86e355ca4c64caccab0a2f185f897ba5fa99dcc30e15485&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Superb breakfast"\nroomTypes:\n  - "Quadruple Room with Private Bathroom"\n  - "6-Bed Mixed Dormitory Room"\nnearbyRestaurants:\n  - "BOBI 9 m"\n  - "ORION 40 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 3.1 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 73 km"\n  - "Tivat Airport 74 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Johnny"\n    country: "Canada"\n    text: "“Good location. Good shower. Bed and pillows are great. Breakfast is awesome, with big portions and excellent coffee. Lunch box provided if you leave early in the morning. Staff is very friendly and helpful with good command of English. Josef is a...”"\n  - name: "Piotr"\n    country: "Poland"\n    text: "“Very friendly staff, everything was working fine. Clean place.”"\n  - name: "Francine"\n    country: "Australia"\n    text: "“Very friendly and helpful staff Helpful with all our bookings for travel to mountains and kept bags for our return”"\nbookingURL: "https://www.booking.com/hotel/al/bobi.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nAccommodations at Bobi Hotel are thoughtfully appointed, featuring flat-screen TVs with satellite channels for entertainment at any time. Each room boasts a private bathroom equipped with a bidet and complimentary toiletries, ensuring a seamless stay. For those who value connectivity, free WiFi is available throughout the property, and select rooms offer the added bonus of captivating city views. The comfort of air conditioning and the convenience of a desk in every room underscore the hotel's commitment to providing a restful and productive environment.
 
-Accommodations at Bobi Hotel are thoughtfully appointed, featuring flat-screen TVs with satellite channels for entertainment at any time. Each room boasts a private bathroom equipped with a bidet and complimentary toiletries, ensuring a seamless stay. For those who value connectivity, free WiFi is available throughout the property, and select rooms offer the added bonus of captivating city views. The comfort of air conditioning and the convenience of a desk in every room underscore the hotel's commitment to providing a restful and productive environment.
-
-For guests looking to explore the local area on two wheels, Bobi Hotel emerges as an ideal base, offering bike hire services that make it easy to join in on the popular local pastime of cycling.
+For guests looking to explore the local area on two wheels, Bobi Hotel emerges as an ideal base, offering bike hire services that make it easy to join in on the popular local pastime of cycling. 
 
 Situated a manageable distance from Podgorica Airport, only 58 km away, the hotel also serves as a strategic gateway for travelers. Whether visiting for business or leisure, Bobi Hotel ensures a memorable stay in Shkodër with its blend of thoughtful amenities and prime location.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,15 +1,4 @@
----
-title: Hotel Ferrara
-description: Accommodations at Hotel Ferrara are thoughtfully designed with guest comfort in mind. Each air-conditioned room is equipped with complimentary WiFi and a privat
-featuredImage: "/images/accommodation/475512601.jpg"
-language: en
-slug: hotel-ferrara
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Hotel Ferrara are thoughtfully designed with guest comfort in mind. Each air-conditioned room is equipped with complimentary WiFi and a private bathroom, ensuring a stay that combines convenience with tranquility. The attention to detail extends to the provision of crisp bed linen and soft towels in every room, with select accommodations also offering the added luxury of a balcony.
+---\ntitle: "Hotel Ferrara"\ndescription: "Hotel Ferrara emerges as a charming retreat in the heart of Durrës, merely steps away from the pristine West End Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475512601.jpg?k=e3588ea8ef48760a8842da36e2028c41d986d60ef3ce787cb9332c8b91d989a2&o=&hp=1"\nlanguage: en\nslug: hotel-ferrara\naddress: "Rruga Currila, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.32539723\n  lng: 19.42146135\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 6.6\nratingWords: "Average"\nnumberOfReviews: 32\nratings:\n  overall: 6.6\n  location: 7.6\n  cleanliness: 6.4\n  facilities: 6\n  value: 6.6\n  comfort: 6.5\n  staff: 6.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475512601.jpg?k=e3588ea8ef48760a8842da36e2028c41d986d60ef3ce787cb9332c8b91d989a2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475512730.jpg?k=877c18d2086acfa18b9b82f99bcccdb43a018b6561aef43aad1d643e7b3a31ef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475512770.jpg?k=61698ba562289230bf09ff850eb86a083a8bef515a299aa75b488edba313cff3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475517754.jpg?k=8560d2d27cf8528fe20c6bcce91e42c7c0a3a5b25bea867ce8a86d12d62063c9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475512746.jpg?k=e1feaed2647ba9a20ef38e9f6e8ada30e1834ed7cb407c70dbbe342563c5d109&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475512766.jpg?k=559a1eea462544c5eee88600a397b46a8dc9fed3fedcf142ae7a34a766d4bf97&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475514105.jpg?k=918ee9d34b6052aa8eaaa35ee2f1d8ee44a8099b85962eadd7bb58ec66eee1d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475512756.jpg?k=2e6a5e962b57229c51aa117749ed840c460f8edc47d716be58860d4c91acc3e0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475514107.jpg?k=b727c7ba84533eb08fef0d11ade028ac77a7deb2dd6d706182f7141f6d5ae7af&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "24-hour front desk"\n  - "Bar"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Charlie Max Marina 350 m"\n  - "Restorant Drini 650 m"\nnearbyBeaches:\n  - "West End Beach 20 m"\n  - "Kallmi Beach 500 m"\n  - "Currila Beach 1.3 km"\n  - "Durres Beach 4 km"\n  - "Ohana Beach 6 km"\nwhatsNearby:\n  - "Sotir Noka 2.2 km"\n  - "1. Maj 2.3 km"\n  - "Sheshi Demokracia 2.4 km"\n  - "Yje Dhe Hena 2.4 km"\n  - "Durres Amphiteatre 2.5 km"\n  - "Wine Dhe Pooh 2.5 km"\n  - "Bekimi 4.8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 26 km"\nbookingURL: "https://www.booking.com/hotel/al/ferrara-durres.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Hotel Ferrara are thoughtfully designed with guest comfort in mind. Each air-conditioned room is equipped with complimentary WiFi and a private bathroom, ensuring a stay that combines convenience with tranquility. The attention to detail extends to the provision of crisp bed linen and soft towels in every room, with select accommodations also offering the added luxury of a balcony.
 
 Families visiting Hotel Ferrara will appreciate the dedicated children's playground, a testament to the hotel's commitment to catering to guests of all ages. Moreover, the availability of family rooms underscores its status as a family-friendly destination.
 
@@ -18,15 +7,3 @@ The hotel prides itself on its exceptional service, with a 24-hour front desk st
 Situated a short stroll from Kallmi Beach and within easy reach of Currila Beach, Hotel Ferrara's location is ideal for beach enthusiasts and those keen to explore the coastal beauty of Durrës. For travelers arriving by air, the convenience of being just 36 km from Tirana International Mother Teresa Airport adds to the hotel's allure.
 
 In summary, Hotel Ferrara stands out as a premier choice for those seeking a blend of comfort, convenience, and warm hospitality during their stay in Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,7 @@
----
-title: Villa Eran
-description: Upon arrival, visitors are greeted by the villa's inviting facade, leading to a spacious interior that boasts a harmonious blend of comfort and style. The livin
-featuredImage: "/images/accommodation/442297164.jpg"
-language: en
-slug: villa-eran
-location: ""
-amenities: []
-images: []
----
-
-Upon arrival, visitors are greeted by the villa's inviting facade, leading to a spacious interior that boasts a harmonious blend of comfort and style. The living quarters are thoughtfully designed, featuring two cozy bedrooms that promise restful nights. The heart of the villa, a well-appointed living room, is equipped with a flat-screen TV, providing entertainment after a day of exploration.
+---\ntitle: "Villa Eran"\ndescription: "Villa Eran emerges as a serene retreat in Baks-Rrjoll, strategically positioned just a short drive from the historic Rozafa Castle Shkodra and the tranquil waters of Lake Skadar."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442297164.jpg?k=9232c882e069f020c22e43d627ee659118a82369ebb4208fba8a34d5f9fb3b90&o=&hp=1"\nlanguage: en\nslug: villa-eran\naddress: "Rruga Baks Rrjoll, 4001 Baks-Rrjoll, Albania"\ncity: "Baks-Rrjoll"\nlocation: "Baks-Rrjoll"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.86028902\n  lng: 19.46858834\nprice: "US$83"\npriceFrom: 83\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442297164.jpg?k=9232c882e069f020c22e43d627ee659118a82369ebb4208fba8a34d5f9fb3b90&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488814696.jpg?k=b5b1c74e3960bb48237f1b1aafec3ba03b5c857df5b61d6b3ff53bac03a9f73d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488814642.jpg?k=b59172980a4a5bf4f1fd7e137b2427f0bbd2155527709b7420549d485e67944b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488814898.jpg?k=c2b08a06755afee6f3a879f2cd6330aa1f5c0936181af7b8bbabf274b129f295&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488814819.jpg?k=97c83bbc39f3aabf965d1cd1dd3d4a680c8d90938c48996a40448a26ecd1d576&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442297144.jpg?k=1d6c8a7062cd1d54dba45ff5a3ecdcd0c0cb001af49ab8ac196cd6f563ebb0b0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488814679.jpg?k=6ed3efcc5ea069c568587eaa0de46a4f5bc800087317b8184b9b6aab4b5f77c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443727121.jpg?k=5d36512ff9f3556e66a0f22763b1bbaad14ce0769d88b16ba2cd901b4e851613&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443727189.jpg?k=e4a69cda87e8c583740dbab3ce3bf2d8a36bde67c03cd8c801d0b6ac5d1cae97&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Villa"\nnearbyRestaurants:\n  - "Kafe 300 m"\n  - "Viluni 1.9 km"\nnearbyBeaches:\n  - "Rana e Hedhun Beach 550 m"\n  - "Velipoja Beach 1.7 km"\n  - "Ada Bojana Beach 8 km"\nwhatsNearby:\n  - "Copacabana 14 km"\n  - "Cola Beach 15 km"\n  - "Imperiam Beach 16 km"\n  - "Msm Beach 17 km"\n  - "Tropicana 17 km"\n  - "Plaža Safari 18 km"\n  - "Bukurija Beach 18 km"\n  - "Saranda 19 km"\n  - "Plaža Toni 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 52 km"\n  - "Podgorica Airport 57 km"\n  - "Tivat Airport 85 km"\nbookingURL: "https://www.booking.com/hotel/al/villa-eran.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nUpon arrival, visitors are greeted by the villa's inviting facade, leading to a spacious interior that boasts a harmonious blend of comfort and style. The living quarters are thoughtfully designed, featuring two cozy bedrooms that promise restful nights. The heart of the villa, a well-appointed living room, is equipped with a flat-screen TV, providing entertainment after a day of exploration.
 
 The kitchen, complete with a refrigerator and essential kitchenware, invites guests to prepare home-cooked meals, which can be savored in the villa's outdoor dining area. Here, one can dine al fresco while admiring the picturesque garden views, a perfect setting for memorable evenings.
 
 Adding to the villa's appeal is its terrace, where guests can unwind and soak in the majestic mountain vistas that frame the property. The inclusion of modern conveniences such as air conditioning, complimentary WiFi, and the luxury of free private parking, ensures a seamless and comfortable stay.
 
 Located a mere 83 km from Tirana International Mother Teresa Airport, Villa Eran stands as an ideal base for travelers seeking both relaxation and adventure in the heart of Albania's stunning landscapes.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,7 @@
----
-title: Mikael Apartment
-description: "Guests are welcomed into a spacious, air-conditioned haven featuring two well-appointed bedrooms, a fully equipped kitchen complete with an oven and m..."
-featuredImage: "/images/accommodation/488504555.jpg"
-language: en
-slug: mikael-apartment
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into a spacious, air-conditioned haven featuring two well-appointed bedrooms, a fully equipped kitchen complete with an oven and microwave, and a cozy seating area perfect for unwinding. The highlight is undoubtedly the balcony, offering an outdoor dining space where visitors can savor meals against the backdrop of breathtaking sea views.
+---\ntitle: "Mikael Apartment"\ndescription: "Mikael Apartment emerges as a prime choice for travelers seeking comfort and convenience in Durrës, located just a short 500-meter stroll from the pristine Durres Beach and within easy reach of the city's must-see destinations."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488504555.jpg?k=05399ac4b3056eccda6a577e7911a8ffd3cd1398679e4504f8ebc0749d5e3a0b&o=&hp=1"\nlanguage: en\nslug: mikael-apartment\naddress: "2008 Rruga Pavaresia, 2008 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31154765\n  lng: 19.48220379\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 2\nratings:\n  overall: 9.4\n  location: 10\n  cleanliness: 10\n  facilities: 8.8\n  value: 10\n  comfort: 7.5\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488504555.jpg?k=05399ac4b3056eccda6a577e7911a8ffd3cd1398679e4504f8ebc0749d5e3a0b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510431979.jpg?k=0e81762e0d12b80db3c1a3beafd8ef852798ec6eaae6e7587cf8d43be83ee257&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510440055.jpg?k=1a24be09016f239b63fe66c6e1cc8d1c05a72557b3ca26754233983957b8b99e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510440120.jpg?k=39a08f69311b0cc29ec16ce994646bf5b5b2ab7c84d59b8e1223efa3b30ef097&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510440178.jpg?k=fbb0c91c63e776c4ed0099b37322d1573bc6027c49c727f99b8029cc43b41dea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485185606.jpg?k=473aaf3f61d7894d1fa3d9e21bde524548b8da49a7ac01cf1804fe50cadf2800&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510431898.jpg?k=b6bad2d20e69532018a3e05072cdbb13c120cb4c2f590a961b6557ea21459254&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510433927.jpg?k=ecb3cf71e45eab8b3e97f50512c6da36de263998dc51a9184bcecb6fab538dcd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510440081.jpg?k=7ea91a93b6d1263c92a8f7fcf4d16b1c82fcd78597b1bff4134e68e27e0f3d38&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Good free WiFi (49 Mbps)"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Antigua 40 m"\n  - "Venera 100 m"\nnearbyBeaches:\n  - "Durres Beach 50 m"\n  - "Currila Beach 3 km"\n  - "Shkëmbi i Kavajës Beach 3.6 km"\n  - "Kallmi Beach 4.2 km"\n  - "West End Beach 5 km"\nwhatsNearby:\n  - "Bekimi 1.9 km"\n  - "Wine Dhe Pooh 2.8 km"\n  - "Sheshi Demokracia 2.9 km"\n  - "Yje Dhe Hena 3 km"\n  - "Durres Amphiteatre 3.1 km"\n  - "Sotir Noka 3.2 km"\n  - "1. Maj 3.3 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/mikael.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into a spacious, air-conditioned haven featuring two well-appointed bedrooms, a fully equipped kitchen complete with an oven and microwave, and a cozy seating area perfect for unwinding. The highlight is undoubtedly the balcony, offering an outdoor dining space where visitors can savor meals against the backdrop of breathtaking sea views.
 
 The apartment ensures convenience at every turn, boasting amenities such as a lift for easy access, a terrace for soaking up the sun, and complimentary WiFi to keep guests connected. The commitment to a smoke-free environment further enhances the comfort of your stay.
 
 For those needing essentials or a quick snack, a minimarket on the premises caters to your needs without having to leave the comfort of the apartment. Additionally, a shared lounge area invites guests to relax and socialize, adding to the communal feel of the accommodation.
 
 Situated just 7 km from the intriguing Rock of Kavaje and 38 km from the historical Former Residence of Enver Hoxha, Mikael Apartment is not only a retreat but a gateway to exploring the rich culture and history of the area. With the Tirana International Mother Teresa Airport only 32 km away, and the convenience of a paid airport shuttle service, arriving and departing is a breeze, making it an excellent choice for both leisure and business travelers looking for a seamless and enjoyable stay in Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

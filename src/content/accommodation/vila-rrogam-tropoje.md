@@ -1,28 +1,5 @@
----
-title: Vila Rrogam, Tropoje
-description: The property boasts a generously sized villa that opens up to a lush garden view from its inviting terrace. Inside, guests are treated to a well-appointed livin
-featuredImage: "/images/accommodation/463996400.jpg"
-language: en
-slug: vila-rrogam-tropoje
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Vila Rrogam, Tropoje"\ndescription: "Vila Rrogam, Tropoje, emerges as a serene retreat in the heart of Tropojë, offering guests a unique blend of comfort and privacy with its air-conditioned accommodations that feature a private pool."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463996400.jpg?k=376e92fcb6692ef99aaeb15056e03b03d510e860feb78a8576b8c87fe977c4f4&o=&hp=1"\nlanguage: en\nslug: vila-rrogam-tropoje\naddress: "Rrogam, Tropojë, Albania"\ncity: "Tropojë"\nlocation: "Tropojë"\naccommodationType: "villa"\ncoordinates:\n  lat: 42.35417134\n  lng: 20.12814631\nprice: "US$291"\npriceFrom: 291\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463996400.jpg?k=376e92fcb6692ef99aaeb15056e03b03d510e860feb78a8576b8c87fe977c4f4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502817568.jpg?k=7a0d733f902a5fb705ac3e21f06e9490b041b63fd0c67f7e51059794b6fab872&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502816479.jpg?k=41afca225b57ab6dfbc1b0601436bccda8f702f9f65d60327b427d1462157c00&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463996424.jpg?k=bd27e1eacf2a94c99dc4d6a892e1be386e84507347f69a6aee0db945a215154c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512003216.jpg?k=959f63cd6cb4f0fdc519abef5c62440788453cb906ff677281a1c2bf2e6b5d31&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512003215.jpg?k=3a7e84a9cf2b41f93eccdbbd32c33360163531c69ab28fbf2bba5346b3088b22&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463996429.jpg?k=b4115f311d46ffba0c1475355d8a92cf7f28517cef3f1a1bfeca3355f0d6df52&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502817582.jpg?k=8c0b6684d5c8aee2b822af9b2aaeee4213c3a3ef5ccafa49e1335cc2855df92e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502816532.jpg?k=b02bf8b4315cbbd161b6021728e4c5daed18df05ee2332874327ba257bac26dd&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Villa"\nnearbyRestaurants:\n  - "Valbona Tradita 4.4 km"\n  - "Fisniku 4.5 km"\nwhatsNearby:\n  - "Valbona Valley National Park 3.8 km"\n  - "Valbona Valley National Park 6 km"\n  - "Prokletije National Park 20 km"\nairports:\n  - "Podgorica Airport 72 km"\n  - "Pristina International Airport 78 km"\nbookingURL: "https://www.booking.com/hotel/al/vila-rrogam-tropoje.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nThe property boasts a generously sized villa that opens up to a lush garden view from its inviting terrace. Inside, guests are treated to a well-appointed living space that includes a bedroom, a cozy living room with a flat-screen TV, a fully equipped kitchen complete with a minibar, and two well-maintained bathrooms featuring a bidet. The attention to detail in the design and facilities speaks volumes about the care put into ensuring a comfortable stay.
 
-The property boasts a generously sized villa that opens up to a lush garden view from its inviting terrace. Inside, guests are treated to a well-appointed living space that includes a bedroom, a cozy living room with a flat-screen TV, a fully equipped kitchen complete with a minibar, and two well-maintained bathrooms featuring a bidet. The attention to detail in the design and facilities speaks volumes about the care put into ensuring a comfortable stay.
-
-For those looking to unwind, the villa's garden offers a tranquil setting to relax and soak in the natural beauty of the surroundings.
+For those looking to unwind, the villa's garden offers a tranquil setting to relax and soak in the natural beauty of the surroundings. 
 
 Situated a mere 42 km from the historic Visoki Dečani Monastery and 120 km from Pristina International Airport, Vila Rrogam, Tropoje, presents an ideal base for exploring the rich cultural tapestry and natural wonders of the region. This property is not just a place to stay but a gateway to experiencing the charm and tranquility of Tropojë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,8 @@
----
-title: Lake Breeze Villa with a Pool & Magnificent Views
-description: "The property boasts a spacious layout with three elegantly furnished bedrooms, a cozy living room equipped with a flat-screen TV for entertainment, an..."
-featuredImage: "/images/accommodation/363275672.jpg"
-language: en
-slug: lake-breeze-villa-with-a-pool-magnificent-views
-location: ""
-amenities: []
-images: []
----
-
-The property boasts a spacious layout with three elegantly furnished bedrooms, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen featuring modern appliances such as a dishwasher and an oven. The inclusion of two well-appointed bathrooms, each with a walk-in shower and a hairdryer, adds to the villa's appeal, ensuring a comfortable stay for all guests.
+---\ntitle: "Lake Breeze Villa with a Pool & Magnificent Views"\ndescription: "Lake Breeze Villa with a Pool & Magnificent Views, located in the serene town of Shirokë, presents a luxurious retreat for those seeking a blend of comfort and natural beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363275672.jpg?k=b576e167c27103341f336090de520cf7cdfe205e712f6fe59aab5d1559f196a8&o=&hp=1"\nlanguage: en\nslug: lake-breeze-villa-with-a-pool-magnificent-views\naddress: "Rruga e Selvijave, 4001 Shirokë, Albania"\ncity: "Shirokë"\nlocation: "Shirokë"\naccommodationType: "villa"\ncoordinates:\n  lat: 42.05927326\n  lng: 19.44765623\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363275672.jpg?k=b576e167c27103341f336090de520cf7cdfe205e712f6fe59aab5d1559f196a8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363275669.jpg?k=8b7d980a62a955d181879d747b391ac0b37c2531071aaa15559d828dd2681e5f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363275619.jpg?k=743b42bdbb544b32dc480cb98fb38ba08fd6e6953faeb1cce49f25a269a82ce1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363275572.jpg?k=bc29447915b08ff904bc86edf1a2fabf45a3441273c220d2ac479a8ce0b21164&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363275688.jpg?k=c68cbe1073b1929f7638afea7fc42be988236f176f7fc450d5d7a91eaf3e84f6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363278189.jpg?k=a9ec1a0ebc30c19723c86fba198e9371c600f947b1bf6feda699ecb8be4d30a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363278124.jpg?k=37ab54de87c36c25b1f9c0b3bbbfcf6254d13ef49d0447d81325957c7e5e3287&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363275726.jpg?k=e0870c2d051143a57f958b4c96321e57f2ef59feed25e8c3402691e04d798aa2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506120508.jpg?k=db73b64b0dab0d80edbd93ab37c5094f79a95ca8307b2b4a41421c23d0af59bd&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Free parking"\n  - "Free WiFi"\nreviews:\n  - name: "David"\n    country: "United Kingdom"\n    text: "“The views are simply sensational. The photos don't do it justice.
+The host was great and always available.”"\nbookingURL: "https://www.booking.com/hotel/al/lake-breeze-villa-with-a-pool-amp-magnificent-views.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe property boasts a spacious layout with three elegantly furnished bedrooms, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen featuring modern appliances such as a dishwasher and an oven. The inclusion of two well-appointed bathrooms, each with a walk-in shower and a hairdryer, adds to the villa's appeal, ensuring a comfortable stay for all guests.
 
 One of the villa's highlights is its outdoor space, which includes a terrace offering breathtaking mountain views. The outdoor fireplace provides a perfect setting for guests to unwind and enjoy the tranquil surroundings. For those who appreciate a good cup of coffee, the on-site coffee shop serves as a delightful spot to start the day or enjoy a leisurely afternoon.
 
-For outdoor enthusiasts, the villa's picnic area offers a splendid opportunity to enjoy a day in the great outdoors, surrounded by the villa's picturesque landscape.
+For outdoor enthusiasts, the villa's picnic area offers a splendid opportunity to enjoy a day in the great outdoors, surrounded by the villa's picturesque landscape. 
 
 Situated 50 km from the Port of Bar and 67 km from Podgorica Airport, Lake Breeze Villa with a Pool & Magnificent Views is not only a haven of relaxation but also conveniently located for exploring the wider region. This villa is a top choice for travelers seeking a memorable stay that combines luxury, comfort, and the beauty of nature.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

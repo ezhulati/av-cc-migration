@@ -1,28 +1,5 @@
----
-title: City Apartment
-description: The accommodation boasts a well-appointed bedroom, a bathroom equipped with modern necessities, and a kitchen that comes fully equipped, catering to guests' eve
-featuredImage: "/images/accommodation/ecc2e23c1dd875ae18fc261d4a08d35f71db9440.png"
-language: en
-slug: city-apartment
-location: ""
-amenities: []
-images: []
----
-
-The accommodation boasts a well-appointed bedroom, a bathroom equipped with modern necessities, and a kitchen that comes fully equipped, catering to guests' every need. Entertainment is readily available through the inclusion of a flat-screen TV, making downtime enjoyable after a day of exploration.
+---\ntitle: "City Apartment"\ndescription: "City Apartment in Sarandë stands out as a prime choice for travelers seeking comfort and convenience, located just a stone's throw away from Saranda City Beach and within easy walking distance to La Petite Beach."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-o/ecc2e23c1dd875ae18fc261d4a08d35f71db9440.png"\nlanguage: en\nslug: city-apartment\naddress: "Rruga Lefter Talo, Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87496058\n  lng: 20.01112711\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 4\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-o/ecc2e23c1dd875ae18fc261d4a08d35f71db9440.png"\n  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470421608.jpg?k=be6d7d12dfb56048621049b10f126e90e832aa0f3febb17d22f9e7521247c442&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/470421585.jpg?k=123b9ea8566f33863b2e6eb6dac9c3f658708443cfc1229a54c7979202db1fe2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/470421598.jpg?k=62758589d41f266ade175cec3b10f371f7ba57bd4be7f2a382eabcec6b7fa3ca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/470421474.jpg?k=d74fd78d57146e60159178304dd12d035b8ed50b26f23c8240df79da8ac7f468&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/470421621.jpg?k=50d9de38407b9a8b36b0475c5ecca0feee481f5a9377853a84e526f56c075945&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/470421630.jpg?k=4f578f2752035ed538236f8fc75f0ddfa3fc7fed05f5f3695996c32de422dad8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/470421641.jpg?k=8f461d1491dc50135ce555a93630ec05cdae0ba7a14dafcb8cb33c775391e04d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/470421649.jpg?k=d49bcbb6aa4a9ad50be8252dd0faea734a29545ecc189d85f8e0c87dcc343391&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/470421654.jpg?k=8b93e865ccdad8464d03ef82f1a898ba5d94ae4a32819528295d62e0ac427fcc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/470421661.jpg?k=238f1cf409ab7f5263c38381d89669796804506f11e526a904bc541412bd00cc&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Nona Qebaptore 10 m"\n  - "Pastiçeri Gremo 100 m"\nnearbyBeaches:\n  - "Saranda City Beach 150 m"\n  - "La Petite Beach 750 m"\n  - "Maestral Beach 950 m"\n  - "Sarande Main Beach 950 m"\n  - "VIP Beach 1.9 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.1 km"\n  - "Butrint National Park 3 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Oksana"\n    country: "Poland"\n    text: "“Отличное расположение, чистая большая квартира, очень милая хозяйка”"\nbookingURL: "https://www.booking.com/hotel/al/city-apartment-sarande1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodation boasts a well-appointed bedroom, a bathroom equipped with modern necessities, and a kitchen that comes fully equipped, catering to guests' every need. Entertainment is readily available through the inclusion of a flat-screen TV, making downtime enjoyable after a day of exploration.
 
 For those intrigued by natural wonders and historical sites, the proximity of Butrint National Park, located 17 km away, presents an opportunity for an unforgettable excursion into Albania's rich heritage. Additionally, the convenience of Ioannina Airport being 97 km away facilitates ease of access for international travelers.
 
 City Apartment not only promises a comfortable and convenient stay but also serves as a gateway to the enchanting surroundings of Sarandë, making it a top recommendation for those planning their next getaway.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Centrum Apartment
-description: The apartment itself is thoughtfully designed to cater to the needs of modern travelers. It features a single bedroom, complemented by a fully equipped kitchen,
-featuredImage: "/images/accommodation/476571837.jpg"
-language: en
-slug: centrum-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is thoughtfully designed to cater to the needs of modern travelers. It features a single bedroom, complemented by a fully equipped kitchen, allowing guests the freedom to prepare their own meals in the comfort of their accommodation. The inclusion of a bathroom, along with towels and bed linen, ensures a hassle-free stay. Guests are treated to captivating city views, adding an urban charm to the serene ambiance of the apartment.
+---\ntitle: "Centrum Apartment"\ndescription: "Centrum Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476571837.jpg?k=d5c958e0cccdf5d004bb78f269efcc0b0e9f90d4ee52e4be2642ac8afb053fc0&o=&hp=1"\nlanguage: en\nslug: centrum-apartment\naddress: "Rruga Telat Noga, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87523678\n  lng: 20.00781568\nprice: "US$118"\npriceFrom: 118\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476571837.jpg?k=d5c958e0cccdf5d004bb78f269efcc0b0e9f90d4ee52e4be2642ac8afb053fc0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476571924.jpg?k=8ae8eb33710e4ab438d216353690608e470e9dbf08629d9c5d3814dd8a077f5e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476571976.jpg?k=4e8bbba44864d5ccb76c647bd8a2cacf8467a558390173648da4cc68c3a93c9b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476571968.jpg?k=07b76f0297a19e6350bcded0e08c426143616b6fd5e45554ee895551918951c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476571986.jpg?k=39f26737dc21611f22e8ed535da55fed0b515aaddd08b6a2a20cd35a5d75b7f2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476571932.jpg?k=3e65fb89173da6fb0091386577671ff22937258129da333d126bfec0ff34ecf5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476571936.jpg?k=c6144a517609f7e372d2653fa0c5ab69d24b2728d780465180100769a1af7156&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476571919.jpg?k=7a711fbba682ad72a84bac9ad0168950b1c38be614e63bd33f8cc0119dbfdd88&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476571927.jpg?k=0eda5239ff9954c791da9799fef22ce0525bf71de9045c8aa1b7a1bc46e22ad2&o=&hp=1"\namenities:\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Zum Cafe 20 m"\n  - "Herman - the Iconic Slice From Milan 30 m"\nnearbyBeaches:\n  - "Saranda City Beach 200 m"\n  - "Sarande Main Beach 800 m"\n  - "La Petite Beach 950 m"\n  - "Maestral Beach 1.1 km"\n  - "VIP Beach 2.1 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.3 km"\n  - "Butrint National Park 3.2 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nbookingURL: "https://www.booking.com/hotel/al/centrum-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is thoughtfully designed to cater to the needs of modern travelers. It features a single bedroom, complemented by a fully equipped kitchen, allowing guests the freedom to prepare their own meals in the comfort of their accommodation. The inclusion of a bathroom, along with towels and bed linen, ensures a hassle-free stay. Guests are treated to captivating city views, adding an urban charm to the serene ambiance of the apartment.
 
 For those traveling by air, the convenience of Ioannina Airport, situated 97 km from Centrum Apartment, facilitates easy access to this charming retreat. This property stands out as a non-smoking establishment, ensuring a clean and healthy environment for its guests.
 
 In summary, Centrum Apartment offers a blend of convenience, comfort, and accessibility, making it a highly recommended stay for visitors to Sarandë, whether they're in town to soak up the sun on the nearby beaches or to immerse themselves in the local culture and natural beauty.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

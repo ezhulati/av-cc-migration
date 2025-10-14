@@ -1,30 +1,7 @@
----
-title: Mirror beach-Apartments Mecaj
-description: This accommodation doesn't just promise a stay; it delivers an experience. With its air-conditioned spaces, guests are welcomed into a haven of cool, calm comfo
-featuredImage: "/images/accommodation/476367604.jpg"
-language: en
-slug: mirror-beach-apartments-mecaj
-location: ""
-amenities: []
-images: []
----
-
-This accommodation doesn't just promise a stay; it delivers an experience. With its air-conditioned spaces, guests are welcomed into a haven of cool, calm comfort, especially during the warmer months. The availability of private parking and complimentary WiFi adds layers of ease to the guest experience, ensuring that from the moment of arrival, relaxation is uninterrupted.
+---\ntitle: "Mirror beach-Apartments Mecaj"\ndescription: "Mirror Beach-Apartments Mecaj emerges as a serene retreat in the heart of Kalive Gjoka, offering guests a unique blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476367604.jpg?k=d9ee5b6eb0993fe8b3ede81ed914dd47cd44d7b9e22a2c36125d594b81e695fa&o=&hp=1"\nlanguage: en\nslug: mirror-beach-apartments-mecaj\naddress: "Plazhi Pasqyra, 9706 Kalive Gjoka, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.80363031\n  lng: 20.01094329\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476367604.jpg?k=d9ee5b6eb0993fe8b3ede81ed914dd47cd44d7b9e22a2c36125d594b81e695fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476367576.jpg?k=8cf4c8d2ef8a84b83a57dbb9f1bcb703e05bfee6e826df829a93c08948b4316f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476367479.jpg?k=cbc61de5c48ca37b47ec9c66f57ad80ac7c17e4016377ba605e432e660771247&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476367655.jpg?k=cefe91c0633c2f3270663c984daca71110e02616422be83d83ff184c3c732021&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476367663.jpg?k=c210f46817f4ba063ea5e581a627781c47d875585ab0d11b303767961bb60c89&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476367618.jpg?k=0bb9ac41a789cf8b940178d4a8aa00c3a15f30c0cdd6cfd1ba2a0913fd3b8efa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476367667.jpg?k=700a89b59e79f4e187a7378fae070b0773278c50fc91fa0c897591a4bd81f118&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476367588.jpg?k=1f85866377cb1ab2b8fec934b97913ead24e83bad12777e68a44d9488c4bca78&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476367632.jpg?k=2cb625b832e4376bd37af305ed194d3720a802a07e43e7d69fd57681604e90b9&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyBeaches:\n  - "Pasqyra Beach 500 m"\n  - "Pulebardha Beach 900 m"\n  - "Manastir Beach 1 km"\n  - "Ksamil Beach 1 1.4 km"\n  - "Sunset Beach 2.6 km"\nreviews:\n  - name: "Szymanski"\n    country: "Poland"\n    text: "“Very friendly people, helpfully, you can feel there like at home. Clean appartament, good localisation (close to Ksamil 5km and Saranda 10km by car or bus but appartament is located in silent place without noisy music, and a lot of people. Bus...”"\n  - name: "Di"\n    country: "Italy"\n    text: "“Proprietari di casa dolci ed accoglienti. Ottima la posizione tra saranda e ksamil, per chi non ama stare al centro del traffico”"\nbookingURL: "https://www.booking.com/hotel/al/mirror-beach-apartments-mecaj.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis accommodation doesn't just promise a stay; it delivers an experience. With its air-conditioned spaces, guests are welcomed into a haven of cool, calm comfort, especially during the warmer months. The availability of private parking and complimentary WiFi adds layers of ease to the guest experience, ensuring that from the moment of arrival, relaxation is uninterrupted.
 
 The apartment itself is a testament to thoughtful design and functionality. Featuring a bedroom that serves as a peaceful sanctuary, a fully equipped kitchen for those inspired to cook, and a bathroom that meets all essential needs, it's clear that every detail has been considered. The inclusion of a flat-screen TV ensures that entertainment is always within reach, providing a cozy end to adventurous days.
 
 For travelers looking to explore beyond the immediate surroundings, the proximity to Corfu International Airport, located 97 km away, makes Mirror Beach-Apartments Mecaj an ideal base for broader explorations.
 
 In essence, this property offers a blend of location, convenience, and comfort, making it a compelling choice for those seeking a memorable stay in Kalive Gjoka.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

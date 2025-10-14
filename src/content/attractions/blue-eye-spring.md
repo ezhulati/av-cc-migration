@@ -7,6 +7,9 @@ featuredImage: /images/attractions/blue-eye-spring.jpg
 images: []
 language: en
 slug: blue-eye-spring
+seo:
+  metaTitle: "Discover Albania's Alluring Blue Eye Spring | %sitename%"
+  metaDescription: "Explore the Blue Eye spring's baffling origins and underwater cave flooding the forest gorge near Butrint national park and Albania's rugged southern interior."
 ---
 
 Behold the Mysterious Blue Eye Spring
@@ -45,10 +48,3 @@ While legends swirl overhead, visitors soak up smiles below, splashing about the
 
 After paying respects through the proper selfie shoot, the adjacent cafe terrace tempts hungry adventurers with tasty snacks and beverages near the babbling outlet stream winding towards the forested gorge hiding Butrint ruins nearby. Well-fed and endeared after their sublime visit, the day pass ticket also grants visitors entries into the [UNESCO site](https://albaniavisit.com/attractions/unesco-world-heritage-sites/) — another testament to human attraction across the immense timeline towards the Ionian region’s ethereal inland waters. One last gaze over the shoulder with hopes of returning soon, for there may still be more revelations waiting patiently below that beautiful blue gaze.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

@@ -1,28 +1,5 @@
----
-title: Kevi Rooms
-description: "Accommodations at Kevi Rooms are thoughtfully designed with the guest's comfort in mind."
-featuredImage: "/images/accommodation/480634046.jpg"
-language: en
-slug: kevi-rooms
-location: ''
-amenities: []
-images: []
----
-
-Accommodations at Kevi Rooms are thoughtfully designed with the guest's comfort in mind. Each unit is equipped with modern essentials such as a flat-screen TV, air conditioning, and a private bathroom stocked with fresh bed linen and towels. The thoughtful addition of a desk, wardrobe, and kettle in every room, along with options for seating and dining areas, underscores the guest house's commitment to providing a home away from home experience.
+---\ntitle: "Kevi Rooms"\ndescription: "Kevi Rooms emerges as a prime choice for travelers seeking a serene beachfront escape, located just a stone's throw away from the pristine sands of Santa Quaranta Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480634046.jpg?k=c1662e41cd7db709be3bf59c6a7fb36f5a6495ad5b5505c95c95efd0daf3fe14&o=&hp=1"\nlanguage: en\nslug: kevi-rooms\naddress: "Rruga Butrinti, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 39.85769069\n  lng: 20.02197229\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 3\nratings:\n  overall: 8.9\n  location: 6.7\n  cleanliness: 9.2\n  facilities: 10\n  value: 8.3\n  comfort: 10\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480634046.jpg?k=c1662e41cd7db709be3bf59c6a7fb36f5a6495ad5b5505c95c95efd0daf3fe14&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480634092.jpg?k=25e9647886ff5c1333bc6a4976c784dbc4924772f7066365c4ca966e39bec4af&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480913402.jpg?k=6d1dcdba727c0ea1e178a34ef693f26bb805989a9bfc143690e69b708e8c3700&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480912008.jpg?k=921933e14309de8630e69cce6f954c0cc2e095fabe51dc870ff0451f170beca7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480912004.jpg?k=0cabffb095460881228d4d1ed5882591134da7a67d49a2324691eb019eab1446&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480634031.jpg?k=b2e6310e35feef3ba1735ae13e5392b5d2f0940a17262871f74dcc3b0c12de7c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480633937.jpg?k=f6132124350d3e84d20992dc89fe0daaa4103cd194adcb6304e286e576cb03a4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480634072.jpg?k=5118003e06947a3078e2b43c51bb649dd32608dd06af14f425790f7fe20f4226&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480960994.jpg?k=97442c105252dadc4fe40b709bf489097cf93e48ee26dcc078ec13189e98d4c2&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Terrace"\nnearbyRestaurants:\n  - "Salad Farm 150 m"\n  - "Baken Grill 150 m"\nnearbyBeaches:\n  - "VIP Beach 200 m"\n  - "Santa Quaranta Beach 200 m"\n  - "Flamingo Beach 250 m"\n  - "Mango Beach 400 m"\n  - "Maestral Beach 1.1 km"\nwhatsNearby:\n  - "Parc National de Butrint 300 m"\n  - "Butrint National Park 850 m"\n  - "Plazhi I Krorezes 7 km"\n  - "Parku Kombetar I Butrintit 10 km"\n  - "Butrint National Park 11 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Teresa"\n    country: "United Kingdom"\n    text: "“Location was quiet . Well presented and value for money. Surprised me the amount of space inside and outside. Even though we were very close to the centre, it felt we were in the countryside. Peaceful and quiet.”"\nbookingURL: "https://www.booking.com/hotel/al/kevi-rooms.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Kevi Rooms are thoughtfully designed with the guest's comfort in mind. Each unit is equipped with modern essentials such as a flat-screen TV, air conditioning, and a private bathroom stocked with fresh bed linen and towels. The thoughtful addition of a desk, wardrobe, and kettle in every room, along with options for seating and dining areas, underscores the guest house's commitment to providing a home away from home experience.
 
 Beyond the confines of their well-appointed rooms, guests are invited to unwind in the tranquil garden, a perfect spot for relaxation after a day spent exploring the nearby beaches. With VIP Beach and Flamingo Beach both within easy walking distance, beach enthusiasts will find themselves spoilt for choice.
 
 Situated 97 km from Ioannina Airport, Kevi Rooms offers a harmonious blend of convenience and tranquility, making it an ideal lodging option for families and solo travelers alike.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

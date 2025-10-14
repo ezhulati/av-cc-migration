@@ -1,26 +1,3 @@
----
-title: House
-description: House is thoughtfully designed to accommodate guests in comfort, featuring two separate bedrooms, a cozy living room, and a well-appointed bathroom. This smoke-
-featuredImage: "/images/accommodation/473962621.jpg"
-language: en
-slug: house
-location: ""
-amenities: []
-images: []
----
-
-House is thoughtfully designed to accommodate guests in comfort, featuring two separate bedrooms, a cozy living room, and a well-appointed bathroom. This smoke-free property promises a clean and healthy environment for all guests during their stay.
+---\ntitle: "House"\ndescription: "Discover the charm of Vlorë at House, a serene holiday home perfectly positioned close to both Vlore Beach and Vjetër Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473962621.jpg?k=abc798b1f77df3f265dd56421fe260d2a2ea36124cb6b5cb85ab405069377c16&o=&hp=1"\nlanguage: en\nslug: house\naddress: "Rruga Sulejman Delvina, 9402 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.46015443\n  lng: 19.4944515\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.6\nratingWords: "Very Good"\nnumberOfReviews: 9\nratings:\n  overall: 8.6\n  location: 7.8\n  cleanliness: 8.4\n  facilities: 8.9\n  value: 8.9\n  comfort: 8.6\n  staff: 8.9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473962621.jpg?k=abc798b1f77df3f265dd56421fe260d2a2ea36124cb6b5cb85ab405069377c16&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473962679.jpg?k=3522d6754c5e70d6e8ddea78a5aeec57ba1e28fad9f8cceefe570615f559725c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376386814.jpg?k=21908073fcf6f04df050f3ba4e704c20662953dbac2529458b2ce19554e2ef3c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360044950.jpg?k=012a16932482feec196a096d180911b473c3c1310c692e62a3420106626a5e8b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360045034.jpg?k=8d87891e31bd36da9c6dae87117b61b764fd44b764203af6a2a8214a168b7dab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473962891.jpg?k=8bf1f3fa9fcb6d9f639173d96ac7fff3c6c6db1f8a1856ef7a5395dc1097c538&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360044985.jpg?k=d4391899f619240f793dd9e284182ef266282b72f364a5869f10f80b5f874a21&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360044861.jpg?k=d3dc7df03c3b60c3404d5ea0d3c071a24e5481bf0963fcf5f48735927a8140ec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360045058.jpg?k=d1c0c3ff4469a728bf04936b7a33cfb5d5ceaaac0380341adaf3fd8bcb3b48f2&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Restorant Lux 150 m"\n  - "Le 5 Terre - Ristorante 350 m"\nnearbyBeaches:\n  - "Vlore Beach 1.4 km"\n  - "Vjetër Beach 1.4 km"\n  - "Ri Beach 2.7 km"\n  - "Beach at Government Villas 4.5 km"\n  - "Liro Beach 5 km"\nwhatsNearby:\n  - "Kuzum Baba 850 m"\n  - "Independence Square 1.2 km"\n  - "Scooby Doo Vlore 2.6 km"\nreviews:\n  - name: "Rosalia"\n    country: "Italy"\n    text: "“Casa molto grande e pulita , con market e bar proprio di fronte, i proprietari molto gentili”"\n  - name: "Francesco"\n    country: "Italy"\n    text: "“Struttura grande e pulita . Due box auto privati . Proprietario”"\n  - name: "Eszter"\n    country: "Hungary"\n    text: "“Eszméletlen kedvesek a tulajok, hoztak nekünk fügét is ☺️”"\nbookingURL: "https://www.booking.com/hotel/al/shtepi-private-ne-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nHouse is thoughtfully designed to accommodate guests in comfort, featuring two separate bedrooms, a cozy living room, and a well-appointed bathroom. This smoke-free property promises a clean and healthy environment for all guests during their stay.
 
 For those arriving by air, Tirana International Mother Teresa Airport is located 150 km away, making House an accessible choice for both local and international travelers seeking a peaceful escape in the heart of Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

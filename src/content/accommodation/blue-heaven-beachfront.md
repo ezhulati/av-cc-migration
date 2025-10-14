@@ -1,30 +1,7 @@
----
-title: Blue Heaven Beachfront
-description: The apartment itself is a haven of comfort, featuring air conditioning for those warm Mediterranean days. It houses a single bedroom, but don't let that fool yo
-featuredImage: "/images/accommodation/518829136.jpg"
-language: en
-slug: blue-heaven-beachfront
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of comfort, featuring air conditioning for those warm Mediterranean days. It houses a single bedroom, but don't let that fool you - the space is thoughtfully designed, boasting a fully equipped kitchen for culinary adventures and a bathroom that meets all your needs. Entertainment is readily available with a flat-screen TV, ensuring that guests have all the comforts of home at their fingertips. It's worth noting, the accommodation maintains a non-smoking policy, ensuring a fresh and inviting environment for all.
+---\ntitle: "Blue Heaven Beachfront"\ndescription: "Blue Heaven Beachfront emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518829136.jpg?k=25834c56b6927b715d61623b611e7afaeda56e9f748d6b5d7fd4f6b24ea5ca3f&o=&hp=1"\nlanguage: en\nslug: blue-heaven-beachfront\naddress: "Rruga Currila, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31334984\n  lng: 19.43391764\nprice: "US$56"\npriceFrom: 56\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518829136.jpg?k=25834c56b6927b715d61623b611e7afaeda56e9f748d6b5d7fd4f6b24ea5ca3f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518829423.jpg?k=2d65fbeac2f2b2aa85c15873ac50658fb876e0e2fd2761c7150669619d33697f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518829434.jpg?k=1d5ee993f2bb8347553e959d860f5daa15e2273a3f2956dc99219b88dcaa4eb7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518829240.jpg?k=e6d57d82c6d7044f8dcae0668c2c4cb5de778e6234aa3b151913e1fbe45cd1af&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518829331.jpg?k=a73880da405bf3ba8605e3e72dbecd11e54d4bbfa894301809e19e3083216000&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518829285.jpg?k=00648de3db7141c8ffaa308cf58cdee37bb780f2bc33afea2d6d5052afe2c267&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518829295.jpg?k=42f27b1a929c484c9aad4b092d64b1eb470c00bba5c7f2210fd66ab6bfa10c9c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518829216.jpg?k=a59fb25ec3cd43fad2b21163519c14eceba3f080f500ea072eb9efac7fd33e25&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518829219.jpg?k=a18294ff5206e4cbf6ef0bcaa4833920765c95209efc550ba98680c6b2048ad0&o=&hp=1"\namenities:\n  - "Swimming Pool"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Pista Soleil Currila 20 m"\n  - "NEPS 50 m"\nnearbyBeaches:\n  - "Currila Beach 40 m"\n  - "Kallmi Beach 550 m"\n  - "West End Beach 1.6 km"\n  - "Durres Beach 2.8 km"\n  - "Shkëmbi i Kavajës Beach 7 km"\nwhatsNearby:\n  - "1. Maj 750 m"\n  - "Durres Amphiteatre 950 m"\n  - "Yje Dhe Hena 1.2 km"\n  - "Sheshi Demokracia 1.3 km"\n  - "Wine Dhe Pooh 1.3 km"\n  - "Sotir Noka 1.3 km"\n  - "Bekimi 4.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 26 km"\nbookingURL: "https://www.booking.com/hotel/al/blue-heaven-beachfront.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of comfort, featuring air conditioning for those warm Mediterranean days. It houses a single bedroom, but don't let that fool you – the space is thoughtfully designed, boasting a fully equipped kitchen for culinary adventures and a bathroom that meets all your needs. Entertainment is readily available with a flat-screen TV, ensuring that guests have all the comforts of home at their fingertips. It's worth noting, the accommodation maintains a non-smoking policy, ensuring a fresh and inviting environment for all.
 
 For those eager to explore, Blue Heaven Beachfront is perfectly positioned. Not only is it a short journey from the historical intrigue of the Rock of Kavaje, but it also offers easy access to a selection of local beaches including Kallmi Beach and West End Beach. Cultural enthusiasts will appreciate the proximity to the Durres Amphitheatre, promising a glimpse into the area's rich past.
 
 Connectivity is never an issue, with complimentary WiFi enveloping the property, ensuring that guests remain linked to the wider world while enjoying their secluded haven. For international travelers, the convenience of Tirana International Mother Teresa Airport being just 36 km away is the icing on the cake.
 
 In summary, Blue Heaven Beachfront stands out as a meticulously appointed apartment that promises a blend of relaxation, convenience, and a touch of luxury for those visiting Durrës. Whether it's the allure of the beach or the call of cultural exploration, this property positions itself as a top-tier choice for discerning travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

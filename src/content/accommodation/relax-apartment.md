@@ -1,28 +1,5 @@
----
-title: Relax Apartment
-description: Relax Apartment is distinguished by its generous space, featuring a balcony that offers a breath of fresh air, three well-appointed bedrooms for restful nights,
-featuredImage: "/images/accommodation/465830040.jpg"
-language: en
-slug: relax-apartment
-location: ""
-amenities: []
-images: []
----
-
-Relax Apartment is distinguished by its generous space, featuring a balcony that offers a breath of fresh air, three well-appointed bedrooms for restful nights, and a living room designed for relaxation. The kitchen is fully equipped, catering to those who enjoy preparing their meals. Entertainment needs are met with the inclusion of a flat-screen TV, ensuring guests have access to leisure at their fingertips.
+---\ntitle: "Relax Apartment"\ndescription: "Discover the charm of Sarandë with a stay at Relax Apartment, a prime choice for travelers seeking comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465830040.jpg?k=9104edc3b5eddf1ce9ae00bd23c52d4ce537dc70d6bc9eb13eb8008fc549eeed&o=&hp=1"\nlanguage: en\nslug: relax-apartment\naddress: "117 Rruga Lefter Talo, 9001 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.8756635\n  lng: 20.0087445\nprice: "US$140"\npriceFrom: 140\nstarRating: 3\nrating: 6.3\nratingWords: "Average"\nnumberOfReviews: 2\nratings:\n  overall: 6.3\n  location: 6.3\n  cleanliness: 7.5\n  facilities: 5\n  value: 6.3\n  comfort: 5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465830040.jpg?k=9104edc3b5eddf1ce9ae00bd23c52d4ce537dc70d6bc9eb13eb8008fc549eeed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465830137.jpg?k=f150fbc8420e4a97219de07286c3a3c19961aab94d6a0e262f073306f83d09e5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465830129.jpg?k=2f686d54b9a8b3fd8ef48394b5b0ed99034757b3c145c0797e02e0c3db2d3497&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465830102.jpg?k=1108c4d7630a5093ca68a9d836545fab5e8b8d0ceeb8e6462f8f945f57bcc135&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465830110.jpg?k=fadf008e91af393ff951bd047824ed5cea38dfa8c4bf55f6622a17fcefbc3119&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465830155.jpg?k=52417f79ef2c1255b8679e5d30e01853e023272eb711cb921a2352ae7633658c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465830167.jpg?k=af88218b1671d51381511169e493abcd7a19be6d341649181a4d1dfbb68b13ef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465830164.jpg?k=f8e093e506fae1a7f69be9619e4727323d5a3ccb25e43ac5ee57c0defa5bfaf6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465830107.jpg?k=7a5e7716353f30cb38a1cf1ccd74e2c00bd71e64d520c5873c7f04ecdbd88394&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "Three-Bedroom Apartment"\nnearbyRestaurants:\n  - "Pizza le Amiche 50 m"\n  - "my time coffee bar 100 m"\nnearbyBeaches:\n  - "Saranda City Beach 200 m"\n  - "Sarande Main Beach 900 m"\n  - "La Petite Beach 950 m"\n  - "Maestral Beach 1.1 km"\n  - "VIP Beach 2.1 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.3 km"\n  - "Butrint National Park 3.2 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nbookingURL: "https://www.booking.com/hotel/al/relax-apartment-sarande7.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nRelax Apartment is distinguished by its generous space, featuring a balcony that offers a breath of fresh air, three well-appointed bedrooms for restful nights, and a living room designed for relaxation. The kitchen is fully equipped, catering to those who enjoy preparing their meals. Entertainment needs are met with the inclusion of a flat-screen TV, ensuring guests have access to leisure at their fingertips.
 
 For those concerned about connectivity, the apartment ensures that guests remain linked to the world with free WiFi accessible throughout the premises. Situated 17 km from the enchanting Butrint National Park, it offers an excellent opportunity for guests to explore the rich history and natural beauty of the area.
 
 Travelers will find the journey to Relax Apartment facilitated by its proximity to Ioannina Airport, located 97 km away, making it a convenient option for both domestic and international visitors. This apartment stands out as a top selection for those looking to experience Sarandë in comfort and style.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

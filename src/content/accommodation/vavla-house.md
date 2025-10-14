@@ -1,26 +1,3 @@
----
-title: Vavla House
-description: Each room in this homestay has a private bathroom and free WiFi access, ensuring a comfortable stay. For those seeking a little extra, select rooms boast the a
-featuredImage: "/images/accommodation/AAcHTtdMi-Hz0OOFi5VdDyAjkWqpEZy3NbHSyRRmhNE1PEgCMy3hs96-c64"
-language: en
-slug: vavla-house
-location: ""
-amenities: []
-images: []
----
-
-Each room in this homestay has a private bathroom and free WiFi access, ensuring a comfortable stay.
+---\ntitle: "Vavla House"\ndescription: "Vavla House stands out as a charming accommodation choice in Berat."\nfeaturedImage: "https://lh3.googleusercontent.com/a/AAcHTtdMi-Hz0OOFi5VdDyAjkWqpEZy3NbHSyRRmhNE1PEgCMy3h=s96-c64"\nlanguage: en\nslug: vavla-house\naddress: "Rruga e Teqesë, Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.70630194\n  lng: 19.93799019\nprice: "US$17"\npriceFrom: 17\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 24\nratings:\n  overall: 9.2\n  location: 8.6\n  cleanliness: 9.7\n  facilities: 9.4\n  value: 9.6\n  comfort: 9.7\n  staff: 9.8\n  wifi: 7.5\nimages:\n  - "https://lh3.googleusercontent.com/a/AAcHTtdMi-Hz0OOFi5VdDyAjkWqpEZy3NbHSyRRmhNE1PEgCMy3h=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/tr/249dbed2afb3f285153258fc96506565b3e74090.png"\n  - "https://lh3.googleusercontent.com/a/AItbvmkuY7u8Wxn8fGRLCfaE7HATzWU0klzqdagj2Qv8=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/es/0bcb9025339e650f3fbbcfb64ac38edd46efe4f6.png"\n  - "https://lh3.googleusercontent.com/a/AATXAJy5SAbhyUsdXehECZFs80d6-m8_H7hWakbT6MFA=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/fr/80667cd1f58bba217c1ec87dea9ccd1335ed8dba.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"\n  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"\n  - "https://lh3.googleusercontent.com/a/AEdFTp7oksMdohROFYLiiVbMB83cc_35LWCGKeW4Pfjb=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/us/773915f00a1da98cfe003f9e7bf29d8b3905dd22.png"\n  - "https://lh3.googleusercontent.com/a/ACg8ocIsEDyXEZBLX1nmSSZEcKXm-1vK7MfZk4fK1GZAx8Tu218=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/cl/877ee360eb5fb4382082f5c1941a9e1eb05f2b2b.png"\n  - "https://graph.facebook.com/v2.9/10154776127001168/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-o/ecc2e23c1dd875ae18fc261d4a08d35f71db9440.png"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Double Room with Private Bathroom"\n  - "Double Room with Private Bathroom"\n  - "Double Room with Private Bathroom"\nnearbyRestaurants:\n  - "Pizza Ime 200 m"\n  - "Eldorado 300 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 10 km"\n  - "Sheshi Tomorri 17 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 84 km"\nreviews:\n  - name: "David"\n    country: "Canada"\n    text: "“Room was super clean and nicely appointed. Bed very comfortable. Lots of room for clothes. The house was in a very quiet street. You will have fun finding this place. No address like many places in Albania. They could put a simple indication on...”"\n  - name: "Erkan"\n    country: "Turkey"\n    text: "“The room was spotless, we were very pleased. People were very welcoming, a really nice family. It was very nice of them to offer us tangerines from their garden every day. I hope to come again one day.”"\n  - name: "Oscar"\n    country: "Spain"\n    text: "“The room in general was amazing, it was clean, big and comfortable. The hosts were perfect, incredibly kind. 10/10!!!”"\nbookingURL: "https://www.booking.com/hotel/al/vavla-house.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nEach room in this homestay has a private bathroom and free WiFi access, ensuring a comfortable stay. 
 
 For those seeking a little extra, select rooms boast the addition of a terrace. Situated 117 km from Tirana International Mother Teresa Airport, Vavla House offers a peaceful retreat with easy access for travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Il Tramonto
-description: "Each room at Il Tramonto is thoughtfully designed with a balcony that presents breathtaking mountain vistas, enhancing the stay with a touch of natural beauty."
-featuredImage: "/images/accommodation/400760515.jpg"
-language: en
-slug: il-tramonto
-location: ""
-amenities: []
-images: []
----
-
-Each room at Il Tramonto is thoughtfully designed with a balcony that presents breathtaking mountain vistas, enhancing the stay with a touch of natural beauty. The inclusion of a safety deposit box in all rooms, along with select accommodations featuring a patio or lake views, caters to diverse preferences and needs. The provision of a seating area in every guest room adds an extra layer of relaxation, making it a perfect retreat for travelers seeking tranquility and luxury.
+---\ntitle: "Il Tramonto"\ndescription: "Il Tramonto stands as a distinguished 4-star haven in Shirokë, boasting a prime beachfront location that effortlessly combines the serenity of its garden and terrace with the culinary delights of its on-site restaurant."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400760515.jpg?k=13bd20ec8d67124ea685113ef7ed5bd6241f1ad024b60c4f5bf3c712c321a725&o=&hp=1"\nlanguage: en\nslug: il-tramonto\naddress: "Rruga Zogaj, 4001 Shirokë, Albania"\ncity: "Shirokë"\nlocation: "Shirokë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.06749125\n  lng: 19.42398068\nprice: "US$48"\npriceFrom: 48\nstarRating: 4\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 107\nratings:\n  overall: 9.2\n  location: 9.6\n  cleanliness: 8.9\n  facilities: 8.1\n  value: 9.1\n  comfort: 8.6\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400760515.jpg?k=13bd20ec8d67124ea685113ef7ed5bd6241f1ad024b60c4f5bf3c712c321a725&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451383527.jpg?k=f1c0a32f421f85b6436aea5ccf044362d736822be1fcf894fa154bec095faa73&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388905565.jpg?k=018f9cf609e5bde69397cf430954a96d62e155d47d75f742f8adda2959ff37af&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397303908.jpg?k=2509b9573a5998fee337597c895066ca7e81077b9fa426f91ee2ad2032cefffa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404554150.jpg?k=03323fdbe690353c6f5c0a5e5c38dc20b66139254bd949e89149f96d16c4f556&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401502597.jpg?k=79c1ab9b37451e7d88e7f759be885c4ca5a850ced9128d77f78320c34d769168&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Triple Room with Lake View"\nnearbyRestaurants:\n  - "Vila \Imperial\\"\" 10 m"\n  - "Taverna Shkodrane 350 m"\nwhatsNearby:\n  - "National Park Skadar Lake 3.2 km"\n  - "Rozafa Castle Shkodra 6 km"\nairports:\n  - "Podgorica Airport 34 km"\n  - "Tivat Airport 67 km"\n  - "Tirana International Airport Mother Teresa 75 km"\nreviews:\n  - name: "Edward"\n    country: "United Kingdom"\n    text: "“The hosts were outstanding. They were super lovely and welcoming if I could rate them higher for being such nice people I would. The food was also brilliant and they were so kind to get up super early for us and send us on our way with a packed...”"\n  - name: "Isaac"\n    country: "Spain"\n    text: "“The place is really beautiful and it's settled in a unique spot with a great views of the lake. It was really relaxing to have a drink or dinner by watching the sunset in the lake. The owners of the place were really friendly and they made us feel...”"\n  - name: "Frederic"\n    country: "Belgium"\n    text: "“Try the grilled king prawns and the traditional fish.”"\nbookingURL: "https://www.booking.com/hotel/al/il-tramonto-shiroka1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach room at Il Tramonto is thoughtfully designed with a balcony that presents breathtaking mountain vistas, enhancing the stay with a touch of natural beauty. The inclusion of a safety deposit box in all rooms, along with select accommodations featuring a patio or lake views, caters to diverse preferences and needs. The provision of a seating area in every guest room adds an extra layer of relaxation, making it a perfect retreat for travelers seeking tranquility and luxury.
 
 For those looking to explore the surroundings, Il Tramonto offers bike and car rental services, making it an ideal base for cycling enthusiasts and guests eager to discover the local area. Its location, a mere 69 km from Podgorica Airport, further cements its status as a convenient and accessible choice for both domestic and international travelers.
 
 Il Tramonto emerges not just as a place to stay but as a destination that promises an unforgettable experience, where the beauty of Shirokë can be appreciated in comfort and style.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -7,6 +7,11 @@ featuredImage: /images/attractions/karaburun-sazan-marine-national-park.jpg
 images: []
 language: en
 slug: karaburun-sazan-marine-national-park
+seo:
+  metaTitle: "Discover Albania's Karaburun-Sazan Marine National Park"
+  metaDescription: "Explore the vibrant marine life and landscapes of Albania's Karaburun-Sazan Marine National Park. Discover a haven for nature enthusiasts and conservationists."
+  focusKeyword: "Karaburun-Sazan Marine National Park"
+  robots: "index"
 ---
 
 A Haven for Marine Biodiversity
@@ -45,10 +50,3 @@ Albania’s Karaburun-Sazan Marine National Park visitors can admire the Adriati
 
 The display of Albania’s ecological wonders is helping it become a popular sustainable travel spot.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

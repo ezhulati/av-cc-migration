@@ -1,30 +1,8 @@
----
-title: Grand Blue Fafa Resort & SPA
-description: "Accommodations at Grand Blue Fafa Resort & SPA are designed with guest comfort in mind, featuring air-conditioned rooms equipped with flat-screen sate..."
-featuredImage: "/images/accommodation/225398598.jpg"
-language: en
-slug: grand-blue-fafa-resort-spa
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Grand Blue Fafa Resort & SPA are designed with guest comfort in mind, featuring air-conditioned rooms equipped with flat-screen satellite TVs and private balconies for breathtaking views. The attention to detail extends to the bathrooms, where guests are treated to either a luxurious bath or a refreshing shower, complemented by complimentary toiletries, slippers, and a hairdryer for a touch of home.
+---\ntitle: "Grand Blue Fafa Resort & SPA"\ndescription: "Grand Blue Fafa Resort & SPA stands as a premier destination for travelers seeking a blend of luxury and comfort right on the Golem beachfront."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225398598.jpg?k=b93f504991bbac8fea9c0061c305380e4f3aba5b462805a7ec1294c4842a4b14&o=&hp=1"\nlanguage: en\nslug: grand-blue-fafa-resort-spa\naddress: "Rruga Kompleksit, 1000 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "resort"\ncoordinates:\n  lat: 41.26423514\n  lng: 19.51967418\nprice: "US$95"\npriceFrom: 95\nstarRating: 5\nrating: 8.6\nratingWords: "Very Good"\nnumberOfReviews: 269\nratings:\n  overall: 8.6\n  location: 8.9\n  cleanliness: 9\n  facilities: 8.8\n  value: 8.6\n  comfort: 9\n  staff: 8.8\n  wifi: 6.9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225398598.jpg?k=b93f504991bbac8fea9c0061c305380e4f3aba5b462805a7ec1294c4842a4b14&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402321506.jpg?k=ffa3767d489b2738074486b75b1efae3ce2a76c0ad89eb4acb8bad192a21c604&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225560899.jpg?k=3fa1fc7a630f5c765bcf18a9e26612b07178331e8c639e00bb624aa8ba11df9e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/241329068.jpg?k=97e2f96d418f1d5bf8ba8db999a81d97eaec23621c253419db94cd144a8a26ad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402321483.jpg?k=60f2a4e8adc2995bb8bf603c3642e84281b387eb6c8979f6f7785ff3250e4c24&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225400566.jpg?k=dfcecb9170d42ce60570e48cf309bd5e6cbf8e4b2769226d2ec5808a5663d2a8&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Spa and wellness centre"\n  - "Fitness centre"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "Bar"\n  - "Beachfront"\n  - "Private beach area"\n  - "Fabulous breakfast"\nroomTypes:\n  - "Deluxe Double Room with Side Sea View"\n  - "Deluxe Triple Room"\n  - "Deluxe Family Room"\nnearbyRestaurants:\n  - "Sevian Pizza & Snack 50 m"\n  - "Fresh Fish 150 m"\nnearbyBeaches:\n  - "Golem Beach 30 m"\n  - "Shkëmbi i Kavajës Beach 150 m"\n  - "Mali I Robit Beach 1.8 km"\n  - "Durres Beach 2.6 km"\n  - "Qerret Beach 3.8 km"\nwhatsNearby:\n  - "Bekimi 8 km"\n  - "Durres Amphiteatre 8 km"\n  - "Wine Dhe Pooh 8 km"\n  - "1. Maj 8 km"\n  - "Yje Dhe Hena 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "Sotir Noka 9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Enton"\n    country: "Slovakia"\n    text: "“See my comments for the same Hotel the other day. Copy paste those here.”"\n  - name: "Enton"\n    country: "Slovakia"\n    text: "“Staff. Facilities. Food. Beach. Sun. Pool. Wellness. Etc. Etc”"\n  - name: "Ferenc"\n    country: "Hungary"\n    text: "“The staff was kind
+Breakfast is excellent and delicious”"\nbookingURL: "https://www.booking.com/hotel/al/grand-blue-fafa.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Grand Blue Fafa Resort & SPA are designed with guest comfort in mind, featuring air-conditioned rooms equipped with flat-screen satellite TVs and private balconies for breathtaking views. The attention to detail extends to the bathrooms, where guests are treated to either a luxurious bath or a refreshing shower, complemented by complimentary toiletries, slippers, and a hairdryer for a touch of home.
 
 Culinary experiences at the resort are highlighted by the in-house restaurant's expertise in Italian cuisine, offering a delightful journey through authentic flavors. The bar serves as a perfect retreat for guests to unwind with a refreshing drink after a day of exploration or relaxation.
 
 Strategically located, the resort is a mere 43 km from Tirana and just 10 km from Durres, making it an ideal base for guests looking to explore the surrounding areas. Tirana Airport is conveniently 40 km away, facilitating easy travel arrangements for international guests.
 
 Grand Blue Fafa Resort & SPA not only promises a memorable stay with its array of amenities and exceptional service but also positions itself as a gateway to the enchanting beauty of Golem and beyond.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

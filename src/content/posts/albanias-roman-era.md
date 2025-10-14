@@ -9,6 +9,13 @@ tags: []
 featuredImage: "/images/posts/Berat-Architecture-1-scaled.jpeg"
 language: en
 slug: albanias-roman-era
+seo:
+  focusKeyword: "Albania Roman Era"
+  robots: "index"
+  metaTitle: "Albania's Roman Era (2nd Century B.C. - A.D. 395)"
+  metaDescription: "Explore the transformative years of Roman rule in Albania. From conquest to cultural assimilation, discover how Roman control shaped the land and its people."
+  focusKeyword: "Albania Roman Era"
+  robots: "index"
 ---
 
 ## The Roman Conquest of Illyria
@@ -55,14 +62,3 @@ The late Roman period saw the empire split into East and West in 395 AD, with Il
 
 The Roman conquest of Illyria was a complex process involving warfare, diplomacy, and cultural assimilation. It was not an end but a transformation that would shape the region's destiny. The Illyrians, renowned for their seafaring and warrior traditions, became part of history's greatest empires. Their legacy, fused with that of Rome, would endure through the Byzantine era and beyond, leaving an indelible mark on the history of Southeast Europe.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Agron
-description: The apartment itself is a testament to spacious living, boasting a balcony that offers captivating city views, two cozy bedrooms, a welcoming living room, and a
-featuredImage: "/images/accommodation/478288760.jpg"
-language: en
-slug: agron
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to spacious living, boasting a balcony that offers captivating city views, two cozy bedrooms, a welcoming living room, and a kitchen equipped with everything needed for a home-cooked meal. Entertainment is readily available with the inclusion of a flat-screen TV, ensuring guests have a relaxing end to their day exploring the city.
+---\ntitle: "Agron"\ndescription: "Agron Apartment emerges as a prime choice for travelers seeking comfort and convenience in Durrës, located just a short 300-meter stroll from the inviting Durres Beach and within easy reach of the city's notable attractions."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478288760.jpg?k=e2db0b85e08b604659569f7b04826ff77150e2620dc9785f605bb4d15a808807&o=&hp=1"\nlanguage: en\nslug: agron\naddress: "Rruga Dhimitër Kraja, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30840175\n  lng: 19.48905388\nprice: "US$56"\npriceFrom: 56\nstarRating: 3\nrating: 5\nratingWords: "Below Average"\nnumberOfReviews: 2\nratings:\n  overall: 5\n  location: 5\n  cleanliness: 5\n  facilities: 5\n  value: 5\n  comfort: 5\n  staff: 5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478288760.jpg?k=e2db0b85e08b604659569f7b04826ff77150e2620dc9785f605bb4d15a808807&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478288796.jpg?k=2c2431587000d44b257de96ab3daab146cb5b787218d33b4a82df09613ad0338&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478288800.jpg?k=70a814e506d6f7b65c832152ceddb1ceeef8f03a8ac84087c15e06d7d1553ee6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/478288802.jpg?k=47c5d27e2944c097e19d4a129178f79bef39080420898e70c92bed3a95af169d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/478288804.jpg?k=91eae7e657646695a6aa8c663a06e2cc8334fe1d846a692a61b0dba59fd38985&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/478288808.jpg?k=762a4c8ce00df59a4bca2fa39e1e5cfd6d4dd09f018e450d6f7ec1c19617381c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/478288809.jpg?k=92991f999d0f651a11b43ba418c1913cde97c01f9f23a6adc32fd5a8ab8d1e0a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/478288812.jpg?k=c528a2d9effbce719ee0a01f12e8b75e929fb522ba1105aa9c289166c1371300&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "La Pergola 30 m"\n  - "Sulltan Bakllava 100 m"\nnearbyBeaches:\n  - "Durres Beach 150 m"\n  - "Shkëmbi i Kavajës Beach 3 km"\n  - "Currila Beach 3.5 km"\n  - "Kallmi Beach 4.9 km"\n  - "Golem Beach 5 km"\nwhatsNearby:\n  - "Bekimi 2.4 km"\n  - "Wine Dhe Pooh 3.5 km"\n  - "Sheshi Demokracia 3.5 km"\n  - "Yje Dhe Hena 3.6 km"\n  - "Durres Amphiteatre 3.7 km"\n  - "Sotir Noka 3.8 km"\n  - "1. Maj 3.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/agron-durres.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to spacious living, boasting a balcony that offers captivating city views, two cozy bedrooms, a welcoming living room, and a kitchen equipped with everything needed for a home-cooked meal. Entertainment is readily available with the inclusion of a flat-screen TV, ensuring guests have a relaxing end to their day exploring the city.
 
 Situated 38 km from the historic Skanderbeg Square and a mere 6.5 km from the ancient Durres Amphitheatre, Agron serves as an ideal base for those looking to immerse themselves in the rich history and culture of the area. Further afield, the Dajti Ekspres Cable Car offers breathtaking views from 42 km away, while the Rock of Kavaje, located 6.2 km from the apartment, presents a unique natural attraction.
 
 For travelers arriving by air, the convenience of Tirana International Mother Teresa Airport being just 33 km away makes Agron an accessible option for both short and extended stays. Whether visiting for leisure or business, Agron Apartment promises a comfortable and memorable stay in the heart of Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

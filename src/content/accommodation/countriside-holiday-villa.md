@@ -1,28 +1,5 @@
----
-title: Countriside Holiday Villa
-description: This charming holiday home boasts four well-appointed bedrooms, ensuring ample space for families or groups. The heart of the villa is its fully equipped kitche
-featuredImage: "/images/accommodation/518698058.jpg"
-language: en
-slug: countriside-holiday-villa
-location: ""
-amenities: []
-images: []
----
-
-This charming holiday home boasts four well-appointed bedrooms, ensuring ample space for families or groups. The heart of the villa is its fully equipped kitchen, complete with a microwave and fridge, allowing guests the freedom to prepare their meals while enjoying the comforts of home. The living area, featuring a flat-screen TV and comfortable seating, provides a cozy setting for relaxation after a day of adventure. Additionally, two modern bathrooms, each fitted with a shower, add to the convenience and comfort of the stay.
+---\ntitle: "Countriside Holiday Villa"\ndescription: "Countryside Holiday Villa stands as a serene retreat in Kovashicë, offering breathtaking mountain views and a tranquil escape from the hustle and bustle."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518698058.jpg?k=ef52426be21b353f97bed3ba83d74d298796e042ee1528f952781b86ef883479&o=&hp=1"\nlanguage: en\nslug: countriside-holiday-villa\naddress: "Kovashice, 8301 Kovashicë, Albania"\ncity: "Kovashicë"\nlocation: "Kovashicë"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.56539623\n  lng: 20.37639667\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518698058.jpg?k=ef52426be21b353f97bed3ba83d74d298796e042ee1528f952781b86ef883479&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518698073.jpg?k=a54b39f24dc0450d4687712e28e5b12c0ec0cae9502648a519bca6d3c767c4a1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518698070.jpg?k=85b654ad55434c6badd7ac637e7461edb6be7417ea4701068e82a6efe4927178&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518698091.jpg?k=d13f67b25095ddc476761b2efa9d0902d17970ff58fb7a3a563681dbefcd9f65&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518698099.jpg?k=2152ed7d09bc3d3265fcd7d10b3e7aaeb8a7e8c0041f1f8b3ed31d865dbfb0c9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518698056.jpg?k=82e4b5698cdeb166b84d8b3351c542ee86df1b89c0b0c938ddf517c1260637bc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518698085.jpg?k=f6b38ec7469e43b2d4520a0cf895d7366b492456f742e2d7015300313f2fe8b5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518698060.jpg?k=5bb1eeac9ec405676fe31a9101fd3acae830b102d13cfee661c117ffb734e495&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518697967.jpg?k=1b3d67efaa0d5a701061e7f42a75b8a027c2e8e94f89b8e007ec871bcb0fb0c7&o=&hp=1"\namenities:\n  - "Free parking"\nroomTypes:\n  - "Four-Bedroom House"\nnearbyRestaurants:\n  - "Damzi Resort 10 km"\n  - "Arta - Dibër 13 km"\nwhatsNearby:\n  - "Llixhat Peshkopi 15 km"\n  - "Llixhat e Peshkopi 15 km"\nairports:\n  - "Ohrid Airport 52 km"\n  - "Tirana International Airport Mother Teresa 57 km"\nbookingURL: "https://www.booking.com/hotel/al/countriside-home-accomodation.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThis charming holiday home boasts four well-appointed bedrooms, ensuring ample space for families or groups. The heart of the villa is its fully equipped kitchen, complete with a microwave and fridge, allowing guests the freedom to prepare their meals while enjoying the comforts of home. The living area, featuring a flat-screen TV and comfortable seating, provides a cozy setting for relaxation after a day of adventure. Additionally, two modern bathrooms, each fitted with a shower, add to the convenience and comfort of the stay.
 
 Guests can savor the serene garden views from the privacy of their balcony, a perfect spot for morning coffee or evening contemplation. With the added benefit of free private parking, visitors have the ease of exploring the surrounding area without worry.
 
 For those traveling by air, Ohrid Airport is located 83 km away, making Countryside Holiday Villa an accessible choice for both domestic and international travelers seeking a peaceful retreat amidst nature's beauty.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

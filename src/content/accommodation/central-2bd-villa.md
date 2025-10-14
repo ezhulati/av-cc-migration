@@ -1,28 +1,5 @@
----
-title: Central 2BD Villa
-description: The villa itself is a testament to modern living, offering a fully equipped kitchen for those who enjoy preparing their own meals. The commitment to a non-smoki
-featuredImage: "/images/accommodation/510787326.jpg"
-language: en
-slug: central-2bd-villa
-location: ""
-amenities: []
-images: []
----
-
-The villa itself is a testament to modern living, offering a fully equipped kitchen for those who enjoy preparing their own meals. The commitment to a non-smoking environment ensures a fresh and welcoming atmosphere throughout the property, situated just a short drive from the Dajti Ekspres Cable Car for those looking to venture further afield.
+---\ntitle: "Central 2BD Villa"\ndescription: "Central 2BD Villa emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510787326.jpg?k=c41a0a0e196ae92204995c2cf9f3bf2e7488197770cabd5b13581d7f5a874895&o=&hp=1"\nlanguage: en\nslug: central-2bd-villa\naddress: "3 Rruga Fadil Rada, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.32859139\n  lng: 19.82759746\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510787326.jpg?k=c41a0a0e196ae92204995c2cf9f3bf2e7488197770cabd5b13581d7f5a874895&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510787354.jpg?k=132c948ba2b3592e4a2a7bb6c197659013842e8582c6f3e2f15266230fa9aef1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510787384.jpg?k=257894eee5eec5815bb5458246ed84a72f2055f3b7ab8f9678d72cdc1944ba52&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510787352.jpg?k=3c608c2e9891554e847d4d436d7d3d7c578e9b881555c27cf0023543ff1455b5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510787388.jpg?k=32558a72b5457e7f716891639cbe2fbf46bf4736a75fc8a34cc600322b8de84d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510787374.jpg?k=7c1c871b8706e74c2bb85397e242ea87b34c44f4cf9c0d66fb548aaf066e5225&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510787361.jpg?k=e0ab7161e42155c0efd3a8252f54451f9d437b4b74e061b06e4934eaead01e33&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510787395.jpg?k=6de4425d4a5ddd5ab22d7ff6629e599f56064818bd1acbc04a4204f0fc12312a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510787356.jpg?k=ad4c21a5dd267368441a30eca887cc28e49335388b84b36daf2142156b687948&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyAttractions:\n  - "National Museum of History Albania 850 m"\n  - "Rinia Park 900 m"\n  - "House of Leaves 950 m"\n  - "Former Residence of Enver Hoxha 1.2 km"\n  - "Grand Park of Tirana 1.8 km"\n  - "Bunk'Art 1 Museum 3.6 km"\nnearbyRestaurants:\n  - "Home 20 m"\n  - "Pizzeria Grano Tenero 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ tek ish ATSh 100 m"\n  - "Tanners' Bridge 250 m"\n  - "Sheshi Sulejman Pasha 500 m"\n  - "National Gallery of Arts Tirana 650 m"\n  - "Clock Tower Tirana 650 m"\n  - "Sheshi Rekreativ Piramida 700 m"\n  - "Skanderbeg Square 700 m"\n  - "Parku Europa 700 m"\n  - "Parku Rinia 800 m"\n  - "Sheshi Skënderbej 800 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\nbookingURL: "https://www.booking.com/hotel/al/central-2bd-villa.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe villa itself is a testament to modern living, offering a fully equipped kitchen for those who enjoy preparing their own meals. The commitment to a non-smoking environment ensures a fresh and welcoming atmosphere throughout the property, situated just a short drive from the Dajti Ekspres Cable Car for those looking to venture further afield.
 
 Accommodation at Central 2BD Villa is designed with guest comfort in mind, featuring garden views that can be enjoyed from a cozy seating area. The inclusion of a flat-screen TV with streaming services, air conditioning, and a dedicated workspace caters to both leisure and business travelers. Two well-appointed bathrooms enhance the convenience, and the option to request towels and linens is available for a nominal fee. The charm of the villa is further accentuated by a fireplace, adding a touch of warmth to the evenings.
 
 For guests looking to explore Tirana at their own pace, the villa offers a car rental service, making it easy to visit nearby attractions such as Tanners' Bridge, Saint Paul Cathedral, and Toptani Shopping Centre. With Tirana International Mother Teresa Airport just 16 km away, Central 2BD Villa stands out as a compelling choice for those seeking a serene retreat within close proximity to the city's vibrant attractions.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

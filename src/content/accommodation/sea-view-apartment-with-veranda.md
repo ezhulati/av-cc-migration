@@ -1,30 +1,7 @@
----
-title: Sea View Apartment with Veranda
-description: Upon entering the air-conditioned apartment, guests are greeted by a spacious layout that includes two well-appointed bedrooms, ensuring a restful night's sleep
-featuredImage: "/images/accommodation/478102188.jpg"
-language: en
-slug: sea-view-apartment-with-veranda
-location: ""
-amenities: []
-images: []
----
-
-Upon entering the air-conditioned apartment, guests are greeted by a spacious layout that includes two well-appointed bedrooms, ensuring a restful night's sleep. The living space is enhanced by a flat-screen TV with cable channels, perfect for unwinding after a day of exploration. The heart of the apartment, a fully equipped kitchen, comes stocked with modern appliances such as a dishwasher, oven, washing machine, microwave, and fridge, catering to all culinary needs.
+---\ntitle: "Sea View Apartment with Veranda"\ndescription: "Sea View Apartment with Veranda in Vlorë stands out as a prime choice for travelers seeking comfort and convenience, mere steps away from the pristine Liro Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478102188.jpg?k=f7cb3e521c5b701edc68536a76d4776431c5b153733a52a7deb274045bb11fc2&o=&hp=1"\nlanguage: en\nslug: sea-view-apartment-with-veranda\naddress: "Rruga Aleksandër Moisiu, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4154674\n  lng: 19.48481261\nprice: "US$210"\npriceFrom: 210\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478102188.jpg?k=f7cb3e521c5b701edc68536a76d4776431c5b153733a52a7deb274045bb11fc2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478102279.jpg?k=c384fc029c45de8c6997993c26bbb3211ef4867d76b55cdff75f1749766df627&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478102236.jpg?k=af42aab8675d81ac45af9036d398677a46f8ad242d8c5f382f780ca1245037a4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478102269.jpg?k=554f381600d5fe225a7b1bd09a8c00b11d488cdecb155ecc3fba48973637c4c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478102253.jpg?k=3eaa3efcc423da9f3ba983c5be25631e8962f35750ba25df3bb6718f173dac4b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478102238.jpg?k=c06b86b268004c8ba01a2e5ef78169474fab325c06ca99155cebe8089b947023&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478102239.jpg?k=a614def27316e3952452ae3907abf76289173926c444bb34c2bb74fb7a6e4274&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478102244.jpg?k=79272837cae1c0d4f678de2f6730ef7aeda90d0810ae4545c596ee693e5d9ec0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478102226.jpg?k=08160ca444f95dd3e1ad3d31fe092003a54127f2d14f198551698a5493499b42&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Taverna Djepi 30 m"\n  - "Mandarine 100 m"\nnearbyBeaches:\n  - "Beach at Government Villas 250 m"\n  - "Liro Beach 350 m"\n  - "Coco Bongo Beach 1.3 km"\n  - "Sunny Beach 1.5 km"\n  - "Ri Beach 1.8 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 2.5 km"\n  - "Kuzum Baba 6 km"\n  - "Independence Square 6 km"\nairports:\n  - "Corfu International Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/sea-view-apartment-with-veranda.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nUpon entering the air-conditioned apartment, guests are greeted by a spacious layout that includes two well-appointed bedrooms, ensuring a restful night's sleep. The living space is enhanced by a flat-screen TV with cable channels, perfect for unwinding after a day of exploration. The heart of the apartment, a fully equipped kitchen, comes stocked with modern appliances such as a dishwasher, oven, washing machine, microwave, and fridge, catering to all culinary needs.
 
 One of the apartment's highlights is its veranda, offering panoramic views of the surrounding mountains. Furnished for comfort, it invites guests to relax and enjoy the scenic city vistas. For those looking to explore the local area, the apartment's location does not disappoint. The historic Kuzum Baba is a short 6.9 km drive away, while Independence Square is just a bit further at 7.1 km, offering a glimpse into the rich culture and history of Vlorë.
 
 For beach enthusiasts, the proximity to the Beach at Government Villas, less than 1 km away, and Coco Bongo Beach, 2 km from the property, means a variety of coastal experiences are within easy reach. Despite its serene location, the apartment remains well-connected, with Tirana International Mother Teresa Airport 156 km away, making it a convenient option for international travelers.
 
 Sea View Apartment with Veranda thus emerges as a top recommendation for those looking to experience the best of Vlorë, combining the comforts of home with the beauty of the Albanian coast.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

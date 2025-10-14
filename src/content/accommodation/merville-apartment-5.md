@@ -1,30 +1,7 @@
----
-title: Merville Apartment 5
-description: The apartment itself is a haven of tranquility, boasting a balcony that offers picturesque garden views. It features a cozy bedroom, a welcoming living room equ
-featuredImage: "/images/accommodation/336617785.jpg"
-language: en
-slug: merville-apartment-5
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of tranquility, boasting a balcony that offers picturesque garden views. It features a cozy bedroom, a welcoming living room equipped with a flat-screen TV for entertainment, and a kitchen fitted with modern appliances including an oven and a fridge. The presence of a bathroom equipped with a bidet adds to the convenience, ensuring a comfortable stay in a smoke-free environment.
+---\ntitle: "Merville Apartment 5"\ndescription: "Merville Apartment 5 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336617785.jpg?k=f6c71f0ea3e526083b1e229d76c2e1097663603a566f26409008c16004691f30&o=&hp=1"\nlanguage: en\nslug: merville-apartment-5\naddress: "Rruga Shkembi i Kavajes, 2008 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.28332929\n  lng: 19.51168669\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336617785.jpg?k=f6c71f0ea3e526083b1e229d76c2e1097663603a566f26409008c16004691f30&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491430044.jpg?k=500443a1b8271c423a404f4d238c8a5ec3b5f1233aa24ae12d418d1ca8270d5a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336617843.jpg?k=70f330dab3c4c8758f57aa70c0dc46875562bd4a3b16c3310458a8d851b3269a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336617827.jpg?k=00a7db6f59279c2844323dc84a157f6fb1c18ed59510bbf86ffbec91d142d15e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336617846.jpg?k=edc9c4539e2aaea57fb8710f2d6e2ee4a85792697999c70baf675d659caa6e8e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444783412.jpg?k=d34ff61da879a8fc4a3a012a256dbd3b1e2348fd6dd07e6e19f31bbc72f47891&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491429939.jpg?k=459d4ad923746c7a7a83093453c2de1f35e06fff36aa1d3c2480c84f7b6631a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336617852.jpg?k=223e7c0355327cd02d1717a8f6877055de0aec87ee18fd471385f0a8ad980a8f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444506005.jpg?k=0fb9ceab1d6ab87663ec0139f00d8a812868244ede44a6c4e49ba274b12c10c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336728587.jpg?k=426277ed4b105241baccd0ba08ca722598f8d7b587bcae32d6c1710ba7145745&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336617837.jpg?k=06e4c9b5923977a40d763bb6c5bf8d58490e9ffe3062bbf9936fbd83485f8677&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491429972.jpg?k=b2ed24855d4f8c027bce6bd3d0cc0526cf28eb7e2acb3522c57b186bc4081196&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Restorant ANXHELSON 50 m"\n  - "Kosova 100 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 50 m"\n  - "Durres Beach 350 m"\n  - "Golem Beach 2.1 km"\n  - "Mali I Robit Beach 4 km"\n  - "Qerret Beach 6 km"\nwhatsNearby:\n  - "Bekimi 6 km"\n  - "Wine Dhe Pooh 6 km"\n  - "Durres Amphiteatre 6 km"\n  - "Yje Dhe Hena 7 km"\n  - "Sheshi Demokracia 7 km"\n  - "1. Maj 7 km"\n  - "Sotir Noka 7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\nbookingURL: "https://www.booking.com/hotel/al/premium-apartment-1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of tranquility, boasting a balcony that offers picturesque garden views. It features a cozy bedroom, a welcoming living room equipped with a flat-screen TV for entertainment, and a kitchen fitted with modern appliances including an oven and a fridge. The presence of a bathroom equipped with a bidet adds to the convenience, ensuring a comfortable stay in a smoke-free environment.
 
 For those looking to explore the local area, Merville Apartment 5 does not disappoint. The property is situated within a vibrant community where activities such as cycling allow guests to immerse themselves in the local culture and landscape. Moreover, the proximity to Golem Beach, just 2.4 km away, and the historic Skanderbeg Square, 41 km distant, offers ample opportunity for exploration and adventure.
 
 Travelers will also appreciate the practicality of having Tirana International Mother Teresa Airport only 36 km away, with the added benefit of a paid airport shuttle service provided by the property. This ensures a seamless travel experience to and from the accommodation.
 
 Security is a top priority, with full-day security and the convenience of an elevator, ensuring peace of mind for all guests throughout their stay. Merville Apartment 5 stands as a testament to the perfect marriage of location, comfort, and security, making it an ideal choice for those looking to experience the best of Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

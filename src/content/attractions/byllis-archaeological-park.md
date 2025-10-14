@@ -7,6 +7,9 @@ featuredImage: /images/attractions/byllis-archaeological-park.jpg
 images: []
 language: en
 slug: byllis-archaeological-park
+seo:
+  metaTitle: "%title% %sep% Albania’s Hilltop Ancient City"
+  metaDescription: "Walk Illyrian, Roman and Byzantine ruins at Byllis—walls, a 7,500‑seat theater and 6th‑century mosaics—plus current hours, ticket prices and tips."
 ---
 
 Albania’s Archaeological Marvel Beyond the Tourist Trail
@@ -158,10 +161,3 @@ Go. See it. Before everyone else does.
 
 *For updates: contact Fier Archaeological Museum (+355 69 123 4567) or [Apollonia Archaeological Park](https://apolloniaarchaeologicalpark.al/en/home/) administration who manage the site.*
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

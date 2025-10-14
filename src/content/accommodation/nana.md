@@ -1,28 +1,5 @@
----
-title: NANA
-description: The hostel doesn't just offer a place to stay; it provides a view. Guests can enjoy the serene beauty of the garden from the terrace, a feature that adds a touc
-featuredImage: "/images/accommodation/499130985.jpg"
-language: en
-slug: nana
-location: ""
-amenities: []
-images: []
----
-
-The hostel doesn't just offer a place to stay; it provides a view. Guests can enjoy the serene beauty of the garden from the terrace, a feature that adds a touch of tranquility to the urban lodging experience. Moreover, NANA ensures that assistance is always at hand with its 24-hour front desk and dedicated concierge services, making every stay as comfortable and hassle-free as possible.
+---\ntitle: "NANA"\ndescription: "NANA Hostel, located in the vibrant heart of Vlorë and a mere 600 meters from the iconic Independence Square, offers a refreshing take on modern accommodation."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499130985.jpg?k=615f4d94a1228acc00ef8368bb16568e3d9b91b57291675cd7b8d9f1f4f59c0e&o=&hp=1"\nlanguage: en\nslug: nana\naddress: "Rruga Demokracia, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hostel"\ncoordinates:\n  lat: 40.47535977\n  lng: 19.49041069\nprice: "US$8"\npriceFrom: 8\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 7\nratings:\n  overall: 8.8\n  location: 8.6\n  cleanliness: 8.9\n  facilities: 8.6\n  value: 8.9\n  comfort: 8.6\n  staff: 8.9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499130985.jpg?k=615f4d94a1228acc00ef8368bb16568e3d9b91b57291675cd7b8d9f1f4f59c0e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/499136046.jpg?k=181013f345d6d692af132bd5ed69f9146635d8e608fabcb21e5796113f9e0c63&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/499131298.jpg?k=388c634a479d6f3d4ac333b4c356c30cb6219baf459c27fd4f2f0319ea8c22e6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/499130548.jpg?k=50137f7de91082174b99a57f99174d71a5645333e6500a8811cb1e37fade862b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/499130674.jpg?k=fa7522d31187e045ea501100c7b3dc70ac3dd3169e34ee197828f7a1ccdccca9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/499130608.jpg?k=cc1190fb50063b76d7573646b5ac3bb2a0de7dda38e3190d00dab1d3c7efef2f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/499086945.jpg?k=1306ddcd19f26a56ab18fab5472c17690fa2d26f0c7662b349a691de5c60d355&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Breakfast"\nroomTypes:\n  - "Bed in 6-Bed Mixed Dormitory Room"\nnearbyRestaurants:\n  - "Rruga E Re 150 m"\n  - "Buronja 250 m"\nnearbyBeaches:\n  - "Vjetër Beach 2.6 km"\n  - "Vlore Beach 3.1 km"\n  - "Ri Beach 4.4 km"\n  - "Narta Beach 4.9 km"\n  - "Beach at Government Villas 6 km"\nwhatsNearby:\n  - "Independence Square 500 m"\n  - "Kuzum Baba 900 m"\n  - "Scooby Doo Vlore 4.4 km"\nbookingURL: "https://www.booking.com/hotel/al/nana.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nThe hostel doesn't just offer a place to stay; it provides a view. Guests can enjoy the serene beauty of the garden from the terrace, a feature that adds a touch of tranquility to the urban lodging experience. Moreover, NANA ensures that assistance is always at hand with its 24-hour front desk and dedicated concierge services, making every stay as comfortable and hassle-free as possible.
 
 Accommodations at NANA are thoughtfully designed with the modern traveler in mind. Each room is equipped with essential amenities such as air conditioning for those warm Vlorë days and nights, and a wardrobe for personal storage. The shared bathroom facilities are maintained to high standards, ensuring cleanliness and convenience.
 
 For those looking to explore, the hostel is conveniently positioned just 1.4 km from the historical Kuzum Baba, making it an ideal base for guests eager to discover local attractions. Additionally, for international travelers, the Tirana International Mother Teresa Airport is 148 km away, making NANA an accessible choice for both domestic and international visitors seeking a blend of comfort, convenience, and culture in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

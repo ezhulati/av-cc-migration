@@ -1,28 +1,7 @@
----
-title: Fishta Apartments Q5 33
-description: "The apartment itself is a haven of space and comfort, boasting a balcony that offers breathtaking sea views."
-featuredImage: "/images/accommodation/464154265.jpg"
-language: en
-slug: fishta-apartments-q5-33
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of space and comfort, boasting a balcony that offers breathtaking sea views. It is well-appointed with a bedroom, a cozy living room, and a flat-screen TV for entertainment. The kitchen is fully equipped with modern amenities including a dishwasher and an oven, ensuring guests can prepare meals with ease. The inclusion of a bathroom with a bidet, alongside an air-conditioned unit featuring a bath and a dressing room, adds to the comfort of the stay. Guests can also enjoy meals al fresco in the outdoor dining area, enhancing the experience of seaside living.
+---\ntitle: "Fishta Apartments Q5 33"\ndescription: "Fishta Apartments Q5 33 emerges as a prime choice for travelers seeking a serene beachfront escape in Velipojë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464154265.jpg?k=cb56fe94df1b874ffe8a771bee516b5c9ccba8b2409f4c1a634a81328e988963&o=&hp=1"\nlanguage: en\nslug: fishta-apartments-q5-33\naddress: "Rruga shtepia e peshkatareve, 4001 Velipojë, Albania"\ncity: "Velipojë"\nlocation: "Velipojë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.86346887\n  lng: 19.426129\nprice: "US$50"\npriceFrom: 50\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 7\nratings:\n  overall: 9.8\n  location: 10\n  cleanliness: 10\n  facilities: 9.6\n  value: 9.3\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464154265.jpg?k=cb56fe94df1b874ffe8a771bee516b5c9ccba8b2409f4c1a634a81328e988963&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464154279.jpg?k=cc6e566dd36a2f55795af171fe0332d0aeedbfafa27eedf2ea6e0a63d0ba935e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464154275.jpg?k=24cd039c80b372989596adbbc21f57645f687ed36b541f36ed96b94a93edaed4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464154274.jpg?k=1fe9a033df00fefc1a9a06ead251aad8c9b0bc0f557469ee561f9807406bc1bd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464154255.jpg?k=bc4ec7e177d70214bf7278c3de7d691bcce98128d067922a268f8412c9789a1b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480484968.jpg?k=79f7d1c1c2d9464f7cf0cd44d5cec5cd482cca9e4418a2a4558e741ebed5cda1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473872031.jpg?k=37679cadbb264f6871c467ce53131158929359d339ba35560cc13604f66c2b1d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464154263.jpg?k=5b7f4b2c799882082193e07c99e64df6b528e9ea719142c856d3b5ca431714de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464154227.jpg?k=72819d0465fb7b55dead3156343ff92ece0f30425d4731f9e60c71645c49a75e&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\n  - "Family rooms"\n  - "Private beach area"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Old Town Ulcinj 20 km"\nnearbyRestaurants:\n  - "Aroma E Gostivarit 50 m"\n  - "Hojza Bakery 100 m"\nnearbyBeaches:\n  - "Velipoja Beach 200 m"\n  - "Rana e Hedhun Beach 1.8 km"\n  - "Ada Bojana Beach 4.9 km"\n  - "Velika Plaza Beach 7 km"\nwhatsNearby:\n  - "Copacabana 10 km"\n  - "Cola Beach 11 km"\n  - "Imperiam Beach 13 km"\n  - "Msm Beach 13 km"\n  - "Tropicana 14 km"\n  - "Plaža Safari 14 km"\n  - "Bukurija Beach 15 km"\n  - "Saranda 15 km"\n  - "Plaža Toni 16 km"\n  - "Nudistička Plaža Albatros 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 54 km"\n  - "Podgorica Airport 55 km"\n  - "Tivat Airport 82 km"\nreviews:\n  - name: "Tomek"\n    country: "Poland"\n    text: "“Apartment is clean, there is everything what you need. Beds are comfortable.
+Apartment location is fantastic. 2 min way to beach, 1 min to La Maroja restaurant. 1 min to lacal market.
+We were in the end of September but that was very good time...”"\nbookingURL: "https://www.booking.com/hotel/al/fishta-apartment-q5.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of space and comfort, boasting a balcony that offers breathtaking sea views. It is well-appointed with a bedroom, a cozy living room, and a flat-screen TV for entertainment. The kitchen is fully equipped with modern amenities including a dishwasher and an oven, ensuring guests can prepare meals with ease. The inclusion of a bathroom with a bidet, alongside an air-conditioned unit featuring a bath and a dressing room, adds to the comfort of the stay. Guests can also enjoy meals al fresco in the outdoor dining area, enhancing the experience of seaside living.
 
 For convenience, a minimarket on the premises ensures essentials are always within reach. For those arriving from afar, the property is 83 km from Tirana International Mother Teresa Airport, with a paid airport shuttle service available to ensure a hassle-free arrival and departure.
 
 Fishta Apartments Q5 33 is not just a place to stay; it's a gateway to a memorable beachfront holiday, offering both the tranquility of the sea and the adventure of nearby attractions.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

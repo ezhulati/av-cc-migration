@@ -5,9 +5,11 @@ featuredImage: "/images/pages/albaniavisit_transfers.jpg"
 language: en
 slug: transfers
 seo:
-  metaTitle: Book Reliable Taxi & Private Car Services
-  metaDescription: ""
   canonicalURL: https://albaniavisit.com/transfers/
+  focusKeyword: "transfers"
+  metaTitle: "Tirana Airport Transfers &amp; Taxi Booking in Albania"
+  metaDescription: "Travel with ease in Albania. Learn how to hire a car and book taxi transfers from airports and hotels to any city. Your journey in Albania, simplified."
+  focusKeyword: "transfers"
 ---
 
 ## Private Transfers in Albania - Fixed Price, No Stress

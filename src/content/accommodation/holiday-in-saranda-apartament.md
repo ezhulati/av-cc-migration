@@ -1,26 +1,3 @@
----
-title: Holiday In Saranda Apartament
-description: This spacious, air-conditioned apartment boasts a welcoming balcony, complemented by complimentary WiFi, ensuring guests stay connected and comfortable througho
-featuredImage: "/images/accommodation/474282788.jpg"
-language: en
-slug: holiday-in-saranda-apartament
-location: ""
-amenities: []
-images: []
----
-
-This spacious, air-conditioned apartment boasts a welcoming balcony, complemented by complimentary WiFi, ensuring guests stay connected and comfortable throughout their visit. The interior features a tastefully arranged bedroom, a fully equipped kitchen for those who enjoy crafting their meals, and a modern bathroom. Entertainment needs are well catered for with a flat-screen TV, making it an ideal retreat after a day of exploration.
+---\ntitle: "Holiday In Saranda Apartament"\ndescription: "Holiday In Saranda Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474282788.jpg?k=0ad78eba6542ff3d0c7238fb082a467a96a4efed35704e46f50581975f179af1&o=&hp=1"\nlanguage: en\nslug: holiday-in-saranda-apartament\naddress: "Rruga e Flamurit, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.875823\n  lng: 20.00615304\nprice: "US$102"\npriceFrom: 102\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474282788.jpg?k=0ad78eba6542ff3d0c7238fb082a467a96a4efed35704e46f50581975f179af1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/474282685.jpg?k=f8d40c1ef6458b1da2975c9821c96b669bd6eb55a7200a5eab49bbf233ca3546&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/474282793.jpg?k=361d9f9635450d9a6409151dcf09b73f9579aa186086d923a3a44b368058b389&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/474282797.jpg?k=6baa1c1ce4b11c55bfdcd74a2880a8e10486dbf622fa13224cbd1c8845be0700&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/474282801.jpg?k=31a6bdb478d98c722c876f78594f9e1f4a1f7ed0434c1604df6d1ab2399c145a&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Taverna Lamce 50 m"\n  - "Oda e Babës 100 m"\nnearbyBeaches:\n  - "Saranda City Beach 350 m"\n  - "Sarande Main Beach 800 m"\n  - "La Petite Beach 1.1 km"\n  - "Maestral Beach 1.3 km"\n  - "Saranda Bay Beach 2.1 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.5 km"\n  - "Butrint National Park 3.3 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nbookingURL: "https://www.booking.com/hotel/al/holiday-in-saranda-sarande.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis spacious, air-conditioned apartment boasts a welcoming balcony, complemented by complimentary WiFi, ensuring guests stay connected and comfortable throughout their visit. The interior features a tastefully arranged bedroom, a fully equipped kitchen for those who enjoy crafting their meals, and a modern bathroom. Entertainment needs are well catered for with a flat-screen TV, making it an ideal retreat after a day of exploration.
 
 For those traveling to or from the region, Ioannina Airport is located 97 km away, making Holiday In Saranda Apartment a convenient gateway for international and domestic visitors alike.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

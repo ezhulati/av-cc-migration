@@ -1,28 +1,5 @@
----
-title: Art Apartment Crystal
-description: The apartment itself is a haven of tranquility and space. Featuring a balcony that offers views of the inner courtyard, the layout includes a well-appointed bed
-featuredImage: "/images/accommodation/305349833.jpg"
-language: en
-slug: art-apartment-crystal
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of tranquility and space. Featuring a balcony that offers views of the inner courtyard, the layout includes a well-appointed bedroom, a cozy living room equipped with a flat-screen TV for entertainment, and a kitchen that boasts modern appliances such as an oven and a microwave. The inclusion of a bathroom with a bidet, along with complimentary towels and bed linen, adds to the comfort of the stay. Notably, the apartment is designed to be both allergy-free and non-smoking, catering to the health and well-being of all guests.
+---\ntitle: "Art Apartment Crystal"\ndescription: "Art Apartment Crystal emerges as a serene retreat in Golem, striking a perfect balance between comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305349833.jpg?k=6047a39a18d3cdc61b3385ac2e291095075ad43d69ec835b91ea1927782d5120&o=&hp=1"\nlanguage: en\nslug: art-apartment-crystal\naddress: "Rruga Kristal, Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.24299837\n  lng: 19.5221871\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.7\nratingWords: "Good"\nnumberOfReviews: 4\nratings:\n  overall: 7.7\n  location: 6.9\n  cleanliness: 7.5\n  facilities: 8.1\n  value: 7.5\n  comfort: 8.1\n  staff: 8.1\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305349833.jpg?k=6047a39a18d3cdc61b3385ac2e291095075ad43d69ec835b91ea1927782d5120&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/309828685.jpg?k=7a1c1389ab088418c6c94d28ff8e7d3f1f93edafd2adbe58d746102f8a4d5a15&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/305349805.jpg?k=bd0d88c71c6fb411556b2fd4e35b7b1c2b443e438d762d00e8e75e170cab66fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/305349829.jpg?k=0591c49dc2aacb48707880f09d5dc30998a3b5fd14719af73def4bef33830e64&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/305349844.jpg?k=d8efff2f620989dfbfbc75c100eeab882d5034b2e76375d1358aba32d9bd2e45&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/305349841.jpg?k=9d8725291a0463797735a7c7da8b15915e44e82010eac82cb8ebd28b4424ef23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/305349824.jpg?k=43260a5e36bfa0f7558510ffefdf0baff3bd6d135eb2617e32de60eeb9fe721e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/305358152.jpg?k=6c94b1bd034f75d6f1bd463f7728314647f917beff604007115d7427c6e8e4de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/305349838.jpg?k=f9747431c78654550aad793eca4b267314decf41091c02a61b0161b1e3770156&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Bar Restorant Engel 150 m"\n  - "Brutal by Flower 350 m"\nnearbyBeaches:\n  - "Mali I Robit Beach 300 m"\n  - "Golem Beach 600 m"\n  - "Qerret Beach 1.6 km"\n  - "Shkëmbi i Kavajës Beach 2.5 km"\n  - "Durres Beach 4.9 km"\nwhatsNearby:\n  - "Durres Amphiteatre 10 km"\n  - "1. Maj 10 km"\n  - "Bekimi 10 km"\n  - "Wine Dhe Pooh 10 km"\n  - "Yje Dhe Hena 10 km"\n  - "Sheshi Demokracia 10 km"\n  - "Sotir Noka 11 km"\nairports:\n  - "Tirana International Airport Mother Teresa 24 km"\nbookingURL: "https://www.booking.com/hotel/al/art-apartment-crystal.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of tranquility and space. Featuring a balcony that offers views of the inner courtyard, the layout includes a well-appointed bedroom, a cozy living room equipped with a flat-screen TV for entertainment, and a kitchen that boasts modern appliances such as an oven and a microwave. The inclusion of a bathroom with a bidet, along with complimentary towels and bed linen, adds to the comfort of the stay. Notably, the apartment is designed to be both allergy-free and non-smoking, catering to the health and well-being of all guests.
 
 For those interested in exploring beyond the immediate beaches, Art Apartment Crystal is conveniently situated a manageable distance from notable landmarks. Skanderbeg Square, the heart of Albanian cultural and political life, is 46 km away, while the intriguing Rock of Kavaje is just over 5 km from the apartment. For guests arriving by air, the Tirana International Mother Teresa Airport is 41 km away, with the apartment offering a paid shuttle service for a seamless travel experience.
 
 Art Apartment Crystal represents an ideal choice for travelers seeking a blend of privacy, comfort, and accessibility in Golem. Its thoughtful amenities, coupled with its prime location, make it a compelling option for those looking to explore the beauty of the Albanian coast.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,7 @@
----
-title: Blini-Park Guesthouse
-description: Accommodations at Blini-Park Guesthouse are thoughtfully designed to ensure privacy and comfort, with select units featuring their own entrances. Each room is w
-featuredImage: "/images/accommodation/198244355.jpg"
-language: en
-slug: blini-park-guesthouse
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Blini-Park Guesthouse are thoughtfully designed to ensure privacy and comfort, with select units featuring their own entrances. Each room is well-appointed, complete with a wardrobe and outdoor furniture, allowing guests to fully embrace the tranquil surroundings. The allure of the sea or mountain views can be enjoyed from the privacy of a terrace or balcony available in some units, while all are assured the convenience of a private bathroom equipped with a bidet, ensuring a stay that marries comfort with the beauty of nature.
+---\ntitle: "Blini-Park Guesthouse"\ndescription: "Blini-Park Guesthouse emerges as a serene oasis in Mollʼ e Shoshit, offering a unique blend of natural beauty and comfort right on the beachfront."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/198244355.jpg?k=042f778550c62094713cf7e0b4fb35b92a48477842d3cda6b72b003dd7d88545&o=&hp=1"\nlanguage: en\nslug: blini-park-guesthouse\naddress: "Shosh, 4001 Mollʼ e Shoshit, Albania"\ncity: "Mollʼ"\nlocation: "Mollʼ"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 42.19761856\n  lng: 19.80821013\nprice: "US$75"\npriceFrom: 75\nstarRating: 3\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 214\nratings:\n  overall: 8.2\n  location: 9.5\n  cleanliness: 7.7\n  facilities: 7.3\n  value: 7.5\n  comfort: 7.8\n  staff: 7.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/198244355.jpg?k=042f778550c62094713cf7e0b4fb35b92a48477842d3cda6b72b003dd7d88545&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/290591569.jpg?k=7867988f4172578b5bfaabd21c00381d5fea95f1b37dc0864d9ab19bb4482069&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/290591091.jpg?k=20e684633c116ce0d4cf7bbeafe9cc6b0eba8998540f59a2c3fc119067355c85&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/198244082.jpg?k=2b5c31835e5f0c06c0f4fc232aaf0e64f5f981193ee97621d9f443b8a5a036b0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/290591587.jpg?k=e916b7a5b58f925b048d74fb19044a011a06298c32a798fd4c37aac5c55a09af&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/198244055.jpg?k=15a4a559e84865009302f855eb8cd5f513bfca05fece77619ecd28c32904600d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Beachfront"\n  - "Family rooms"\n  - "Bar"\n  - "Private beach area"\n  - "Superb breakfast"\nroomTypes:\n  - "Budget Double Room"\n  - "Basic Triple Room"\n  - "Classic Quadruple Room"\n  - "Family Room with Shower"\n  - "Family Room with Private Bathroom"\nnearbyRestaurants:\n  - "- te Kastrioti 11 km"\n  - "Skollaj 12 km"\nwhatsNearby:\n  - "Theth National Park 18 km"\nairports:\n  - "Podgorica Airport 49 km"\n  - "Tirana International Airport Mother Teresa 86 km"\n  - "Tivat Airport 91 km"\nreviews:\n  - name: "Amel"\n    country: "United Kingdom"\n    text: "“Most amazing experience of my life will definitely come again and will recommend to everyone I know . Amazing rooms friendly staff just fantastic”"\n  - name: "Velina"\n    country: "Spain"\n    text: "“We recommend 100% this place. All staff working there are amazing. Very nice and friendly all of them. We are very grateful for the great attention we received during our stay. The accommodation was very nice and the room was very comfortable and...”"\n  - name: "V"\n    country: "Germany"\n    text: "“The location is amazing, the food is delicious and the Staff was so nice and friendly. We felt very comfortable❤️”"\nbookingURL: "https://www.booking.com/hotel/al/blini-park-guesthouse.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Blini-Park Guesthouse are thoughtfully designed to ensure privacy and comfort, with select units featuring their own entrances. Each room is well-appointed, complete with a wardrobe and outdoor furniture, allowing guests to fully embrace the tranquil surroundings. The allure of the sea or mountain views can be enjoyed from the privacy of a terrace or balcony available in some units, while all are assured the convenience of a private bathroom equipped with a bidet, ensuring a stay that marries comfort with the beauty of nature.
 
 Dining at the guesthouse is an experience in itself, with the on-site restaurant offering a menu rich in Mediterranean flavors, available for both lunch and dinner. The culinary delights are matched by the picturesque setting, making every meal a memorable part of the stay.
 
 For those seeking adventure or simply wishing to connect with nature, Blini-Park Guesthouse serves as the perfect base. The surrounding area of Mollʼ e Shoshit is ripe for exploration, whether through snorkeling in the clear waters, fishing, or hiking through the scenic trails. Younger guests are not forgotten, with outdoor play equipment available to keep them entertained.
 
 In essence, Blini-Park Guesthouse is more than just a place to stay; it's a destination that offers a harmonious blend of relaxation, adventure, and culinary excellence, making it an ideal choice for travelers seeking a comprehensive and enriching beachfront experience.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

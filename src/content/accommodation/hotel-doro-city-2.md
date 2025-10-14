@@ -4,9 +4,20 @@ description: Upon entering the Doro City, guests are greeted with a modern and l
 featuredImage: "/images/accommodation/470491309.jpg"
 language: en
 slug: hotel-doro-city-2
-location: ""
-amenities: []
 images: []
+category: "4-Star"
+starRating: 4
+rating: 4
+accommodationType: "hotel"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Air Conditioning"
+  - "Restaurant"
+  - "Bar"
+  - "Breakfast"
+  - "Room Service"
+  - "TV"
 ---
 
 Upon entering the Doro City, guests are greeted with a modern and luxurious ambiance that extends to each of its well-appointed rooms. Designed with the contemporary traveler in mind, the accommodations boast air conditioning, complimentary Wi-Fi, and a host of amenities including a cozy seating area, a functional desk, and a flat-screen TV for your entertainment needs. The private bathrooms are equipped with a shower and hairdryer, ensuring a comfortable stay.
@@ -19,18 +30,3 @@ The allure of Tirana awaits just 700 meters from the hotel's doorstep. Guests ca
 
 Hotel Doro City emerges as a distinguished option for those seeking a memorable stay in Tirana, offering a perfect mix of leisure and convenience in Albania's captivating capital.
 
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

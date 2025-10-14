@@ -1,30 +1,10 @@
----
-title: Smart Home , Lovely Apartment in Tirana
-description: The apartment itself is a haven of modern amenities, boasting air-conditioned rooms complemented by private bathrooms, ensuring a restful and private retreat af
-featuredImage: "/images/accommodation/402615880.jpg"
-language: en
-slug: smart-home-lovely-apartment-in-tirana
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of modern amenities, boasting air-conditioned rooms complemented by private bathrooms, ensuring a restful and private retreat after a day of exploration. The inclusion of a fully equipped kitchen and a welcoming balcony adds a touch of home, catering to families and groups seeking a self-sufficient stay.
+---\ntitle: "Smart Home , Lovely Apartment in Tirana"\ndescription: "Smart Home, Lovely Apartment in Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402615880.jpg?k=9ddbcffb3da7537ace8f4060793ec23d20af01de7c9a189523adc11855a69797&o=&hp=1"\nlanguage: en\nslug: smart-home-lovely-apartment-in-tirana\naddress: "Rruga Kongresi i Lushnjes, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32510076\n  lng: 19.79545162\nprice: "US$30"\npriceFrom: 30\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 56\nratings:\n  overall: 9.9\n  location: 9.6\n  cleanliness: 9.9\n  facilities: 9.8\n  value: 9.8\n  comfort: 10\n  staff: 9.9\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402615880.jpg?k=9ddbcffb3da7537ace8f4060793ec23d20af01de7c9a189523adc11855a69797&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402649006.jpg?k=2665c048eebb24e84d0333255a6f9dd9eaec60877e077106ff2f3b221c91b10e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402648999.jpg?k=d74bf87946913bd9cdc113321b8afde5c58aabba268f04575b16a7ce087180e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400919931.jpg?k=6b7708eb8d79304722b630402ac2a8b780f0b0c77de58248a5fef047fdcbd605&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402648961.jpg?k=8094c2df2ee2a2f04f0c568dd6790c5f64d49d6def8606270e65fd7de7924dd2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402648973.jpg?k=e673f24aa011b52bbcb529115b9cd023eadb7f4d9efc6b9d01bd5fcf3ad7787a&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Deluxe Apartment"\n  - "Apartment with Balcony"\nnearbyAttractions:\n  - "House of Leaves 1.8 km"\n  - "Former Residence of Enver Hoxha 1.9 km"\n  - "National Museum of History Albania 1.9 km"\n  - "Rinia Park 1.9 km"\n  - "Skanderbeg Square 2 km"\n  - "Clock Tower Tirana 2.1 km"\n  - "National Gallery of Arts Tirana 2.1 km"\n  - "Tanners' Bridge 2.6 km"\n  - "Grand Park of Tirana 2.9 km"\n  - "Bunk'Art 1 Museum 6 km"\nnearbyRestaurants:\n  - "Bar Restorant Martolisa 100 m"\n  - "Casa Caffe 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Kongresi i Lushnjës 50 m"\n  - "Sheshi Rekreativ Sali Butka 400 m"\n  - "Sheshi Rekreativ Bajram Curri 500 m"\n  - "Sheshi Rekreativ Pallati me Shigjeta 500 m"\n  - "Sheshi Rekreativ Shefqet Musaraj 550 m"\n  - "Sheshi Rekreativ Parku 1Km 600 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 1.1 km"\n  - "Sheshi Rekreativ Komuna e Parisit 1.3 km"\n  - "Shesh Rekreativ Yzberisht 1.3 km"\n  - "Sheshi Rekreativ Mine Peza 1.4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 81 km"\nreviews:\n  - name: "Enea"\n    country: "Albania"\n    text: "“The apartment was simply amazing. Absolutely, everything was perfect, and you will have everything you need for a short stay. The location is very good with a lot of places to eat and supermarkets nearby. The check-in is pretty easy , and the...”"\n  - name: "Maria"\n    country: "Georgia"\n    text: "“Clean, washing machine and washing powder there. All good. Thanks a lot to the host”"\n  - name: "Richard"\n    country: "Canada"\n    text: "“Fantastic Owners
+Very Friendly and Helpful!
+Everything was Awesome
+Stayed for over 2 Months”"\nbookingURL: "https://www.booking.com/hotel/al/smart-home-lovely-apartment-in-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a haven of modern amenities, boasting air-conditioned rooms complemented by private bathrooms, ensuring a restful and private retreat after a day of exploration. The inclusion of a fully equipped kitchen and a welcoming balcony adds a touch of home, catering to families and groups seeking a self-sufficient stay.
 
 Connectivity is never an issue, as guests can enjoy the convenience of free WiFi throughout their stay. Entertainment and practical needs are well catered for, with each unit featuring a washing machine and a flat-screen TV, making it an ideal choice for both short and extended stays.
 
 For those interested in delving into Albania's historical narrative, the former Residence of Enver Hoxha is merely 2.7 km away, offering a glimpse into the country's past. Meanwhile, adventure seekers will find the Rock of Kavaje, located 42 km from the apartment, an intriguing day trip destination.
 
 Accessibility is further enhanced by the proximity to Tirana International Mother Teresa Airport, just 13 km away, ensuring a hassle-free arrival and departure experience. Smart Home, Lovely Apartment in Tirana stands out as a compelling accommodation option, combining the comforts of home with the excitement of travel.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

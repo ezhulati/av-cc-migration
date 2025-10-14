@@ -1,26 +1,3 @@
----
-title: Stone Pazar Guest House
-description: "Each apartment at Stone Pazar Guest House is a testament to comfort and privacy, boasting a balcony that opens up to enchanting garden views, perfect..."
-featuredImage: "/images/accommodation/484090992.jpg"
-language: en
-slug: stone-pazar-guest-house
-location: ""
-amenities: []
-images: []
----
-
-Each apartment at Stone Pazar Guest House is a testament to comfort and privacy, boasting a balcony that opens up to enchanting garden views, perfect for those moments of reflection or a quiet morning coffee. The layout, featuring a cozy bedroom, is designed with the guest's relaxation in mind.
+---\ntitle: "Stone Pazar Guest House"\ndescription: "Stone Pazar Guest House emerges as a serene retreat in the historic heart of Gjirokastër, located a mere 43 km from the tranquil Zaravina Lake."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484090992.jpg?k=96f436b6147d6f5e0a3a8270739559d79dcb070a2bc83a99960cd543ae207b02&o=&hp=1"\nlanguage: en\nslug: stone-pazar-guest-house\naddress: "Rruga Gjin Zenebisi, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.07740086\n  lng: 20.14551445\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 16\nratings:\n  overall: 9.4\n  location: 9.5\n  cleanliness: 9.4\n  facilities: 9.3\n  value: 9.4\n  comfort: 8.9\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484090992.jpg?k=96f436b6147d6f5e0a3a8270739559d79dcb070a2bc83a99960cd543ae207b02&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484091047.jpg?k=3d41cb21313880df511fd31edd826f528068ebc7d3f96f640d93b9ea22bc0979&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484091007.jpg?k=09e498d64e66af176a7027574d0a3b7ab12d9d03e40d64d9460c9f9497e2ca23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484091035.jpg?k=e4875c77b073fb67fc07d30aca52bd4d39731f01cd581532070579ee3e3e8cf8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484091041.jpg?k=625086154394f75af4130073ac84095a061355ec7787e992744bb8232ceaab27&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484090996.jpg?k=b411f806abaec930d3e00226af8d6b054d11cc9fea1eb452d990aaf7edfbedf7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484091004.jpg?k=2c1962d0296f3904b0b91ed0f78180f94bfedc51651435d75a4bb98e60d468b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484090926.jpg?k=cc6101a1814920c431bfa8b3dc776939c958f48fddd468ba6d51a773c850a969&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484090999.jpg?k=58d2eb8133d9eebd263f6044d88198238efea0724b969f8d9c036f5ace3fd484&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Breakfast"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Gliko Snack Bar & Pastisserie 150 m"\n  - "Coyote 300 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Florian"\n    country: "Germany"\n    text: "“Great stay in a comfortable clean room, a nice garden and many cats. Delicious breakfast by our lovely hosts made us feel at home!”"\n  - name: "Mary"\n    country: "United Kingdom"\n    text: "“The hosts were extremely kind - it felt almost like staying with family. Their house is beautiful, such an atmospheric place to stay. Our children particularly loved the courtyard and cats! It is in a wonderful location, an easy walk from the castle.”"\n  - name: "Dagmar"\n    country: "Austria"\n    text: "“Großartige familiäre Betreuung. Wir wurden richtig verwöhnt.”"\nbookingURL: "https://www.booking.com/hotel/al/stone-guest-house.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nEach apartment at Stone Pazar Guest House is a testament to comfort and privacy, boasting a balcony that opens up to enchanting garden views, perfect for those moments of reflection or a quiet morning coffee. The layout, featuring a cozy bedroom, is designed with the guest's relaxation in mind.
 
 For travelers arriving by air, the convenience of Ioannina Airport, situated 82 km away, makes Stone Pazar Guest House an accessible haven for both short and extended stays. The inclusion of a terrace further enhances the appeal, offering an ideal spot for unwinding after a day of exploration in Gjirokastër's captivating surroundings.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

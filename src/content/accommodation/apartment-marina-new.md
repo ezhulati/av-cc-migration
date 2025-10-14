@@ -1,26 +1,3 @@
----
-title: Apartment Marina New
-description: The apartment itself is a haven of modern living, featuring two well-appointed bedrooms, a fully equipped kitchen for those who prefer to dine in, and a bathroo
-featuredImage: "/images/accommodation/465460554.jpg"
-language: en
-slug: apartment-marina-new
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of modern living, featuring two well-appointed bedrooms, a fully equipped kitchen for those who prefer to dine in, and a bathroom. Comfort is guaranteed with air conditioning throughout, and entertainment needs are met with a flat-screen TV. Guests will appreciate the commitment to a smoke-free environment, ensuring a pleasant stay for all.
+---\ntitle: "Apartment Marina New"\ndescription: "Apartment Marina New emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465460554.jpg?k=d58a802719321ec6e68149fcb168e78b9c2472a17c3bdd6b48936ba389278918&o=&hp=1"\nlanguage: en\nslug: apartment-marina-new\naddress: "Rruga Haziz Xhyherri Nd.8,H.7,Ap.27, 9405 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44477865\n  lng: 19.49668635\nprice: "US$86"\npriceFrom: 86\nstarRating: 3\nrating: 6.8\nratingWords: "Average"\nnumberOfReviews: 4\nratings:\n  overall: 6.8\n  location: 7.5\n  cleanliness: 6.9\n  facilities: 6.3\n  value: 6.9\n  comfort: 6.9\n  staff: 6.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465460554.jpg?k=d58a802719321ec6e68149fcb168e78b9c2472a17c3bdd6b48936ba389278918&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465460601.jpg?k=2ccac21a81e952ec143cbdcc601e34d683202080f35720596720fa0f725e70fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465460610.jpg?k=c4d826155bdf6228be4756546adcdfeb30716e3c9758ebcb87257b0522281e62&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465460638.jpg?k=2ec331d5e0f92bdec93ce53908921b123e6f3d23f1f979dfeed9e811fcae9fa1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465460624.jpg?k=484e1b3c87cde3902490aebe5d738c5896b9d5b574b7cc4f5185f971b5d6ce88&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465460620.jpg?k=30df4fc9f87f7c095cf703a91450a8ed1786070bb15791c508e4e77452757c43&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465460613.jpg?k=067423dc595ba885523db005e8c45415ca1d7486ddc289a0649f12062e669830&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465460606.jpg?k=1e658c4323fb8fc1e0915bc69cbab4d50b61857e3f7554bae568d85f0777d8c0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465460595.jpg?k=9e5b955aeb0b1c5f3e0fdd2b562f1b89b35138615b5ca309b263db1023d8e0db&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Grill House J&E Restorant 100 m"\n  - "Marinero Pizzeria 150 m"\nnearbyBeaches:\n  - "Vlore Beach 150 m"\n  - "Ri Beach 1 km"\n  - "Vjetër Beach 1.5 km"\n  - "Beach at Government Villas 2.9 km"\n  - "Liro Beach 3.6 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 950 m"\n  - "Kuzum Baba 2.6 km"\n  - "Independence Square 2.9 km"\nbookingURL: "https://www.booking.com/hotel/al/apartment-marina-new.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of modern living, featuring two well-appointed bedrooms, a fully equipped kitchen for those who prefer to dine in, and a bathroom. Comfort is guaranteed with air conditioning throughout, and entertainment needs are met with a flat-screen TV. Guests will appreciate the commitment to a smoke-free environment, ensuring a pleasant stay for all.
 
 Connectivity is never an issue, as free WiFi envelops the property, allowing guests to stay connected with the world or plan their next day's adventures in Vlorë. For international travelers, the Tirana International Mother Teresa Airport is the main gateway, located 152 km from the doorstep of Apartment Marina New, making it a considerate choice for both local and foreign visitors looking for a memorable stay in this vibrant city.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

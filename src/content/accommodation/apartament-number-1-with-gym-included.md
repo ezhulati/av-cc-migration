@@ -1,30 +1,7 @@
----
-title: Apartament number 1 with gym included
-description: Apartament number 1 doesn't just offer a strategic location; it also provides guests with a suite of amenities designed to enhance their stay. The apartment fea
-featuredImage: "/images/accommodation/483511588.jpg"
-language: en
-slug: apartament-number-1-with-gym-included
-location: ""
-amenities: []
-images: []
----
-
-Apartament number 1 doesn't just offer a strategic location; it also provides guests with a suite of amenities designed to enhance their stay. The apartment features air conditioning for those warm Vlorë days, a fully equipped kitchen for home-cooked meals, a cozy seating area for relaxation, and a flat-screen TV for entertainment. The inclusion of both free WiFi and on-site parking at no extra charge adds to the convenience factor, making it an attractive option for modern travelers.
+---\ntitle: "Apartament number 1 with gym included"\ndescription: "Discover the charm of Vlorë with a stay at Apartament number 1, a prime choice for travelers seeking both comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483511623.jpg?k=9d5831e5d80d1df87916d2c56d1041fe67522f78dfe6ea911dac22d63b8d3af6&o=&hp=1"\nlanguage: en\nslug: apartament-number-1-with-gym-included\naddress: "Rruga Gjergj Kastrioti 5 floor, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45587617\n  lng: 19.48247281\nprice: "US$86"\npriceFrom: 86\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483511623.jpg?k=9d5831e5d80d1df87916d2c56d1041fe67522f78dfe6ea911dac22d63b8d3af6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/483511588.jpg?k=a49345192ddfc74c08fd38d1e1ada65e84b32a1614219635476999b32f9b465f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/483511618.jpg?k=768614d3f5ec94eed7600237d4c4c78e738c5064f87fd00898a58886a7faea5f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/483511632.jpg?k=ff97e373dd9bdd8330e29d54963e3ea7221c1b94b048aa02aa6c7c3236a11fa1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/483511634.jpg?k=e0d55b5d669967247bed57185f0f7308da199b778afd39830e28108db15cb865&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/483511635.jpg?k=3de5ae8b343be6358c2b24bc11e07072d4566e8707f5ff825e0821d2022a92f9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/483511637.jpg?k=b414d395e2c995610133470846e94cb71f88588194b6a7e39d7e86f9d39ee03f&o=&hp=1"\namenities:\n  - "Fitness centre"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Gimka 50 m"\n  - "Pasticeri Likaj 100 m"\nnearbyBeaches:\n  - "Vjetër Beach 350 m"\n  - "Vlore Beach 1.3 km"\n  - "Ri Beach 2.5 km"\n  - "Beach at Government Villas 4 km"\n  - "Liro Beach 4.6 km"\nwhatsNearby:\n  - "Kuzum Baba 1.6 km"\n  - "Independence Square 1.8 km"\n  - "Scooby Doo Vlore 2.4 km"\nbookingURL: "https://www.booking.com/hotel/al/vlora-apartment-vlore13.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nApartament number 1 doesn't just offer a strategic location; it also provides guests with a suite of amenities designed to enhance their stay. The apartment features air conditioning for those warm Vlorë days, a fully equipped kitchen for home-cooked meals, a cozy seating area for relaxation, and a flat-screen TV for entertainment. The inclusion of both free WiFi and on-site parking at no extra charge adds to the convenience factor, making it an attractive option for modern travelers.
 
 The property also includes a gym, allowing guests to maintain their fitness routine while away from home. With Ri Beach also within close proximity, guests have the opportunity to enjoy a variety of beach activities or simply soak up the sun.
 
 For those flying in, the nearest airport is Tirana International Mother Teresa Airport, located 150 km from the apartment, making it accessible for international and domestic visitors alike.
 
 Apartament number 1 with gym included stands out as a top accommodation choice in Vlorë, offering guests a blend of convenience, comfort, and access to some of the city's most sought-after attractions. Whether it's for a short stay or a longer retreat, this apartment promises a memorable experience for all who visit.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

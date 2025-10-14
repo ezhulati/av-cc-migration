@@ -1,28 +1,6 @@
----
-title: Home in CITY CENTER
-description: This apartment stands out for its generous space. It boasts two well-appointed bedrooms and a living room with a flat-screen TV for entertainment. The convenie
-featuredImage: "/images/accommodation/364105941.jpg"
-language: en
-slug: home-in-city-center
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Home in CITY CENTER"\ndescription: "Home in the city center, situated in the heart of Përmet, offers a refreshing retreat with its air-conditioned accommodations, terrace, and complimentary WiFi."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364105941.jpg?k=32705763e846352fcb830da5e286f4bc3278c6c7796dc2f6e6cbb24eee3b6c16&o=&hp=1"\nlanguage: en\nslug: home-in-city-center\naddress: "Lagjia Varrosh, near school Meleq Gosnishti, 6401 Përmet, Albania"\ncity: "Përmet"\nlocation: "Përmet"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.23150578\n  lng: 20.35404188\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 5\nratings:\n  overall: 9.4\n  location: 9.5\n  cleanliness: 10\n  facilities: 9\n  value: 9\n  comfort: 9.5\n  staff: 9.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364105941.jpg?k=32705763e846352fcb830da5e286f4bc3278c6c7796dc2f6e6cbb24eee3b6c16&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487240168.jpg?k=0059b17e7b97dc921c80dba38e3c4108a004c32e60c69fa800ce1e436b6ea198&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386977379.jpg?k=5d38d43f6887d7d70a23038f7f848f5808b3710e684dad2dd4ab79bcddee43de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487240580.jpg?k=22074c1d0b233b1a3a2fcdc02c785156144b572be17138c5ab92211465b0050c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386977025.jpg?k=9d4062cd1b4d4ae73c3c3fc95237d64b2521ba5569a34ceebd5305c0a1d05dc9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383862837.jpg?k=7461ddd680a4c96e4f5d34df13136624780de33cd84cd643810635a579d3d5f4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364105975.jpg?k=dc1891cbb67d41de7a94435682071632a58f4f6f699a8dbe19bd96db876db144&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364105957.jpg?k=7418a88fa4eeb70d58bbddf721f2169bda2fcdefe844cd10b3111827c5458535&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386976845.jpg?k=57f47eff96dd9563100de61f1bf26b4dfa32fec80b0a8ccee1669a41713c3435&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Fast free WiFi (74 Mbps)"\nroomTypes:\n  - "Two-Bedroom Apartment"\nreviews:\n  - name: "Renáta"\n    country: "Romania"\n    text: "“A big and well equiped apartament in the city center, 1 minute walk from the stores, restorants and the beautiful river. The owner is kind. We will come back for sure.”"\n  - name: "Isabelle"\n    country: "France"\n    text: "“L'appartement est spacieux et bien situé.
+Notre hôte est très réactif et à nos petits soins.”"\nbookingURL: "https://www.booking.com/hotel/al/a-amp-i-home.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis apartment stands out for its generous space. It boasts two well-appointed bedrooms and a living room with a flat-screen TV for entertainment. 
 
-This apartment stands out for its generous space. It boasts two well-appointed bedrooms and a living room with a flat-screen TV for entertainment.
-
-The convenience extends to a fully equipped kitchen, where guests can prepare their meals, and a bathroom with a bidet and a hair dryer for added comfort.
+The convenience extends to a fully equipped kitchen, where guests can prepare their meals, and a bathroom with a bidet and a hair dryer for added comfort. 
 
 For those looking to explore beyond the local area, Ioannina Airport is conveniently located just 90 km away, making Home in CITY CENTER an ideal base for short and extended stays.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

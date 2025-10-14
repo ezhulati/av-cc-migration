@@ -1,28 +1,5 @@
----
-title: BluePoint Hotel
-description: Each room in BluePoint Hotel is thoughtfully designed with a seating area and a flat-screen TV, ensuring a relaxing stay. Guests can enjoy the luxury of a priva
-featuredImage: "/images/accommodation/219250021.jpg"
-language: en
-slug: bluepoint-hotel
-location: ""
-amenities: []
-images: []
----
-
-Each room in BluePoint Hotel is thoughtfully designed with a seating area and a flat-screen TV, ensuring a relaxing stay. Guests can enjoy the luxury of a private bathroom equipped with a shower and hairdryer, while taking in the breathtaking mountain views that each room offers. For added comfort, every room is equipped with air conditioning and a desk, catering to both leisure and business travelers.
+---\ntitle: "BluePoint Hotel"\ndescription: "BluePoint Hotel, located in the serene town of Tepelenë, offers guests a tranquil retreat with its lush garden and inviting bar."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219250021.jpg?k=1118431aab3f422c86ecdfbb035142eec5b05933d6e6fa104a5cc0293e6d355a&o=&hp=1"\nlanguage: en\nslug: bluepoint-hotel\naddress: "kombretare Tepelen-Memalia, 6301 Tepelenë, Albania"\ncity: "Tepelenë"\nlocation: "Tepelenë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.30300449\n  lng: 20.01930426\nprice: "US$33"\npriceFrom: 33\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 32\nratings:\n  overall: 8.9\n  location: 7.9\n  cleanliness: 9.4\n  facilities: 8.7\n  value: 9.3\n  comfort: 9.2\n  staff: 8.9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219250021.jpg?k=1118431aab3f422c86ecdfbb035142eec5b05933d6e6fa104a5cc0293e6d355a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219250225.jpg?k=f4d10198d2db905b66fd729f260c7a02eafb4a96c4427f8dd7c7604f0c2884d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219250259.jpg?k=7a2889c58cd0dff146b14f0fca3f0adcdb3707a37827d16cafe50a7c35cb4436&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219250172.jpg?k=3462061af60ce6e6ded9cdd5585c6be605b8d23e6c446d184bde1dc65a176a7b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219250133.jpg?k=6e597047a3bd03e60ecd6ab6f5513518467e3c2816d8a2bc07c3ed87f3d30cc0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219250153.jpg?k=0a710c581a7226549e394ca71b547c903c50750789d14d2ae36d8bdab71a08dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219250183.jpg?k=2eeb1712b44431ad29107ccc0de7db99390d9ec75d1db6f3b7506b00724b3fdd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219250121.jpg?k=fac8a3d2442b1402a683f4ad8a350e913dc4b403db607d85595909168fc72e07&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219250115.jpg?k=b2c966ec33104193a03d5d1fd33f48d5776bd29a07be3626c45ebe34d7d0ab89&o=&hp=1"\namenities:\n  - "Room service"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Double Room"\n  - "Twin Room"\nnearbyRestaurants:\n  - "Kompleksi Veal 40 m"\n  - "Fast Foods Belioni 800 m"\nairports:\n  - "Corfu International Airport 77 km"\n  - "Ioannina Airport 95 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Laurynas"\n    country: "Lithuania"\n    text: "“magnificient views of the mountains both from our hotel room and when we step outside of the hotel”"\n  - name: "Eva"\n    country: "Belgium"\n    text: "“Very clean and quiet location. Spacious, good bathroom and friendly staff”"\n  - name: "Céline"\n    country: "France"\n    text: "“Reception cleanliness at the top😊The mountain view😊Near the city center The on-site bar open until 00h”"\nbookingURL: "https://www.booking.com/hotel/al/bluepoint-tepelene.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach room in BluePoint Hotel is thoughtfully designed with a seating area and a flat-screen TV, ensuring a relaxing stay. Guests can enjoy the luxury of a private bathroom equipped with a shower and hairdryer, while taking in the breathtaking mountain views that each room offers. For added comfort, every room is equipped with air conditioning and a desk, catering to both leisure and business travelers.
 
 The bilingual staff at BluePoint Hotel, fluent in both Greek and English, are always on hand at the reception to offer valuable insights and tips about the local area, enhancing guests' experiences during their stay.
 
 For those traveling to or from Ioannina, the hotel is conveniently located just 112 km from Ioannina Airport, making it an accessible choice for international and domestic travelers alike.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

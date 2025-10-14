@@ -1,28 +1,9 @@
----
-title: Albjona Guesthouse 1
-description: The guesthouse prides itself on providing accommodations that cater to families, featuring rooms with stunning views of the surrounding mountains and lush garde
-featuredImage: "/images/accommodation/477325255.jpg"
-language: en
-slug: albjona-guesthouse-1
-location: ""
-amenities: []
-images: []
----
-
-The guesthouse prides itself on providing accommodations that cater to families, featuring rooms with stunning views of the surrounding mountains and lush gardens. The presence of a garden and city vistas from the property adds a tranquil backdrop to an already serene stay. For those who value connectivity, complimentary WiFi is available throughout the premises, ensuring guests stay connected with the world or plan their next day's adventures in Tirana.
+---\ntitle: "Albjona Guesthouse 1"\ndescription: "Albjona Guesthouse 1 emerges as a charming choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477325255.jpg?k=6b037d4693ecd29accc760cf3a8e7b5fe8789f9838b75d607154aa15c2dbd3d3&o=&hp=1"\nlanguage: en\nslug: albjona-guesthouse-1\naddress: "Rruga Kusuri Apartment 34, floor 8 , building 4, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 41.33422867\n  lng: 19.81429153\nprice: "US$27"\npriceFrom: 27\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 119\nratings:\n  overall: 9\n  location: 8.7\n  cleanliness: 9\n  facilities: 8.5\n  value: 8.7\n  comfort: 8.8\n  staff: 9.1\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477325255.jpg?k=6b037d4693ecd29accc760cf3a8e7b5fe8789f9838b75d607154aa15c2dbd3d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507323359.jpg?k=3d386e0b2060d7eadfb3e010a7e0010d6c81945804eecc0e0e7c60909268a2d7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501428737.jpg?k=4fb69030a476dfbd337aaf69c3f9574b2d272dfc9c9d5a0093dc06f75e0ef78f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497882561.jpg?k=c38ef08caa7afa6915196581912a99818eb70627dec12177cf88844d2820615d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477325244.jpg?k=09f52343c1cbb8b9db0e993b599e69394f632ea811e6a2b93e372d8628fa15df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477325342.jpg?k=531f7606195198ca91b064d3972865fdf7d685843b776914a0608cec70597a90&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Good free WiFi (43 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "Budget Single Room"\n  - "Deluxe Double Room with Balcony"\n  - "Double Room"\n  - "Deluxe Double Room with Balcony"\n  - "Deluxe Quadruple Room"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 1 km"\n  - "Rinia Park 1.1 km"\n  - "Tanners' Bridge 1.3 km"\n  - "Former Residence of Enver Hoxha 1.5 km"\n  - "Grand Park of Tirana 2.6 km"\n  - "Bunk'Art 1 Museum 4.3 km"\nnearbyRestaurants:\n  - "Boleros 40 m"\n  - "Bon Appetit 100 m"\nwhatsNearby:\n  - "Amazing Nature 400 m"\n  - "Sheshi Paris 550 m"\n  - "Sheshi Rekreativ Mine Peza 550 m"\n  - "National Museum of History Albania 600 m"\n  - "Sheshi Skënderbej 700 m"\n  - "Sheshi Rekreativ Don Bosko 700 m"\n  - "Skanderbeg Square 850 m"\n  - "Clock Tower Tirana 850 m"\n  - "Parku Europa 850 m"\n  - "House of Leaves 850 m"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Kaan"\n    country: "Turkey"\n    text: "“spectacular view
+hard worker host
+When you are a hard-working host who aims at customer satisfaction, a good accommodation experience is inevitable. A strong woman who knows her responsibilities, it was nice to be her guest. enjoy the view”"\n  - name: "Alessandro"\n    country: "Italy"\n    text: "“The host is really nice and available for everything you need. The position is really good and near to the city center, 15 min walking to the main square. The room was clean, and services too.
+And the host speaks Italian too,
+Greetings and thanks!”"\n  - name: "Yoann"\n    country: "France"\n    text: "“Everything. The family was very nice and great. They offered me also coffee in the morning. The bedroom is very comfortable. If I come back to Tirana I will manage to book again here without doubts. I recommend really this place.”"\nbookingURL: "https://www.booking.com/hotel/al/albjona-guesthouse-1.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nThe guesthouse prides itself on providing accommodations that cater to families, featuring rooms with stunning views of the surrounding mountains and lush gardens. The presence of a garden and city vistas from the property adds a tranquil backdrop to an already serene stay. For those who value connectivity, complimentary WiFi is available throughout the premises, ensuring guests stay connected with the world or plan their next day's adventures in Tirana.
 
 Accommodations at Albjona Guesthouse 1 are thoughtfully designed with guest comfort in mind, offering shared bathroom facilities and, in select rooms, the luxury of a private terrace. The option of soundproof rooms underscores the guesthouse's commitment to ensuring a restful night's sleep, free from the hustle and bustle of the city outside.
 
 Strategically located, the guesthouse is a stone's throw away from several of Tirana's must-visit landmarks, including the National Museum of History Albania, the National Theatre of Opera and Ballet of Albania, and the House of Leaves. For guests arriving by air, the convenience of being just 13 km from Tirana International Mother Teresa Airport makes Albjona Guesthouse 1 an excellent choice for both short visits and extended stays in Albania's vibrant capital.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

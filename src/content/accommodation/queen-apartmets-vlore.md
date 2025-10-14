@@ -1,28 +1,8 @@
----
-title: Queen Apartmets Vlore
-description: Adding to the convenience, guests have access to free WiFi and complimentary private parking, making it an effortless choice for those traveling by car. The inc
-featuredImage: "/images/accommodation/474386658.jpg"
-language: en
-slug: queen-apartmets-vlore
-location: ""
-amenities: []
-images: []
----
-
-Adding to the convenience, guests have access to free WiFi and complimentary private parking, making it an effortless choice for those traveling by car. The inclusion of a terrace invites guests to unwind and soak in the picturesque surroundings, providing a perfect blend of relaxation and leisure.
+---\ntitle: "Queen Apartmets Vlore"\ndescription: "Queen Apartments Vlore emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474386658.jpg?k=00e08ef64304c3eeb90f7770d8854d7c6a97fda9e7cc30c1c9f97e00c5f3eed4&o=&hp=1"\nlanguage: en\nslug: queen-apartmets-vlore\naddress: "Rruga Mis Durhan, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.46296573\n  lng: 19.47784309\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 21\nratings:\n  overall: 9.7\n  location: 8.9\n  cleanliness: 9.9\n  facilities: 9.6\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474386658.jpg?k=00e08ef64304c3eeb90f7770d8854d7c6a97fda9e7cc30c1c9f97e00c5f3eed4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484908190.jpg?k=1d5ec37d0d2cf38842a20d3abd47ac6a6ebf2ec4cea34a991dd386274cf7e898&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487078268.jpg?k=cfd98226aac05725a5b5880fd58e45c536d79a7d79f2fb5eefba272cd74dcb55&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484908144.jpg?k=a93f06b025ed23af89b552a1a1e9962734626aa3849b8bd23e96be9fca476e74&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484908060.jpg?k=08eb3d3fc885247e2aee7a06179fb3e1a64b6c0ae81c73dc496e7c7d079c40ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484908227.jpg?k=d251a75791ec7975201381a7f9ba67742e9f79cc385f21a7df9c3951eed2b57b&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Deluxe Double Room"\n  - "Deluxe Double or Twin Room"\n  - "Standard Triple Room"\n  - "Deluxe Apartment"\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Panorame Shijesh 250 m"\n  - "Kei 300 m"\nnearbyBeaches:\n  - "Vjetër Beach 950 m"\n  - "Vlore Beach 2.1 km"\n  - "Ri Beach 3.3 km"\n  - "Narta Beach 4.5 km"\n  - "Beach at Government Villas 4.8 km"\nwhatsNearby:\n  - "Independence Square 1.4 km"\n  - "Kuzum Baba 1.4 km"\n  - "Scooby Doo Vlore 3.3 km"\nreviews:\n  - name: "Jan"\n    country: "Czech Republic"\n    text: "“Very spacious and modern apartment with a nice view.
+15 minutes from center by walk.
+We had everything we needed and were absolutely satisfied.
+10/10”"\n  - name: "Ineta"\n    country: "United Kingdom"\n    text: "“It’s was exactly same as a pictures perfect brand new very very nice and clean”"\n  - name: "Stojan"\n    country: "North Macedonia"\n    text: "“The apartment was very clean and big and comfortable. The landlord was very kind.”"\nbookingURL: "https://www.booking.com/hotel/al/queen-apartmets-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nAdding to the convenience, guests have access to free WiFi and complimentary private parking, making it an effortless choice for those traveling by car. The inclusion of a terrace invites guests to unwind and soak in the picturesque surroundings, providing a perfect blend of relaxation and leisure.
 
 For refreshments, the on-site bar serves as a cozy spot to enjoy a drink or two. The strategic location of Queen Apartments Vlore places guests within easy reach of notable landmarks, with Independence Square just 1.8 km away and the historic Kuzum Baba at a distance of 2.6 km. For international travelers, the Tirana International Mother Teresa Airport is located 150 km away, making it a manageable journey to this charming retreat.
 
 Queen Apartments Vlore stands as a testament to thoughtful accommodation that caters to both the needs and comforts of its guests, making it an excellent choice for those exploring the vibrant city of Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: HB Apartments Vlore
-description: The apartments themselves are a testament to thoughtful design and comfort. Each unit is equipped with air conditioning, creating a cool retreat from the warm M
-featuredImage: "/images/accommodation/512944221.jpg"
-language: en
-slug: hb-apartments-vlore
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "HB Apartments Vlore"\ndescription: "HB Apartments Vlore emerges as a modern oasis in the heart of Vlorë, a stone's throw away from the serene Vjetër Beach, the historic Independence Square, and the iconic Kuzum Baba."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512944221.jpg?k=37324cb4f3989a313bec01c888d1e1a4bb9efc70a9ea8107b92f6f1cea8b2d7c&o=&hp=1"\nlanguage: en\nslug: hb-apartments-vlore\naddress: "Rr.Hasan Kushta, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.46100586\n  lng: 19.48569725\nprice: "US$47"\npriceFrom: 47\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 9.6\n  location: 10\n  cleanliness: 7.5\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512944221.jpg?k=37324cb4f3989a313bec01c888d1e1a4bb9efc70a9ea8107b92f6f1cea8b2d7c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520892364.jpg?k=e95f0fcc695b3e6c69c3188f4952c805fdcc6075c8e778a2936eacd7b5ddb656&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519251279.jpg?k=b776cbbdfbf700d0e2eb204c6df8bf6904200fcaaae31560c18dd947ea8b864b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520890934.jpg?k=38e1b6b23887da71e6371989f75459aec6e7ee7c1dcbaf03aa43e817614b5d3e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519261669.jpg?k=5597fedc0089df8f2411f06d4f28cff33d80ffd32cad722545f4ac1e03b76171&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520892403.jpg?k=562ce40d503fcd7bb0f55949d92699b4626db63d6941f78e334c5b6d0738500f&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Apartment with Balcony"\nnearbyRestaurants:\n  - "Albano & Romina 150 m"\n  - "Restorant Andoni 200 m"\nnearbyBeaches:\n  - "Vjetër Beach 1,000 m"\n  - "Vlore Beach 1.6 km"\n  - "Ri Beach 2.9 km"\n  - "Beach at Government Villas 4.5 km"\n  - "Liro Beach 5 km"\nwhatsNearby:\n  - "Kuzum Baba 1,000 m"\n  - "Independence Square 1.2 km"\n  - "Scooby Doo Vlore 2.9 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nbookingURL: "https://www.booking.com/hotel/al/hb-apartments-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartments themselves are a testament to thoughtful design and comfort. Each unit is equipped with air conditioning, creating a cool retreat from the warm Mediterranean climate. Guests can relax in the spacious seating area, catching up on their favorite shows via the flat-screen TV equipped with streaming services. The inclusion of a fully outfitted kitchen and dining area allows for intimate meals in the privacy of one's accommodation, while the private bathroom comes stocked with complimentary toiletries, featuring a bidet and a refreshing shower. The promise of privacy and exclusivity is fulfilled with private entrances to all units, complemented by the provision of crisp bed linen and soft towels.
 
-The apartments themselves are a testament to thoughtful design and comfort. Each unit is equipped with air conditioning, creating a cool retreat from the warm Mediterranean climate. Guests can relax in the spacious seating area, catching up on their favorite shows via the flat-screen TV equipped with streaming services. The inclusion of a fully outfitted kitchen and dining area allows for intimate meals in the privacy of one's accommodation, while the private bathroom comes stocked with complimentary toiletries, featuring a bidet and a refreshing shower. The promise of privacy and exclusivity is fulfilled with private entrances to all units, complemented by the provision of crisp bed linen and soft towels.
-
-For those looking to cater to their everyday needs without venturing far, the apartment complex houses a convenient minimarket. Additionally, the availability of a car rental service on premises encourages exploration of Vlorë's picturesque surroundings and beyond.
+For those looking to cater to their everyday needs without venturing far, the apartment complex houses a convenient minimarket. Additionally, the availability of a car rental service on premises encourages exploration of Vlorë’s picturesque surroundings and beyond.
 
 Located merely 2 km from the inviting Vlore Beach and within a manageable distance of 149 km from Tirana International Mother Teresa Airport, HB Apartments Vlore stands as an ideal base for both leisure and adventure in this vibrant coastal city.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

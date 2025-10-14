@@ -1,28 +1,5 @@
----
-title: Cozy Apartment, in the center of Tirana
-description: Situated just a short 500-meter stroll from the iconic Skanderbeg Square, Cozy Apartment positions guests perfectly to explore the rich tapestry of Tirana's cul
-featuredImage: "/images/accommodation/524255648.jpg"
-language: en
-slug: cozy-apartment-in-the-center-of-tirana
-location: ""
-amenities: []
-images: []
----
-
-Situated just a short 500-meter stroll from the iconic Skanderbeg Square, Cozy Apartment positions guests perfectly to explore the rich tapestry of Tirana's cultural landmarks. The apartment itself features a harmonious blend of comfort and functionality, with a well-appointed bedroom, a fully equipped kitchen for those who love to prepare their own meals, and a modern bathroom. Entertainment needs are also met with the inclusion of a flat-screen TV, ensuring that guests have all the comforts of home at their fingertips.
+---\ntitle: "Cozy Apartment, in the center of Tirana"\ndescription: "Cozy Apartment, located in the vibrant heart of Tirana, offers guests a serene retreat with the convenience of city living."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524255648.jpg?k=d731bb0433ea83641879d9b67e513f249d79a306752cd0e57c57cc7cd595ad19&o=&hp=1"\nlanguage: en\nslug: cozy-apartment-in-the-center-of-tirana\naddress: "Rruga e Kavajës, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32815651\n  lng: 19.81561712\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524255648.jpg?k=d731bb0433ea83641879d9b67e513f249d79a306752cd0e57c57cc7cd595ad19&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/524255704.jpg?k=45b8d723283add043a4f3e3324f93cc7bbba79aa67f20caec986759df48db447&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/524255717.jpg?k=2b6f6441358708b09654accf324fa4d4f6569e6ee589c4073eb4fd18f9d2c2fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/524255729.jpg?k=84b77744eb1bd5daa73f8b0d07c1cbe10bd4502aae2f8e676fa38fb315f4539a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/524255741.jpg?k=6e9af2323926500a0f764a446622af7f716821cc6d5e8a64098146097c86e569&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/524255756.jpg?k=b1f79ef92b960d47396bd95d288d5f4367ef997705a79ea19739cf5535801402&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/524255764.jpg?k=b297ec41c8fc30157fc9247daf64101dcb6ab8c143fb9c1f802b32f9af08c64a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/landmark/square150/239906.webp?k=76b9b642c213c0999b8848bc297363f85f2d2b97e61a03a25ed5e03f5d90803a&o="\namenities:\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Former Residence of Enver Hoxha 800 m"\n  - "Tanners' Bridge 900 m"\n  - "Grand Park of Tirana 2 km"\n  - "Bunk'Art 1 Museum 4.5 km"\nnearbyRestaurants:\n  - "Sufllaqe Speciale 40 m"\n  - "Chicos 50 m"\nwhatsNearby:\n  - "Sheshi Paris 150 m"\n  - "House of Leaves 200 m"\n  - "Sheshi Skënderbej 200 m"\n  - "National Museum of History Albania 200 m"\n  - "Skanderbeg Square 300 m"\n  - "Parku Europa 300 m"\n  - "Clock Tower Tirana 350 m"\n  - "Parku Rinia 450 m"\n  - "Rinia Park 450 m"\n  - "National Gallery of Arts Tirana 500 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/cozy-apartment-in-the-center-of-tirana-tirane1.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nSituated just a short 500-meter stroll from the iconic Skanderbeg Square, Cozy Apartment positions guests perfectly to explore the rich tapestry of Tirana's cultural landmarks. The apartment itself features a harmonious blend of comfort and functionality, with a well-appointed bedroom, a fully equipped kitchen for those who love to prepare their own meals, and a modern bathroom. Entertainment needs are also met with the inclusion of a flat-screen TV, ensuring that guests have all the comforts of home at their fingertips.
 
 For those keen to delve into the local history and culture, the apartment is conveniently located near several key attractions. The Former Residence of Enver Hoxha, House of Leaves, and Rinia Park are all within easy reach, inviting guests to immerse themselves in the city's intriguing past and vibrant present.
 
 Travelers looking for a seamless journey will appreciate the proximity to Tirana International Mother Teresa Airport, located just 15 km away, making Cozy Apartment an ideal choice for both short visits and extended stays in the heart of Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

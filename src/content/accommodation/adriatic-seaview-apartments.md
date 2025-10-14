@@ -1,28 +1,5 @@
----
-title: ADRIATIC Seaview Apartments
-description: Each apartment is a haven of modern amenities, boasting air-conditioned spaces that promise a respite from the Mediterranean heat. The inclusion of a fully equi
-featuredImage: "/images/accommodation/477601783.jpg"
-language: en
-slug: adriatic-seaview-apartments
-location: ""
-amenities: []
-images: []
----
-
-Each apartment is a haven of modern amenities, boasting air-conditioned spaces that promise a respite from the Mediterranean heat. The inclusion of a fully equipped kitchen and a balcony in every unit allows guests the luxury of enjoying home-cooked meals with a view. For added convenience, free WiFi, a washing machine, and a flat-screen TV are standard in all accommodations, ensuring a stay that is as comfortable as it is enjoyable.
+---\ntitle: "ADRIATIC Seaview Apartments"\ndescription: "ADRIATIC Seaview Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477601783.jpg?k=20f7850e3c84d4b44813969861d298b57967dfa2b9e75aa6035e66d073a6f63a&o=&hp=1"\nlanguage: en\nslug: adriatic-seaview-apartments\naddress: "41.284871,19.511700, 1008 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.28504003\n  lng: 19.51123523\nprice: "US$70"\npriceFrom: 70\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477601783.jpg?k=20f7850e3c84d4b44813969861d298b57967dfa2b9e75aa6035e66d073a6f63a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477601849.jpg?k=034d0ee3e8584202c06f39fb79349f435b5d4a2cb77b380871b214b6c3e20921&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477601827.jpg?k=a149a6d45695f22483e74eacd7c76aefd5288740646de8d605560574cf41333c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477601805.jpg?k=c57d3fcefa377349636e8e7a329fff99ee5ad6508534a8949f6d272970c65f1f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477601811.jpg?k=b59bdc2fe4d1c775f69818e9942aa1849ef0c0797da639b54e68771ab235aa52&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477601820.jpg?k=3b594df8e8985c315608949ca566a5e18bb512e93f723988c505e93a58ba509e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Restorant 4 Stinet Plazh 30 m"\n  - "Majestic 100 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 100 m"\n  - "Durres Beach 200 m"\n  - "Golem Beach 2.3 km"\n  - "Mali I Robit Beach 4.2 km"\n  - "Currila Beach 6 km"\nwhatsNearby:\n  - "Bekimi 6 km"\n  - "Wine Dhe Pooh 6 km"\n  - "Durres Amphiteatre 6 km"\n  - "Yje Dhe Hena 6 km"\n  - "Sheshi Demokracia 6 km"\n  - "1. Maj 7 km"\n  - "Sotir Noka 7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\nbookingURL: "https://www.booking.com/hotel/al/adriatic-seaview-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach apartment is a haven of modern amenities, boasting air-conditioned spaces that promise a respite from the Mediterranean heat. The inclusion of a fully equipped kitchen and a balcony in every unit allows guests the luxury of enjoying home-cooked meals with a view. For added convenience, free WiFi, a washing machine, and a flat-screen TV are standard in all accommodations, ensuring a stay that is as comfortable as it is enjoyable.
 
 Situated 41 km from the vibrant Skanderbeg Square and 45 km from the Dajti Ekspres Cable Car, ADRIATIC Seaview Apartments offers an excellent base for those wishing to venture further afield. Moreover, with Tirana International Mother Teresa Airport only 36 km away, guests will find their travel to and from the property a breeze.
 
 ADRIATIC Seaview Apartments stands out as a top-tier choice for those desiring a memorable stay in Durrës, combining the ease of access to beautiful beaches and cultural sites with the comforts of modern living.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

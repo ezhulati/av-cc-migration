@@ -5,11 +5,14 @@ region: Central Albania
 featuredImage: /images/destinations/berat.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: berat
 highlights: []
+seo:
+  metaDescription: "Discover the historical charm of Berat with our curated collection of products. Find unique items that reflect the rich heritage of this city."
 ---
 
 Why Visit Berat
@@ -130,10 +133,3 @@ Bring good shoes. Learn “faleminderit.” Look for the NEVER on the mountain. 
 
 And maybe you’ll understand why some places refuse to disappear.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

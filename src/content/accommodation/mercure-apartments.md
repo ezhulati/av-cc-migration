@@ -1,32 +1,9 @@
----
-title: Mercure Apartments
-description: Each apartment at Mercure boasts a private entrance, ensuring an exclusive and uninterrupted stay. The interiors are thoughtfully designed, featuring air-condit
-featuredImage: "/images/accommodation/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
-language: en
-slug: mercure-apartments
-location: ""
-amenities: []
-images: []
----
-
-Each apartment at Mercure boasts a private entrance, ensuring an exclusive and uninterrupted stay. The interiors are thoughtfully designed, featuring air-conditioned rooms that promise a cool retreat from the bustling city. Guests are treated to the luxury of free private parking and complimentary WiFi, making connectivity and convenience a priority.
+---\ntitle: "Mercure Apartments"\ndescription: "Mercure Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by striking city views."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"\nlanguage: en\nslug: mercure-apartments\naddress: "Rruga Toefik Skilja, 0001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3010327\n  lng: 19.5017932\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.3\nratingWords: "Very Good"\nnumberOfReviews: 130\nratings:\n  overall: 8.3\n  location: 8.1\n  cleanliness: 8.1\n  facilities: 7.4\n  value: 8.5\n  comfort: 7.8\n  staff: 8.8\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"\n  - "https://cf.bstatic.com/static/img/flags/12/ca/44157619caa82aee92015fb9acc117bc55e303d9.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"\n  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-l/c9a51000ce90cbf81dcc81b847f9bccc3330d3a4.png"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"\n  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"\n  - "https://cf.bstatic.com/static/img/flags/12/es/0bcb9025339e650f3fbbcfb64ac38edd46efe4f6.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-x/8c8621a1f1257f11662c74da47986e0bf59d2175.png"\n  - "https://cf.bstatic.com/static/img/flags/12/ba/1346a9a31183bd81c10f302541394fc415271bef.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fast free WiFi (264 Mbps)"\n  - "Family rooms"\nnearbyBeaches:\n  - "Durres Beach 400 m"\n  - "Shkëmbi i Kavajës Beach 1.8 km"\n  - "Golem Beach 4.2 km"\n  - "Currila Beach 4.6 km"\n  - "Mali I Robit Beach 6 km"\nreviews:\n  - name: "Arpad"\n    country: "Canada"\n    text: "“Quiet, large, clean apartment. Very friendly owner , speaks English, highly recommended”"\n  - name: "Melanie"\n    country: "United Kingdom"\n    text: "“Very big spacious property , very clean , good kitchen facilities”"\n  - name: "Artemisa"\n    country: "Albania"\n    text: "“My family of four stayed at Mercure Apartments. Close to the beach and the owner Rita was very caring! Thank you.”"\nbookingURL: "https://www.booking.com/hotel/al/mercure-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach apartment at Mercure boasts a private entrance, ensuring an exclusive and uninterrupted stay. The interiors are thoughtfully designed, featuring air-conditioned rooms that promise a cool retreat from the bustling city. Guests are treated to the luxury of free private parking and complimentary WiFi, making connectivity and convenience a priority.
 
 The accommodations are well-appointed, with each unit housing a terrace that opens up to refreshing garden views. The fully equipped kitchen, complete with a fridge and stovetop, invites guests to prepare their meals just the way they like. The presence of a private bathroom with a bidet, alongside a seating and dining area in all units, adds to the comfort and functionality of the space. For those who like to keep their belongings organized, the inclusion of a wardrobe is a thoughtful touch.
 
-The property doesn't just stop at providing excellent living spaces; it extends its hospitality outdoors with a garden where guests can unwind and soak in the tranquility.
+The property doesn't just stop at providing excellent living spaces; it extends its hospitality outdoors with a garden where guests can unwind and soak in the tranquility. 
 
 For beach enthusiasts, Shkëmbi i Kavajës Beach is located just 2.4 km away, offering another picturesque locale for relaxation and leisure. The historic Skanderbeg Square is a bit farther at 39 km, presenting an opportunity for a day trip to explore the cultural heart of the region. For those traveling by air, the convenience is further amplified by the proximity to Tirana International Mother Teresa Airport, situated 34 km away, with the apartments facilitating travel arrangements through their paid airport shuttle service.
 
 Mercure Apartments stands as a testament to thoughtful hospitality, where every detail is curated to ensure guests enjoy a memorable stay, whether they're in town for leisure or business.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

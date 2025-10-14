@@ -1,26 +1,8 @@
----
-title: Klajdi Apartaments
-description: Each apartment is thoughtfully equipped with air conditioning, ensuring a comfortable environment regardless of the weather outside. Entertainment and relaxatio
-featuredImage: "/images/accommodation/366488822.jpg"
-language: en
-slug: klajdi-apartaments
-location: ""
-amenities: []
-images: []
----
-
-Each apartment is thoughtfully equipped with air conditioning, ensuring a comfortable environment regardless of the weather outside. Entertainment and relaxation are catered for with flat-screen TVs, while the inclusion of fridges in every unit adds a touch of home, allowing guests to keep snacks and beverages cool. For those who prefer to prepare their own meals, select apartments feature fully-equipped kitchens, complete with ovens, providing an ideal option for longer stays or those with specific dietary needs.
+---\ntitle: "Klajdi Apartaments"\ndescription: "Klajdi Apartments in Sarandë stands out as a prime choice for travelers seeking comfortable accommodations with the convenience of modern amenities."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366488822.jpg?k=018556c3a423f48d5c9c54e6ab4f309aa0e50526d09c949105b0c14087dd8afa&o=&hp=1"\nlanguage: en\nslug: klajdi-apartaments\naddress: "Rruga Butrinti,9702 Sarande,Albania, 2016 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.8667806\n  lng: 20.016768\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.6\nratingWords: "Very Good"\nnumberOfReviews: 14\nratings:\n  overall: 8.6\n  location: 8.4\n  cleanliness: 8.8\n  facilities: 8.4\n  value: 8.6\n  comfort: 8.6\n  staff: 8.6\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366488822.jpg?k=018556c3a423f48d5c9c54e6ab4f309aa0e50526d09c949105b0c14087dd8afa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/241878052.jpg?k=ff2a18497658f3f122bc5ccb08267a8ec1604445c1c5557685b81460fbb6c27f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365224202.jpg?k=6285651b300924d5c32d7e987716e51ccb9e5c24fddf3c041e4a40f9204ea759&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366488818.jpg?k=facfbd2dada3bc1ad89f18faa0719a7a5b4c1ac60ca336a8632107a898e9fca0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366488802.jpg?k=c8c6ef39f1eac8e4eba15d4bf3ebcfdbd531cb12bcd33f02fbf004c33f40785c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365220963.jpg?k=6a9ecaed7ef82e10ba992fdc38d93facabb2418d84259765620dfcc0e7722f3c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289407354.jpg?k=8be2cf06974ac669912016bb14c4c34de2539895c03232a22b395f8dd8473097&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366488841.jpg?k=fb847e954b8525b5b051cf1b75cd6a78a1e4c235125e72d95b74b358cd61e816&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145118076.jpg?k=eb2bd476340e877aab0e5d4c16b5b9fa2f1c383ee149cbfc5f42940efe972844&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Terrace"\nnearbyRestaurants:\n  - "Fast Food Mario 10 m"\n  - "Tanis Resturant 100 m"\nnearbyBeaches:\n  - "Maestral Beach 50 m"\n  - "La Petite Beach 250 m"\n  - "Saranda City Beach 600 m"\n  - "VIP Beach 900 m"\n  - "Santa Quaranta Beach 950 m"\nwhatsNearby:\n  - "Parc National de Butrint 1.1 km"\n  - "Butrint National Park 2 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Jana"\n    country: "Czech Republic"\n    text: "“Výborný výhled na moře. Vybavení pokojů zcela vyhovující, pohodlné matrace, i pro mě s bolavými zády. Fungující klimatizace, pračka, žehlička, kompletní vybavení kuchyně, snad jen chyběly trochu příbory a ostré nože. Ale není co vytknou, vřele...”"\n  - name: "Gutium"\n    country: "Moldova"\n    text: "“Большая чистая уютная квартира,
+Удобные кровати, чистое белье, шикарный вид на море и город.
+Недалеко секретный пляж и небольшой залив и очень красивый пляж.”"\n  - name: "Andrei"\n    country: "Moldova"\n    text: "“Locatia este centrala
+Apartamentele - placut aranjate
+Gazdele sunt foarte primitoare.
+aproape restarant bun de peste”"\nbookingURL: "https://www.booking.com/hotel/al/klajdi-apartaments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach apartment is thoughtfully equipped with air conditioning, ensuring a comfortable environment regardless of the weather outside. Entertainment and relaxation are catered for with flat-screen TVs, while the inclusion of fridges in every unit adds a touch of home, allowing guests to keep snacks and beverages cool. For those who prefer to prepare their own meals, select apartments feature fully-equipped kitchens, complete with ovens, providing an ideal option for longer stays or those with specific dietary needs.
 
 Located a mere 37 km from Corfu Airport, Klajdi Apartments offers a seamless connection for international travelers. Additionally, the convenience of complimentary public parking nearby is a boon for guests arriving by car, making it an effortless choice for those exploring Sarandë and its surroundings.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

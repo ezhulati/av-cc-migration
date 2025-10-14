@@ -1,28 +1,5 @@
----
-title: Hotel Bicaj
-description: Each room at Hotel Bicaj is thoughtfully equipped with air conditioning, ensuring a restful environment. Guests will appreciate the added convenience of free Wi
-featuredImage: "/images/accommodation/160685828.jpg"
-language: en
-slug: hotel-bicaj
-location: ""
-amenities: []
-images: []
----
-
-Each room at Hotel Bicaj is thoughtfully equipped with air conditioning, ensuring a restful environment. Guests will appreciate the added convenience of free WiFi and private bathrooms, complemented by a flat-screen TV and complimentary toiletries for a touch of home comfort. For those needing to stay productive or in touch, room service, a 24-hour front desk, and currency exchange services are readily available.
+---\ntitle: "Hotel Bicaj"\ndescription: "Hotel Bicaj stands out as a prime choice for travelers seeking comfort and convenience in Shkodër, located just 49 km from the Port of Bar."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/160685828.jpg?k=a00166fe4ad48304e6a1b90948e3facd857e918a362a0057a6c6313fde0aa181&o=&hp=1"\nlanguage: en\nslug: hotel-bicaj\naddress: "Rruga Besnik Ceka, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.0589331\n  lng: 19.52329248\nprice: "US$33"\npriceFrom: 33\nstarRating: 3\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 752\nratings:\n  overall: 8.4\n  location: 7.7\n  cleanliness: 8.5\n  facilities: 7.9\n  value: 8.8\n  comfort: 8.3\n  staff: 9.2\n  wifi: 8.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/160685828.jpg?k=a00166fe4ad48304e6a1b90948e3facd857e918a362a0057a6c6313fde0aa181&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/255634545.jpg?k=9376c499edd30096ffb8bc35eeecbb677c20ee2b5dcb982d0ee06f495f8ec542&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/157274218.jpg?k=701442ad584fb161283ef6a72ea55e6ce2037f20fb576dfd4a5f0e544d05c7f8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/70533058.jpg?k=b2cab05ea3a4fcff5bda1d127e7724ca2c9724054cc91b17d6efbd10370107a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/255634138.jpg?k=c10c6aec871b7fba99593e07648f3eee1f89d0c000a81b131fc1ef0470a6e692&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/70532954.jpg?k=a4d10b5463c7028521b0aa96f9bd835cec50110568129e761ccd8ff8b2e307ff&o=&hp=1"\namenities:\n  - "Airport shuttle (free)"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Facilities for disabled guests"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Fabulous breakfast"\nroomTypes:\n  - "Single Room"\n  - "Double or Twin Room"\n  - "Standard Suite"\n  - "Triple Room"\n  - "Quadruple Room"\nnearbyRestaurants:\n  - "Hotel Bicaj 0 m"\n  - "Leo 300 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 2.8 km"\n  - "National Park Skadar Lake 11 km"\nairports:\n  - "Podgorica Airport 39 km"\n  - "Tirana International Airport Mother Teresa 72 km"\n  - "Tivat Airport 75 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Guadalupe"\n    country: "United Kingdom"\n    text: "“Really helpfull staff. Helped us organise our trip to Valbone and led us to leave the car there while we were out .”"\n  - name: "Nils"\n    country: "Netherlands"\n    text: "“The people who work here are VERY helpful. They booked our necessary transports, made us breakfast to go and we were able to leave our suitcases there for our 4 day trip to the albanian alps without an extra fee.”"\n  - name: "Senad"\n    country: "Bosnia and Herzegovina"\n    text: "“Big parking and very polite staff. I arrived pretty late, but still, the receptionist was very polite and kind. The room was big and clean. Free parking. Recommend.”"\nbookingURL: "https://www.booking.com/hotel/al/bicaj.en-gb.html?aid=8035640"\nbestFor: "Best for Airport Access"\nbestCategories: "Airport Access"\ncategory: "Airport Access"\n---\n\nEach room at Hotel Bicaj is thoughtfully equipped with air conditioning, ensuring a restful environment. Guests will appreciate the added convenience of free WiFi and private bathrooms, complemented by a flat-screen TV and complimentary toiletries for a touch of home comfort. For those needing to stay productive or in touch, room service, a 24-hour front desk, and currency exchange services are readily available.
 
 For enthusiasts of the outdoors, the hotel's location offers an excellent opportunity for cycling adventures, with car hire services easily accessible for those looking to explore further afield. Business travelers will find the hotel's ironing service and business facilities, including fax and photocopying, particularly useful for keeping up with work commitments.
 
 Situated a manageable distance from Podgorica Airport, just 59 km away, Hotel Bicaj presents a compelling option for both leisure and business visitors to Shkodër, promising a stay that combines convenience with comfort.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

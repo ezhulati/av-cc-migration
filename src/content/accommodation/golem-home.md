@@ -1,28 +1,5 @@
----
-title: Golem Home
-description: "The accommodation itself boasts a modern air-conditioned living space, complete with a balcony that presents serene garden views, perfect for unwindin..."
-featuredImage: "/images/accommodation/476674894.jpg"
-language: en
-slug: golem-home
-location: ""
-amenities: []
-images: []
----
-
-The accommodation itself boasts a modern air-conditioned living space, complete with a balcony that presents serene garden views, perfect for unwinding after a day of adventure. Guests will find the home well-appointed with a fully equipped kitchen, a cozy bedroom, and a bathroom, ensuring a stay that combines both comfort and convenience. Entertainment is readily available through the inclusion of a flat-screen TV, complemented by the convenience of free WiFi throughout the property.
+---\ntitle: "Golem Home"\ndescription: "Golem Home emerges as a prime choice for travelers seeking comfort and convenience in Golem, positioned just a short stroll from the pristine Golem Beach and the scenic Shkëmbi i Kavajës Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476674894.jpg?k=2a4137b3137323bde7ae3bb9957b72690885858f2fcf1ae4968a06e9377bc48d&o=&hp=1"\nlanguage: en\nslug: golem-home\naddress: "Rruga durres kryemdhej, Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.26647783\n  lng: 19.52101258\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476674894.jpg?k=2a4137b3137323bde7ae3bb9957b72690885858f2fcf1ae4968a06e9377bc48d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/476674801.jpg?k=6477cb026ecf47e96b7081b85137683b9619efc5493bb4849888991014f38237&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/476674880.jpg?k=186d5ab7d65037df2cafb94d9652a07b7f2e4bbe2aeb93e62ae1200e2645bf92&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/476674904.jpg?k=3ac091dad66d6f84d0fe017897180c4cda8df2bdef6f315f00680ab93dcac6a2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/476674910.jpg?k=4588557a9c3f42a7315433e313f31567bb562a08d02aeff82fcc5b8fd539370f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/476674920.jpg?k=cd08bae88e77e150d4e9d783981d26475177209abc723828614c9a9a8d159a99&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom House"\nnearbyRestaurants:\n  - "Fresh Fish 100 m"\n  - "Grill & Pizza Peja 250 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 200 m"\n  - "Golem Beach 200 m"\n  - "Mali I Robit Beach 2 km"\n  - "Durres Beach 2.4 km"\n  - "Qerret Beach 4.1 km"\nwhatsNearby:\n  - "Bekimi 8 km"\n  - "Durres Amphiteatre 8 km"\n  - "Wine Dhe Pooh 8 km"\n  - "1. Maj 8 km"\n  - "Yje Dhe Hena 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "Sotir Noka 9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/golem-home-kavaje.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodation itself boasts a modern air-conditioned living space, complete with a balcony that presents serene garden views, perfect for unwinding after a day of adventure. Guests will find the home well-appointed with a fully equipped kitchen, a cozy bedroom, and a bathroom, ensuring a stay that combines both comfort and convenience. Entertainment is readily available through the inclusion of a flat-screen TV, complemented by the convenience of free WiFi throughout the property.
 
 Situated a mere 1.7 km from the Rock of Kavaje and a brief drive from Mali I Robit Beach, Golem Home positions itself as an ideal base for exploring the natural beauty of the area. Additionally, the proximity to the former Residence of Enver Hoxha adds a touch of historical intrigue to the visit.
 
 For those traveling to or from the area, the Tirana International Mother Teresa Airport is conveniently located 38 km away, making Golem Home an accessible retreat for both domestic and international travelers. With its strategic location, comprehensive amenities, and tranquil setting, Golem Home stands out as a top accommodation choice for those looking to experience the best of Golem and its surroundings.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

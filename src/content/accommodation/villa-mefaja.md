@@ -1,30 +1,7 @@
----
-title: Villa Mefaja
-description: The property prides itself on providing ample amenities, including complimentary private parking, ensuring a hassle-free experience for those arriving by car. A
-featuredImage: "/images/accommodation/515040129.jpg"
-language: en
-slug: villa-mefaja
-location: ""
-amenities: []
-images: []
----
-
-The property prides itself on providing ample amenities, including complimentary private parking, ensuring a hassle-free experience for those arriving by car. A standout feature of Villa Mefaja is its array of family rooms, designed to accommodate groups of all sizes in comfort and style.
+---\ntitle: "Villa Mefaja"\ndescription: "Villa Mefaja emerges as a distinguished choice for travelers seeking a serene getaway with breathtaking sea views, strategically located within reach of Krujë's historical landmarks."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515040129.jpg?k=31df151c2c73a5313240313952813414166fbcda97a96bb5f1c2ff7ee0acc6e6&o=&hp=1"\nlanguage: en\nslug: villa-mefaja\naddress: "Rruga e Malit, 1501 Krujë, Albania"\ncity: "Krujë"\nlocation: "Krujë"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.51202144\n  lng: 19.79482767\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515040129.jpg?k=31df151c2c73a5313240313952813414166fbcda97a96bb5f1c2ff7ee0acc6e6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515379630.jpg?k=944b6bf04a9a71768169d78ce35aa50782125313677d677dc00e4cc5d376eef5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515040118.jpg?k=49ee0a9427d1d8fe40db86c5f47b886e2d38896157721793011e73dcd5109c6f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515040163.jpg?k=974ac72b03e679b0b030d2d93136442d762a796156032105333b51e7204794c7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515040198.jpg?k=6ea1bc20f0db06e9d03e326a2e31b24e64f4574b58563b47c562b7cb48729f0c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515040213.jpg?k=6ccd45eff18c7bcacd4a99cfc452685409ada5ecca7b9d4d767d2d63d7ef3116&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Balcony"\n  - "Triple Room with View"\n  - "Double Room with Private Bathroom"\n  - "Quadruple Room with Terrace"\nnearbyRestaurants:\n  - "Pizzeri Kupa Hallall 250 m"\n  - "Bar Kafe \Turizmi\\"\" 250 m"\nwhatsNearby:\n  - "Dajti Mountain National Park 2.9 km"\n  - "Sheshi Rekreativ Allias 18 km"\n  - "Bunk'Art 1 Museum 19 km"\n  - "Sheshi Rekreativ Lord Bajron 19 km"\n  - "Sheshi Rekreativ Gjolek Kokona 20 km"\n  - "Sheshi Rekreativ Don Bosko 20 km"\n  - "Sheshi Rekreativ Mine Peza 20 km"\n  - "Amazing Nature 20 km"\n  - "Sheshi Jjosef Shtraus 20 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 87 km"\nbookingURL: "https://www.booking.com/hotel/al/vila-mefaja.en-gb.html?aid=8035640"\nbestFor: "Best for Airport Access"\nbestCategories: "Airport Access"\ncategory: "Airport Access"\n---\n\nThe property prides itself on providing ample amenities, including complimentary private parking, ensuring a hassle-free experience for those arriving by car. A standout feature of Villa Mefaja is its array of family rooms, designed to accommodate groups of all sizes in comfort and style.
 
 Each room at Villa Mefaja is thoughtfully equipped with essential amenities to enhance the stay of every guest. From spacious wardrobes to air conditioning and flat-screen TVs, the attention to detail is evident. The inclusion of private bathrooms, complete with showers and hair dryers, adds a touch of convenience, while free WiFi keeps guests connected throughout their stay. Select rooms elevate the experience further with the addition of terraces, offering private spaces to soak in the stunning surroundings.
 
 Located a short distance from notable attractions such as the House of Leaves and the National Museum of History Albania, Villa Mefaja serves as an ideal base for cultural enthusiasts eager to delve into Albania's rich history. Moreover, the proximity to Tirana International Mother Teresa Airport, just 18 km away, makes Villa Mefaja a compelling choice for international travelers seeking ease of access combined with tranquil accommodations.
 
 In summary, Villa Mefaja stands out as a premier destination for those desiring a blend of historical exploration, natural beauty, and modern comforts, making it a top recommendation for visitors to Krujë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

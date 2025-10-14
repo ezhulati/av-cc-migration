@@ -1,26 +1,3 @@
----
-title: Guesthouse
-description: This smoke-free accommodation ensures a clean and healthy environment for all guests. Located 143 km from Ohrid Airport, the chalet is an accessible retreat fo
-featuredImage: "/images/accommodation/501529728.jpg"
-language: en
-slug: guesthouse
-location: ""
-amenities: []
-images: []
----
-
-This smoke-free accommodation ensures a clean and healthy environment for all guests.
+---\ntitle: "Guesthouse"\ndescription: "The guesthouse in Kukës stands out for its commitment to comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501529728.jpg?k=992f8a5d573ee3d99250ae1bdc025a4d9886a5917d65878ef0c889f8d16d4a1e&o=&hp=1"\nlanguage: en\nslug: guesthouse\naddress: "Çaje Kukes Albania, 8507 Kukës, Albania"\ncity: "Kukës"\nlocation: "Kukës"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 41.88011203\n  lng: 20.52526136\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 2.5\nratingWords: "Needs Improvement"\nnumberOfReviews: 1\nratings:\n  overall: 2.5\n  location: 2.5\n  cleanliness: 2.5\n  facilities: 2.5\n  value: 2.5\n  comfort: 2.5\n  staff: 2.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501529728.jpg?k=992f8a5d573ee3d99250ae1bdc025a4d9886a5917d65878ef0c889f8d16d4a1e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/501529772.jpg?k=ff588a8a91ae5911ec467483ffde73e4cf14441f7605640206e24492ab1fb169&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/501529777.jpg?k=00b2b3c19522760e8a1d287e20e8c0fd360847674c87b0acac3b1bd34e089273&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/501529783.jpg?k=c72a07299e5fa9cfc92080a90879003c5b2ae868b05b1a2647ed6b78f6e1153e&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Breakfast"\nroomTypes:\n  - "One-Bedroom Chalet"\nnearbyRestaurants:\n  - "Bujtina Korabi 8 km"\n  - "Ramqe 18 km"\nairports:\n  - "Ohrid Airport 79 km"\n  - "Tirana International Airport Mother Teresa 84 km"\n  - "Pristina International Airport 86 km"\nbookingURL: "https://www.booking.com/hotel/al/guesthouse-kukes.en-gb.html?aid=8035640"\nbestFor: "Best for Airport Access"\nbestCategories: "Airport Access"\ncategory: "Airport Access"\n---\n\nThis smoke-free accommodation ensures a clean and healthy environment for all guests. 
 
 Located 143 km from Ohrid Airport, the chalet is an accessible retreat for travelers seeking a peaceful getaway.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

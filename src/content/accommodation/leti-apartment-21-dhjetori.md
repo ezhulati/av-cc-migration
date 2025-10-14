@@ -1,28 +1,5 @@
----
-title: LETI APARTMENT 21 DHJETORI
-description: Boasting a prime position, the property is within easy reach of some of Tirana's most revered sites, including the Et'hem Bey Mosque, the National Museum of His
-featuredImage: "/images/accommodation/picture-379.jpeg"
-language: en
-slug: leti-apartment-21-dhjetori
-location: ""
-amenities: []
-images: []
----
-
-Boasting a prime position, the property is within easy reach of some of Tirana's most revered sites, including the Et'hem Bey Mosque, the National Museum of History Albania, and the National Theatre of Opera and Ballet of Albania. For those who prioritize connectivity, the entire apartment is serviced by complimentary WiFi, ensuring guests stay connected with ease. Moreover, the iconic Skanderbeg Square is just 1.5 km away, making it an ideal starting point for city exploration.
+---\ntitle: "LETI APARTMENT 21 DHJETORI"\ndescription: "Discover the charm of Tirana from the comfort of LETI APARTMENT 21 DHJETORI, a prime choice for travelers seeking both convenience and style."\nfeaturedImage: "https://graph.facebook.com/v2.9/2341788455847202/picture?type=square&height=64&width=64"\nlanguage: en\nslug: leti-apartment-21-dhjetori\naddress: "Rruga Frederik Shiroka, 1010 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32822737\n  lng: 19.80602309\nprice: "US$51"\npriceFrom: 51\nstarRating: 3\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 2\nratings:\n  overall: 8.2\n  location: 8.8\n  cleanliness: 8.8\n  facilities: 8.8\n  value: 6.3\n  comfort: 8.8\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://graph.facebook.com/v2.9/2341788455847202/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/fr/80667cd1f58bba217c1ec87dea9ccd1335ed8dba.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454537343.jpg?k=7bedc5a7c1e9522eaa2474e89ebe28b31204b83cb5da86adf280197023a9cc26&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/454537230.jpg?k=d5242be44c3775c935d5eb277752e050f5321ddc30efd5cbe137906433441a77&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/454537313.jpg?k=308602c5dff88aa7419762d47a26a7f3185009a31e97f4cf0689eaa20077f7d1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/454537327.jpg?k=c72e9c7d044be9a3e3c6c3c24c3984e0aac53d549a763f3aaa01accee924ca51&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/454537336.jpg?k=44ca6dd9fc0a052a4a82645d66f240aa10f3b92806f688063538a41fc1eebe7a&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Rinia Park 1.1 km"\n  - "Skanderbeg Square 1.1 km"\n  - "Clock Tower Tirana 1.1 km"\n  - "Former Residence of Enver Hoxha 1.2 km"\n  - "National Gallery of Arts Tirana 1.3 km"\n  - "Tanners' Bridge 1.7 km"\n  - "Grand Park of Tirana 2.4 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Gastro Organic 9 m"\n  - "Kava Bistro Bar 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Shefqet Musaraj 600 m"\n  - "Sheshi Rekreativ Mine Peza 600 m"\n  - "Sheshi Paris 750 m"\n  - "Sheshi Rekreativ Sali Butka 800 m"\n  - "Sheshi Rekreativ Parku 1Km 800 m"\n  - "Sheshi Rekreativ Don Bosko 850 m"\n  - "House of Leaves 900 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 900 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 900 m"\n  - "National Museum of History Albania 950 m"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 80 km"\nreviews:\n  - name: "Inva"\n    country: "France"\n    text: "“The cleanliness and the location.”"\nbookingURL: "https://www.booking.com/hotel/al/leti-apartment-21-dhjetori-tirane.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nBoasting a prime position, the property is within easy reach of some of Tirana's most revered sites, including the Et'hem Bey Mosque, the National Museum of History Albania, and the National Theatre of Opera and Ballet of Albania. For those who prioritize connectivity, the entire apartment is serviced by complimentary WiFi, ensuring guests stay connected with ease. Moreover, the iconic Skanderbeg Square is just 1.5 km away, making it an ideal starting point for city exploration.
 
 The apartment itself is a testament to modern living, featuring a single bedroom, a fully equipped kitchen for those who love to cook, and a bathroom. Entertainment needs are catered to with a flat-screen TV, perfect for unwinding after a day of sightseeing.
 
 For those keen on delving deeper into Tirana's cultural fabric, the apartment is conveniently located near the House of Leaves, Rinia Park, and the Clock Tower Tirana, each offering a unique glimpse into the city's past and present. Accessibility is further enhanced by the proximity to Tirana International Mother Teresa Airport, situated just 13 km away, making LETI APARTMENT 21 DHJETORI an excellent choice for both short visits and extended stays in Albania's vibrant capital.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

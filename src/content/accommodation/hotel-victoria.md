@@ -1,15 +1,4 @@
----
-title: Hotel Victoria
-description: Guests at Hotel Victoria are treated to an array of amenities designed to enhance their stay. Complimentary Wi-Fi and parking ensure convenience from the moment
-featuredImage: "/images/accommodation/488961473.jpg"
-language: en
-slug: hotel-victoria
-location: ""
-amenities: []
-images: []
----
-
-Guests at Hotel Victoria are treated to an array of amenities designed to enhance their stay. Complimentary Wi-Fi and parking ensure convenience from the moment of arrival, while the on-site bar and restaurant promise culinary delights with a menu featuring both Albanian and international dishes.
+---\ntitle: "Hotel Victoria"\ndescription: "Discover the serene charm of Hotel Victoria, a tranquil oasis located just a stone's throw from the shimmering waters of Lake Ohrid and a mere 2 km from the bustling town of Pogradec."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488961473.jpg?k=fa263e0c3a9ac3c36d2524c9a755f633cf3f750764614e5a536b09cb94cfc39c&o=&hp=1"\nlanguage: en\nslug: hotel-victoria\naddress: "Memelisht, Pogradec E86, 7305 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.93279004\n  lng: 20.64084023\nprice: "US$48"\npriceFrom: 48\nstarRating: 4\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 430\nratings:\n  overall: 9.2\n  location: 9.4\n  cleanliness: 9.2\n  facilities: 8.6\n  value: 9.1\n  comfort: 9\n  staff: 9.3\n  wifi: 9.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488961473.jpg?k=fa263e0c3a9ac3c36d2524c9a755f633cf3f750764614e5a536b09cb94cfc39c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374821036.jpg?k=cedae31b0ef43aef1cb6a2720b007564e86f5a351bd6ad2615acab18d93d29f0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401336705.jpg?k=4ca5610fb3d48c18761ebc5e32e0a43e9502029259ee61348b0eb8da659c13e6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369493897.jpg?k=2c076a6c372bdbc5abcb8bb4e3aa4654c6d5517de8052ceef2d684ac108216e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370370050.jpg?k=e0f133e98068fb983a4f345cc745292d3409233b516cca2684c24b8a15da785d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488961101.jpg?k=01d0db45e9d79a9683801250b7fd9ae34efe7f5afb70cb26390f7e003ceb29ed&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Room service"\n  - "Restaurant"\n  - "Free WiFi"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Good breakfast"\nroomTypes:\n  - "Double Room with Balcony"\n  - "Double Room with Lake View"\n  - "Deluxe Room"\n  - "Triple Room with Lake View"\nnearbyRestaurants:\n  - "Ilo Hotel and 30 m"\n  - "Panorama 1.6 km"\nwhatsNearby:\n  - "Driloni National Park 4.5 km"\n  - "National Park Galicica 9 km"\n  - "National Park Galicica 15 km"\n  - "Bay of Bones 15 km"\n  - "Remains of Via Egnatia 19 km"\nairports:\n  - "Ohrid Airport 27 km"\n  - "Kastoria National Airport 75 km"\n  - "Tirana International Airport Mother Teresa 93 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Andrew"\n    country: "Greece"\n    text: "“It is on that beautiful lake and convenient for our return to Greece via Durres”"\n  - name: "Carola"\n    country: "Denmark"\n    text: "“Lovely gem - great hosts - beautiful rooms ! Loved it!”"\n  - name: "Solo"\n    country: "Netherlands"\n    text: "“This is a super nice hotel that has very nice rooms. The hotel is situated a little out of town making it a truly relaxing spot to stay at. When having a car its only a 5 min drive into Pogradec. The restaurant can make delicious food and also the...”"\nbookingURL: "https://www.booking.com/hotel/al/victoria.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nGuests at Hotel Victoria are treated to an array of amenities designed to enhance their stay. Complimentary Wi-Fi and parking ensure convenience from the moment of arrival, while the on-site bar and restaurant promise culinary delights with a menu featuring both Albanian and international dishes.
 
 Accommodations at Hotel Victoria are thoughtfully appointed, with each room boasting cable TV, a desk, and a private bathroom equipped with a shower. The charm of the property is further amplified by private balconies in each room, offering views of the lush garden, and select rooms also feature breathtaking lake vistas.
 
@@ -18,15 +7,3 @@ For those looking to embrace the outdoors, Hotel Victoria does not disappoint. G
 Convenience is key at Hotel Victoria, with a grocery shop located just 200 meters from the property. The proximity to local bus and train stations, as well as the historic Castle of Pogradec, ensures guests can easily venture out to explore the local culture and attractions. For those traveling further afield, Ohrid Macedonia Airport is a convenient 30-minute drive away.
 
 Hotel Victoria stands as a testament to the perfect blend of tranquility, convenience, and adventure, making it an ideal choice for travelers seeking a memorable stay by Lake Ohrid.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

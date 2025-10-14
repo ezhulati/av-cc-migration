@@ -4,9 +4,21 @@ description: This 5-star hotel distinguishes itself with its comprehensive ameni
 featuredImage: "/images/accommodation/460358363.jpg"
 language: en
 slug: dioras-hotel-and-apartments
-location: ""
-amenities: []
 images: []
+category: "5-Star"
+starRating: 5
+rating: 5
+accommodationType: "hotel"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Air Conditioning"
+  - "Restaurant"
+  - "Bar"
+  - "Kitchen"
+  - "Balcony"
+  - "Mountain View"
+  - "TV"
 ---
 
 This 5-star hotel distinguishes itself with its comprehensive amenities, including complimentary WiFi, an on-site restaurant, and a bar, ensuring guests enjoy a blend of convenience and luxury. For those arriving by air or planning to explore the region at their leisure, Diora's offers both airport transfer services and car rental options, adding a layer of ease to travel arrangements.
@@ -19,14 +31,3 @@ For those keen to explore the local area, Diora's Hotel and Apartments is strate
 
 Diora's Hotel and Apartments stands out as a beacon of hospitality, offering a perfect blend of luxurious accommodations and strategic location, promising an unforgettable stay in Vlorë.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

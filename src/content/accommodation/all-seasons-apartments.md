@@ -1,15 +1,5 @@
----
-title: All Seasons Apartments
-description: The accommodations at All Seasons Apartments are designed to cater to the modern traveler's needs. Each apartment boasts air conditioning, complimentary private
-featuredImage: "/images/accommodation/199044960.jpg"
-language: en
-slug: all-seasons-apartments
-location: ""
-amenities: []
-images: []
----
-
-The accommodations at All Seasons Apartments are designed to cater to the modern traveler's needs. Each apartment boasts air conditioning, complimentary private parking, and access to free WiFi, ensuring guests stay connected and comfortable throughout their visit. The interiors feature a harmonious blend of functionality and style, with a balcony that presents breathtaking mountain views, creating a perfect backdrop for relaxation.
+---\ntitle: "All Seasons Apartments"\ndescription: "All Seasons Apartments emerges as a serene retreat offering a blend of comfort and convenience, located approximately 49 km from the bustling Port of Bar."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199044960.jpg?k=bf49f7f8016d7e33baec134ba5bc0ad3d813d0905525d017add6cf536236e241&o=&hp=1"\nlanguage: en\nslug: all-seasons-apartments\naddress: "Lek Dukagjini, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.07142305\n  lng: 19.51302461\nprice: "US$56"\npriceFrom: 56\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 419\nratings:\n  overall: 9.9\n  location: 9.7\n  cleanliness: 9.9\n  facilities: 9.9\n  value: 9.9\n  comfort: 9.9\n  staff: 10\n  wifi: 9.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199044960.jpg?k=bf49f7f8016d7e33baec134ba5bc0ad3d813d0905525d017add6cf536236e241&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365933359.jpg?k=be6cb47c416e41b3a2de39e2343bd083c29f550d0e53a2a438bfd0c42123476e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365937949.jpg?k=9bc815b6f0f68335a4e4689cc5b944c70e9bff1f61f3bfc9c2a5259b07baca30&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195446722.jpg?k=ca58e82206c57722d8b13b177580427fb919a642682ce2f1e1c94897bacaeb97&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/200818064.jpg?k=630368f7b7488a4999ed4dbbb7f6a6147d8c9790b4e6eaa4961ddb8efcab30c2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195432079.jpg?k=b72834517a08f9745876ee05698510d6067c29b79e9bcb8e034e5f88d53f7ff4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354942366.jpg?k=f24005befab7e122a1597ccbaa4d5505a2b690dfac388b6541d0a342f35972e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214276860.jpg?k=a2fcb1b44af8e352dc4b0b478d7d97caad93e984c2078ded32a2ce432c78bd00&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465739238.jpg?k=f20f32bf424473b9dea76586e31eba92726d4440ca527eac35a9b1c79b6b9e1a&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Bar Kafe - PROLIVE 150 m"\n  - "Bar Kafe Dragani 150 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 3.2 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 37 km"\n  - "Tirana International Airport Mother Teresa 73 km"\n  - "Tivat Airport 73 km"\nreviews:\n  - name: "Jack"\n    country: "United Kingdom"\n    text: "“The property was very clean with everything you would need for your stay. We only stayed one night but we were looked after wonderfully”"\n  - name: "Nawal"\n    country: "Malaysia"\n    text: "“✅ Super friendly and very attentive owner ✅ Very clean apartment
+✅ Good location”"\n  - name: "Eri"\n    country: "Albania"\n    text: "“Apartamenti ishte shum i mire, i paster dhe shum afer qendres. Mikpritesit ishin shum te sjellshem dhe shum te gatshem te na ndihmonin pasi per ne ishte hera e pare ne Shkoder. Mbetem shum te kenaqur dhe do jua rekomandojme edhe miqeve tane.”"\nbookingURL: "https://www.booking.com/hotel/al/all-seasons-apartment-1.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe accommodations at All Seasons Apartments are designed to cater to the modern traveler's needs. Each apartment boasts air conditioning, complimentary private parking, and access to free WiFi, ensuring guests stay connected and comfortable throughout their visit. The interiors feature a harmonious blend of functionality and style, with a balcony that presents breathtaking mountain views, creating a perfect backdrop for relaxation.
 
 Guests can enjoy the convenience of a fully equipped kitchen, complete with a dishwasher, oven, microwave, toaster, fridge, as well as a coffee machine and kettle, allowing for a home-cooked meal away from home. The living spaces are thoughtfully furnished, including a seating area with a satellite flat-screen TV for entertainment, and a private bathroom equipped with a bidet and slippers for added luxury. Attention to detail is evident, as each unit is also supplied with fresh bed linen and towels.
 
@@ -18,15 +8,3 @@ For those looking to explore the local area, All Seasons Apartments does not dis
 Practical needs are also met with a minimarket available on the premises, ensuring that essentials are always within reach. For guests traveling to and from Podgorica Airport, located 58 km away, the property provides a paid airport shuttle service, adding an extra layer of convenience to the travel experience.
 
 All Seasons Apartments represents an ideal choice for travelers seeking a blend of serenity, comfort, and convenience, making it a noteworthy consideration for your next getaway.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

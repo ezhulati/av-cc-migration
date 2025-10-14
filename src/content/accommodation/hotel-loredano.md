@@ -1,28 +1,7 @@
----
-title: Hotel Loredano
-description: Each room at Hotel Loredano is thoughtfully designed with the guest's comfort in mind, featuring air conditioning, a private bathroom, a desk for any work or pl
-featuredImage: "/images/accommodation/254635530.jpg"
-language: en
-slug: hotel-loredano
-location: ""
-amenities: []
-images: []
----
-
-Each room at Hotel Loredano is thoughtfully designed with the guest's comfort in mind, featuring air conditioning, a private bathroom, a desk for any work or planning needs, a flat-screen TV, and complimentary toiletries. The attention to detail in the amenities provided speaks to the hotel's dedication to guest satisfaction.
+---\ntitle: "Hotel Loredano"\ndescription: "Hotel Loredano stands out as a charming destination for travelers seeking comfort and convenience in Shkodër."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254635530.jpg?k=75d7570b270e9158d1884339201356ae56e9ac1afdb8c1dfd4daf39cffd4bce5&o=&hp=1"\nlanguage: en\nslug: hotel-loredano\naddress: "Rruga G'juhadol, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.06854148\n  lng: 19.5170286\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 642\nratings:\n  overall: 9.4\n  location: 9.6\n  cleanliness: 9.5\n  facilities: 9.2\n  value: 9.3\n  comfort: 9.3\n  staff: 9.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254635530.jpg?k=75d7570b270e9158d1884339201356ae56e9ac1afdb8c1dfd4daf39cffd4bce5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254632199.jpg?k=36818f0e6f2d8d39d88a9ac3397402395b15f6c90231d3846f0728d144a138d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254632526.jpg?k=51adbdb69dffaae2cde53982e0cca7d70d91901a6007a20275568e6cdbf9a2c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254635429.jpg?k=374c29c6bf28b1b82848c9b001c8c13d19246ef98421a71c9b917425ae2dbdcb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254635562.jpg?k=5dc07262aa62c1467d304f4f4193188eef1ab580782b103f4bdc70a3a7efaabf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254633917.jpg?k=4b83ae3e103fc01092efa6346ba2f4d87b993b6d6f2128ab32e035217e75ae47&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254633441.jpg?k=67945425634ead0a5226240dce7cda6ddfc55e533b899b74a5557e9aef4c13dd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254632560.jpg?k=0d2cc560737be1e3d8d65cda0b16408161a52d26742f51293925b1221458639d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256353393.jpg?k=4462698eab40f751d36453b0073f16c0c6ca18457b5e725e1bfe9d9d309a9fe6&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Budget Double Room"\n  - "Standard Double Room"\n  - "Deluxe King Room"\n  - "Budget Twin Room"\n  - "Superior Double Room"\nnearbyRestaurants:\n  - "Shega e Eger 20 m"\n  - "Bulldog Hostel & Club 40 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 3.1 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 73 km"\n  - "Tivat Airport 74 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "Diners Club"\nreviews:\n  - name: "Suida"\n    country: "Albania"\n    text: "“Everything was great….location, room size, cleanness, breakfast. Highly recommend.”"\n  - name: "Chris"\n    country: "United Kingdom"\n    text: "“- Great value for money
+- The room was a very good size (room 14)
+- The breakfast was magnificent - The staff were great - If you're not with young children (we were) then the bar / restaurant looks very lively on an evening so not far to...”"\n  - name: "Pawel"\n    country: "Poland"\n    text: "“We have stayed for 1 night. The room was clean and worm eventhough we've been in January, which is out of the season. The service was very halpfull and kind. We have eat delicious Albanian breakfast with home made Byrek, Petulla and carrot cake....”"\nbookingURL: "https://www.booking.com/hotel/al/loredano.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nEach room at Hotel Loredano is thoughtfully designed with the guest's comfort in mind, featuring air conditioning, a private bathroom, a desk for any work or planning needs, a flat-screen TV, and complimentary toiletries. The attention to detail in the amenities provided speaks to the hotel's dedication to guest satisfaction.
 
 For those looking to explore the local area, Hotel Loredano offers bike and car rental services, making it easy for guests to venture out into the popular cycling routes that surround the property. Its location also serves as a convenient base for travelers, with the Port of Bar just 49 km away and Podgorica Airport within a 58 km reach, for which the hotel offers a paid airport shuttle service.
 
 Hotel Loredano is more than just a place to rest; it's a gateway to the rich culture and scenic beauty of Shkodër, making it an ideal choice for travelers who seek both relaxation and adventure.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

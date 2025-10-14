@@ -5,6 +5,7 @@ region: Southern Albania
 featuredImage: /images/destinations/vlora.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
@@ -174,10 +175,3 @@ The marina will open, the airport will bring direct flights, and Vlorë will ine
 
 Visit now, while the old fishermen still know where to drop their nets, while the flamingos still return to Narta Lagoon, while coffee culture remains unhurried, and while €40 still buys an exceptional dinner with local wine. Experience Vlorë before it becomes another polished Mediterranean destination that lost its rough edges to tourism.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

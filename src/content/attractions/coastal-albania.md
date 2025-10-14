@@ -7,6 +7,10 @@ featuredImage: /images/attractions/coastal-albania.jpg
 images: []
 language: en
 slug: coastal-albania
+seo:
+  metaTitle: "Discover Albania's Spectacular 362-Kilometer Coastline"
+  metaDescription: "Discover Albania's coastline, where history and natural beauty coalesce. Explore ancient ruins, secluded beaches, and local culture in this comprehensive guide."
+  focusKeyword: "Coastal Albania"
 ---
 
 Introduction
@@ -257,10 +261,3 @@ So pack your bags, embrace the unknown, and travel to discover the best of Alban
 
 Start planning your Albanian coastal adventure today, and get ready to fall in love with a destination that is as beautiful as it is welcoming. The hidden gem of the Mediterranean awaits, and it’s time for you to uncover its secrets.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

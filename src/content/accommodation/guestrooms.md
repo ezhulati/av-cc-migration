@@ -1,30 +1,7 @@
----
-title: Guestrooms
-description: Strategically positioned, Guestrooms is a mere 39 km from the vibrant Skanderbeg Square, offering easy access to the heart of Albania's capital. For those intri
-featuredImage: "/images/accommodation/478112021.jpg"
-language: en
-slug: guestrooms
-location: ""
-amenities: []
-images: []
----
-
-Strategically positioned, Guestrooms is a mere 39 km from the vibrant Skanderbeg Square, offering easy access to the heart of Albania's capital. For those intrigued by the natural beauty and adventure, the Dajti Ekspres Cable Car awaits at a distance of 42 km, providing breathtaking views and an unforgettable experience. History enthusiasts will appreciate the proximity to significant landmarks such as the Rock of Kavaje, only 4.3 km away, and the Durres Amphitheatre, a mere 7 km from the doorstep, offering a glimpse into the ancient past of this storied region.
+---\ntitle: "Guestrooms"\ndescription: "Discover the charm of Durrës with a stay at Guestrooms, a prime accommodation choice that places travelers in the heart of this historic city."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478112021.jpg?k=8984a8d7414979f2cfb4a2d24009e8ef85bd6a284e64d653b7a083446df5d2c7&o=&hp=1"\nlanguage: en\nslug: guestrooms\naddress: "Rruga Pavaresia, 2002 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30514546\n  lng: 19.49421288\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478112021.jpg?k=8984a8d7414979f2cfb4a2d24009e8ef85bd6a284e64d653b7a083446df5d2c7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478112091.jpg?k=eba6c92fae8c25b9b4a6f8207cf24db99f6f06d50f219f1af88f80c1837cb923&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478112100.jpg?k=dc97e0baf4baa1a43f4b5cb1bddc6608a4889b0a4b589f4e6e65f5de780c5de2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478112108.jpg?k=9fedbeb50654f768b1adb5232041f084fc027bb77cf63181866620adae130e7f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478112177.jpg?k=d83215ffcf45952bcacf0d00daeb2ec9e233731cf6576c456952a8e8cd5f2b99&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Iralb 20 m"\n  - "Chichken Hause 30 m"\nnearbyBeaches:\n  - "Durres Beach 200 m"\n  - "Shkëmbi i Kavajës Beach 2.5 km"\n  - "Currila Beach 3.9 km"\n  - "Golem Beach 4.9 km"\n  - "Kallmi Beach 5 km"\nwhatsNearby:\n  - "Bekimi 2.9 km"\n  - "Wine Dhe Pooh 4 km"\n  - "Sheshi Demokracia 4.1 km"\n  - "Yje Dhe Hena 4.1 km"\n  - "Durres Amphiteatre 4.2 km"\n  - "Sotir Noka 4.4 km"\n  - "1. Maj 4.4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\nbookingURL: "https://www.booking.com/hotel/al/guestrooms.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nStrategically positioned, Guestrooms is a mere 39 km from the vibrant Skanderbeg Square, offering easy access to the heart of Albania's capital. For those intrigued by the natural beauty and adventure, the Dajti Ekspres Cable Car awaits at a distance of 42 km, providing breathtaking views and an unforgettable experience. History enthusiasts will appreciate the proximity to significant landmarks such as the Rock of Kavaje, only 4.3 km away, and the Durres Amphitheatre, a mere 7 km from the doorstep, offering a glimpse into the ancient past of this storied region.
 
 The accommodation itself is a testament to comfort and convenience, featuring a cozy bedroom, a fully equipped kitchenette for those who enjoy the art of cooking, and a modern bathroom. Entertainment needs are well catered to with the inclusion of a flat-screen TV, ensuring guests have a relaxing stay. Emphasizing a clean and healthy environment, the apartment proudly maintains a non-smoking policy throughout its premises.
 
 For those looking to venture further, the property is conveniently located 38 km from both Rinia Park and the National Museum of History Albania, making it easy for guests to immerse themselves in the country's rich cultural heritage. Additionally, the Tirana International Mother Teresa Airport is just 33 km away, ensuring that arrival and departure are as smooth as possible.
 
 With free WiFi available throughout the property, guests at Guestrooms can stay connected and share their experiences with loved ones. Whether it's the allure of the beach, the call of historical exploration, or simply the need for a comfortable and convenient place to rest, Guestrooms in Durrës stands out as a top choice for travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

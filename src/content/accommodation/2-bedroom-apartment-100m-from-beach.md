@@ -1,28 +1,6 @@
----
-title: 2 bedroom apartment 100m from beach
-description: The apartment itself is a haven of comfort, featuring air conditioning for those warm Mediterranean days. It houses two cozy bedrooms, making it an ideal choice
-featuredImage: "/images/accommodation/picture-343.jpeg"
-language: en
-slug: 2-bedroom-apartment-100m-from-beach
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of comfort, featuring air conditioning for those warm Mediterranean days. It houses two cozy bedrooms, making it an ideal choice for families or small groups seeking a beachside retreat. The living space is equipped with a flat-screen TV, a dining area perfect for sharing meals, and a fully equipped kitchen boasting modern appliances such as an oven and a microwave. For added convenience, towels and bed linen are readily available, ensuring a hassle-free stay.
+---\ntitle: "2 bedroom apartment 100m from beach"\ndescription: "Discover the charm of coastal living at the 2 Bedroom Apartment, a mere stone's throw away from the pristine Saranda City Beach."\nfeaturedImage: "https://graph.facebook.com/v2.9/10205097220148729/picture?type=square&height=64&width=64"\nlanguage: en\nslug: 2-bedroom-apartment-100m-from-beach\naddress: "V2C8+54Q Sarandë, Albania, Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87046738\n  lng: 20.01533037\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://graph.facebook.com/v2.9/10205097220148729/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/ro/f7031adfc6a577ffae9cdbb9e0c67aaead71dbdb.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348811259.jpg?k=d15167e6c293780f9f97dfe0bcf9609e94c0500aada2fa7a6ddbdf159c56af4b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/362993303.jpg?k=a438797177732a1c83d1809d52f2060f85c104a0451841a0784ab9e7e4887a38&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/362993327.jpg?k=ada695adda915fce4ef130384349cf4f1c6483a5fd15c1901986ab3a0356ba9d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/362993345.jpg?k=c20d0c0366f69ff008fa14608dd8fafc2edb1cac2417a3b9f494c5e07029fd0e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/362993355.jpg?k=7b22f53c59de59465006b21bb71eb361250e3c985193bd157161223c56ed0b72&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/362993367.jpg?k=ff8f0a7f80a0fb73f51c242993d3cd17dd98b4c2b99540b76cef308c14d28ed8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/362994339.jpg?k=72596b943f4e169488039b3f1fe99795a9557f38cb58c873ba40e3453cab2a24&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\nnearbyRestaurants:\n  - "Sweet Liberty 50 m"\n  - "Ine's grill and beer 100 m"\nnearbyBeaches:\n  - "Saranda City Beach 200 m"\n  - "La Petite Beach 250 m"\n  - "Maestral Beach 400 m"\n  - "Sarande Main Beach 1.1 km"\n  - "VIP Beach 1.3 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.5 km"\n  - "Butrint National Park 2.4 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Doina"\n    country: "Romania"\n    text: "“A very nice, spatious apartment with a great location, near the beaches and also close to stores and restaurants. It has all
+the utilities that are mentioned. The view to the sea from the balcony is so beautiful. I enjoyed having breakfest in the...”"\nbookingURL: "https://www.booking.com/hotel/al/2-bedroom-apartment-100m-from-beach.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of comfort, featuring air conditioning for those warm Mediterranean days. It houses two cozy bedrooms, making it an ideal choice for families or small groups seeking a beachside retreat. The living space is equipped with a flat-screen TV, a dining area perfect for sharing meals, and a fully equipped kitchen boasting modern appliances such as an oven and a microwave. For added convenience, towels and bed linen are readily available, ensuring a hassle-free stay.
 
 For those looking to explore beyond the beach, Butrint National Park offers a slice of history and natural beauty, located just 15 km away. Furthermore, the property is within a manageable distance of 96 km from Ioannina Airport, making it accessible for international and domestic travelers alike.
 
 The 2 Bedroom Apartment 100m from the beach is more than just a place to stay; it's a gateway to experiencing the best of Saranda's coastal charm, combining convenience, comfort, and stunning sea views for an unforgettable getaway.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

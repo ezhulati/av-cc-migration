@@ -7,6 +7,10 @@ featuredImage: /images/attractions/komani-lake.jpg
 images: []
 language: en
 slug: komani-lake
+seo:
+  metaTitle: "Discover The Mesmerizing Koman-Fierza Lake - Albania"
+  metaDescription: "Explore Koman-Fierza Lake in northern Albania - a scenic natural wonderland promising immersion into breathtaking vistas and tranquility."
+  focusKeyword: "koman lake,koman-fierza lake"
 ---
 
 Why Visit
@@ -57,10 +61,3 @@ Tips for Your Visit-   Bring a camera to capture the magnificent scenery
 
 Koman-Fierza Lake offers every traveler adventure, tranquility, and stunning nature. Visitors consistently praise the area’s pristine vistas and warm hospitality – an enchanting destination.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

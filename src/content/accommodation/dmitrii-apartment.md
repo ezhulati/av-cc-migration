@@ -1,30 +1,7 @@
----
-title: Dmitrii Apartment
-description: This apartment doesn't just offer a place to stay; it provides a window into the serene lifestyle of Durrës with its direct access to a balcony that opens up to
-featuredImage: "/images/accommodation/510953352.jpg"
-language: en
-slug: dmitrii-apartment
-location: ""
-amenities: []
-images: []
----
-
-This apartment doesn't just offer a place to stay; it provides a window into the serene lifestyle of Durrës with its direct access to a balcony that opens up to tranquil inner courtyard views. The air-conditioned space is thoughtfully designed, featuring a bedroom that promises restful nights and a fully equipped kitchen that caters to the culinary needs of its guests. Attention to detail is evident with the provision of fresh towels and bed linen, ensuring a comfortable and hassle-free stay.
+---\ntitle: "Dmitrii Apartment"\ndescription: "Dmitrii Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510953352.jpg?k=966c608fc49e607055c81218cc35a974c1615038e399358f19d00ec0d26c20a4&o=&hp=1"\nlanguage: en\nslug: dmitrii-apartment\naddress: "SH4, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.28556306\n  lng: 19.51335154\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510953352.jpg?k=966c608fc49e607055c81218cc35a974c1615038e399358f19d00ec0d26c20a4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498543328.jpg?k=8a1d470a06a41161d2f1ee8d47765e51c2ac65c269570ab92ff16e0d4a77475d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498543189.jpg?k=30fd967601fc42d161464d3793eb554cbfaca836cd9c12ff224298d7f0d77a1d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510953476.jpg?k=4f1b7dd28831a6f9b2011aaa12c8aa7e5c25461dc4d04834d8518d2156d09539&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498543095.jpg?k=a8e088a556d076e3839bf7934ee6b4f062ecca0d19e2154f7980789b70a38343&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498543165.jpg?k=62e2609a8998aa03e055457708bb2e4abc2da8d535305c5c16136d6c83541bf3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498542965.jpg?k=aac5299a31d59905d4dff949e34eee7a47692ed8ddeb0fab1259d9a3b0b7b8c4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498543003.jpg?k=4df67398894cc637c66dbea34b048e018fe6ac95f4f8082653b962ba3785ceec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498543105.jpg?k=1f6c2b7f9b2224e46b3c312bc0fa48c8eed7bb662cfbe75c0881d0456618665f&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Good free WiFi (50 Mbps)"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Restorant Riviera 50 m"\n  - "Hasani 150 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 300 m"\n  - "Durres Beach 350 m"\n  - "Golem Beach 2.3 km"\n  - "Mali I Robit Beach 4.2 km"\n  - "Currila Beach 6 km"\nwhatsNearby:\n  - "Bekimi 6 km"\n  - "Wine Dhe Pooh 6 km"\n  - "Durres Amphiteatre 6 km"\n  - "Yje Dhe Hena 7 km"\n  - "Sheshi Demokracia 7 km"\n  - "1. Maj 7 km"\n  - "Sotir Noka 7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\nbookingURL: "https://www.booking.com/hotel/al/dmitrii-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment doesn't just offer a place to stay; it provides a window into the serene lifestyle of Durrës with its direct access to a balcony that opens up to tranquil inner courtyard views. The air-conditioned space is thoughtfully designed, featuring a bedroom that promises restful nights and a fully equipped kitchen that caters to the culinary needs of its guests. Attention to detail is evident with the provision of fresh towels and bed linen, ensuring a comfortable and hassle-free stay.
 
 Beyond the confines of the apartment, guests will find themselves conveniently located to delve into the rich history and culture of the area. The ancient Durres Amphitheatre and the intriguing House of Leaves are within accessible distances, offering insightful outings. For those intrigued by Albania's recent history, the Former Residence of Enver Hoxha is a significant landmark situated 41 km away.
 
 For outdoor enthusiasts, the proximity to Shkëmbi i Kavajës Beach, just 300 metres from the doorstep, is a delightful bonus. The property also boasts an outdoor dining area, perfect for enjoying meals under the open sky.
 
 Accessibility is another highlight, with Tirana International Mother Teresa Airport only 35 km away, making Dmitrii Apartment a convenient choice for international travelers. Whether it's the allure of the beach, the call of historical exploration, or simply the need for a peaceful retreat, Dmitrii Apartment stands out as a compelling accommodation option in Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

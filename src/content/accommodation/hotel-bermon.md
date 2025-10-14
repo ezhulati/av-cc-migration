@@ -1,30 +1,7 @@
----
-title: Hotel Bermon
-description: "The thoughtful amenities extend to each room, featuring a minibar and a cozy seating area, perfect for unwinding after a day of exploration."
-featuredImage: "/images/accommodation/403561971.jpg"
-language: en
-slug: hotel-bermon
-location: ""
-amenities: []
-images: []
----
-
-The thoughtful amenities extend to each room, featuring a minibar and a cozy seating area, perfect for unwinding after a day of exploration. The convenience of an en-suite bathroom with a shower adds to the comfort of your stay. Mornings at Hotel Bermon are greeted with a delightful breakfast served at the hotel's bar, which also boasts a terrace for those who prefer to start their day with a breath of fresh air.
+---\ntitle: "Hotel Bermon"\ndescription: "Discover the charm of Hotel Bermon, a hidden gem just a short distance from the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403561971.jpg?k=afdf02012bbd4357ee2339f97bb26cefd00eb16904d9a5e31d022d8df80dc661&o=&hp=1"\nlanguage: en\nslug: hotel-bermon\naddress: "Alexander Mojsiu Street 12, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.34685109\n  lng: 19.84605074\nprice: "US$53"\npriceFrom: 53\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 5\nratings:\n  overall: 7.9\n  location: 8\n  cleanliness: 8\n  facilities: 8\n  value: 7.5\n  comfort: 8.5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403561971.jpg?k=afdf02012bbd4357ee2339f97bb26cefd00eb16904d9a5e31d022d8df80dc661&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403561968.jpg?k=71f604cdb62f09d2c628ce03fdd085a3fd247b9b97c52efba3ddfd84544d0822&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403561955.jpg?k=636d1ac0191b2034834450f519eabd97e9958b5d286504e742e6fe912bba66a1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403561961.jpg?k=0df351b2f4f074045b50e5cbc5f4b6f5c35f23daf3b59bf5001efaadd886609d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403561956.jpg?k=cfd9dfccb8ea86cb38dc8c960a6df68bed70d20c85f2a1abb81c86d7bb00f8af&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403561958.jpg?k=6c020980988391caca34c48b0e90e40c15a83a137f6d1597f0999efe10abf03b&o=&hp=1"\namenities:\n  - "Room service"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\nroomTypes:\n  - "Basic Double Room"\n  - "Twin Room with Balcony"\n  - "Budget Double Room"\n  - "Classic Suite"\n  - "Suite"\n  - "Quadruple Room"\nnearbyAttractions:\n  - "Clock Tower Tirana 3.1 km"\n  - "National Museum of History Albania 3.1 km"\n  - "Skanderbeg Square 3.1 km"\n  - "National Gallery of Arts Tirana 3.1 km"\n  - "House of Leaves 3.3 km"\n  - "Rinia Park 3.4 km"\n  - "Former Residence of Enver Hoxha 3.7 km"\n  - "Grand Park of Tirana 4.2 km"\nnearbyRestaurants:\n  - "Day&Night 30 m"\n  - "Bardhi 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Gjolek Kokona 850 m"\n  - "Sheshi Rekreativ Allias 900 m"\n  - "Bunk'Art 1 Museum 1.3 km"\n  - "Sheshi Jjosef Shtraus 1.5 km"\n  - "Sheshi Rekreativ Banesat Sociale 2.2 km"\n  - "Sheshi Rekreativ tek ish ATSh 2.6 km"\n  - "Amazing Nature 2.7 km"\n  - "Dajti Mountain National Park 2.7 km"\n  - "Tanners' Bridge 2.8 km"\n  - "Sheshi Sulejman Pasha 2.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 77 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Awad"\n    country: "United Kingdom"\n    text: "“فندق ممتاز نظيف وهادي”"\nbookingURL: "https://www.booking.com/hotel/al/hotel-bermon-tirane.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe thoughtful amenities extend to each room, featuring a minibar and a cozy seating area, perfect for unwinding after a day of exploration. The convenience of an en-suite bathroom with a shower adds to the comfort of your stay. Mornings at Hotel Bermon are greeted with a delightful breakfast served at the hotel's bar, which also boasts a terrace for those who prefer to start their day with a breath of fresh air.
 
 Situated on the outskirts of Tirana, just 1.5 km from the bustling city center, the hotel's location offers the best of both worlds - tranquility and easy access to urban attractions. For guests looking to explore the city, public buses conveniently stop right in front of the hotel, on the road leading directly to the city's vibrant heart.
 
 For travelers arriving by air, Tirana Airport is a mere 30-minute drive away, making Hotel Bermon an ideal choice for both short visits and longer stays. With the added benefit of complimentary parking, guests can enjoy the ease of travel without the usual hassles.
 
 Hotel Bermon stands out as a serene oasis, offering a blend of comfort, convenience, and warm hospitality, making it a must-visit for those seeking a peaceful retreat close to the action of Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,26 +1,3 @@
----
-title: Blue Apartment Vlore
-description: The apartment itself is thoughtfully designed with guests' needs in mind, featuring a bedroom that promises restful nights, a fully equipped kitchen for those w
-featuredImage: "/images/accommodation/518818195.jpg"
-language: en
-slug: blue-apartment-vlore
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is thoughtfully designed with guests' needs in mind, featuring a bedroom that promises restful nights, a fully equipped kitchen for those who enjoy the art of cooking, and a bathroom that caters to the essentials of daily living. Entertainment is also on hand with the inclusion of a flat-screen TV, perfect for unwinding after a day of exploration.
+---\ntitle: "Blue Apartment Vlore"\ndescription: "Blue Apartment Vlore emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518818195.jpg?k=ddd78f2761dbb61f4b3e276110463b58d66082c458bf8ef20f480265e4fe8ac8&o=&hp=1"\nlanguage: en\nslug: blue-apartment-vlore\naddress: "Rruga Enver Jaho Nr apartamenti 26, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4648149\n  lng: 19.48283958\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 0\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518818195.jpg?k=ddd78f2761dbb61f4b3e276110463b58d66082c458bf8ef20f480265e4fe8ac8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518818246.jpg?k=b14f58ade14e6cf49708ad29c17318c966211a8a70bc9017a9231985865e5147&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519294606.jpg?k=6df40efa8db53ea32484ce40136c4911f7eb4fcb6a476e6fad198484fa329dea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518818231.jpg?k=8affb6e73231219178535a9745554160469912547cb5a3b3af5de333585237c9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518818096.jpg?k=f00a6b7446f6ee591095e71c18b3ba50f8ec81f5834f3b510f4fb8440a13b63c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518818225.jpg?k=8fff6e21023872c7748a61bbd1f4935727cf8119a873a907adc3626a9b9f9a5f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518818201.jpg?k=9e431c2fdb4a14878604240ad6e6db9996f3c023ccdae9bc82969042bf1916cc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519301772.jpg?k=3ac5da86d9424523c481a3c1009cdda69d81337eaa1a21889e9389619799c36c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518818203.jpg?k=e80c07aacf7df88837b748d3aab1eafc12f2d779d11727160ff9e45770be4e3c&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fast free WiFi (180 Mbps)"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Norway 150 m"\n  - "Mini-Bar Cafe 300 m"\nnearbyBeaches:\n  - "Vjetër Beach 1.3 km"\n  - "Vlore Beach 2.1 km"\n  - "Ri Beach 3.4 km"\n  - "Narta Beach 4.8 km"\n  - "Beach at Government Villas 5 km"\nwhatsNearby:\n  - "Independence Square 950 m"\n  - "Kuzum Baba 950 m"\n  - "Scooby Doo Vlore 3.3 km"\nbookingURL: "https://www.booking.com/hotel/al/blue-apartament-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is thoughtfully designed with guests' needs in mind, featuring a bedroom that promises restful nights, a fully equipped kitchen for those who enjoy the art of cooking, and a bathroom that caters to the essentials of daily living. Entertainment is also on hand with the inclusion of a flat-screen TV, perfect for unwinding after a day of exploration.
 
 For those looking to venture further, Kuzum Baba offers a glimpse into the local culture just 2.4 km away, while the Tirana International Mother Teresa Airport, located 149 km from the apartment, facilitates ease of travel to and from the city. Blue Apartment Vlore stands out as a compelling choice for visitors to Vlorë, combining the comforts of home with the excitement of travel.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

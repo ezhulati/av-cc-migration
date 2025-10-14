@@ -7,6 +7,10 @@ featuredImage: /images/attractions/kardhiq-castle.jpg
 images: []
 language: en
 slug: kardhiq-castle
+seo:
+  metaTitle: "Kardhiq Castle - Exploring Albania's Historic Fortress"
+  metaDescription: "Journey through time as we explore the historic Kardhiq Castle in southern Albania, a testament to the country's rich past and cultural heritage."
+  focusKeyword: "Kardhiq Castle"
 ---
 
 Hilltop Panoramas Over Albania’s Strategic Interior
@@ -41,10 +45,3 @@ Both summer day trippers trudging upwards much as armored auxiliaries once did p
 
 Either way, the epic view of southern Balkans power politics incarnate captivates lesser mortals attempting briefly to conquer the strategic heights separating inland fortunes from maritime resources, still echoing over time through Kardhiq castle’s proud Albanian profile.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

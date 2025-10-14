@@ -4,9 +4,18 @@ description: The apartment itself is a haven of space and luxury, equipped with 
 featuredImage: "/images/accommodation/397547169.jpg"
 language: en
 slug: apartament-31-panorama
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "Bar"
+  - "Spa"
+  - "Kitchen"
+  - "Laundry"
+  - "TV"
 ---
 
 The apartment itself is a haven of space and luxury, equipped with three well-appointed bedrooms, a sleek flat-screen TV, and a kitchen that leaves nothing to be desired. With amenities ranging from an oven and toaster to a washing machine, fridge, and minibar, it caters to every need of its guests. The commitment to a non-smoking environment further enhances the quality of stay, ensuring a fresh and inviting atmosphere.
@@ -17,14 +26,3 @@ Cultural enthusiasts will appreciate the apartment's proximity to notable landma
 
 In summary, APARTAMENT 3+1 PANORAMA offers a comprehensive package of comfort, convenience, and cultural proximity, making it an excellent choice for those looking to experience the best of Tirana.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -5,11 +5,14 @@ region: Albanian Riviera
 featuredImage: /images/destinations/borsh.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: borsh
 highlights: []
+seo:
+  metaDescription: "Experience the coastal paradise of Borsh with our diverse range of products and services. Shop now for the best deals!"
 ---
 
 A guide to Albania’s longest stretch of coast
@@ -352,10 +355,3 @@ The transformation happens gradually, allowing respectful visitors to experience
 
 *The bus will drop you at that dusty intersection in Borsh village, just like it has countless travelers before. But now you know what to expect when you walk down that winding road and see seven kilometers of possibility stretching along the Albanian coast.*
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

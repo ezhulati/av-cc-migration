@@ -1,28 +1,5 @@
----
-title: Guesthouse Arben Selimaj
-description: Accommodations at Guesthouse Arben Selimaj are thoughtfully designed, featuring balconies that present breathtaking mountain views, allowing guests to immerse t
-featuredImage: "/images/accommodation/517987107.jpg"
-language: en
-slug: guesthouse-arben-selimaj
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Guesthouse Arben Selimaj are thoughtfully designed, featuring balconies that present breathtaking mountain views, allowing guests to immerse themselves in the natural beauty of Valbonë. Each room is a sanctuary of comfort, boasting a private bathroom equipped with a bidet, complimentary toiletries, and a hairdryer, alongside a cozy seating area for moments of relaxation.
+---\ntitle: "Guesthouse Arben Selimaj"\ndescription: "Guesthouse Arben Selimaj emerges as a serene retreat in the heart of Valbonë, offering guests an exceptional blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517987107.jpg?k=161fdebe533bd2fa89a824725f2bcb0ae152e35b55582cd9ad759e417230abb4&o=&hp=1"\nlanguage: en\nslug: guesthouse-arben-selimaj\naddress: "Rruga Azem Hajdari, 8701 Valbonë, Albania"\ncity: "Valbonë"\nlocation: "Valbonë"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 42.45739506\n  lng: 19.90073707\nprice: "US$60"\npriceFrom: 60\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517987107.jpg?k=161fdebe533bd2fa89a824725f2bcb0ae152e35b55582cd9ad759e417230abb4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518357517.jpg?k=de46d7afcffc1cd197d8a0396c8b4ff6e9f4c5da62422483f698923a18b0df54&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518365081.jpg?k=d3b1c0323bdb6819e3c8e6a104776ab48193b604a9447f047f68dce20e85f33f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517987204.jpg?k=868ab87ec1d9306451c04bdd1f2e501e251d495d51d16251934c07fe446e66e7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517987197.jpg?k=f827cf9765a5395d4eaea8bfb08cf948e52b7ca8f47d9b374148e7e16bdf90ae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518365201.jpg?k=cbbdb3955c03207454b1b5097a3248b892e27989d27f4dfe398aa56a246791b0&o=&hp=1"\namenities:\n  - "Airport shuttle (free)"\n  - "Non-smoking rooms"\n  - "Restaurant"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Triple Room"\nnearbyRestaurants:\n  - "Tahirs Café & Guesthouse 650 m"\n  - "Tahir's Cafe 2.2 km"\nwhatsNearby:\n  - "Valbona Valley National Park 0 m"\n  - "Parku Kombëtar Lugina e Valbonës 1 km"\n  - "Prokletije National Park 2.7 km"\n  - "Theth National Park 6 km"\n  - "Nacionalni Park Prokletije 9 km"\n  - "Prokletije National Park 10 km"\n  - "Theth National Park 11 km"\n  - "Nacionalni park Prokletije 12 km"\n  - "Valbona Valley National Park 19 km"\nairports:\n  - "Podgorica Airport 54 km"\n  - "Pristina International Airport 93 km"\n  - "Tivat Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/guesthouse-arben-selimaj.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Guesthouse Arben Selimaj are thoughtfully designed, featuring balconies that present breathtaking mountain views, allowing guests to immerse themselves in the natural beauty of Valbonë. Each room is a sanctuary of comfort, boasting a private bathroom equipped with a bidet, complimentary toiletries, and a hairdryer, alongside a cozy seating area for moments of relaxation.
 
 For those seeking adventure, the guesthouse serves as an ideal base for exploring the vibrant outdoor activities Valbonë has to offer, including skiing and cycling. The attentive staff also provides dry cleaning services, a tour desk, and currency exchange, ensuring a hassle-free and enriching stay for every guest.
 
 Located 137 km from Pristina International Airport, Guesthouse Arben Selimaj stands as a testament to the perfect blend of natural beauty, comfort, and convenience, making it a must-visit destination for travelers seeking an unforgettable experience in Valbonë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

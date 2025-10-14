@@ -1,28 +1,5 @@
----
-title: Hotel Tier Center
-description: The hotel prides itself on facilitating a seamless stay, offering services such as airport transfers and car rental options to ensure guests can navigate the ar
-featuredImage: "/images/accommodation/447513915.jpg"
-language: en
-slug: hotel-tier-center
-location: ""
-amenities: []
-images: []
----
-
-The hotel prides itself on facilitating a seamless stay, offering services such as airport transfers and car rental options to ensure guests can navigate the area with ease. Each guest room is thoughtfully equipped with modern amenities including a flat-screen TV, air conditioning, and complimentary WiFi. The attention to detail extends to the private bathrooms, which are stocked with free toiletries and feature a shower. Select rooms boast the added luxury of city views, allowing guests to take in the vibrant energy of Tirana from the comfort of their room.
+---\ntitle: "Hotel Tier Center"\ndescription: "Hotel Tier Center emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447513915.jpg?k=001ccff4937d6d34de20662528aeadf66562c253fcb718d20eac59f916cd029c&o=&hp=1"\nlanguage: en\nslug: hotel-tier-center\naddress: "Rruga Myrtezim Këlliçi Near Toptani Shopping Mall, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.32736572\n  lng: 19.82392523\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 162\nratings:\n  overall: 7.9\n  location: 9.3\n  cleanliness: 7.2\n  facilities: 6.4\n  value: 7.8\n  comfort: 7.2\n  staff: 7.9\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447513915.jpg?k=001ccff4937d6d34de20662528aeadf66562c253fcb718d20eac59f916cd029c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463170990.jpg?k=b0d8b404da31d45aefa2e5e9c2f003b625676f131d67cbe8a356563763ee56fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463170648.jpg?k=9318a7888a689f0519db9c3cd251bcf4c574443d64ec629d1550b526253c2d3a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463175541.jpg?k=cb3d141f1df15f56fedc663349264ee6df852e5a279a1c4cb93ee398f327c1b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463175148.jpg?k=2388910f1e4783328084902185e14c4f37ce231d2e939f8d3611de81ce36cf57&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463174806.jpg?k=93dc6bbe315e9634d2265cf7b1a4acc628d03ad568c3e57c50b07d0954488ff8&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free WiFi"\nroomTypes:\n  - "Double Room"\nnearbyAttractions:\n  - "Rinia Park 550 m"\n  - "National Museum of History Albania 600 m"\n  - "House of Leaves 650 m"\n  - "Former Residence of Enver Hoxha 900 m"\n  - "Grand Park of Tirana 1.7 km"\n  - "Bunk'Art 1 Museum 4 km"\nnearbyRestaurants:\n  - "Oxhaket 9 m"\n  - "Caffe #17 40 m"\nwhatsNearby:\n  - "Tanners' Bridge 200 m"\n  - "Sheshi Rekreativ tek ish ATSh 200 m"\n  - "Sheshi Sulejman Pasha 250 m"\n  - "National Gallery of Arts Tirana 300 m"\n  - "Clock Tower Tirana 350 m"\n  - "Skanderbeg Square 400 m"\n  - "Parku Europa 400 m"\n  - "Sheshi Rekreativ Piramida 400 m"\n  - "Parku Rinia 450 m"\n  - "Sheshi Skënderbej 500 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 78 km"\nbookingURL: "https://www.booking.com/hotel/al/tier.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe hotel prides itself on facilitating a seamless stay, offering services such as airport transfers and car rental options to ensure guests can navigate the area with ease. Each guest room is thoughtfully equipped with modern amenities including a flat-screen TV, air conditioning, and complimentary WiFi. The attention to detail extends to the private bathrooms, which are stocked with free toiletries and feature a shower. Select rooms boast the added luxury of city views, allowing guests to take in the vibrant energy of Tirana from the comfort of their room.
 
 For those interested in delving into the local culture and shopping scene, Hotel Tier Center is conveniently located near the Former Residence of Enver Hoxha, Toptani Shopping Centre, and the National Gallery of Arts Tirana. With the Tirana International Mother Teresa Airport just 14 km away, the hotel serves as a perfect gateway for both international visitors and those looking to explore the diverse offerings of Albania's capital.
 
 Hotel Tier Center stands as a testament to thoughtful hospitality, where every aspect of the stay is designed with the guest's comfort and convenience in mind. Whether in town for business or leisure, guests are sure to appreciate the blend of modern amenities and prime location that this hotel offers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

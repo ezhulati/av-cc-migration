@@ -1,30 +1,11 @@
----
-title: Hotel Kamomil
-description: Accommodations at Hotel Kamomil are designed with guest comfort in mind, featuring flat-screen TVs for entertainment and private balconies to soak in the majest
-featuredImage: "/images/accommodation/201342076.jpg"
-language: en
-slug: hotel-kamomil
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Hotel Kamomil are designed with guest comfort in mind, featuring flat-screen TVs for entertainment and private balconies to soak in the majestic sea vistas. Bathrooms are well-appointed with either a bath or shower and complimentary toiletries, adding a touch of luxury to your stay.
+---\ntitle: "Hotel Kamomil"\ndescription: "Discover the vibrant charm of Hotel Kamomil, a recently renovated gem located on the sun-drenched southern coastline of Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201342076.jpg?k=61bffc74a65a900c4896cce3cefcaf56aac510143956b1717e6340f37011e067&o=&hp=1"\nlanguage: en\nslug: hotel-kamomil\naddress: "Lagja 13, Shkëmbi i Kavajës, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.279983\n  lng: 19.513496\nprice: "US$39"\npriceFrom: 39\nstarRating: 3\nrating: 8.7\nratingWords: "Very Good"\nnumberOfReviews: 320\nratings:\n  overall: 8.7\n  location: 9.2\n  cleanliness: 8.4\n  facilities: 8.1\n  value: 8.5\n  comfort: 8.5\n  staff: 8.9\n  wifi: 9.6\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201342076.jpg?k=61bffc74a65a900c4896cce3cefcaf56aac510143956b1717e6340f37011e067&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207771830.jpg?k=cd551f7406ee2e41fe8010699957bd9697909185397d9f061b32831ffec8d12d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207773368.jpg?k=dbecb44a8f400b80d11a3435ef3ffd6b487c25e92912cbc67d6bea6db4eed0ff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201342274.jpg?k=c0be59bf3ca3338c6cd20118a16d594129a46c49f44009e8e24fd8a8cca57ae6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305439341.jpg?k=80728af4449dabb0f94a373904c4576f3a1f63a228b6984f60dc4426c82d7525&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207771039.jpg?k=4100881e153a78085446f4da2adf2ad83a6e6dab09014f04d66374ede5f60511&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Facilities for disabled guests"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Bar"\n  - "Private beach area"\n  - "Good breakfast"\nroomTypes:\n  - "Double Room"\n  - "Double Room with Spa Bath"\n  - "Deluxe Triple Room"\n  - "Deluxe Suite"\n  - "Family Suite"\nnearbyRestaurants:\n  - "Tirona 40 m"\n  - "Sasso Bianco Ristorante 100 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 50 m"\n  - "Durres Beach 750 m"\n  - "Golem Beach 1.7 km"\n  - "Mali I Robit Beach 3.6 km"\n  - "Qerret Beach 6 km"\nwhatsNearby:\n  - "Bekimi 6 km"\n  - "Wine Dhe Pooh 7 km"\n  - "Durres Amphiteatre 7 km"\n  - "Yje Dhe Hena 7 km"\n  - "Sheshi Demokracia 7 km"\n  - "1. Maj 7 km"\n  - "Sotir Noka 7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Salem"\n    country: "Sweden"\n    text: "“In winter there is no buffet due the low visitors but they offer breakfast menu and you can order it many times. Very delicious breakfast with halal food. The service was excellent and the view was amazing. This may be one of the best hotels I...”"\n  - name: "Wenhui"\n    country: "Germany"\n    text: "“Very friendly staff eager to help.
+The owner was a doctor and provided very good advice and even medicine when our family members were sick - makes you feel like at home.
+Clean room and beautiful view.
+Good excursion programs which we participated...”"\n  - name: "Agata"\n    country: "Poland"\n    text: "“I love It
+Everything was perfect.the food was lovely and trwały delicious.i recommend this hotel to every one”"\nbookingURL: "https://www.booking.com/hotel/al/kamomil.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Hotel Kamomil are designed with guest comfort in mind, featuring flat-screen TVs for entertainment and private balconies to soak in the majestic sea vistas. Bathrooms are well-appointed with either a bath or shower and complimentary toiletries, adding a touch of luxury to your stay.
 
 Culinary delights await at the hotel's restaurant, where a fusion of Albanian and Italian cuisine tantalizes the taste buds. The bar, complete with a terrace, is the perfect spot to unwind with a drink while admiring the panoramic views. For those in need, the hotel thoughtfully includes a small clinic, with medical advice readily available upon request.
 
 Situated just 10 km from the heart of Durrës, Hotel Kamomil offers easy access to the city's rich historical tapestry. A convenient bus service from the hotel doorstep to the city center allows guests to explore notable landmarks such as the ancient amphitheatre, the Venetian Tower, and the King Zogu Palace with ease.
 
 Hotel Kamomil emerges as a top choice for travelers seeking a blend of comfort, convenience, and a touch of history along the beautiful Albanian coastline.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

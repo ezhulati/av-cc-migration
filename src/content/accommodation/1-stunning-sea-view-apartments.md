@@ -1,28 +1,15 @@
----
-title: 1-Stunning Sea View Apartments!
-description: Accommodations at this beachfront gem are thoughtfully designed with guest comfort in mind, featuring air-conditioned spaces complete with a wardrobe, kettle, o
-featuredImage: "/images/accommodation/469467842.jpg"
-language: en
-slug: 1-stunning-sea-view-apartments
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at this beachfront gem are thoughtfully designed with guest comfort in mind, featuring air-conditioned spaces complete with a wardrobe, kettle, oven, toaster, and a safety deposit box for personal valuables. Entertainment is readily available via a flat-screen TV, and the inclusion of a terrace invites guests to relax and take in the serene surroundings. Private bathrooms come equipped with a bidet, adding a touch of luxury to the everyday routine.
+---\ntitle: "1-Stunning Sea View Apartments!"\ndescription: "1-Stunning Sea View Apartments!"\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469467842.jpg?k=0d7acf5de913b9d3da2b7c91d7ab3a2194ebab101710de509275a060667e51d9&o=&hp=1"\nlanguage: en\nslug: 1-stunning-sea-view-apartments\naddress: "Rruga Butrinti, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86600805\n  lng: 20.01630603\nprice: "US$51"\npriceFrom: 51\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 7\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469467842.jpg?k=0d7acf5de913b9d3da2b7c91d7ab3a2194ebab101710de509275a060667e51d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471370337.jpg?k=a1979d9d2a3978795fcd71d5a1335b966a128006c358fe792af299e7175928d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471370231.jpg?k=5b8cf7ce16cc19104950bebcf3968f72fb360fc1e2faebadb6ad3c16a55c606b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462075831.jpg?k=e993b23888fef048f918dba828c6ac4503445564dfe8d7d1e46695f53ee23df4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467519333.jpg?k=8e19cdc8394a409fbbadc9295b84f1585aa8e544d8d71a2354f792401f5c1d7e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471371097.jpg?k=0a9401912f51e1a7fd85c0805fe3f53a5d92f6cedb046ce09ffc97650fdaaac2&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Terrace"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "Apartment with Sea View"\nnearbyRestaurants:\n  - "Arjas Fish Restorant 20 m"\n  - "Cimi Gjakova, Pizzeria Grill 50 m"\nnearbyBeaches:\n  - "Maestral Beach 40 m"\n  - "La Petite Beach 250 m"\n  - "Saranda City Beach 650 m"\n  - "VIP Beach 850 m"\n  - "Santa Quaranta Beach 850 m"\nwhatsNearby:\n  - "Parc National de Butrint 1.1 km"\n  - "Butrint National Park 1.9 km"\n  - "Plazhi I Krorezes 7 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Stella"\n    country: "United Kingdom"\n    text: "“Beautiful sea view from the balcony!
+The host was very helpful, flat was very clean and evrything new.
+The flat was in good location and we didn’t need the car to go to restaurant or walk to the beach.
+We really enjoyed our stay and the host...”"\n  - name: "Michael"\n    country: "United Kingdom"\n    text: "“Our stay was great! Great communication and a great apartment!
+The view is awesome, the kitchen has everything you need. Fridge including freezer compartment, pots, pans, dishes - everything is there.
+Parking spaces are either private at the house...”"\n  - name: "Anxheli"\n    country: "Albania"\n    text: "“Xjuljano was an excellent hoyst - he even
+picked us up from the ferry. He was very
+helpful and very generous with his time. A very
+friendly and wonderful host. The apartment is
+just amazing - the most fantastic views over
+the sea with access to a...”"\nbookingURL: "https://www.booking.com/hotel/al/1-stunning-sea-view-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at this beachfront gem are thoughtfully designed with guest comfort in mind, featuring air-conditioned spaces complete with a wardrobe, kettle, oven, toaster, and a safety deposit box for personal valuables. Entertainment is readily available via a flat-screen TV, and the inclusion of a terrace invites guests to relax and take in the serene surroundings. Private bathrooms come equipped with a bidet, adding a touch of luxury to the everyday routine.
 
 The heart of each apartment is its dining area and fully equipped kitchen, where guests can find a fridge and stovetop among other essentials, making self-catering a breeze. Attention to detail is evident with the provision of bed linen and towels in all units, ensuring a comfortable and hassle-free stay.
 
 Situated conveniently close to La Petite Beach, just 300 meters away, and Saranda City Beach, a short 700-meter stroll, the location of 1-Stunning Sea View Apartments! allows for easy exploration of the area's coastal delights. For those looking to venture further, Ioannina Airport is within a 96 km reach, making this property an excellent base for both local and international travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

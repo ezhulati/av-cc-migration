@@ -1,30 +1,10 @@
----
-title: Hostel Durres
-description: The establishment prides itself on a host of amenities designed to enhance guest experiences. A 24-hour front desk ensures assistance is always on hand, whether
-featuredImage: "/images/accommodation/265420414.jpg"
-language: en
-slug: hostel-durres
-location: ""
-amenities: []
-images: []
----
-
-The establishment prides itself on a host of amenities designed to enhance guest experiences. A 24-hour front desk ensures assistance is always on hand, whether day or night. The presence of a bar, a spacious garden, and a terrace invites guests to unwind in a variety of settings, catering to diverse preferences for relaxation and socialization. The communal spirit of Hostel Durres is further fostered by the shared lounge and kitchen, encouraging interactions among guests, while luggage storage facilities add an extra layer of convenience.
+---\ntitle: "Hostel Durres"\ndescription: "Hostel Durres emerges as a prime choice for travelers seeking a blend of comfort and convenience, situated just a stone's throw away from the vibrant shores of Durrës and a mere 150 meters from the historic Durres Amphitheatre."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265420414.jpg?k=e1b85a11718e0bb82d964a6dbf2e1bde2d7dcf1b34f647e6495da2e92d86d719&o=&hp=1"\nlanguage: en\nslug: hostel-durres\naddress: "Sheshi Liria, 2000 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hostel"\ncoordinates:\n  lat: 41.31359884\n  lng: 19.44691122\nprice: "US$13"\npriceFrom: 13\nstarRating: 3\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 982\nratings:\n  overall: 8.5\n  location: 9.5\n  cleanliness: 7.9\n  facilities: 7.9\n  value: 8.7\n  comfort: 7.9\n  staff: 9.2\n  wifi: 8.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265420414.jpg?k=e1b85a11718e0bb82d964a6dbf2e1bde2d7dcf1b34f647e6495da2e92d86d719&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263672931.jpg?k=2a7b6e431e4e78d9201d969a623b16629d1302ca298794d14991c310af9d3696&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408678250.jpg?k=61f5b248b5ed53299450be7698004f438e29dede017da18351dc53c9d011ae3d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265423715.jpg?k=2ff9f1832d3a628c8edc42d261ec8328045f478ac0acc4e59d1f10b62369d562&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/32932649.jpg?k=8ed314c1814e6f15647657b2f4088cc2cbbe7cc9b3257b3b757df1d3d3dc8281&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263672996.jpg?k=4f3fcf333f78cdadd7eaea957f0cf3bb5c7aeda93036748815827dedf20f264f&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Parking"\n  - "Free WiFi"\n  - "Bar"\n  - "Fabulous breakfast"\nroomTypes:\n  - "Single Bed in Dormitory Room"\n  - "Single Bed in 6-Bed Dormitory Room"\n  - "Single Bed in 4-Bed Dormitory Room"\n  - "Double Room with Private Bathroom"\n  - "Double Room with Private Bathroom"\nnearbyRestaurants:\n  - "Sema 10 m"\n  - "Spaghetteria Luli 50 m"\nnearbyBeaches:\n  - "Currila Beach 500 m"\n  - "Kallmi Beach 1.3 km"\n  - "Durres Beach 1.7 km"\n  - "West End Beach 2.4 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nwhatsNearby:\n  - "Durres Amphiteatre 200 m"\n  - "Wine Dhe Pooh 300 m"\n  - "Yje Dhe Hena 300 m"\n  - "1. Maj 400 m"\n  - "Sheshi Demokracia 450 m"\n  - "Sotir Noka 800 m"\n  - "Bekimi 3.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\nreviews:\n  - name: "Max"\n    country: "Canada"\n    text: "“This hostel is centrally located, its staff are welcoming, and it has great common spaces, including a full kitchen. I cannot comment on the dorm rooms, as I booked a private room, which was very comfortable.”"\n  - name: "Antonio"\n    country: "Italy"\n    text: "“Nice Hostel with friendly and helpful staff.
+Amazing location and lovely outdoor area.
+Strongly recommend!
+Thank You!”"\n  - name: "Kerri"\n    country: "United Kingdom"\n    text: "“Excellent location, comfortable bed, warm room (we travelled in November) and friendly welcome. Recommended.”"\nbookingURL: "https://www.booking.com/hotel/al/durres-hostel.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nThe establishment prides itself on a host of amenities designed to enhance guest experiences. A 24-hour front desk ensures assistance is always on hand, whether day or night. The presence of a bar, a spacious garden, and a terrace invites guests to unwind in a variety of settings, catering to diverse preferences for relaxation and socialization. The communal spirit of Hostel Durres is further fostered by the shared lounge and kitchen, encouraging interactions among guests, while luggage storage facilities add an extra layer of convenience.
 
 A complimentary breakfast served each morning provides a delightful start to the day, fueling guests for the adventures that lie ahead. For those keen on exploring the local area, the hostel does not disappoint, offering easy access to an array of activities, with cycling being a popular choice among guests.
 
 Strategically located, Hostel Durres is just 2 km from the Port of Durres, making it an ideal stopover for travelers in transit. Moreover, its proximity to Tirana Airport, situated 24 km away, ensures that both international and domestic travelers can easily access the hostel.
 
 In summary, Hostel Durres stands out as a welcoming haven for guests, offering a harmonious blend of communal atmosphere and private comfort, all within reach of Durrës's key attractions.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

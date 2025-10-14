@@ -1,30 +1,7 @@
----
-title: Alvaros lake apartment
-description: "The apartment itself is a haven of comfort, boasting air-conditioned spaces that promise a cool respite from the Mediterranean warmth."
-featuredImage: "/images/accommodation/481720593.jpg"
-language: en
-slug: alvaros-lake-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of comfort, boasting air-conditioned spaces that promise a cool respite from the Mediterranean warmth. Guests are welcomed into a space that feels like home, complete with a private terrace that invites quiet mornings or peaceful evenings under the sky. The living quarters are thoughtfully designed, featuring a cozy bedroom, a spacious living room for relaxation, and a well-equipped kitchen that caters to culinary adventures.
+---\ntitle: "Alvaros lake apartment"\ndescription: "Alvaros Lake Apartment emerges as a serene retreat in the vibrant heart of Sauk, offering a unique blend of convenience and tranquility."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481720593.jpg?k=75592f07494681a77b92a55817429a45f138312f86c9743182fbc2e1ed46687e&o=&hp=1"\nlanguage: en\nslug: alvaros-lake-apartment\naddress: "Rruga Peti, Sauk, Albania"\ncity: "Sauk"\nlocation: "Sauk"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30399887\n  lng: 19.81325517\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481720593.jpg?k=75592f07494681a77b92a55817429a45f138312f86c9743182fbc2e1ed46687e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/481721327.jpg?k=f58f00d3de3b3908da98aa7662f40c5c032f433f0011a43fe4559bc0be94ac6f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/481721334.jpg?k=e468922055abbc3cc89167809ecd4bd5112072d03dbbf54afa1f16045803b9b0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/481721337.jpg?k=e5afd2cc90ffcbca220c0cb7aa77377c4b520486081f022eb837bf23fcd08f98&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/481721340.jpg?k=43b79c41b9c8e2ec55b0a31cc00e4d6e9a79992736fe278aac665af022a636a1&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyAttractions:\n  - "Former Residence of Enver Hoxha 1.9 km"\n  - "Rinia Park 2.3 km"\n  - "House of Leaves 2.5 km"\n  - "National Gallery of Arts Tirana 2.5 km"\n  - "Skanderbeg Square 2.7 km"\n  - "Clock Tower Tirana 2.7 km"\n  - "Tanners' Bridge 2.7 km"\n  - "National Museum of History Albania 2.8 km"\n  - "Bunk'Art 1 Museum 7 km"\nnearbyRestaurants:\n  - "Tissi Bar 150 m"\n  - "Le Bar à Pizza Classic 250 m"\nwhatsNearby:\n  - "Pylli Orbital 450 m"\n  - "Sheshi Rekreativ Tika 850 m"\n  - "Parku I Madh I Tiranës (Grand Park) 1.1 km"\n  - "Grand Park of Tirana 1.4 km"\n  - "Sheshi Rekreativ Komuna e Parisit 1.5 km"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 1.6 km"\n  - "Shesh Rekreativ 1.8 km"\n  - "Sheshi Rekreativ Blloku 1 Maji 1.9 km"\n  - "Sheshi Rekreativ tek Arena Kombëtare 1.9 km"\n  - "Parku I Madh 1.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 13 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/alvaros-lake-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a haven of comfort, boasting air-conditioned spaces that promise a cool respite from the Mediterranean warmth. Guests are welcomed into a space that feels like home, complete with a private terrace that invites quiet mornings or peaceful evenings under the sky. The living quarters are thoughtfully designed, featuring a cozy bedroom, a spacious living room for relaxation, and a well-equipped kitchen that caters to culinary adventures.
 
 Entertainment is readily available with a flat-screen TV, ensuring that guests have access to global media and local broadcasts. The convenience of complimentary WiFi and private parking on-site adds to the seamless experience, allowing for easy exploration of the surrounding area without the hassle of transportation woes.
 
 Notably, the property maintains a non-smoking policy, ensuring a clean and fresh environment for all guests. For those looking to venture further, the Dajti Ekspres Cable Car awaits at a distance of 8.2 km, offering an aerial journey to one of Albania's most scenic vistas.
 
 Cultural landmarks such as the Postbllok - Checkpoint Monument and the Pyramid of Tirana are also within close proximity, making Alvaros Lake Apartment an ideal base for those keen to immerse themselves in the rich tapestry of Tirana's history and culture. With the nearest airport, Tirana International Mother Teresa Airport, only 16 km away, guests find themselves perfectly positioned for both local exploration and onward journeys.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

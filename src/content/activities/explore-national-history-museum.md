@@ -5,6 +5,10 @@ category: Museums
 featuredImage: ""
 language: en
 slug: explore-national-history-museum
+seo:
+  metaTitle: "Journey into Albania's Past at the National History Museum "
+  metaDescription: "Experience history hands-on at Tirana's National History Museum. Discover interactive exhibits and educational programs."
+  focusKeyword: "National History Museum"
 ---
 
 Why Visit
@@ -67,10 +71,3 @@ Visiting the National History Museum in Tirana is more than just a walk through 
 
 Whether handling a replica of an ancient artifact, participating in a workshop, or attending a cultural festival, you’re not just learning about Albania’s past—you’re experiencing it.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

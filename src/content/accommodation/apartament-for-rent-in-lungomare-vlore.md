@@ -1,30 +1,7 @@
----
-title: Apartament for rent in Lungomare, Vlore
-description: This generously sized apartment not only offers stunning balcony views of the bustling city but also comes fully equipped with modern amenities to ensure a comf
-featuredImage: "/images/accommodation/473696599.jpg"
-language: en
-slug: apartament-for-rent-in-lungomare-vlore
-location: ""
-amenities: []
-images: []
----
-
-This generously sized apartment not only offers stunning balcony views of the bustling city but also comes fully equipped with modern amenities to ensure a comfortable stay. Guests will find two cozy bedrooms, a welcoming living room complete with a flat-screen TV for entertainment, and a kitchen outfitted with an oven and fridge for home-cooked meals. The convenience of an in-unit bathroom with a bidet, along with the option to request towels and linens, underscores the property's attention to guest comfort. It's worth noting that the entire apartment is a smoke-free zone, ensuring a clean and fresh environment.
+---\ntitle: "Apartament for rent in Lungomare, Vlore"\ndescription: "Discover the charm of Vlorë with a stay at the Apartament in Lungomare, Vlore, a prime choice for travelers seeking comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473696599.jpg?k=0ab93224f9f0996c3eca33511429bed2e1aafad5841699587e51818c26824524&o=&hp=1"\nlanguage: en\nslug: apartament-for-rent-in-lungomare-vlore\naddress: "Lungomare, Vlore, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45192143\n  lng: 19.48862175\nprice: "US$65"\npriceFrom: 65\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473696599.jpg?k=0ab93224f9f0996c3eca33511429bed2e1aafad5841699587e51818c26824524&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/472561819.jpg?k=17c256bbaa435287c2db029c1b58252a820c6bf8101021502f1b3dec9802e224&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/472561836.jpg?k=df438f31a395ba3f06669f13d6940a5587504915ff84c3d0d56eee41aaa851b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/472561815.jpg?k=08496dbdf37e98db2027162b60b0dc33937230fd11263dbf887e8e371813241f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/472561825.jpg?k=99315330fcf9916d42706619074bcb1893deeaed31d8a53a94128619be9f2f40&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/472561810.jpg?k=6d17376b72567045f929a9cc520e2fb2500942d851a1d4fd42a14271e2cab178&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/472561840.jpg?k=390af93f998f751fd45b9c90079eddec6a8b19e30060f90c7f67b25f1ea0fb3b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/472561700.jpg?k=66ef5b9ada1fedb83e6f1e2edd397998bdfbb91d7216c48d84f56ef99a15c9ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/472561801.jpg?k=d24f0f02f9dc18806f278a27057253292ca3a4fe84a4cdefbd17f02f6b4d9b2d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/472561831.jpg?k=bf3344ed3367dc25b30081c4e4a4b7aa7b0c8a4f610a5f2ba6724787dfcb27f7&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Bar Pizzeri and Crepes - Carraro 5 m"\n  - "Brooklyn 50 m"\nnearbyBeaches:\n  - "Vlore Beach 600 m"\n  - "Vjetër Beach 600 m"\n  - "Ri Beach 1.9 km"\n  - "Beach at Government Villas 3.5 km"\n  - "Liro Beach 4.2 km"\nwhatsNearby:\n  - "Kuzum Baba 1.8 km"\n  - "Scooby Doo Vlore 1.8 km"\n  - "Independence Square 2.1 km"\nbookingURL: "https://www.booking.com/hotel/al/apartament-for-rent-in-lungomare-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis generously sized apartment not only offers stunning balcony views of the bustling city but also comes fully equipped with modern amenities to ensure a comfortable stay. Guests will find two cozy bedrooms, a welcoming living room complete with a flat-screen TV for entertainment, and a kitchen outfitted with an oven and fridge for home-cooked meals. The convenience of an in-unit bathroom with a bidet, along with the option to request towels and linens, underscores the property's attention to guest comfort. It's worth noting that the entire apartment is a smoke-free zone, ensuring a clean and fresh environment.
 
 Connectivity is never an issue, as guests can enjoy complimentary WiFi access throughout their stay. For those looking to explore local dining options, a variety of restaurants are conveniently located near the apartment, promising delightful culinary adventures.
 
 The iconic Kuzum Baba is just 2.8 km away, offering an excellent opportunity for guests to immerse themselves in the local culture and history. For international travelers, the Tirana International Mother Teresa Airport is 151 km from the property, making it accessible yet comfortably distant from the hustle and bustle of airport traffic.
 
 In summary, the Apartament in Lungomare, Vlore, stands out as a superb lodging choice for those wishing to experience the best of Vlorë, combining the comforts of home with the excitement of travel.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

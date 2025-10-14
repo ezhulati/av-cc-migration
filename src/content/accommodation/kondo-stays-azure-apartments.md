@@ -1,30 +1,10 @@
----
-title: Kondo Stays - Azure Apartments
-description: Guests are treated to breathtaking views of the mountains and gardens, with the sandy shores of Vlore Beach just 1.8 km away. Designed with families in mind, Ko
-featuredImage: "/images/accommodation/470344289.jpg"
-language: en
-slug: kondo-stays-azure-apartments
-location: ""
-amenities: []
-images: []
----
-
-Guests are treated to breathtaking views of the mountains and gardens, with the sandy shores of Vlore Beach just 1.8 km away. Designed with families in mind, Kondo Stays - Azure Apartments doesn't just offer rooms but an experience, complete with a picnic area for those cherished moments of togetherness.
+---\ntitle: "Kondo Stays - Azure Apartments"\ndescription: "Kondo Stays - Azure Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience, situated merely 500 meters from the serene Ri Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470344289.jpg?k=a4ed457fe8586b23c5c9b3b51de51594943cfb1f86dcda74b24da4449d24a0b7&o=&hp=1"\nlanguage: en\nslug: kondo-stays-azure-apartments\naddress: "Rruga Dhimitër Konomi, 9405 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.42902857\n  lng: 19.49641879\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 35\nratings:\n  overall: 9.4\n  location: 8.9\n  cleanliness: 9.5\n  facilities: 8.9\n  value: 9.4\n  comfort: 9.6\n  staff: 9.7\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470344289.jpg?k=a4ed457fe8586b23c5c9b3b51de51594943cfb1f86dcda74b24da4449d24a0b7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470344282.jpg?k=c42b6ececba3c988090c9375eb685cb66305c7ccc2b87e395c09df578b58f549&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470344294.jpg?k=fb9c0592bc8cd3e9bb4871b1542396a16464be4f1f928cd468f290061ca60960&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470344292.jpg?k=b77dcae8bda693eebaff2f29d727f7e250449982aaf2fb0c28d756a3204aab22&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471980578.jpg?k=f83f11cb6b382ed8963fe30da0ee2c34546652954a78c3310b81b4a5f5b37f91&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470344303.jpg?k=4cf12a463a53552574c304d7b1b471ef06e9d86fbb7582de05bbbd798432d899&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470344285.jpg?k=8bf090f9e6e37818fa9fc23aed30d9696e7a3be66acb59ad6498e5a59945d408&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428100600.jpg?k=dd3f6440f31f97ea8f6f454ed973d88e06fc754d903f7e92b0ca4747d007ccd0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470344273.jpg?k=36e13e5fa88aaa0e9a684bd3a9f215dcdfd14283f4aa345afd001aba078e7b71&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Mareluna 250 m"\n  - "Bar Restorant Piceri Xhokla 300 m"\nnearbyBeaches:\n  - "Ri Beach 300 m"\n  - "Beach at Government Villas 1.3 km"\n  - "Vlore Beach 1.5 km"\n  - "Liro Beach 2 km"\n  - "Vjetër Beach 2.8 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 800 m"\n  - "Kuzum Baba 4.3 km"\n  - "Independence Square 4.7 km"\nairports:\n  - "Corfu International Airport 97 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Todorovski"\n    country: "North Macedonia"\n    text: "“This accommodation was excellent. Hendri was great to communicate with! At the residence mr. Hasan and ms. Flora were great, they supplied us several times with vegetables from their own garden and breakfast for the kids free of charge. The place...”"\n  - name: "Katarzyna"\n    country: "Poland"\n    text: "“The apartment was very clean and spacious, amazing sea view and very friendly host.”"\n  - name: "Cani"\n    country: "Albania"\n    text: "“I’m definitely staying here in my next visit to Vlora.
+the property was very clean and has a great view.
+The guy there was very nice.
+it has a barbecue spot and a terrace in the 4th floor where you can enjoy some time with your friends.”"\nbookingURL: "https://www.booking.com/hotel/al/azure-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are treated to breathtaking views of the mountains and gardens, with the sandy shores of Vlore Beach just 1.8 km away. Designed with families in mind, Kondo Stays - Azure Apartments doesn't just offer rooms but an experience, complete with a picnic area for those cherished moments of togetherness.
 
 Each apartment is a haven of relaxation, featuring terraces that open up to captivating sea vistas, cozy seating areas for unwinding, and cable flat-screen TVs for entertainment. The convenience of a fully equipped kitchen, including a toaster, fridge, stovetop, and kettle, allows guests the freedom to prepare their meals just the way they like. The attention to detail extends to the private bathrooms, equipped with walk-in showers and slippers, ensuring a comfortable stay. For added convenience, all units are supplied with fresh bed linen and towels.
 
 For those looking to explore the area, a car rental service is readily available, making local excursions hassle-free. The property's location is ideal for beach lovers, with the exclusive Beach at Government Villas and the picturesque Liro Beach within close proximity. For international travelers, the Tirana International Mother Teresa Airport is 154 km away, with the option of a paid airport shuttle service for seamless transfers.
 
 Kondo Stays - Azure Apartments not only promises a memorable stay but delivers an experience that combines the tranquility of beachside living with the comforts of home.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

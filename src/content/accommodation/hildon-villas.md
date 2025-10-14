@@ -1,28 +1,5 @@
----
-title: Hildon Villas
-description: Each unit at Hildon Villas is a testament to privacy and comfort, featuring a private entrance that leads to a space thoughtfully equipped with a flat-screen TV
-featuredImage: "/images/accommodation/145267847.jpg"
-language: en
-slug: hildon-villas
-location: ""
-amenities: []
-images: []
----
-
-Each unit at Hildon Villas is a testament to privacy and comfort, featuring a private entrance that leads to a space thoughtfully equipped with a flat-screen TV and a private bathroom complete with a bidet and hair dryer. The commitment to guest comfort is evident in the soundproof rooms, ensuring a tranquil retreat from the world outside. Moreover, the provision of bed linen and towels in each unit adds a touch of home.
+---\ntitle: "Hildon Villas"\ndescription: "Hildon Villas emerges as a serene oasis, merely 1."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145267847.jpg?k=e9553c0cddca6b9befbe914434eb11bf757891eb981789f09cc0df8010b02315&o=&hp=1"\nlanguage: en\nslug: hildon-villas\naddress: "Rruga Perivolo Kallam, Drymades, 9422 Dhërmi, Albania"\ncity: "Dhërmi"\nlocation: "Dhërmi"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.155706\n  lng: 19.621306\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.1\nratingWords: "Good"\nnumberOfReviews: 42\nratings:\n  overall: 7.1\n  location: 7.4\n  cleanliness: 6.8\n  facilities: 6.8\n  value: 6.8\n  comfort: 7.2\n  staff: 7.7\n  wifi: 6.7\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145267847.jpg?k=e9553c0cddca6b9befbe914434eb11bf757891eb981789f09cc0df8010b02315&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145267945.jpg?k=ed5d4d68aa3ffca62fca7e7d4181fe31c3226bc05700dd1b7808e153b4715ad8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145267869.jpg?k=a7551b26bc78cbceaf7452eb318ee4d6e14578daebdd607d184636ce2e305f63&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145270487.jpg?k=6e390bc2e6a7bb485f0998d09b377016a3d41e7542d20af1a178470a4ac95988&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145269228.jpg?k=e6f458e7dfaac7f01bbd1a7e94c0bde3a5a9717bf557c879294d5e72c3315001&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145267900.jpg?k=f8125980f39fac913397b86a596a22d76aa8175c6754764703ef8c6132f58c49&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145269297.jpg?k=94f8b7bb63cf6b85f5b64f5a596ac1013fc1793bff5bad1bd9b6a8a216dca255&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145269320.jpg?k=2b05525a746435845f249ce4e50b69e308fcdbb743f2ef9438a383c911d5df71&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145267833.jpg?k=a300cd6ec6831b9ab08ce224543a04008705541ce1faa8a08d5de6aeee37d71d&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Private beach area"\n  - "Good breakfast"\nnearbyRestaurants:\n  - "Camping Paradise 500 m"\n  - "Taverna Fevan 750 m"\nnearbyBeaches:\n  - "Palasa Beach 650 m"\n  - "Dhermi Beach 1.7 km"\n  - "Nazar Beach 2.9 km"\n  - "Gjipe Beach 5 km"\n  - "Beach Me Shpella 6 km"\nwhatsNearby:\n  - "Llogora National Park 4.7 km"\nairports:\n  - "Corfu International Airport 65 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/hildon-villas.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach unit at Hildon Villas is a testament to privacy and comfort, featuring a private entrance that leads to a space thoughtfully equipped with a flat-screen TV and a private bathroom complete with a bidet and hair dryer. The commitment to guest comfort is evident in the soundproof rooms, ensuring a tranquil retreat from the world outside. Moreover, the provision of bed linen and towels in each unit adds a touch of home.
 
 The aparthotel doesn't just stop at comfortable accommodations; it extends its hospitality to include a bar on-site, perfect for unwinding after a day of exploration. During the warmer months, guests are invited to take advantage of the barbecue facilities, adding a delightful option for dining under the stars.
 
 Located a short drive from Dhermi Beach, which is 2.2 km away, Hildon Villas presents an ideal base for exploring the beauty of the surrounding area. For those traveling from afar, Ioannina Airport is the nearest, situated 162 km from the property, making Hildon Villas a compelling choice for both local and international travelers seeking a tranquil getaway with the promise of memorable experiences.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

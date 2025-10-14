@@ -1,15 +1,4 @@
----
-title: Sirel Home
-description: The apartment itself is a haven of modern living, featuring free WiFi, a flat-screen TV, a washing machine, and a fully equipped kitchen that includes a microwa
-featuredImage: "/images/accommodation/518352178.jpg"
-language: en
-slug: sirel-home
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of modern living, featuring free WiFi, a flat-screen TV, a washing machine, and a fully equipped kitchen that includes a microwave and toaster. Designed for both short and long stays, the space is entirely non-smoking, catering to the comfort and health of all guests.
+---\ntitle: "Sirel Home"\ndescription: "Sirel Home emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518352178.jpg?k=9dd41e9f6537ebb94efb0e6a38d3088844a24e295865d126fdcabc0cc513b4a5&o=&hp=1"\nlanguage: en\nslug: sirel-home\naddress: "Rruga Shkembi i Kavajes 5, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.2715208\n  lng: 19.5187709\nprice: "US$37"\npriceFrom: 37\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 3\nratings:\n  overall: 9.3\n  location: 9.2\n  cleanliness: 9.2\n  facilities: 9.2\n  value: 9.2\n  comfort: 9.2\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518352178.jpg?k=9dd41e9f6537ebb94efb0e6a38d3088844a24e295865d126fdcabc0cc513b4a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525809739.jpg?k=10448afccd2ae8042278591781f45783e027d1caa70e0048ad36308016113bbf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525790203.jpg?k=73610d4ffd741d262c9fc8d84f34bb086ee688e0c7bbe2371ad49011bdd71e6e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511610089.jpg?k=5f8bfb8da64b0c260fbbc732f9027ed632f10c7a7ffb91441d8290de99198dae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511610168.jpg?k=ebf849b4cdc53bc3666c078088dc8c720574f70e457ecf185c036752c189a146&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511811344.jpg?k=f11d25b494c63e8a3c194570fbac00f8d7a90ec2d75ed0fb78e2241d7bc0f1e5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518350582.jpg?k=5ae7173f428488d039ac847fbb60e31b8acb0b04a251605edc0cc4f79a45af59&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511825653.jpg?k=cdfd23bd70bd398ae444e9aa655df9003a9ad03d8f2a54ba80d544053eb37eca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511610176.jpg?k=ca6669e5acf4d974b0559184dc27fc2db15512d53a1f5417e6e61fe828559fa1&o=&hp=1"\namenities:\n  - "Spa and wellness centre"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Bar Restorant Hotel Arberia 100 m"\n  - "Benilva 150 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 100 m"\n  - "Golem Beach 650 m"\n  - "Durres Beach 1.8 km"\n  - "Mali I Robit Beach 2.6 km"\n  - "Qerret Beach 4.6 km"\nwhatsNearby:\n  - "Bekimi 7 km"\n  - "Wine Dhe Pooh 8 km"\n  - "Durres Amphiteatre 8 km"\n  - "Yje Dhe Hena 8 km"\n  - "1. Maj 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "Sotir Noka 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nbookingURL: "https://www.booking.com/hotel/al/sirel-home.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of modern living, featuring free WiFi, a flat-screen TV, a washing machine, and a fully equipped kitchen that includes a microwave and toaster. Designed for both short and long stays, the space is entirely non-smoking, catering to the comfort and health of all guests.
 
 For those who enjoy exploring local culture and nightlife, the area around Sirel Home is renowned for its vibrant pub crawls. Additionally, the property encourages guests to immerse themselves in the local environment by offering free use of bicycles. The sun terrace and outdoor fireplace provide perfect settings for unwinding after a day of adventures.
 
@@ -18,15 +7,3 @@ Conveniently located, Sirel Home is just a stone's throw away from popular attra
 Adding to the allure, a quaint coffee shop and a handy minimarket on the premises ensure that guests have easy access to essentials and a spot to enjoy leisurely moments.
 
 In summary, Sirel Home stands out as a prime accommodation choice, offering a seamless blend of home comforts and luxury services, making it an ideal base for exploring the rich tapestry of Durrës and beyond.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

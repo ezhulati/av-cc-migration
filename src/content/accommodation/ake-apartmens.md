@@ -1,26 +1,3 @@
----
-title: AKE Apartmens
-description: The apartment itself boasts a generous layout, featuring a well-appointed bedroom, a cozy living room for unwinding, a fully equipped kitchen for those who enjo
-featuredImage: "/images/accommodation/c84a361d670170a23bc2e937798fc23520f61c43.png"
-language: en
-slug: ake-apartmens
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself boasts a generous layout, featuring a well-appointed bedroom, a cozy living room for unwinding, a fully equipped kitchen for those who enjoy preparing their meals, and a modern bathroom. Entertainment needs are well catered to with the inclusion of a flat-screen TV, complemented by complimentary WiFi that keeps guests connected throughout their stay.
+---\ntitle: "AKE Apartmens"\ndescription: "AKE Apartments emerges as a prime choice for travelers seeking a serene beachfront retreat in Shëngjin, merely a stone's throw away from the pristine shores of Shëngjin Beach."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"\nlanguage: en\nslug: ake-apartmens\naddress: "Sheshi Nene Tereza, 4053 Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.81224261\n  lng: 19.595272\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.1\nratingWords: "Very Good"\nnumberOfReviews: 5\nratings:\n  overall: 8.1\n  location: 9.5\n  cleanliness: 7\n  facilities: 7.5\n  value: 8.5\n  comfort: 7.5\n  staff: 8.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"\n  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301079213.jpg?k=7f1d1dd1ee6bb6b7dd52c45e6804bff1f9f35d04b094d29fcbe5aec3a20d1fa3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/301079207.jpg?k=bf746862bbca1cb3d7e8371c88a3612cb3c49a1b4ac25c2e3ba8b2b79843d527&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/368017678.jpg?k=2956fba7702f9e29764fb0b9e18687cfeee5b00686329a395202cdbab16178b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/358044981.jpg?k=5bbfb81932b63d75fb8ae856da1bc0180f4f39c55a983fa4cb895e5f47898028&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/368017089.jpg?k=4f733a857373bb75f8bcc552a531e5349c82e9b969609039565d6b824a4bf23f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/358200268.jpg?k=dbc1c57e41436dc5752d57a851eeec702743fc46cacc9e153f877f47f40e8f06&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/368017255.jpg?k=66e5ac017cc4e4a9ca2778c5c09a552d359a12c3c5b56d7d2178f42fb70889f2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/358044890.jpg?k=be29891615e73196fe4fbb0e8bf8b07daa31a404d39008f480b52f611fa296a6&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Casa di Caldo 20 m"\n  - "Restorant Pjeromo 50 m"\nnearbyBeaches:\n  - "Shëngjin Beach 100 m"\n  - "Ylberi Beach 1.5 km"\n  - "Rana e Hedhun Beach 2.5 km"\n  - "Kune Beach 4.8 km"\n  - "Laguna Park Beach 4.8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 44 km"\n  - "Podgorica Airport 66 km"\n  - "Tivat Airport 96 km"\nreviews:\n  - name: "Katarzyna"\n    country: "Poland"\n    text: "“Lokalizacja super!wielki balkon,duże pokoje i łazienka”"\nbookingURL: "https://www.booking.com/hotel/al/twin-towers-shengjin-lezhes.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself boasts a generous layout, featuring a well-appointed bedroom, a cozy living room for unwinding, a fully equipped kitchen for those who enjoy preparing their meals, and a modern bathroom. Entertainment needs are well catered to with the inclusion of a flat-screen TV, complemented by complimentary WiFi that keeps guests connected throughout their stay.
 
 For those intrigued by natural beauty, Lake Skadar awaits at a distance of 44 km, presenting an ideal excursion for nature enthusiasts. Moreover, the proximity to Tirana International Mother Teresa Airport, located just 49 km away, adds to the convenience for international travelers, making AKE Apartments a compelling choice for both short and extended stays in the heart of Shëngjin.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

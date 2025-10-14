@@ -1,30 +1,7 @@
----
-title: Drymades Inn Resort
-description: For those who enjoy a good drink in a relaxed atmosphere, the resort's bar is the perfect spot, complemented by the exclusive access to a private beach area, en
-featuredImage: "/images/accommodation/490743918.jpg"
-language: en
-slug: drymades-inn-resort
-location: ""
-amenities: []
-images: []
----
-
-For those who enjoy a good drink in a relaxed atmosphere, the resort's bar is the perfect spot, complemented by the exclusive access to a private beach area, ensuring a unique blend of privacy and natural beauty. Connectivity is never an issue, as guests can enjoy the luxury of free WiFi across the entire property.
+---\ntitle: "Drymades Inn Resort"\ndescription: "Drymades Inn Resort, located a mere stone's throw from the pristine shores of Palasa Beach in Dhërmi, stands out as a premier destination for travelers seeking both serenity and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490743918.jpg?k=e02bf79bb5aaaed865482dc6f691b9dc296ecdc7ea683241c38b1a0910777a8c&o=&hp=1"\nlanguage: en\nslug: drymades-inn-resort\naddress: "Rruga Perivolo, 1001 Dhërmi, Albania"\ncity: "Dhërmi"\nlocation: "Dhërmi"\naccommodationType: "resort"\ncoordinates:\n  lat: 40.15472798\n  lng: 19.61211296\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 15\nratings:\n  overall: 8.5\n  location: 9.2\n  cleanliness: 9.2\n  facilities: 8.5\n  value: 6.7\n  comfort: 8.7\n  staff: 7.5\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490743918.jpg?k=e02bf79bb5aaaed865482dc6f691b9dc296ecdc7ea683241c38b1a0910777a8c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523307850.jpg?k=01737b86a2c490d20e09e06bc532f8b2c9fbcf5caad45e828df4ca75b642f5a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490743908.jpg?k=6c2b0a330421473d0842e9af07834248399a46ab0dae5fc429dd5a091b044055&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490743924.jpg?k=4a072396d323cf81be4bd3e2147e0d90713627ed2eb4d4d7f547e9a224e0913a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523307766.jpg?k=933e172644e44a2088ab60c5655d2b74cde6df5d9c35a202a6b7b2841b91650f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490743897.jpg?k=afba7148a92f2544029b5935c57f0ae0349603e18e673d4709effbec369a6bb3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490743917.jpg?k=05b3ff2eae20b3dbf42cdc32591d9ac29c08298f73ba6cb5d839b0ed8ffd83b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523307820.jpg?k=3f3df8e1b389c86f1fe903fe1f3be2f2f9aa5e63fdeffb349d43a0958e7f534d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490743920.jpg?k=36ea5702742ffa4f07b91d3a2793dfe205ad2bc752d14e374e73584e893885fa&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Private beach area"\n  - "Breakfast"\nnearbyRestaurants:\n  - "360 Sunset Bar Drymades 50 m"\n  - "Tëdudhektu 100 m"\nnearbyBeaches:\n  - "Palasa Beach 50 m"\n  - "Nazar Beach 2.2 km"\n  - "Dhermi Beach 2.2 km"\n  - "Gjipe Beach 6 km"\n  - "Beach Me Shpella 6 km"\nwhatsNearby:\n  - "Llogora National Park 4.6 km"\nairports:\n  - "Corfu International Airport 65 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Karlyn"\n    country: "United Kingdom"\n    text: "“The new rooms \"by Zoe\" are stunning. We had a private pool overlooking the sea and the spec of the rooms was excellent - well decorated and spacious. Staff were helpful and friendly despite the disconnect between the old and the new...”"\n  - name: "Teuta"\n    country: "Kosovo"\n    text: "“The villas are perfect, they have all what you need to enjoy summer stay”"\n  - name: "Louise"\n    country: "France"\n    text: "“Très bon emplacement dans Drymades, front de mer, villas neuves et très propres et personnel agréable.”"\nbookingURL: "https://www.booking.com/hotel/al/zoe-by-drymades-inn-villas.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nFor those who enjoy a good drink in a relaxed atmosphere, the resort's bar is the perfect spot, complemented by the exclusive access to a private beach area, ensuring a unique blend of privacy and natural beauty. Connectivity is never an issue, as guests can enjoy the luxury of free WiFi across the entire property.
 
 Accommodations at Drymades Inn Resort cater to a variety of preferences, with select rooms offering the convenience of a fully equipped kitchen, complete with a fridge and minibar, ensuring a home-away-from-home experience.
 
-Guests can start their day on the right note with a choice of a buffet or continental breakfast, offering a range of delicious options to suit all tastes.
+Guests can start their day on the right note with a choice of a buffet or continental breakfast, offering a range of delicious options to suit all tastes. 
 
 Situated 163 km from Ioannina Airport, the resort remains accessible for international travelers, making it an ideal choice for those looking to escape the hustle and bustle and immerse themselves in the tranquility of Dhërmi.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

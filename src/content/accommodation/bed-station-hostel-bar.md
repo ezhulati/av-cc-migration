@@ -1,28 +1,8 @@
----
-title: Bed Station Hostel & Bar
-description: This establishment distinguishes itself with its on-site bar, fostering a lively social atmosphere perfect for guests looking to connect and unwind. Convenienc
-featuredImage: "/images/accommodation/446255785.jpg"
-language: en
-slug: bed-station-hostel-bar
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Bed Station Hostel & Bar"\ndescription: "Bed Station Hostel & Bar emerges as a standout choice for travelers seeking a vibrant stay in Shkodër, situated within the scenic Shkoder County and a mere 49 km from the Port of Bar."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446255785.jpg?k=43112ee96d0c24778292f383458b5bfe11391b4079c8f2539dd26676b9ebd280&o=&hp=1"\nlanguage: en\nslug: bed-station-hostel-bar\naddress: "Rruga Kolë Idromeno Rrugica mbas hotel Carmen, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hostel"\ncoordinates:\n  lat: 42.068789\n  lng: 19.516112\nprice: "US$9"\npriceFrom: 9\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 199\nratings:\n  overall: 9.3\n  location: 9.8\n  cleanliness: 8.9\n  facilities: 8.9\n  value: 9.4\n  comfort: 8.9\n  staff: 9.4\n  wifi: 9.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446255785.jpg?k=43112ee96d0c24778292f383458b5bfe11391b4079c8f2539dd26676b9ebd280&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470121585.jpg?k=4dc99570107ec2081e4dedc1b7a17a9412f14e151d6e08aead544308745e33f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447059018.jpg?k=dfa3f9e7f5112a0e0f924cf53e5e8d02bd8ec9e7e0a5df02922272b76cd0a0cb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470113544.jpg?k=6203deb95267a324a09859da352e256dcdf5cf374b70418fbd665a150b305b2c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446255701.jpg?k=d37f5ae5914ce97fe404e498d133df55f8de117b06515e16c825df30a4a082be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470121594.jpg?k=408a90668f353aeb4124285395d6f0637208f5247d8ec4bac405ad3daacc0855&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Bar"\nroomTypes:\n  - "Bed in 6-Bed Mixed Dormitory Room"\n  - "Bed in 8-Bed Mixed Dormitory Room"\n  - "Bed in 6-Bed Female Dormitory Room"\n  - "Standard Quadruple Room"\nnearbyRestaurants:\n  - "Casablanca & Lounge 20 m"\n  - "Toto 30 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 3.1 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 73 km"\n  - "Tivat Airport 74 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Inga"\n    country: "Norway"\n    text: "“I stayed there for a couple of nice, and I haven’t experienced the below described disturbing sound from the bar- there was the music, but it has stopped before the midnight. Clean rooms, pretty spacious room (comparing with ex. hostels in...”"\n  - name: "Natasha"\n    country: "South Africa"\n    text: "“Super cool stylish bar Awesome to meet locals
+They have vibey parties in the bar
+& the rooms are clean
+Bedding and beds are a plus very comfy :)”"\n  - name: "Sancar"\n    country: "Turkey"\n    text: "“It's a so cute place. Clean and comfortable. The location is the best. I highly recommend to stay at this hostel.”"\nbookingURL: "https://www.booking.com/hotel/al/bed-station-hostel-amp-bar.en-gb.html?aid=8035640"\nbestFor: "Best for Hostel Experience"\nbestCategories: "Hostel Experience"\ncategory: "Hostel Experience"\n---\n\nThis establishment distinguishes itself with its on-site bar, fostering a lively social atmosphere perfect for guests looking to connect and unwind. 
 
-This establishment distinguishes itself with its on-site bar, fostering a lively social atmosphere perfect for guests looking to connect and unwind.
-
-Convenience is at the forefront, with a shared kitchen available for those who prefer to prepare their meals and complimentary WiFi accessible throughout the premises.
+Convenience is at the forefront, with a shared kitchen available for those who prefer to prepare their meals and complimentary WiFi accessible throughout the premises. 
 
 For those venturing from afar, Podgorica Airport is conveniently located just 58 km away, making Bed Station Hostel & Bar an accessible haven for international and domestic travelers alike.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -9,6 +9,9 @@ tags: []
 featuredImage: "/images/posts/Life-in-Communist-Albania.jpg"
 language: en
 slug: life-in-communist-albania
+seo:
+  metaTitle: "Life in Communist Albania - Stories From Inside the Regime"
+  metaDescription: "Explore daily life under communist rule in Albania—ration cards, surveillance, bunkers, and survival inside Europe's most isolated Stalinist state."
 ---
 
 The year was 1990 when someone spray-painted rock lyrics on a building wall in Tirana.
@@ -147,14 +150,3 @@ You can visit these sites year-round, though spring and fall offer mild weather 
 
 The communist legacy isn't just preserved in museums-it lives in conversations with Albanians who experienced it, in neighborhoods where the architecture tells stories, and in the ongoing process of understanding how societies survive and transform under extreme conditions.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

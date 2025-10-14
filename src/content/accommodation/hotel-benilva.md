@@ -1,32 +1,9 @@
----
-title: Hotel Benilva
-description: Each room at Hotel Benilva is thoughtfully designed with guest comfort in mind, offering air conditioning, satellite TV, and a fridge. The inclusion of a privat
-featuredImage: "/images/accommodation/300854045.jpg"
-language: en
-slug: hotel-benilva
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Hotel Benilva"\ndescription: "Discover the charm of Hotel Benilva, a serene getaway boasting its own private beach adorned with complimentary deck chairs and parasols, ensuring a perfect blend of relaxation and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300854045.jpg?k=d4f4dde826a80b1c291a8d88d246c4ad3edeb6dcf015e8c3defc9980b2583911&o=&hp=1"\nlanguage: en\nslug: hotel-benilva\naddress: "Rr. Shkëmbi i Kavajës, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.27245649\n  lng: 19.51718509\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 7.8\nratingWords: "Good"\nnumberOfReviews: 132\nratings:\n  overall: 7.8\n  location: 8.8\n  cleanliness: 7.8\n  facilities: 7.1\n  value: 7.8\n  comfort: 7.6\n  staff: 8.1\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300854045.jpg?k=d4f4dde826a80b1c291a8d88d246c4ad3edeb6dcf015e8c3defc9980b2583911&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300854064.jpg?k=e5f7a9fdfd098d30245b9f49115a7c22b9f96c5c0de016a4c6d69e693c9f75e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300853972.jpg?k=dcfa868701d921d67b642033dd3271300d5489eaadfd5545e1c0adfb861b19a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300854119.jpg?k=3c9416b01806fff606f9b6179558ba3a210a284a8dd297bcf0cea7e4c5875d34&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/14406499.jpg?k=fd0d78dbcb1057e07dd34fb5cb28378397a642137e3fce0ca12c12ba306e1ef9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/14411023.jpg?k=c408786d0673b03330dd8c692caff1b53ff31ecc69d542a83b7080d286548f14&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Balcony and Sea View"\n  - "Twin Room with Balcony and Sea View"\n  - "Triple Room with Balcony and Sea View"\n  - "Quadruple Room with Balcony and Sea View"\nnearbyRestaurants:\n  - "Benilva 30 m"\n  - "Gelateri Anonimo 200 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 20 m"\n  - "Golem Beach 800 m"\n  - "Durres Beach 1.6 km"\n  - "Mali I Robit Beach 2.7 km"\n  - "Qerret Beach 4.7 km"\nwhatsNearby:\n  - "Bekimi 7 km"\n  - "Wine Dhe Pooh 8 km"\n  - "Durres Amphiteatre 8 km"\n  - "Yje Dhe Hena 8 km"\n  - "1. Maj 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "Sotir Noka 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/benilva-2.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach room at Hotel Benilva is thoughtfully designed with guest comfort in mind, offering air conditioning, satellite TV, and a fridge. The inclusion of a private bathroom and balcony in every room adds a touch of privacy and space for guests to enjoy the serene surroundings.
 
-Each room at Hotel Benilva is thoughtfully designed with guest comfort in mind, offering air conditioning, satellite TV, and a fridge. The inclusion of a private bathroom and balcony in every room adds a touch of privacy and space for guests to enjoy the serene surroundings.
-
-Strategically located, the hotel provides easy access to local transportation, with bus stops directly in front. Just a short drive away, guests can explore the historic heart of Durrës, a city rich in cultural heritage, featuring the ancient Amphitheatre, King Zogu's Palace, the Venetian Tower, and more.
+Strategically located, the hotel provides easy access to local transportation, with bus stops directly in front. Just a short drive away, guests can explore the historic heart of Durrës, a city rich in cultural heritage, featuring the ancient Amphitheatre, King Zogu’s Palace, the Venetian Tower, and more.
 
 For those seeking convenience and personalized service, Hotel Benilva's front desk is available around the clock, offering room service with the option for breakfast in bed. Additional services such as dry cleaning and ironing can be arranged upon request, ensuring a hassle-free stay.
 
 Situated conveniently close to Durrës Ferry Port and within a reasonable distance from Tirana Airport, the hotel serves as an ideal base for exploring the region. The historical city of Krujë is also within reach, offering guests the opportunity to immerse themselves in Albania's rich history and culture.
 
 Hotel Benilva stands out as a welcoming haven for travelers seeking a blend of comfort, convenience, and a touch of adventure.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

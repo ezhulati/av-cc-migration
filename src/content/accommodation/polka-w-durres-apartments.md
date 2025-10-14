@@ -1,30 +1,7 @@
----
-title: Polka w Durres Apartments
-description: The apartment, fresh from a recent renovation, is designed to cater to the needs of the modern traveler. It features a cozy bedroom, a living area equipped with
-featuredImage: "/images/accommodation/484593824.jpg"
-language: en
-slug: polka-w-durres-apartments
-location: ""
-amenities: []
-images: []
----
-
-The apartment, fresh from a recent renovation, is designed to cater to the needs of the modern traveler. It features a cozy bedroom, a living area equipped with a flat-screen TV boasting streaming services, and a kitchenette that is fully equipped with an oven, fridge, washing machine, stovetop, and kitchenware. The provision of towels and bed linen adds a touch of home comfort to the stay. Emphasizing guest privacy, the accommodation includes a private entrance, ensuring a secluded and uninterrupted experience.
+---\ntitle: "Polka w Durres Apartments"\ndescription: "Polka w Durres Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience, just a stone's throw away from the pristine Durres Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484593824.jpg?k=76c275d4685b9caa5b54cbc82daa78a587083f8ec27e43789406782b26392b28&o=&hp=1"\nlanguage: en\nslug: polka-w-durres-apartments\naddress: "8F7F+R4M, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3145875\n  lng: 19.4727969\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484593824.jpg?k=76c275d4685b9caa5b54cbc82daa78a587083f8ec27e43789406782b26392b28&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491633617.jpg?k=be5778ea861cc23ced06acca8b2c389e770e8a176c709f345cd0697d085a9328&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484188694.jpg?k=0adca10aa8ad3fa84c41afdd7656277fc22b67f88c221ac9fbbe577e994d7d78&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484188702.jpg?k=276e128fd3f45a97fc17cc77efe53a6b4eada41705ad8ba875ac8ce9c2678b06&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484188674.jpg?k=575657af06c43e3008cb09de1a9ae7398a25972213d02f69e1102a73db18e7e0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484475020.jpg?k=19b79fad13b803d62b7e6160ea6217514d675d27d50feeed6480e7bb169a9d7f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484474741.jpg?k=08838bcd936d45c9ad533f329951f5d698d54c301769627beb244db5587bb33f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484188628.jpg?k=d83354c246b52b6dc7cb27b6aa2c62dfd7e3f6fefdccc29fb353a907dce9bcb0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484593739.jpg?k=20941996d43cf9df38e8e7582933b3a2190a700dd1b1322381db14c9c6179a2d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\nnearbyRestaurants:\n  - "On off 50 m"\n  - "qetu kom me u kon gjithqysh daja 100 m"\nnearbyBeaches:\n  - "Durres Beach 50 m"\n  - "Currila Beach 2.3 km"\n  - "Kallmi Beach 3.4 km"\n  - "West End Beach 4.4 km"\n  - "Shkëmbi i Kavajës Beach 4.4 km"\nwhatsNearby:\n  - "Bekimi 1.6 km"\n  - "Wine Dhe Pooh 2 km"\n  - "Sheshi Demokracia 2 km"\n  - "Yje Dhe Hena 2.1 km"\n  - "Sotir Noka 2.3 km"\n  - "Durres Amphiteatre 2.3 km"\n  - "1. Maj 2.5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 23 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nbookingURL: "https://www.booking.com/hotel/al/polka-w-durres-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment, fresh from a recent renovation, is designed to cater to the needs of the modern traveler. It features a cozy bedroom, a living area equipped with a flat-screen TV boasting streaming services, and a kitchenette that is fully equipped with an oven, fridge, washing machine, stovetop, and kitchenware. The provision of towels and bed linen adds a touch of home comfort to the stay. Emphasizing guest privacy, the accommodation includes a private entrance, ensuring a secluded and uninterrupted experience.
 
 Beyond the confines of the apartment, guests can enjoy the leisure of a bar on the premises and the accessibility of free WiFi, enhancing both relaxation and connectivity. The property maintains a strict non-smoking policy, ensuring a clean and fresh environment for all guests.
 
 Situated 37 km from the historic Skanderbeg Square, Polka w Durres Apartments offers an ideal base for exploring the local culture and landmarks. Adventure seekers can venture further to the Dajti Ekspres Cable Car, located 41 km away, for breathtaking views, while the Rock of Kavaje, just 7.8 km from the property, presents a closer exploration option. For those traveling by air, the Tirana International Mother Teresa Airport is conveniently 31 km away, making arrivals and departures a breeze.
 
 Polka w Durres Apartments stands out as a top-tier accommodation choice for those looking to enjoy the beauty of Durres Beach with the comforts of a fully-equipped apartment, making it a highly recommended stay for discerning travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

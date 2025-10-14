@@ -1,15 +1,4 @@
----
-title: Hotel Republika
-description: "The air-conditioned rooms at Hotel Republika are a testament to its dedication to guest comfort, each equipped with a wardrobe, a flat-screen TV, and..."
-featuredImage: "/images/accommodation/194071149.jpg"
-language: en
-slug: hotel-republika
-location: ""
-amenities: []
-images: []
----
-
-The air-conditioned rooms at Hotel Republika are a testament to its dedication to guest comfort, each equipped with a wardrobe, a flat-screen TV, and a private bathroom, ensuring a restful stay. The inclusion of bed linen and towels in every room adds a touch of home, making it an ideal retreat after a day of exploration.
+---\ntitle: "Hotel Republika"\ndescription: "Hotel Republika emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194071149.jpg?k=ebf8a35a7bbbb9a7636cdf79e1525db7db9be832665b5dde706f29b1a54755b2&o=&hp=1"\nlanguage: en\nslug: hotel-republika\naddress: "Bulevardi Zogu I Tirana, Albania, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.33389858\n  lng: 19.81706461\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 6\nratingWords: "Average"\nnumberOfReviews: 32\nratings:\n  overall: 6\n  location: 7.9\n  cleanliness: 4.7\n  facilities: 4.6\n  value: 5.6\n  comfort: 5.2\n  staff: 6.2\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194071149.jpg?k=ebf8a35a7bbbb9a7636cdf79e1525db7db9be832665b5dde706f29b1a54755b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194079722.jpg?k=db326076f2d9b107e54d8bade0a22fffd8ad8292db3d4a4ff17d514cf8b1cd3c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/69382723.jpg?k=bd7bc22a6cce0d07188f83b056646457282bc4fd79cd2347c26f51fe6167a506&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194082305.jpg?k=059e0586531e19ef8de049f3786cc6c31363c92c5fd34f001fd9492ee6ce68d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/69382637.jpg?k=ca1f96b05b8167722f48674d0767f9d4a93ba67b4295b7bfc81dfc14c597ff88&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/69382766.jpg?k=1e7645c74be100c5eb599e14632d134e661b5285df9d2150a634f8d37d8e82e2&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\nroomTypes:\n  - "Deluxe Double Room"\n  - "Basic Triple Room"\n  - "Deluxe Family Suite"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 900 m"\n  - "Rinia Park 1 km"\n  - "Tanners' Bridge 1.1 km"\n  - "Former Residence of Enver Hoxha 1.4 km"\n  - "Grand Park of Tirana 2.5 km"\n  - "Bunk'Art 1 Museum 4.1 km"\nnearbyRestaurants:\n  - "Pizzeria Restorant Moxart 10 m"\n  - "Bar Restorant Isontali 20 m"\nwhatsNearby:\n  - "Amazing Nature 200 m"\n  - "National Museum of History Albania 500 m"\n  - "Sheshi Paris 550 m"\n  - "Sheshi Skënderbej 600 m"\n  - "Skanderbeg Square 700 m"\n  - "Sheshi Sulejman Pasha 700 m"\n  - "Clock Tower Tirana 700 m"\n  - "Parku Europa 750 m"\n  - "House of Leaves 800 m"\n  - "Sheshi Rekreativ Mine Peza 800 m"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Visa"\n  - "American Express"\nbookingURL: "https://www.booking.com/hotel/al/republika-tirane.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe air-conditioned rooms at Hotel Republika are a testament to its dedication to guest comfort, each equipped with a wardrobe, a flat-screen TV, and a private bathroom, ensuring a restful stay. The inclusion of bed linen and towels in every room adds a touch of home, making it an ideal retreat after a day of exploration.
 
 Beyond the comforts of the rooms, the hotel boasts a welcoming bar, perfect for unwinding with a drink. The convenience of free WiFi throughout the property and a 24-hour front desk ensures that guests' needs are promptly met, from currency exchange services to local recommendations.
 
@@ -18,15 +7,3 @@ Strategically located, Hotel Republika is within easy reach of Tirana's most not
 For those traveling to or from Tirana International Mother Teresa Airport, located 13 km from the hotel, the convenience of a paid airport shuttle service is available, ensuring a hassle-free beginning or end to their journey.
 
 Hotel Republika stands as a beacon of hospitality in Tirana, offering a blend of comfort, convenience, and cultural proximity that makes it a compelling choice for travelers looking to experience the best of the city.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

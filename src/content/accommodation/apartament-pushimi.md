@@ -1,30 +1,7 @@
----
-title: Apartament pushimi
-description: "Apartament Pushimi is a haven of tranquility, offering guests a fully air-conditioned retreat from the hustle and bustle of daily life."
-featuredImage: "/images/accommodation/515790332.jpg"
-language: en
-slug: apartament-pushimi
-location: ""
-amenities: []
-images: []
----
-
-Apartament Pushimi is a haven of tranquility, offering guests a fully air-conditioned retreat from the hustle and bustle of daily life. The holiday home boasts two cozy bedrooms, a fully equipped kitchen for those who love to cook, and a bathroom designed with comfort in mind. Entertainment is readily available thanks to the inclusion of a flat-screen TV, ensuring that guests have access to their favorite shows and movies during their stay. Emphasizing a smoke-free environment, the accommodation ensures a fresh and healthy atmosphere for all guests.
+---\ntitle: "Apartament pushimi"\ndescription: "Discover the charm of Pogradec with a stay at Apartament Pushimi, a serene holiday home that promises a blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515790332.jpg?k=d61155ba13e7faa46ec9765995124c5c54def9d7f50a8456e650de667bc9f713&o=&hp=1"\nlanguage: en\nslug: apartament-pushimi\naddress: "Rruga Dëshmorët e Pojskës, 7301 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.9017512\n  lng: 20.6647521\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515790332.jpg?k=d61155ba13e7faa46ec9765995124c5c54def9d7f50a8456e650de667bc9f713&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515790320.jpg?k=5375290bbe6f0ceb109fb93a85c23507aac6b04612c234c5f02660a23b8ff668&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515790329.jpg?k=347176dea241c7068d95436a861f5e63bccd581c3c739f5610d2d4cfb53330c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515790330.jpg?k=539fe30c2a7fdf243b6f30bb2667ddd81a30d53f1f15c7628bcebc002a35f3fd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515790331.jpg?k=20fc9275474585b2b67b4d11e71cc39ad46ae77642e088bd8abd965cd6ecee49&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515790334.jpg?k=79a216378ff499cb5057acc58750e810c32763e7192436cc3e1667d2eeaab568&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515790336.jpg?k=e78c48268e3fe12133eecc7a048ef75e0efe5682498846f7cd8ddc12d302907a&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom House"\nnearbyRestaurants:\n  - "Bar Kafe \Select\\"\" 10 m"\n  - "Bar Rrushi 50 m"\nwhatsNearby:\n  - "Driloni National Park 500 m"\n  - "National Park Galicica 7 km"\n  - "National Park Galicica 14 km"\n  - "Bay of Bones 15 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 71 km"\n  - "Tirana International Airport Mother Teresa 96 km"\nbookingURL: "https://www.booking.com/hotel/al/apartament-pushimi-pogradec1.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nApartament Pushimi is a haven of tranquility, offering guests a fully air-conditioned retreat from the hustle and bustle of daily life. The holiday home boasts two cozy bedrooms, a fully equipped kitchen for those who love to cook, and a bathroom designed with comfort in mind. Entertainment is readily available thanks to the inclusion of a flat-screen TV, ensuring that guests have access to their favorite shows and movies during their stay. Emphasizing a smoke-free environment, the accommodation ensures a fresh and healthy atmosphere for all guests.
 
 Connectivity is never an issue as free WiFi blankets the property, allowing guests to stay connected with the world or plan their next day's adventures around Pogradec. Nature enthusiasts will appreciate the close proximity to Ohrid Lake Springs, just 7.4 km away, offering a picturesque escape into nature's embrace.
 
 For those drawn to spiritual sites, the Monastery Saint Naum is a short 6.9 km journey from the doorstep, while the Saint Nicholas Church stands 17 km away, inviting guests to immerse themselves in the local culture and spirituality. Conveniently, Ohrid Airport is located 45 km from Apartament Pushimi, making arrivals and departures as smooth as possible.
 
 Apartament Pushimi emerges as a top choice for travelers seeking a peaceful retreat that does not compromise on accessibility to some of Pogradec's most captivating sights. Whether it's for the history buff, the nature lover, or those simply in search of a quiet getaway, this holiday home ticks all the boxes for an unforgettable stay.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

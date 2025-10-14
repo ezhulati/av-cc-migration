@@ -1,26 +1,3 @@
----
-title: Ari Apartaments
-description: "Each apartment is thoughtfully designed with air conditioning for those warm Mediterranean days and comes equipped with a fully functional kitchen, in..."
-featuredImage: "/images/accommodation/366819667.jpg"
-language: en
-slug: ari-apartaments
-location: ""
-amenities: []
-images: []
----
-
-Each apartment is thoughtfully designed with air conditioning for those warm Mediterranean days and comes equipped with a fully functional kitchen, including a fridge, catering to the needs of guests preferring home-cooked meals.
+---\ntitle: "Ari Apartaments"\ndescription: "Ari Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë, positioned just a stone's throw away from Ri Beach and within easy reach of other local beaches including the Beach at Government Villas and Vlore Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366819667.jpg?k=5eee047fd3e6f0b6a5f431e33023ad5263950d10bc1d8855c7690d0a684cef27&o=&hp=1"\nlanguage: en\nslug: ari-apartaments\naddress: "Rruga Dhimitër Konomi, 9405 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.42968698\n  lng: 19.49364906\nprice: "US$25"\npriceFrom: 25\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 8\nratings:\n  overall: 9\n  location: 9.4\n  cleanliness: 8.8\n  facilities: 8.4\n  value: 9.4\n  comfort: 8.8\n  staff: 9.1\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366819667.jpg?k=5eee047fd3e6f0b6a5f431e33023ad5263950d10bc1d8855c7690d0a684cef27&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375326778.jpg?k=1085ea0d70b084afa8d1199968626cc90414001e125bedbdefe8a92551e94485&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481898404.jpg?k=71f59c634acf9b04e09ec473754218b679ac310d76007df0689c3bcb9c492b31&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375326776.jpg?k=245b1bfe6d7029dacbe2bbddf2ad9e210b5ad7d11782bd1074bd1a75abfc3207&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481898447.jpg?k=a9a866265e152625a96640c52f26099c765acce86852d4ad4f71e48ac6ce020b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481898442.jpg?k=4f7898e61e650bfe7b4eb7efb00a4cb02b3a32c5caf80412208877cc68f19bf4&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Mareluna 40 m"\n  - "Meteor Bar 150 m"\nnearbyBeaches:\n  - "Ri Beach 100 m"\n  - "Beach at Government Villas 1.2 km"\n  - "Vlore Beach 1.4 km"\n  - "Liro Beach 2 km"\n  - "Vjetër Beach 2.7 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 750 m"\n  - "Kuzum Baba 4.2 km"\n  - "Independence Square 4.6 km"\nreviews:\n  - name: "Natalija"\n    country: "North Macedonia"\n    text: "“The apartment is on excellent location,near the tunnel,beaches across the street and the sea here is extremelly clean.The host was polite and was there for everything we needed.There are restaurants with teasty food right next to the apartment and...”"\n  - name: "Щеглова"\n    country: "Ukraine"\n    text: "“Чудове місцезнаходження, гарні апартаменти, хороші господарі”"\nbookingURL: "https://www.booking.com/hotel/al/ari-apartaments-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach apartment is thoughtfully designed with air conditioning for those warm Mediterranean days and comes equipped with a fully functional kitchen, including a fridge, catering to the needs of guests preferring home-cooked meals.
 
 Situated a mere 4.7 km from the historic Kuzum Baba and 4.9 km from the vibrant Independence Square, Ari Apartments serves as an ideal base for exploring the rich cultural tapestry of Vlorë. For those venturing further, Tirana International Mother Teresa Airport is 154 km away, making it a manageable distance for international travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

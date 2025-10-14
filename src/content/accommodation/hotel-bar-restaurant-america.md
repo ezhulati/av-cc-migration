@@ -1,26 +1,5 @@
----
-title: Hotel Bar Restaurant America
-description: Connectivity is a breeze at Hotel Bar Restaurant America, thanks to complimentary WiFi access throughout the premises. Families will appreciate the inclusion of
-featuredImage: "/images/accommodation/142512253.jpg"
-language: en
-slug: hotel-bar-restaurant-america
-location: ""
-amenities: []
-images: []
----
-
-Connectivity is a breeze at Hotel Bar Restaurant America, thanks to complimentary WiFi access throughout the premises. Families will appreciate the inclusion of a kids' club, ensuring entertainment for all ages, while the 24-hour front desk guarantees assistance at any hour. For relaxation, guests can unwind in the hotel's hot tub or stay productive using the well-equipped business centre.
+---\ntitle: "Hotel Bar Restaurant America"\ndescription: "Hotel Bar Restaurant America emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Kukës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/142512253.jpg?k=47c55c15ace2a7cc687ab5bbb7ddd197a94fef62eaad2fe6b205936100442e37&o=&hp=1"\nlanguage: en\nslug: hotel-bar-restaurant-america\naddress: "Rruga Eksod 99 Eksodi 99, 8502 Kukës, Albania"\ncity: "Kukës"\nlocation: "Kukës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.07713188\n  lng: 20.41757636\nprice: "US$43"\npriceFrom: 43\nstarRating: 4\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 234\nratings:\n  overall: 8.5\n  location: 8.6\n  cleanliness: 8.4\n  facilities: 7.9\n  value: 8.2\n  comfort: 8.3\n  staff: 8.6\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/142512253.jpg?k=47c55c15ace2a7cc687ab5bbb7ddd197a94fef62eaad2fe6b205936100442e37&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/142512108.jpg?k=8ba2a81536987e903169b5220bdcbb6625a72ec45a3298a5b20935c033f63df1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/142512061.jpg?k=4ca11522e39ff35e4ea46c7860a655591f226e5816c50ad5ebad9a6b776485e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/142512042.jpg?k=e90ed3d0340a2a2e6c88cd909f5c61b3c616d32fa4e7d377ea9da1eafb724556&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/142512051.jpg?k=821d2bfb17ca68fe72102eef2095924960cc28b8d178a81bb9ee4e4dde229ec5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/142512038.jpg?k=b7487b9c2aba87d3549ce6c5d531152997096c31efbea8073f8bea25236a1e8c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/142512084.jpg?k=e1e80e8a0fd81ac9f12d231601fba62361d74f4d962d60ca78d19b7638fd92e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/142512114.jpg?k=f0cecce949d7ae300336c888d4571cf629be455c6d5360cc866e8a85aafbc2d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/142512045.jpg?k=94a2b176d50f015fdb6dbd7922afe780b66ef2e102a99d806c753718d6bc3c9a&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fitness centre"\n  - "Airport shuttle (free)"\n  - "Restaurant"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Fabulous breakfast"\nroomTypes:\n  - "Deluxe Double Room"\nnearbyRestaurants:\n  - "Pizza Anima Hallall 50 m"\n  - "Fast Food & Snack Shija e Ushqimit Bajraktari 100 m"\nwhatsNearby:\n  - "Partia Socialiste Kukes 100 m"\n  - "Brekija Perla Kuksiane 900 m"\nairports:\n  - "Pristina International Airport 73 km"\n  - "Tirana International Airport Mother Teresa 92 km"\nreviews:\n  - name: "Ursula"\n    country: "Bulgaria"\n    text: "“The room was very big and one of the cleanest we had on our journey. The staff was really nice and the breakfast was great. The hotel has also a restaurant were you can eat very good. It is in the center of Kukes and has its own parking spaces....”"\n  - name: "Michael"\n    country: "Germany"\n    text: "“Nice owner and good facilities.
+Good Breakfast
+Nice Rooftop Terasse”"\n  - name: "Csongor"\n    country: "Hungary"\n    text: "“The Hotel was kind of modern and clean, and a delicious breakfast was served. The manager and the staff is really nice and helpful.”"\nbookingURL: "https://www.booking.com/hotel/al/bar-restaurant-america.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nConnectivity is a breeze at Hotel Bar Restaurant America, thanks to complimentary WiFi access throughout the premises. Families will appreciate the inclusion of a kids' club, ensuring entertainment for all ages, while the 24-hour front desk guarantees assistance at any hour. For relaxation, guests can unwind in the hotel's hot tub or stay productive using the well-equipped business centre.
 
 Cultural enthusiasts will find the location ideal, with both Kalaja Fortress Prizren and the Albanian League of Prizren Museum situated 38 km away, offering a glimpse into the region's rich history. For those traveling by air, Pristina International Airport is conveniently 110 km from the hotel, making Hotel Bar Restaurant America an excellent gateway to explore the beauty and heritage of Kukës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

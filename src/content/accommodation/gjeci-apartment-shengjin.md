@@ -1,28 +1,5 @@
----
-title: Gjeci Apartment Shengjin
-description: "This property distinguishes itself with its air-conditioned accommodations that boast a private pool and an inviting garden view, complemented by a ba..."
-featuredImage: "/images/accommodation/390994095.jpg"
-language: en
-slug: gjeci-apartment-shengjin
-location: ""
-amenities: []
-images: []
----
-
-This property distinguishes itself with its air-conditioned accommodations that boast a private pool and an inviting garden view, complemented by a balcony for an immersive outdoor experience. The apartment is designed to cater to the needs of modern travelers, featuring a spacious layout that includes two bedrooms, a living room, and a well-equipped kitchen complete with a minibar. Entertainment needs are well met with the availability of a flat-screen TV, ensuring guests have a comfortable and enjoyable stay.
+---\ntitle: "Gjeci Apartment Shengjin"\ndescription: "Gjeci Apartment Shengjin emerges as a premier choice for travelers seeking a blend of comfort and convenience in Lezhë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994095.jpg?k=ec0828df2364ac9939952cce0ae6ae3b54de635c12168ea54f566832befbd7f5&o=&hp=1"\nlanguage: en\nslug: gjeci-apartment-shengjin\naddress: "Rruga Shëngjin - Kune, 4503 Lezhë, Albania"\ncity: "Lezhë"\nlocation: "Lezhë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.79549542\n  lng: 19.60463788\nprice: "US$77"\npriceFrom: 77\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994095.jpg?k=ec0828df2364ac9939952cce0ae6ae3b54de635c12168ea54f566832befbd7f5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994152.jpg?k=72ff425037fee744f1c8df4c8b441bc5416009c71742300cf3ec27aa80483cec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994143.jpg?k=0e187c9da4a42fca3ab7b79b1dcb85eb786e1f777f043f3e493ce8dffc93bbd9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994178.jpg?k=170cd40ef089d3cd011445052cf4b88c6bdbd6b9a379d31d11941cc56aca4e27&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994135.jpg?k=ca62d4648a63dc97d35f342fed0e09f757e4d592246bfd921af1a3291efeee13&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994176.jpg?k=23bf2da52247933dbca87971392b54c8186f367e309d397387a6dae5f6cc225c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994170.jpg?k=2574d695b8b25c0921b20264b4d0abd688f69ba5043e2e6be00b9269ddd6ee96&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405978338.jpg?k=c4de9314a930506577a9088ce956711e3eb13a4d49590eb946115efd447c7e0e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994146.jpg?k=b7b55024c355a3182cbe25bf137aec6e7f9e843758eaa4dce93aa9afb74ab71c&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Hotel Restorant Molla 250 m"\n  - "Soleil 400 m"\nnearbyBeaches:\n  - "Ylberi Beach 250 m"\n  - "Shëngjin Beach 600 m"\n  - "Laguna Park Beach 3 km"\n  - "Kune Beach 3.2 km"\n  - "Rana e Hedhun Beach 4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 42 km"\n  - "Podgorica Airport 68 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/apartment-shengjin-lezhe.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis property distinguishes itself with its air-conditioned accommodations that boast a private pool and an inviting garden view, complemented by a balcony for an immersive outdoor experience. The apartment is designed to cater to the needs of modern travelers, featuring a spacious layout that includes two bedrooms, a living room, and a well-equipped kitchen complete with a minibar. Entertainment needs are well met with the availability of a flat-screen TV, ensuring guests have a comfortable and enjoyable stay.
 
 The non-smoking accommodation ensures a clean and healthy environment for all guests. The inclusion of free WiFi throughout the property allows for seamless connectivity, ensuring that guests can stay in touch with loved ones or attend to business matters with ease.
 
 Situated 43 km from the picturesque Lake Skadar and 48 km from Tirana International Mother Teresa Airport, Gjeci Apartment Shengjin offers both tranquility and convenience, making it an ideal base for exploring the natural and cultural highlights of the area. With its thoughtful amenities and prime location, this property stands out as a top choice for those looking to experience the best of Lezhë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

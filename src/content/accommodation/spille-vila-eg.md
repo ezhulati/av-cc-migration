@@ -4,9 +4,21 @@ description: Upon arrival, visitors are greeted by the lush surroundings of a me
 featuredImage: "/images/accommodation/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"
 language: en
 slug: spille-vila-eg
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Air Conditioning"
+  - "Parking"
+  - "Pool"
+  - "Restaurant"
+  - "Bar"
+  - "Kitchen"
+  - "TV"
 ---
 
 Upon arrival, visitors are greeted by the lush surroundings of a meticulously maintained garden, complete with barbecue facilities, perfect for an evening of leisure under the stars. Security is paramount, with full-day monitoring ensuring a worry-free stay. The property boasts breathtaking views of both the garden and an inner courtyard, creating an atmosphere of tranquil seclusion.
@@ -19,14 +31,3 @@ Each holiday home unit offers the luxury of a private bathroom with a shower, an
 
 Located 43 km from the Durres Amphitheatre and 67 km from Tirana International Mother Teresa Airport, Spille Vila E&G serves as an ideal base for exploring the rich cultural heritage and natural wonders of the region. This holiday home stands out as a premier choice for travelers seeking a blend of tranquility, convenience, and a touch of luxury.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

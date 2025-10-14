@@ -1,15 +1,8 @@
----
-title: Modern Sea View Apartments
-description: Guests are greeted with the luxury of a private entrance, ensuring a seamless arrival experience. The allure of Modern Sea View Apartments is further enhanced b
-featuredImage: "/images/accommodation/371363175.jpg"
-language: en
-slug: modern-sea-view-apartments
-location: ""
-amenities: []
-images: []
----
-
-Guests are greeted with the luxury of a private entrance, ensuring a seamless arrival experience. The allure of Modern Sea View Apartments is further enhanced by its comprehensive amenities, including air-conditioned rooms, complimentary private parking, and unrestricted access to WiFi, catering to the digital needs of today's traveler.
+---\ntitle: "Modern Sea View Apartments"\ndescription: "Modern Sea View Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371363175.jpg?k=1bb64d76b842b4f95c323949bc650bc96aa95e0fa59ccc2bf9ab524caaf593aa&o=&hp=1"\nlanguage: en\nslug: modern-sea-view-apartments\naddress: "Rruga Butrinti, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.85058374\n  lng: 20.02261436\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 11\nratings:\n  overall: 9.1\n  location: 9.1\n  cleanliness: 9.1\n  facilities: 8.9\n  value: 9.1\n  comfort: 9.1\n  staff: 9.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371363175.jpg?k=1bb64d76b842b4f95c323949bc650bc96aa95e0fa59ccc2bf9ab524caaf593aa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371363168.jpg?k=e483b0d494d74685e95fc82e4fbf8ee84dcd83d8c9257d8c2cc62ffeab94f352&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371363256.jpg?k=55570458d55a0569d010bee0275121b7268669f9b7085f9f9368bf50d9f22911&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462802598.jpg?k=cd59af1b3a881b7c08fe700466cfbfffd9e3ecc6daffcf898940feab8cec4ed6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462802604.jpg?k=a1d3402abaa6d6fa1ca5327c630deb2a03c134caa2ead5165536369846c3c950&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371178180.jpg?k=b6db0834a5cc8f0eb1a0f5d8b63bc0adefc39f99dcb95b751368cec923afc197&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371363167.jpg?k=499149d1ead87ebb2ded0682b0f307d27a342d536c8d231b2d2b27b311a94872&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371363131.jpg?k=11601dce9cfcb9c6d4b9f348289ba62d67896bb92c8d67e60a0022bf94087d15&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462802597.jpg?k=29ccbb9f0b4c1827696667b9ab06f87adb73595adee6bb13033d4532d6d5d465&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "River View 150 m"\n  - "Sunrise 150 m"\nnearbyBeaches:\n  - "Mango Beach 150 m"\n  - "Flamingo Beach 450 m"\n  - "Santa Quaranta Beach 800 m"\n  - "VIP Beach 900 m"\n  - "Heaven Beach 1.6 km"\nwhatsNearby:\n  - "Butrint National Park 200 m"\n  - "Parc National de Butrint 950 m"\n  - "Plazhi I Krorezes 6 km"\n  - "Parku Kombetar I Butrintit 9 km"\n  - "Butrint National Park 10 km"\nairports:\n  - "Corfu International Airport 28 km"\n  - "Ioannina Airport 69 km"\nreviews:\n  - name: "Valentina"\n    country: "Italy"\n    text: "“struttura ottima, qualità prezzo direi più che sufficiente, la signora che ci ha accolto è stata molto gentile e cordiale. Posizione perfetta, in quanto non troppo vicina al centro ed al caos di saranda.
+CONSIGLIO!!!”"\n  - name: "Alessia"\n    country: "Italy"\n    text: "“L'appartamento ha un balcone stupendo di fronte al mare. È completamente ristrutturato e si trova davanti a una spiaggia molto carina.
+In 40 minuti a piedi si raggiunge tranquillamente il centro, senza stare nel caos della città.”"\n  - name: "Mike"\n    country: "Germany"\n    text: "“Mega Zentrale Lage! Baujahr des Hauses 2022, also alles modern und neu!
+Strand außergewöhnlich interessant da ein Fluss aus den Bergen ins Meer fliesst direkt an diesem Strand!
+Balkon mit Meerblick rundet das Wohlbefinden ab!”"\nbookingURL: "https://www.booking.com/hotel/al/modern-sea-view-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are greeted with the luxury of a private entrance, ensuring a seamless arrival experience. The allure of Modern Sea View Apartments is further enhanced by its comprehensive amenities, including air-conditioned rooms, complimentary private parking, and unrestricted access to WiFi, catering to the digital needs of today's traveler.
 
 Each apartment is designed to be a haven of relaxation and convenience. The living spaces boast a terrace that opens up to breathtaking sea views, creating an ideal backdrop for unwinding. The inclusion of a seating area and a flat-screen TV ensures guests have a comfortable space to relax after a day of exploration. Culinary enthusiasts will appreciate the fully equipped kitchen, complete with an oven and toaster, allowing for the preparation of meals just the way one likes.
 
@@ -18,15 +11,3 @@ The attention to detail extends to the private bathrooms, equipped with showers 
 Located just 1.1 km from Santa Quaranta Beach and a short drive from Heaven Beach, Modern Sea View Apartments offers an ideal base for beach lovers and explorers alike. For those traveling further afield, Ioannina Airport is 98 km away, making it a convenient option for international guests.
 
 In summary, Modern Sea View Apartments presents a compelling choice for those in search of a serene retreat that does not compromise on accessibility to Sarandë's most cherished beaches and attractions.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Waterfront Apartment
-description: The apartment itself boasts a generous layout, featuring two distinct bedrooms, a single bathroom, and a living room adorned with a flat-screen TV, ensuring a c
-featuredImage: "/images/accommodation/466513645.jpg"
-language: en
-slug: waterfront-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself boasts a generous layout, featuring two distinct bedrooms, a single bathroom, and a living room adorned with a flat-screen TV, ensuring a comfortable stay for all guests. The heart of the home, a fully equipped kitchen with a dining area and oven, invites guests to prepare and enjoy meals with a view, thanks to an additional outdoor dining area that captures the essence of the surrounding landscape.
+---\ntitle: "Waterfront Apartment"\ndescription: "Waterfront Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Shëngjin."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466513645.jpg?k=22a93eedfcb8fab99c14ab128b97e496e8172f73b90979b25915a6aeba7c9bda&o=&hp=1"\nlanguage: en\nslug: waterfront-apartment\naddress: "Bulevardi Nënë Tereza, Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.81029706\n  lng: 19.59762516\nprice: "US$302"\npriceFrom: 302\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466513645.jpg?k=22a93eedfcb8fab99c14ab128b97e496e8172f73b90979b25915a6aeba7c9bda&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466511229.jpg?k=bb815513abd2a0af266b593957e228014794c06508a8bfb3b90bf17b8ad49659&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466516507.jpg?k=841ffe39166e73115a76252b3fe55cf703aac94c0b42135a2030f586b9afbe33&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476333184.jpg?k=10f8d5281c4b35d0aef493bcbd00a2258fb92fec46da99f430e37cdeae98286c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476333219.jpg?k=2cea34a1e631bb97c521acc5bfc6c50cac76159150f65c2f6d371f43a036aadd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476304425.jpg?k=fb6c2688bafeebc2efd6b427fa25e5c2f6250c4f9ad5e09027d1e0005275c553&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466516893.jpg?k=2329d777fe881406b52d9d9d5c63069cf3ccd03931265da0a1b16638152028c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476333183.jpg?k=67d3d3060c7173cbc61d891d7ab32dd11fab82a7756ac476b9ab0c3267581bd9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466025227.jpg?k=3b1eb0bca072623bc1c199ae767696e401c6a7848aeb915753b457729ad6f70a&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Family rooms"\n  - "Beachfront"\nroomTypes:\n  - "Apartment"\nnearbyRestaurants:\n  - "Il Veliero Ristorante Italiano 50 m"\n  - "Pizza Bella Vita 150 m"\nnearbyBeaches:\n  - "Shëngjin Beach 100 m"\n  - "Ylberi Beach 1.2 km"\n  - "Rana e Hedhun Beach 2.8 km"\n  - "Kune Beach 4.6 km"\n  - "Laguna Park Beach 4.6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 44 km"\n  - "Podgorica Airport 66 km"\n  - "Tivat Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/waterfront-apartment-shengjin.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself boasts a generous layout, featuring two distinct bedrooms, a single bathroom, and a living room adorned with a flat-screen TV, ensuring a comfortable stay for all guests. The heart of the home, a fully equipped kitchen with a dining area and oven, invites guests to prepare and enjoy meals with a view, thanks to an additional outdoor dining area that captures the essence of the surrounding landscape.
 
 For convenience, a minimarket on the premises caters to the immediate needs of guests, adding an extra layer of comfort to their stay. Beyond the confines of the apartment, adventure awaits with Ylberi Beach located just 1.3 km away, offering a different scenery for beach enthusiasts. Meanwhile, history buffs will appreciate the proximity to Rozafa Castle Shkodra, a significant cultural landmark 42 km from the apartment.
 
 Accessibility is also a key feature, with Tirana International Mother Teresa Airport situated 48 km away, making Waterfront Apartment an accessible retreat for both local and international travelers. This property not only promises a stay marked by comfort and convenience but also positions itself as a gateway to exploring the natural and historical riches of Shëngjin.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

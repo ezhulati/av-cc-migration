@@ -1,28 +1,5 @@
----
-title: Orkidea Apartments 2
-description: The apartment itself is a testament to modern living, boasting a generous layout that includes a well-appointed bedroom, a cozy living room for relaxation, a fu
-featuredImage: "/images/accommodation/504680014.jpg"
-language: en
-slug: orkidea-apartments-2
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to modern living, boasting a generous layout that includes a well-appointed bedroom, a cozy living room for relaxation, a fully equipped kitchen for those who love to cook, and a bathroom fitted with contemporary amenities. The inclusion of air conditioning and free WiFi adds to the comfort of guests, ensuring a stay that combines convenience with relaxation.
+---\ntitle: "Orkidea Apartments 2"\ndescription: "Orkidea Apartments 2 emerges as a prime choice for travelers seeking comfort and convenience in Golem, situated merely 500 meters from the pristine Golem Beach and a short stroll from Shkëmbi i Kavajës Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504680014.jpg?k=2874fa6d2610e1a1aa8f2449b3700752f00edeca599fceb40d6cb3991414374b&o=&hp=1"\nlanguage: en\nslug: orkidea-apartments-2\naddress: "Rruga Kavaja, 2001 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.25959458\n  lng: 19.52506058\nprice: "US$28"\npriceFrom: 28\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 9.6\n  location: 10\n  cleanliness: 10\n  facilities: 8.8\n  value: 10\n  comfort: 10\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504680014.jpg?k=2874fa6d2610e1a1aa8f2449b3700752f00edeca599fceb40d6cb3991414374b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504680012.jpg?k=298494cc6d2589c98b08635567857488f4f21c1b6ba2414d33c3612bb4de2cf2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476142468.jpg?k=f46c7bc2c8e1683562f4e6ee0cc17986eb22706bbe1fdddefbc610d5ccf7cea4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504680016.jpg?k=9191c552e9cadf32c1978a0b72df4409cd86686a93a3ea0275c0ca39a61b515a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504680011.jpg?k=a9ec163ea72d933d6b0d1bc00c30e5e37c7ddce4282b3eb56b0c0cd2ec14159b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476142533.jpg?k=ea2b8d1ff44917d3ae68c1d489430f2484843ef0491d1666583708eeec382962&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504680005.jpg?k=11db944e562a1040cbcd04aac1c8456b76a8eb5c09bfdd04c8879f238b653680&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476142551.jpg?k=3bffcd268231ba54eec2b31d49f13b2ca78e3723337e32a01d4ba519ab7c8911&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476142555.jpg?k=134fe68908fe4563d042aeb9e13b49b6db4b3c058d24e50a87cfd6abfd31017a&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Flobede Furrë Buke 150 m"\n  - "Oaz Durres 550 m"\nnearbyBeaches:\n  - "Golem Beach 450 m"\n  - "Shkëmbi i Kavajës Beach 850 m"\n  - "Mali I Robit Beach 1.4 km"\n  - "Durres Beach 3.2 km"\n  - "Qerret Beach 3.4 km"\nwhatsNearby:\n  - "Bekimi 9 km"\n  - "Durres Amphiteatre 9 km"\n  - "Wine Dhe Pooh 9 km"\n  - "1. Maj 9 km"\n  - "Yje Dhe Hena 9 km"\n  - "Sheshi Demokracia 9 km"\n  - "Sotir Noka 10 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/orkidea-apartments-durres.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to modern living, boasting a generous layout that includes a well-appointed bedroom, a cozy living room for relaxation, a fully equipped kitchen for those who love to cook, and a bathroom fitted with contemporary amenities. The inclusion of air conditioning and free WiFi adds to the comfort of guests, ensuring a stay that combines convenience with relaxation.
 
 One of the highlights of Orkidea Apartments 2 is the tranquil garden, inviting guests to unwind in a peaceful setting. The proximity to significant attractions such as Skanderbeg Square and the Dajti Ekspres Cable Car, along with the ease of access to Tirana International Mother Teresa Airport, makes this property an ideal base for exploring the rich cultural tapestry and natural beauty of the area.
 
 Orkidea Apartments 2 is not just an accommodation; it's a gateway to experiencing the vibrant life and scenic landscapes of Golem, making it a highly recommended stay for those looking to immerse themselves in the local culture and enjoy the serene beaches of Albania.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

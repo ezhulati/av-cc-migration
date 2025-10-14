@@ -1,15 +1,4 @@
----
-title: SILVER apartament
-description: Upon arrival, guests are greeted with the convenience of complimentary private parking and the assurance of connectivity through free WiFi. The apartment prides
-featuredImage: "/images/accommodation/296848272.jpg"
-language: en
-slug: silver-apartament
-location: ""
-amenities: []
-images: []
----
-
-Upon arrival, guests are greeted with the convenience of complimentary private parking and the assurance of connectivity through free WiFi. The apartment prides itself on its commitment to guest service, boasting a 24-hour front desk, round-the-clock security, and a currency exchange facility to ease the travel experience.
+---\ntitle: "SILVER apartament"\ndescription: "SILVER Apartment emerges as a prime choice for travelers seeking a blend of comfort, convenience, and a touch of local flavor in Korçë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296848272.jpg?k=353f4e15d6498b19eaaf8eefc313558ffefd9c0c0757f8b9a5a44c323834fe09&o=&hp=1"\nlanguage: en\nslug: silver-apartament\naddress: "Rruga Anastas Lakce, 7001 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.6237576\n  lng: 20.7769382\nprice: "US$75"\npriceFrom: 75\nstarRating: 3\nrating: 7.7\nratingWords: "Good"\nnumberOfReviews: 6\nratings:\n  overall: 7.7\n  location: 8.8\n  cleanliness: 7.1\n  facilities: 6.7\n  value: 6.7\n  comfort: 7.5\n  staff: 7.1\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296848272.jpg?k=353f4e15d6498b19eaaf8eefc313558ffefd9c0c0757f8b9a5a44c323834fe09&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/404780469.jpg?k=0e945ff3909af886e998ad2a3f770f7edd9a2e9f1fd2125137cc8230f4b70066&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/284320397.jpg?k=b11c3901d04894ae82051e90e7dce507c9e3cffbefbe7e6bd26fc77cb0560ebf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/296848351.jpg?k=f22920d17cc211cbd5ec07a069d7ccf5ff2f7af8c46effd027d433cdc4153ae8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/404780458.jpg?k=6d425c195646987f03b7b3d39f42936cc42a05df6c62d316cad3247227beb4cb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/284321198.jpg?k=f34527d005d0121933b5290029c8db6bb331d6cf7a19dbc5308ab6a1b878d763&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/404780497.jpg?k=7a7b885297641d393d4946e0d839a29f8d5ff606ebcab0dd9dfb2981e5264066&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/279918114.jpg?k=045f842e2a4668b19922d8a7a27262b933212b49be6ea41fa508237c3c1c7445&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Elisabet 100 m"\n  - "Korca 150 m"\nwhatsNearby:\n  - "Parku Themistokli Gërmenji 700 m"\n  - "Field of Tears 750 m"\n  - "Parku Rinia 900 m"\n  - "Parku Rinia 900 m"\n  - "Parku Vangjush Mio 900 m"\n  - "Sheshi Patriku Joasaf 1 km"\n  - "Sheshi Panxhar 4.9 km"\n  - "Sheshi Penetori 12 km"\n  - "Sheshi Koço Plaku 12 km"\nairports:\n  - "Kastoria National Airport 46 km"\n  - "Ohrid Airport 60 km"\n  - "Kozani National Airport 97 km"\nbookingURL: "https://www.booking.com/hotel/al/silver-apartament.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nUpon arrival, guests are greeted with the convenience of complimentary private parking and the assurance of connectivity through free WiFi. The apartment prides itself on its commitment to guest service, boasting a 24-hour front desk, round-the-clock security, and a currency exchange facility to ease the travel experience.
 
 The interior of SILVER Apartment does not disappoint, featuring a generously sized layout that includes two bedrooms, a living room, and a fully equipped kitchen, all complemented by a modern bathroom. Entertainment needs are met with a flat-screen TV, ensuring a comfortable stay. It's worth noting that the apartment maintains a non-smoking policy, catering to the comfort of all guests.
 
@@ -18,15 +7,3 @@ Culinary delights are just steps away at the on-site family-friendly restaurant,
 For those looking to explore, sightseeing tours can be easily arranged near the property. Families will appreciate the thoughtful inclusion of a children's playground and a picnic area, ensuring leisure and relaxation for all ages.
 
 Located 42 km from the historic Monastery Saint Naum and 71 km from Kastoria National Airport, SILVER Apartment stands as an ideal base for exploring the rich cultural tapestry and natural beauty of the region.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

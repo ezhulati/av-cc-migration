@@ -1,30 +1,7 @@
----
-title: Rams Apartment
-description: This elegantly furnished apartment features one bedroom, a fully equipped kitchen for those who love to prepare their meals, and a modern bathroom. Guests can e
-featuredImage: "/images/accommodation/448847839.jpg"
-language: en
-slug: rams-apartment
-location: ""
-amenities: []
-images: []
----
-
-This elegantly furnished apartment features one bedroom, a fully equipped kitchen for those who love to prepare their meals, and a modern bathroom. Guests can enjoy the luxury of air conditioning, ensuring a comfortable stay regardless of the weather outside. The inclusion of a flat-screen TV adds a touch of home comfort, perfect for unwinding after a day of sightseeing.
+---\ntitle: "Rams Apartment"\ndescription: "Rams Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448847839.jpg?k=57fa2a0be84c95ca30ab9fddec2d199847915b7e747a7ce9faa26c9dc4cf3c0b&o=&hp=1"\nlanguage: en\nslug: rams-apartment\naddress: "Rruga 5 Maji, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.34359042\n  lng: 19.82555913\nprice: "US$41"\npriceFrom: 41\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 6\nratings:\n  overall: 9.3\n  location: 8.5\n  cleanliness: 9\n  facilities: 9.5\n  value: 9.5\n  comfort: 9\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448847839.jpg?k=57fa2a0be84c95ca30ab9fddec2d199847915b7e747a7ce9faa26c9dc4cf3c0b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448847777.jpg?k=3e3ee56840206d9620f440242b5698f05d78bb606a2046a82453dfdaeadfa316&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448847802.jpg?k=d6f4278c57831ffab761d49df7847a2d8d957c209b63ffa4379495bd3117a358&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448847782.jpg?k=aefe340888fc69f25571b0aed2df241fe0bf75cd7b69b257143dfa6d20fe2792&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448847787.jpg?k=68ebc9155c4ea62fd77a5d84de22b6f5193f4c7f35bfcdc535c52711e6b12934&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448847793.jpg?k=adaf757350d813fb7c12ff7164fe383e7753083f8240f0e2e6b4d8e1bd5fc930&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448847825.jpg?k=4c76a7061709d5e3705580281891d62846c9e3df9f16029004258b3bd4f53fa6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448847816.jpg?k=6fcd7d57f2d52d73a7dc155910f91507ef0e89e7bcd499e20f933019fef2d5b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448847702.jpg?k=2fe3d40e25008bca83ae1c79702f8d30d8ea4d5e44d773f8fddeb351ab49d5d6&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Clock Tower Tirana 1.8 km"\n  - "Skanderbeg Square 1.8 km"\n  - "Tanners' Bridge 1.9 km"\n  - "National Gallery of Arts Tirana 2 km"\n  - "House of Leaves 2 km"\n  - "Rinia Park 2.2 km"\n  - "Former Residence of Enver Hoxha 2.6 km"\n  - "Bunk'Art 1 Museum 3 km"\n  - "Grand Park of Tirana 3.5 km"\nnearbyRestaurants:\n  - "Byrektore 100 m"\n  - "Le Gemelle 200 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Allias 950 m"\n  - "Amazing Nature 1.2 km"\n  - "Sheshi Jjosef Shtraus 1.3 km"\n  - "Sheshi Rekreativ Gjolek Kokona 1.4 km"\n  - "Sheshi Sulejman Pasha 1.7 km"\n  - "National Museum of History Albania 1.7 km"\n  - "Sheshi Rekreativ tek ish ATSh 1.7 km"\n  - "Sheshi Skënderbej 1.8 km"\n  - "Sheshi Paris 1.8 km"\n  - "Sheshi Rekreativ Don Bosko 1.8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Mullahi"\n    country: "Germany"\n    text: "“I liked it great, and everything was nearby for me. it was good”"\nbookingURL: "https://www.booking.com/hotel/al/rams-apartaments.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis elegantly furnished apartment features one bedroom, a fully equipped kitchen for those who love to prepare their meals, and a modern bathroom. Guests can enjoy the luxury of air conditioning, ensuring a comfortable stay regardless of the weather outside. The inclusion of a flat-screen TV adds a touch of home comfort, perfect for unwinding after a day of sightseeing.
 
 One of the highlights of Rams Apartment is its balcony, offering serene garden views that promise a tranquil retreat from the bustling city life. The convenience of free private parking and complimentary WiFi enhances the overall guest experience, catering to the needs of both leisure and business travelers.
 
 For those interested in cultural excursions, the National Theatre of Opera and Ballet of Albania is located just 1.7 km away, making it easily accessible for an evening of entertainment. Further afield, the Rock of Kavaje awaits at 43 km, inviting adventurous souls to explore its natural beauty. The proximity to Tirana International Mother Teresa Airport, at 14 km, ensures smooth travel arrangements for arriving and departing guests.
 
 Rams Apartment stands out as a non-smoking property, emphasizing a clean and healthy environment for its guests. With its strategic location, comprehensive amenities, and the promise of a peaceful stay, it is an excellent choice for those looking to discover the charm of Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

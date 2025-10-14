@@ -1,30 +1,7 @@
----
-title: Lovely sea view 2 bedroom condo-apartment.
-description: "This air-conditioned haven boasts a generous layout, featuring two well-appointed bedrooms, ensuring ample space for guests."
-featuredImage: "/images/accommodation/477640162.jpg"
-language: en
-slug: lovely-sea-view-2-bedroom-condo-apartment
-location: ""
-amenities: []
-images: []
----
-
-This air-conditioned haven boasts a generous layout, featuring two well-appointed bedrooms, ensuring ample space for guests. Entertainment is readily available with a flat-screen TV equipped with satellite channels, perfect for relaxing evenings in. The kitchen doesn't disappoint either; it's fully equipped with modern appliances including a dishwasher, oven, washing machine, fridge, and stovetop, catering to all your culinary needs.
+---\ntitle: "Lovely sea view 2 bedroom condo-apartment."\ndescription: "Discover the charm of Durrës from the comfort of the Lovely Sea View 2 Bedroom Condo-Apartment, a prime beachfront property that offers more than just a place to stay."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477640162.jpg?k=688c406be1768f8d33f31c5677db2148e2e2f2fd42d720060372720b191727d6&o=&hp=1"\nlanguage: en\nslug: lovely-sea-view-2-bedroom-condo-apartment\naddress: "Rruga Shkembi i Kavajes, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.27578827\n  lng: 19.51582842\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 1\nratings:\n  overall: 7.5\n  location: 7.5\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 7.5\n  comfort: 7.5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477640162.jpg?k=688c406be1768f8d33f31c5677db2148e2e2f2fd42d720060372720b191727d6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477640246.jpg?k=8bdf8e696e3bbb499155f65ec3719a8b4ca56a03a46f52c95c4fb119d25576eb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477640240.jpg?k=7d86279bc448e5faa4b449f2892c744ac3cb0ab9cad964515a0ae0457b3836ea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477640259.jpg?k=beccabd73e21e8e0b1c08c49aeb03065a6b43a82365f9f67f7da1269369f0bc8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477640245.jpg?k=ddd2fcf3e1bf3f6f534c02867c3bc30707aa0ce12248e2ecd8ae1a2210c668e5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477640267.jpg?k=83628aa309455ce1022f540feb040473c0ee7478fdadbe39a5866999f16c90b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477640265.jpg?k=68c1db6d8122abc42bdf2c1250fb2bb7126e07af1e5bb28803e5f063fa0afd4f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477640232.jpg?k=620a7857dcdd4908e41a36954835c65ed7905c1ef90ac9bd1e06c15c4c9191e2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477640235.jpg?k=0c63c02509a899dbee2d95b70266641801e95614806fd0c4e3ca402784847d3d&o=&hp=1"\namenities:\n  - "Private parking"\n  - "Free WiFi"\n  - "Beachfront"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Restorant Orkide 30 m"\n  - "Oyster 150 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 30 m"\n  - "Golem Beach 1.2 km"\n  - "Durres Beach 1.2 km"\n  - "Mali I Robit Beach 3.1 km"\n  - "Qerret Beach 5 km"\nwhatsNearby:\n  - "Bekimi 7 km"\n  - "Wine Dhe Pooh 7 km"\n  - "Durres Amphiteatre 7 km"\n  - "Yje Dhe Hena 7 km"\n  - "1. Maj 7 km"\n  - "Sheshi Demokracia 7 km"\n  - "Sotir Noka 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/lovely-sea-view-2-bedroom-condo-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis air-conditioned haven boasts a generous layout, featuring two well-appointed bedrooms, ensuring ample space for guests. Entertainment is readily available with a flat-screen TV equipped with satellite channels, perfect for relaxing evenings in. The kitchen doesn't disappoint either; it's fully equipped with modern appliances including a dishwasher, oven, washing machine, fridge, and stovetop, catering to all your culinary needs.
 
 One of the apartment's highlights is undoubtedly its balcony. Offering breathtaking sea views, it's furnished for comfort, allowing guests to enjoy the scenic beauty of Durrës in tranquility. For those traveling with children, the outdoor play equipment is a thoughtful addition, ensuring entertainment for the younger guests.
 
 While the allure of the beach is undeniable, the apartment's proximity to notable landmarks adds to its appeal. Skanderbeg Square and the Dajti Ekspres Cable Car are within a reasonable distance, promising adventure and exploration. For those arriving by air, the Tirana International Mother Teresa Airport is conveniently located 36 km away, making travel arrangements seamless.
 
 In summary, the Lovely Sea View 2 Bedroom Condo-Apartment is not just a place to stay but a gateway to experiencing the best of Durrës, combining comfort, convenience, and captivating views for an unforgettable visit.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,7 @@
----
-title: Le Palazzine Hotel
-description: Each guest room at Le Palazzine Hotel is a haven of comfort, equipped with air conditioning, a minibar, a flat-screen TV, and a private bathroom featuring a sho
-featuredImage: "/images/accommodation/264363934.jpg"
-language: en
-slug: le-palazzine-hotel
-location: ""
-amenities: []
-images: []
----
-
-Each guest room at Le Palazzine Hotel is a haven of comfort, equipped with air conditioning, a minibar, a flat-screen TV, and a private bathroom featuring a shower, ensuring a restful and luxurious stay.
+---\ntitle: "Le Palazzine Hotel"\ndescription: "Le Palazzine Hotel, strategically positioned on the Vlorë seafront and merely 5 km away from the iconic Kuzum Baba, stands out as a prime choice for travelers seeking both relaxation and adventure."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/264363934.jpg?k=df45cb4841fe7eefab04fd6df93b49e9ae236754cb98032396b83e0bd8ceaef6&o=&hp=1"\nlanguage: en\nslug: le-palazzine-hotel\naddress: "Rr. Dhimiter Konomi, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.42736368\n  lng: 19.49178994\nprice: "US$41"\npriceFrom: 41\nstarRating: 4\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 342\nratings:\n  overall: 8.2\n  location: 8\n  cleanliness: 8.2\n  facilities: 8.1\n  value: 7.7\n  comfort: 8.2\n  staff: 8.4\n  wifi: 9.1\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/264363934.jpg?k=df45cb4841fe7eefab04fd6df93b49e9ae236754cb98032396b83e0bd8ceaef6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513933026.jpg?k=ad7cf5bd0d7c56478bb566f4fc2c11ec854e0a75cba1928ac7a7acce2ec0a2fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276459980.jpg?k=1bdeefd16e5a9e263a5c56d51a4c89caef234012a43ce25733e6d5f4912d718f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513963182.jpg?k=c9c5a5ec780052c29f8d7f9cf62c10d8fe220e17b07981f4fa53d2a146400087&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/102959458.jpg?k=a4031291459911bfe520b5cf07147552209eec0ca0eb0bb84d1f0105124a4466&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/264364357.jpg?k=2ffcbe3be1ff56be4f4bc503de9a27de467320b121b3a416de9f34151dcd5659&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "2 restaurants"\n  - "Bar"\n  - "Private beach area"\n  - "Very good breakfast"\nroomTypes:\n  - "Standard Double or Twin Room"\n  - "Standard Double Room"\n  - "Superior Double Room"\n  - "Double Room with Mountain View"\n  - "King Room with Sea View"\n  - "Comfort Triple Room"\n  - "Superior Triple Room"\n  - "Family Double Room"\n  - "Superior Family Room"\nnearbyRestaurants:\n  - "Bar Restorant Lenci 100 m"\n  - "Bar Vila Toto 150 m"\nnearbyBeaches:\n  - "Ri Beach 350 m"\n  - "Beach at Government Villas 900 m"\n  - "Liro Beach 1.7 km"\n  - "Vlore Beach 1.7 km"\n  - "Coco Bongo Beach 2.8 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1 km"\n  - "Kuzum Baba 4.5 km"\n  - "Independence Square 4.8 km"\nairports:\n  - "Corfu International Airport 97 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Kateryna"\n    country: "Ukraine"\n    text: "“Clean room, cozy bed. Every day cleaning. Great view from the bar and restaurant. Breathtaking sunsets. Good wi-fi. Staff is very friendly and helpful - my special thanks to them.”"\n  - name: "Scott"\n    country: "United Kingdom"\n    text: "“The room booked on booking.com was on the road and very small . I upgraded to a King Room with balcony and great a view . This room was 90 euros/night .”"\n  - name: "Simon"\n    country: "United Kingdom"\n    text: "“We really liked the hotel grounds - there was a lovely pool which deserves mention (including some toys for youngsters), a terrace overlooking the beach, and a really nice atmosphere there. The room was clean, but the decor was a little tired and...”"\nbookingURL: "https://www.booking.com/hotel/al/le-palazzine.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach guest room at Le Palazzine Hotel is a haven of comfort, equipped with air conditioning, a minibar, a flat-screen TV, and a private bathroom featuring a shower, ensuring a restful and luxurious stay.
 
 Beyond the comfort of the rooms, the hotel boasts a children's playground and offers stunning mountain views, creating a perfect backdrop for dining at the hotel's restaurant. The presence of a 24-hour front desk ensures that guest needs are promptly attended to at any time of the day or night.
 
 For those looking to explore the vibrant surroundings, Le Palazzine Hotel serves as an ideal base. The hotel facilitates a range of outdoor activities, including diving and hiking, for the adventurous at heart. Additionally, the convenience of bike and car hire services available on-site enables guests to discover the local area at their own pace. With the added benefit of free private parking, guests can enjoy the utmost in convenience and security.
 
 Le Palazzine Hotel not only promises a memorable stay with its array of facilities and services but also offers an unparalleled opportunity to experience the beauty and excitement of Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

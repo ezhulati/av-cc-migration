@@ -1,32 +1,5 @@
----
-title: New Bazar Apartment
-description: This apartment doesn't just boast an enviable location; it offers a spacious, air-conditioned haven complete with a balcony that invites guests to unwind in pri
-featuredImage: "/images/accommodation/527117658.jpg"
-language: en
-slug: new-bazar-apartment
-location: ""
-amenities: []
-images: []
----
-
-This apartment doesn't just boast an enviable location; it offers a spacious, air-conditioned haven complete with a balcony that invites guests to unwind in privacy. The inclusion of free WiFi addresses the needs of the modern traveler, ensuring connectivity and convenience. The living space is thoughtfully designed, featuring a bedroom that promises restful nights, a fully equipped kitchen for those who love to cook, and a bathroom that provides all the essentials for a refreshing start or end to the day. Entertainment needs are not overlooked, with a flat-screen TV available for guests' enjoyment.
+---\ntitle: "New Bazar Apartment"\ndescription: "New Bazar Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527117658.jpg?k=c9190de464f65b97d8221c652c2e1a358f422ff9599eea34cfaecab89ea7a591&o=&hp=1"\nlanguage: en\nslug: new-bazar-apartment\naddress: "Rruga Tefta Tashko-Koço, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33027293\n  lng: 19.83017546\nprice: "US$45"\npriceFrom: 45\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527117658.jpg?k=c9190de464f65b97d8221c652c2e1a358f422ff9599eea34cfaecab89ea7a591&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527117897.jpg?k=678ccb2447692f68a0d39a7bcbfe47441e310290fb7de1f33e4e61aa9e87ea35&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527117782.jpg?k=c1c89c1b91f97680720705cdb681e0d44babc7e7016b93a6c4acebe48025fa41&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527117805.jpg?k=cd8c49b4965e338e6ecf0858ee724894bb693172a030bd1fdbf75c67e461d480&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527117813.jpg?k=415ba096c7a8a7ea690c1521be1789f500f6fcaae1b6f844faec7bea99cfbbe0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527117799.jpg?k=4a2a41a00557d97c3880765d530679f7f5dcf48080cf9fa40fc62fbcfc0a7347&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527117892.jpg?k=0c09f187077dbea153ce3607977a99f26246a491e949da8fde266b73d1bf3b15&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527117762.jpg?k=9e4de4aa51722f51e7d1df2446d1d301f0982c60cabf0a5f5d95d30ae7fea50e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527117742.jpg?k=fd826728827b0933304ba30d133d4f6b3cff7e914479fef1273ac5c9fe92ba47&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "National Museum of History Albania 1.1 km"\n  - "Rinia Park 1.2 km"\n  - "House of Leaves 1.2 km"\n  - "Former Residence of Enver Hoxha 1.5 km"\n  - "Grand Park of Tirana 2.1 km"\n  - "Bunk'Art 1 Museum 3.4 km"\nnearbyRestaurants:\n  - "Vila 81 6 m"\n  - "Brutal by Flower 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ tek ish ATSh 400 m"\n  - "Tanners' Bridge 550 m"\n  - "Sheshi Sulejman Pasha 750 m"\n  - "Sheshi Jjosef Shtraus 750 m"\n  - "National Gallery of Arts Tirana 900 m"\n  - "Clock Tower Tirana 900 m"\n  - "Skanderbeg Square 950 m"\n  - "Parku Europa 1,000 m"\n  - "Sheshi Rekreativ Piramida 1,000 m"\n  - "Amazing Nature 1,000 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\nbookingURL: "https://www.booking.com/hotel/al/new-bazar-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis apartment doesn't just boast an enviable location; it offers a spacious, air-conditioned haven complete with a balcony that invites guests to unwind in privacy. The inclusion of free WiFi addresses the needs of the modern traveler, ensuring connectivity and convenience. The living space is thoughtfully designed, featuring a bedroom that promises restful nights, a fully equipped kitchen for those who love to cook, and a bathroom that provides all the essentials for a refreshing start or end to the day. Entertainment needs are not overlooked, with a flat-screen TV available for guests' enjoyment.
 
 For those keen to explore Tirana's cultural and shopping scenes, New Bazar Apartment is ideally positioned. The Tanners' Bridge, Toptani Shopping Centre, and the National Theatre of Opera and Ballet of Albania are all popular attractions nearby, offering a glimpse into the city's rich history and vibrant contemporary life. Moreover, the proximity to Tirana International Mother Teresa Airport, just 15 km away, makes this apartment a convenient base for both short and extended stays in Albania's capital.
 
 In summary, New Bazar Apartment stands out as a top-tier accommodation choice for visitors to Tirana, combining the comforts of home with the excitement of city exploration.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

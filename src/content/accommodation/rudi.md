@@ -1,26 +1,3 @@
----
-title: Rudi
-description: Rudi takes pride in offering guests a seamless stay with amenities like air conditioning and complimentary WiFi accessible throughout the premises. Mornings her
-featuredImage: "/images/accommodation/514361941.jpg"
-language: en
-slug: rudi
-location: ""
-amenities: []
-images: []
----
-
-Rudi takes pride in offering guests a seamless stay with amenities like air conditioning and complimentary WiFi accessible throughout the premises. Mornings here start with a delightful à la carte breakfast, setting the tone for a day of exploration or relaxation.
+---\ntitle: "Rudi"\ndescription: "Rudi emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514361941.jpg?k=4951a6090377afeae30d6597b7467af1ac28539cf5b131ea7a7b6f0e9c9b0c9a&o=&hp=1"\nlanguage: en\nslug: rudi\naddress: "Rruga Shyqyri Ishmi, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.326456\n  lng: 19.8290382\nprice: "US$39"\npriceFrom: 39\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514361941.jpg?k=4951a6090377afeae30d6597b7467af1ac28539cf5b131ea7a7b6f0e9c9b0c9a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/514361890.jpg?k=538938b40c8164fe3f9af6591134a18c21304b307ea03682e51b0cf6ebfc63b4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/514361943.jpg?k=50a2bb16e5e57533da9e02ebdb9bf9ee2bd773ee3f5f481958b5db99af465028&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/514361948.jpg?k=3d038072d9286e708b73f614ba9ae0b6f90b724807756d923c1d4f54057f61ae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/514361950.jpg?k=50eb8bed9247bf04bdb27b17f1da483f3054258aee5152a7868de169225ff601&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Breakfast"\nroomTypes:\n  - "Budget Double Room"\nnearbyAttractions:\n  - "Rinia Park 900 m"\n  - "National Museum of History Albania 1 km"\n  - "House of Leaves 1.1 km"\n  - "Former Residence of Enver Hoxha 1.2 km"\n  - "Grand Park of Tirana 1.6 km"\n  - "Bunk'Art 1 Museum 3.7 km"\nnearbyRestaurants:\n  - "Erlin bar 20 m"\n  - "Pizzeria Meta 100 m"\nwhatsNearby:\n  - "Tanners' Bridge 250 m"\n  - "Sheshi Rekreativ tek ish ATSh 250 m"\n  - "Sheshi Rekreativ Piramida 650 m"\n  - "Sheshi Sulejman Pasha 650 m"\n  - "Shesh Rekreativ 650 m"\n  - "National Gallery of Arts Tirana 700 m"\n  - "Clock Tower Tirana 800 m"\n  - "Parku Rinia 850 m"\n  - "Skanderbeg Square 850 m"\n  - "Parku Europa 850 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\nbookingURL: "https://www.booking.com/hotel/al/rudi-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nRudi takes pride in offering guests a seamless stay with amenities like air conditioning and complimentary WiFi accessible throughout the premises. Mornings here start with a delightful à la carte breakfast, setting the tone for a day of exploration or relaxation.
 
 For those keen on immersing themselves in local culture and shopping, Rudi is conveniently close to key attractions including the serene Saint Paul Cathedral, the bustling Toptani Shopping Centre, and the National Gallery of Arts Tirana. With the Tirana International Mother Teresa Airport only 17 km away, guests find Rudi to be an ideal base for both short visits and extended stays, promising an authentic Tirana experience with the comfort of home.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

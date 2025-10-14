@@ -1,26 +1,3 @@
----
-title: Demolli appartment Shengjin
-description: The accommodation itself presents a well-appointed one-bedroom apartment, complete with a bathroom that includes essential amenities such as bed linen and towel
-featuredImage: "/images/accommodation/481592772.jpg"
-language: en
-slug: demolli-appartment-shengjin
-location: ""
-amenities: []
-images: []
----
-
-The accommodation itself presents a well-appointed one-bedroom apartment, complete with a bathroom that includes essential amenities such as bed linen and towels. The living space is enhanced by a flat-screen TV, catering to the entertainment needs of guests. A fully equipped kitchen awaits those who prefer the comfort of home-cooked meals, adding a touch of convenience to the stay. Perhaps the most captivating feature is the balcony, offering breathtaking mountain views that promise a tranquil backdrop for morning coffees or evening relaxation.
+---\ntitle: "Demolli appartment Shengjin"\ndescription: "Demolli Apartment Shengjin emerges as a prime choice for travelers seeking comfort and convenience in the heart of Shëngjin."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481592772.jpg?k=e657b87593e06d77adc492d2a0fa979c22fa56e0b86b2994de2882f501ed9a3e&o=&hp=1"\nlanguage: en\nslug: demolli-appartment-shengjin\naddress: "Rruga Lezhë - Shëngjin, 4503 Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.80905445\n  lng: 19.60162596\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 9.6\n  location: 10\n  cleanliness: 10\n  facilities: 8.3\n  value: 9.2\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481592772.jpg?k=e657b87593e06d77adc492d2a0fa979c22fa56e0b86b2994de2882f501ed9a3e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481593856.jpg?k=86c81e5ab14a05992469b21be096afe9e382b9477ef2bb865780d5f4bb6e4914&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481593621.jpg?k=9948e4b1495ede441b3de834e7f311fb64f8e09cfa37a048433bbc29fe738489&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481592685.jpg?k=b74fff6d83ff8f55e177ebbea6566e9d41bd8d57bfa5287a37a572124c8beec8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481593035.jpg?k=633d0e3609d79e6c07b51f5ca7ae955b6016f83cf52711c8100a25773960b841&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481592750.jpg?k=8911c0a7a6b9a50da51ce6534b2a0a0fe21a06e57d45ada8194865170f59efbb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481593729.jpg?k=a90999f6c1b5466cf0e270593dde64fba32fb1a6becd57d5e022999c26783a18&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481594004.jpg?k=f1a36c3e08b3dc43f65ff4948557bfb00ec16629a297bcb024cd759d00a068c7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481593898.jpg?k=ce25c1fa23aec6eb3b214c36b1d30bb76d366f7eeefda1fe927bd10116847003&o=&hp=1"\namenities:\n  - "Private parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Pizza Bella Vita 200 m"\n  - "Il Veliero Ristorante Italiano 300 m"\nnearbyBeaches:\n  - "Shëngjin Beach 350 m"\n  - "Ylberi Beach 1 km"\n  - "Rana e Hedhun Beach 3.1 km"\n  - "Laguna Park Beach 4.5 km"\n  - "Kune Beach 4.5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 43 km"\n  - "Podgorica Airport 66 km"\n  - "Tivat Airport 97 km"\nbookingURL: "https://www.booking.com/hotel/al/shengjin-appartment-near-the-beach.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodation itself presents a well-appointed one-bedroom apartment, complete with a bathroom that includes essential amenities such as bed linen and towels. The living space is enhanced by a flat-screen TV, catering to the entertainment needs of guests. A fully equipped kitchen awaits those who prefer the comfort of home-cooked meals, adding a touch of convenience to the stay. Perhaps the most captivating feature is the balcony, offering breathtaking mountain views that promise a tranquil backdrop for morning coffees or evening relaxation.
 
 Situated 41 km from the historic Rozafa Castle Shkodra and 43 km from the scenic Lake Skadar, Demolli Apartment Shengjin serves as an ideal base for explorers keen to delve into the region's natural and cultural treasures. For international travelers, the proximity to Tirana International Mother Teresa Airport, located 48 km away, ensures a smooth transition to and from this charming haven.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

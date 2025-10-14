@@ -1,28 +1,5 @@
----
-title: Plazhi "Iliria" Durres Albania
-description: "This apartment doesn't just boast an enviable location; it's a haven of comfort too."
-featuredImage: "/images/accommodation/515802003.jpg"
-language: en
-slug: plazhi-iliria-durres-albania
-location: ''
-amenities: []
-images: []
----
-
-This apartment doesn't just boast an enviable location; it's a haven of comfort too. With air conditioning, a fully equipped kitchen, and a modern bathroom, it offers all the essentials for a self-sufficient stay. Entertainment is readily available through the inclusion of a flat-screen TV, ensuring guests have a cozy retreat after a day of exploration.
+---\ntitle: "Plazhi “Iliria” Durres Albania"\ndescription: "Plazhi “Iliria” Durres Albania emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515802003.jpg?k=5e52089dbabab8415d97635f35f4a9577b2f6dce80328843462de1f842bf5c1c&o=&hp=1"\nlanguage: en\nslug: plazhi-iliria-durres-albania\naddress: "Durres, Plazhi Iliria, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30529127\n  lng: 19.49426786\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515802003.jpg?k=5e52089dbabab8415d97635f35f4a9577b2f6dce80328843462de1f842bf5c1c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515802053.jpg?k=c061c22de69a092fea288538753d445869880e3d923f03578372d8177b7b8f46&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515802062.jpg?k=05f8be94cf137a084afc0309957e53723f8493828a9506066923a1f2cccd73c7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515802067.jpg?k=c127fb3381252919b19d82659d58000515ab80dcfa84473b5bcfeb9e99f6c282&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515802068.jpg?k=f621c1e7ad626543ac04718bf554f154bec52ceef202c6cf7893ef8dfc9da2b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515802070.jpg?k=3af12b653765339bd395ed6eb3efae274254c114e2d99178ba8e68e386c51692&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515802071.jpg?k=dde636f50309cd71ada90b2e7ca9d52d2c1b9e3bb2993415e66ba18d5e6ddd4c&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "2a 30 m"\n  - "Fast Food Shijet 40 m"\nnearbyBeaches:\n  - "Durres Beach 250 m"\n  - "Shkëmbi i Kavajës Beach 2.5 km"\n  - "Currila Beach 3.9 km"\n  - "Golem Beach 4.9 km"\n  - "Kallmi Beach 5 km"\nwhatsNearby:\n  - "Bekimi 2.9 km"\n  - "Wine Dhe Pooh 4 km"\n  - "Sheshi Demokracia 4.1 km"\n  - "Yje Dhe Hena 4.1 km"\n  - "Durres Amphiteatre 4.2 km"\n  - "Sotir Noka 4.3 km"\n  - "1. Maj 4.4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\nbookingURL: "https://www.booking.com/hotel/al/plazhi-iliria-durres-albania.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment doesn't just boast an enviable location; it's a haven of comfort too. With air conditioning, a fully equipped kitchen, and a modern bathroom, it offers all the essentials for a self-sufficient stay. Entertainment is readily available through the inclusion of a flat-screen TV, ensuring guests have a cozy retreat after a day of exploration.
 
 Connectivity is seamless, with free WiFi enveloping the property, allowing guests to easily share their experiences or stay in touch with loved ones. For those keen on delving into the local culture and history, the Rock of Kavaje is a mere 5 km away, while the ancient Durres Amphitheatre is just 7 km from the apartment. Further enriching the cultural tapestry, the Former Residence of Enver Hoxha stands 39 km away, offering a glimpse into Albania's past.
 
-For convenience, the Tirana International Mother Teresa Airport is the nearest, located 33 km away, making Plazhi "Iliria" Durres Albania a smart choice for both international and domestic travelers. Whether it's the allure of the beach or the call of historical exploration, this apartment serves as a perfect base for an unforgettable stay in Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}
+For convenience, the Tirana International Mother Teresa Airport is the nearest, located 33 km away, making Plazhi “Iliria” Durres Albania a smart choice for both international and domestic travelers. Whether it's the allure of the beach or the call of historical exploration, this apartment serves as a perfect base for an unforgettable stay in Durrës.

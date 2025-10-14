@@ -1,30 +1,7 @@
----
-title: Sunny Holiday 3
-description: Guests at Sunny Holiday 3 are treated to well-appointed accommodations that boast balconies with garden views, comfortable seating areas, and flat-screen TVs fo
-featuredImage: "/images/accommodation/421942156.jpg"
-language: en
-slug: sunny-holiday-3
-location: ""
-amenities: []
-images: []
----
-
-Guests at Sunny Holiday 3 are treated to well-appointed accommodations that boast balconies with garden views, comfortable seating areas, and flat-screen TVs for a touch of home comfort. The fully equipped kitchens, complete with microwaves and fridges, along with private bathrooms featuring bidets, ensure a stay that blends convenience with luxury. To further enhance the guest experience, each unit is meticulously prepared with fresh bed linen and towels.
+---\ntitle: "Sunny Holiday 3"\ndescription: "Sunny Holiday 3 emerges as a prime beachfront destination in Sarandë, offering an idyllic retreat less than a kilometer from the serene La Petite Beach and a mere stone's throw from the vibrant Saranda City Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421942156.jpg?k=71250f2df7c4b141aceca7a942e602fa859784d9bf5e641f6cf2e0a1d2c83623&o=&hp=1"\nlanguage: en\nslug: sunny-holiday-3\naddress: "Rruga Skënderbeu, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87415049\n  lng: 20.01321422\nprice: "US$323"\npriceFrom: 323\nstarRating: 3\nrating: 7\nratingWords: "Good"\nnumberOfReviews: 11\nratings:\n  overall: 7\n  location: 7\n  cleanliness: 6.8\n  facilities: 7\n  value: 6.6\n  comfort: 7.5\n  staff: 7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421942156.jpg?k=71250f2df7c4b141aceca7a942e602fa859784d9bf5e641f6cf2e0a1d2c83623&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421942299.jpg?k=b22c30c2f7e0b6de034a7289c2f133f2c713d23f97e1def1cae61af03c55b132&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421942242.jpg?k=02c17fd503d4d5d7455e6a04e5caed7b46e084decde558b9638301affb29c212&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421942476.jpg?k=b98acc4e256333c65f0fe7046c702d3d1c112433734bf3cb19c39bef784db3f0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425165998.jpg?k=4f877e76f3a5244765a1343af3c4bd098812e638f858b25a3f5580d21438bdce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421942306.jpg?k=bc9b9061bdfc090455820f3f7c21d22012fc93d0e34be3bd15189b913a854cdc&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "2 restaurants"\n  - "Family rooms"\n  - "Beachfront"\nroomTypes:\n  - "Studio with Sea View"\nnearbyRestaurants:\n  - "Haxhi 100 m"\n  - "Cocktail bar 100 m"\nnearbyBeaches:\n  - "Saranda City Beach 100 m"\n  - "La Petite Beach 650 m"\n  - "Maestral Beach 800 m"\n  - "Sarande Main Beach 1 km"\n  - "VIP Beach 1.8 km"\nwhatsNearby:\n  - "Parc National de Butrint 2 km"\n  - "Butrint National Park 2.8 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nbookingURL: "https://www.booking.com/hotel/al/sunny-holiday-3.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Sunny Holiday 3 are treated to well-appointed accommodations that boast balconies with garden views, comfortable seating areas, and flat-screen TVs for a touch of home comfort. The fully equipped kitchens, complete with microwaves and fridges, along with private bathrooms featuring bidets, ensure a stay that blends convenience with luxury. To further enhance the guest experience, each unit is meticulously prepared with fresh bed linen and towels.
 
 Culinary enthusiasts will delight in the on-site restaurant, where a selection of European cuisine awaits to tantalize the taste buds. Additionally, the convenience of free WiFi throughout the property allows guests to stay connected and share their experiences with ease.
 
 For those who appreciate the simple pleasures, a coffee shop on the premises offers the perfect spot to unwind with a book or plan the day's adventures. The proximity to Maestral Beach, just a kilometer away, invites exploration of the area's natural beauty, while the historic Butrint National Park, located 16 km from the property, offers a glimpse into the region's rich heritage.
 
 With Ioannina Airport 96 km away, Sunny Holiday 3 serves as an accessible escape for both domestic and international travelers seeking a blend of relaxation and adventure in Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

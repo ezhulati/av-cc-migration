@@ -1,26 +1,3 @@
----
-title: Megan Apartament
-description: The apartment itself is a testament to spacious living, featuring two distinct bedrooms, a bathroom equipped with modern amenities, and a living room designed f
-featuredImage: "/images/accommodation/482714183.jpg"
-language: en
-slug: megan-apartament
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to spacious living, featuring two distinct bedrooms, a bathroom equipped with modern amenities, and a living room designed for relaxation with a flat-screen TV at its heart. The kitchen doesn't shy away from impressing either, boasting full equipment including an oven, set beside a dining area ready to host memorable meals. Adding to the charm is a balcony that serves as an enchanting outdoor dining space, inviting guests to dine under the sky.
+---\ntitle: "Megan Apartament"\ndescription: "Megan Apartment stands as a prime choice for travelers seeking comfort and convenience in Vlorë, situated just a kilometer away from the serene Vjetër Beach and a short 1."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482714183.jpg?k=be2c1052b067cd223524ca3287c32f520681afbccbace49596a72b95afec874a&o=&hp=1"\nlanguage: en\nslug: megan-apartament\naddress: "Rruga Dush Strati, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4570603\n  lng: 19.48832719\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 7\nratings:\n  overall: 8.8\n  location: 9.2\n  cleanliness: 8.9\n  facilities: 7.5\n  value: 9.6\n  comfort: 7.9\n  staff: 9.6\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482714183.jpg?k=be2c1052b067cd223524ca3287c32f520681afbccbace49596a72b95afec874a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482732650.jpg?k=e82ca409a0d4740fd5cf1befe42fa4eec0890e54cbacf50ae9e7565707eb8a4a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482732651.jpg?k=e1b40b5b9b7194f737981db32cad8d47688db3d8d18afde607a60423f4872c03&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482732652.jpg?k=f21862888f00d159d492de36112d1f9d13492f58a3d194d071f1a907ff5190e8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482732647.jpg?k=0df5a35130abc4ba0d7675affbb5afa0a6c907bccc8e24292fbe4c68a4cbf6bb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482732646.jpg?k=0cbd705fc3d009ad1c0a5fca5886c9ff1464f10c701fa273f733a471697907bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482732659.jpg?k=56e3a6c082db5dcac91da7106114e917418d134bb9792265e3ecc51b1989a63b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482732661.jpg?k=4f1bd0c2bad8dfceace3339981812194b144fc2e3208d9e61edb71d22a052dbb&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Winners Sport Bar 50 m"\n  - "Vellezrit Zeneli 100 m"\nnearbyBeaches:\n  - "Vjetër Beach 800 m"\n  - "Vlore Beach 1.1 km"\n  - "Ri Beach 2.4 km"\n  - "Beach at Government Villas 4.1 km"\n  - "Liro Beach 4.7 km"\nwhatsNearby:\n  - "Kuzum Baba 1.2 km"\n  - "Independence Square 1.5 km"\n  - "Scooby Doo Vlore 2.4 km"\nbookingURL: "https://www.booking.com/hotel/al/megan-apartament.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a testament to spacious living, featuring two distinct bedrooms, a bathroom equipped with modern amenities, and a living room designed for relaxation with a flat-screen TV at its heart. The kitchen doesn’t shy away from impressing either, boasting full equipment including an oven, set beside a dining area ready to host memorable meals. Adding to the charm is a balcony that serves as an enchanting outdoor dining space, inviting guests to dine under the sky.
 
 For those traveling to or from the city, the Tirana International Mother Teresa Airport is located 150 km away, making Megan Apartment not just a place to stay, but a convenient stopover in the journey through Albania.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

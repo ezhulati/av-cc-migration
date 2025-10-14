@@ -1,30 +1,7 @@
----
-title: Dori Apartments Lura 2
-description: The highlight of this accommodation is undoubtedly its air-conditioned apartment, which opens up to a refreshing balcony offering tranquil garden views. Inside,
-featuredImage: "/images/accommodation/328968212.jpg"
-language: en
-slug: dori-apartments-lura-2
-location: ""
-amenities: []
-images: []
----
-
-The highlight of this accommodation is undoubtedly its air-conditioned apartment, which opens up to a refreshing balcony offering tranquil garden views. Inside, guests will find a cozy bedroom alongside a fully equipped kitchen, perfect for those who appreciate the convenience of home-cooked meals while traveling. Entertainment needs are well catered to with the inclusion of a flat-screen TV.
+---\ntitle: "Dori Apartments Lura 2"\ndescription: "Dori Apartments Lura 2 emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës, mere steps away from the pristine shores of Lalëz Bay Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328968212.jpg?k=33906accb483619a02aef2f0a7f82bb54886f70bd1c9a76a510a0116500bb54c&o=&hp=1"\nlanguage: en\nslug: dori-apartments-lura-2\naddress: "Lalez Bay, Durres, 4001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.51024252\n  lng: 19.51932024\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328968212.jpg?k=33906accb483619a02aef2f0a7f82bb54886f70bd1c9a76a510a0116500bb54c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328968227.jpg?k=a126cde12cf1f7438b03cb81b51fbca15b34c643d8ee3035f3ab02c7aced91a0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328968246.jpg?k=289895d3326efe3c7227ac89e582ac04e2f197b3c0d35d02114e78db88284b47&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434209610.jpg?k=6fa90015b1a059f4c621d608ac47ac86b27a06086a2969d11c9ee4b4ee44761b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328968231.jpg?k=ce0401e8118994d777d47010189f26826a8bda28bacc4f04bbf731c870c3a6ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328968233.jpg?k=af21b9b351453771a03431a5090b0166e05f322931793d05199707b97899c626&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434209554.jpg?k=2d75ef76984af8abfbe91d8c78488370045ba4d650ac88eed6772d24828d89ab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328968250.jpg?k=1e1a86bf3e7c6266e970c48763d844080ef748a5143f56622ab245dbc89a7940&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434209673.jpg?k=ead2f094e34582816ca4b0f5434fd449f449f21339a0f4c3d0e2b6b06642b100&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434209579.jpg?k=10c458fce0619e7de5131d89346e8c006cfb0fb1d01564e57ddf49f331e19c4e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328968235.jpg?k=985f6e3d68ab4bcc47ab948c9ff598abb0292282e16d796013c28cefe644854b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328968237.jpg?k=c7314a09fe0ecc68b535f54260f75d676dfefd6f7b0d46481567285bd1905e69&o=&hp=1"\namenities:\n  - "2 swimming pools (1 open)"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Restorant Agasi 300 m"\n  - "Triumf 2 600 m"\nnearbyBeaches:\n  - "Lalëz Bay Beach 350 m"\n  - "Rodoni Beach 9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 19 km"\n  - "Podgorica Airport 95 km"\nbookingURL: "https://www.booking.com/hotel/al/dori-apartments-lura-2.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe highlight of this accommodation is undoubtedly its air-conditioned apartment, which opens up to a refreshing balcony offering tranquil garden views. Inside, guests will find a cozy bedroom alongside a fully equipped kitchen, perfect for those who appreciate the convenience of home-cooked meals while traveling. Entertainment needs are well catered to with the inclusion of a flat-screen TV.
 
 For those who enjoy a good drink, the on-site bar serves as a cozy spot to unwind after a day of sun and sand. The location of Dori Apartments Lura 2 encourages guests to immerse themselves in a variety of activities, especially fishing, for an authentic taste of the local lifestyle.
 
 Cultural enthusiasts will appreciate the proximity to significant landmarks, including the Former Residence of Enver Hoxha and the Durres Amphitheatre, both accessible within a reasonable distance. Additionally, the convenience of being just 28 km away from Tirana International Mother Teresa Airport makes this apartment a compelling choice for both international and domestic travelers.
 
 In summary, Dori Apartments Lura 2 stands out as a delightful haven for those looking to experience the best of Durrës's coastal charm, offering a blend of comfort, security, and leisure activities to ensure an unforgettable stay.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

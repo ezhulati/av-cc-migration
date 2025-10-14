@@ -1,28 +1,6 @@
----
-title: Rent Room
-description: Guests at Rent Room are treated to a serene retreat in its air-conditioned apartments, each boasting a separate bedroom, a fully equipped kitchen, and access to
-featuredImage: "/images/accommodation/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"
-language: en
-slug: rent-room
-location: ""
-amenities: []
-images: []
----
-
-Guests at Rent Room are treated to a serene retreat in its air-conditioned apartments, each boasting a separate bedroom, a fully equipped kitchen, and access to a private terrace for those moments of quiet reflection or a breath of fresh air. Modern amenities are not overlooked, with a flat-screen TV available for entertainment needs.
+---\ntitle: "Rent Room"\ndescription: "Discover the charm of Vlorë at Rent Room, a prime accommodation choice for travelers seeking both convenience and comfort."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"\nlanguage: en\nslug: rent-room\naddress: "Rruga Andrea Varfi, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.46710541\n  lng: 19.46595772\nprice: "US$29"\npriceFrom: 29\nstarRating: 3\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 2\nratings:\n  overall: 8.4\n  location: 6.3\n  cleanliness: 10\n  facilities: 8.8\n  value: 7.5\n  comfort: 7.5\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466468453.jpg?k=cd2b46ea62bca4a967333aae85bac18555720a8d3503b0de09ca04466e99b926&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/466467337.jpg?k=a0a6f7126d9377705cbb3e4ed8ef6d5b1fd68a16c8d37417d01c8d9a0e209108&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/466468385.jpg?k=c9d4c3ce762b67dea9b64e74c4c96126e010100e53be0d81f10e52e4b53ae8bd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/466468573.jpg?k=d8b0354a88a975711789c2dd77f28661ce33865a5d44a3d2f168d2c114e6e7d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/466468321.jpg?k=7b3a971819b6457bcaf294f5a9f9faa8ffc3cc9aaef55c47a9e30d4461c0b7d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/466468291.jpg?k=043ca11b373257a16c6e9e00c5ced49612dd6982842bba7c9314a308bd43ffeb&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Love Beach 1,000 m"\n  - "Bar Restorant F. Feimi 1.1 km"\nnearbyBeaches:\n  - "Vjetër Beach 650 m"\n  - "Vlore Beach 3.1 km"\n  - "Narta Beach 3.4 km"\n  - "Ri Beach 4.2 km"\n  - "Beach at Government Villas 6 km"\nwhatsNearby:\n  - "Independence Square 2.1 km"\n  - "Kuzum Baba 2.3 km"\n  - "Scooby Doo Vlore 4.2 km"\nreviews:\n  - name: "Gianmarco"\n    country: "Italy"\n    text: "“Very kind staff and at our disposal.
+With parking”"\nbookingURL: "https://www.booking.com/hotel/al/rent-room-vlore1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Rent Room are treated to a serene retreat in its air-conditioned apartments, each boasting a separate bedroom, a fully equipped kitchen, and access to a private terrace for those moments of quiet reflection or a breath of fresh air. Modern amenities are not overlooked, with a flat-screen TV available for entertainment needs.
 
 The inclusion of complimentary WiFi and private parking adds to the hassle-free experience, ensuring guests can stay connected and come and go as they please. The property's commitment to a smoke-free environment further enhances the comfort and well-being of all guests.
 
 Surrounded by a lush garden, Rent Room offers a tranquil escape from the hustle and bustle, yet remains conveniently connected to the wider region, with Tirana International Mother Teresa Airport situated 150 km away. This makes it an ideal base for exploring Vlorë's rich cultural landscape or simply enjoying a peaceful getaway by the beach.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

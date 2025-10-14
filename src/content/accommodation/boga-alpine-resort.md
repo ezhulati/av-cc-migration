@@ -1,30 +1,9 @@
----
-title: Boga Alpine Resort
-description: Accommodations at Boga Alpine Resort are thoughtfully appointed to cater to diverse needs and preferences. Select rooms boast private entrances, cozy dining are
-featuredImage: "/images/accommodation/465415016.jpg"
-language: en
-slug: boga-alpine-resort
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Boga Alpine Resort are thoughtfully appointed to cater to diverse needs and preferences. Select rooms boast private entrances, cozy dining areas, inviting fireplaces, and fully equipped kitchens, ensuring a home-away-from-home experience. For those seeking to immerse themselves in the natural beauty of the area, options include terraces that open up to breathtaking mountain vistas, complemented by modern comforts such as soundproofing for a peaceful night's rest.
+---\ntitle: "Boga Alpine Resort"\ndescription: "Boga Alpine Resort, situated in the serene village of Bogë and a mere 29 km from the enchanting Theth National Park, offers a tranquil retreat with its lush garden views and an array of amenities designed for comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465415016.jpg?k=df94cfe5c246b939256ad4e94035b4d26677c22c90ad9e0e4beb963670762945&o=&hp=1"\nlanguage: en\nslug: boga-alpine-resort\naddress: "Rruga per Thethe, 4300 Bogë, Albania"\ncity: "Bogë"\nlocation: "Bogë"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 42.39993033\n  lng: 19.64684842\nprice: "US$52"\npriceFrom: 52\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 488\nratings:\n  overall: 8.8\n  location: 9.3\n  cleanliness: 8.5\n  facilities: 8.3\n  value: 8.8\n  comfort: 8.4\n  staff: 9.4\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465415016.jpg?k=df94cfe5c246b939256ad4e94035b4d26677c22c90ad9e0e4beb963670762945&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512172247.jpg?k=4c60743291c58d9498f2b65316dd5c759cb317c5fd339199bd1f5614aec46fad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349444583.jpg?k=9e10b0514094d00ebfaf59d730bd2d49f5dbe935e45370dc374489a199634c3c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512171650.jpg?k=bbe8304730f05dccb9e0fa730dd72f1611f353e29bd55f9564eb830394e85add&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512172245.jpg?k=12607842c3301fb00594a5f223c6603a1849ad4e1b0c6fc60e80f65259fe4cd9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465414929.jpg?k=5bff62c4958f8a418b06fdac62d4d86920ed39ffc4fa946680cb7944b3edc460&o=&hp=1"\namenities:\n  - "Restaurant"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Facilities for disabled guests"\n  - "Family rooms"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Double Room with Private Bathroom"\n  - "Basic Triple Room with Shared Bathroom"\n  - "Family Room with Mountain View"\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Bar cafe Gegaj 450 m"\n  - "Malesorja 10 km"\nwhatsNearby:\n  - "Theth National Park 6 km"\n  - "Theth National Park 11 km"\n  - "Valbona Valley National Park 13 km"\n  - "Prokletije National Park 15 km"\nairports:\n  - "Podgorica Airport 32 km"\n  - "Tivat Airport 75 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Jiri"\n    country: "Czech Republic"\n    text: "“Great room, nice service with a great breakfast and the VIEW!!! Amazing! Thank you!”"\n  - name: "Raquel"\n    country: "Spain"\n    text: "“Friendly staff. Good location. Clean rooms and confy beds. Very small bathroom”"\n  - name: "Lukas"\n    country: "Germany"\n    text: "“- super friendly personal
+- good atmosphere
+- great environment”"\nbookingURL: "https://www.booking.com/hotel/al/boga-alpine-resort.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Boga Alpine Resort are thoughtfully appointed to cater to diverse needs and preferences. Select rooms boast private entrances, cozy dining areas, inviting fireplaces, and fully equipped kitchens, ensuring a home-away-from-home experience. For those seeking to immerse themselves in the natural beauty of the area, options include terraces that open up to breathtaking mountain vistas, complemented by modern comforts such as soundproofing for a peaceful night's rest.
 
 Dining at the resort is an experience in itself, with a family-friendly restaurant that welcomes guests for dinner, lunch, and high tea. The menu, featuring an array of Mediterranean delights, promises to satisfy culinary cravings in a warm and inviting setting.
 
 Families visiting Boga Alpine Resort will appreciate the thoughtful inclusion of a kids' pool, ensuring entertainment for the younger guests. Meanwhile, adults can unwind by the outdoor fireplace, a perfect spot to relax after a day of cycling through the picturesque surroundings.
 
 Located just 62 km from Podgorica Airport, Boga Alpine Resort offers both accessibility and a secluded escape, making it an ideal choice for travelers seeking a blend of adventure and relaxation in the heart of nature.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

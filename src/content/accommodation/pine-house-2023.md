@@ -1,30 +1,7 @@
----
-title: PINE HOUSE 2023
-description: This villa, boasting a modern 2-bedroom layout, is equipped with air conditioning to ensure a comfortable stay regardless of the season. Guests will find themse
-featuredImage: "/images/accommodation/479724870.jpg"
-language: en
-slug: pine-house-2023
-location: ""
-amenities: []
-images: []
----
-
-This villa, boasting a modern 2-bedroom layout, is equipped with air conditioning to ensure a comfortable stay regardless of the season. Guests will find themselves enveloped in comfort with amenities such as a flat-screen TV, a washing machine, and a fully equipped kitchen complete with kitchenware, making it an ideal choice for both short and extended stays.
+---\ntitle: "PINE HOUSE 2023"\ndescription: "PINE HOUSE 2023 emerges as a serene retreat in the vibrant city of Vlorë, perfectly positioned just a stone's throw away from the pristine Vjetër Beach and a short drive from the historic Independence Square."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479724870.jpg?k=1d1c56be7368b9ef716d2fc4f4663cabb8b903d5acc1d858a6050db13128c0dc&o=&hp=1"\nlanguage: en\nslug: pine-house-2023\naddress: "VLORE RRUGA SAZANI, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.46501424\n  lng: 19.46304956\nprice: "US$123"\npriceFrom: 123\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 8\nratings:\n  overall: 9.5\n  location: 8.8\n  cleanliness: 9.7\n  facilities: 9.4\n  value: 9.1\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479724870.jpg?k=1d1c56be7368b9ef716d2fc4f4663cabb8b903d5acc1d858a6050db13128c0dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479723130.jpg?k=a25ddfc59b5ca0cfe3ed897850bc5dbe2708329c219cb34df346fc3b21513b2a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479723167.jpg?k=95c1288593bb3e80fbdb336e1a302d8f7657e15991b22c60dc58f1befe2da0e8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479724693.jpg?k=1d263ecb6c7af84455aaff07932899d678edd724e65a3c6209c61454c05a1835&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479724795.jpg?k=c702ddb14b409c46b003cb3d7502bc1bf4d990342fce5074efb447bde6445150&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479724805.jpg?k=ae2594b96b2e9c2e392383025ce7ea964bc238196613de62f1117177d8a54538&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479723662.jpg?k=40628c451087a8fcb4801d4baeeb614d40dc9438e6ec24fae3dedd0b5cd9b25d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492424879.jpg?k=b2227723aa1b0148dadc98d2c12705867f7a67e16055d3c033fe7ead2b875f2d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492424813.jpg?k=13d7742128e2acd2fd78a106b53c2450f00cb4b4fe9f3ca224942f41c2e07434&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Villa"\nnearbyRestaurants:\n  - "Love Beach 850 m"\n  - "Bar Restorant F. Feimi 1,000 m"\nnearbyBeaches:\n  - "Vjetër Beach 300 m"\n  - "Vlore Beach 3.2 km"\n  - "Narta Beach 3.4 km"\n  - "Ri Beach 4.2 km"\n  - "Beach at Government Villas 5 km"\nwhatsNearby:\n  - "Independence Square 2.4 km"\n  - "Kuzum Baba 2.6 km"\n  - "Scooby Doo Vlore 4.2 km"\nreviews:\n  - name: "Jerelyn"\n    country: "Italy"\n    text: "“The host was super helpful and was on time when we arrived at the property. She was very helpful and also showed us where the supermarkets were and where the bank was. Suggestions on where to eat, we tried some of them and they were really good!...”"\n  - name: "Denis"\n    country: "Germany"\n    text: "“Im großen und ganzen war der Aufenthalt sehr angenehm. Die Gastgeberin war jederzeit für uns erreichbar. Das Haus hatte eine gute Ausstattung und war sehr sauber.”"\n  - name: "Jakub"\n    country: "Poland"\n    text: "“Wspaniały obiekt, bardzo fajni gospodarze. Jest to wolnostojący dom na dużej posesji, gdzie rosną figi, cytryny, granaty. Bardzo komfortowy, w pełni wyposażony, posiadający dwie łazienki, idealny dla rodziny i dla zmotoryzowanych. Kilkaset metrów...”"\nbookingURL: "https://www.booking.com/hotel/al/pine-house-2023.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis villa, boasting a modern 2-bedroom layout, is equipped with air conditioning to ensure a comfortable stay regardless of the season. Guests will find themselves enveloped in comfort with amenities such as a flat-screen TV, a washing machine, and a fully equipped kitchen complete with kitchenware, making it an ideal choice for both short and extended stays.
 
 Privacy is paramount at PINE HOUSE 2023, with a private entrance that adds an extra layer of exclusivity to the guest experience. The property doesn't just offer a place to stay; it invites guests to unwind in its lush garden, providing a peaceful escape from the hustle and bustle of daily life.
 
 For those traveling to or from the area, the convenience of Tirana International Mother Teresa Airport being just 150 km away makes PINE HOUSE 2023 an excellent choice for international and domestic travelers alike.
 
 In summary, PINE HOUSE 2023 stands out as a premier choice for those seeking a blend of comfort, privacy, and accessibility in the heart of Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

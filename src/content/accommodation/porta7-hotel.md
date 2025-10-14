@@ -1,26 +1,3 @@
----
-title: Porta7 Hotel
-description: Guests can enjoy the modern comforts of a flat-screen TV in every room, with select accommodations boasting breathtaking mountain views, adding a touch of natur
-featuredImage: "/images/accommodation/449991679.jpg"
-language: en
-slug: porta7-hotel
-location: ""
-amenities: []
-images: []
----
-
-Guests can enjoy the modern comforts of a flat-screen TV in every room, with select accommodations boasting breathtaking mountain views, adding a touch of natural beauty to the already refined ambiance. The hotel's terrace serves as the perfect backdrop for unwinding or socializing, under the canopy of Gjirokastër's sky.
+---\ntitle: "Porta7 Hotel"\ndescription: "Porta7 Hotel emerges as a charming retreat in the historic heart of Gjirokastër, a mere stone's throw away from the serene Zaravina Lake."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449991679.jpg?k=0a2480cd526baee576218307a128c706c2df80dbaa0f912c439b7e738f4d9d5b&o=&hp=1"\nlanguage: en\nslug: porta7-hotel\naddress: "Rruga Papavangjeli 14, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.07660466\n  lng: 20.13811977\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 181\nratings:\n  overall: 9.4\n  location: 9.3\n  cleanliness: 9.6\n  facilities: 9.1\n  value: 9.3\n  comfort: 9.4\n  staff: 9.4\n  wifi: 9.6\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449991679.jpg?k=0a2480cd526baee576218307a128c706c2df80dbaa0f912c439b7e738f4d9d5b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449990475.jpg?k=0fd1cb72f630fbd357b5bf91582f72da31db7ca957dca105454da0386ca0117f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454293910.jpg?k=547a80925b95d8074274fe01dfb38e591ebe2b47cb9c364c89ff900712e18181&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449991952.jpg?k=2cfede92f06074ecf24ef5c496264c158a620713a38cac64e69647eff6a1ef43&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449990571.jpg?k=935e39589c8488153da5591a1930e918e6abbeb993a41c2d141cc09d416de735&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454295866.jpg?k=ab57ee1e7830063d0c0027750949c31146484764c1c2374ea892aa00991ca8a3&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Mountain View"\n  - "Double Room with Garden View"\n  - "Double Room"\nnearbyRestaurants:\n  - "Kodra 100 m"\n  - "Bar Restorant Argjiro 100 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Christian"\n    country: "Germany"\n    text: "“Nice interior architecture. Well located from the center. Welcoming hosts”"\n  - name: "Camila"\n    country: "United Kingdom"\n    text: "“Clean, nice view, good breakfast but no fresh juice or fruits.”"\n  - name: "Mario"\n    country: "Italy"\n    text: "“Great room. Excellent location and views. Fresh breakfast. Fantastic stay. Highly recommend.😊”"\nbookingURL: "https://www.booking.com/hotel/al/porta7.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nGuests can enjoy the modern comforts of a flat-screen TV in every room, with select accommodations boasting breathtaking mountain views, adding a touch of natural beauty to the already refined ambiance. The hotel's terrace serves as the perfect backdrop for unwinding or socializing, under the canopy of Gjirokastër's sky.
 
 For those arriving from afar, the journey to Porta7 Hotel is made effortless, with Ioannina Airport located just 83 km away, making it an accessible destination for international and domestic travelers alike. With a commitment to guest satisfaction, the hotel's 24-hour front desk ensures a welcoming experience at any hour, setting the stage for an unforgettable stay in one of Albania's most enchanting locales.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

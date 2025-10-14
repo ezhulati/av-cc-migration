@@ -1,28 +1,6 @@
----
-title: Guest house Andersoni Dhoma plazhi Andersoni
-description: Accommodations at Andersoni Dhoma Plazhi are thoughtfully designed to cater to the modern traveler's needs. Each unit is equipped with a seating area for relaxa
-featuredImage: "/images/accommodation/363150838.jpg"
-language: en
-slug: guest-house-andersoni-dhoma-plazhi-andersoni
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Guest house Andersoni Dhoma plazhi Andersoni"\ndescription: "Guest House Andersoni Dhoma Plazhi Andersoni emerges as a prime choice for travelers seeking a serene beachfront escape, located just 1."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363150838.jpg?k=54ae4188fe9ee3e6c858e84d6179bf9e7066e92b6122c0d09d78fb9175969ea4&o=&hp=1"\nlanguage: en\nslug: guest-house-andersoni-dhoma-plazhi-andersoni\naddress: "Tale gryke lumi, Shën Ded Gjoni, Albania"\ncity: "Shën Ded Gjoni"\nlocation: "Shën Ded Gjoni"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 41.69809587\n  lng: 19.59396033\nprice: "US$27"\npriceFrom: 27\nstarRating: 3\nrating: 8.7\nratingWords: "Very Good"\nnumberOfReviews: 31\nratings:\n  overall: 8.7\n  location: 8.1\n  cleanliness: 8.4\n  facilities: 8\n  value: 8.9\n  comfort: 8.4\n  staff: 9.3\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363150838.jpg?k=54ae4188fe9ee3e6c858e84d6179bf9e7066e92b6122c0d09d78fb9175969ea4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432804201.jpg?k=653c398fb1f0c821bba3345e0f930671e0cbd9f9b41e3f1fedc7cad446e12583&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432137486.jpg?k=4b3fca883fbc4858b1e7593ac8b5540c07ac81a013b18866c757fcc1973ab294&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432804194.jpg?k=ceb2353e46ca6235292f9caa2a19e05107271cc68ab0bca946726eb763b41795&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432804028.jpg?k=0791cfa9d81b019cd1c694f3997afc167b7504b5699b8c215baf4cdd84ef17e8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433575024.jpg?k=be62e57f49113f37a9a652154e299f90c2aedaeda973fc3f16b956a480d6432c&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\nroomTypes:\n  - "Family Room with Balcony"\n  - "Double Room"\n  - "King Room with Two King Beds"\nnearbyBeaches:\n  - "Tale Beach 950 m"\n  - "Kune Beach 6 km"\n  - "Laguna Park Beach 8 km"\nreviews:\n  - name: "Philip"\n    country: "Austria"\n    text: "“Nice place 10 minutes from the sea (Beach, market and restaurants). Very interesting bunkers close-by, friendly hosts and comfy rooms”"\n  - name: "Roland"\n    country: "Germany"\n    text: "“Had a good time with the owner Marku, he could really help us with all our needs, from cheap drinks, laundry or transportation, this helpful person always came up with a fitting solution. Also had some intersting conversations, thanks to the...”"\n  - name: "Tijn"\n    country: "Netherlands"\n    text: "“Their hospitality was very nice! They showed us around and we had many chats about their culture.
+If we needed something they always stood ready to make our experience the best experience. The room itself suits all your needs and even in this...”"\nbookingURL: "https://www.booking.com/hotel/al/dhoma-plazhi-prenga.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Andersoni Dhoma Plazhi are thoughtfully designed to cater to the modern traveler's needs. Each unit is equipped with a seating area for relaxation, a cable flat-screen TV for entertainment, and a fully equipped kitchen, complete with a fridge and kitchenware, for those who prefer to prepare their meals. The private bathrooms feature a hot tub and slippers, adding a touch of luxury to the stay. Moreover, the convenience of a private entrance, along with the provision of bed linen and towels, underscores the guest house's commitment to privacy and comfort.
 
-Accommodations at Andersoni Dhoma Plazhi are thoughtfully designed to cater to the modern traveler's needs. Each unit is equipped with a seating area for relaxation, a cable flat-screen TV for entertainment, and a fully equipped kitchen, complete with a fridge and kitchenware, for those who prefer to prepare their meals. The private bathrooms feature a hot tub and slippers, adding a touch of luxury to the stay. Moreover, the convenience of a private entrance, along with the provision of bed linen and towels, underscores the guest house's commitment to privacy and comfort.
-
-For those who enjoy starting their day with a freshly brewed cup of coffee or need to pick up essentials, the property houses a coffee shop and a minimarket.
+For those who enjoy starting their day with a freshly brewed cup of coffee or need to pick up essentials, the property houses a coffee shop and a minimarket. 
 
 Situated 49 km from the historic Rozafa Castle Shkodra and 43 km from Tirana International Mother Teresa Airport, Guest House Andersoni Dhoma Plazhi Andersoni also offers a paid airport shuttle service, making it an accessible haven for both local and international visitors. This guest house stands out as a meticulously designed retreat, promising an unforgettable stay by the sea.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

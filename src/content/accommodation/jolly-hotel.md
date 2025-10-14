@@ -1,26 +1,4 @@
----
-title: Jolly Hotel
-description: "Accommodations at Jolly Hotel are designed with guest comfort in mind."
-featuredImage: "/images/accommodation/245385141.jpg"
-language: en
-slug: jolly-hotel
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Jolly Hotel are designed with guest comfort in mind. Each room is equipped with a desk, air conditioning, and a flat-screen TV for a touch of modernity. The private bathrooms are well-appointed with a bidet and complimentary toiletries. For those desiring a little extra, select rooms also feature a balcony, offering a private space to relax. A fridge in every room adds an extra layer of convenience, making it easy to keep snacks and beverages cool.
+---\ntitle: "Jolly Hotel"\ndescription: "Jolly Hotel stands out as a prime choice for travelers seeking comfort and convenience in Lezhë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245385141.jpg?k=bf2ceff3adc5722c36cad765a69f8d09a7bb36ba2ce1326ad0f6330e18b1c92c&o=&hp=1"\nlanguage: en\nslug: jolly-hotel\naddress: "Lagjia Beselidhja, 4502 Lezhë, Albania"\ncity: "Lezhë"\nlocation: "Lezhë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.78020561\n  lng: 19.64532092\nprice: "US$53"\npriceFrom: 53\nstarRating: 4\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 52\nratings:\n  overall: 8.8\n  location: 9.3\n  cleanliness: 9\n  facilities: 8.5\n  value: 8.5\n  comfort: 8.9\n  staff: 9.1\n  wifi: 8.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245385141.jpg?k=bf2ceff3adc5722c36cad765a69f8d09a7bb36ba2ce1326ad0f6330e18b1c92c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/247438446.jpg?k=cb592461121263f26b74542b966951a98d53244adb8c13a9878dfd8e6ceea3c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245387862.jpg?k=49a7928ac02bb5904ab36fd9c08f610db29bf527e61ad2468617537c9c81604e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245389635.jpg?k=534c9f2e9fa9c820962f0cc248e0a2f44cfe3f8cee9cce18d13f0092240c967c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245389671.jpg?k=eaab8158bb4f928576d0aa871ad5b9157414d1f555c46f5cf567a60d989daa76&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245389643.jpg?k=82645d0ec350d2e0b32295dc5eb52d440b36c41f0371ebdf02f7b2ce69743018&o=&hp=1"\namenities:\n  - "Fitness centre"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Standard Double Room"\n  - "Deluxe Double or Twin Room"\n  - "Basic Triple Room"\nnearbyRestaurants:\n  - "The View 100 m"\n  - "Pizzeri Besa 150 m"\nnearbyBeaches:\n  - "Ylberi Beach 3.9 km"\n  - "Laguna Park Beach 4 km"\n  - "Shëngjin Beach 4.3 km"\n  - "Kune Beach 4.5 km"\n  - "Rana e Hedhun Beach 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 39 km"\n  - "Podgorica Airport 71 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Artan"\n    country: "United Kingdom"\n    text: "“Great hotel, luxurious and very comfortable! Staff were very welcoming and helpful!
+Definitely very good value for your money.”"\n  - name: "Tobias"\n    country: "Germany"\n    text: "“very nice staff. The man was super nice and helped me with everything. as well as the lady the next morning. Perfect says Mr Tobi”"\n  - name: "Tea75"\n    country: "Sweden"\n    text: "“Parking place under the building was good. Nice and helpful staff at the hotel. You will feel family atmosphere. Great view from to the roof top!”"\nbookingURL: "https://www.booking.com/hotel/al/jolly-lezhe-lezhe.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Jolly Hotel are designed with guest comfort in mind. Each room is equipped with a desk, air conditioning, and a flat-screen TV for a touch of modernity. The private bathrooms are well-appointed with a bidet and complimentary toiletries. For those desiring a little extra, select rooms also feature a balcony, offering a private space to relax. A fridge in every room adds an extra layer of convenience, making it easy to keep snacks and beverages cool.
 
 Situated within a reasonable distance from notable attractions, Jolly Hotel is just 36 km away from the historic Rozafa Castle Shkodra and 38 km from the picturesque Lake Skadar. For guests traveling by air, Tirana International Mother Teresa Airport is conveniently located 44 km away, making Jolly Hotel an accessible gateway for exploring the region's rich cultural landscape and natural beauty.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

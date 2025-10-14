@@ -1,146 +1,492 @@
 ---
 /**
- * Accommodation Listing
- * Shows all 6,906 accommodation options with search
+ * Accommodation Listing with Filters
+ * Shows all 8,400+ accommodation options with advanced filtering
  */
 
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import AccommodationFilters from '../../components/accommodation/AccommodationFilters.astro';
+import AccommodationCard from '../../components/accommodation/AccommodationCard.astro';
 
-const accommodations = await getCollection('accommodation', ({ data }) => {
-  return data.language === 'en';
+// Get all accommodations (English language only)
+const allAccommodations = await getCollection('accommodation', ({ data }) => {
+  // Include all English accommodations
+  return data.language === 'en' || !data.language;
 });
 
-// Sort by title
-accommodations.sort((a, b) => a.data.title.localeCompare(b.data.title));
+console.log(`Total accommodations loaded: ${allAccommodations.length}`);
+
+// Sort by star rating (highest first), then by title
+const sortedAccommodations = allAccommodations.sort((a, b) => {
+  const ratingA = a.data.starRating || 3;
+  const ratingB = b.data.starRating || 3;
+  if (ratingB !== ratingA) {
+    return ratingB - ratingA;
+  }
+  return a.data.title.localeCompare(b.data.title);
+});
+
+// Extract unique values for filters
+const starRatings = [...new Set(
+  sortedAccommodations
+    .map(a => a.data.starRating || 3)
+    .filter(Boolean)
+)].sort((a, b) => b - a);
+
+const types = [...new Set(
+  sortedAccommodations
+    .map(a => a.data.accommodationType)
+    .filter(Boolean)
+)].sort();
+
+const locations = [...new Set(
+  sortedAccommodations
+    .map(a => a.data.location)
+    .filter(Boolean)
+)].sort();
+
+const pageTitle = 'Accommodation in Albania | Hotels, Apartments & Villas';
+const pageDescription = `Discover ${sortedAccommodations.length}+ accommodations across Albania. Find hotels, apartments, villas, and guesthouses with verified ratings and amenities.`;
 ---
 
-<BaseLayout
-  title="Accommodation in Albania - AlbaniaVisit.com"
-  description="Browse over 6,900 accommodation options in Albania - hotels, apartments, guesthouses, and more"
->
-  <!-- Hero -->
-  <section class="hero">
-    <div class="hero-content">
-      <h1 class="hero-title">Accommodation in Albania</h1>
-      <p class="hero-description">
-        Browse {accommodations.length.toLocaleString()} hotels, apartments, guesthouses, and more across Albania's beautiful destinations
-      </p>
-    </div>
-  </section>
+<BaseLayout title={pageTitle} description={pageDescription}>
+  <div class="accommodation-page">
+    <!-- Header -->
+    <header class="page-header">
+      <div class="header-content">
+        <h1>Accommodation in Albania</h1>
+        <p class="subtitle">
+          Discover authentic stays across Albania - from luxury hotels in Tirana to beachfront
+          villas in Saranda. All properties verified and recommended by locals.
+        </p>
 
-  <!-- Stats Bar -->
-  <section class="stats-section">
-    <div class="stats-grid">
-      <div class="stat-item">
-        <div class="stat-value">{accommodations.length.toLocaleString()}</div>
-        <div class="stat-label">Total Accommodations</div>
-      </div>
-      <div class="stat-item">
-        <div class="stat-value">100+</div>
-        <div class="stat-label">Cities & Towns</div>
-      </div>
-      <div class="stat-item">
-        <div class="stat-value">24/7</div>
-        <div class="stat-label">Booking Support</div>
-      </div>
-    </div>
-  </section>
-
-  <div class="container-custom max-w-7xl section">
-    <!-- Search Bar -->
-    <div class="search-bar">
-      <input
-        type="text"
-        id="searchBox"
-        placeholder="🔍 Search accommodations by name, location, or type..."
-        class="search-input"
-      />
-      <p id="resultCount" class="mt-3 text-sm text-muted-foreground"></p>
-    </div>
-
-    <!-- Accommodation Grid -->
-    <div id="accommodationGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-      {accommodations.map(accommodation => (
-        <article class="accommodation-card card-hover" data-title={accommodation.data.title.toLowerCase()}>
-          {accommodation.data.featuredImage ? (
-            <a href={`/accommodation/${accommodation.data.slug || accommodation.slug}/`} class="block">
-              <div class="accommodation-card-image">
-                <img
-                  src={accommodation.data.featuredImage}
-                  alt={accommodation.data.title}
-                  class="w-full h-full object-cover"
-                  loading="lazy"
-                />
-              </div>
-            </a>
-          ) : (
-            <div class="accommodation-card-image bg-gradient-to-br from-primary/10 to-primary/5"></div>
-          )}
-
-          <div class="accommodation-card-body">
-            <h2 class="accommodation-card-title">
-              <a href={`/accommodation/${accommodation.data.slug || accommodation.slug}/`} class="text-foreground hover:text-primary transition-colors no-underline">
-                {accommodation.data.title}
-              </a>
-            </h2>
-
-            {accommodation.data.location && (
-              <p class="text-sm text-muted-foreground mb-3 flex items-center gap-2">
-                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
-                </svg>
-                {accommodation.data.location}
-              </p>
-            )}
-
-            <p class="accommodation-card-description">
-              {accommodation.data.description}
-            </p>
-
-            <div class="accommodation-card-footer">
-              <a href={`/accommodation/${accommodation.data.slug || accommodation.slug}/`} class="text-primary hover:text-primary/80 font-semibold text-sm inline-flex items-center gap-1 transition-colors">
-                View Details
-                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
-                </svg>
-              </a>
-            </div>
+        <div class="header-stats">
+          <div class="stat">
+            <span class="stat-value">{sortedAccommodations.length}+</span>
+            <span class="stat-label">Properties</span>
           </div>
-        </article>
-      ))}
+          <div class="stat">
+            <span class="stat-value">{locations.length}</span>
+            <span class="stat-label">Locations</span>
+          </div>
+          <div class="stat">
+            <span class="stat-value">{types.length}</span>
+            <span class="stat-label">Property Types</span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="content-wrapper">
+      <div class="container">
+        <div class="layout">
+          <!-- Filters Sidebar -->
+          <AccommodationFilters
+            starRatings={starRatings}
+            types={types}
+            locations={locations}
+          />
+
+          <!-- Results -->
+          <main class="results-section">
+            <div class="results-header">
+              <div class="results-info">
+                <h2 id="resultsCount">{sortedAccommodations.length} properties found</h2>
+                <button class="mobile-filters-btn" id="mobileFiltersBtn">
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <line x1="4" y1="6" x2="20" y2="6"></line>
+                    <line x1="4" y1="12" x2="20" y2="12"></line>
+                    <line x1="4" y1="18" x2="20" y2="18"></line>
+                  </svg>
+                  Filters
+                </button>
+              </div>
+
+              <div class="sort-controls">
+                <label for="sortBy">Sort by:</label>
+                <select id="sortBy">
+                  <option value="rating-desc">Highest Rated</option>
+                  <option value="rating-asc">Lowest Rated</option>
+                  <option value="name-asc">Name (A-Z)</option>
+                  <option value="name-desc">Name (Z-A)</option>
+                </select>
+              </div>
+            </div>
+
+            <!-- Accommodation Grid -->
+            <div class="accommodations-grid">
+              {sortedAccommodations.map(accommodation => (
+                <AccommodationCard
+                  title={accommodation.data.title}
+                  slug={accommodation.slug}
+                  featuredImage={accommodation.data.featuredImage}
+                  location={accommodation.data.location}
+                  starRating={accommodation.data.starRating}
+                  rating={accommodation.data.rating}
+                  accommodationType={accommodation.data.accommodationType}
+                  amenities={accommodation.data.amenities || []}
+                  description={accommodation.data.description}
+                  language={accommodation.data.language}
+                />
+              ))}
+            </div>
+
+            <!-- Empty State -->
+            <div class="empty-state" id="emptyState" style="display: none;">
+              <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                <circle cx="11" cy="11" r="8"></circle>
+                <path d="m21 21-4.35-4.35"></path>
+              </svg>
+              <h3>No properties found</h3>
+              <p>Try adjusting your filters to see more results</p>
+              <button class="clear-all-btn" id="clearAllFilters">Clear All Filters</button>
+            </div>
+          </main>
+        </div>
+      </div>
     </div>
   </div>
 
+  <style>
+    .accommodation-page {
+      min-height: 100vh;
+      background: #fafafa;
+    }
+
+    /* Header */
+    .page-header {
+      background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+      color: white;
+      padding: 60px 0 80px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .page-header::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+      opacity: 0.1;
+    }
+
+    .header-content {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 24px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .page-header h1 {
+      font-size: 48px;
+      font-weight: 800;
+      margin: 0 0 16px 0;
+      letter-spacing: -0.5px;
+    }
+
+    .subtitle {
+      font-size: 18px;
+      line-height: 1.6;
+      color: rgba(255, 255, 255, 0.9);
+      max-width: 700px;
+      margin: 0 0 32px 0;
+    }
+
+    .header-stats {
+      display: flex;
+      gap: 48px;
+      flex-wrap: wrap;
+    }
+
+    .stat {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .stat-value {
+      font-size: 32px;
+      font-weight: 700;
+      color: #e31c2a;
+    }
+
+    .stat-label {
+      font-size: 14px;
+      color: rgba(255, 255, 255, 0.7);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    /* Content */
+    .content-wrapper {
+      padding: 40px 0 80px;
+    }
+
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: 300px 1fr;
+      gap: 32px;
+      align-items: start;
+    }
+
+    /* Results Section */
+    .results-section {
+      min-height: 400px;
+    }
+
+    .results-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 32px;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    .results-info {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .results-info h2 {
+      font-size: 24px;
+      font-weight: 700;
+      color: #1a1a1a;
+      margin: 0;
+    }
+
+    .mobile-filters-btn {
+      display: none;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 16px;
+      background: white;
+      border: 2px solid #e0e0e0;
+      border-radius: 8px;
+      font-size: 14px;
+      font-weight: 600;
+      color: #333;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .mobile-filters-btn:hover {
+      border-color: #e31c2a;
+      color: #e31c2a;
+    }
+
+    .sort-controls {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .sort-controls label {
+      font-size: 14px;
+      color: #666;
+      font-weight: 500;
+    }
+
+    .sort-controls select {
+      padding: 10px 16px;
+      border: 2px solid #e0e0e0;
+      border-radius: 8px;
+      font-size: 14px;
+      font-weight: 500;
+      background: white;
+      cursor: pointer;
+      transition: border-color 0.2s;
+    }
+
+    .sort-controls select:focus {
+      outline: none;
+      border-color: #e31c2a;
+    }
+
+    /* Accommodations Grid */
+    .accommodations-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 24px;
+    }
+
+    /* Empty State */
+    .empty-state {
+      text-align: center;
+      padding: 80px 20px;
+      background: white;
+      border-radius: 12px;
+    }
+
+    .empty-state svg {
+      color: #ccc;
+      margin-bottom: 24px;
+    }
+
+    .empty-state h3 {
+      font-size: 24px;
+      font-weight: 700;
+      color: #1a1a1a;
+      margin: 0 0 12px 0;
+    }
+
+    .empty-state p {
+      font-size: 16px;
+      color: #666;
+      margin: 0 0 24px 0;
+    }
+
+    .clear-all-btn {
+      padding: 12px 24px;
+      background: #e31c2a;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+
+    .clear-all-btn:hover {
+      background: #c41825;
+    }
+
+    /* Mobile Responsive */
+    @media (max-width: 968px) {
+      .page-header h1 {
+        font-size: 36px;
+      }
+
+      .subtitle {
+        font-size: 16px;
+      }
+
+      .header-stats {
+        gap: 32px;
+      }
+
+      .stat-value {
+        font-size: 28px;
+      }
+
+      .layout {
+        grid-template-columns: 1fr;
+      }
+
+      .mobile-filters-btn {
+        display: flex;
+      }
+
+      .accommodations-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .page-header {
+        padding: 40px 0 60px;
+      }
+
+      .page-header h1 {
+        font-size: 28px;
+      }
+
+      .results-header {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .results-info h2 {
+        font-size: 20px;
+      }
+    }
+  </style>
+
   <script>
-    // Client-side search functionality
-    const searchBox = document.getElementById('searchBox') as HTMLInputElement;
-    const cards = document.querySelectorAll('.accommodation-card');
-    const resultCount = document.getElementById('resultCount') as HTMLElement;
-    const totalCount = cards.length;
+    // Sorting functionality
+    document.addEventListener('DOMContentLoaded', () => {
+      const sortSelect = document.getElementById('sortBy') as HTMLSelectElement;
+      const grid = document.querySelector('.accommodations-grid');
 
-    searchBox?.addEventListener('input', (e) => {
-      const target = e.target as HTMLInputElement;
-      const searchTerm = target.value.toLowerCase();
-      let visibleCount = 0;
+      if (!sortSelect || !grid) return;
 
-      cards.forEach(card => {
-        const htmlCard = card as HTMLElement;
-        const title = htmlCard.getAttribute('data-title') || '';
-        if (title.includes(searchTerm)) {
-          htmlCard.style.display = 'block';
-          visibleCount++;
+      sortSelect.addEventListener('change', () => {
+        const cards = Array.from(grid.children) as HTMLElement[];
+        const sortValue = sortSelect.value;
+
+        cards.sort((a, b) => {
+          const aData = JSON.parse(a.dataset.accommodation || '{}');
+          const bData = JSON.parse(b.dataset.accommodation || '{}');
+          const aTitle = a.querySelector('.card-title')?.textContent || '';
+          const bTitle = b.querySelector('.card-title')?.textContent || '';
+
+          switch (sortValue) {
+            case 'rating-desc':
+              return (bData.starRating || 3) - (aData.starRating || 3);
+            case 'rating-asc':
+              return (aData.starRating || 3) - (bData.starRating || 3);
+            case 'name-asc':
+              return aTitle.localeCompare(bTitle);
+            case 'name-desc':
+              return bTitle.localeCompare(aTitle);
+            default:
+              return 0;
+          }
+        });
+
+        // Re-append sorted cards
+        cards.forEach(card => grid.appendChild(card));
+      });
+
+      // Mobile filters toggle
+      const mobileFiltersBtn = document.getElementById('mobileFiltersBtn');
+      const filtersSidebar = document.querySelector('.filters-sidebar');
+
+      mobileFiltersBtn?.addEventListener('click', () => {
+        filtersSidebar?.classList.toggle('open');
+      });
+
+      // Clear all filters from empty state
+      document.getElementById('clearAllFilters')?.addEventListener('click', () => {
+        document.getElementById('clearFilters')?.click();
+      });
+
+      // Show/hide empty state based on visible cards
+      const observer = new MutationObserver(() => {
+        const visibleCards = Array.from(grid.children).filter(
+          (card: Element) => (card as HTMLElement).style.display !== 'none'
+        );
+        const emptyState = document.getElementById('emptyState');
+
+        if (visibleCards.length === 0) {
+          emptyState!.style.display = 'block';
+          grid.style.display = 'none';
         } else {
-          htmlCard.style.display = 'none';
+          emptyState!.style.display = 'none';
+          grid.style.display = 'grid';
         }
       });
 
-      if (searchTerm) {
-        resultCount.textContent = `Showing ${visibleCount} of ${totalCount} accommodations`;
-      } else {
-        resultCount.textContent = '';
-      }
+      observer.observe(grid, {
+        attributes: true,
+        subtree: true,
+        attributeFilter: ['style']
+      });
     });
   </script>
 

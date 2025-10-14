@@ -5,11 +5,14 @@ region: Southern Albania
 featuredImage: /images/destinations/lin.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: lin
 highlights: []
+seo:
+  metaDescription: "Discover a wide range of Lin products and accessories. Shop now for high-quality Lin items at great prices."
 ---
 
 Why Visit Lin
@@ -116,10 +119,3 @@ You’re not coming to Lin for five-star hotels. You’re coming to watch fisher
 
 Lin isn’t trying to impress you. It just is. That’s exactly why it stays with you.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

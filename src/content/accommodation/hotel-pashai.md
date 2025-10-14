@@ -1,28 +1,7 @@
----
-title: Hotel Pashai
-description: "Each room at Hotel Pashai is meticulously designed for comfort, featuring air conditioning for those warm Gjirokastër days, and a cozy seating area pe..."
-featuredImage: "/images/accommodation/150643575.jpg"
-language: en
-slug: hotel-pashai
-location: ""
-amenities: []
-images: []
----
-
-Each room at Hotel Pashai is meticulously designed for comfort, featuring air conditioning for those warm Gjirokastër days, and a cozy seating area perfect for unwinding. Entertainment and connectivity are ensured with a flat-screen TV equipped with satellite channels, while valuables can be securely stored in the in-room safety deposit box. The private bathrooms are well-appointed with a shower, alongside thoughtful touches such as a hairdryer and slippers, ensuring a home-away-from-home experience. Additionally, the convenience of a fridge in every room adds a layer of ease for guests.
+---\ntitle: "Hotel Pashai"\ndescription: "Hotel Pashai stands as a beacon of comfort and convenience in the historic city of Gjirokastër, a mere stone's throw away from the serene Zaravina Lake."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150643575.jpg?k=d768571efbdae2b847fad3e6e738e3566f11e2a84b4930b16b9db49a264e8476&o=&hp=1"\nlanguage: en\nslug: hotel-pashai\naddress: "Rruga Jaçe Braja, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.0707216\n  lng: 20.13621747\nprice: "US$37"\npriceFrom: 37\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 233\nratings:\n  overall: 9.3\n  location: 8.3\n  cleanliness: 9.5\n  facilities: 9.2\n  value: 9.5\n  comfort: 9.3\n  staff: 9.3\n  wifi: 9.7\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150643575.jpg?k=d768571efbdae2b847fad3e6e738e3566f11e2a84b4930b16b9db49a264e8476&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195539832.jpg?k=bd3ca93e3d9c8bfa91d3bafc422d1d4497ed77176f5c57fcafb9edbbb6e9f2fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/152855488.jpg?k=8326cf92d5c6779b441d92ee01b758cf29e01ae3261291100cd1838111454986&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156695410.jpg?k=7a96fe55b64d2d76b26f1a76cfc0460e510d14e60afc2dcf0d27c59bc529bb92&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150643724.jpg?k=6806fa431bc03b62fbee416ea81cd11d37dfc3625cc34b76e39715bfb6e43fed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/171982814.jpg?k=de4b460c0a4a289cac2db44866f550e3aa0a8d0171b68e80cfc91be96b9a816d&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Family rooms"\n  - "Superb breakfast"\nroomTypes:\n  - "Deluxe Triple Room"\n  - "Deluxe Triple Room"\n  - "Basic Triple Room"\n  - "Budget Twin Room"\n  - "Basic Triple Room"\nnearbyRestaurants:\n  - "Taverna Tradicionale Kardhashi 100 m"\n  - "Taverna Brahimi 100 m"\nairports:\n  - "Corfu International Airport 54 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Adelita"\n    country: "Spain"\n    text: "“For me, it was the first time I visited Gjirokastra. The hotel was fantastic, every detail was renovated without losing its originality. Fantastic view from the balcony where we enjoyed the traditional pancake breakfast. And above all Toni, the...”"\n  - name: "Thanas"\n    country: "Greece"\n    text: "“Liked · Hotel Pashai, great location, in the center of old city. Very clean and very comfortable, beautiful hotel.We enjoyed the breakfast in a balcony with fantastic views.”"\n  - name: "Gersi"\n    country: "Albania"\n    text: "“The value for money
+Room was very cozy
+Staff was welcoming”"\nbookingURL: "https://www.booking.com/hotel/al/lani.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach room at Hotel Pashai is meticulously designed for comfort, featuring air conditioning for those warm Gjirokastër days, and a cozy seating area perfect for unwinding. Entertainment and connectivity are ensured with a flat-screen TV equipped with satellite channels, while valuables can be securely stored in the in-room safety deposit box. The private bathrooms are well-appointed with a shower, alongside thoughtful touches such as a hairdryer and slippers, ensuring a home-away-from-home experience. Additionally, the convenience of a fridge in every room adds a layer of ease for guests.
 
 Culinary needs are met with a versatile breakfast selection available daily, catering to a range of preferences including continental, Italian, and vegetarian options. This ensures a delightful start to the day, whether one is gearing up for a day of exploration or a relaxing day in.
 
 Situated 83 km from Ioannina Airport, Hotel Pashai offers a seamless connection for travelers seeking to explore the rich tapestry of Gjirokastër and its surroundings. Whether it's the allure of nearby natural wonders or the charm of the city itself, Hotel Pashai serves as a perfect base for an unforgettable stay.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

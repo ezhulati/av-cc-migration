@@ -1,26 +1,3 @@
----
-title: Guest House Rei
-description: The accommodation at Guest House Rei is thoughtfully designed, featuring a single bedroom apartment that boasts a fully equipped kitchen and a bathroom, ensurin
-featuredImage: "/images/accommodation/508749894.jpg"
-language: en
-slug: guest-house-rei
-location: ""
-amenities: []
-images: []
----
-
-The accommodation at Guest House Rei is thoughtfully designed, featuring a single bedroom apartment that boasts a fully equipped kitchen and a bathroom, ensuring guests feel at home. Entertainment needs are catered to with the inclusion of a flat-screen TV, making each stay both relaxing and enjoyable.
+---\ntitle: "Guest House Rei"\ndescription: "Guest House Rei emerges as a serene beachfront haven in Pogradec, distinguished by its exclusive hot tub feature and the convenience of complimentary WiFi access."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508749894.jpg?k=1f988d994c1ea0870766ac66a457ec8d454b52b8c8465f4fc5143ce540faa019&o=&hp=1"\nlanguage: en\nslug: guest-house-rei\naddress: "Rruga Gani Butka, 7301 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.89994273\n  lng: 20.66208566\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508749894.jpg?k=1f988d994c1ea0870766ac66a457ec8d454b52b8c8465f4fc5143ce540faa019&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/508749865.jpg?k=b6a79104b991e759626a0cc3138823df0c5ab7336783a8fdeb2b47428bb980cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/508749881.jpg?k=02d9c9dc47a778194ecc890aa884e547b22dfcd819df8e5568020dfa6d7cf3d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/508749885.jpg?k=428d33afca013839bc3503d80d926dc0a80393ae0b7a7c4aa2381573c6c57f75&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/508749888.jpg?k=0fe2342cc3b638902f3834231a155a20043e1c3eed5b54e15d3e34016892f53d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/508749898.jpg?k=e177d125ed85fe3233d721779c159c00ea8fd2f3262f8281f63563ffec68c52a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/508749901.jpg?k=dab070c01232fd773ca0e99cd1b2e2dd38b5035250a539caf24dfddc989c8ee9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/508749907.jpg?k=6002b4c9ab84094a82e0ebc9f858454c345bdfa4c98d59d1a73e6c27976a4619&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Bossi 50 m"\n  - "Fast Food Pere 100 m"\nwhatsNearby:\n  - "Driloni National Park 600 m"\n  - "National Park Galicica 7 km"\n  - "National Park Galicica 14 km"\n  - "Bay of Bones 16 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 71 km"\n  - "Tirana International Airport Mother Teresa 96 km"\nbookingURL: "https://www.booking.com/hotel/al/guest-house-rei.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodation at Guest House Rei is thoughtfully designed, featuring a single bedroom apartment that boasts a fully equipped kitchen and a bathroom, ensuring guests feel at home. Entertainment needs are catered to with the inclusion of a flat-screen TV, making each stay both relaxing and enjoyable.
 
 For those keen on exploring, the Bay of Bones is within a 23 km reach, offering a glimpse into the area's rich history, while the Early Christian Basilica, 39 km away, stands as a testament to architectural grandeur. Conveniently, Ohrid Airport is the nearest air travel hub, located 46 km from the property, facilitating easy access for travelers. Guest House Rei stands out as a prime choice for those seeking a blend of leisure and exploration in Pogradec.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Hotel Blini
-description: Each room in Hotel Blini is thoughtfully designed with comfort in mind, boasting air conditioning, cable TV, and complimentary WiFi to keep guests connected. Th
-featuredImage: "/images/accommodation/453572451.jpg"
-language: en
-slug: hotel-blini
-location: ""
-amenities: []
-images: []
----
-
-Each room in Hotel Blini is thoughtfully designed with comfort in mind, boasting air conditioning, cable TV, and complimentary WiFi to keep guests connected. The allure of mountain views can be enjoyed from every room, with select accommodations featuring a balcony for an even closer connection to nature.
+---\ntitle: "Hotel Blini"\ndescription: "Hotel Blini stands out as a serene oasis, located just 700 meters from the historic Rozafa Castle and a mere five-minute drive from the vibrant heart of Shkodër."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453572451.jpg?k=a6f7d8a13727533afa8547d72cf1e7e505c846be74dded92bf2449b00136d65a&o=&hp=1"\nlanguage: en\nslug: hotel-blini\naddress: "Shetitorja e Molos, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.0540716\n  lng: 19.4974028\nprice: "US$74"\npriceFrom: 74\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 796\nratings:\n  overall: 8.8\n  location: 8.2\n  cleanliness: 8.8\n  facilities: 8.4\n  value: 8.9\n  comfort: 8.7\n  staff: 9.5\n  wifi: 9.1\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453572451.jpg?k=a6f7d8a13727533afa8547d72cf1e7e505c846be74dded92bf2449b00136d65a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453574108.jpg?k=ae8fd3b6d94ef2b9a2c1150784286ad775af2bf5f4ea3497ac1dc1e36431a999&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67765029.jpg?k=6766c8ee1d6a938e83b38b445630e698a375783b2b06c38c6c766013e371b880&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453572441.jpg?k=f97cf308f3e19be8a8854ac8ff2f1e21b54fc1649f29318da3b97457cc47cce9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67765010.jpg?k=eadf367d38004d1ffc21adde2d02db262d5e827098812e13de688ccc5f446dd4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453572447.jpg?k=64041e3d39d209537108310865005ddec7f7599889034e4ae027d016ce961b65&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Fabulous breakfast"\nroomTypes:\n  - "Deluxe Double Room"\n  - "Deluxe Triple Room"\n  - "Deluxe Triple Room"\n  - "Deluxe Quadruple Room"\nnearbyRestaurants:\n  - "Bon Bon 50 m"\n  - "SUPERBAST 50 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 900 m"\n  - "National Park Skadar Lake 9 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 72 km"\n  - "Tivat Airport 73 km"\nreviews:\n  - name: "Ann"\n    country: "France"\n    text: "“Large comfortable room with great bedding. Very nice staff, quiet and lovely breakfast”"\n  - name: "Maja"\n    country: "Poland"\n    text: "“Everything was just perfect. We couldnt find a better place to stay in Shkodra!”"\n  - name: "Margarida"\n    country: "Portugal"\n    text: "“We ordered a takeaway breakfast earlier than breakfast schedule. We had to catch the minibus to koman lake, so the employees were very helpful and arranged everything! Very friendly and the sandwich they made us was great!”"\nbookingURL: "https://www.booking.com/hotel/al/blini.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach room in Hotel Blini is thoughtfully designed with comfort in mind, boasting air conditioning, cable TV, and complimentary WiFi to keep guests connected. The allure of mountain views can be enjoyed from every room, with select accommodations featuring a balcony for an even closer connection to nature.
 
 Culinary delights await at the hotel's restaurant, where a fusion of Albanian and international cuisine is served. Diners can savor the taste of fresh fish sourced from the nearby Lake Shkodër, complemented by an extensive selection of pastries, promising a memorable dining experience for every palate.
 
 Hotel Blini emerges as a preferred choice for travelers seeking a blend of tranquility, comfort, and culinary excellence in the heart of Shkodër.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

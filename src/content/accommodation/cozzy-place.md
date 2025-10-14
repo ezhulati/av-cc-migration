@@ -1,30 +1,7 @@
----
-title: Cozzy place
-description: Cozzy Place is a haven of comfort, featuring two well-appointed bedrooms, a bathroom, and a fully equipped kitchenette for those moments when guests prefer a ho
-featuredImage: "/images/accommodation/459901121.jpg"
-language: en
-slug: cozzy-place
-location: ""
-amenities: []
-images: []
----
-
-Cozzy Place is a haven of comfort, featuring two well-appointed bedrooms, a bathroom, and a fully equipped kitchenette for those moments when guests prefer a home-cooked meal. The inclusion of air conditioning and a flat-screen TV ensures that visitors can relax in the utmost comfort after a day of exploring Tirana.
+---\ntitle: "Cozzy place"\ndescription: "Discover the charm of Tirana from the comfort of Cozzy Place, a serene apartment located strategically to offer both tranquility and easy access to the city's most iconic landmarks."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459901121.jpg?k=17d4dc3a2845d46182f89fb67f1783db3a13074b647acd87feff58a84c1aea22&o=&hp=1"\nlanguage: en\nslug: cozzy-place\naddress: "Rruga Muhamet Gjollesha, 1050 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3235623\n  lng: 19.80408859\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 4.8\nratingWords: "Needs Improvement"\nnumberOfReviews: 2\nratings:\n  overall: 4.8\n  location: 7.5\n  cleanliness: 2.5\n  facilities: 3.8\n  value: 3.8\n  comfort: 3.8\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459901121.jpg?k=17d4dc3a2845d46182f89fb67f1783db3a13074b647acd87feff58a84c1aea22&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459901158.jpg?k=93ced7f665a2ec432aebb2887a5a8ef80ef2ffc0186a64cf1d95cf870cd545e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459901192.jpg?k=1ef436e624d9e7eab8b2fe3fd5a1258d83e51e56562da8f6d693f03e0232f049&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459901184.jpg?k=f52f82ff5e07ab357a529a9041e4825e582dd96bd89108f8536c05938f5655d1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459901178.jpg?k=4903b6f6f1eb35af79fbb1068079008c35a53c69d7cf7f2b4029ac53d7f3ac20&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459901204.jpg?k=cad7603cf4814d6fb0430a61bbaf6f0aea885df56ebf2a3bc1f6354c70f6ff53&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473860024.jpg?k=de6a1bca9155f64a9a3fb7fb069c12fcc9adb01ce2a91872ce86de18fd61b4f8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459901162.jpg?k=aec8f7d126c2ac9a56b5a638732b6c2ccb2f53bf82b01aa21ec261ed887b027f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459901148.jpg?k=5de7ce8d4373b53add79d3e4243711a026b79ff714bbb982b24bcfc5eb991a7d&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "Former Residence of Enver Hoxha 1.1 km"\n  - "Rinia Park 1.2 km"\n  - "National Museum of History Albania 1.3 km"\n  - "Skanderbeg Square 1.3 km"\n  - "Clock Tower Tirana 1.4 km"\n  - "National Gallery of Arts Tirana 1.4 km"\n  - "Tanners' Bridge 1.9 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 6 km"\nnearbyRestaurants:\n  - "Tradita Arabe - Arabic 30 m"\n  - "Everest 50 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Shefqet Musaraj 150 m"\n  - "Sheshi Rekreativ Sali Butka 350 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 400 m"\n  - "Sheshi Rekreativ Bajram Curri 650 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 650 m"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 750 m"\n  - "Sheshi Rekreativ Komuna e Parisit 800 m"\n  - "Sheshi Rekreativ Parku 1Km 950 m"\n  - "Sheshi Rekreativ Pallati me Shigjeta 1.1 km"\n  - "House of Leaves 1.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 80 km"\nbookingURL: "https://www.booking.com/hotel/al/cozzy-place.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nCozzy Place is a haven of comfort, featuring two well-appointed bedrooms, a bathroom, and a fully equipped kitchenette for those moments when guests prefer a home-cooked meal. The inclusion of air conditioning and a flat-screen TV ensures that visitors can relax in the utmost comfort after a day of exploring Tirana.
 
 The apartment is a stone's throw away from significant cultural sites such as the Postbllok - Checkpoint Monument, the enchanting Et'hem Bey Mosque, and the National Museum of History Albania, making it an ideal base for history enthusiasts and culture vultures alike. Moreover, the heart of the city, Skanderbeg Square, is just 1.6 km away, offering guests a glimpse into the vibrant local life.
 
 For those seeking leisurely strolls or a touch of nature, Rinia Park, House of Leaves, and the intriguing Reja - The Cloud installation are conveniently located nearby. Additionally, the property boasts free WiFi throughout, ensuring that guests stay connected during their stay.
 
 Situated 14 km from Tirana International Mother Teresa Airport, Cozzy Place offers a seamless experience for both international travelers and those looking to explore the depths of Albania's capital. With its non-smoking rooms and proximity to popular points of interest, this apartment is a perfect retreat for travelers seeking both comfort and convenience in Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: luxury villa 2 km from the sea
-description: The villa itself is a haven of comfort and elegance, boasting a spacious layout that includes two well-appointed bedrooms, a fully equipped kitchen for those wh
-featuredImage: "/images/accommodation/479800498.jpg"
-language: en
-slug: luxury-villa-2-km-from-the-sea
-location: ""
-amenities: []
-images: []
----
-
-The villa itself is a haven of comfort and elegance, boasting a spacious layout that includes two well-appointed bedrooms, a fully equipped kitchen for those who love to cook, and a cozy living area complete with a flat-screen TV for entertainment. The air-conditioned interiors open up to a breathtaking terrace, offering unobstructed views of the meticulously maintained garden, setting the stage for unforgettable mornings or tranquil evenings.
+---\ntitle: "luxury villa 2 km from the sea"\ndescription: "Discover the epitome of serene luxury at \"Luxury Villa 2 km from the Sea,\" a distinguished retreat situated in the vibrant city of Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479800498.jpg?k=8d5a4e10052d94df8a40de1302eb92c5b7c0f079cdd8519f0da08bdd46860570&o=&hp=1"\nlanguage: en\nslug: luxury-villa-2-km-from-the-sea\naddress: "Rruga Syri i Detit 3, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.3378276\n  lng: 19.4354462\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479800498.jpg?k=8d5a4e10052d94df8a40de1302eb92c5b7c0f079cdd8519f0da08bdd46860570&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494498835.jpg?k=719c23de7737b22e27e3649fe77618ad69a43076c817f758b8a0fa509430dab7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479800585.jpg?k=4959c1fc3e1668a0b6390117ee6c80d902f9bd3932d050b1b9a7048724a242f8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494498841.jpg?k=547e51fd705c4c52023d109048d58375348b88f29e381723746acd9f0e91a29f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494498837.jpg?k=fabb15a9fa21680479c3c24f93aec9151401d040d59301996dc9af6c0b9127b7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479800590.jpg?k=133fd4490b3e917adf5f55835f9327510c7a20dec3eb113fd50cd375fe936641&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494498836.jpg?k=e43e3258e1c8d13cc5f1d8feb6c77985e46fded44a3ba4a4d0382fbd4fb2185c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479800609.jpg?k=9305c0584b3f0db00b726f35b2133321d7c514097f74002480eb9fd271c885d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494498838.jpg?k=82def299ec650b5b49b45ec286e386d0a29ca5171b8ff80052b21427e3049fbd&o=&hp=1"\namenities:\n  - "Free parking"\nnearbyRestaurants:\n  - "Fama - Agroturizem & Argetim 600 m"\n  - "Fast Food Erso 750 m"\nnearbyBeaches:\n  - "West End Beach 1.7 km"\n  - "Kallmi Beach 1.8 km"\n  - "Currila Beach 2.4 km"\n  - "Durres Beach 3.7 km"\n  - "Ohana Beach 4.9 km"\nwhatsNearby:\n  - "Sotir Noka 2.1 km"\n  - "Sheshi Demokracia 2.4 km"\n  - "Yje Dhe Hena 2.6 km"\n  - "Wine Dhe Pooh 2.7 km"\n  - "Durres Amphiteatre 3 km"\n  - "1. Maj 3 km"\n  - "Bekimi 3.8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\nbookingURL: "https://www.booking.com/hotel/al/luxury-villa-2-km-from-the-sea.en-gb.html?aid=8035640"\nbestFor: "Best for Luxury"\nbestCategories: "Luxury"\ncategory: "Luxury"\n---\n\nThe villa itself is a haven of comfort and elegance, boasting a spacious layout that includes two well-appointed bedrooms, a fully equipped kitchen for those who love to cook, and a cozy living area complete with a flat-screen TV for entertainment. The air-conditioned interiors open up to a breathtaking terrace, offering unobstructed views of the meticulously maintained garden, setting the stage for unforgettable mornings or tranquil evenings.
 
 For those keen on delving into Albania's rich cultural heritage, the villa is conveniently located near several historical landmarks. The enigmatic Rock of Kavaje is just 13 km away, while the Durres Amphitheatre, a testament to the city's ancient past, is a mere 4.3 km from the property. Additionally, the former Residence of Enver Hoxha and the House of Leaves museum are both within a 40 km radius, offering insightful glimpses into the country's complex history.
 
 Accessibility is another highlight, with Tirana International Mother Teresa Airport only 34 km away, ensuring smooth arrivals and departures for international guests. With its strategic location, luxurious amenities, and proximity to cultural sites, "Luxury Villa 2 km from the Sea" is not just a place to stay; it's a gateway to experiencing the rich heritage and natural beauty of Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

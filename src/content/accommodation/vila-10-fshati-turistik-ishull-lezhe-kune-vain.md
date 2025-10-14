@@ -1,28 +1,5 @@
----
-title: Vila 10 Fshati Turistik - Ishull Lezhe, Kune Vain
-description: This charming villa boasts two well-appointed bedrooms and a bathroom, ensuring a comfortable stay for guests. The inclusion of bed linen, towels, and a flat-sc
-featuredImage: "/images/accommodation/484395968.jpg"
-language: en
-slug: vila-10-fshati-turistik-ishull-lezhe-kune-vain
-location: ""
-amenities: []
-images: []
----
-
-This charming villa boasts two well-appointed bedrooms and a bathroom, ensuring a comfortable stay for guests. The inclusion of bed linen, towels, and a flat-screen TV with streaming services adds a touch of home, while the dining area and fully equipped kitchen offer the freedom to enjoy home-cooked meals. The patio, offering delightful garden views, serves as a perfect backdrop for a morning coffee or an evening unwind. The villa's seating area, complemented by a cozy fireplace, invites guests to relax after a day of exploration.
+---\ntitle: "Vila 10 Fshati Turistik - Ishull Lezhe, Kune Vain"\ndescription: "Vila 10 Fshati Turistik - Ishull Lezhe, Kune Vain emerges as a serene retreat in the heart of Lezhë, offering a blend of comfort and convenience for travelers seeking a peaceful getaway."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484395968.jpg?k=8b66819df13c2e758ddeb17566afe9f3197ea4a461e0a2d7d67aa96a7647dc50&o=&hp=1"\nlanguage: en\nslug: vila-10-fshati-turistik-ishull-lezhe-kune-vain\naddress: "Fshati Turistik Ishull-Lezhe, Lezhe, Albania, 4501 Lezhë, Albania"\ncity: "Lezhë"\nlocation: "Lezhë"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.74880328\n  lng: 19.61700111\nprice: "US$69"\npriceFrom: 69\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 9.6\n  location: 8.8\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484395968.jpg?k=8b66819df13c2e758ddeb17566afe9f3197ea4a461e0a2d7d67aa96a7647dc50&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481200572.jpg?k=1c6b5f8163900adc475bd4b56a457bcf0206364a4c0b72607d32ef7032cb1c89&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481200511.jpg?k=bcc47bfdcf4f010d95693a026c70e01e2846996b7c5bab7a2461cd656509677c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481200580.jpg?k=2b7d94eaa45e7f35a5361d9ec5e0a4949aa3cc1af5c5484a4ecde0f0e6570be7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481200575.jpg?k=cb96c468cb828e7b2fc7510781d155cc45d396dc7f49ccac17bf43c7ecb15d08&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481200568.jpg?k=704dd563f88e1218784b15d0cdf81e11e0eabed24d448b598f057e82a2f01348&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481200582.jpg?k=f2ba7d0f8dbba74697705fe83d9ba61f76748c6a9d2836de2b650276903601ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481200550.jpg?k=c6ac80c297c5f29b65a485003274e703f0f59909cd25191478a31ad67b59024c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481200544.jpg?k=c4ccf1bd7f14953ba2a899783c32e48572a46326a3a4046a4fd9c5a74a63d6f6&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Villa"\nnearbyRestaurants:\n  - "Hysen Selmani 200 m"\n  - "Restorant Begu 1.1 km"\nnearbyBeaches:\n  - "Laguna Park Beach 2.5 km"\n  - "Kune Beach 2.9 km"\n  - "Tale Beach 4.1 km"\n  - "Ylberi Beach 5 km"\n  - "Shëngjin Beach 6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 37 km"\n  - "Podgorica Airport 73 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/the-perfect-getaway-wooden-villa.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nThis charming villa boasts two well-appointed bedrooms and a bathroom, ensuring a comfortable stay for guests. The inclusion of bed linen, towels, and a flat-screen TV with streaming services adds a touch of home, while the dining area and fully equipped kitchen offer the freedom to enjoy home-cooked meals. The patio, offering delightful garden views, serves as a perfect backdrop for a morning coffee or an evening unwind. The villa's seating area, complemented by a cozy fireplace, invites guests to relax after a day of exploration.
 
 For those traveling by air, the convenience of being just 44 km from Tirana International Mother Teresa Airport makes Vila 10 Fshati Turistik - Ishull Lezhe, Kune Vain an accessible choice. The added benefits of private parking on site and complimentary WiFi enhance the overall guest experience, ensuring both privacy and connectivity.
 
 With its non-smoking policy, Vila 10 Fshati Turistik - Ishull Lezhe, Kune Vain stands out as a fresh and inviting option for travelers seeking a serene and comfortable stay in Lezhë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

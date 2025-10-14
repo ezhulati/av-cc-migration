@@ -1,26 +1,3 @@
----
-title: Blue Residence Sarande
-description: Guests of Blue Residence Sarande are treated to the luxury of free private parking, a rarity in such a sought-after location. Each apartment promises a serene r
-featuredImage: "/images/accommodation/354897724.jpg"
-language: en
-slug: blue-residence-sarande
-location: ""
-amenities: []
-images: []
----
-
-Guests of Blue Residence Sarande are treated to the luxury of free private parking, a rarity in such a sought-after location. Each apartment promises a serene retreat, equipped with air conditioning, a private bathroom, and a fully furnished kitchen, ensuring a stay that combines the comforts of home with the excitement of travel.
+---\ntitle: "Blue Residence Sarande"\ndescription: "Discover the charm of Blue Residence Sarande, a prime destination for travelers seeking both comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354897724.jpg?k=7d36ebc2c8b0a354a3251bb6008db77aaaca2fb84092580da391185cccc207e8&o=&hp=1"\nlanguage: en\nslug: blue-residence-sarande\naddress: "Rruga Butrinti Lagjia Nr.1, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86646439\n  lng: 20.01677965\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354897724.jpg?k=7d36ebc2c8b0a354a3251bb6008db77aaaca2fb84092580da391185cccc207e8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354897791.jpg?k=577b06803b907331db36559c584371a6492e169b9ccd8ce92a2ec3118e429463&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354897958.jpg?k=5b73775e0e1d56f1479c1adb865f9607871516d0703e42d771f5759401528872&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354897802.jpg?k=c2abea46f929e869fcdb98ff18e4690d60e038f2842f22bea5a0477e5f8e230f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354897818.jpg?k=12cc294031a2f355e1c9f2338bd5912eb5c18cf99604fb422d662c6e3eba8619&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354897789.jpg?k=e585cd4bede210586b93ff38ad23b46a3882e888c2ba1cfb7a8a940676b194be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354897871.jpg?k=5de5602382e5b98e4d6143c9c665173dcb8ff0f403672a5a3813f4f5e3a80982&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354897771.jpg?k=53e9ba5c805263ca88bca611a9bfb0284d8e1c7da1f9be17310111ed4961d6a0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354897774.jpg?k=48644b98c0fe48214e0dac5602c54a15e2f1d052ff3294d6db2f4f6e1435a96d&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Terrace"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Fast Food Mario 20 m"\n  - "Royal Pizza Sarande 100 m"\nnearbyBeaches:\n  - "Maestral Beach 40 m"\n  - "La Petite Beach 250 m"\n  - "Saranda City Beach 650 m"\n  - "VIP Beach 850 m"\n  - "Santa Quaranta Beach 900 m"\nwhatsNearby:\n  - "Parc National de Butrint 1.1 km"\n  - "Butrint National Park 1.9 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/blue-residence-sarande-sarande.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests of Blue Residence Sarande are treated to the luxury of free private parking, a rarity in such a sought-after location. Each apartment promises a serene retreat, equipped with air conditioning, a private bathroom, and a fully furnished kitchen, ensuring a stay that combines the comforts of home with the excitement of travel.
 
 Situated 96 km from Ioannina Airport, the property offers a seamless connection for international travelers. With its thoughtful amenities and unbeatable location, Blue Residence Sarande is a top pick for those looking to experience the best of Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

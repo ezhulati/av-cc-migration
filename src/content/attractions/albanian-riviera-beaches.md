@@ -7,6 +7,11 @@ featuredImage: /images/attractions/albanian-riviera-beaches.jpg
 images: []
 language: en
 slug: albanian-riviera-beaches
+seo:
+  metaTitle: "Explore the Best Beaches on the Albanian Riviera in %currentyear%"
+  metaDescription: "Discover the top beaches on the Albanian Riviera—your guide to pristine sands, crystal-clear waters, and the ultimate Mediterranean seaside experience."
+  focusKeyword: "albanian riviera beaches"
+  robots: "index"
 ---
 
 A Brief Introduction to the Albanian Riviera
@@ -121,10 +126,3 @@ The Albanian Riviera is an incredible destination, offering breathtaking beaches
 
 Whether you’re looking for a relaxing beach vacation, an adventure-filled hiking trip, or a chance to immerse yourself in local culture, the Albanian Riviera has something for everyone.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

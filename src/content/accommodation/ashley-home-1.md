@@ -1,28 +1,5 @@
----
-title: Ashley Home 1
-description: "The apartment itself is a testament to modern living, boasting a cozy 1-bedroom layout."
-featuredImage: ""
-language: en
-slug: ashley-home-1
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to modern living, boasting a cozy 1-bedroom layout. The living room, equipped with a flat-screen TV and streaming services, offers a homely ambiance for relaxation. A fully equipped kitchen stands ready for culinary adventures, while the bathroom comes with a hair dryer, adding a touch of convenience to personal care routines. The thoughtful addition of fruits as an in-room amenity further enhances the welcoming atmosphere.
+---\ntitle: "Ashley Home 1"\ndescription: "Ashley Home 1 emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512434454.jpg?k=858753727292f32295041485bff20eb5c2d4baa598afb929d1fdf2a4ae689559&o=&hp=1"\nlanguage: en\nslug: ashley-home-1\naddress: "Rruga Pavaresia, 2008 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3115284\n  lng: 19.4808714\nprice: "US$37"\npriceFrom: 37\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 5\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512434454.jpg?k=858753727292f32295041485bff20eb5c2d4baa598afb929d1fdf2a4ae689559&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/512433939.jpg?k=59f3de058d594b1d806b65024734daf6527ac50e7522594d5e67bc48106908cd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/512434717.jpg?k=816eb057d7b6a9487e495a1ec11f0d35fc4361aa8c9fbb282e42d711eb62b7b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/512432606.jpg?k=30c435a1ca6ba9d3aacd3a1f073276afd53560c0f0b1eacf1b37d80fc0ea3628&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/512433363.jpg?k=aeea2e8b484bbc6e5dc6988d3ce13dc3236b850797e6c7bcbf397f37ede0debd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/512428077.jpg?k=c1bd7ae660eda1c3376ac39bbc413ebd401c6a0745f27ffcf267ba5899f6aa04&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/512433485.jpg?k=3bc4f391e579752826c4ce4d6072aa3def9d7460334ea1ea2fbb9915f5ee0e3c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/512432730.jpg?k=8e45d131a6bc0fba7cd34c9b0110e8496245566313b6a1056bbbe77fae0df154&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/512433011.jpg?k=a1b79bac151c545b779b40d7d2a23742b034bc565bbf65f8bf54a771bc4a368f&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Restorant de Lux 40 m"\n  - "Antigua 100 m"\nnearbyBeaches:\n  - "Durres Beach 10 m"\n  - "Currila Beach 2.8 km"\n  - "Shkëmbi i Kavajës Beach 3.7 km"\n  - "Kallmi Beach 4.1 km"\n  - "West End Beach 5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/ashley-home-1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to modern living, boasting a cozy 1-bedroom layout. The living room, equipped with a flat-screen TV and streaming services, offers a homely ambiance for relaxation. A fully equipped kitchen stands ready for culinary adventures, while the bathroom comes with a hair dryer, adding a touch of convenience to personal care routines. The thoughtful addition of fruits as an in-room amenity further enhances the welcoming atmosphere.
 
 For those incidental needs or quick snacks, the on-site minimarket proves incredibly handy. Cultural enthusiasts will appreciate the proximity to the Durres Amphitheatre, located just 4.7 km away, offering a glimpse into the rich history of the area. Additionally, the House of Leaves and Skanderbeg Square, both 38 km from the apartment, are accessible for those looking to delve into the country's past.
 
 Completing the picture of accessibility, the Tirana International Mother Teresa Airport is a mere 32 km away, ensuring smooth travel plans to and from the property. Ashley Home 1 stands out as a meticulously designed space that promises not just a stay, but an experience tailored for those who appreciate the finer details of travel accommodations.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

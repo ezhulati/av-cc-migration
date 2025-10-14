@@ -1,28 +1,6 @@
----
-title: Traveler Hostel
-description: Accommodations at Traveler Hostel are thoughtfully designed with guest comfort in mind. Each room is furnished with essential storage options like a wardrobe, e
-featuredImage: "/images/accommodation/511266751.jpg"
-language: en
-slug: traveler-hostel
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Traveler Hostel are thoughtfully designed with guest comfort in mind. Each room is furnished with essential storage options like a wardrobe, ensuring a hassle-free stay. The facilities extend to shared bathrooms equipped with showers, enhancing the communal feel of the hostel. Select rooms also boast balconies, providing a private outdoor space to enjoy the urban landscape.
+---\ntitle: "Traveler Hostel"\ndescription: "Traveler Hostel, situated in the vibrant heart of Shkodër and a mere 49 km from the Port of Bar, stands out for its exceptional city views and welcoming atmosphere."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511266751.jpg?k=4e75e1c143ba94d589fcc6db996b17dd7ada8be354549642015659558ec53a9c&o=&hp=1"\nlanguage: en\nslug: traveler-hostel\naddress: "4001 Rruga Lëvizja e Postribës, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hostel"\ncoordinates:\n  lat: 42.075347\n  lng: 19.51643074\nprice: "US$12"\npriceFrom: 12\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 38\nratings:\n  overall: 9.5\n  location: 9.2\n  cleanliness: 9.6\n  facilities: 9.2\n  value: 9.5\n  comfort: 9.2\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511266751.jpg?k=4e75e1c143ba94d589fcc6db996b17dd7ada8be354549642015659558ec53a9c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469773031.jpg?k=5942d81011a3e91c70b1383f23e8b22013ce081334a25780c0ed386b5d4364fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456783083.jpg?k=5fc9e808496f657f86a50502e8af66d8b25a88bb7858402ffb036a91a85ad2ae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518204783.jpg?k=ed427f9ff6bcfdc4453f186f9340499946dd6d6036add9d27490f732664b1285&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518204503.jpg?k=800c3efd22b4779697d36987517e05e557dc015578e69899165a38762dcdac07&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469774088.jpg?k=3d4d25286ae84ae71fc3bddb4d20e2404a8107194c4b376fb45040a784e105ac&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free WiFi"\n  - "Bar"\nroomTypes:\n  - "10-Bed Mixed Dormitory Room"\n  - "4-Bed Mixed Dormitory Room"\n  - "4-Bed Mixed Dormitory Room"\n  - "Mixed Dormitory Room"\n  - "4-Bed Female Dormitory Room"\n  - "Single Room"\n  - "Single Room"\n  - "Single Room"\n  - "Double Room"\nnearbyRestaurants:\n  - "Cafe Paskalino 20 m"\n  - "eccobet 100 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 3.7 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 37 km"\n  - "Tivat Airport 73 km"\n  - "Tirana International Airport Mother Teresa 74 km"\nreviews:\n  - name: "Teresa"\n    country: "Portugal"\n    text: "“Completely new Hostel with an amazing vibe. Location is perfect super close to the center and attractions (it’s in a chilled area so you can rest easily). Facilities and internet connection perfect and it’s also a great spot if you would like to...”"\n  - name: "Jacob"\n    country: "United Kingdom"\n    text: "“Great hostel to stay in Shköder. Staff are very helpful and friendly. Highly recommend.”"\n  - name: "Nobuhiro"\n    country: "Japan"\n    text: "“The staffs are very kind and friendly.
+They helped me to arrange the transportation to Theth.”"\nbookingURL: "https://www.booking.com/hotel/al/traveler-hostel.en-gb.html?aid=8035640"\nbestFor: "Best for Hostel Experience"\nbestCategories: "Hostel Experience"\ncategory: "Hostel Experience"\n---\n\nAccommodations at Traveler Hostel are thoughtfully designed with guest comfort in mind. Each room is furnished with essential storage options like a wardrobe, ensuring a hassle-free stay. The facilities extend to shared bathrooms equipped with showers, enhancing the communal feel of the hostel. Select rooms also boast balconies, providing a private outdoor space to enjoy the urban landscape.
 
 For those looking to unwind, the hostel offers billiards, perfect for an evening of entertainment. Additionally, bike hire services are available for guests eager to explore Shkodër on two wheels, offering a unique perspective of the city.
 
 Conveniently located, Traveler Hostel is just 57 km away from Podgorica Airport, making it an accessible choice for travelers. This hostel is not just a place to stay; it's a gateway to experiencing the local culture and lifestyle of Shkodër.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

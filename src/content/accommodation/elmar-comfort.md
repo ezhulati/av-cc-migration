@@ -1,30 +1,7 @@
----
-title: ELMAR COMFORT
-description: Guests of Elmar Comfort are greeted with the convenience of complimentary WiFi accessible throughout the hotel and the assurance of free private parking, a boon
-featuredImage: "/images/accommodation/523162970.jpg"
-language: en
-slug: elmar-comfort
-location: ""
-amenities: []
-images: []
----
-
-Guests of Elmar Comfort are greeted with the convenience of complimentary WiFi accessible throughout the hotel and the assurance of free private parking, a boon for those arriving by car. The commitment to guest satisfaction is further evidenced by the 24-hour front desk, ready to attend to needs at any hour.
+---\ntitle: "ELMAR COMFORT"\ndescription: "Elmar Comfort emerges as a distinguished choice for travelers seeking both convenience and comfort in the heart of Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523162970.jpg?k=a58815668267856de56c222bf51c8be8c3cd022f05893d401eb4fb09dfe618e3&o=&hp=1"\nlanguage: en\nslug: elmar-comfort\naddress: "Rruga Murat Tërbaçi, 9404 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.43982151\n  lng: 19.49608994\nprice: "US$74"\npriceFrom: 74\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523162970.jpg?k=a58815668267856de56c222bf51c8be8c3cd022f05893d401eb4fb09dfe618e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/523163010.jpg?k=5d233074628f3edd8f33983508149742693428ffa4c419c96acd7e85de236bdd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/523163014.jpg?k=01e5b62c4abcfd1dd3867c43229c99ddeb646072fcee2b07793ea6193d24c901&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/523163020.jpg?k=cc84a2d5d5a1fc87a602c2c52062920c79ccd374152e2f875548cdb641fe2fee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/523163028.jpg?k=fea326928cee4a137bc128a72bd061825de4506877301d2bc32809257e06a3e2&o=&hp=1"\namenities:\n  - "Airport shuttle (free)"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Comfort Triple Room"\nnearbyRestaurants:\n  - "Pizzeria City 30 m"\n  - "Sapori di Casa 50 m"\nwhatsNearby:\n  - "Scooby Doo Vlore 400 m"\n  - "Kuzum Baba 3.1 km"\n  - "Independence Square 3.5 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/elmar-comfort.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests of Elmar Comfort are greeted with the convenience of complimentary WiFi accessible throughout the hotel and the assurance of free private parking, a boon for those arriving by car. The commitment to guest satisfaction is further evidenced by the 24-hour front desk, ready to attend to needs at any hour.
 
 Mornings at Elmar Comfort begin on a high note with a buffet breakfast, where a variety of options await to cater to diverse tastes and dietary requirements. The on-site restaurant further elevates the dining experience, offering delectable dishes in a welcoming atmosphere.
 
 For those keen to explore beyond the hotel's comforts, Elmar Comfort serves as an ideal base. The historic allure of Kuzum Baba and the cultural heartbeat of Independence Square are within easy reach, located just 3.6 km and 3.8 km away, respectively. Moreover, for guests venturing from afar, the Tirana International Mother Teresa Airport is 153 km from the hotel, making Elmar Comfort a convenient choice for international travelers.
 
 In essence, Elmar Comfort stands out as a beacon of hospitality in Vlorë, offering a harmonious blend of location, amenities, and service, making it a compelling choice for visitors to this vibrant coastal city.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,15 +1,5 @@
----
-title: Lucky Lux Apartment
-description: The apartment itself is a spacious retreat, boasting a well-appointed bedroom, a living area equipped with a flat-screen TV, and a fully equipped kitchen that c
-featuredImage: "/images/accommodation/175265655.jpg"
-language: en
-slug: lucky-lux-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a spacious retreat, boasting a well-appointed bedroom, a living area equipped with a flat-screen TV, and a fully equipped kitchen that caters to all culinary needs with an oven and a fridge. The inclusion of a washing machine and a bathroom complete with a hot tub adds a layer of convenience, ensuring a hassle-free stay. Air conditioning, a bidet, and a dressing room further enhance the comfort levels, while soundproofing and a private entrance underscore the apartment's commitment to privacy.
+---\ntitle: "Lucky Lux Apartment"\ndescription: "Lucky Lux Apartment stands out as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/175265655.jpg?k=3d37c3835e2e7e883eceecbf8c68d0ba2a192547136d21d521ae580ff4dbb33c&o=&hp=1"\nlanguage: en\nslug: lucky-lux-apartment\naddress: "Rruga Murat Tërbaçi, Vlorë 9401, Albania 6th floor above the PROPER PIZZA Restaurant., 9405 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.439933\n  lng: 19.495236\nprice: "US$35"\npriceFrom: 35\nstarRating: 5\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 15\nratings:\n  overall: 9.9\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 9.8\n  comfort: 10\n  staff: 9.6\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/175265655.jpg?k=3d37c3835e2e7e883eceecbf8c68d0ba2a192547136d21d521ae580ff4dbb33c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/170880216.jpg?k=f1b8c3f6167dc997ea5a3c1ae318e61dd80f07fb0b2a273bdff81c7b4a204597&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/175261971.jpg?k=8ec609a2a777e2d676685606faccb8dfe9187f038236ed03d33d1533a6ab6873&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/175235691.jpg?k=07ff111aecf5db0cb984c46d9595bf15e53678e367a109c5f6dcf21ca26d29f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/175248691.jpg?k=13dc123dc7a5d7426500c6369195b03685de392b050cb0ae1c53da02d07ea6de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/175248652.jpg?k=dd1f249bc45ce2b7b892785aa75f2a1a6cd412274945c833fef326d8bcebd879&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/175240156.jpg?k=3efcaa48b60f77aaf55e6ca4d166eb5f2513281f6007c26c0e1426152b57f11c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/175261963.jpg?k=e59dd0b9204b6a8f874b496f31bc270b9930d8168d215f96a1068ae498720806&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/175265642.jpg?k=e1408196d540d5dec372991f839a9e4b29eded71a755f3e9cc5f5f7a360f5dfb&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Sapori di Casa 0 m"\n  - "Pizzeria City 50 m"\nnearbyBeaches:\n  - "Vlore Beach 300 m"\n  - "Ri Beach 500 m"\n  - "Vjetër Beach 1.8 km"\n  - "Beach at Government Villas 2.3 km"\n  - "Liro Beach 3 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 400 m"\n  - "Kuzum Baba 3.1 km"\n  - "Independence Square 3.4 km"\nreviews:\n  - name: "Jack"\n    country: "Albania"\n    text: "“Everything was perfect, it felt like home! Great view from the balcony.”"\n  - name: "Dragos"\n    country: "Romania"\n    text: "“Amplasare excelenta.apartament spatios.balcon generos.plaja frumoasa”"\n  - name: "Tihomir"\n    country: "Germany"\n    text: "“Lage und der Balkon Ausblick!
+Hatten alles in der Nähe (Essen,Kaffe,Einkaufen….)”"\nbookingURL: "https://www.booking.com/hotel/al/lucky-lux-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a spacious retreat, boasting a well-appointed bedroom, a living area equipped with a flat-screen TV, and a fully equipped kitchen that caters to all culinary needs with an oven and a fridge. The inclusion of a washing machine and a bathroom complete with a hot tub adds a layer of convenience, ensuring a hassle-free stay. Air conditioning, a bidet, and a dressing room further enhance the comfort levels, while soundproofing and a private entrance underscore the apartment's commitment to privacy.
 
 Beyond the confines of the apartment, guests will find a terrace that invites leisurely moments under the sun, complemented by free WiFi to keep guests connected. The presence of a lift and a minimarket within the building adds an extra layer of ease to the guest experience.
 
@@ -18,15 +8,3 @@ For those keen to explore the local dining scene, a variety of dining options aw
 Noteworthy nearby attractions include Vjetër Beach, located 2.7 km away, and the historical site of Kuzum Baba, 3.7 km from the apartment. For guests arriving by air, Tirana International Mother Teresa Airport is the nearest gateway, situated 153 km from Lucky Lux Apartment.
 
 In summary, Lucky Lux Apartment offers an idyllic setting for a memorable stay in Vlorë, combining the comforts of home with the allure of beachfront living and the excitement of local adventures.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

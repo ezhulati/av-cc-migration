@@ -9,6 +9,9 @@ tags: []
 featuredImage: "/images/posts/Moving-to-Albania.jpg"
 language: en
 slug: moving-to-albania
+seo:
+  metaTitle: "Moving to Albania - Complicated But Maybe Worth It"
+  metaDescription: "Real guide to moving to Albania: visa reality, costs, housing, healthcare. It's complicated, affordable, and oddly addictive."
 ---
 
 ## It's Complicated (But That's Why It Works)
@@ -413,14 +416,3 @@ Single, city-based expats commonly report €1,200-€1,800 for a comfortable li
 
 Tirana for convenience and services; Durrës for seaside near the capital; Vlorë for calmer coast; Sarandë for seasonal beach life; Shkodër for culture and the Alps.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

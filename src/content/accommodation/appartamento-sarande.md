@@ -1,28 +1,5 @@
----
-title: appartamento sarande
-description: The living space is thoughtfully designed, featuring a single bedroom that promises a restful night's sleep, a fully equipped kitchen for those who love to prep
-featuredImage: "/images/accommodation/475713126.jpg"
-language: en
-slug: appartamento-sarande
-location: ""
-amenities: []
-images: []
----
-
-The living space is thoughtfully designed, featuring a single bedroom that promises a restful night's sleep, a fully equipped kitchen for those who love to prepare their own meals, and a bathroom that caters to all the essentials. Entertainment is readily available with the inclusion of a flat-screen TV, ensuring that guests have access to leisure even within the comfort of the apartment.
+---\ntitle: "appartamento sarande"\ndescription: "Appartamento Sarande emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475713126.jpg?k=a4e327d5117e11b1e95a101e34113e5289b677b9bf07cbf990b5f2679306a608&o=&hp=1"\nlanguage: en\nslug: appartamento-sarande\naddress: "Rruga Butrinti, 8642 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.85683476\n  lng: 20.0204597\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 6.1\nratingWords: "Average"\nnumberOfReviews: 2\nratings:\n  overall: 6.1\n  location: 6.3\n  cleanliness: 6.3\n  facilities: 6.3\n  value: 6.3\n  comfort: 5\n  staff: 6.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475713126.jpg?k=a4e327d5117e11b1e95a101e34113e5289b677b9bf07cbf990b5f2679306a608&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475713190.jpg?k=43c943afb08b6b6f6f1389d184f73a06bc4d8eb3ab4733383199c730106513c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475713170.jpg?k=fcbbc8e2235325a4f1dc420b8607eadd39e5e23577c1eb8714e924d7e05e9bf7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475713179.jpg?k=bb1a51c083785ddbd960329fcfd2e358cf0aeac2c924813fd99546919f23293e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475713173.jpg?k=e1ac149263a4773b773107e216a26cb229d86bfeeb4e88288b9ee53c4b737415&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475713196.jpg?k=e1270479e0ca383a50be99217c55b7e0a671d165eba9b8929dbf2462d4129fba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475713184.jpg?k=8acae29495f82d9517a7387fb6f84ad438b3699e864b463bbbaf9e8ba68bc5c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475713164.jpg?k=97cf68affd5854c8235c9221fd3ecebc6896dcfae86008223857d639886bda50&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475713180.jpg?k=fcda7de4f565920f4abb37624daff89aa0a42bfd8a4c2600f66d293f376e7a80&o=&hp=1"\namenities:\n  - "Free parking"\nnearbyRestaurants:\n  - "Grill Restorant Saranda 30 m"\n  - "Baken Grill 40 m"\nnearbyBeaches:\n  - "Flamingo Beach 100 m"\n  - "Santa Quaranta Beach 100 m"\n  - "VIP Beach 200 m"\n  - "Mango Beach 300 m"\n  - "Maestral Beach 1.1 km"\nwhatsNearby:\n  - "Parc National de Butrint 450 m"\n  - "Butrint National Park 850 m"\n  - "Plazhi I Krorezes 7 km"\n  - "Parku Kombetar I Butrintit 10 km"\n  - "Butrint National Park 10 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/appartamento-sarande-sarande.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe living space is thoughtfully designed, featuring a single bedroom that promises a restful night's sleep, a fully equipped kitchen for those who love to prepare their own meals, and a bathroom that caters to all the essentials. Entertainment is readily available with the inclusion of a flat-screen TV, ensuring that guests have access to leisure even within the comfort of the apartment.
 
 For those keen on exploring the local beaches, Appartamento Sarande does not disappoint. It is conveniently located near VIP Beach, Santa Quaranta Beach, and Flamingo Beach, each offering a unique experience and the opportunity to soak in the Mediterranean sun. Additionally, the proximity to Ioannina Airport, just 97 km away, makes this apartment a practical choice for international travelers.
 
 In summary, Appartamento Sarande stands out as a compelling option for those looking to immerse themselves in the beauty and culture of Sarandë, providing a cozy retreat after a day of adventure.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

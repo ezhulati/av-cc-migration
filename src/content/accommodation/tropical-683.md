@@ -1,30 +1,7 @@
----
-title: Tropical 683
-description: The apartment at Tropical 683 is generously proportioned, featuring a bedroom, a bathroom, and an inviting living space that includes a flat-screen TV and a din
-featuredImage: "/images/accommodation/425873600.jpg"
-language: en
-slug: tropical-683
-location: ""
-amenities: []
-images: []
----
-
-The apartment at Tropical 683 is generously proportioned, featuring a bedroom, a bathroom, and an inviting living space that includes a flat-screen TV and a dining area. The fully equipped kitchen allows guests the freedom to prepare their meals, which can be enjoyed on the terrace that boasts breathtaking sea views. An added luxury is the outdoor dining area, perfect for savoring meals against the backdrop of the city. Emphasizing comfort and health, the entire accommodation is a non-smoking environment.
+---\ntitle: "Tropical 683"\ndescription: "Tropical 683 emerges as a prime beachfront gem in Durrës, merely a stone's throw away from the pristine Durres Beach and within a comfortable distance from the historic Skanderbeg Square."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425873600.jpg?k=cf4669a19aec48d94762b01d409f1f87468c0084ec67e6890dd85919ffa79b25&o=&hp=1"\nlanguage: en\nslug: tropical-683\naddress: "8F5P+CGR 3rd floor door number 19, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30958709\n  lng: 19.48586678\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425873600.jpg?k=cf4669a19aec48d94762b01d409f1f87468c0084ec67e6890dd85919ffa79b25&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425873447.jpg?k=c3b71b5820d392eb60b092e6a87cdcdf0655ab55c9e53015fb853119aaeb048f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425873472.jpg?k=b59c9c8b866549e9223b898216de8314bba8709b8de3e0fe6de1cd17be84c431&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425873457.jpg?k=d205f99b2fae790c3b6b7dab05bb130186fc108cea722ae9b7eff0b5530ccf8f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425873496.jpg?k=e09cfc949f323611bdea46567c5dd7219255da5205bb3bdd1179cf246c85a967&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425873413.jpg?k=ec167b5eec5cb4851d64003fb802e8628252c869dee5f7525b5792f9d6313d4a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425873580.jpg?k=b5c04361c6ed4e745b6f707e09e887aaaa8a2ceac118449a5e908a3778858edf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425873537.jpg?k=585edff31dc44ac661ac56d7628ff3e69ce88b09bba4d3406f983ada7a11a87e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425873534.jpg?k=9dac0fa4b12a08cc95f82ba13f144f2ebe28f44c12202c5a0b9d8f04bc29b5fe&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "FC Bayern 40 m"\n  - "Prizreni 50 m"\nnearbyBeaches:\n  - "Durres Beach 100 m"\n  - "Currila Beach 3.2 km"\n  - "Shkëmbi i Kavajës Beach 3.3 km"\n  - "Kallmi Beach 4.6 km"\n  - "West End Beach 6 km"\nwhatsNearby:\n  - "Bekimi 2.2 km"\n  - "Wine Dhe Pooh 3.2 km"\n  - "Sheshi Demokracia 3.2 km"\n  - "Yje Dhe Hena 3.3 km"\n  - "Durres Amphiteatre 3.4 km"\n  - "Sotir Noka 3.5 km"\n  - "1. Maj 3.6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/1-bedroom-apartment-683.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment at Tropical 683 is generously proportioned, featuring a bedroom, a bathroom, and an inviting living space that includes a flat-screen TV and a dining area. The fully equipped kitchen allows guests the freedom to prepare their meals, which can be enjoyed on the terrace that boasts breathtaking sea views. An added luxury is the outdoor dining area, perfect for savoring meals against the backdrop of the city. Emphasizing comfort and health, the entire accommodation is a non-smoking environment.
 
 For convenience, a minimarket on the premises caters to the everyday needs of guests, adding to the self-contained appeal of Tropical 683. Those looking to explore the area can benefit from the available car rental service and airport transfer options, making both local and distant excursions effortlessly accessible.
 
 Situated 42 km from the Dajti Ekspres Cable Car and just 6.5 km from the Rock of Kavaje, Tropical 683 offers an ideal base for exploring the natural and cultural highlights of the region. The nearest airport, Tirana International Mother Teresa Airport, is located 32 km away, ensuring easy travel arrangements for international guests.
 
 Tropical 683 stands out as a compelling choice for travelers seeking a blend of convenience, comfort, and scenic beauty in Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

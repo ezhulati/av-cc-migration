@@ -7,6 +7,10 @@ featuredImage: /images/attractions/medaur-winery.jpg
 images: []
 language: en
 slug: medaur-winery
+seo:
+  metaTitle: "%title% - A Wine Lovers Paradise %sep% %sitename%"
+  metaDescription: "Explore Medaur Winery in Tirana, Albania. Discover the unique flavors, ambiance, and experiences that await you. "
+  focusKeyword: "Medaur Winery"
 ---
 
 The Experience
@@ -31,10 +35,3 @@ Here’s what real visitors have to say about their experience at Medaur Winery:
 
 Medaur Winery in Tirana, Albania, offers a unique and memorable experience for anyone interested in wine. Whether you’re a seasoned connoisseur or new to the world of wine, Medaur’s welcoming atmosphere, quality offerings, and passionate team make it a must-visit destination.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

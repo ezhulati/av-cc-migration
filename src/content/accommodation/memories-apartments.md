@@ -1,30 +1,7 @@
----
-title: Memories Apartments
-description: Following a comprehensive renovation in 2013, Memories Apartments now offers guests modern amenities wrapped in a cozy, family-friendly atmosphere. Each apartme
-featuredImage: "/images/accommodation/460534208.jpg"
-language: en
-slug: memories-apartments
-location: ""
-amenities: []
-images: []
----
-
-Following a comprehensive renovation in 2013, Memories Apartments now offers guests modern amenities wrapped in a cozy, family-friendly atmosphere. Each apartment is thoughtfully equipped with air conditioning, ensuring a comfortable stay regardless of the season. Guests can enjoy the serene sea views from their private balconies, a perfect backdrop for morning coffees or evening relaxation.
+---\ntitle: "Memories Apartments"\ndescription: "Memories Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460534208.jpg?k=8583868262dd69296d8a8e8e1fe950dffb4e367932378bd53f153e08f790456b&o=&hp=1"\nlanguage: en\nslug: memories-apartments\naddress: "Rruga Onhezmi, 9702 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87399116\n  lng: 20.00109944\nprice: "US$28"\npriceFrom: 28\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 41\nratings:\n  overall: 9.5\n  location: 9.2\n  cleanliness: 9.5\n  facilities: 9.4\n  value: 9.5\n  comfort: 9.8\n  staff: 9.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460534208.jpg?k=8583868262dd69296d8a8e8e1fe950dffb4e367932378bd53f153e08f790456b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443527145.jpg?k=5304549f776145e69160ad19abca3ef7c1244bbd828cb5a242084bb34c4c20b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371151196.jpg?k=433f585bffe770d5b5b8e560350a0772d4b48b241f311e93403b782d1e25c380&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371048017.jpg?k=6e53f1b20221480ddd7b9b38d0287d0bcb1ccba3703ff1c9e601898be29eb656&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371311178.jpg?k=a9e240483d40150b9bfe9359dda18752e20497d68868e654aecd7414b664946a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460025465.jpg?k=2bdd93aff50c92881c486fe3d543e998ee975ca30c4e21ea8e0e6321ab388f8a&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Airport shuttle"\n  - "Fast free WiFi (258 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom House"\n  - "Holiday Home"\n  - "Two-Bedroom House"\nnearbyRestaurants:\n  - "Pasticeri Byrektore Cako 50 m"\n  - "Lori 50 m"\nnearbyBeaches:\n  - "Sarande Main Beach 500 m"\n  - "Saranda City Beach 700 m"\n  - "La Petite Beach 1.3 km"\n  - "Maestral Beach 1.4 km"\n  - "Saranda Bay Beach 1.7 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.6 km"\n  - "Butrint National Park 3.4 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Gavin"\n    country: "Australia"\n    text: "“Clean good location and nice view from the balcony”"\n  - name: "Belinda"\n    country: "Canada"\n    text: "“Memories Apartment was very comfortable during my short visit to Saranda :) It was ideally located just a short walk to the ferry dock and to the main boulevard for Saranda Beach and plenty of restaurants and bars. The room was very clean with a...”"\n  - name: "Mantas"\n    country: "Lithuania"\n    text: "“All good, no complaints. Comfortable room with balcony in nice location. I would stay here again.”"\nbookingURL: "https://www.booking.com/hotel/al/memories-apartments-sarande.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nFollowing a comprehensive renovation in 2013, Memories Apartments now offers guests modern amenities wrapped in a cozy, family-friendly atmosphere. Each apartment is thoughtfully equipped with air conditioning, ensuring a comfortable stay regardless of the season. Guests can enjoy the serene sea views from their private balconies, a perfect backdrop for morning coffees or evening relaxation.
 
 The living spaces are designed with the modern traveler in mind, featuring flat-screen TVs for entertainment and private bathrooms stocked with essentials, including slippers for added comfort. The inclusion of wardrobes in every unit adds a convenient touch, making longer stays as comfortable as possible.
 
 For those looking to explore beyond the sandy shores, La Petite Beach awaits at a distance of 1.7 km, offering a more secluded beach experience. Meanwhile, the historical allure of Butrint National Park is just 17 km away, promising a day trip filled with archaeological wonders. Despite its serene location, Memories Apartments ensures connectivity and ease of travel with a paid airport shuttle service to Ioannina Airport, located 97 km away.
 
 In summary, Memories Apartments stands out as a stellar accommodation choice in Sarandë, offering guests a harmonious blend of modern amenities, convenience, and the charm of the Albanian Riviera.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

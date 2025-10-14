@@ -4,9 +4,16 @@ description: The hotel prides itself on offering impeccable service around the c
 featuredImage: "/images/accommodation/125933836.jpg"
 language: en
 slug: hotel-ms-2
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 3
+rating: 3
+accommodationType: "hotel"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Parking"
+  - "Bar"
 ---
 
 The hotel prides itself on offering impeccable service around the clock, ensuring guests' needs are met with a 24-hour front desk and unwavering full-day security. Connectivity is never an issue, as guests enjoy access to complimentary WiFi throughout the premises. For those arriving by car, private parking is available, providing peace of mind for an additional fee.
@@ -19,14 +26,3 @@ Strategically located, Hotel M&S is within proximity to cultural hotspots such a
 
 Hotel M&S emerges as a top choice for travelers seeking a blend of comfort, convenience, and cultural immersion in Albania's captivating capital.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Tirana apartament 2
-description: This modern apartment doesn't just boast an enviable location; it offers a sanctuary of comfort for its guests. Featuring a spacious bedroom, a fully equipped k
-featuredImage: "/images/accommodation/469809782.jpg"
-language: en
-slug: tirana-apartament-2
-location: ""
-amenities: []
-images: []
----
-
-This modern apartment doesn't just boast an enviable location; it offers a sanctuary of comfort for its guests. Featuring a spacious bedroom, a fully equipped kitchen for those who love to prepare their meals, and a sleek bathroom, the apartment ensures a stay that combines the ease of home with the luxury of vacation. Entertainment is readily available through the inclusion of a flat-screen TV, complemented by the convenience of free WiFi throughout the property, making it easy for guests to stay connected or unwind after a day of sightseeing.
+---\ntitle: "Tirana apartament 2"\ndescription: "Tirana Apartment 2 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469809782.jpg?k=5371b03a4b56a7d3200be21b41ca6dc2a0fdc1d19d4ad4236f1a157729a13ead&o=&hp=1"\nlanguage: en\nslug: tirana-apartament-2\naddress: "Rruga Grigor Heba, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3165702\n  lng: 19.8100411\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.6\nratingWords: "Very Good"\nnumberOfReviews: 2\nratings:\n  overall: 8.6\n  location: 8.8\n  cleanliness: 8.8\n  facilities: 8.8\n  value: 8.8\n  comfort: 7.5\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469809782.jpg?k=5371b03a4b56a7d3200be21b41ca6dc2a0fdc1d19d4ad4236f1a157729a13ead&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/469809785.jpg?k=585d0214f3bb94dc42aefbfb86cb6b01992c375f12924df0ce5003185fbebc36&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/469809779.jpg?k=665fa05bf069d3c0a50794c7aebe2332554aba8a605d02baa8661e3d4c1f430f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/469809791.jpg?k=7935f0579a04bcc1f7c287d8848df9b97ab2a57ec49815630e9390e1e7942a2d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/469809747.jpg?k=03ece9ae31bcd23ed89b27842dc24f369cebc1ba0a115ce1f46959f925d9b7d5&o=&hp=1"\namenities:\n  - "Free WiFi"\nnearbyAttractions:\n  - "House of Leaves 1.2 km"\n  - "National Gallery of Arts Tirana 1.4 km"\n  - "Grand Park of Tirana 1.4 km"\n  - "Skanderbeg Square 1.5 km"\n  - "Clock Tower Tirana 1.5 km"\n  - "National Museum of History Albania 1.6 km"\n  - "Tanners' Bridge 1.7 km"\n  - "Bunk'Art 1 Museum 6 km"\nnearbyRestaurants:\n  - "Korçarka 4 m"\n  - "Kometa Café & More 50 m"\nwhatsNearby:\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 200 m"\n  - "Sheshi Rekreativ Komuna e Parisit 250 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 500 m"\n  - "Parku I Madh I Tiranës (Grand Park) 550 m"\n  - "Former Residence of Enver Hoxha 800 m"\n  - "Shesh Rekreativ 850 m"\n  - "Sheshi Rekreativ Shefqet Musaraj 1 km"\n  - "Sheshi Rekreativ Sali Butka 1.1 km"\n  - "Rinia Park 1.1 km"\n  - "Sheshi Rekreativ Bajram Curri 1.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/apartament-st-dinamo.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis modern apartment doesn't just boast an enviable location; it offers a sanctuary of comfort for its guests. Featuring a spacious bedroom, a fully equipped kitchen for those who love to prepare their meals, and a sleek bathroom, the apartment ensures a stay that combines the ease of home with the luxury of vacation. Entertainment is readily available through the inclusion of a flat-screen TV, complemented by the convenience of free WiFi throughout the property, making it easy for guests to stay connected or unwind after a day of sightseeing.
 
 For those intrigued by local attractions, Tirana Apartment 2 does not disappoint. It is conveniently close to Rinia Park, the serene Saint Paul Cathedral, and the iconic Skanderbeg Square, all within a 2 km radius. Additionally, cultural enthusiasts will appreciate the proximity to significant landmarks such as the Postbllok - Checkpoint Monument, the Pyramid of Tirana, and the artistic Reja - The Cloud installation.
 
 Accessibility is a breeze, with Tirana International Mother Teresa Airport just 15 km away, ensuring smooth travel plans to and from the property. For visitors looking for a comfortable, well-situated base to explore the wonders of Tirana, Tirana Apartment 2 stands out as an exceptional choice.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

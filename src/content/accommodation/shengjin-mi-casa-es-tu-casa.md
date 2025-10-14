@@ -1,30 +1,7 @@
----
-title: Shengjin-mi casa es tu casa
-description: The apartment itself is a study in spaciousness and comfort, featuring two well-appointed bedrooms, a cozy living room equipped with a flat-screen TV for entert
-featuredImage: "/images/accommodation/312791497.jpg"
-language: en
-slug: shengjin-mi-casa-es-tu-casa
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Shengjin-mi casa es tu casa"\ndescription: "Shengjin-mi casa es tu casa emerges as a prime choice for travelers seeking a serene beachfront escape in Shëngjin."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312791497.jpg?k=2ac92949e623b97c44da16a9e1f69547ba355bf9f0d8688e8568c7510ab8ce87&o=&hp=1"\nlanguage: en\nslug: shengjin-mi-casa-es-tu-casa\naddress: "Shëtitorja Wilson, 4503 Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.81285689\n  lng: 19.59258785\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 5.5\nratingWords: "Below Average"\nnumberOfReviews: 5\nratings:\n  overall: 5.5\n  location: 5.5\n  cleanliness: 5\n  facilities: 6\n  value: 5.5\n  comfort: 5\n  staff: 6\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312791497.jpg?k=2ac92949e623b97c44da16a9e1f69547ba355bf9f0d8688e8568c7510ab8ce87&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/312795001.jpg?k=24f4e60018cce531f5b350efa58ea2db1c625129670746c89aab4602ad8421c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/312795010.jpg?k=d049b597a5c941d7a7362ff064db504918251774737e2d1f106f476cee986202&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/312794942.jpg?k=84bfc2adc2cd70d2fea635fc0ac25c0d2bd122fe61136f1d22d44eccb500e38a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/312795256.jpg?k=5cc479ea72703bfa45c3db529e0ceaaee33237b1cb27893e2dd8b42ada076b56&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/312795506.jpg?k=f27b1b16e2908c2a76f36e48a1dd31b2b815d7e1e044f2a5952bdc299ffc8cd1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/312794962.jpg?k=7710d8cfd2ff5298647c69e14fc847a9665e4dd0091e56ba3b5c9fc8b1a97fba&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Carpe Diem 40 m"\n  - "Restorant Pizzeria Kosovari 100 m"\nnearbyBeaches:\n  - "Shëngjin Beach 50 m"\n  - "Ylberi Beach 1.6 km"\n  - "Rana e Hedhun Beach 2.3 km"\n  - "Kune Beach 4.8 km"\n  - "Laguna Park Beach 4.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 44 km"\n  - "Podgorica Airport 65 km"\n  - "Tivat Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/shenqin-sea-view.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a study in spaciousness and comfort, featuring two well-appointed bedrooms, a cozy living room equipped with a flat-screen TV for entertainment, a fully equipped kitchen for those who prefer to prepare their own meals, and a bathroom that provides the choice of a bath or shower. An added convenience is the dressing room, allowing guests to comfortably prepare for their day out or a relaxing evening in.
 
-The apartment itself is a study in spaciousness and comfort, featuring two well-appointed bedrooms, a cozy living room equipped with a flat-screen TV for entertainment, a fully equipped kitchen for those who prefer to prepare their own meals, and a bathroom that provides the choice of a bath or shower. An added convenience is the dressing room, allowing guests to comfortably prepare for their day out or a relaxing evening in.
-
-For moments of tranquility, the property boasts a garden where guests can unwind and soak in the peaceful atmosphere.
+For moments of tranquility, the property boasts a garden where guests can unwind and soak in the peaceful atmosphere. 
 
 Beyond the comforts of the apartment, the location serves as an ideal base for exploring. Ylberi Beach is just a short 1.7 km journey away, offering another beautiful spot for relaxation and sunbathing. For those interested in historical exploration, Rozafa Castle Shkodra awaits at a distance of 42 km, promising a fascinating day trip. Furthermore, the proximity to Tirana International Mother Teresa Airport, located 49 km away, adds to the convenience for international travelers.
 
-Shengjin-mi casa es tu casa presents an inviting option for those in search of a blend of comfort, convenience, and the charm of Shëngjin's coastal beauty.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}
+Shengjin-mi casa es tu casa presents an inviting option for those in search of a blend of comfort, convenience, and the charm of Shëngjin’s coastal beauty.

@@ -1,30 +1,7 @@
----
-title: Vila SHAKAJ
-description: Accommodations at Vila SHAKAJ are designed with the discerning traveler in mind, featuring air-conditioned rooms that boast not only a balcony with breathtaking
-featuredImage: "/images/accommodation/474742075.jpg"
-language: en
-slug: vila-shakaj
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Vila SHAKAJ"\ndescription: "Vila SHAKAJ emerges as a prime choice for travelers seeking a blend of comfort and convenience, situated just a short stroll from the pristine Saranda Bay Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474742075.jpg?k=aea58fa4ecb7b1c7cb7b5df5e3d06d7813d6f60ef18d5da235fb1a6606e6f3aa&o=&hp=1"\nlanguage: en\nslug: vila-shakaj\naddress: "Rruga Idriz Alidhima, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "villa"\ncoordinates:\n  lat: 39.87862384\n  lng: 19.97377637\nprice: "US$59"\npriceFrom: 59\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 11\nratings:\n  overall: 9.2\n  location: 8.4\n  cleanliness: 9.5\n  facilities: 9.1\n  value: 8.9\n  comfort: 9.5\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474742075.jpg?k=aea58fa4ecb7b1c7cb7b5df5e3d06d7813d6f60ef18d5da235fb1a6606e6f3aa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475012491.jpg?k=079dbcb4f9a2efdb6f140f9ee5f7fa04974142daea938027b61ff1976cb3b70a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475013702.jpg?k=3c701624e948076a61978b5a11345e1d5733db87e31d856d93da99ab2ce72c76&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475013661.jpg?k=c88d2a97abc41237c095aa020c6cb8e205d561b851e1ff2e32e3a3c2bfd5b82d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475013660.jpg?k=d5a9fd75245b8b1895a2f7375144223604ff6efd7182336c0a7309fa81452816&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474742123.jpg?k=320d5b43f4e7b83ba365e1a48f3f678c7abcd9300b1455aecd86e37291880d7a&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Terrace"\n  - "Tea/coffee maker in all rooms"\nroomTypes:\n  - "Comfort Triple Room"\n  - "Deluxe Quadruple Room"\n  - "Deluxe Quadruple Room"\nnearbyBeaches:\n  - "Saranda Bay Beach 550 m"\n  - "Sarande Main Beach 1.6 km"\n  - "Saranda City Beach 3.1 km"\n  - "La Petite Beach 3.6 km"\n  - "Maestral Beach 3.8 km"\nreviews:\n  - name: "Griciūtė"\n    country: "Lithuania"\n    text: "“Wonderful place! The owners are extremely helpful, caring, provide all kinds of help! The room has everything you need. The view from the balcony is spectacular! We will be happy to come back! We recommend it to everyone who wants to spend time in...”"\n  - name: "Rodina"\n    country: "Romania"\n    text: "“First of all, the apartment was exactly like in the pictures: very nice, clean and sea view, with all the conditions described on booking. The owners are very friendly, nice and caring. They expected us with a water can of 5 liters cold from the...”"\n  - name: "Montagna"\n    country: "Italy"\n    text: "“Struttura nuova, pulita e buona posizione (ma per forza con macchina).”"\nbookingURL: "https://www.booking.com/hotel/al/villa-shakaj.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Vila SHAKAJ are designed with the discerning traveler in mind, featuring air-conditioned rooms that boast not only a balcony with breathtaking sea views but also a suite of modern amenities. Each unit is equipped with a flat-screen TV, a cozy dining area, and a kitchen that comes complete with an oven, toaster, fridge, and coffee machine, ensuring that guests feel right at home. The attention to detail extends to the private bathrooms, which are stocked with complimentary toiletries, and the provision of fresh bed linen and towels adds a touch of luxury.
 
-Accommodations at Vila SHAKAJ are designed with the discerning traveler in mind, featuring air-conditioned rooms that boast not only a balcony with breathtaking sea views but also a suite of modern amenities. Each unit is equipped with a flat-screen TV, a cozy dining area, and a kitchen that comes complete with an oven, toaster, fridge, and coffee machine, ensuring that guests feel right at home. The attention to detail extends to the private bathrooms, which are stocked with complimentary toiletries, and the provision of fresh bed linen and towels adds a touch of luxury.
-
-Beyond the confines of their well-appointed rooms, guests are invited to unwind in the serene garden, a perfect spot for relaxation after a day of exploration.
+Beyond the confines of their well-appointed rooms, guests are invited to unwind in the serene garden, a perfect spot for relaxation after a day of exploration. 
 
 Located merely 2.1 km from Sarande Main Beach and within easy reach of the historical Butrint National Park, 19 km away, Vila SHAKAJ serves as an ideal base for those looking to immerse themselves in the area's natural beauty and cultural heritage. For those traveling further afield, Ioannina Airport is 99 km away, making it a convenient option for international guests.
 
 With its combination of strategic location, comprehensive amenities, and the promise of a tranquil retreat, Vila SHAKAJ stands out as a top-tier accommodation choice for visitors to Saranda.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

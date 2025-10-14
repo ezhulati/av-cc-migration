@@ -1,15 +1,4 @@
----
-title: Lovely 2 Bedroom Apartment
-description: This air-conditioned apartment doesn't just offer a place to rest; it's a home away from home. With two cozy bedrooms, a welcoming living room, a fully equipped
-featuredImage: "/images/accommodation/522259439.jpg"
-language: en
-slug: lovely-2-bedroom-apartment
-location: ""
-amenities: []
-images: []
----
-
-This air-conditioned apartment doesn't just offer a place to rest; it's a home away from home. With two cozy bedrooms, a welcoming living room, a fully equipped kitchen for those who love to cook, and a bathroom, it caters to all the needs of modern travelers. The inclusion of a flat-screen TV ensures entertainment is always at hand, while the free WiFi keeps guests connected with the world or helps in planning the next day's adventures.
+---\ntitle: "Lovely 2 Bedroom Apartment"\ndescription: "Discover the charm of Durrës with a stay at the Lovely 2 Bedroom Apartment, a prime choice for travelers seeking both comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522259439.jpg?k=3c1d81bb529ce4de4c3081d6404b53a6b7d82259631ad01dce4f3a8508713738&o=&hp=1"\nlanguage: en\nslug: lovely-2-bedroom-apartment\naddress: "Rruga Taulantia, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31094083\n  lng: 19.44086942\nprice: "US$97"\npriceFrom: 97\nstarRating: 5\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 3\nratings:\n  overall: 8.9\n  location: 9.2\n  cleanliness: 9.2\n  facilities: 8.3\n  value: 9.2\n  comfort: 9.2\n  staff: 8.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522259439.jpg?k=3c1d81bb529ce4de4c3081d6404b53a6b7d82259631ad01dce4f3a8508713738&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522259412.jpg?k=9f432b1fe2841f06e4c3cfbe60f60dd208fd1f47e77f6427bf4939ad6c4308a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522259405.jpg?k=5fa818a4af7bb3f3dae4377dde14b0184511051f250a041dbce13c8d7cfefc40&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522259397.jpg?k=9226bb56b655fd41fa087cd5521a624e3912e1b3d254c787da2042a9ff26411a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522259420.jpg?k=5e8343b0232c12b87fcff58696a0ffc98df20ce16f05c1bf28b19c97d23f1157&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522259407.jpg?k=03ab41f3cdce72ab66e033ec47de36eaf69d7448de53c7a60978a70d6ab35e1a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522259408.jpg?k=d83095a4c5efbc7adeb502bc25a916bd9e29266b7652a50d20b8aa230260d636&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522259404.jpg?k=94879dfe515d9551a158d18acc69866ccb9d845e0419f8b2e0ac84829415c670&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522259275.jpg?k=4f4942c7991506479425fc20a953ccdf9ea6dbdc507b8153b820619008843103&o=&hp=1"\namenities:\n  - "Swimming Pool"\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Zgara Pe Korce 10 m"\n  - "Italian Outlet 20 m"\nnearbyBeaches:\n  - "Currila Beach 50 m"\n  - "Kallmi Beach 1.1 km"\n  - "West End Beach 2.2 km"\n  - "Durres Beach 2.3 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nwhatsNearby:\n  - "1. Maj 200 m"\n  - "Durres Amphiteatre 400 m"\n  - "Yje Dhe Hena 800 m"\n  - "Wine Dhe Pooh 850 m"\n  - "Sheshi Demokracia 950 m"\n  - "Sotir Noka 1.2 km"\n  - "Bekimi 3.7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\nbookingURL: "https://www.booking.com/hotel/al/lovely-2-bedroom-apartment-durres.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis air-conditioned apartment doesn't just offer a place to rest; it's a home away from home. With two cozy bedrooms, a welcoming living room, a fully equipped kitchen for those who love to cook, and a bathroom, it caters to all the needs of modern travelers. The inclusion of a flat-screen TV ensures entertainment is always at hand, while the free WiFi keeps guests connected with the world or helps in planning the next day's adventures.
 
 One of the standout features is the apartment's terrace, complemented by a balcony that invites guests to enjoy their morning coffee or evening drinks in the open air. For those arriving by car, the convenience of on-site parking is a welcome amenity, and the forward-thinking addition of an electric vehicle charging station speaks to the property's commitment to catering to the needs of all guests.
 
@@ -18,15 +7,3 @@ Beyond the comfort of the apartment, guests will find West End Beach within easy
 Situated a manageable distance from Tirana International Mother Teresa Airport, the Lovely 2 Bedroom Apartment ensures that the beginning and end of your journey are as stress-free as the stay itself. This property stands out as a non-smoking establishment, ensuring a clean and fresh environment for all guests.
 
 In summary, the Lovely 2 Bedroom Apartment in Durrës offers a blend of location, comfort, and amenities that make it an excellent choice for travelers looking for a memorable stay by the sea.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

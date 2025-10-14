@@ -1,15 +1,5 @@
----
-title: Hotel Vola
-description: Each guest room at Hotel Vola boasts a balcony with breathtaking views of the sea, alongside modern amenities such as cable TV and a refrigerator, providing a c
-featuredImage: "/images/accommodation/475863447.jpg"
-language: en
-slug: hotel-vola
-location: ""
-amenities: []
-images: []
----
-
-Each guest room at Hotel Vola boasts a balcony with breathtaking views of the sea, alongside modern amenities such as cable TV and a refrigerator, providing a comfortable and serene retreat after a day of exploration.
+---\ntitle: "Hotel Vola"\ndescription: "Discover the charm of Hotel Vola, a prime destination for travelers seeking both relaxation and adventure."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475863447.jpg?k=a78d7ddc793c395afc1a4482f8709d79a461b7e4d58203f9d7801cf63288afb7&o=&hp=1"\nlanguage: en\nslug: hotel-vola\naddress: "Street Butrinti, 1st km, 1000 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.86659431\n  lng: 20.01698756\nprice: "US$35"\npriceFrom: 35\nstarRating: 4\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 37\nratings:\n  overall: 8.2\n  location: 8.8\n  cleanliness: 8\n  facilities: 7.6\n  value: 8.4\n  comfort: 8\n  staff: 8.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475863447.jpg?k=a78d7ddc793c395afc1a4482f8709d79a461b7e4d58203f9d7801cf63288afb7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483721817.jpg?k=f7f88a4f01e263644c1093325112e1f0e18bfdfa68a665a78a8e62349b66a07e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483722190.jpg?k=a3f9ea698f8f980163295be36de5662d3ae1405829b208a9367f346960b376f0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483721960.jpg?k=0bda58cb694c3138ff1f9f27a5575cec3daa663639aa341038c33a0ed4f16533&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483722053.jpg?k=ac038230235c70380c74d9816365f3d8812f1f27934e45ec58606c55fbacb05c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483721844.jpg?k=183c9506bc5ce0ebe07bb3ac5c1399a149f289360e4d55f44d3adac6b7a1a2ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483721955.jpg?k=cbef39ff945240f00246cfc28ff3ee76ac7e3fe6ef0eff9c36418b9012d50e8f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483721985.jpg?k=739d61a90203342db6167c7b1321d33a1c8f90ed1ab3785883aed0002203a0f0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483722003.jpg?k=f8ae214b1470cab776579f83cc038604dc5c9adcb32bc6516e764f6ec20511ee&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\n  - "Bar"\n  - "Good breakfast"\nnearbyRestaurants:\n  - "Fast Food Mario 20 m"\n  - "Royal Pizza Sarande 100 m"\nnearbyBeaches:\n  - "Maestral Beach 50 m"\n  - "La Petite Beach 250 m"\n  - "Saranda City Beach 650 m"\n  - "VIP Beach 850 m"\n  - "Santa Quaranta Beach 900 m"\nwhatsNearby:\n  - "Parc National de Butrint 1.1 km"\n  - "Butrint National Park 1.9 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Luarda"\n    country: "Albania"\n    text: "“Great location. Friendly and very welcoming host. Exceptionally clean rooms 😊”"\n  - name: "Polina"\n    country: "Russia"\n    text: "“Прекрасный отель, вид на город и море восхитительные. Вкусно и много кормят.
+Персонал очень добрые и внимательные.”"\n  - name: "Elma"\n    country: "Bosnia and Herzegovina"\n    text: "“Host is amazing, breakfast too. Room is great with perfect view. Location is great, you are close to the center but there is no laoud music arround.”"\nbookingURL: "https://www.booking.com/hotel/al/vola.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach guest room at Hotel Vola boasts a balcony with breathtaking views of the sea, alongside modern amenities such as cable TV and a refrigerator, providing a comfortable and serene retreat after a day of exploration.
 
 Culinary enthusiasts will delight in the hotel's restaurant, where a fusion of traditional Albanian and Mediterranean cuisine awaits. The flavorsome dishes, prepared with the freshest local ingredients, promise an unforgettable dining experience. For those looking to unwind, the bar with its inviting terrace offers the perfect setting to enjoy a drink while soaking in the coastal ambiance.
 
@@ -18,15 +8,3 @@ Just a stone's throw from the hotel, guests can immerse themselves in the vibran
 The heart of Sarandë, with its bustling bus station and ferry port offering connections to Corfu Island, lies just 1.5 km away. Meanwhile, history buffs will appreciate the proximity to the UNESCO-protected archaeological site of Butrint, located 19 km from the hotel, offering a glimpse into the region's rich past.
 
 Hotel Vola stands out as a beacon of comfort and convenience, inviting guests to experience the best of Sarandë's coastal charm and cultural heritage.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

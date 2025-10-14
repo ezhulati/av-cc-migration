@@ -4,9 +4,21 @@ description: The property prides itself on modern conveniences, including compli
 featuredImage: "/images/accommodation/140712198.jpg"
 language: en
 slug: beachseaview-with-terrace
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Sarandë"
+amenities:
+  - "WiFi"
+  - "Air Conditioning"
+  - "Parking"
+  - "Restaurant"
+  - "Spa"
+  - "Kitchen"
+  - "Balcony"
+  - "Sea View"
 ---
 
 The property prides itself on modern conveniences, including complimentary WiFi accessible throughout the premises and the convenience of private parking. An elevator and a minimarket on-site ensure that guests' needs are met with ease, adding to the comfort of their stay.
@@ -17,14 +29,3 @@ For those looking to explore beyond the beach, Maestral Beach is just over a kil
 
 BEACH&SEAVIEW WITH TERRACE is more than just a place to stay; it's a destination that offers a perfect blend of convenience, luxury, and natural beauty, making it an ideal choice for travelers seeking a memorable Sarandë experience.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

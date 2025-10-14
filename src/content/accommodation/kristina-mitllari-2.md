@@ -1,28 +1,5 @@
----
-title: Kristina Mitllari 2
-description: "Located merely 18 km from the intriguing Bay of Bones and within a 34 km radius of both the Early Christian Basilica and Port Ohrid, Kristina Mitllari..."
-featuredImage: "/images/accommodation/0e43c9b9a23d334b52510a328641c048847226bc.png"
-language: en
-slug: kristina-mitllari-2
-location: ""
-amenities: []
-images: []
----
-
-Located merely 18 km from the intriguing Bay of Bones and within a 34 km radius of both the Early Christian Basilica and Port Ohrid, Kristina Mitllari 2 serves as an ideal base for explorers keen to uncover the historical and cultural treasures of the region. The garden views add a refreshing backdrop, inviting guests to unwind in the tranquility of its outdoor spaces.
+---\ntitle: "Kristina Mitllari 2"\ndescription: "Kristina Mitllari 2 emerges as a serene retreat in Pogradec, offering guests a unique vantage point with its river view accommodations, just a short distance from the enchanting Ohrid Lake Springs."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"\nlanguage: en\nslug: kristina-mitllari-2\naddress: "Tushemisht, Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.90027964\n  lng: 20.71931373\nprice: "US$26"\npriceFrom: 26\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476768594.jpg?k=811a73a686aad49b9ea700aad93ac3b0ce1edd58ce6c220ca1db0efd6d574596&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/486625366.jpg?k=402a884eb79d958d670e1e4e682b5472eb9015a3798d26513f5734a0bedeba25&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/476768631.jpg?k=225450f159cebea134326481a6053ac82dad511c745c5db5608e9be7adf8d35a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/476768634.jpg?k=3d388459c7d5c270837a0e213884a74b2de55f8efb8f81a21c5abbcdef76748a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/476768639.jpg?k=2c04b12b888dbe09d6837090315ea1fbbce47fb2b05e02ee5d5f9fb37e0e2aeb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/476768643.jpg?k=a547cd358e69d81f4424a1594ef225b30ca8aae979227724536ec6f37b354fbb&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Good free WiFi (34 Mbps)"\nroomTypes:\n  - "Double Room"\nnearbyRestaurants:\n  - "Shtëpia e Vjeter 100 m"\n  - "Vila 31 250 m"\nwhatsNearby:\n  - "National Park Galicica 2.5 km"\n  - "Driloni National Park 4.2 km"\n  - "National Park Galicica 10 km"\n  - "Bay of Bones 12 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 68 km"\nreviews:\n  - name: "Maximilien"\n    country: "Albania"\n    text: "“L'accueil est top 👌 Elles sont au petit soin pour nous. Nous sommes arrivés hors saison et période de fêtes mais nous sommes super bien accueillis ! Nous reviendrons sans hésiter !”"\nbookingURL: "https://www.booking.com/hotel/al/mitllari.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nLocated merely 18 km from the intriguing Bay of Bones and within a 34 km radius of both the Early Christian Basilica and Port Ohrid, Kristina Mitllari 2 serves as an ideal base for explorers keen to uncover the historical and cultural treasures of the region. The garden views add a refreshing backdrop, inviting guests to unwind in the tranquility of its outdoor spaces.
 
 For those drawn to the spiritual heritage of the area, the Church of St. John at Kaneo and the Monastery Saint Naum are accessible, lying 34 km and 2.6 km away, respectively. The proximity to these sites offers a unique opportunity for guests to immerse themselves in the local religious history and architecture.
 
 Ease of access is further assured with Ohrid Airport located just 41 km away, making Kristina Mitllari 2 a convenient choice for travelers seeking both relaxation and adventure in the heart of Pogradec.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

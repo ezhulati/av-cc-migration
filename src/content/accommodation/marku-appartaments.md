@@ -1,28 +1,5 @@
----
-title: Marku Appartaments"
-description: Each apartment boasts two well-appointed bedrooms, a balcony to enjoy the fresh air, and the benefit of air conditioning for those warm Mediterranean days. Gues
-featuredImage: "/images/accommodation/475955666.jpg"
-language: en
-slug: marku-appartaments
-location: ""
-amenities: []
-images: []
----
-
-Each apartment boasts two well-appointed bedrooms, a balcony to enjoy the fresh air, and the benefit of air conditioning for those warm Mediterranean days. Guests will appreciate the fully equipped kitchen, allowing for easy meal preparation, and the inclusion of a flat-screen TV for entertainment.
+---\ntitle: "Marku Appartaments\""\ndescription: "Marku Apartments emerges as a prime choice for travelers seeking comfortable and spacious accommodations in Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475955666.jpg?k=8d72a69b32962604f88b5eb729557b7094bdfdfbd187c476f785d8b831a429f5&o=&hp=1"\nlanguage: en\nslug: marku-appartaments\naddress: "Porto ,Saranda, Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.8714208\n  lng: 20.0031266\nprice: "US$81"\npriceFrom: 81\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 1\nratings:\n  overall: 8.8\n  location: 7.5\n  cleanliness: 10\n  facilities: 10\n  value: 5\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475955666.jpg?k=8d72a69b32962604f88b5eb729557b7094bdfdfbd187c476f785d8b831a429f5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/475955696.jpg?k=959f27c5761437d64cbe5ff8185d882c68de9c6f776618a5135b815d4dc8c435&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/475955691.jpg?k=80c0fd54f5c32a604d736613aa268d7ccf97157fbbe0d96fda6341a833b44adc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475955695.jpg?k=9fd642fc8bfc7b5f544b30db5f45f1db7f0d410bf20c6c7dd8f4b4e558ec93bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475955692.jpg?k=99d54b44fc7478465a395f668b7ea6c394adcbc83dbff4dd29767cfc0096ab3a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475955703.jpg?k=8589945ccbe4ba56bc0c1724a64deb2ad19aa43a7f9c2ba25980149f19a718d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475955700.jpg?k=d6e1b80554b6121030bdee39ff1e3243840ca2dde411a22bb038f41798c8e233&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475955690.jpg?k=5a99e0fdb6fc4302dedb4ab2e3c371702a21a6e1971bfa92a4376306f2988a9c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475955704.jpg?k=c7d6b522ab288e2abc8f74c54ad0db84c1316ad105fd79e53af6251932a82ad6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475955705.jpg?k=2c479ccb7a35faedbe019cef3abe90f7701b8a91ad30345dce59642cc07f68e2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475955706.jpg?k=a607f5c3ca3f28eb1402efa0e325517bc1f27543ffbf6f5a176f42d95288356f&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Lala Buke Embeltore 50 m"\n  - "Old House Cocktail Bar 100 m"\nnearbyBeaches:\n  - "Sarande Main Beach 250 m"\n  - "Saranda City Beach 600 m"\n  - "La Petite Beach 1 km"\n  - "Maestral Beach 1.2 km"\n  - "Saranda Bay Beach 1.9 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.3 km"\n  - "Butrint National Park 3 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\nbookingURL: "https://www.booking.com/hotel/al/marku-appartaments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach apartment boasts two well-appointed bedrooms, a balcony to enjoy the fresh air, and the benefit of air conditioning for those warm Mediterranean days. Guests will appreciate the fully equipped kitchen, allowing for easy meal preparation, and the inclusion of a flat-screen TV for entertainment.
 
 For those looking to explore beyond the immediate area, La Petite Beach is a mere 1.7 km journey, offering a more secluded spot for sunbathing and relaxation. Further afield, the natural wonders of Butrint National Park await at a distance of 17 km, promising a day of adventure and exploration.
 
 Connectivity is never an issue, as free WiFi is available throughout the property, ensuring guests can stay connected with the world or plan their next day's itinerary with ease. For international travelers, Ioannina Airport is the nearest gateway, located 97 km from the apartments, making Marku Apartments an accessible and appealing option for those visiting Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

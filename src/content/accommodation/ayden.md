@@ -1,28 +1,5 @@
----
-title: Ayden
-description: The apartment itself is a spacious haven, boasting a well-appointed bedroom, a cozy living room equipped with a flat-screen TV for entertainment, a fully equipp
-featuredImage: "/images/accommodation/460032318.jpg"
-language: en
-slug: ayden
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a spacious haven, boasting a well-appointed bedroom, a cozy living room equipped with a flat-screen TV for entertainment, a fully equipped kitchen for those who love to cook, and a bathroom featuring both a bidet and a choice between a bath or shower, ensuring comfort and convenience for all guests.
+---\ntitle: "Ayden"\ndescription: "Ayden presents a refreshing retreat in Vlorë, offering guests the luxury of air-conditioned accommodations complete with a private balcony."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460032318.jpg?k=1c4ecffff9e4f15177a1e683d360c259bd1c61f8a28eb42e5be1d052ca8e412c&o=&hp=1"\nlanguage: en\nslug: ayden\naddress: "Rruga Shaban Demiraj, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4485207\n  lng: 19.4944889\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460032318.jpg?k=1c4ecffff9e4f15177a1e683d360c259bd1c61f8a28eb42e5be1d052ca8e412c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/462570645.jpg?k=6efcb680081f87d31226233c6327d998f99b112289f60ac940e97689f75846c7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/461503946.jpg?k=84a1fd1cff9d62fd0d40a137ad138ea2b3e3d1ed257889eeecbf9dcc7ee57300&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/461502577.jpg?k=bbb881c4fd72d24127a11f8a32dc35a72694a2262a63d07a64fc8c213cec0937&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/460182409.jpg?k=9fb696d1c6bf623435d54a1e50c1a75310d6c4fc454726c214d752a25375bedd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/460182345.jpg?k=2fea25cba930b125a504cbe59d37083487902c6d99472ce242fdd1d3bf758349&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/460064566.jpg?k=d6631987f32f043446df8bcf84eea3b0a2cafbc6dfdc75b0b28dd0c0ce93ed67&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/460032254.jpg?k=2dd15570a238c61dab6053e6e3756fdf0bb2289921f880bdd79772d02af90c0e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fast free WiFi (595 Mbps)"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Tradicional Zgara 50 m"\n  - "Restorant Xhokla 150 m"\nnearbyBeaches:\n  - "Vlore Beach 150 m"\n  - "Vjetër Beach 1.2 km"\n  - "Ri Beach 1.4 km"\n  - "Beach at Government Villas 3.2 km"\n  - "Liro Beach 3.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.4 km"\n  - "Kuzum Baba 2.1 km"\n  - "Independence Square 2.5 km"\nbookingURL: "https://www.booking.com/hotel/al/ayden.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a spacious haven, boasting a well-appointed bedroom, a cozy living room equipped with a flat-screen TV for entertainment, a fully equipped kitchen for those who love to cook, and a bathroom featuring both a bidet and a choice between a bath or shower, ensuring comfort and convenience for all guests.
 
 For those who enjoy a good drink, the on-site bar serves as a perfect spot to unwind after a day of exploring. Speaking of exploration, Ayden is ideally situated for guests eager to discover the local area. Just a stone's throw away are Vlore Beach, Ri Beach, and Vjetër Beach, each offering its own unique charm and beauty. For those venturing further, the historic Kuzum Baba is merely 2.7 km away, while the iconic Independence Square is 3 km from the property, making cultural excursions easily accessible.
 
 Travelers coming from afar will find Tirana International Mother Teresa Airport 151 km away, making Ayden a feasible and attractive option for both local and international visitors seeking a blend of comfort, convenience, and adventure in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

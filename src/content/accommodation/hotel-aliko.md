@@ -1,30 +1,7 @@
----
-title: Hotel Aliko
-description: The hotel prides itself on its array of amenities designed to enhance every stay. Each air-conditioned room is thoughtfully furnished, featuring a comfortable s
-featuredImage: "/images/accommodation/303881496.jpg"
-language: en
-slug: hotel-aliko
-location: ""
-amenities: []
-images: []
----
-
-The hotel prides itself on its array of amenities designed to enhance every stay. Each air-conditioned room is thoughtfully furnished, featuring a comfortable seating area, a fridge, and a flat-screen cable TV for guests' entertainment. The inclusion of a private bathroom equipped with a shower, bidet, complimentary toiletries, and a hairdryer adds a touch of luxury to the accommodation experience. Moreover, every room boasts a balcony, offering guests the choice between mesmerizing sea or mountain views, ensuring a serene backdrop to their stay.
+---\ntitle: "Hotel Aliko"\ndescription: "Hotel Aliko emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303881496.jpg?k=6b38f203597134bb1649312aa738d7692f7f3187c1ed7cc284f9a1eeacc54594&o=&hp=1"\nlanguage: en\nslug: hotel-aliko\naddress: "Rruga Aleksander Moisiu, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.41317397\n  lng: 19.48257028\nprice: "US$43"\npriceFrom: 43\nstarRating: 4\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 418\nratings:\n  overall: 7.5\n  location: 7.1\n  cleanliness: 7.5\n  facilities: 7\n  value: 7.4\n  comfort: 7.3\n  staff: 8\n  wifi: 8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303881496.jpg?k=6b38f203597134bb1649312aa738d7692f7f3187c1ed7cc284f9a1eeacc54594&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303880710.jpg?k=b4eac53717d1dc71fb91ff493ce1b7186b5bc3f3777c081602eac5ba877665a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322447473.jpg?k=f67ddacf06b738fab879482d5b6e4bba844c70fce34ec8144414029056cc3d26&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322447468.jpg?k=d00960c838d65477dbe4c36e06fed27aae007a4e6bf1c30790cbb90796675c62&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303881943.jpg?k=c31f9accf194a75b138461a30cf13a28844c52330f0612763e935f4a5ff6ae4d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303880205.jpg?k=eca5d870e1fa913c86382dfa48b3c582597012d1b82df2476e8064a68c53accb&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Good breakfast"\nroomTypes:\n  - "Standard Double Room"\n  - "Superior Double Room"\n  - "Deluxe Triple Room with Sea View"\n  - "Standard Triple Room with Mountain View"\n  - "Triple Room with Balcony"\n  - "Family Room with Sea View"\n  - "Suite with Sea View"\nnearbyBeaches:\n  - "Liro Beach 200 m"\n  - "Beach at Government Villas 550 m"\n  - "Coco Bongo Beach 1 km"\n  - "Sunny Beach 1.2 km"\n  - "La Playa Beach 1.8 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nbookingURL: "https://www.booking.com/hotel/al/aliko.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe hotel prides itself on its array of amenities designed to enhance every stay. Each air-conditioned room is thoughtfully furnished, featuring a comfortable seating area, a fridge, and a flat-screen cable TV for guests' entertainment. The inclusion of a private bathroom equipped with a shower, bidet, complimentary toiletries, and a hairdryer adds a touch of luxury to the accommodation experience. Moreover, every room boasts a balcony, offering guests the choice between mesmerizing sea or mountain views, ensuring a serene backdrop to their stay.
 
 Dining at Hotel Aliko is an experience in itself, with an on-site restaurant and bar that opens up to a terrace overlooking the sea. It's an ideal spot for guests to unwind and savor culinary delights while taking in the picturesque surroundings.
 
 For those planning events or meetings, the hotel's banquet and meeting facilities provide a sophisticated setting equipped with all the necessary amenities. Families visiting the hotel will appreciate the children's playground, ensuring entertainment for the younger guests. Additionally, the surrounding area is renowned for hiking, offering adventure seekers ample opportunities to explore the natural beauty of the region.
 
 In summary, Hotel Aliko stands out as a premier destination for travelers looking for a harmonious blend of leisure and adventure in Vlorë. With its strategic location, comprehensive facilities, and commitment to guest satisfaction, it promises an unforgettable stay for all who visit.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

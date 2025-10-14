@@ -1,28 +1,5 @@
----
-title: Hotel Kolagji
-description: "Each accommodation option at Hotel Kolagji features a balcony that gifts guests with breathtaking sea views, alongside the convenience of cable TV."
-featuredImage: "/images/accommodation/302317688.jpg"
-language: en
-slug: hotel-kolagji
-location: ""
-amenities: []
-images: []
----
-
-Each accommodation option at Hotel Kolagji features a balcony that gifts guests with breathtaking sea views, alongside the convenience of cable TV. The private bathrooms are well-appointed with a shower, complimentary toiletries, and towels, adding to the comfort of your stay. For those desiring a home-away-from-home experience, the apartments come equipped with a full kitchen and dining area, perfect for preparing and enjoying meals with a view.
+---\ntitle: "Hotel Kolagji"\ndescription: "Hotel Kolagji, positioned directly on the shores of Himare, presents a serene escape with its prime beachfront location."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302317688.jpg?k=2cb6ed05af958c4c7e26f4ba4ded0d29f80e8b11b2da71ee46ae8e14627e8859&o=&hp=1"\nlanguage: en\nslug: hotel-kolagji\naddress: "Potam, Himare, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.09792018\n  lng: 19.75310683\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 202\nratings:\n  overall: 9\n  location: 9.5\n  cleanliness: 9\n  facilities: 8.6\n  value: 9\n  comfort: 9.1\n  staff: 9\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302317688.jpg?k=2cb6ed05af958c4c7e26f4ba4ded0d29f80e8b11b2da71ee46ae8e14627e8859&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135908618.jpg?k=c99c95a689880e51c7bb8187a030f70c030b2a21fb9d99d62ccba55c5d4598ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/141267652.jpg?k=1055f9214b7b30b0a2fa193241e09863c065959eb300200ba1576fdc73bd7c12&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/104400644.jpg?k=10081fbf6db624971c58ae32978ab62a6e8310d91f07581e90a9d08f2162d6d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135908218.jpg?k=1387f5cdff31beda5dea7d4b1996ce03ddaf67427fcd5d8a61fa661d6a776356&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/89018551.jpg?k=4b4d8ef8a714f58ecede82def5d865da4f7f5e2a2010132bff9087436690725c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/104870330.jpg?k=a197684fd9899a69e94fa4edb7c8b34cc2912b3a5700decd04a79eb303f1876e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302318692.jpg?k=0bbbcd95d6e8cfa06064e34345ad26aa3e2a9d668a9fb8793d8d037de88738a8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302318948.jpg?k=de50c584294a868ff7ba7497b6f6268ffd0a4ef80792aac06bfbba541d188ee6&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\nnearbyRestaurants:\n  - "Lamer 30 m"\n  - "Restorant Portokalli 50 m"\nnearbyBeaches:\n  - "Prinos Beach 30 m"\n  - "Potam Beach 250 m"\n  - "Maracit Beach 300 m"\n  - "Spille Beach 550 m"\n  - "Gjiri i Filikurit Beach 1.3 km"\nwhatsNearby:\n  - "Llogora National Park 17 km"\nairports:\n  - "Corfu International Airport 56 km"\npaymentMethods:\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Kucani"\n    country: "Albania"\n    text: "“The hostess was a wonderful girl. Very helpful in time of need.”"\n  - name: "Martin"\n    country: "United Kingdom"\n    text: "“Location, family atmosphere, view, balcony, good size rooms, staff”"\n  - name: "Ondrej"\n    country: "Czech Republic"\n    text: "“The hotel has a great position. It is very close to the beach. Breakfast in the form of a buffet and if there are fewer guests, they serve it. The staff is very kind and helpful. The apartments are clean and spacious. I definitely recommend this...”"\nbookingURL: "https://www.booking.com/hotel/al/kolagji-himare.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach accommodation option at Hotel Kolagji features a balcony that gifts guests with breathtaking sea views, alongside the convenience of cable TV. The private bathrooms are well-appointed with a shower, complimentary toiletries, and towels, adding to the comfort of your stay. For those desiring a home-away-from-home experience, the apartments come equipped with a full kitchen and dining area, perfect for preparing and enjoying meals with a view.
 
 Beyond the comfort of the rooms, Hotel Kolagji extends its hospitality through additional services such as ironing and laundry, ensuring a hassle-free stay. The convenience of complimentary private parking on-site further enhances the appeal for those traveling by car.
 
 Hotel Kolagji emerges as a standout choice for travelers seeking a blend of comfort, convenience, and stunning seaside views in Himare.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

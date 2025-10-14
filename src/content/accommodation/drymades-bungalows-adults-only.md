@@ -1,15 +1,4 @@
----
-title: Drymades Bungalows Adults Only
-description: Culinary enthusiasts will be delighted by the on-site restaurant's exquisite menu, featuring an array of Mediterranean, Italian, seafood, and Greek dishes, each
-featuredImage: "/images/accommodation/339097764.jpg"
-language: en
-slug: drymades-bungalows-adults-only
-location: ""
-amenities: []
-images: []
----
-
-Culinary enthusiasts will be delighted by the on-site restaurant's exquisite menu, featuring an array of Mediterranean, Italian, seafood, and Greek dishes, each prepared with the freshest ingredients and a touch of culinary artistry.
+---\ntitle: "Drymades Bungalows Adults Only"\ndescription: "Drymades Bungalows Adults Only Resort, located in the serene Dhërmi, elevates the concept of luxury with its 4-star accommodations and exclusive access to a private beach area."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/339097764.jpg?k=b8917b0388f7f563bc393deec0bbffe343a330c61a88dcb1a56b0a7ebaa84796&o=&hp=1"\nlanguage: en\nslug: drymades-bungalows-adults-only\naddress: "Perivollo Street Building 149, Gjolekë, 9425 Dhërmi, Albania"\ncity: "Dhërmi"\nlocation: "Dhërmi"\naccommodationType: "resort"\ncoordinates:\n  lat: 40.15465768\n  lng: 19.61173832\nprice: "US$59"\npriceFrom: 59\nstarRating: 4\nrating: 7.1\nratingWords: "Good"\nnumberOfReviews: 267\nratings:\n  overall: 7.1\n  location: 8.8\n  cleanliness: 6.3\n  facilities: 6.3\n  value: 5.7\n  comfort: 6.7\n  staff: 6.8\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/339097764.jpg?k=b8917b0388f7f563bc393deec0bbffe343a330c61a88dcb1a56b0a7ebaa84796&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/244996776.jpg?k=39852c5a11507e2212327730a750ca1fc2ff160fae6fc28b007cda95c6b91dbd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378932217.jpg?k=41c10b4a620bc62a6dcf5d1d4a72c6a5ac2e79dced0cc3b7cb4059493f850ba2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402253039.jpg?k=42bda72c0da17f523048372e0839011c1c29d212599ccfc39144803ec95e337f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402247578.jpg?k=ec151f12eeb621708ed0818f80e03d6b43f0a94ea4b3c56da8dfe567ff2517eb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402247485.jpg?k=52550a0b21e4b752b889f24a02178b4876d5b5628bdcf71a0e5ffd6cd7c47472&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\nroomTypes:\n  - "Small Double Room"\n  - "Standard Queen Room"\n  - "Deluxe Bungalow with Garden View"\n  - "Deluxe Suite with Sea View"\n  - "Standard Triple Room"\n  - "Family Room with Sea View"\nnearbyRestaurants:\n  - "360 Sunset Bar Drymades 20 m"\n  - "Tëdudhektu 50 m"\nnearbyBeaches:\n  - "Palasa Beach 20 m"\n  - "Nazar Beach 2.2 km"\n  - "Dhermi Beach 2.2 km"\n  - "Gjipe Beach 6 km"\n  - "Beach Me Shpella 6 km"\nwhatsNearby:\n  - "Llogora National Park 4.6 km"\nairports:\n  - "Corfu International Airport 65 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nbookingURL: "https://www.booking.com/hotel/al/drymades-resort.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nCulinary enthusiasts will be delighted by the on-site restaurant's exquisite menu, featuring an array of Mediterranean, Italian, seafood, and Greek dishes, each prepared with the freshest ingredients and a touch of culinary artistry.
 
 Accommodations at Drymades Bungalows are designed with the discerning traveler in mind, boasting essential amenities such as a desk, a private bathroom, and ample wardrobe space. Select rooms elevate the experience further, offering breathtaking sea views that promise to enchant. For entertainment and connectivity, each unit is equipped with a state-of-the-art flat-screen satellite TV.
 
@@ -18,15 +7,3 @@ Mornings at the resort begin with a sumptuous buffet breakfast, setting the tone
 The resort's commitment to exceptional service is evident through its multilingual staff at the 24-hour front desk, ready to assist guests in Greek, English, and Italian, ensuring a seamless and enjoyable stay.
 
 Located a scenic drive away from Sarandë (72 km) and Vlorë (57 km), Drymades Bungalows Adults Only Resort serves as an ideal base for exploring the beauty of the region or simply unwinding in a sophisticated, tranquil setting.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

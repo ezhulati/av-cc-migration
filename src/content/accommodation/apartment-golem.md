@@ -1,28 +1,5 @@
----
-title: Apartment Golem
-description: The accommodation features a well-appointed bedroom, a bathroom, and a kitchen equipped with everything needed for a self-sufficient stay. Entertainment needs a
-featuredImage: "/images/accommodation/471347109.jpg"
-language: en
-slug: apartment-golem
-location: ""
-amenities: []
-images: []
----
-
-The accommodation features a well-appointed bedroom, a bathroom, and a kitchen equipped with everything needed for a self-sufficient stay. Entertainment needs are met with the inclusion of a flat-screen TV, making downtime enjoyable after a day of exploration.
+---\ntitle: "Apartment Golem"\ndescription: "Apartment Golem stands as a prime choice for travelers seeking comfort and convenience in Durrës, located just a stone's throw away from the serene Shkëmbi i Kavajës Beach and a short stroll from the vibrant Golem Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471347109.jpg?k=dc8a45f3721f7ee650decb96899501a65f231ed92cdd714aee2908adcef80cfc&o=&hp=1"\nlanguage: en\nslug: apartment-golem\naddress: "2504 Rruga Golem, 2504 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.26929183\n  lng: 19.51984141\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471347109.jpg?k=dc8a45f3721f7ee650decb96899501a65f231ed92cdd714aee2908adcef80cfc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/471347122.jpg?k=12a7e58fc5d0e9e8cac5034e7300307694b2eb985d5e09ba5f0e07f13ac01a4e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/471346988.jpg?k=5bf08645bfd1b76ae93b15a5c85a4db692b32dd7416f77eca1c157c9cd9719e0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/471347129.jpg?k=59a383a10dc5cca6e215fe3bcc6d4f9daea0717e879aee953269ef023a11151f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/471347089.jpg?k=42d95bd407d6f0414391c1cddc213a2012652e79c48044822a12b2265432809f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/471347115.jpg?k=72e001093cbe938eb9d90576f3a0d3587aeb87715f3b90055567d0ae7e811888&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/471347106.jpg?k=a00a1d84aa8c16d5ad8da736a8915f9f67bdece581c504423064baf55f6709d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/471347137.jpg?k=0e107c26141a3aa3e5e41ffd26ffbfd956af00cdb66e4065d1bfee16232f247e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/471347096.jpg?k=c09bd4b488ac1415da8c0fc33cb4e23f251b4582fb0691a7bfd38a65e8857015&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Grill & Pizza Peja 100 m"\n  - "Fresh Fish 150 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 150 m"\n  - "Golem Beach 450 m"\n  - "Durres Beach 2 km"\n  - "Mali I Robit Beach 2.4 km"\n  - "Qerret Beach 4.4 km"\nwhatsNearby:\n  - "Bekimi 7 km"\n  - "Durres Amphiteatre 8 km"\n  - "Wine Dhe Pooh 8 km"\n  - "1. Maj 8 km"\n  - "Yje Dhe Hena 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "Sotir Noka 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nbookingURL: "https://www.booking.com/hotel/al/apartment-golem-durres1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodation features a well-appointed bedroom, a bathroom, and a kitchen equipped with everything needed for a self-sufficient stay. Entertainment needs are met with the inclusion of a flat-screen TV, making downtime enjoyable after a day of exploration.
 
 For those looking to venture beyond the beach, Apartment Golem serves as an excellent base. It is conveniently located 2.1 km from the bustling Durres Beach and within reach of the historic Skanderbeg Square, 43 km away. Adventure seekers will find the Dajti Ekspres Cable Car, 47 km from the apartment, offering breathtaking views and a unique way to experience the area's natural beauty. Additionally, the Rock of Kavaje, a notable landmark, is just 1.2 km away, providing an easy option for a quick excursion.
 
 Travelers will appreciate the proximity to Tirana International Mother Teresa Airport, situated 37 km from the apartment, making arrivals and departures a breeze. Apartment Golem emerges as a top selection for those desiring a blend of leisure, location, and the comforts of home while exploring the enchanting city of Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

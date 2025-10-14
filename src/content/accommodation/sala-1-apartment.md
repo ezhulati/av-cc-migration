@@ -1,28 +1,5 @@
----
-title: SALA 1 Apartment
-description: The apartment itself is thoughtfully designed to cater to the needs of its guests, featuring a well-equipped kitchen complete with an oven and fridge, a cozy se
-featuredImage: "/images/accommodation/518146657.jpg"
-language: en
-slug: sala-1-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is thoughtfully designed to cater to the needs of its guests, featuring a well-equipped kitchen complete with an oven and fridge, a cozy seating area for relaxation, and a contemporary bathroom equipped with a bidet. The inclusion of a flat-screen TV, along with plush towels and crisp bed linen, adds a touch of luxury to the stay, making it feel like a home away from home.
+---\ntitle: "SALA 1 Apartment"\ndescription: "SALA 1 Apartment emerges as a prime choice for travelers seeking a serene getaway, located just a short stroll from the pristine sands of Velipojë Beach and within easy reach of the historic Rozafa Castle Shkodra."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518146657.jpg?k=6bfe2390037e1297c090c8268683b94b010cfc644dff0bf103da3effea7dec3b&o=&hp=1"\nlanguage: en\nslug: sala-1-apartment\naddress: "Rruga Nr.4, 4020 Velipojë, Albania"\ncity: "Velipojë"\nlocation: "Velipojë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.86331993\n  lng: 19.41387214\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518146657.jpg?k=6bfe2390037e1297c090c8268683b94b010cfc644dff0bf103da3effea7dec3b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518145908.jpg?k=9b5118e09b777a843aba69d803098b6c941d6a48cff6a8122833fbe902953062&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518145743.jpg?k=0db78c1170ab685be8e5465709317e6e33aab8660bc9d7a47df26e254e2125b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518146347.jpg?k=ebe8b00ba21796b1ccec68890d015ed44aa2b6ce866fcefd02fcea69b5c92893&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518146318.jpg?k=6ed002463c757c2fac74b80335b40bee9cfa893a9da82ab15cc35f1740c7db5f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518701468.jpg?k=7c0ee9af65201dfdb7fea0a172684762db4d90b1ff5883f79511d5e96d44f6a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518146034.jpg?k=caa30e2e1eb30e6739ce023ed6a410d541f79adc2ca384b4f642e673417fe156&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518145596.jpg?k=f76c4e0f0372e2ed28e9669f625e7437a998686bcdaada25e7eab4632305a1ad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518146447.jpg?k=bf26f7146da547f57f53fe9213b7aab17b856b1a4368b4240de88b9f4cdfd153&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Beachfront"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Old Town Ulcinj 19 km"\nnearbyRestaurants:\n  - "Bar Restorant 407 30 m"\n  - "Kompleksi Elita 100 m"\nnearbyBeaches:\n  - "Velipoja Beach 100 m"\n  - "Rana e Hedhun Beach 2.8 km"\n  - "Ada Bojana Beach 3.9 km"\n  - "Velika Plaza Beach 6 km"\nwhatsNearby:\n  - "Copacabana 9 km"\n  - "Cola Beach 10 km"\n  - "Imperiam Beach 12 km"\n  - "Msm Beach 12 km"\n  - "Tropicana 13 km"\n  - "Plaža Safari 13 km"\n  - "Bukurija Beach 14 km"\n  - "Saranda 14 km"\n  - "Plaža Toni 15 km"\n  - "Nudistička Plaža Albatros 18 km"\nairports:\n  - "Tirana International Airport Mother Teresa 54 km"\n  - "Podgorica Airport 55 km"\n  - "Tivat Airport 81 km"\nbookingURL: "https://www.booking.com/hotel/al/sala-apartment-1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is thoughtfully designed to cater to the needs of its guests, featuring a well-equipped kitchen complete with an oven and fridge, a cozy seating area for relaxation, and a contemporary bathroom equipped with a bidet. The inclusion of a flat-screen TV, along with plush towels and crisp bed linen, adds a touch of luxury to the stay, making it feel like a home away from home.
 
 For those concerned about the environment, it's noteworthy that SALA 1 Apartment is a non-smoking facility, promoting a clean and healthy atmosphere. Its location is also conveniently positioned 31 km from the tranquil Lake Skadar, offering opportunities for exploration and adventure.
 
 Accessibility is a breeze, with Tirana International Mother Teresa Airport located just 83 km away, making SALA 1 Apartment an ideal choice for both domestic and international travelers looking for a blend of relaxation and exploration on Albania's beautiful coast.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Deluxe 643
-description: Guests will appreciate the fully equipped kitchen, complete with an oven and microwave, making in-apartment dining a breeze. The inclusion of a flat-screen TV e
-featuredImage: "/images/accommodation/436805013.jpg"
-language: en
-slug: deluxe-643
-location: ""
-amenities: []
-images: []
----
-
-Guests will appreciate the fully equipped kitchen, complete with an oven and microwave, making in-apartment dining a breeze. The inclusion of a flat-screen TV ensures entertainment needs are met, while the provision of towels and bed linen adds a touch of convenience to the experience. The property maintains a strict non-smoking policy, ensuring a clean and fresh environment for all guests.
+---\ntitle: "Deluxe 643"\ndescription: "Deluxe 643 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/436805013.jpg?k=b99a56334d63f66f9f6bfb4b693758b490c907fe5eaee02e56e13dc7766f3e3a&o=&hp=1"\nlanguage: en\nslug: deluxe-643\naddress: "8F3W+M7W, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30332717\n  lng: 19.49717224\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/436805013.jpg?k=b99a56334d63f66f9f6bfb4b693758b490c907fe5eaee02e56e13dc7766f3e3a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/436804942.jpg?k=2998cd59ce0ff906f9f7912c72dc4aeccef3bf2ebbdd707d24c8d843276a41ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/436804957.jpg?k=0439e39cd24c3be17a5b2f41fdb700a73d16732310db1934d4cdd8bf1639c1e7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/436805032.jpg?k=cf70593d1b401db67db476f17aa33824b8c84fb65c08166c45ef1639e4f87b6f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/436804995.jpg?k=ad0c5f7bd5bef97d4f791a35f7867b4f2eaa6bcece76ffe633a85d800289b5fe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/436805026.jpg?k=d66d9eac66a0e1fd7b9a8a7b7cd8b52f400a7b6e1c8434906108e6cf86cf42ef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/436805023.jpg?k=886078eef6f9464e444789af5a29b8eac7591f69da53372d184d0fe128313cb3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/436805003.jpg?k=a9b076ecc2e4b1be3f1220b80784c16c801eea008d8fa1eaf74525abdf5d3b4d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/436804882.jpg?k=f526f97b2d3093c5d2840148a4f9c9783e7294def2e50b639e6f96bcb3c92153&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Taku's 20 m"\n  - "Koli 100 m"\nnearbyBeaches:\n  - "Durres Beach 250 m"\n  - "Shkëmbi i Kavajës Beach 2.2 km"\n  - "Currila Beach 4.2 km"\n  - "Golem Beach 4.6 km"\n  - "Kallmi Beach 6 km"\nwhatsNearby:\n  - "Bekimi 3.2 km"\n  - "Wine Dhe Pooh 4.3 km"\n  - "Sheshi Demokracia 4.4 km"\n  - "Yje Dhe Hena 4.4 km"\n  - "Durres Amphiteatre 4.5 km"\n  - "1. Maj 4.6 km"\n  - "Sotir Noka 4.7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/1-bedroom-apartment-643.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests will appreciate the fully equipped kitchen, complete with an oven and microwave, making in-apartment dining a breeze. The inclusion of a flat-screen TV ensures entertainment needs are met, while the provision of towels and bed linen adds a touch of convenience to the experience. The property maintains a strict non-smoking policy, ensuring a clean and fresh environment for all guests.
 
 For those in need of essentials or a quick snack, the on-site minimarket is a welcome feature. Deluxe 643 is not just about the immediate comforts; its location offers easy access to notable attractions, including the Dajti Ekspres Cable Car and the Rock of Kavaje, located 43 km and 4 km away, respectively. Skanderbeg Square, a notable landmark, is situated 39 km from the property, offering guests a glimpse into the rich history and culture of the area.
 
 Travelers looking to explore beyond the confines of Durrës will find Tirana International Mother Teresa Airport conveniently located 33 km away, with the apartment providing a paid shuttle service for a seamless travel experience. Deluxe 643 stands as a testament to the perfect balance of serene beachfront living and the convenience of modern amenities, making it an ideal choice for those looking to experience the best of Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,7 @@
----
-title: Mjolly Apartment Golem
-description: This apartment doesn't just offer a place to stay; it provides a home away from home. Guests are treated to a spacious layout that includes a bedroom, a bathroo
-featuredImage: "/images/accommodation/485063247.jpg"
-language: en
-slug: mjolly-apartment-golem
-location: ""
-amenities: []
-images: []
----
-
-This apartment doesn't just offer a place to stay; it provides a home away from home. Guests are treated to a spacious layout that includes a bedroom, a bathroom equipped with a walk-in shower, and a dressing room, ensuring privacy and convenience. The inclusion of bed linen, towels, a flat-screen TV with streaming services, and air conditioning adds a layer of comfort and entertainment. The fully equipped kitchen and dining area invite guests to prepare and enjoy their meals with ease, while the balcony offers serene garden views, perfect for unwinding after a day of exploration.
+---\ntitle: "Mjolly Apartment Golem"\ndescription: "Mjolly Apartment Golem emerges as a serene retreat in the heart of Golem, offering guests a unique blend of convenience and tranquility."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485063247.jpg?k=6489deec55611f911e8ca960ba8ef07e4513dc4d93c53807f9927e344363400e&o=&hp=1"\nlanguage: en\nslug: mjolly-apartment-golem\naddress: "Rruga Kristal Ap no.17, 4th floor, 1000 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.25434023\n  lng: 19.52444003\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485063247.jpg?k=6489deec55611f911e8ca960ba8ef07e4513dc4d93c53807f9927e344363400e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485063514.jpg?k=1a4a3521ef39795dc592169574994a032309721f51923d3bc20f6d7645ca3485&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485063545.jpg?k=fa23692e03a57e77edfc4e684bd9d1e357d367feb9c3b2edde27feab819c8223&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485063289.jpg?k=db53450dab4f24b3763ceff82e736d3ec0538e5e528ea1a8824394c5769d95b0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485063608.jpg?k=2033e80f7f7061dfc3c224350700d94957e2b74531f4ec74b9bcd0ad9ba8a44a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485063672.jpg?k=89bd28182fd0e913a01c637addd6b6964a111d0a008d94fcc6a74be3f51f7550&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485063582.jpg?k=60a6a9a95d5a884bd9a43b4a11467cfa00c728bcca175a388849b2bd87c807b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485063283.jpg?k=642fc6ec6bc3a6bd2dd79d52195a58b3e47a2882d6eb150abaf13dd290c0374e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488498575.jpg?k=25a1565918fee028a8633d4568fbaad67d0f0f56e5bfeacdf9417222dc54ec4d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Pashtriku 350 m"\n  - "Kleant 450 m"\nnearbyBeaches:\n  - "Golem Beach 350 m"\n  - "Mali I Robit Beach 800 m"\n  - "Shkëmbi i Kavajës Beach 1.3 km"\n  - "Qerret Beach 2.8 km"\n  - "Durres Beach 3.7 km"\nwhatsNearby:\n  - "Bekimi 9 km"\n  - "Durres Amphiteatre 9 km"\n  - "Wine Dhe Pooh 9 km"\n  - "1. Maj 9 km"\n  - "Yje Dhe Hena 9 km"\n  - "Sheshi Demokracia 10 km"\n  - "Sotir Noka 10 km"\nairports:\n  - "Tirana International Airport Mother Teresa 23 km"\nbookingURL: "https://www.booking.com/hotel/al/mjolly-apartment-golem.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment doesn't just offer a place to stay; it provides a home away from home. Guests are treated to a spacious layout that includes a bedroom, a bathroom equipped with a walk-in shower, and a dressing room, ensuring privacy and convenience. The inclusion of bed linen, towels, a flat-screen TV with streaming services, and air conditioning adds a layer of comfort and entertainment. The fully equipped kitchen and dining area invite guests to prepare and enjoy their meals with ease, while the balcony offers serene garden views, perfect for unwinding after a day of exploration.
 
 Beyond the confines of the apartment, the property boasts a well-maintained garden and an outdoor dining area, ideal for those who appreciate the beauty of dining al fresco. The picnic area presents an excellent opportunity for guests to enjoy a day outdoors, surrounded by nature. For added convenience, a minimarket on the premises ensures that essentials are always within reach.
 
 Accessibility is a key feature of Mjolly Apartment Golem, with both free WiFi and on-site parking provided at no extra charge, making it a worry-free option for travelers arriving by car or in need of connectivity. The non-smoking policy ensures a clean and healthy environment for all guests.
 
 Situated a mere 41 km from Tirana International Mother Teresa Airport, the apartment offers ease of access for international travelers, making it a compelling choice for those seeking a blend of comfort, convenience, and exploration in Golem.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,8 @@
----
-title: Alessio Apartments 2
-description: "The apartment itself boasts a well-thought-out layout, featuring a single bedroom that promises a restful night's sleep, a fully equipped kitchen for those who enjoy preparing their meals, and a bathroom that caters to the essentials."
-featuredImage: "/images/accommodation/367528676.jpg"
-language: en
-slug: alessio-apartments-2
-location: ''
-amenities: []
-images: []
----
-
-The apartment itself boasts a well-thought-out layout, featuring a single bedroom that promises a restful night's sleep, a fully equipped kitchen for those who enjoy preparing their meals, and a bathroom that caters to the essentials. Entertainment needs are not overlooked, with a flat-screen TV available for guests' viewing pleasure.
+---\ntitle: "Alessio Apartments 2"\ndescription: "Alessio Apartments 2 emerges as a prime choice for travelers seeking comfortable, air-conditioned accommodations in Vlorë, complete with the convenience of a private balcony."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367528676.jpg?k=aa8a20fdb6a411153e5822979e1fe9d7859f76b12322e9d2da4ebbe442177765&o=&hp=1"\nlanguage: en\nslug: alessio-apartments-2\naddress: "Rruga Shyqyri Ali Merka, 9405 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4520467\n  lng: 19.48833272\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.6\nratingWords: "Very Good"\nnumberOfReviews: 4\nratings:\n  overall: 8.6\n  location: 9.4\n  cleanliness: 8.1\n  facilities: 8.8\n  value: 8.8\n  comfort: 8.8\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367528676.jpg?k=aa8a20fdb6a411153e5822979e1fe9d7859f76b12322e9d2da4ebbe442177765&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367528793.jpg?k=d4fa704d6cac42e668c2967414a8ceb7ab83768b3d2d1722a9fca4a0ef235146&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367529176.jpg?k=a9f0e35be6508a4724b3a00d70dca06a7f2b6a0d7f280c4d32993be76656ee06&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370805848.jpg?k=ad8ee31d2c269d51638682dc7166e89d56a692a689e10070761f7a10e3913ab1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367528973.jpg?k=c68f478e58efdfa495d5a6ca4928d91b83de727dc472be132e73815dadcdc7e2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364421981.jpg?k=2663c59e275d1897cf50a6e7252c68f14336d1c0207c8f5aaf7551a585e77fb9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367529275.jpg?k=58cc4b45708769df10df13cf62de6379693f6a5557d0d38bb8915fb199e8ec71&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367529017.jpg?k=95c8af06b9f8ecc97977085f1cbb5b803f15e719197cc4b3fbda11c3fd4d9729&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369999367.jpg?k=bcedc08a4c204487b159eca4f394de2beba3d588082c1c58ef45db8e83e4dbb4&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyBeaches:\n  - "Vjetër Beach 600 m"\n  - "Vlore Beach 600 m"\n  - "Ri Beach 1.9 km"\n  - "Beach at Government Villas 3.5 km"\n  - "Liro Beach 4.2 km"\nreviews:\n  - name: "Enea"\n    country: "United Kingdom"\n    text: "“This apartment was perfect, I found it to be exceptionally clean, very comfortable and in a great location. The host was very kind and always ready to help at any moment with all my needs. Overall the stay was lovely and would definitely stay...”"\n  - name: "Gloria"\n    country: "Albania"\n    text: "“Tutto perfetto..Grazie per la disponibilita
+Ottimo appartamento nel centro del Lungomare di Valona!”"\nbookingURL: "https://www.booking.com/hotel/al/alessio-house.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself boasts a well-thought-out layout, featuring a single bedroom that promises a restful night's sleep, a fully equipped kitchen for those who enjoy preparing their meals, and a bathroom that caters to the essentials. Entertainment needs are not overlooked, with a flat-screen TV available for guests' viewing pleasure.
 
 For those planning to explore the broader Vlorë area, Alessio Apartments 2 serves as a perfect base, with Independence Square located just 2.3 km away, and the historic Kuzum Baba viewpoint a short drive at 2.8 km. For international travelers, the convenience of Tirana International Mother Teresa Airport, situated 151 km from the property, ensures accessibility.
 
 While the apartment offers the comfort of free WiFi throughout the premises, guests also have the option of securing private parking at an additional charge, adding an extra layer of convenience to their stay.
 
 In summary, Alessio Apartments 2 stands out as a compelling choice for visitors to Vlorë, offering a blend of comfort, convenience, and proximity to local attractions, making it a noteworthy consideration for your next travel itinerary.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

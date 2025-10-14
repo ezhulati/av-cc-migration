@@ -7,6 +7,9 @@ featuredImage: /images/attractions/karaburun-peninsula-hidden-beaches-bays-caves
 images: []
 language: en
 slug: karaburun-peninsula-hidden-beaches-bays-caves
+seo:
+  metaTitle: "Hidden Beaches and Secluded Bays of the Karaburun Peninsula"
+  metaDescription: "Discover Albania's Karaburun Peninsula, where the Adriatic and Ionian Seas merge. Explore secret beaches, hidden caves, and secluded bays only locals know."
 ---
 
 Why Visit
@@ -97,10 +100,3 @@ The Karaburun Peninsula is a sanctuary where the Adriatic and Ionian seas sympho
 
 Journey to where the azure waters meet the dramatic cliffs. Dive into an underwater world of colorful reefs and marine life. Explore mystical caves and sail along the rocky coast. Indulge in fresh seafood and unspoiled nature. Let the Karaburun Peninsula’s beauty envelop you on the Mediterranean escape you dream of.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

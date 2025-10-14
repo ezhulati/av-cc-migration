@@ -1,26 +1,3 @@
----
-title: Family Joy Apartment
-description: Boasting a generously sized layout, the apartment features a balcony that presents captivating city views, inviting guests to unwind and soak in the ambiance. T
-featuredImage: "/images/accommodation/491441667.jpg"
-language: en
-slug: family-joy-apartment
-location: ""
-amenities: []
-images: []
----
-
-Boasting a generously sized layout, the apartment features a balcony that presents captivating city views, inviting guests to unwind and soak in the ambiance. The interior is thoughtfully designed with a separate bedroom, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen that includes an oven and a fridge, making it ideal for those who prefer home-cooked meals. Additionally, the convenience of a bathroom equipped with a bidet adds to the comfort of the stay.
+---\ntitle: "Family Joy Apartment"\ndescription: "Family Joy Apartment emerges as a prime choice for travelers seeking comfort and convenience in Orikum."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491441667.jpg?k=750a956ff4b4ac25afa8b546510b58dbf5639540b238452db1b97d300b06fc85&o=&hp=1"\nlanguage: en\nslug: family-joy-apartment\naddress: "Rruga Kaonët, Orikum, Albania"\ncity: "Orikum"\nlocation: "Orikum"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.3281177\n  lng: 19.472962\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491441667.jpg?k=750a956ff4b4ac25afa8b546510b58dbf5639540b238452db1b97d300b06fc85&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491441714.jpg?k=0e54ec7761a4e7abd2359bb3d335fde24664199905d55f907f1b03e13d6c2c8d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491441710.jpg?k=52a5b4cbc36454c69dbe0b984248c62a0c439d848e25e9f29c450f67143ef160&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491441686.jpg?k=02be5af8cdd2556cd19ea3f0f3002d11fd47c47d82cf396b2e9b30c570e03e7e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491441701.jpg?k=4e2d7b1bf39ddfb4e308ba2e3384def1e995c6562b13a8177bc5ce2ab83e2d66&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491441705.jpg?k=ba34dab28c8ae99f8368f1a544b5b590fe820858d53e32c49dbc7d914fb6112b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491441699.jpg?k=06cc905883b50afe89e9f9642519f8e80e9006020d0504db21d96afb8675a3ab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491441713.jpg?k=8016771f4d49671b95c9d866c2652c634fdf23e0c506869bc96f1ae1ad6ab36f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491441693.jpg?k=cae4f1797097dd44c596cd2b976b2eed8ac4001301a09e9618eff5d8b6da64e1&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Las Belo 250 m"\n  - "Mats Beach Bar and Cafe 350 m"\nnearbyBeaches:\n  - "Nettuno Beach 1,000 m"\n  - "Orikum Beach 1.3 km"\n  - "Baro Beach 1.5 km"\n  - "Al Breeze Beach 2.2 km"\n  - "Radhimë Beach 2.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 12 km"\n  - "Llogora National Park 13 km"\n  - "Kuzum Baba 16 km"\n  - "Independence Square 16 km"\nairports:\n  - "Corfu International Airport 88 km"\nbookingURL: "https://www.booking.com/hotel/al/family-joy-apartment-orikum.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nBoasting a generously sized layout, the apartment features a balcony that presents captivating city views, inviting guests to unwind and soak in the ambiance. The interior is thoughtfully designed with a separate bedroom, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen that includes an oven and a fridge, making it ideal for those who prefer home-cooked meals. Additionally, the convenience of a bathroom equipped with a bidet adds to the comfort of the stay.
 
 Located 18 km from Independence Square and with the nearest airport, Tirana International Mother Teresa Airport, 167 km away, Family Joy Apartment stands out as a strategic base for both short-term leisure stays and longer explorations of the region.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

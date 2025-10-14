@@ -1,28 +1,5 @@
----
-title: Unique
-description: Each guest room at Unique is thoughtfully designed for comfort and convenience, featuring a wardrobe for personal belongings. The essence of relaxation is captu
-featuredImage: "/images/accommodation/474904016.jpg"
-language: en
-slug: unique
-location: ""
-amenities: []
-images: []
----
-
-Each guest room at Unique is thoughtfully designed for comfort and convenience, featuring a wardrobe for personal belongings. The essence of relaxation is captured in the private bathrooms, equipped with showers and complimentary toiletries, ensuring a refreshing stay. For entertainment and comfort, rooms are furnished with flat-screen TVs and air conditioning, with select accommodations boasting balconies for a breath of fresh air.
+---\ntitle: "Unique"\ndescription: "Discover the charm of Unique, a standout resort in Gramsh, renowned for its serene garden, inviting terrace, and the delightful dining experience offered at its on-site restaurant and bar."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474904016.jpg?k=1e3e4c2ee003b19b67b9caab4e3efd8eab8046fc078c324101b5b3289c38eca5&o=&hp=1"\nlanguage: en\nslug: unique\naddress: "Gramsh Pishaj (plakallinj), 3301 Gramsh, Albania"\ncity: "Gramsh"\nlocation: "Gramsh"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.87696913\n  lng: 20.18488227\nprice: "US$19"\npriceFrom: 19\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 19\nratings:\n  overall: 9\n  location: 8.1\n  cleanliness: 9.3\n  facilities: 8.9\n  value: 9.3\n  comfort: 9.2\n  staff: 9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474904016.jpg?k=1e3e4c2ee003b19b67b9caab4e3efd8eab8046fc078c324101b5b3289c38eca5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474904004.jpg?k=8ab2c97dceafdf42790eb226d81c36449c4adfe27873e8f53d9537159301e3b7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474904011.jpg?k=acb73685be9df8a98d56b40327ac8d937fc2a35d6f652343b6854f612adf6d1b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474903983.jpg?k=e039788d1fe6fb906bb2568b64811222b0a251efa8c7d546803b8665a1c5af75&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474903991.jpg?k=7bd8c4b05e2d1d7813fb23dc9f3c6cc4deda4d9ca20cedd64e18b8c72337644a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474903998.jpg?k=6ce89f6909ab5bb839f4e10fc552e7b6e5b587de079061d72ad181316253511b&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Restaurant"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Economy Twin Room"\n  - "Double Room"\n  - "Double Room with Terrace"\n  - "King Room with Pool View"\n  - "Queen Room with Pool View"\nnearbyRestaurants:\n  - "Mateo 700 m"\n  - "Piazza 950 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\nairports:\n  - "Ohrid Airport 56 km"\n  - "Tirana International Airport Mother Teresa 70 km"\nreviews:\n  - name: "Irene"\n    country: "United Kingdom"\n    text: "“It’s very clean and very easy to find. Also very new”"\n  - name: "Nikolaos"\n    country: "Greece"\n    text: "“Πολύ καλό δωμάτιο πραγματικά είναι bargain. Από τα φθηνότερα της περιοχής πολύ καθαρό, σύγχρονο. Ξεπέρασε τις προσδοκίες μου , δε περίμενα σε καμία περίπτωση να είναι όπως στις φωτογραφίες. Ο οικοδεσπότης πολύ εξυπηρετικος με πήρε και τηλέφωνο...”"\n  - name: "Isa"\n    country: "Belgium"\n    text: "“Nouvelle hôtel très bien équipé petit déjeuner très bon en face de la piscine”"\nbookingURL: "https://www.booking.com/hotel/al/unique.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach guest room at Unique is thoughtfully designed for comfort and convenience, featuring a wardrobe for personal belongings. The essence of relaxation is captured in the private bathrooms, equipped with showers and complimentary toiletries, ensuring a refreshing stay. For entertainment and comfort, rooms are furnished with flat-screen TVs and air conditioning, with select accommodations boasting balconies for a breath of fresh air.
 
 The resort prides itself on exceptional service, with a multilingual staff proficient in Greek, English, and Albanian available around the clock at the front desk, ready to assist with any needs.
 
 Situated a mere 89 km from Tirana International Mother Teresa Airport, Unique offers an accessible retreat for those seeking a blend of tranquility and convenience in Gramsh.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

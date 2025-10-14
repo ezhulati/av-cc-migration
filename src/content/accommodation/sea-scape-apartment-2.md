@@ -1,30 +1,7 @@
----
-title: Sea Scape Apartment 2
-description: The apartment itself is a haven of modern living, featuring air-conditioned spaces complemented by a balcony that invites guests to bask in the serene surroundi
-featuredImage: "/images/accommodation/364792050.jpg"
-language: en
-slug: sea-scape-apartment-2
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of modern living, featuring air-conditioned spaces complemented by a balcony that invites guests to bask in the serene surroundings. With two generously sized bedrooms, the accommodation is ideal for families or groups looking to share in the beauty of Vlorë. Entertainment is readily available with a flat-screen TV equipped with streaming services, perfect for winding down after a day of sun and sand.
+---\ntitle: "Sea Scape Apartment 2"\ndescription: "Sea Scape Apartment 2 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë, situated a mere stone's throw away from the pristine Ri Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364792050.jpg?k=249093c139499ced889c718ebc56b3b1fcab0c0e844db0348296329a5433bea0&o=&hp=1"\nlanguage: en\nslug: sea-scape-apartment-2\naddress: "Rruga Dhimitër Konomi, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4297676\n  lng: 19.49375428\nprice: "US$86"\npriceFrom: 86\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 5\nratings:\n  overall: 9.7\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 8.3\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364792050.jpg?k=249093c139499ced889c718ebc56b3b1fcab0c0e844db0348296329a5433bea0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364905243.jpg?k=13fc4ecbc4085d43228edfc5b938ca918c39ade72576ec10f914aeb329cab4e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364905346.jpg?k=e4d9d7d0718c8b71826d57b3ea57f0d9366c1683d6e8be2af1ebcf55312ae235&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364905514.jpg?k=7477088a9bacee8dbf4bac33999cc09938caa818a4580978cf6eb9c03bddeec2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364905656.jpg?k=6a86265c239a4d951d6caa13016df77ce8a2e096cc45a4fd8865a13ef110066b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364793541.jpg?k=f204b6991db35bff6ea1b9472a79f74203592ebee763d8bd5add57344a27cdb1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364793286.jpg?k=69ba03330876c914fbbf19c65de54fdb4003655b87d2f69bef721decdf7390b8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364905280.jpg?k=6ddbfa2503acddc8388ebcc499fe3ff4cd6c2505552b7f0a0fb62f1d696faef6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364793217.jpg?k=d1b5e22cde643c217d318d59a2a939e8ce805f7630455bfae23d4eed526ae5b4&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Mareluna 30 m"\n  - "Meteor Bar 150 m"\nnearbyBeaches:\n  - "Ri Beach 100 m"\n  - "Beach at Government Villas 1.2 km"\n  - "Vlore Beach 1.4 km"\n  - "Liro Beach 2 km"\n  - "Vjetër Beach 2.7 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 750 m"\n  - "Kuzum Baba 4.2 km"\n  - "Independence Square 4.6 km"\nreviews:\n  - name: "Anxhela"\n    country: "Albania"\n    text: "“The apartment was very beautifully designed and exceptionally clean and everything was so new that we thought we were the very first guests . Fully equipped with kitchenware and silverware air conditioned in every room, big tv and as I said very...”"\nbookingURL: "https://www.booking.com/hotel/al/sea-scape-apartment-2-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of modern living, featuring air-conditioned spaces complemented by a balcony that invites guests to bask in the serene surroundings. With two generously sized bedrooms, the accommodation is ideal for families or groups looking to share in the beauty of Vlorë. Entertainment is readily available with a flat-screen TV equipped with streaming services, perfect for winding down after a day of sun and sand.
 
 Culinary enthusiasts will delight in the fully equipped kitchen, which comes complete with an oven, microwave, washing machine, toaster, and fridge. This makes in-apartment dining not just possible, but a pleasure. Adding to the convenience, towels and bed linen are thoughtfully provided, ensuring a comfortable and hassle-free stay.
 
 Strategically located, Sea Scape Apartment 2 is just a short distance from other local attractions, including Vlore Beach, merely 1.5 km away, and the Beach at Government Villas, located 1.6 km from the property. For those willing to explore a bit further, Liro Beach is within a 2.6 km reach. For international travelers, the Tirana International Mother Teresa Airport is the nearest gateway, situated 154 km from the apartment, making it a feasible option for both domestic and overseas visitors.
 
 In summary, Sea Scape Apartment 2 stands out as an exemplary choice for those in pursuit of a memorable beachfront stay in Vlorë, offering a harmonious blend of modern amenities, comfort, and strategic location.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

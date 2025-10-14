@@ -1,15 +1,4 @@
----
-title: Garden Lake Camping
-description: Located strategically, Garden Lake Camping is not just close to the vibrant Ksamil Beach but also a short distance from the enchanting Butrint National Park, ma
-featuredImage: "/images/accommodation/484757647.jpg"
-language: en
-slug: garden-lake-camping
-location: ""
-amenities: []
-images: []
----
-
-Located strategically, Garden Lake Camping is not just close to the vibrant Ksamil Beach but also a short distance from the enchanting Butrint National Park, making it an ideal base for explorers. Moreover, the proximity to Bora Bora Beach, just 600 meters away, adds another layer of appeal to this charming destination.
+---\ntitle: "Garden Lake Camping"\ndescription: "Garden Lake Camping, situated a mere stone's throw away from the pristine shores of Ksamil Beach, emerges as a serene retreat for travelers seeking both adventure and tranquility."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484757647.jpg?k=212e3a6ef89546e3bcc25ba90601881af17c7ce3790bb0b37aff6d9ec20115fe&o=&hp=1"\nlanguage: en\nslug: garden-lake-camping\naddress: "Rruga Peshkatari, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.769897\n  lng: 20.00392\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 6.6\nratingWords: "Average"\nnumberOfReviews: 8\nratings:\n  overall: 6.6\n  location: 7.8\n  cleanliness: 6.3\n  facilities: 6.6\n  value: 6.3\n  comfort: 5.3\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484757647.jpg?k=212e3a6ef89546e3bcc25ba90601881af17c7ce3790bb0b37aff6d9ec20115fe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484757664.jpg?k=2b4f07ce45343b7d9cee8dbc821af21d1d38b29d6564beefae3f49d20a322106&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483910816.jpg?k=14425f1cc19621515b3c19326b5ee7b14b7947e4c8668719502add64bd6f2911&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488673640.jpg?k=805e2852c5e43c3f54dc64b1d05253cd269dc2d18684390cd69fbd931ef5201c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484757653.jpg?k=bec6d97d6b41d30f91645a73832f23ecde1ac7b6b936e35b25c231b50b3994cd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484757649.jpg?k=6264ae21df1172d29c1c79210a2c714a4bdb20d4899fa3d2ef0a0841ec84284b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484757660.jpg?k=18e8bafe26bc0b5192310785448a24677cc2c80bc9edb316ed6f8e5679d3806c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484757698.jpg?k=083117c40ec4fec9bbff0f8282e9f69a31f80e8da55f7459ecade148d571d610&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484757646.jpg?k=591d07d3f9ffc8ab835edbf2c35bd6b8a1e0872ffca30a130b8ed77548eea858&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nnearbyAttractions:\n  - "Museum of Banknotes 18 km"\n  - "New Fortress 18 km"\n  - "Serbian Museum 18 km"\n  - "Theotoki G. Square 18 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 19 km"\n  - "Trion Martiron Park 19 km"\n  - "Mon Repos Palace 19 km"\nnearbyRestaurants:\n  - "Fish Shop Butrint 40 m"\n  - "Kancelari Mondi 50 m"\nnearbyBeaches:\n  - "Ksamil Beach 350 m"\n  - "Ksamil Beach 9 500 m"\n  - "Bora Bora Beach 500 m"\n  - "Ksamil Beach 7 500 m"\n  - "Coco Beach 700 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 300 m"\n  - "Butrint National Park 2.6 km"\n  - "Plazhi I Krorezes 3.4 km"\n  - "Parc National de Butrint 10 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 17 km"\n  - "Old Fortress 18 km"\nairports:\n  - "Corfu International Airport 19 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/garden-lake-camping.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nLocated strategically, Garden Lake Camping is not just close to the vibrant Ksamil Beach but also a short distance from the enchanting Butrint National Park, making it an ideal base for explorers. Moreover, the proximity to Bora Bora Beach, just 600 meters away, adds another layer of appeal to this charming destination.
 
 One of the highlights of staying at Garden Lake Camping is the opportunity to enjoy the serene lake views right from the patio, which is thoughtfully equipped with outdoor furniture for guests' comfort. The commitment to providing a peaceful environment is further evidenced by the property's non-smoking policy and the inclusion of a private entrance for each accommodation, ensuring utmost privacy and a sense of exclusivity.
 
@@ -18,15 +7,3 @@ For those who appreciate the finer things in life, the on-site coffee shop and b
 Accessibility is also a breeze, with Corfu International Airport located just 93 km away, making Garden Lake Camping an accessible escape for international travelers.
 
 In essence, Garden Lake Camping redefines the camping experience by blending the allure of the great outdoors with the comforts of modern amenities, making it a must-visit destination for those looking to immerse themselves in nature without forgoing luxury.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

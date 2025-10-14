@@ -4,9 +4,19 @@ description: The guesthouse prides itself on its array of amenities designed to 
 featuredImage: "/images/accommodation/447999925.jpg"
 language: en
 slug: helgas-guesthouse
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 3
+rating: 3
+accommodationType: "apartment"
+location: "Lac"
+amenities:
+  - "WiFi"
+  - "Air Conditioning"
+  - "Parking"
+  - "Restaurant"
+  - "Bar"
+  - "TV"
 ---
 
 The guesthouse prides itself on its array of amenities designed to ensure a comfortable stay. Each room is equipped with modern conveniences such as air conditioning, a flat-screen TV complete with streaming services, a minibar, and a coffee machine. The attention to detail extends to the bathrooms, where guests can find a bidet and hair dryer, alongside the provision of free WiFi throughout the property. Select rooms also boast balconies, offering private vistas of the surrounding mountains, while all guests can enjoy the added comfort of complimentary bed linen and towels.
@@ -19,14 +29,3 @@ Located a convenient distance from both the Early Christian Basilica and Port Oh
 
 In summary, Helga's Guesthouse emerges as a top-tier choice for those in pursuit of relaxation, natural beauty, and a touch of adventure, making it a must-visit destination on any traveler's list.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

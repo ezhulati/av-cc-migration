@@ -7,6 +7,11 @@ featuredImage: /images/attractions/berat-castle.jpg
 images: []
 language: en
 slug: berat-castle
+seo:
+  metaTitle: "%title% - A Timeless Journey in Albania's History"
+  metaDescription: "Discover the rich history and stunning views of Berat Castle in Albania. Explore the ancient ruins and immerse yourself in the past with our detailed guide."
+  focusKeyword: "berat castle"
+  robots: "index"
 ---
 
 Where 100 Families Still Live Behind Medieval Walls
@@ -115,10 +120,3 @@ Tomorrow the tour buses will come again. Guides will explain the architectural p
 
 **Visiting Information**: Berat Castle opens daily during daylight hours. Entry: 300 lek (€3). The Onufri Museum requires separate admission. Regular buses connect Berat with Tirana (2.5 hours). The castle quarter has guesthouses, cafés, and craft shops. April-June and September-October offer ideal weather with fewer crowds.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

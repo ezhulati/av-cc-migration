@@ -4,9 +4,20 @@ description: Offering the comforts of home with the luxury of beachside living, 
 featuredImage: "/images/accommodation/465246778.jpg"
 language: en
 slug: cheap-21-apartment-10-meters-from-beach
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Air Conditioning"
+  - "Parking"
+  - "Pool"
+  - "Bar"
+  - "Kitchen"
+  - "Balcony"
 ---
 
 Offering the comforts of home with the luxury of beachside living, this apartment comes fully equipped with air conditioning, ensuring a comfortable stay regardless of the weather. Guests will appreciate the complimentary amenities such as high-speed WiFi and on-site parking, making their stay both connected and convenient.
@@ -17,14 +28,3 @@ For those looking to explore beyond the beach, Golem Beach is just 1.5 km away, 
 
 Cheap 2+1 apartment presents an ideal choice for travelers seeking a blend of comfort, convenience, and the allure of the Albanian Riviera, all wrapped up in a package that feels like home away from home.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

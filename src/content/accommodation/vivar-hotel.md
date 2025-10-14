@@ -1,30 +1,7 @@
----
-title: Vivar Hotel
-description: "The hotel prides itself on offering a seamless stay experience, with amenities designed to cater to the needs of modern travelers."
-featuredImage: "/images/accommodation/37948342.jpg"
-language: en
-slug: vivar-hotel
-location: ""
-amenities: []
-images: []
----
-
-The hotel prides itself on offering a seamless stay experience, with amenities designed to cater to the needs of modern travelers. Each air-conditioned room is thoughtfully equipped with a desk, a safety deposit box, a flat-screen TV, and a private bathroom with a shower, ensuring guests enjoy both comfort and privacy. The addition of a wardrobe in every room adds a touch of convenience for those staying longer.
+---\ntitle: "Vivar Hotel"\ndescription: "Vivar Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/37948342.jpg?k=cb027c7c2b97db2f973770588dce1d6fec074555150d55ac37b3073e40ac2f12&o=&hp=1"\nlanguage: en\nslug: vivar-hotel\naddress: "Rruga Reshit Collaku Nr. 38, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.32374087\n  lng: 19.81581196\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 207\nratings:\n  overall: 8.5\n  location: 9.2\n  cleanliness: 8.1\n  facilities: 7.4\n  value: 8.1\n  comfort: 8\n  staff: 9\n  wifi: 9.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/37948342.jpg?k=cb027c7c2b97db2f973770588dce1d6fec074555150d55ac37b3073e40ac2f12&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/37948330.jpg?k=e5df6ebd95fb96c9061a53f7fce0e79c92f28a651860a7f82c8e9b9930fe3437&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/221505502.jpg?k=473bfca34264f8ef50507342f154dc27bce58928f7ef8f928bef103b933983e8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/37948276.jpg?k=592befb7f20f0c02d09ac9fdf676b1c33be7a38456b6cbe4bc35ec501f86536b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/37948301.jpg?k=306a7529d3cb922ee6921c6dde979c459a8df283f912e7e51e2a6789f84f5b6d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/37948286.jpg?k=ceee0b3638ba7444442674f1f29b21ae719fd32708f40da109ce7ef670da8d32&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Good breakfast"\nroomTypes:\n  - "Twin Room with Private Bathroom"\nnearbyAttractions:\n  - "National Museum of History Albania 650 m"\n  - "Tanners' Bridge 900 m"\n  - "Grand Park of Tirana 1.5 km"\n  - "Bunk'Art 1 Museum 4.7 km"\nnearbyRestaurants:\n  - "Brauhaus 40 m"\n  - "Antika 50 m"\nwhatsNearby:\n  - "Rinia Park 250 m"\n  - "House of Leaves 350 m"\n  - "Former Residence of Enver Hoxha 350 m"\n  - "Parku Rinia 350 m"\n  - "Sheshi Rekreativ Piramida 450 m"\n  - "National Gallery of Arts Tirana 500 m"\n  - "Parku Europa 500 m"\n  - "Skanderbeg Square 550 m"\n  - "Clock Tower Tirana 550 m"\n  - "Sheshi Skënderbej 550 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Arta"\n    country: "Sweden"\n    text: "“Super nice staff, Great location and good breakfast. Can strongly recommend”"\n  - name: "Patricia"\n    country: "United Kingdom"\n    text: "“Friendly helpful staff clean and tidy. Had a proper shower area”"\n  - name: "Fiona"\n    country: "United Kingdom"\n    text: "“A very friendly and relaxed family run hotel. Conveniently located in the centre of the city but in a quiet side street. Clean and comfortable with a good breakfast and excellent coffee.”"\nbookingURL: "https://www.booking.com/hotel/al/vivar.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe hotel prides itself on offering a seamless stay experience, with amenities designed to cater to the needs of modern travelers. Each air-conditioned room is thoughtfully equipped with a desk, a safety deposit box, a flat-screen TV, and a private bathroom with a shower, ensuring guests enjoy both comfort and privacy. The addition of a wardrobe in every room adds a touch of convenience for those staying longer.
 
 Morning starts on a high note at Vivar Hotel, where guests have the option to savor a buffet or continental breakfast, setting the right tone for a day of adventure or relaxation. The property doesn't just stop at comfortable rooms and delightful breakfast options; it extends its hospitality to include a garden, a shared lounge, and a bar, all connected by complimentary WiFi, ensuring guests stay connected with what matters most to them.
 
 For those looking to explore beyond the hotel's doors, Vivar Hotel is conveniently located near other popular attractions including Skanderbeg Square, the Former Residence of Enver Hoxha, and Rinia Park. Moreover, the Tirana International Mother Teresa Airport is merely 15 km away, making arrivals and departures as smooth as possible.
 
 With its blend of strategic location, thoughtful amenities, and attentive service, Vivar Hotel stands out as a premier choice for those visiting Tirana, whether for leisure or business.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Aulona Apartament
-description: The apartment itself boasts a generous layout, featuring two well-appointed bedrooms, a fully equipped kitchen for those who enjoy preparing their own meals, an
-featuredImage: "/images/accommodation/504014588.jpg"
-language: en
-slug: aulona-apartament
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself boasts a generous layout, featuring two well-appointed bedrooms, a fully equipped kitchen for those who enjoy preparing their own meals, and a modern bathroom. Guests can relax in the airy living space or step out onto the balcony to soak in the local ambiance. Entertainment needs are well catered to with the inclusion of a flat-screen TV, complemented by free WiFi throughout the property, keeping visitors connected during their stay.
+---\ntitle: "Aulona Apartament"\ndescription: "Aulona Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, situated just a short stroll from Ri Beach and within easy reach of Vlore Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504014588.jpg?k=8311d544567b0f4a8cf8afa10f2a0048ed6dc4d89274d14a10895777a5cce5de&o=&hp=1"\nlanguage: en\nslug: aulona-apartament\naddress: "Rruga Murat Tërbaçi, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.43589224\n  lng: 19.4958115\nprice: "US$66"\npriceFrom: 66\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 2\nratings:\n  overall: 7.9\n  location: 8.8\n  cleanliness: 10\n  facilities: 7.5\n  value: 7.5\n  comfort: 6.3\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504014588.jpg?k=8311d544567b0f4a8cf8afa10f2a0048ed6dc4d89274d14a10895777a5cce5de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504017701.jpg?k=cf67c7c21d69bfac3d3ef53e8d8c338d67135c08f26be5ab5b318ef99af8de5e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504017698.jpg?k=fa72c259e3c73eb2948a8fbe80d9060b454d93e2973d1f8d62010510f39c2639&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504013838.jpg?k=57bf1da17ff36fafc5680b33a99831ca03930bc9efb4839f72f9c83660c34f23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504017703.jpg?k=31b8d278d4cc66e744f4a16ad7686de5d5c1fcd540aa11e84f7d8298049fd3ca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504015554.jpg?k=0943b69e110c5f78949f9516e7a19bd540815481a9e871cb547583224728d477&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504017699.jpg?k=4ab4745a68074ee7334d1a9022ecf319472009cc5df51b7f5398680dbd14f60c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504014984.jpg?k=58e59a7feb0d4d04f43373d5c98f86b917e78ac155ffd44e3c310a2644cdc00b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479750153.jpg?k=9fb669caadfe81c3d9764df0641c61b522f10fbfd4e89b0c819fb9f29b4a5bc2&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Mazana Caffe 30 m"\n  - "Restorant Picaresco 40 m"\nnearbyBeaches:\n  - "Ri Beach 100 m"\n  - "Vlore Beach 750 m"\n  - "Beach at Government Villas 1.9 km"\n  - "Vjetër Beach 2.2 km"\n  - "Liro Beach 2.7 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 50 m"\n  - "Kuzum Baba 3.5 km"\n  - "Independence Square 3.9 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nbookingURL: "https://www.booking.com/hotel/al/aulona-apartament.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself boasts a generous layout, featuring two well-appointed bedrooms, a fully equipped kitchen for those who enjoy preparing their own meals, and a modern bathroom. Guests can relax in the airy living space or step out onto the balcony to soak in the local ambiance. Entertainment needs are well catered to with the inclusion of a flat-screen TV, complemented by free WiFi throughout the property, keeping visitors connected during their stay.
 
 For those interested in exploring the cultural highlights of Vlorë, Aulona Apartment is conveniently located just 4 km from the historic Kuzum Baba and a similar distance from Independence Square, making it easy for guests to immerse themselves in the local heritage. For international travelers, the Tirana International Mother Teresa Airport is 153 km away, making this apartment a thoughtful choice for both short and extended stays in the region.
 
 Aulona Apartment not only offers a comfortable and spacious accommodation option but also serves as a gateway to the rich experiences and sights of Vlorë, making it a highly recommended stay for discerning travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,7 @@
----
-title: Gold Riviera apartment
-description: This apartment doesn't just offer a place to stay; it provides a home away from home. Guests are treated to a spacious layout that includes two bedrooms, a livi
-featuredImage: "/images/accommodation/464394498.jpg"
-language: en
-slug: gold-riviera-apartment
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Gold Riviera apartment"\ndescription: "Gold Riviera Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464394498.jpg?k=1f64a5ee5f06ebc748dbffc6ccdc1b590cd2c3f63065af915dac1fa0a91ca9c5&o=&hp=1"\nlanguage: en\nslug: gold-riviera-apartment\naddress: "L. “PAVARESIA” 2-10-12 Nr.ap:7 Floor:3, 8603 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45495414\n  lng: 19.4863678\nprice: "US$51"\npriceFrom: 51\nstarRating: 3\nrating: 2.5\nratingWords: "Needs Improvement"\nnumberOfReviews: 3\nratings:\n  overall: 2.5\n  location: 2.5\n  cleanliness: 2.5\n  facilities: 2.5\n  value: 2.5\n  comfort: 2.5\n  staff: 2.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464394498.jpg?k=1f64a5ee5f06ebc748dbffc6ccdc1b590cd2c3f63065af915dac1fa0a91ca9c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/464394569.jpg?k=cda97d67fc38d2c8a4e68c92d3e33fbea15ad438d0dedb9329530d2731ff8fd1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/464519294.jpg?k=83842e7c3210ef6ea6e8389e0e2097c98a677f6f7b7272683e01dc1c3a5cda67&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/464394583.jpg?k=743eabe623c11119deb19fdfc40f4d37ed6a670ab4503fdc5a71aa4d8a14aa27&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/464394601.jpg?k=9316bc47fb1eb983869ec72f2dcb273787b754fbc9faa8e68400d9392dcbc1d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/464394588.jpg?k=765d46c023a52c982f4e98a0760270f632876029091e504d765276e9d6388733&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/464394614.jpg?k=bdb41ac897358ed25a2f1631f7b3814e3ddabea5f11401309cba51790b34046f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/464394609.jpg?k=7914489f4b391b75c0584ffe053ed75d8b7b5e9dd7e82eae995bd7f630166d47&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/464394575.jpg?k=027799c89c2d9ef3b85693b065d29edeb3c7da4b1230b4fc113662a8c5c7d7ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/464394579.jpg?k=e9c038a61b9339d333a31d77ee55043d3e17f30b99e956fade03a3f56313b329&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/464394594.jpg?k=d5a50b06e8ddb937c647456a09fae31090f7b3d264471f88ae5ea286296ef9ff&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Bar Kampionet 50 m"\n  - "Restorant Kristal 50 m"\nnearbyBeaches:\n  - "Vjetër Beach 500 m"\n  - "Vlore Beach 1,000 m"\n  - "Ri Beach 2.3 km"\n  - "Beach at Government Villas 3.9 km"\n  - "Liro Beach 4.5 km"\nwhatsNearby:\n  - "Kuzum Baba 1.5 km"\n  - "Independence Square 1.8 km"\n  - "Scooby Doo Vlore 2.2 km"\nbookingURL: "https://www.booking.com/hotel/al/gold-riviera-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment doesn't just offer a place to stay; it provides a home away from home. Guests are treated to a spacious layout that includes two bedrooms, a living room, and a balcony boasting city views. The inclusion of a fully equipped kitchen, complete with an oven and fridge, allows for the easy preparation of meals, adding a touch of home comfort to the travel experience. Entertainment and connectivity are ensured with free WiFi and a flat-screen TV, making it easy to unwind after a day of exploration.
 
-This apartment doesn't just offer a place to stay; it provides a home away from home. Guests are treated to a spacious layout that includes two bedrooms, a living room, and a balcony boasting city views. The inclusion of a fully equipped kitchen, complete with an oven and fridge, allows for the easy preparation of meals, adding a touch of home comfort to the travel experience. Entertainment and connectivity are ensured with free WiFi and a flat-screen TV, making it easy to unwind after a day of exploration.
-
-For those concerned with convenience, Gold Riviera Apartment excels. Complimentary on-site parking removes the hassle of finding a spot for your vehicle, while the property's non-smoking and soundproof rooms promise a peaceful and healthy stay.
+For those concerned with convenience, Gold Riviera Apartment excels. Complimentary on-site parking removes the hassle of finding a spot for your vehicle, while the property's non-smoking and soundproof rooms promise a peaceful and healthy stay. 
 
 Situated just 2 km from Independence Square and a mere 2.5 km from the historic Kuzum Baba, guests have the cultural tapestry of Vlorë at their fingertips. Moreover, with Tirana International Mother Teresa Airport 150 km away, the apartment serves as a strategic base for both local and international travelers.
 
 Gold Riviera Apartment stands out for its blend of comfort, convenience, and location, making it an attractive option for those looking to experience Vlorë in a more intimate and personal way.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

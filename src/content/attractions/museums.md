@@ -7,6 +7,10 @@ featuredImage: ""
 images: []
 language: en
 slug: museums
+seo:
+  metaTitle: "Explore Albania's Diverse Museums and Cultural Legacy"
+  metaDescription: "Albania's museums highlight the country's ancient Illyrian and medieval history along with its socialist realist art and culture, featuring unique collections."
+  focusKeyword: "museums"
 ---
 
 Archaeology Museums
@@ -799,10 +803,3 @@ Founded by an Albanian diplomat, this museum houses a rich collection of Asian a
 
 **Location**: Korçë, Albania
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

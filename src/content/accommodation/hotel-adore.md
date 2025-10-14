@@ -1,30 +1,8 @@
----
-title: Hotel Adore
-description: Upon arrival, visitors are greeted by a dedicated 24-hour front desk team, ready to cater to guests' needs around the clock in this entirely non-smoking propert
-featuredImage: "/images/accommodation/477890186.jpg"
-language: en
-slug: hotel-adore
-location: ""
-amenities: []
-images: []
----
-
-Upon arrival, visitors are greeted by a dedicated 24-hour front desk team, ready to cater to guests' needs around the clock in this entirely non-smoking property. Situated less than a kilometer from the serene Ri Beach and a brief drive from the picturesque Vjetër Beach, Hotel Adore serves as an ideal base for beach enthusiasts and explorers alike.
+---\ntitle: "Hotel Adore"\ndescription: "Hotel Adore stands out as a prime choice for travelers seeking comfort and convenience in Vlorë, located just a stone's throw away from the pristine Vlore Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477890186.jpg?k=96545f4deaa3374e97d0374f46860e27fb4b1c3a87644bc8147dd6833bb604f7&o=&hp=1"\nlanguage: en\nslug: hotel-adore\naddress: "Rruga Rrushit Gurishova, 9403 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.44228176\n  lng: 19.49573084\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 12\nratings:\n  overall: 9.4\n  location: 9.4\n  cleanliness: 10\n  facilities: 8.5\n  value: 9\n  comfort: 9.2\n  staff: 10\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477890186.jpg?k=96545f4deaa3374e97d0374f46860e27fb4b1c3a87644bc8147dd6833bb604f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477890804.jpg?k=727d6fa63e46996bed6f87e207f04da25ffb2894219b0845e9a4192d2ff7aed2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477890544.jpg?k=fc65e419f0a28185aed28b64454777e11ee3fbcce63447ae4026d9790268b39f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477890402.jpg?k=8c28ed32f400ddb3bcce0853bae8d03ae334f8c1a0e07c3e637c17900ea36659&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477890716.jpg?k=3f24b12e4a32c024a213e013c9a65ad2ff3aba0a7fcf3468dc6f61d60cd43d19&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477890363.jpg?k=c823d5a08897576d3aa988793da77dbf7d67a2e2b856fe19cc244431ff04e1ed&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Tea/coffee maker in all rooms"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Sea View"\n  - "Double Room"\n  - "King Room with Sea View"\n  - "Family Room with Side Sea View"\nnearbyRestaurants:\n  - "The Wave 20 m"\n  - "Hannover 20 m"\nnearbyBeaches:\n  - "Vlore Beach 50 m"\n  - "Ri Beach 750 m"\n  - "Vjetër Beach 1.6 km"\n  - "Beach at Government Villas 2.6 km"\n  - "Liro Beach 3.3 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 650 m"\n  - "Kuzum Baba 2.8 km"\n  - "Independence Square 3.2 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Ingrid"\n    country: "Germany"\n    text: "“Mit viel Geschmack eingerichtete Zimmer, vollkommen neu und sehr sauber! Frühstück außerordentlich, Eigentümer und Personal wirklich zuvorkommend!”"\n  - name: "Fabio"\n    country: "Italy"\n    text: "“la posizione fronte mare.
+lo staff molto disponibile.”"\n  - name: "Tikio"\n    country: "Spain"\n    text: "“Hubiese puntuado con un 10 si hubiese tenido algunos servicios que por ser nuevo todavía no funcionaban, trato del personal encantador, y con ganas de ayudar”"\nbookingURL: "https://www.booking.com/hotel/al/adore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nUpon arrival, visitors are greeted by a dedicated 24-hour front desk team, ready to cater to guests' needs around the clock in this entirely non-smoking property. Situated less than a kilometer from the serene Ri Beach and a brief drive from the picturesque Vjetër Beach, Hotel Adore serves as an ideal base for beach enthusiasts and explorers alike.
 
 Accommodations at Hotel Adore are thoughtfully designed with guest comfort in mind. Each air-conditioned room is equipped with modern amenities such as a desk, a safety deposit box, a flat-screen TV, and a private bathroom featuring a bidet. The inclusion of a wardrobe in every room adds an extra layer of convenience for travelers.
 
 For those looking to venture further, the historic Kuzum Baba is merely 3.3 km away, offering a glimpse into the local heritage. Despite its tranquil location, the hotel remains easily accessible, with Tirana International Mother Teresa Airport located 152 km away, making it a suitable option for both domestic and international visitors.
 
 Hotel Adore emerges as a distinguished choice for those in pursuit of a relaxing stay in Vlorë, marked by its strategic location, comprehensive amenities, and unwavering commitment to guest satisfaction.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

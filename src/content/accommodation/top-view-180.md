@@ -1,26 +1,3 @@
----
-title: Top view 180°
-description: Guests can enjoy the modern comforts of home, including complimentary WiFi, a flat-screen TV, and a washing machine. The kitchen is fully equipped, complete wit
-featuredImage: "/images/accommodation/c84a361d670170a23bc2e937798fc23520f61c43.png"
-language: en
-slug: top-view-180
-location: ""
-amenities: []
-images: []
----
-
-Guests can enjoy the modern comforts of home, including complimentary WiFi, a flat-screen TV, and a washing machine. The kitchen is fully equipped, complete with a minibar, catering to those who prefer to prepare their own meals or enjoy a cold beverage. Importantly, the space maintains a non-smoking policy, ensuring a clean and fresh environment for all guests.
+---\ntitle: "Top view 180°"\ndescription: "Top View 180° emerges as a premier choice for travelers seeking a blend of comfort and convenience in Shkodër."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"\nlanguage: en\nslug: top-view-180\naddress: "Rruga Edith Durham, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.06278947\n  lng: 19.51539328\nprice: "US$39"\npriceFrom: 39\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509854172.jpg?k=9c60b911ae48b41b727b694574703851ae7c1a0590eb4b4b99e9560fad286fda&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/509854233.jpg?k=ede625e8776df45870c4c30eef125d9db5abc2f9ddd927456cb5785cab139383&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/509854236.jpg?k=401c92320cd97380faeaed7449a91134998d20c26f0d78dfb485c9af38d3b679&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/509854241.jpg?k=fe3d02bde89330e4dc9085a537f84f1486a44867e2b3be37144f8f835f2ba2ec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/509854250.jpg?k=0631c3e1819efd8ab7c629873e67cdb95a83466cb05f815c7bb7c86d571e4ed7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/509854260.jpg?k=7ddac5dfc3f30eb57160f3f1577f43de0c5ee77de21325373f2682c6903e6624&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/509854265.jpg?k=bd8a2ab59507ecef6bda04fa201331b34da744c704a82b0868635ba316042f22&o=&hp=1"\namenities:\n  - "Private parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Dejani 20 m"\n  - "Sweet 100 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 2.6 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 72 km"\n  - "Tivat Airport 74 km"\nreviews:\n  - name: "Klaudio"\n    country: "Albania"\n    text: "“The apartment was built in a very nice building The rooms were very clean and the kitchen was very clean as well Everything was nice”"\nbookingURL: "https://www.booking.com/hotel/al/top-view-180deg.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nGuests can enjoy the modern comforts of home, including complimentary WiFi, a flat-screen TV, and a washing machine. The kitchen is fully equipped, complete with a minibar, catering to those who prefer to prepare their own meals or enjoy a cold beverage. Importantly, the space maintains a non-smoking policy, ensuring a clean and fresh environment for all guests.
 
 Situated 48 km from the Port of Bar and 58 km from Podgorica Airport, Top View 180° offers a strategic location for explorers looking to venture into the city or beyond. Whether it's the convenience of nearby transportation options or the serene setting, this apartment is a standout choice for those visiting Shkodër.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,15 +1,4 @@
----
-title: Lej & Laj Residence
-description: Guests are welcomed into a world of modern amenities and homely comfort. Each apartment is a testament to thoughtful design, featuring air-conditioned rooms tha
-featuredImage: "/images/accommodation/360492670.jpg"
-language: en
-slug: lej-laj-residence
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into a world of modern amenities and homely comfort. Each apartment is a testament to thoughtful design, featuring air-conditioned rooms that serve as cool havens during warm days. The provision of free private parking and complimentary WiFi ensures that guests enjoy a hassle-free stay from the moment they arrive.
+---\ntitle: "Lej & Laj Residence"\ndescription: "Lej & Laj Residence emerges as a serene retreat just a stone's throw away from the pristine shores of Lalëz Bay Beach, offering guests a unique blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360492670.jpg?k=6fc94fa4510933c47eb7260fb7d7c9670a8da3e0a3db01992168ba1d1c9aaf13&o=&hp=1"\nlanguage: en\nslug: lej-laj-residence\naddress: "Hamallaj, 2001 Hamallaj, Albania"\ncity: "Hamallaj"\nlocation: "Hamallaj"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.48321813\n  lng: 19.51971106\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 21\nratings:\n  overall: 9.5\n  location: 8.9\n  cleanliness: 9.6\n  facilities: 9.6\n  value: 9.3\n  comfort: 9.5\n  staff: 9.4\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360492670.jpg?k=6fc94fa4510933c47eb7260fb7d7c9670a8da3e0a3db01992168ba1d1c9aaf13&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360492463.jpg?k=324756f7d2db970dced3772d4fb2f1bfb07849b80a3d76507661e73792893ab8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360493029.jpg?k=ceff9638da2e0bd51088bd567f80932a74d1dea814e8026b83d5564bf06ea37d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360492395.jpg?k=58cb9e70ad8b89f20a793dd0f4dc62e1a5abb0ee99d92fe3563881bd2f601601&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360492472.jpg?k=618bde2156263839587bc683a5f6ccf84a8a967d3c88d5a3d503053088b18136&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360493057.jpg?k=be375b4b4c1c61481aea38b7914ea21c37afd83de28796547c47053fb2fd9a38&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360492455.jpg?k=dedd93c609077384636540a745997e611bb4f1a64ae9d0db8dac4f0c2662d3e2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360493025.jpg?k=5e751dc2e1ef79f94134f39aeb288f5a640680b047498692b796a8ed132f379c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363285815.jpg?k=b487edb73d2f30a5096298f0ee967f3fabb70f5dae7fa4d4d366c96c4dfc5a63&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Bedouin 1.4 km"\n  - "Oasis Bar 2.5 km"\nnearbyBeaches:\n  - "Lalëz Bay Beach 850 m"\nwhatsNearby:\n  - "Bekimi 18 km"\n  - "Sotir Noka 19 km"\n  - "Sheshi Demokracia 19 km"\n  - "Yje Dhe Hena 20 km"\n  - "Wine Dhe Pooh 20 km"\n  - "Durres Amphiteatre 20 km"\nairports:\n  - "Tirana International Airport Mother Teresa 17 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Daniela"\n    country: "United Kingdom"\n    text: "“Exceptionally well decorated and designed. We’ll equipped kitchen and very comfortable bed.”"\n  - name: "Adea"\n    country: "Kosovo"\n    text: "“very stylish and great for a group of people. very spacious balcony and beautiful garden. I definitely recommend this place”"\n  - name: "..joerg.."\n    country: "Netherlands"\n    text: "“Super clean and well designed apartments with all amenities. Easy parking, super friendly and helpful hosts. This was the best stay we’ve had in Albania.”"\nbookingURL: "https://www.booking.com/hotel/al/lej-amp-laj-residence-hamallaj12.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into a world of modern amenities and homely comfort. Each apartment is a testament to thoughtful design, featuring air-conditioned rooms that serve as cool havens during warm days. The provision of free private parking and complimentary WiFi ensures that guests enjoy a hassle-free stay from the moment they arrive.
 
 The living spaces at Lej & Laj Residence are designed to be your home away from home. With a terrace that offers picturesque garden views, a cozy seating area, and a flat-screen TV, relaxation is guaranteed. The fully equipped kitchen, complete with a dishwasher, oven, toaster, fridge, stovetop, and coffee machine, invites guests to prepare their meals just the way they like. The attention to detail extends to the private bathrooms, equipped with bidets and slippers, ensuring a comfortable and luxurious stay. Moreover, each unit is thoughtfully provided with bed linen and towels, adding to the convenience.
 
@@ -18,15 +7,3 @@ For those who love the outdoors, the apartment complex features a picnic area, p
 Situated 41 km from the historic Skanderbeg Square and 45 km from the Dajti Ekspres Cable Car, Lej & Laj Residence offers an excellent base for exploring the local attractions. The proximity to Tirana International Mother Teresa Airport, just 32 km away, adds to the appeal for international travelers.
 
 Lej & Laj Residence is more than just a place to stay; it's a gateway to experiencing the beauty and culture of the area, making it a top choice for discerning travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

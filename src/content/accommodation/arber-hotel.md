@@ -1,34 +1,7 @@
----
-title: Arber Hotel
-description: Each air-conditioned room is a blend of sophistication and functionality, equipped with an LCD cable TV to ensure guests stay entertained and connected. The tho
-featuredImage: "/images/accommodation/466280374.jpg"
-language: en
-slug: arber-hotel
-location: ""
-amenities: []
-images: []
----
-
-Each air-conditioned room is a blend of sophistication and functionality, equipped with an LCD cable TV to ensure guests stay entertained and connected. The thoughtful addition of a minibar in every room adds a touch of luxury, making your stay even more enjoyable.
+---\ntitle: "Arber Hotel"\ndescription: "Discover the charm of Tirana with a stay at the Arber Hotel, a gem located just a stone's throw away from the bustling Skanderbeg Square."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466280374.jpg?k=0aa4a7462c5e51b5e4f92844203d67192d5620cca4c5793fe92c2202b63460c9&o=&hp=1"\nlanguage: en\nslug: arber-hotel\naddress: "rr. Bardhok Biba, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.33120153\n  lng: 19.81903553\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 835\nratings:\n  overall: 8.8\n  location: 9.5\n  cleanliness: 8.8\n  facilities: 8.3\n  value: 8.6\n  comfort: 8.7\n  staff: 9.3\n  wifi: 8.7\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466280374.jpg?k=0aa4a7462c5e51b5e4f92844203d67192d5620cca4c5793fe92c2202b63460c9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466278793.jpg?k=40708d9b9107d2b6c3bbc02a78abada22b6ad471c7d98665fad12702b879a618&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/13393579.jpg?k=2fa500a84cda0621efb45e709d36673291caeb109c5c04534b9f1620197d018a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466280403.jpg?k=3b1a562c88c7b59415d2453fd97fa212f8b2536f1422cb053a1b0682afd9623b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173037194.jpg?k=9f5d8c207e047cfa14ff06f2a2956a1d37965ab25446ed2bce3667382f591d2a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/127271585.jpg?k=7d3ccfbf19c417395aae4d0c90ea5886394bef1bcdaa65796b801a7a04f89342&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Restaurant"\n  - "24-hour front desk"\n  - "Bar"\n  - "Good breakfast"\nroomTypes:\n  - "Single Room"\n  - "Double Room"\n  - "Twin Room"\nnearbyAttractions:\n  - "Rinia Park 700 m"\n  - "Tanners' Bridge 800 m"\n  - "Former Residence of Enver Hoxha 1.1 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 4.1 km"\nnearbyRestaurants:\n  - "Taverna Dajkua 20 m"\n  - "Bar Grill Dea 50 m"\nwhatsNearby:\n  - "National Museum of History Albania 250 m"\n  - "Amazing Nature 250 m"\n  - "Sheshi Skënderbej 300 m"\n  - "Sheshi Sulejman Pasha 350 m"\n  - "Skanderbeg Square 400 m"\n  - "Clock Tower Tirana 400 m"\n  - "Sheshi Paris 400 m"\n  - "Parku Europa 400 m"\n  - "House of Leaves 550 m"\n  - "National Gallery of Arts Tirana 550 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Daniela"\n    country: "Greece"\n    text: "“Amazing hotel in the center of tirana with such a kind staff”"\n  - name: "Eylül"\n    country: "Turkey"\n    text: "“The staff is so kind and helpfully. Breakfast was eneough and delicious. Beds are so comfortable. It located at the city center and close to all places worth seeing.”"\n  - name: "Udeh"\n    country: "United Kingdom"\n    text: "“This is home away from home. My daughter wanted us to stay forever. The staff are so professional and courteous. Right from the two front desk officers to the guy at the dining room upto the janitors. Their services, room and facilities is...”"\nbookingURL: "https://www.booking.com/hotel/al/arber.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach air-conditioned room is a blend of sophistication and functionality, equipped with an LCD cable TV to ensure guests stay entertained and connected. The thoughtful addition of a minibar in every room adds a touch of luxury, making your stay even more enjoyable.
 
 Attention to detail is evident in the private bathrooms, which are outfitted with a shower, hairdryer, and complimentary toiletries, ensuring a seamless and comfortable experience for all guests.
 
 For those looking to explore beyond the city's confines, the Arber Hotel serves as an ideal base. Located merely 500 meters from Tirana's main bus and train stations, guests have easy access to the wider region. The historic town of Krujë and the coastal city of Durrës, both within a 35 km radius, are perfect for day trips, offering a glimpse into Albania's rich history and stunning landscapes.
 
 In summary, the Arber Hotel stands out as a prime choice for travelers who value both the vibrancy of city life and the serenity of a comfortable retreat.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

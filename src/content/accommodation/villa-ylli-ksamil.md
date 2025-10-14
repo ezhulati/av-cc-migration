@@ -1,28 +1,6 @@
----
-title: Villa Ylli Ksamil
-description: Guests at Villa Ylli Ksamil are treated to the luxury of free private parking, a boon for those arriving by car. The accommodations, enveloped in tranquility, a
-featuredImage: "/images/accommodation/478115298.jpg"
-language: en
-slug: villa-ylli-ksamil
-location: ""
-amenities: []
-images: []
----
-
-Guests at Villa Ylli Ksamil are treated to the luxury of free private parking, a boon for those arriving by car. The accommodations, enveloped in tranquility, are air-conditioned, ensuring a restful escape from the day's heat. Each unit boasts a private bathroom, complemented by the added convenience of complimentary WiFi access. For those desiring a little extra, select rooms offer the pleasure of a balcony, inviting guests to unwind with a view.
+---\ntitle: "Villa Ylli Ksamil"\ndescription: "Villa Ylli Ksamil emerges as a serene retreat for travelers seeking both comfort and convenience in the heart of Ksamil."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478115298.jpg?k=42a884bc09e2e20f76e3e64b45d402f92d760bff258aa4f44685641f22103223&o=&hp=1"\nlanguage: en\nslug: villa-ylli-ksamil\naddress: "Rruga Ali Pashe Tepelenë, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "villa"\ncoordinates:\n  lat: 39.77158097\n  lng: 20.01083331\nprice: "US$59"\npriceFrom: 59\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 9.6\n  location: 8.8\n  cleanliness: 10\n  facilities: 10\n  value: 8.8\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478115298.jpg?k=42a884bc09e2e20f76e3e64b45d402f92d760bff258aa4f44685641f22103223&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483911792.jpg?k=bb088cd6f0c885f293f06a1de637300955ee7d7ca15534e1c0ae942394703b9a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484553391.jpg?k=ae564140db632637b42b38f84882b678b82433e9407739cd448b09c7d3830c79&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478115363.jpg?k=4d793f19a5eb40a32c816686e917b98ad0756fb608d1c3294cb2861ae23bd6bd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484553570.jpg?k=1466c3a45b8f2d872018f25a37d95eba9a332618f50ee872d63c4a9be9cedf1d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478115379.jpg?k=91a02f98f3b0cc4d495a721917a43e61bd5406a10b51b617bab5ae7468b343ac&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Double Room"\nnearbyAttractions:\n  - "Museum of Banknotes 18 km"\n  - "New Fortress 18 km"\n  - "Serbian Museum 18 km"\n  - "Theotoki G. Square 18 km"\n  - "Archaeological Museum 19 km"\n  - "Ntougkla Square 19 km"\n  - "Trion Martiron Park 19 km"\n  - "Mon Repos Palace 20 km"\nnearbyRestaurants:\n  - "Fe & Fa 50 m"\n  - "Restaraunt Aleksander 300 m"\nnearbyBeaches:\n  - "Ksamil Beach 750 m"\n  - "Sunset Beach 900 m"\n  - "Coco Beach 950 m"\n  - "Bora Bora Beach 1.1 km"\n  - "Ksamil Beach 7 1.1 km"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 850 m"\n  - "Butrint National Park 2.1 km"\n  - "Plazhi I Krorezes 3.3 km"\n  - "Parc National de Butrint 10 km"\n  - "Byzantine Museum 18 km"\n  - "Public Garden 18 km"\n  - "Solomos Museum 18 km"\n  - "Asian Art Museum 18 km"\n  - "Old Fortress 18 km"\nairports:\n  - "Corfu International Airport 20 km"\n  - "Ioannina Airport 69 km"\nreviews:\n  - name: "Alla"\n    country: "Poland"\n    text: "“All
+Very kind and helpful owners. They help us at any question. Apartment is 15 min walk from beach. Perfect place to stay if you want to bee close everywhere but want sleep good without disturbing by music from outside. In 50 m is cafe with nice...”"\n  - name: "Domenico"\n    country: "Italy"\n    text: "“Posizione strategica se vuoi viverti la città senza il caos della movida. Posto auto sempre disponibile e vi assicuro che nn è poco a ksamil!”"\nbookingURL: "https://www.booking.com/hotel/al/vila-ylli-ksamil.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Villa Ylli Ksamil are treated to the luxury of free private parking, a boon for those arriving by car. The accommodations, enveloped in tranquility, are air-conditioned, ensuring a restful escape from the day's heat. Each unit boasts a private bathroom, complemented by the added convenience of complimentary WiFi access. For those desiring a little extra, select rooms offer the pleasure of a balcony, inviting guests to unwind with a view.
 
 The guest house's proximity to Butrint National Park, just 3.4 km away, positions it perfectly for guests eager to explore the rich tapestry of history and nature the area offers. Furthermore, for travelers venturing from afar, the Corfu International Airport is located 93 km away, making Villa Ylli Ksamil a practical choice for international visitors.
 
 In essence, Villa Ylli Ksamil stands out as a welcoming haven, offering a blend of accessibility to local attractions and the comforts of modern amenities, all set within the picturesque landscape of Ksamil.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

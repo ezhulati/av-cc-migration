@@ -4,9 +4,16 @@ description: The highlight of Aneta's Beach House is undoubtedly its spacious ap
 featuredImage: "/images/accommodation/259147544.jpg"
 language: en
 slug: anetas-beach-house
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "Spa"
+  - "Kitchen"
+  - "TV"
 ---
 
 The highlight of Aneta's Beach House is undoubtedly its spacious apartment. Designed to cater to the needs of modern travelers, the apartment features two well-appointed bedrooms, a cozy living room equipped with a flat-screen TV for entertainment, and an equipped kitchen complete with a dishwasher and an oven. The inclusion of a hot tub in the bathroom adds a touch of luxury, ensuring guests can unwind in style. For convenience, towels and bed linen are readily available in the apartment. Additionally, the accommodation prides itself on offering added privacy and tranquility through a private entrance and soundproofing.
@@ -17,14 +24,3 @@ Situated not only close to Liro Beach but also a short distance from the Beach a
 
 Aneta's Beach House is more than just a place to stay; it's a destination that promises a memorable experience for those seeking a blend of comfort, privacy, and scenic beauty in Vlorë.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

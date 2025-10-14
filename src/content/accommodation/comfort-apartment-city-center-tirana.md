@@ -1,15 +1,4 @@
----
-title: COMFORT APARTMENT City Center Tirana
-description: Positioned at a comfortable distance of 5.5 km from the Dajti Ekspres Cable Car, the apartment is an ideal base for those looking to experience the scenic beaut
-featuredImage: "/images/accommodation/526500704.jpg"
-language: en
-slug: comfort-apartment-city-center-tirana
-location: ""
-amenities: []
-images: []
----
-
-Positioned at a comfortable distance of 5.5 km from the Dajti Ekspres Cable Car, the apartment is an ideal base for those looking to experience the scenic beauty of the surrounding landscape from a bird's eye view. Accessibility is further enhanced by the inclusion of a lift, ensuring that all guests, regardless of mobility, can enjoy their stay without hindrance.
+---\ntitle: "COMFORT APARTMENT City Center Tirana"\ndescription: "COMFORT APARTMENT City Center Tirana emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526500704.jpg?k=b43161472e97a00d16194ae2254741065bf80bdac995c264dea792287792e7c2&o=&hp=1"\nlanguage: en\nslug: comfort-apartment-city-center-tirana\naddress: "Rruga Haxhi Hysen Dalliu, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33337614\n  lng: 19.81164782\nprice: "US$46"\npriceFrom: 46\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 4\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526500704.jpg?k=b43161472e97a00d16194ae2254741065bf80bdac995c264dea792287792e7c2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526500722.jpg?k=7f0d2ab5e87de11e7ec2fc3a8209d7c01d9705e73f1f9ad5714533ea7a4a674c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526506742.jpg?k=b5eb9e290206aaa866e0b5ad323b05b0fec2c2bff93d9d4ae70babc97d806bd0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526500736.jpg?k=2b0c62902b7f6e667d5246a1eb4403a6f1323cab6d0a596723a6148d5758e821&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526500750.jpg?k=e74cf436c875e5ff970165a8133f16a509a9d664ffaa99fb69390626a5b8340f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526507093.jpg?k=26816aede1bc32d8210cbf318ddd373dc60fb7022bbe70a3cc9da5958c5645d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526500742.jpg?k=0bfe068c74bae3280771c79cfae2dad386d6f6bf13a5c127fd50f27c4c4903db&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526506622.jpg?k=67c4d821131db8c716a1f6f229c0d3ad61232ab4d0f6b69ce3a1250a582eef77&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526500780.jpg?k=3e99b41b0e6223cae2dbb1f75eee3d943555668dbeeb42a36de332364236630e&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 1.1 km"\n  - "Rinia Park 1.1 km"\n  - "Tanners' Bridge 1.4 km"\n  - "Former Residence of Enver Hoxha 1.5 km"\n  - "Grand Park of Tirana 2.6 km"\n  - "Bunk'Art 1 Museum 4.5 km"\nnearbyRestaurants:\n  - "Kantina Binjaket Winery Binjaket 50 m"\n  - "Bon Appetit 150 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Mine Peza 350 m"\n  - "Sheshi Paris 500 m"\n  - "Sheshi Rekreativ Don Bosko 550 m"\n  - "Amazing Nature 650 m"\n  - "National Museum of History Albania 650 m"\n  - "Sheshi Skënderbej 750 m"\n  - "House of Leaves 850 m"\n  - "Skanderbeg Square 900 m"\n  - "Parku Europa 900 m"\n  - "Clock Tower Tirana 900 m"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 80 km"\nreviews:\n  - name: "Illenia"\n    country: "Greece"\n    text: "“Super new apartment, located in the heart of Tirana. You can enjoy the beautiful balcony.It was equipped with everything.The host was so helpful.Super reccomend this place!!”"\n  - name: "Ben"\n    country: "Albania"\n    text: "“The host was very kind, apartment was new and cozy with a beautiful balcony! Bed so comfortable and great area!”"\nbookingURL: "https://www.booking.com/hotel/al/evi-apartment-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nPositioned at a comfortable distance of 5.5 km from the Dajti Ekspres Cable Car, the apartment is an ideal base for those looking to experience the scenic beauty of the surrounding landscape from a bird's eye view. Accessibility is further enhanced by the inclusion of a lift, ensuring that all guests, regardless of mobility, can enjoy their stay without hindrance.
 
 The apartment itself is a testament to modern living, boasting air conditioning for those warm Albanian days, a flat-screen TV for entertainment, and a dining area perfect for enjoying a meal prepared in the fully equipped kitchen. The presence of an oven, alongside a comprehensive selection of kitchenware, invites guests to experiment with local ingredients or simply enjoy the comforts of home-cooked meals. The living room, with its cozy furnishings, serves as the heart of the apartment, inviting guests to unwind after a day of exploration.
 
@@ -20,19 +9,3 @@ The apartment's location is unbeatably strategic, placing guests within proximit
 For travelers arriving by air, the Tirana International Mother Teresa Airport is located 13 km away, with the apartment offering a paid shuttle service for a seamless transition to comfort and relaxation.
 
 In summary, COMFORT APARTMENT City Center Tirana stands out as a meticulously designed space that caters to the needs of modern travelers, combining the convenience of city living with the comforts of home, all while offering a gateway to the cultural and historical wonders of Tirana.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

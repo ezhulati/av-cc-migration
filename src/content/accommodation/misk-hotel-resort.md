@@ -1,30 +1,7 @@
----
-title: Misk Hotel & Resort
-description: Morning risers are greeted with a choice of breakfast options, ranging from a hearty buffet to à la carte and continental selections, ensuring a delightful star
-featuredImage: "/images/accommodation/493246001.jpg"
-language: en
-slug: misk-hotel-resort
-location: ""
-amenities: []
-images: []
----
-
-Morning risers are greeted with a choice of breakfast options, ranging from a hearty buffet to à la carte and continental selections, ensuring a delightful start to the day. The on-site restaurant is a culinary haven, offering an array of dishes that span Mediterranean flavors, classic pizza, and authentic Turkish cuisine, with vegetarian, dairy-free, and halal preferences thoughtfully catered to.
+---\ntitle: "Misk Hotel & Resort"\ndescription: "Misk Hotel & Resort emerges as a distinguished destination for travelers seeking a blend of luxury and convenience in Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493246001.jpg?k=f0affd62f11f530a143cc3579ec134d9bf319857fe74df4cce5282c521929932&o=&hp=1"\nlanguage: en\nslug: misk-hotel-resort\naddress: "Autostrada Tiranë - Elbasan, 1000 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "resort"\ncoordinates:\n  lat: 41.27922661\n  lng: 19.85451807\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 7.3\nratingWords: "Good"\nnumberOfReviews: 184\nratings:\n  overall: 7.3\n  location: 7\n  cleanliness: 6.9\n  facilities: 7\n  value: 7.7\n  comfort: 7\n  staff: 8.4\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493246001.jpg?k=f0affd62f11f530a143cc3579ec134d9bf319857fe74df4cce5282c521929932&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469339481.jpg?k=737b22ef0ce078e91c479bc70aa96b0a564892a8fdccf864fbf7937c6e843de2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493048680.jpg?k=5d606cf187029796094df8f2d3661651818fe1a971b99253788a4f503cd2ff65&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469339902.jpg?k=ff6e77ebec2f26f8b3a7962f90aa6aaf845523f08edc11a9e61a8465a61db356&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469340943.jpg?k=af611d632556d501efdb8ab0096f273d7a7a6d8c4a8143df77d07f9d0c39d984&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469339904.jpg?k=fae52cb9be22f5df17daf4e7eeb34f47e18242516df774978754a3237b1af2b9&o=&hp=1"\namenities:\n  - "2 swimming pools"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Fitness centre"\n  - "Room service"\n  - "Free parking"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Standard Double Room"\n  - "Standard Twin Room"\n  - "Family Room"\n  - "Basic Triple Room"\n  - "Comfort Quadruple Room"\nnearbyAttractions:\n  - "Tanners' Bridge 6 km"\n  - "Rinia Park 6 km"\n  - "National Gallery of Arts Tirana 6 km"\n  - "Clock Tower Tirana 6 km"\n  - "Skanderbeg Square 6 km"\n  - "House of Leaves 6 km"\n  - "National Museum of History Albania 6 km"\n  - "Bunk'Art 1 Museum 8 km"\nnearbyRestaurants:\n  - "Moncafe-al 100 m"\n  - "KFC 350 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Tika 3.8 km"\n  - "Pylli Orbital 4 km"\n  - "Grand Park of Tirana 4.4 km"\n  - "Parku I Madh 4.6 km"\n  - "Sheshi Rekreativ tek Arena Kombëtare 5 km"\n  - "Parku I Madh I Tiranës (Grand Park) 5 km"\n  - "Shesh Rekreativ 5 km"\n  - "Shesh Rekreativ 5 km"\n  - "Former Residence of Enver Hoxha 6 km"\n  - "Sheshi Rekreativ Piramida 6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 17 km"\n  - "Ohrid Airport 75 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/misk-amp-resort.en-gb.html?aid=8035640"\nbestFor: "Best for Luxury"\nbestCategories: "Luxury"\ncategory: "Luxury"\n---\n\nMorning risers are greeted with a choice of breakfast options, ranging from a hearty buffet to à la carte and continental selections, ensuring a delightful start to the day. The on-site restaurant is a culinary haven, offering an array of dishes that span Mediterranean flavors, classic pizza, and authentic Turkish cuisine, with vegetarian, dairy-free, and halal preferences thoughtfully catered to.
 
 For those who value seamless communication, the hotel's 24-hour front desk is staffed with multilingual professionals fluent in Arabic, German, English, and Russian, ready to assist with any inquiries or needs.
 
 Explorers looking to venture beyond the hotel's comforts will find the Dajti Ekspres Cable Car 11 kilometers away, offering breathtaking views of the area, while the historical Former Residence of Enver Hoxha is a mere 7.4 kilometers from the hotel. For guests traveling by air, Tirana International Mother Teresa Airport is conveniently 16 kilometers away, with the hotel providing a paid shuttle service for a smooth transition to and from the property.
 
 Misk Hotel & Resort stands out as a premier choice for those desiring a stay that combines the essence of Tirana's rich culture with the luxuries of modern hospitality.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

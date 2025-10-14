@@ -1,28 +1,5 @@
----
-title: Guesthouse BellaVista
-description: Each room at BellaVista is designed with privacy and relaxation in mind, featuring a private entrance and its own pool. The attention to detail is evident in th
-featuredImage: "/images/accommodation/136672412.jpg"
-language: en
-slug: guesthouse-bellavista
-location: ""
-amenities: []
-images: []
----
-
-Each room at BellaVista is designed with privacy and relaxation in mind, featuring a private entrance and its own pool. The attention to detail is evident in the provision of a terrace, a cable flat-screen TV, air conditioning, and an outdoor dining area, all aimed at enhancing guests' comfort. Moreover, the inclusion of bed linen and towels in every unit adds a touch of home.
+---\ntitle: "Guesthouse BellaVista"\ndescription: "Guesthouse BellaVista emerges as a serene retreat in Berat, offering guests an exceptional stay with its panoramic mountain views, complimentary WiFi, and the convenience of free private parking."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/136672412.jpg?k=df303242ce3c88d52e328e21f6b4f612409648ebbe5f868ea6a6946738b97ccf&o=&hp=1"\nlanguage: en\nslug: guesthouse-bellavista\naddress: "Rruga Petrit Lulo, 0487 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.70657138\n  lng: 19.9536556\nprice: "US$30"\npriceFrom: 30\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 352\nratings:\n  overall: 9.5\n  location: 9.4\n  cleanliness: 9.6\n  facilities: 9.3\n  value: 9.7\n  comfort: 9.5\n  staff: 9.7\n  wifi: 9.1\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/136672412.jpg?k=df303242ce3c88d52e328e21f6b4f612409648ebbe5f868ea6a6946738b97ccf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464204444.jpg?k=33a661afb97d04d98d4d9a6d9a53eee7c154f0aa42edd7d1a787532c45ddb171&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205476187.jpg?k=5b45026df8a192423970549ba8fc47f3ad92208a1bc8e316557f645c660491cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/241769460.jpg?k=2a1f8193b4c3d7b31fcbb098c688174fd6d2e571184d8e3ff4991773ef986a45&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464204450.jpg?k=fffe9e1d27fccd40227abbe8053be11a5e122febf83f6d79dd1025b3f37f9f7d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470265746.jpg?k=23640f7fa84e043c9ba5103d920278a2194e4ea105a3f0c9cfc38d68b8cc2b8a&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Fast free WiFi (143 Mbps)"\n  - "Family rooms"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Standard Double Room"\n  - "Double Room with Balcony"\n  - "Twin Room with View"\n  - "Quadruple Room with Private Bathroom"\nnearbyRestaurants:\n  - "Hotel Rezidenca Desaret 150 m"\n  - "Street Food Imam Yousuf 200 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 83 km"\nreviews:\n  - name: "Mario"\n    country: "Greece"\n    text: "“Everything was perfect, the view of the old town from the balcony was something else.Highly recommend!”"\n  - name: "Daniel"\n    country: "Germany"\n    text: "“Amazing view, nice and clean room, helpful and kind owners, cute cats, good breakfast”"\n  - name: "Regina"\n    country: "Germany"\n    text: "“Newly renovated, nice and clean room, great view, garden and terrace wirh baby cats, great homemade breakfast and hosts”"\nbookingURL: "https://www.booking.com/hotel/al/rei-amp-ergi.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach room at BellaVista is designed with privacy and relaxation in mind, featuring a private entrance and its own pool. The attention to detail is evident in the provision of a terrace, a cable flat-screen TV, air conditioning, and an outdoor dining area, all aimed at enhancing guests' comfort. Moreover, the inclusion of bed linen and towels in every unit adds a touch of home.
 
 For families, the availability of a baby safety gate underscores BellaVista's commitment to guest safety and peace of mind. The garden offers a tranquil space for relaxation, inviting guests to unwind in a lush, natural setting.
 
 Situated 118 km from Tirana International Mother Teresa Airport, Guesthouse BellaVista presents an accessible escape into the beauty and calm of Berat, making it a top choice for travelers seeking both serenity and convenience.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

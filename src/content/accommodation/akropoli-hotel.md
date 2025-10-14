@@ -1,15 +1,4 @@
----
-title: Akropoli Hotel
-description: "Guests are treated to well-appointed rooms equipped with TVs, pay-per-view channels, and refrigerators for their convenience."
-featuredImage: "/images/accommodation/31314025.jpg"
-language: en
-slug: akropoli-hotel
-location: ""
-amenities: []
-images: []
----
-
-Guests are treated to well-appointed rooms equipped with TVs, pay-per-view channels, and refrigerators for their convenience. The accommodations ensure privacy and comfort, with each featuring a shower, hairdryer, and complimentary toiletries. Select rooms elevate the experience further, boasting balconies that offer breathtaking sea views, allowing guests to soak in the beauty of the Adriatic coast from the comfort of their rooms.
+---\ntitle: "Akropoli Hotel"\ndescription: "Akropoli Hotel, situated a mere 8 kilometers from the vibrant heart of Durrës, presents a perfect blend of traditional Albanian hospitality and modern comforts."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31314025.jpg?k=d01503abb949542b19cb873a0e4a13e8989d4bea22e3d9aaf0ebfc7e6cfca8fb&o=&hp=1"\nlanguage: en\nslug: akropoli-hotel\naddress: "Bulevardi i Pishave, 2001 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.26253418\n  lng: 19.52223703\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 6\nratings:\n  overall: 8.9\n  location: 9.6\n  cleanliness: 8.8\n  facilities: 7.9\n  value: 8.8\n  comfort: 9.2\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31314025.jpg?k=d01503abb949542b19cb873a0e4a13e8989d4bea22e3d9aaf0ebfc7e6cfca8fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31717569.jpg?k=16f750bcfee285b1180775825a9a88d5d9ca8f4c749cfcc1eea9064b8e528920&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31313150.jpg?k=1568254da463cf799b5b056445c26822915084a59b3c3f974f09bbbb04c0108f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31721909.jpg?k=b0113a91e6debb48ab19614980e8433e2458ece7b8817548ad18dcfe9c0b6ec5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31362261.jpg?k=a7e1da333668b8608f7bf32f0b4694c8f4e7c7eaad602f621e477be5c2525302&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31313396.jpg?k=b747e8efa8fdac7fcb59d1ebffb101ad7477c225879b81956abeff929c359442&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Bar"\n  - "Private beach area"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Double Room with Balcony and Sea View"\nnearbyRestaurants:\n  - "Oaz Durres 150 m"\n  - "Sevian Pizza & Snack 300 m"\nnearbyBeaches:\n  - "Golem Beach 200 m"\n  - "Shkëmbi i Kavajës Beach 450 m"\n  - "Mali I Robit Beach 1.6 km"\n  - "Durres Beach 2.8 km"\n  - "Qerret Beach 3.7 km"\nwhatsNearby:\n  - "Bekimi 8 km"\n  - "Durres Amphiteatre 9 km"\n  - "Wine Dhe Pooh 9 km"\n  - "1. Maj 9 km"\n  - "Yje Dhe Hena 9 km"\n  - "Sheshi Demokracia 9 km"\n  - "Sotir Noka 9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nreviews:\n  - name: "Jelena"\n    country: "Hungary"\n    text: "“The location is very good , few minutes walking to the sea, and the shop is just the next door. The owners and all stuff is very helpful and friendly , helped us a lot with transfer, and other requests we had. We had a great view on the sunset sea...”"\n  - name: "Lenir"\n    country: "Italy"\n    text: "“La disponibilità, la pulizia, la gentilezza, il fatto d’essere vicino alla spiaggia, il fatto che parlano italiano ed inglese, il fatto che la conduzione dell’albergo è di famigli, il team di persone che lavorano educati e pronti ad aiutare in...”"\n  - name: "M_koczan_viki"\n    country: "Hungary"\n    text: "“Minden nagyon szuper volt, a medence vize nagyon kellemes, mindennap tisztítják. A reggeli nagyon finom volt. A szoba tiszta volt, a klíma pillanatok alatt lehűtötte a szobát. Konkrétan a szomszédba van a bolt, a part is közel van.”"\nbookingURL: "https://www.booking.com/hotel/al/akropoli.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are treated to well-appointed rooms equipped with TVs, pay-per-view channels, and refrigerators for their convenience. The accommodations ensure privacy and comfort, with each featuring a shower, hairdryer, and complimentary toiletries. Select rooms elevate the experience further, boasting balconies that offer breathtaking sea views, allowing guests to soak in the beauty of the Adriatic coast from the comfort of their rooms.
 
 The hotel is enveloped in a lush garden, creating a serene oasis for guests. Akropoli Hotel doesn't just stop at providing a restful stay; it ensures a holistic experience with its on-site café bar that opens up to a terrace, inviting guests to unwind with a drink in hand. Families will appreciate the children's playground, making it a hit for guests of all ages.
 
@@ -18,15 +7,3 @@ Beyond the confines of the hotel, Akropoli offers an array of services to enhanc
 Convenience is key, with Tirana Airport located 40 kilometers away, and the hotel offering complimentary parking, making it a hassle-free choice for both international travelers and those exploring by car.
 
 Akropoli Hotel stands out as a beacon of comfort, convenience, and adventure, promising an unforgettable stay for all who visit.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

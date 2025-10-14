@@ -1,28 +1,8 @@
----
-title: APARTAMENT RADHIME
-description: "Each apartment at APARTAMENT RADHIME is a haven of comfort, featuring air-conditioned rooms complemented by free private parking and complimentary WiFi."
-featuredImage: "/images/accommodation/482282606.jpg"
-language: en
-slug: apartament-radhime
-location: ""
-amenities: []
-images: []
----
-
-Each apartment at APARTAMENT RADHIME is a haven of comfort, featuring air-conditioned rooms complemented by free private parking and complimentary WiFi. Guests are treated to a home away from home with units that boast terraces with sweeping sea views, flat-screen TVs for entertainment, well-equipped kitchens for those who love to cook, and private bathrooms outfitted with baths, plush bathrobes, and complimentary toiletries. The addition of a desk in each unit makes it an ideal choice for those who might need to attend to work or personal projects during their stay.
+---\ntitle: "APARTAMENT RADHIME"\ndescription: "APARTAMENT RADHIME emerges as a serene retreat, boasting breathtaking mountain vistas and a prime location just a stone's throw away from Al Breeze Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482282606.jpg?k=a08882ff00b06c4581c50e70f6495e22724b9d41fbafbd288c9439df7d07370a&o=&hp=1"\nlanguage: en\nslug: apartament-radhime\naddress: "RADHIME, 9426 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.34278091\n  lng: 19.48768509\nprice: "US$27"\npriceFrom: 27\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 3\nratings:\n  overall: 9.3\n  location: 9.2\n  cleanliness: 9.2\n  facilities: 9.2\n  value: 9.2\n  comfort: 9.2\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482282606.jpg?k=a08882ff00b06c4581c50e70f6495e22724b9d41fbafbd288c9439df7d07370a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525134529.jpg?k=811b68051e0b0b62ca2e40519c81c1cc1f0ce175f2ea59a215ad30c77c03d412&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482282618.jpg?k=60c230f1457c1bf4fcd58c8b1725da2bae2e7b639a2adf58d6d3456ceb4eb50e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525134649.jpg?k=3af44545b7d99dad8a7b448133aa6bf508bd6180638d8cb1f66c7d92386c9984&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482282614.jpg?k=54b6bcbbbe358b66245137202b5024e06b8f3fc8a2b945d2f2d000aa4935701a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482282552.jpg?k=b7431f58b36e61ff964acadd943495674a788d6b005ec2310bea9968525ce604&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Good free WiFi (22 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "Apartment"\n  - "Apartment"\nnearbyRestaurants:\n  - "Freskia 400 m"\n  - "Babale 450 m"\nnearbyBeaches:\n  - "Al Breeze Beach 450 m"\n  - "Baro Beach 550 m"\n  - "Radhimë Beach 1.1 km"\n  - "Nettuno Beach 1.5 km"\n  - "Orikum Beach 3 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 10 km"\n  - "Llogora National Park 14 km"\n  - "Kuzum Baba 14 km"\n  - "Independence Square 14 km"\nairports:\n  - "Corfu International Airport 89 km"\nreviews:\n  - name: "Agron"\n    country: "Albania"\n    text: "“Very friendly hosts. Facilities were okay overall and good value for money. The beach wasn’t quite far.”"\n  - name: "Natali"\n    country: "North Macedonia"\n    text: "“Very friendly hosts, sweet daughter ...
+Exceptional welcome and hostility, helpful and nice people.
+Everything in the facility was as it should be, with cleaning products, kitchen utensils and utilities.
+Amazing view from the terrace, just to...”"\n  - name: "Kristin"\n    country: "Germany"\n    text: "“Die Unterkunft war klein, niedlich und sauber. Für uns, für eine Nacht völlig ausreichend. Die Vermieter waren so lieb und haben uns von ihrer eigenen Ernte etwas vorbei gebracht. Das hat unsere Erwartungen übertroffen. Die Lage war sehr schön und...”"\nbookingURL: "https://www.booking.com/hotel/al/apartament-radhime-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach apartment at APARTAMENT RADHIME is a haven of comfort, featuring air-conditioned rooms complemented by free private parking and complimentary WiFi. Guests are treated to a home away from home with units that boast terraces with sweeping sea views, flat-screen TVs for entertainment, well-equipped kitchens for those who love to cook, and private bathrooms outfitted with baths, plush bathrobes, and complimentary toiletries. The addition of a desk in each unit makes it an ideal choice for those who might need to attend to work or personal projects during their stay.
 
 The property invites guests to unwind in its beautifully maintained garden, offering a perfect spot for relaxation and contemplation. For those looking to explore the local area, Radhimë Beach is just 1.5 km away, offering a sandy escape, while the historical site of Kuzum Baba is 16 km from the property, promising a cultural excursion.
 
 Located 165 km from Tirana International Mother Teresa Airport, APARTAMENT RADHIME serves as an ideal base for both leisure and adventure, providing an unforgettable experience for travelers seeking both relaxation and exploration in this picturesque part of the world.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

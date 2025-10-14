@@ -7,6 +7,11 @@ featuredImage: /images/attractions/ancient-illyrian-tombs-of-selca.jpg
 images: []
 language: en
 slug: ancient-illyrian-tombs-of-selca
+seo:
+  metaTitle: "Discover Selca's Tombs: Albania's Ancient Illyrian Heritage "
+  metaDescription: "Unearth the mysteries of the ancient Illyrian civilization. Visit the intriguing tombs of Selca, a testament to a rich cultural heritage."
+  focusKeyword: "illyrian tombs"
+  robots: "index"
 ---
 
 The Illyrian Tombs’ Cultural Importance
@@ -67,10 +72,3 @@ Explore Selca with us and immerse yourself in the rich history of the Illyrians.
 
 Remember to check out our page on ferry services for an exciting way to visit this remarkable destination. Discover the beauty of Albania with Albania Visit!
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

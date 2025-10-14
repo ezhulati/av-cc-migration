@@ -1,26 +1,3 @@
----
-title: Vila Mihali Himare
-description: Each room at Vila Mihali Himare is thoughtfully designed with guest convenience in mind, boasting air conditioning for those warm Mediterranean nights, a flat-s
-featuredImage: "/images/accommodation/475026390.jpg"
-language: en
-slug: vila-mihali-himare
-location: ""
-amenities: []
-images: []
----
-
-Each room at Vila Mihali Himare is thoughtfully designed with guest convenience in mind, boasting air conditioning for those warm Mediterranean nights, a flat-screen TV for entertainment, and a private bathroom equipped with a shower and complimentary toiletries. The attention to detail extends to the provision of fresh bed linen and towels, ensuring a comfortable stay.
+---\ntitle: "Vila Mihali Himare"\ndescription: "Vila Mihali Himare emerges as a prime choice for travelers seeking comfortable accommodations in Himare, conveniently located less than a kilometer from the serene Maracit Beach and just a short 1."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475026272.jpg?k=916cb511fcd05b96883352b6f54e86b284e25b5da3c1fc707ba77facb251804e&o=&hp=1"\nlanguage: en\nslug: vila-mihali-himare\naddress: "SH8, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.10231491\n  lng: 19.740867\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 9.6\n  location: 8.8\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475026272.jpg?k=916cb511fcd05b96883352b6f54e86b284e25b5da3c1fc707ba77facb251804e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475026420.jpg?k=9a293249f2c56ae9dfdcd4abc135cfd708405f3820db867600573de7b50c93ae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475026390.jpg?k=55fb386fec981135130c0f3cedb9404ffc20e63bb6fb1a4ce706d01259b1cfd9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475026410.jpg?k=ecfbdf71d65e5ad44e0ffd3c42525b140371e8bd49909b393e33f66f43c7b8cd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475026337.jpg?k=c07f46f89118710afeb49f403a1d2df8bafa823314c2a078a02b97aec8a41bd7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475026438.jpg?k=e97b4e57c039c92d5b66366e2c99fc77c8fd17c554cf830919f5e8ab32ce5634&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475026429.jpg?k=2e7e66e480013d2d690b6cb3446ae49d3a643ae65e37c010af1b7fcbdf2559e6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475026396.jpg?k=d6f5735a8df4d8f7174573b8ce1e0d9ae1aad48bf1d5215e1d050b800b1957eb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475026371.jpg?k=5401bf1dad78e8680941aadba5250aa86153cb30374363f44cb27c0eaa667387&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Blue Bay 150 m"\n  - "Copacabana Himare 250 m"\nnearbyBeaches:\n  - "Spille Beach 100 m"\n  - "Maracit Beach 700 m"\n  - "Livadhi Beach 850 m"\n  - "Prinos Beach 950 m"\n  - "Potam Beach 1.3 km"\nwhatsNearby:\n  - "Llogora National Park 16 km"\nairports:\n  - "Corfu International Airport 56 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/vila-mihali-himare.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach room at Vila Mihali Himare is thoughtfully designed with guest convenience in mind, boasting air conditioning for those warm Mediterranean nights, a flat-screen TV for entertainment, and a private bathroom equipped with a shower and complimentary toiletries. The attention to detail extends to the provision of fresh bed linen and towels, ensuring a comfortable stay.
 
 For guests traveling to the area, Ioannina Airport is located 144 km away, making Vila Mihali Himare an accessible destination for both domestic and international travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

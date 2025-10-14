@@ -1,28 +1,5 @@
----
-title: Adriatic City Center Vlora
-description: The apartment itself boasts a generous layout, featuring a bedroom, a flat-screen TV, and a kitchen equipped to cater to every culinary need with an oven, fridg
-featuredImage: "/images/accommodation/379530833.jpg"
-language: en
-slug: adriatic-city-center-vlora
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself boasts a generous layout, featuring a bedroom, a flat-screen TV, and a kitchen equipped to cater to every culinary need with an oven, fridge, washing machine, stovetop, and kitchenware. Designed as a non-smoking haven, it ensures a comfortable stay for all guests.
+---\ntitle: "Adriatic City Center Vlora"\ndescription: "Adriatic City Center Vlora emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379530833.jpg?k=f1c4ee6f078e97ffe760deeba1b981ab69544c01e27092b7d8865bec3b6ba45f&o=&hp=1"\nlanguage: en\nslug: adriatic-city-center-vlora\naddress: "Rruga Cajupi 21 (7), Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45753515\n  lng: 19.48453932\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 4\nratings:\n  overall: 7.5\n  location: 8.1\n  cleanliness: 8.8\n  facilities: 8.1\n  value: 8.1\n  comfort: 7.5\n  staff: 6.9\n  wifi: 5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379530833.jpg?k=f1c4ee6f078e97ffe760deeba1b981ab69544c01e27092b7d8865bec3b6ba45f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450036379.jpg?k=28bbd3a2a4d7a626ef9695e4d14432d505f7272e86809a4da1fd36d014d68158&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379530749.jpg?k=8f2c540af2b3cd8917cf229f3fd22bdf0c10afa81beabb27769e5a1249da4ab1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450036603.jpg?k=55708cac2fcbc98d086d4493fdead7dbc9802c01bf23f97a50adb4f035656a01&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379530447.jpg?k=1b3c889545c48088fde4236cb461fb66241f51515667a7ed85c50a807f3f40ca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379530640.jpg?k=84ca8e4bcabce2feb100ac30d709017208229d9986b24f47d26a8ff5eced9a38&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379530660.jpg?k=81b4b33a54356dffaf547e17bcc85bdd8a06f14fadf9cc32aba608d32fefd647&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379530648.jpg?k=9f8ff8c6ae9a8394bca38d8c134377bec71b96e69a01be1a967c68029db4de9e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379530722.jpg?k=317f24846bc2e439bf3613ce5deb62e184564e686ccdf279fcda3fc3a05198f6&o=&hp=1"\namenities:\n  - "Airport shuttle (free)"\n  - "Non-smoking rooms"\n  - "Parking on site"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "BSB 100 m"\n  - "Colosseo 200 m"\nnearbyBeaches:\n  - "Vjetër Beach 600 m"\n  - "Vlore Beach 1.3 km"\n  - "Ri Beach 2.6 km"\n  - "Beach at Government Villas 4.1 km"\n  - "Liro Beach 4.7 km"\nwhatsNearby:\n  - "Kuzum Baba 1.3 km"\n  - "Independence Square 1.6 km"\n  - "Scooby Doo Vlore 2.5 km"\npaymentMethods:\n  - "Maestro"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/adriatic-city-center-vlora.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself boasts a generous layout, featuring a bedroom, a flat-screen TV, and a kitchen equipped to cater to every culinary need with an oven, fridge, washing machine, stovetop, and kitchenware. Designed as a non-smoking haven, it ensures a comfortable stay for all guests.
 
 For those who prefer the convenience of nearby amenities, a minimarket on the premises offers a variety of essentials. Moreover, Adriatic City Center Vlora positions guests perfectly to immerse themselves in the vibrant local culture and activities. Whether it's cycling along the scenic coast, joining walking tours to uncover Vlorë's hidden gems, or enjoying the lively atmosphere of pub crawls, there's no shortage of experiences to enrich your stay.
 
 Located just 2.5 km from the iconic Kuzum Baba and 150 km from Tirana International Mother Teresa Airport, this accommodation stands out as an ideal base for both relaxation and adventure in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -5,11 +5,17 @@ region: Northern Albania
 featuredImage: /images/destinations/valbona.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: valbona
 highlights: []
+seo:
+  metaTitle: "Discover %title% - Albania's Alpine Wonder %sep% %sitename%"
+  metaDescription: "Discover Valbona, Albania's alpine paradise. Hike stunning trails, explore traditional villages, and experience the untamed beauty of the Albanian Alps.
+
+"
 ---
 
 Why Visit Valbona
@@ -383,10 +389,3 @@ Your Turn To Visit
 
 Valbonë blends untouched nature, welcoming hospitality, and one-of-a-kind experiences. From river swims and starry nights to high-mountain crossings and fresh-plated flija, this valley isn’t just a stop on your trip—it’s a place that stays with you long after you’ve left.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

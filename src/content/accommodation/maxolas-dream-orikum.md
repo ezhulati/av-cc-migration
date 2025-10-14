@@ -4,9 +4,16 @@ description: "The accommodations at Maxola's Dream Orikum are thoughtfully desig
 featuredImage: "/images/accommodation/99799647.jpg"
 language: en
 slug: maxolas-dream-orikum
-location: ''
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "hotel"
+location: "Tirana"
+amenities:
+  - "Air Conditioning"
+  - "Spa"
+  - "24-hour Reception"
 ---
 
 The accommodations at Maxola's Dream Orikum are thoughtfully designed, featuring air conditioning, private bathrooms, and ample wardrobe space, catering to the needs of modern travelers. Those staying at the hotel can immerse themselves in the local area's natural beauty, with hiking and cycling among the popular activities available.
@@ -15,14 +22,3 @@ The hotel prides itself on its multilingual staff, proficient in Greek, English,
 
 In summary, Maxola's Dream Orikum stands out as a top-tier accommodation choice, offering a harmonious blend of leisure and adventure, perfect for those looking to explore the enchanting surroundings of Orikum.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

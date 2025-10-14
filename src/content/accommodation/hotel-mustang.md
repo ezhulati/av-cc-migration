@@ -1,28 +1,9 @@
----
-title: Hotel Mustang
-description: Each of the hotel's sophisticated rooms is outfitted with a flat-screen satellite TV, minibar, and a cozy seating area, ensuring a blend of comfort and convenie
-featuredImage: "/images/accommodation/87276985.jpg"
-language: en
-slug: hotel-mustang
-location: ""
-amenities: []
-images: []
----
-
-Each of the hotel's sophisticated rooms is outfitted with a flat-screen satellite TV, minibar, and a cozy seating area, ensuring a blend of comfort and convenience. The en-suite bathrooms are well-appointed, featuring showers and complimentary toiletries, adding a touch of luxury to every stay.
+---\ntitle: "Hotel Mustang"\ndescription: "Mustang Hotel emerges as a serene oasis, boasting an on-site bar and air-conditioned accommodations equipped with complimentary WiFi, just a short 2."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/87276985.jpg?k=009541423b3e3b4f26ae9dc8010e34a5f16fd1a75b862e86c7a4d56ecc1f9c3f&o=&hp=1"\nlanguage: en\nslug: hotel-mustang\naddress: "Rruga Llazi Miho, Kombinat, Km1, 1000 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.30969445\n  lng: 19.75736825\nprice: "US$54"\npriceFrom: 54\nstarRating: 4\nrating: 8.3\nratingWords: "Very Good"\nnumberOfReviews: 35\nratings:\n  overall: 8.3\n  location: 7.4\n  cleanliness: 8.5\n  facilities: 8\n  value: 8.6\n  comfort: 8.4\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/87276985.jpg?k=009541423b3e3b4f26ae9dc8010e34a5f16fd1a75b862e86c7a4d56ecc1f9c3f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/30062646.jpg?k=2646774ef74aae4e8888c913d363e6d4266bc40bbd4efd12fdaeebe7307a02ea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/68697210.jpg?k=95b5c01863f209e173b5a3e7aa832d1646e07dba1c5d10b4440be8e0f7a6a2dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/89612882.jpg?k=bed84659166d1813fe385e1f1a58810bdb021011e927ac9b9c2e7ceda0448cea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/30062674.jpg?k=e46497b5e70db114263d0e578d113d22ea6340616906cb32ebc4501ef973862f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/30062658.jpg?k=5b6d719d765c178196790aa9ad20c4432b92bcc7fb115236f70a18980bfbdc51&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room"\n  - "Deluxe Room (2 Adults + 1 Child)"\n  - "Twin Room"\nnearbyAttractions:\n  - "Former Residence of Enver Hoxha 5 km"\n  - "House of Leaves 5 km"\n  - "Rinia Park 5 km"\n  - "National Museum of History Albania 6 km"\n  - "Skanderbeg Square 6 km"\n  - "Clock Tower Tirana 6 km"\n  - "National Gallery of Arts Tirana 6 km"\n  - "Grand Park of Tirana 6 km"\n  - "Tanners' Bridge 6 km"\n  - "Bunk'Art 1 Museum 10 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Gianfranco"\n    country: "Italy"\n    text: "“Gentilezza dello staff
+Pulizia
+Stanze ampie
+Parking”"\n  - name: "Sebastian"\n    country: "Germany"\n    text: "“Die Lage war für meine Zwecke verkehrsgünstig gut. Fußläufig gibt es aber außer einer Tankstelle, einem Kiosk, diversen Baustoffhändlern nichts in der direktem Umgebung. Das Hotel und das Zimmer waren sehr sauber und der Personal sehr freundlich....”"\n  - name: "Michel"\n    country: "France"\n    text: "“Nous avions réservé cet hôtel pour notre arrivé à Tirana.
+Bien que placé derrière une station essence, cet établissement et bien situé seulement à une quinzaine de kilomètres de l'aéroport de Tirana et très facile à trouver avec google...”"\nbookingURL: "https://www.booking.com/hotel/al/mustang.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nEach of the hotel's sophisticated rooms is outfitted with a flat-screen satellite TV, minibar, and a cozy seating area, ensuring a blend of comfort and convenience. The en-suite bathrooms are well-appointed, featuring showers and complimentary toiletries, adding a touch of luxury to every stay.
 
 The hotel prides itself on its round-the-clock front desk service, complemented by meticulous cleaning services, ensuring a seamless and worry-free experience for all guests. For those looking to savor local flavors, the bar presents an array of local drinks, promising delightful moments of relaxation.
 
 Strategically located, Mustang Hotel is merely a 10-minute drive from the city's Main Boulevard and the iconic Skanderbeg Square, while the breathtaking Dajti Mountain National Park awaits just 20 minutes away. The bustling city center, a haven for gastronomy enthusiasts and shopping aficionados, is easily accessible, with a convenient bus stop located just 60 meters from the hotel. Furthermore, Tirana International Airport is within a manageable 20 km distance, making Mustang Hotel an ideal choice for both leisure and business travelers seeking a blend of tranquility and accessibility in Albania's capital.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

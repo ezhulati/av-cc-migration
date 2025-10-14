@@ -1,32 +1,3 @@
----
-title: Sunrise Apartment
-description: Proximity to the National Museum of History Albania and the intriguing House of Leaves, both approximately 1.6 km and 1.2 km away respectively, offers guests an
-featuredImage: "/images/accommodation/6e7e77b29bc790bcafeb8c73cb3e002cbee41c2a.png"
-language: en
-slug: sunrise-apartment
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Sunrise Apartment"\ndescription: "Sunrise Apartment emerges as a prime choice for travelers seeking comfort and convenience in Sarandë, boasting air-conditioned accommodations just a stone's throw away from the pristine VIP Beach and the vibrant Flamingo Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525380731.jpg?k=84cc8911c7bf4680b3a07e4d6285606b71797468a5121d1d25267acd72d10782&o=&hp=1"\nlanguage: en\nslug: sunrise-apartment\naddress: "Rruga Butrinti, 9702 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86031376\n  lng: 20.02000432\nprice: "US$42"\npriceFrom: 42\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525380731.jpg?k=84cc8911c7bf4680b3a07e4d6285606b71797468a5121d1d25267acd72d10782&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525380816.jpg?k=04e3a940af0a6d3a6ea9b68621f5c1eb6ac83fa8dcfeb378b4e87d6044737731&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525380736.jpg?k=b6bf591831dd1782bc8015777fad44953682028e776f584a3a8da5cc7cced4bc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525380733.jpg?k=cfb3964fd5d0c1fb347608543161f53ee0f71ee477a96444735fb970eacad0be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525380805.jpg?k=d0939bd3f61553987dd6ea53b3d692ffdea2643bb05edeaa7f879456909b6829&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525384629.jpg?k=726937f3f9e0b408d799d54ead995effd4d8f6ecf4713780aa1f776a772213fc&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "Apartment with Sea View"\nnearbyRestaurants:\n  - "Restorant Pizzeri Roel 20 m"\n  - "Sheqer Pikant 40 m"\nnearbyBeaches:\n  - "VIP Beach 150 m"\n  - "Santa Quaranta Beach 250 m"\n  - "Flamingo Beach 450 m"\n  - "Mango Beach 650 m"\n  - "Maestral Beach 750 m"\nwhatsNearby:\n  - "Parc National de Butrint 450 m"\n  - "Butrint National Park 1.2 km"\n  - "Plazhi I Krorezes 7 km"\n  - "Parku Kombetar I Butrintit 10 km"\n  - "Butrint National Park 11 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 70 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/sunrise-apartment-sarande2.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are treated to breathtaking sea views from private balconies, ensuring a tranquil backdrop for morning coffees or evening reflections. Inside, each unit is equipped with modern amenities including a flat-screen TV, a dining area, and a kitchen that comes complete with an oven, fridge, and all necessary kitchenware, complemented by the convenience of a kettle. The attention to detail extends to the provision of a private bathroom fitted with a hair dryer, alongside complimentary bed linen and towels, enhancing the comfort of each stay.
 
-Proximity to the National Museum of History Albania and the intriguing House of Leaves, both approximately 1.6 km and 1.2 km away respectively, offers guests an insightful glimpse into Albania's past. Moreover, the apartment's location offers the added advantage of being a brief journey from the Rock of Kavaje, a notable landmark 44 km away, promising an escape to nature's wonders.
-
-For those interested in the contemporary side of Tirana, the Sunrise Apartment is conveniently close to the Pyramid of Tirana, Rinia Park, and the artistic installation, Reja - The Cloud, making it easy for guests to immerse themselves in the city's vibrant cultural scene. Accessibility is further enhanced by the proximity to Tirana International Mother Teresa Airport, located just 15 km away, facilitating stress-free arrivals and departures.
-
-This non-smoking property not only stands out for its strategic location but also for its commitment to providing a serene and welcoming environment, making it an ideal base for both leisure and business travelers looking to explore the multifaceted city of Tirana.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}
+Located 48 km from the ancient marvels of Fanoti and with Ioannina Airport 96 km away, Sunrise Apartment not only promises a memorable stay but also ensures ease of access for exploring the wider region. This apartment complex stands out for its blend of modern conveniences and prime location, making it an attractive option for those looking to immerse themselves in the beauty and culture of Sarandë.

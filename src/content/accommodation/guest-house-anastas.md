@@ -1,26 +1,3 @@
----
-title: Guest house Anastas
-description: The apartment boasts a well-appointed bedroom and a bathroom equipped with both a bidet and a bath, ensuring a comfortable stay. Entertainment needs are met wit
-featuredImage: "/images/accommodation/467418188.jpg"
-language: en
-slug: guest-house-anastas
-location: ""
-amenities: []
-images: []
----
-
-The apartment boasts a well-appointed bedroom and a bathroom equipped with both a bidet and a bath, ensuring a comfortable stay. Entertainment needs are met with a flat-screen TV, and for those prioritizing a smoke-free environment, Guest House Anastas meets this requirement effortlessly.
+---\ntitle: "Guest house Anastas"\ndescription: "Guest House Anastas, located in the heart of Berat, offers a unique blend of history and modern amenities, making it a standout choice for travelers seeking both comfort and culture."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467418188.jpg?k=42fef78a39fbee951c58bc0a3c92db91e78b84ba16397b32dab5fa36511418d1&o=&hp=1"\nlanguage: en\nslug: guest-house-anastas\naddress: "Rruga Llambi Guxhumani, Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.70524655\n  lng: 19.95053448\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 16\nratings:\n  overall: 9.7\n  location: 9.8\n  cleanliness: 10\n  facilities: 9.2\n  value: 9.5\n  comfort: 10\n  staff: 9.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467418188.jpg?k=42fef78a39fbee951c58bc0a3c92db91e78b84ba16397b32dab5fa36511418d1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467418268.jpg?k=dcdd2f098b8be4327297eca4ec9565ab0b9b5bb513e82c5031db764132d6cdc3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467418298.jpg?k=e356dec5002492d2d4054e69b935aa7121cef81e54d584b2912d62ce151b8487&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467418283.jpg?k=378536f8c6632ab0dd1c71b0dd982a3c0e6f34df129065956a12bba0c60949f9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467418273.jpg?k=44c796d9e5057c1568fb5ae69d2bca43d6b5838a48aa202add0d160e48f6d21e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467418286.jpg?k=bf93d57f5a57b15a23771931072228d43c069b90d6d7b7d8963e3d7933080f47&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467418271.jpg?k=19155522616914af85eb32c7a367a3647a0463fe4a15d0d0ef254b892678a068&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467418301.jpg?k=879d00e93c8e326b0c0553e4d1f84155bb41b0db14895efbb517cb3d06ee3f92&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467418259.jpg?k=a52f3dc4bc340bdaa725a8b0a8805e1bee4eb0a197e604c174e78a1d39f97c38&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Veranda by Berat 50 m"\n  - "Solidarity Shop Berat 100 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 84 km"\nreviews:\n  - name: "Lorenascs"\n    country: "Ireland"\n    text: "“The place is so beautiful with so much character! I love the old furniture and the stone wall. Everything was sparkling clean, the bed sheets were 300 thread cotton, amazing texture, so comfortable. The host was so lovely and friendly, she even...”"\n  - name: "Luís"\n    country: "Portugal"\n    text: "“Amazing hosts! Beautiful traditional house, everything is super clean and well maintained”"\n  - name: "Hannah"\n    country: "Germany"\n    text: "“The owner was super cute and nice. And that although she could not speak English and we didn't speak Albanian. We still understood everything and she showed us everything. The accommodation is located in the courtyard and is under the owner's...”"\nbookingURL: "https://www.booking.com/hotel/al/guest-house-anastas-berat.en-gb.html?aid=8035640"\nbestFor: "Best for Historical Sites Proximity"\nbestCategories: "Historical Sites Proximity"\ncategory: "Historical Sites Proximity"\n---\n\nThe apartment boasts a well-appointed bedroom and a bathroom equipped with both a bidet and a bath, ensuring a comfortable stay. Entertainment needs are met with a flat-screen TV, and for those prioritizing a smoke-free environment, Guest House Anastas meets this requirement effortlessly.
 
 For guests looking to explore beyond the city of Berat, Tirana International Mother Teresa Airport is conveniently located 117 km away, making travel plans both easy and accessible.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

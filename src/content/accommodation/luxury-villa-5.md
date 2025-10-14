@@ -1,28 +1,5 @@
----
-title: Luxury Villa 5
-description: The villa's interior is thoughtfully designed, featuring a spacious layout that includes two bedrooms, a cozy living room, a fully equipped kitchen for those wh
-featuredImage: "/images/accommodation/485017471.jpg"
-language: en
-slug: luxury-villa-5
-location: ""
-amenities: []
-images: []
----
-
-The villa's interior is thoughtfully designed, featuring a spacious layout that includes two bedrooms, a cozy living room, a fully equipped kitchen for those who enjoy preparing their meals, and two well-appointed bathrooms. Entertainment is readily available with the inclusion of a flat-screen TV, ensuring guests have access to leisure activities within the comfort of their accommodation.
+---\ntitle: "Luxury Villa 5"\ndescription: "Luxury Villa 5 emerges as a premier choice for travelers seeking an exceptional stay in Vlorë, boasting air-conditioned accommodations complete with a private pool, a serene garden view, and an inviting balcony."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485017471.jpg?k=0255d530a130b5d20fcac764cfa832f9283e6cb59c3fe0dd0894946bf33f0f1b&o=&hp=1"\nlanguage: en\nslug: luxury-villa-5\naddress: "Rruga Aleksandër Moisiu, 4900 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.41479684\n  lng: 19.48188029\nprice: "US$242"\npriceFrom: 242\nstarRating: 3\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 6\nratings:\n  overall: 7.5\n  location: 6.5\n  cleanliness: 7.9\n  facilities: 7.1\n  value: 8\n  comfort: 8.5\n  staff: 7.1\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485017471.jpg?k=0255d530a130b5d20fcac764cfa832f9283e6cb59c3fe0dd0894946bf33f0f1b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/485018180.jpg?k=bacd874b861d274e26fe379a5560b84ed9aad1dd5e41ecd49f9691c4f9ef6ff4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/485018084.jpg?k=150f1e332c00ae263e1935043d254a140f86057342f89be037d3270382a3e105&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/485017411.jpg?k=9cfdedf3d9725432c3622c30dddb1b20001d3eee2c501825c18bc4b337ec2fb8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/485018133.jpg?k=882da8308def3778c9e23ec75f864a9aff92e4f229af44d9e11991a60137bd95&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/485018212.jpg?k=54ea5d4252c0f33fcf396a542f1a3d3a0ef38230cfeeddd4dc88698e106cb713&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/485018521.jpg?k=3aafd514bb9b7e95bc66d116d5d664b1a65d2970826b84be586d6106caffb36a&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Family rooms"\n  - "Beachfront"\n  - "Private beach area"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Riviera Blu 40 m"\n  - "Restorant Kalaja 200 m"\nnearbyBeaches:\n  - "Liro Beach 100 m"\n  - "Beach at Government Villas 400 m"\n  - "Coco Bongo Beach 1.2 km"\n  - "Sunny Beach 1.4 km"\n  - "Ri Beach 2 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 2.6 km"\n  - "Kuzum Baba 6 km"\n  - "Independence Square 6 km"\nairports:\n  - "Corfu International Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/luxury-villa-5.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe villa's interior is thoughtfully designed, featuring a spacious layout that includes two bedrooms, a cozy living room, a fully equipped kitchen for those who enjoy preparing their meals, and two well-appointed bathrooms. Entertainment is readily available with the inclusion of a flat-screen TV, ensuring guests have access to leisure activities within the comfort of their accommodation.
 
 For those who appreciate the exclusivity of private beach access, Luxury Villa 5 does not disappoint. The property boasts its own secluded beach area, allowing guests to enjoy the sun and sea away from the crowds. Additionally, the villa is surrounded by lush gardens, offering a tranquil retreat for relaxation and contemplation.
 
 Strategically located, Luxury Villa 5 is just a short distance from other local attractions, including the Beach at Government Villas, merely 1.2 km away, and the vibrant Coco Bongo Beach, located 1.5 km from the property. For international travelers, the convenience of Tirana International Mother Teresa Airport, situated 156 km away, makes Luxury Villa 5 an accessible haven of luxury and comfort on the Albanian coast.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

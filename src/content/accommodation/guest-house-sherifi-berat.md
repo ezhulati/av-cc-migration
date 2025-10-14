@@ -1,28 +1,8 @@
----
-title: Guest House Sherifi Berat
-description: This esteemed guest house offers air-conditioned accommodations, each boasting its balcony for guests to enjoy the scenic surroundings in privacy. Complimentary
-featuredImage: "/images/accommodation/485357689.jpg"
-language: en
-slug: guest-house-sherifi-berat
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Guest House Sherifi Berat"\ndescription: "Guest House Sherifi Berat stands out as a prime choice for travelers seeking a serene retreat with breathtaking mountain views in Berat."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485357689.jpg?k=81767bcb6c22bc49138c8fcf41b33f8ade82cfe75970a8d18efee095473ee8db&o=&hp=1"\nlanguage: en\nslug: guest-house-sherifi-berat\naddress: "Rruga Antipatrea, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.72231285\n  lng: 19.94313245\nprice: "US$26"\npriceFrom: 26\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 5\nratings:\n  overall: 9.9\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 9.5\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485357689.jpg?k=81767bcb6c22bc49138c8fcf41b33f8ade82cfe75970a8d18efee095473ee8db&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488192939.jpg?k=56e3011782e0d39dd1d8aa1420563279e0f5bdfb71a0506e55fc94b5742b1988&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488192932.jpg?k=60df7921f00c452efe2e02e993efdfeb87b8a4f23c10e2278e9900194080d061&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488192929.jpg?k=a0300ae5211f8ce5a8878b33121b2b1a6ca6621520fe9ed70fd1fdfcabd96799&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488192943.jpg?k=6b170f66fff6361b9359acc45d64a3acfed2adb4e1a778a68b78898844d62724&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488192948.jpg?k=a330f43a9ccdae7f41d5a066b004a819392117373e7c76d79afb15eb9e3bc178&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Double Room"\nnearbyRestaurants:\n  - "Portokallet 250 m"\n  - "Fast Food Polovina 1.1 km"\nwhatsNearby:\n  - "Tomorr Mountain National Park 10 km"\n  - "Sheshi Tomorri 18 km"\nairports:\n  - "Tirana International Airport Mother Teresa 77 km"\n  - "Ohrid Airport 83 km"\nreviews:\n  - name: "Kastelein"\n    country: "France"\n    text: "“One of the best on my 4 month travel
+And right in front of the bus station
+Everything is brand new
+They surprised me with kind of doughnut balls with honey in the morning they were to die for (don't for get to ask for them .”"\n  - name: "Katarzyna"\n    country: "Poland"\n    text: "“friendly attitude of the staff, they treat guests more like friends than customers, we got a free breakfast even though it was not in the offer, the gentleman gave us a lift to the city center to facilitate sightseeing. lovely stay! I highly...”"\n  - name: "Oleksandr"\n    country: "Ukraine"\n    text: "“Near the bus station, silence and most importantly, air conditioning in such hot weather!”"\nbookingURL: "https://www.booking.com/hotel/al/guest-house-terminal-berat-berat.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThis esteemed guest house offers air-conditioned accommodations, each boasting its balcony for guests to enjoy the scenic surroundings in privacy. Complimentary WiFi is available throughout the property, ensuring guests stay connected during their visit. 
 
-This esteemed guest house offers air-conditioned accommodations, each boasting its balcony for guests to enjoy the scenic surroundings in privacy. Complimentary WiFi is available throughout the property, ensuring guests stay connected during their visit.
-
-The establishment is also family-friendly, featuring spacious family rooms designed for comfort and convenience. Situated 115 km from Tirana International Mother Teresa Airport, Guest House Sherifi Berat provides a tranquil garden setting.
+The establishment is also family-friendly, featuring spacious family rooms designed for comfort and convenience. Situated 115 km from Tirana International Mother Teresa Airport, Guest House Sherifi Berat provides a tranquil garden setting. 
 
 It is an ideal spot for relaxation and rejuvenation away from the hustle and bustle.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

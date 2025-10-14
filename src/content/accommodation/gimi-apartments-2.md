@@ -1,15 +1,4 @@
----
-title: Gimi Apartments 2
-description: Guests are welcomed into a world where convenience meets luxury, with amenities such as free private parking, complimentary WiFi, and the added bonus of an elev
-featuredImage: "/images/accommodation/452862310.jpg"
-language: en
-slug: gimi-apartments-2
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into a world where convenience meets luxury, with amenities such as free private parking, complimentary WiFi, and the added bonus of an elevator for easy access. The on-site restaurant, complete with an outdoor dining area, promises delightful meals against the backdrop of the sea.
+---\ntitle: "Gimi Apartments 2"\ndescription: "Gimi Apartments 2 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on the shores of Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452862310.jpg?k=d14afed96144121ae859a9a7596b783c4e6825f4a8ff765d66239cdba9690c6c&o=&hp=1"\nlanguage: en\nslug: gimi-apartments-2\naddress: "Rruga Pavaresia, Ndertesa 76 5th floor, Apt 23, Nd 76, 2008 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.313667\n  lng: 19.4753201\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 12\nratings:\n  overall: 9.5\n  location: 9.2\n  cleanliness: 9.4\n  facilities: 9\n  value: 9.4\n  comfort: 9.6\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452862310.jpg?k=d14afed96144121ae859a9a7596b783c4e6825f4a8ff765d66239cdba9690c6c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471355837.jpg?k=52b55630f47db3a3be08ae8d0c3a7ec2a78977635b4fd32ca9266c86c5dd2a17&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471355860.jpg?k=ade1815b32da1ac33552776eb3f8c1ffab2b16c8e77537786d1a26124f16909f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471355579.jpg?k=fc6d11f6e7da2ad8c66e28e9c750f766279722dfbace629b13fa1a2b7968fa20&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471355793.jpg?k=f3d287bf6ed961495693b257a35fd8c94ff38eff1e2b5c1e375b6954108f5075&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452445021.jpg?k=b99959ebd9cfde6bf6c19baaa15086a68f36416fe8eaef197902aed23b821ddf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471355948.jpg?k=868ccb31fd265e383a599eaad66199d508a9132d7463262d948ba494b40e9d20&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471356566.jpg?k=f7278feebdb86d39e71ffe3118bc39d6600d47e21daf119e4dcb58f166f48bf6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471355662.jpg?k=17c6d07baf30e60d3066a2caa80d55313705a768f585ff7a4d2bc59e31068d5c&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Private beach area"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Rizai 10 m"\n  - "Troy Piceri Grill House 100 m"\nnearbyBeaches:\n  - "Durres Beach 10 m"\n  - "Currila Beach 2.5 km"\n  - "Kallmi Beach 3.6 km"\n  - "Shkëmbi i Kavajës Beach 4.2 km"\n  - "West End Beach 4.6 km"\nwhatsNearby:\n  - "Bekimi 1.6 km"\n  - "Wine Dhe Pooh 2.2 km"\n  - "Sheshi Demokracia 2.3 km"\n  - "Yje Dhe Hena 2.4 km"\n  - "Sotir Noka 2.5 km"\n  - "Durres Amphiteatre 2.5 km"\n  - "1. Maj 2.7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nreviews:\n  - name: "Aleksandra"\n    country: "Poland"\n    text: "“The apartment was very clean and quiet :) Close to the sea and all shops. There is a bus stop nearby to the center of Durres.”"\nbookingURL: "https://www.booking.com/hotel/al/gimi-apartments-2-durres.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into a world where convenience meets luxury, with amenities such as free private parking, complimentary WiFi, and the added bonus of an elevator for easy access. The on-site restaurant, complete with an outdoor dining area, promises delightful meals against the backdrop of the sea.
 
 The apartment itself is a sanctuary of modern living, featuring air conditioning for those warm Mediterranean days. It is well-appointed with a flat-screen TV, a cozy dining area, and a living room designed for relaxation. The kitchen is fully equipped, including an oven, catering to guests' culinary needs. Privacy is paramount, with the accommodation offering a private entrance for that home-away-from-home feeling.
 
@@ -18,15 +7,3 @@ For those looking to explore the local area or venture further afield, a car ren
 Situated 41 km from the Dajti Ekspres Cable Car and just 7.6 km from the Rock of Kavaje, Gimi Apartments 2 is ideally located for both adventure seekers and those looking to unwind. For guests arriving by air, Tirana International Mother Teresa Airport is a mere 31 km away, with the option of a paid airport shuttle service for a seamless travel experience.
 
 Gimi Apartments 2 stands out as a beacon of tranquility and convenience, making it a highly recommended stay for those visiting Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

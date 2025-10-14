@@ -1,28 +1,5 @@
----
-title: Lovely Apartament
-description: The apartment itself is a testament to spacious living, featuring a balcony, a cozy bedroom, a welcoming living room, and a well-equipped kitchen. Entertainment
-featuredImage: "/images/accommodation/475840144.jpg"
-language: en
-slug: lovely-apartament
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to spacious living, featuring a balcony, a cozy bedroom, a welcoming living room, and a well-equipped kitchen. Entertainment is readily available with the inclusion of a flat-screen TV, ensuring guests have all the comforts of home at their fingertips. Moreover, the accommodation provides captivating city views, adding an urban charm to the beachside getaway.
+---\ntitle: "Lovely Apartament"\ndescription: "Lovely Apartament stands out as a prime choice for travelers seeking comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475840144.jpg?k=ba29a810a8c4c5fdba9fa470b0a7c1d165479bd0fe4715333326af99023d23bf&o=&hp=1"\nlanguage: en\nslug: lovely-apartament\naddress: "Rruga Fejzo Mema, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45556311\n  lng: 19.48167637\nprice: "US$62"\npriceFrom: 62\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 4\nratings:\n  overall: 9.8\n  location: 9.4\n  cleanliness: 10\n  facilities: 10\n  value: 9.4\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475840144.jpg?k=ba29a810a8c4c5fdba9fa470b0a7c1d165479bd0fe4715333326af99023d23bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460620137.jpg?k=d4daf40ef69509f0870c150276b8f4b75d4edb346e88f7d16bf88788680a9200&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460620120.jpg?k=9f6a319be120e8fd04d66ea6c18a331687488ceeb2d85987ce430b8696ebfd5e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460620128.jpg?k=d6882df6922e9fd4ac7139b78473738a3bb661b253daf2c8c48db88680e641a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469332821.jpg?k=d96d42a44fff497e7291ae02947b957cf877595b17db1eef117f99d38d38fdb0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475838763.jpg?k=8ea100fd2c960495b69388cc5950952f6a2da13a9794db4f42bf8ef174fe48a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460620122.jpg?k=234eaacd0a8934e33117547cb1e6fce262ff4196033fcac5b9737722c8092e1d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469329482.jpg?k=ad3fdc84ca40dc09a15ddfe1a2653213323afed7ad2c4af4ecfe205954d6edfa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460620030.jpg?k=bdb1908efe387bf58aafb8fda75dadb32b04c467778d20951e106ea751840003&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Gimka 40 m"\n  - "Bar Piazza 100 m"\nnearbyBeaches:\n  - "Vjetër Beach 300 m"\n  - "Vlore Beach 1.3 km"\n  - "Ri Beach 2.5 km"\n  - "Beach at Government Villas 3.9 km"\n  - "Liro Beach 4.5 km"\nwhatsNearby:\n  - "Kuzum Baba 1.7 km"\n  - "Independence Square 1.9 km"\n  - "Scooby Doo Vlore 2.4 km"\nreviews:\n  - name: "Adnan"\n    country: "North Macedonia"\n    text: "“It was a very clean place, good host and the location is very good, close to the old beach.”"\n  - name: "Shpetim"\n    country: "Albania"\n    text: "“The apartment is located in center, its was very clean and organized, its a good choice for a family or groups.”"\nbookingURL: "https://www.booking.com/hotel/al/lovely-apartament-vlore1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to spacious living, featuring a balcony, a cozy bedroom, a welcoming living room, and a well-equipped kitchen. Entertainment is readily available with the inclusion of a flat-screen TV, ensuring guests have all the comforts of home at their fingertips. Moreover, the accommodation provides captivating city views, adding an urban charm to the beachside getaway.
 
 Strategically positioned, Lovely Apartament is a mere 2.3 km from Independence Square and 2.8 km from the historic Kuzum Baba, making it an ideal base for exploring the city's rich cultural heritage. For those venturing further, Tirana International Mother Teresa Airport is 150 km away, facilitating easy travel arrangements for international guests.
 
 In essence, Lovely Apartament is more than just a place to stay; it's a gateway to experiencing the vibrant city of Vlorë, offering both the tranquility of the beach and the excitement of urban exploration.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

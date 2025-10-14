@@ -1,28 +1,6 @@
----
-title: Solen Apartments 2
-description: The accommodation boasts a well-appointed bedroom, a fully equipped kitchen featuring a dishwasher and an oven, and a cozy seating area perfect for unwinding. E
-featuredImage: "/images/accommodation/387824321.jpg"
-language: en
-slug: solen-apartments-2
-location: ""
-amenities: []
-images: []
----
-
-The accommodation boasts a well-appointed bedroom, a fully equipped kitchen featuring a dishwasher and an oven, and a cozy seating area perfect for unwinding. Entertainment needs are met with a flat-screen TV, and the bathroom is modern, complete with a shower. For those concerned with privacy, the apartment offers a private entrance, adding an extra layer of comfort to the stay. Essentials such as towels and bed linen are thoughtfully provided, ensuring a hassle-free experience.
+---\ntitle: "Solen Apartments 2"\ndescription: "Solen Apartments 2 emerges as a prime choice for travelers seeking comfort and convenience in Durrës, positioned just a short distance from the serene Currila Beach and the picturesque Kallmi Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387824321.jpg?k=ed450d2fddb91c048f25a210a85198148f1492686238679a683907be58d27ef1&o=&hp=1"\nlanguage: en\nslug: solen-apartments-2\naddress: "Rruga Kont Urani, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31466786\n  lng: 19.4395164\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 8\nratings:\n  overall: 9.8\n  location: 8.8\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 9.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387824321.jpg?k=ed450d2fddb91c048f25a210a85198148f1492686238679a683907be58d27ef1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387824361.jpg?k=70a763e1c3bdeebd8da1b26f0bab27ab22ef75d408ed5a66b194aee6d5fa0482&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387824386.jpg?k=1bbf4f7ed08dddcd24e03a58fb0d92355da712497d58254dd6c628bd869aa983&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387824359.jpg?k=9675f2f09a0fe2cc77509d2ddf94053bb68696092407322c9c2a0c0ba64e644c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387824369.jpg?k=70fd749dd4df73a032045d91572a3b8ee3210e0f4b1d37e54221e5c33a33b6cd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387972788.jpg?k=0fdb5ac4b87736b4a7cc374a140f97bcec45e91ee3f05a6426fcc727314f97d1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387824358.jpg?k=7fb71bffe25b741bfd3dfbd9d2478faec8665fa8ab4dd26258be73e6632cf6b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387824366.jpg?k=15d5d6ff16d4d33e4e671578365579c67249ea7601b875ebc911c0fe5a7da04c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387973183.jpg?k=0bfe39170869b770753094d0b257e642c6285845cea463d9d906b7592437e875&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Terrazza Rooftop Wine Bar 100 m"\n  - "Marvi 350 m"\nnearbyBeaches:\n  - "Currila Beach 500 m"\n  - "Kallmi Beach 700 m"\n  - "West End Beach 1.8 km"\n  - "Durres Beach 2.3 km"\n  - "Shkëmbi i Kavajës Beach 7 km"\nwhatsNearby:\n  - "1. Maj 450 m"\n  - "Durres Amphiteatre 550 m"\n  - "Yje Dhe Hena 700 m"\n  - "Sheshi Demokracia 750 m"\n  - "Wine Dhe Pooh 800 m"\n  - "Sotir Noka 900 m"\n  - "Bekimi 3.6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\nreviews:\n  - name: "Mpatsi"\n    country: "Greece"\n    text: "“Very beautiful and with a great view. Good and prompt service.”"\n  - name: "Dragan"\n    country: "Serbia"\n    text: "“The apartment is excellent, it has everything you need for a stay.
+We had our privacy, the apartment is clean, the location is quiet.”"\n  - name: "Joan"\n    country: "Germany"\n    text: "“Alles hat mir sehr gut gefallen. Sehr bequem, ruhig, schöne Ausblick und sehr angenehm. Komplett ausgestattet .:-)”"\nbookingURL: "https://www.booking.com/hotel/al/solen-apartments-2.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodation boasts a well-appointed bedroom, a fully equipped kitchen featuring a dishwasher and an oven, and a cozy seating area perfect for unwinding. Entertainment needs are met with a flat-screen TV, and the bathroom is modern, complete with a shower. For those concerned with privacy, the apartment offers a private entrance, adding an extra layer of comfort to the stay. Essentials such as towels and bed linen are thoughtfully provided, ensuring a hassle-free experience.
 
 Strategically located, Solen Apartments 2 is within easy reach of notable attractions, including the Dajti Ekspres Cable Car and the Rock of Kavaje, making it an ideal base for exploring the area. For guests arriving by air, the Tirana International Mother Teresa Airport is conveniently situated just 34 km away, making arrivals and departures as smooth as possible.
 
 Solen Apartments 2 represents an excellent option for travelers looking for a blend of convenience, comfort, and the opportunity to explore the beauty of Durrës and its surroundings.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

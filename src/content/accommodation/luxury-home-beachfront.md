@@ -1,30 +1,7 @@
----
-title: Luxury Home Beachfront
-description: Upon entering the villa, guests are greeted by a spacious layout that includes two well-appointed bedrooms, a cozy living room, and a balcony offering serene ga
-featuredImage: "/images/accommodation/383480756.jpg"
-language: en
-slug: luxury-home-beachfront
-location: ""
-amenities: []
-images: []
----
-
-Upon entering the villa, guests are greeted by a spacious layout that includes two well-appointed bedrooms, a cozy living room, and a balcony offering serene garden views. The living space is equipped with a flat-screen TV and an inviting fireplace, perfect for unwinding. The kitchen does not disappoint, featuring modern appliances such as a dishwasher and an oven, ready for culinary exploits. The villa's bathroom, with its walk-in shower, adds a touch of luxury to the bathing experience. Additionally, the private entrance sets the stage for an exclusive stay, where complimentary wine or champagne and fruits await to welcome guests.
+---\ntitle: "Luxury Home Beachfront"\ndescription: "Luxury Home Beachfront emerges as a premier choice for travelers seeking an exquisite retreat near Qerret Beach, located merely 400 meters away."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383480756.jpg?k=edd5e0dc00e7e262bebbba2a62e2fad588bf1111f3bf18eec621874866136148&o=&hp=1"\nlanguage: en\nslug: luxury-home-beachfront\naddress: "Rruga e Fshatrave Turistike, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.2233348\n  lng: 19.5136285\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383480756.jpg?k=edd5e0dc00e7e262bebbba2a62e2fad588bf1111f3bf18eec621874866136148&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383822524.jpg?k=7d888085f3d2acb5d3c3230554ea3f2cb380ec4b0e90d0e60a31ef8f71c4e76d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383480739.jpg?k=c2a0e79130d3a71eaf1bd2e492d6e7df609b0f5509141644bbb5cb77647bc5a1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383828889.jpg?k=f24793821e8284f32e6763dc8b0bca631f24d4c4c0fedc5b830a1fd66e368e9d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383480682.jpg?k=4fa01c108538610eea1f6185c8f3d6a5e04d0ec05bc8a087f1ecdb3528280418&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383480702.jpg?k=7f2a9ad753a84a8885d4d2278281fc8e30c3a197a6b4b675e9c6ed352ebc729c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383824407.jpg?k=614823c0de975f800e6120b8b2c88df54ec288f7f36d11029202d8f31672fde8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383828735.jpg?k=2db603c2fa0f6da5314ad73f5f56122f6a2543cfbf634c719c241223a1a6d4dd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383713557.jpg?k=8d260fcdb6084ebd7ed19cd546188d52e1fb04a1f5e19b28c0f0e9b4cdf8c4bd&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Baca 500 m"\n  - "Panorama by Supreme Hotel & Spa 750 m"\nnearbyBeaches:\n  - "Qerret Beach 300 m"\n  - "Mali I Robit Beach 750 m"\n  - "Golem Beach 2.8 km"\n  - "Shkëmbi i Kavajës Beach 4.7 km"\n  - "Durres Beach 7 km"\nwhatsNearby:\n  - "Durres Amphiteatre 11 km"\n  - "1. Maj 12 km"\n  - "Wine Dhe Pooh 12 km"\n  - "Yje Dhe Hena 12 km"\n  - "Sheshi Demokracia 12 km"\n  - "Bekimi 12 km"\n  - "Sotir Noka 12 km"\n  - "Divjake-Karavasta National Park 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 26 km"\nbookingURL: "https://www.booking.com/hotel/al/luxury-home-with-garden.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nUpon entering the villa, guests are greeted by a spacious layout that includes two well-appointed bedrooms, a cozy living room, and a balcony offering serene garden views. The living space is equipped with a flat-screen TV and an inviting fireplace, perfect for unwinding. The kitchen does not disappoint, featuring modern appliances such as a dishwasher and an oven, ready for culinary exploits. The villa's bathroom, with its walk-in shower, adds a touch of luxury to the bathing experience. Additionally, the private entrance sets the stage for an exclusive stay, where complimentary wine or champagne and fruits await to welcome guests.
 
 The property doesn't just cater to adults; families will appreciate the thoughtful inclusion of outdoor play equipment for children. Moreover, the convenience of an on-site car rental service enhances the exploration of the surrounding area.
 
 Situated a short drive from Mali I Robit Beach and within reach of the historic Skanderbeg Square, Luxury Home Beachfront positions itself as an ideal base for discovering the local charms. For international travelers, the proximity to Tirana International Mother Teresa Airport, located 43 km away, ensures a hassle-free arrival and departure.
 
 Luxury Home Beachfront stands out as a sanctuary for those desiring a blend of privacy, comfort, and accessibility, making it a top recommendation for an unforgettable stay near the Albanian coast.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

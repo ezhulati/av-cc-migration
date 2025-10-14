@@ -1,28 +1,5 @@
----
-title: Aparment Golem
-description: "This non-smoking apartment is thoughtfully designed to cater to the needs of modern travelers."
-featuredImage: "/images/accommodation/485420467.jpg"
-language: en
-slug: aparment-golem
-location: ""
-amenities: []
-images: []
----
-
-This non-smoking apartment is thoughtfully designed to cater to the needs of modern travelers. It features a single bedroom, a fully equipped kitchen for those who prefer to prepare their meals, and a bathroom that ensures privacy and convenience. The proximity to the Rock of Kavaje, just 1.4 km away, adds another layer of attraction for those keen on exploring the local landscape.
+---\ntitle: "Aparment Golem"\ndescription: "Apartment Golem emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Golemas."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485420467.jpg?k=67031182ed4dbbf0ab95c1ce65ac0dfc70a3e287ffbdc1bda951f2d1669a4ed0&o=&hp=1"\nlanguage: en\nslug: aparment-golem\naddress: "7G99+2CJ, SH4, Durrës 2nd floor, 2504 Golemas, Albania"\ncity: "Golemas"\nlocation: "Golemas"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.26758003\n  lng: 19.51855415\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485420467.jpg?k=67031182ed4dbbf0ab95c1ce65ac0dfc70a3e287ffbdc1bda951f2d1669a4ed0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485420668.jpg?k=da1e0e6dd127b964f17cca38d7d36b5a2511c66086ec34be1257ddcf60d956ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485420711.jpg?k=1a06e9160287edb2a11040a7587626f9adfe8ed618465faeec494ab60bfe6c0b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485420671.jpg?k=6f4e82c14b2349e54cf6a847a7f9cadee251d0cef51e06e735db7afcb49cbeb5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485420744.jpg?k=b8957dd07b0bc14cc8be0e35c8ced78485e136ae5fe8951ee5f44b5c0e252a26&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485420725.jpg?k=cd8df6135290b58779e1d2334db490ae3e99cccb863a689bbb1cae4e809d7c68&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485420721.jpg?k=873e3ca2c7c20c4a5525fafe71c12f486a75b567d9aa3daedcee90442593d212&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485420716.jpg?k=cc9249a9e419168ebb01364e5ce84f5416b18aca7338255646d2a4dd45a56da7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485420658.jpg?k=49cfb6713c59ca93b6865910238b2181cda6689e8a9dcf916fcb8d5759f07d2c&o=&hp=1"\nnearbyRestaurants:\n  - "Grill & Pizza Peja 150 m"\n  - "Fresh Fish 250 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 10 m"\n  - "Golem Beach 250 m"\n  - "Durres Beach 2.2 km"\n  - "Mali I Robit Beach 2.2 km"\n  - "Qerret Beach 4.2 km"\nwhatsNearby:\n  - "Bekimi 8 km"\n  - "Durres Amphiteatre 8 km"\n  - "Wine Dhe Pooh 8 km"\n  - "1. Maj 8 km"\n  - "Yje Dhe Hena 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "Sotir Noka 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/aparment-golem.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis non-smoking apartment is thoughtfully designed to cater to the needs of modern travelers. It features a single bedroom, a fully equipped kitchen for those who prefer to prepare their meals, and a bathroom that ensures privacy and convenience. The proximity to the Rock of Kavaje, just 1.4 km away, adds another layer of attraction for those keen on exploring the local landscape.
 
 Cultural enthusiasts will appreciate the apartment's closeness to the Former Residence of Enver Hoxha, located 43 km away, offering a glimpse into Albania's historical narrative. Meanwhile, the Durres Amphitheatre, 13 km from the property, stands as a testament to the rich heritage and architectural prowess of the region. For guests considering travel logistics, the Tirana International Mother Teresa Airport is a manageable 37 km away, making Apartment Golem an accessible haven for both domestic and international travelers.
 
 In summary, Apartment Golem presents itself as an ideal lodging option for those who seek a harmonious balance between leisurely beach days and immersive cultural excursions. Its strategic location, coupled with essential amenities, ensures a stay that is both comfortable and enriching.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

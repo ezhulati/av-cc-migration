@@ -1,15 +1,4 @@
----
-title: Durres Golem Mara beach apartment
-description: The apartment itself is a haven of space and light, boasting a balcony that presents serene garden views. It is well-appointed with a bedroom, a living area equ
-featuredImage: "/images/accommodation/520103978.jpg"
-language: en
-slug: durres-golem-mara-beach-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of space and light, boasting a balcony that presents serene garden views. It is well-appointed with a bedroom, a living area equipped with a flat-screen TV for entertainment, and a kitchen that comes complete with a dishwasher and an oven, ensuring that guests have everything they need at their fingertips. The inclusion of air conditioning and complimentary WiFi throughout the property adds to the comfort and convenience.
+---\ntitle: "Durres Golem Mara beach apartment"\ndescription: "Durres Golem Mara Beach Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience along the Albanian coast."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520103978.jpg?k=5c04170ddf55c437d6d5964798a15a4fea083bc1aedb022eeb1405a35b55cb76&o=&hp=1"\nlanguage: en\nslug: durres-golem-mara-beach-apartment\naddress: "Rruga Korça, 1111 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.25983036\n  lng: 19.52433763\nprice: "US$27"\npriceFrom: 27\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 0\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520103978.jpg?k=5c04170ddf55c437d6d5964798a15a4fea083bc1aedb022eeb1405a35b55cb76&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/381735902.jpg?k=b1050c889d69aab300dd77c30b3e6263b85ebe3398549735a5b069b33c61fcfb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361342503.jpg?k=e93289c6cc86125a3763839d27961102bb96cc3191ef3f895ecdb921681a183b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361345558.jpg?k=46d258be194b9598ad7830ca4cf0ace67671c24a813a99895df3f18873ec58c8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361342547.jpg?k=8c225cc001d95ddba6a9a23e27be852ec28336f68ae13e36fc52eaf025efe857&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/381736056.jpg?k=946b2f18ea6c9753aece34fc0a0166368c08deac056382578ff4577388fcf697&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361342514.jpg?k=4df25d886f1261e9c13a5005d90fe98bb28606ee47892295ea414784c6bc0e3b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527550210.jpg?k=fa7d9dda0947733c06376f26eeb8bc87d73f9ccedc13072fbc99463f7d1d85a4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361342508.jpg?k=6faef5ea70ae2aab6a335f7ad007b588d8919ae120cb06f4a50b7eb59c0be263&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyBeaches:\n  - "Golem Beach 350 m"\n  - "Shkëmbi i Kavajës Beach 750 m"\n  - "Mali I Robit Beach 1.4 km"\n  - "Durres Beach 3.2 km"\n  - "Qerret Beach 3.4 km"\nbookingURL: "https://www.booking.com/hotel/al/mara-beach-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of space and light, boasting a balcony that presents serene garden views. It is well-appointed with a bedroom, a living area equipped with a flat-screen TV for entertainment, and a kitchen that comes complete with a dishwasher and an oven, ensuring that guests have everything they need at their fingertips. The inclusion of air conditioning and complimentary WiFi throughout the property adds to the comfort and convenience.
 
 Privacy is a priority at Durres Golem Mara Beach Apartment, with a private entrance that ensures guests can enjoy their stay without intrusion. The bathroom is modern and includes a bidet, rounding off the facilities that make this apartment not just a place to stay, but a place to live, even if just for a short while.
 
@@ -18,15 +7,3 @@ For those interested in exploring the rich history and culture of the area, the 
 Accessibility is also a key feature, with Tirana International Mother Teresa Airport located just 38 km from the apartment, making arrivals and departures as smooth as possible for international guests.
 
 Durres Golem Mara Beach Apartment stands out as an ideal lodging option for those looking to explore the beauty and history of the Albanian coast, offering a comfortable and convenient base from which to venture forth.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

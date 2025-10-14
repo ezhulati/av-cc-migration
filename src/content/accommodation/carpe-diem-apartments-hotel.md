@@ -1,28 +1,8 @@
----
-title: Carpe Diem Apartments-Hotel
-description: The property doesn't just stop at providing a place to rest; it invites guests to savor Mediterranean cuisine at its on-site restaurant or unwind at the bar, al
-featuredImage: "/images/accommodation/263192978.jpg"
-language: en
-slug: carpe-diem-apartments-hotel
-location: ""
-amenities: []
-images: []
----
-
-The property doesn't just stop at providing a place to rest; it invites guests to savor Mediterranean cuisine at its on-site restaurant or unwind at the bar, all while benefiting from the complimentary private parking. Each unit within the hotel is thoughtfully designed, featuring a balcony that presents breathtaking sea views. The rooms are well-appointed with a flat-screen TV and a furnished kitchen, catering to all the needs of modern travelers. The private bathrooms, equipped with either a bath or shower and a hairdryer, add an extra layer of convenience.
+---\ntitle: "Carpe Diem Apartments-Hotel"\ndescription: "Carpe Diem Apartments-Hotel stands as a prime choice for travelers seeking the perfect blend of convenience and comfort right by the beach in Shëngjin."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263192978.jpg?k=e833fba2ffdb4cab2cb5c9d593ac01b5265e519e900f4caf970ecbcc8d2e30eb&o=&hp=1"\nlanguage: en\nslug: carpe-diem-apartments-hotel\naddress: "Wilson Boulevard, Shengjin, 4503 Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.81291483\n  lng: 19.59334369\nprice: "US$75"\npriceFrom: 75\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 400\nratings:\n  overall: 9.1\n  location: 8.8\n  cleanliness: 9.3\n  facilities: 8.9\n  value: 8.9\n  comfort: 9.2\n  staff: 9.6\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263192978.jpg?k=e833fba2ffdb4cab2cb5c9d593ac01b5265e519e900f4caf970ecbcc8d2e30eb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308400798.jpg?k=e88a522d78e4338c1bce8a37629e394cff2f6940d29d2e264ca14ad3ae2934cc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308400782.jpg?k=a80540f30e8a8edf7de0e89e46ca29f623d3cc25f8418a7196779da085dfb208&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/84901031.jpg?k=c7e6cdbca8a6b4579f4864c446e14be3571f558c37f15e19277344e959991ff3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307815517.jpg?k=8420407b89d7f83fa3f1f6b299edaef52dd27a4eae9e0826915c3e792d2e843f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307815518.jpg?k=bec11dde57cae5b241ddf6633509c9f612dc136c2ca9b96693e521131db3de33&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Apartment with Balcony"\n  - "One-Bedroom Apartment with Balcony and Sea View (1-4 Adults)"\nnearbyRestaurants:\n  - "Carpe Diem 20 m"\n  - "Restorant Varka 50 m"\nnearbyBeaches:\n  - "Shëngjin Beach 100 m"\n  - "Ylberi Beach 1.6 km"\n  - "Rana e Hedhun Beach 2.3 km"\n  - "Kune Beach 4.8 km"\n  - "Laguna Park Beach 4.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 44 km"\n  - "Podgorica Airport 66 km"\n  - "Tivat Airport 96 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Enelys"\n    country: "Estonia"\n    text: "“We stayed for 1 night on our way to Durrës. It was very spacious, clean aprartment. We loved the view!”"\n  - name: "Jonathan"\n    country: "New Zealand"\n    text: "“Staff was perfect , breakfast too . Everything was on point. Ill come again.”"\n  - name: "Salvadore"\n    country: "Italy"\n    text: "“It was amazing!
+Staff was super helpful and i reccomend everyone to visit Carpe Diem Hotel.
+Breakfast was super great and dinner too.
+I will definitely come back.”"\nbookingURL: "https://www.booking.com/hotel/al/carpe-diem-appartament-hotel.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe property doesn't just stop at providing a place to rest; it invites guests to savor Mediterranean cuisine at its on-site restaurant or unwind at the bar, all while benefiting from the complimentary private parking. Each unit within the hotel is thoughtfully designed, featuring a balcony that presents breathtaking sea views. The rooms are well-appointed with a flat-screen TV and a furnished kitchen, catering to all the needs of modern travelers. The private bathrooms, equipped with either a bath or shower and a hairdryer, add an extra layer of convenience.
 
 Morning risers are in for a treat with a buffet breakfast available in the designated breakfast area, setting the tone for a day full of possibilities. For those looking to explore the natural beauty of Shëngjin, activities such as swimming and snorkeling are readily accessible in the nearby vicinity.
 
 Situated 80 km from Ulcinj and just 55 km from Tirana Airport, Carpe Diem Apartments-Hotel not only promises a memorable stay but also ensures ease of travel to and from the property. This hotel emerges as a compelling choice for those eager to experience the serene beauty of Shëngjin, coupled with the comfort and convenience of modern accommodations.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

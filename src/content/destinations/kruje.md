@@ -5,11 +5,14 @@ region: Northern Albania
 featuredImage: ""
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: kruje
 highlights: []
+seo:
+  metaDescription: "Plan your visit to Krujë with our extensive category listings. Explore attractions, services, and more in Krujë."
 ---
 
 Why Visit
@@ -60,10 +63,3 @@ Lodging[![Kruja Albergo Diffuso , Inside Kruja Castle](/images/accommodation/481
 
 [![Hotel PANORAMA Kruje view on the castle and the old town](/images/accommodation/526275878.jpg)](https://albaniavisit.com/accommodation/hotel-panorama-kruje-view-on-the-castle-and-the-old-town/)[Hotel PANORAMA Kruje view on the castle and the old town](https://albaniavisit.com/accommodation/hotel-panorama-kruje-view-on-the-castle-and-the-old-town/)Discover the charm of Krujë from a prime location at Hotel PANORAMA Kruje, where modern comforts meet the rich history of this captivating town.View Details
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

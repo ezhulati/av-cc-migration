@@ -1,32 +1,9 @@
----
-title: White Melody Apartment
-description: White Melody Apartment stands out for its generous space and thoughtful amenities. Guests can enjoy the luxury of a private balcony, a cozy bedroom, and a livin
-featuredImage: "/images/accommodation/523134972.jpg"
-language: en
-slug: white-melody-apartment
-location: ""
-amenities: []
-images: []
----
-
-White Melody Apartment stands out for its generous space and thoughtful amenities. Guests can enjoy the luxury of a private balcony, a cozy bedroom, and a living area designed for relaxation. The kitchen doesn't disappoint either, being well-appointed with an oven and microwave, making self-catering a breeze. The provision of towels and bed linen adds a layer of convenience, ensuring a comfortable stay.
+---\ntitle: "White Melody Apartment"\ndescription: "Discover the charm of Tirana with a stay at White Melody Apartment, a prime choice for travelers seeking both convenience and comfort."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523134972.jpg?k=15b742df06336d07024a6df232904753d76f60472806bbecb6ddf48f2253971f&o=&hp=1"\nlanguage: en\nslug: white-melody-apartment\naddress: "Rruga Hoxhë Vokrri, Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33170372\n  lng: 19.8279253\nprice: "US$56"\npriceFrom: 56\nstarRating: 4\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523134972.jpg?k=15b742df06336d07024a6df232904753d76f60472806bbecb6ddf48f2253971f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523135082.jpg?k=df70fb7aa7557b7ec220e53f5ec8162ff5b07290f83363911a5af9744051e401&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523135098.jpg?k=b101d6ade47032241df5ee0235b2fb8a2a7c0a3f6eecb2a0dd5a35d46931c477&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523135070.jpg?k=a309736057d9a68daae49903c8d3d92cd6f5ac1e5aa99e3859de0858c8375c82&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523135111.jpg?k=f8a8e4c2020210e0f65a3f753a84053bb423ae2c47f0eeed0568a4314e10ba3c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523135085.jpg?k=9515677e279259d6ada39ae517cb4358235634ccc1a97c904872d259a47cf50e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523135094.jpg?k=46e2e56cd6100844d74adc3eca6453ac2a0faa71b5f1481fb6d27bcd74da156a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523135076.jpg?k=02f6199d7698f70c6f62d1662c8ce459fc17a33607e4909a5dec76f2a4b2f572&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523135080.jpg?k=26e0f83b0c14befb51b784a29626a69e887874a6845a7544b1265fa4e5ffe0c2&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "National Museum of History Albania 900 m"\n  - "House of Leaves 1.1 km"\n  - "Rinia Park 1.1 km"\n  - "Former Residence of Enver Hoxha 1.5 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 3.4 km"\nnearbyRestaurants:\n  - "Retro Bar & Grill 100 m"\n  - "Bar Kafe le Petit 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ tek ish ATSh 400 m"\n  - "Tanners' Bridge 600 m"\n  - "Sheshi Sulejman Pasha 600 m"\n  - "Amazing Nature 750 m"\n  - "Sheshi Jjosef Shtraus 800 m"\n  - "Clock Tower Tirana 800 m"\n  - "Skanderbeg Square 850 m"\n  - "National Gallery of Arts Tirana 850 m"\n  - "Parku Europa 850 m"\n  - "Sheshi Skënderbej 900 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 78 km"\nbookingURL: "https://www.booking.com/hotel/al/white-melody-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nWhite Melody Apartment stands out for its generous space and thoughtful amenities. Guests can enjoy the luxury of a private balcony, a cozy bedroom, and a living area designed for relaxation. The kitchen doesn't disappoint either, being well-appointed with an oven and microwave, making self-catering a breeze. The provision of towels and bed linen adds a layer of convenience, ensuring a comfortable stay.
 
 One of the apartment's notable features is its commitment to a smoke-free environment, catering to those who prioritize health and cleanliness. The added benefit of a private entrance enhances the sense of privacy, making it feel like a home away from home.
 
-Connectivity is never an issue, as guests are treated to complimentary WiFi and on-site parking, removing any worries about staying connected or finding a spot for their vehicle.
+Connectivity is never an issue, as guests are treated to complimentary WiFi and on-site parking, removing any worries about staying connected or finding a spot for their vehicle. 
 
 For those keen to explore, White Melody Apartment is within easy reach of several attractions, including Tanners' Bridge, Toptani Shopping Centre, and the National Theatre of Opera and Ballet of Albania, promising a blend of cultural experiences. Additionally, the Tirana International Mother Teresa Airport is conveniently located 15 km away, facilitating easy arrivals and departures.
 
 White Melody Apartment emerges as a top pick for travelers who value location, comfort, and the freedom to explore Tirana at their own pace.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,26 +1,3 @@
----
-title: Zilla Apartment Luxury
-description: Zilla Apartment Luxury stands out with its thoughtful amenities, including air conditioning for those warm Vlorë days, a private balcony to enjoy the serene sur
-featuredImage: "/images/accommodation/409601212.jpg"
-language: en
-slug: zilla-apartment-luxury
-location: ""
-amenities: []
-images: []
----
-
-Zilla Apartment Luxury stands out with its thoughtful amenities, including air conditioning for those warm Vlorë days, a private balcony to enjoy the serene surroundings, and the convenience of complimentary private parking and WiFi. The layout is generously spacious, featuring a terrace that invites guests to unwind, a cozy bedroom for restful nights, a welcoming living room for relaxation, and a well-equipped kitchen complete with a minibar for at-home dining experiences. Entertainment is readily available with a flat-screen TV, ensuring guests have everything they need at their fingertips.
+---\ntitle: "Zilla Apartment Luxury"\ndescription: "Discover the epitome of comfort and convenience at Zilla Apartment Luxury, a prime choice for travelers seeking a blend of luxury and location in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409601212.jpg?k=ff5b57fd20c69f7f9f02794bab30f7bb65c1217439270bf971ac594db488d810&o=&hp=1"\nlanguage: en\nslug: zilla-apartment-luxury\naddress: "Rruga Mulla Xhaferri, 1000 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4719594\n  lng: 19.4883694\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409601212.jpg?k=ff5b57fd20c69f7f9f02794bab30f7bb65c1217439270bf971ac594db488d810&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/409601271.jpg?k=c6073f9f930c6d7245e484047ed61df5ff28ff2ef74051572bc24417f9e0903b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/409601277.jpg?k=e14355f3e8efd8c174de063a45324de9a9c9bcc8a8eaca58211aa04fb7674411&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/409601283.jpg?k=a32f2d452c4fb5d172ffc4df23387984a13c47e9a55806bd880f40d7a2611061&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/409601285.jpg?k=7238290ce29a44bb9abbbeae91f3132e8982ea230290dd392dd3389b7b46e3df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/409601288.jpg?k=0d33abd6fb7ffedbac283f09842afd0f21668164aa526bc23fa54bb139d229e2&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Pizza Time 50 m"\n  - "The Best Pizza 150 m"\nnearbyBeaches:\n  - "Vjetër Beach 2.2 km"\n  - "Vlore Beach 2.7 km"\n  - "Ri Beach 4.1 km"\n  - "Narta Beach 4.9 km"\n  - "Beach at Government Villas 6 km"\nwhatsNearby:\n  - "Independence Square 250 m"\n  - "Kuzum Baba 650 m"\n  - "Scooby Doo Vlore 4 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nbookingURL: "https://www.booking.com/hotel/al/zilla-apartment-luxury.en-gb.html?aid=8035640"\nbestFor: "Best for Luxury"\nbestCategories: "Luxury"\ncategory: "Luxury"\n---\n\nZilla Apartment Luxury stands out with its thoughtful amenities, including air conditioning for those warm Vlorë days, a private balcony to enjoy the serene surroundings, and the convenience of complimentary private parking and WiFi. The layout is generously spacious, featuring a terrace that invites guests to unwind, a cozy bedroom for restful nights, a welcoming living room for relaxation, and a well-equipped kitchen complete with a minibar for at-home dining experiences. Entertainment is readily available with a flat-screen TV, ensuring guests have everything they need at their fingertips.
 
 Emphasizing a smoke-free environment, this accommodation ensures a clean and healthy stay for all guests. For those venturing from afar, the Tirana International Mother Teresa Airport is located 149 km away, making Zilla Apartment Luxury an accessible retreat in the heart of Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

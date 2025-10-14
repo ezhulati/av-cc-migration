@@ -1,28 +1,5 @@
----
-title: luka apartament
-description: The apartment itself is a study in spacious living, featuring two well-appointed bedrooms, a cozy living room for relaxation, a fully equipped kitchen for those
-featuredImage: "/images/accommodation/435647385.jpg"
-language: en
-slug: luka-apartament
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a study in spacious living, featuring two well-appointed bedrooms, a cozy living room for relaxation, a fully equipped kitchen for those who enjoy preparing their meals, and a modern bathroom. The commitment to a non-smoking environment underscores the property's dedication to providing a clean and healthy stay for all guests.
+---\ntitle: "luka apartament"\ndescription: "Luka Apartament emerges as a prime choice for travelers seeking comfort and convenience in Shëngjin."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435647385.jpg?k=3bb616f033b9c5261512a6297592c518f3724bdf56aa0a1a7184e3abd94eec02&o=&hp=1"\nlanguage: en\nslug: luka-apartament\naddress: "Rruga Fran Ivanaj, 4503 Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.80482149\n  lng: 19.60240628\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 6.3\nratingWords: "Average"\nnumberOfReviews: 1\nratings:\n  overall: 6.3\n  location: 7.5\n  cleanliness: 2.5\n  facilities: 7.5\n  value: 7.5\n  comfort: 5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435647385.jpg?k=3bb616f033b9c5261512a6297592c518f3724bdf56aa0a1a7184e3abd94eec02&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435647460.jpg?k=d5c08b73ce99bb66da4fbd5b74d3b198ff011401212a4cf1bad15f10e3cdd29b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435647452.jpg?k=b2fbf988364de19d7682b97f3732b5a44cdf3492417c5a72a7ed88b52e9454c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435647466.jpg?k=a02b6dd1ec3cd99b6ae9547c323bf09e3a8444c7b42b239457129c893aeef7c2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435647469.jpg?k=ed3fad4b5a1238aedbf151a4a99706f293daa94416e10b31d0387906c12ce92e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435647456.jpg?k=ddf46d5d9bbeff7436337ea79eb5b4794d2d67f4c586b7f23f66a183a7f8d551&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435647454.jpg?k=b3e8781b88084302235b2a97437c23f37831816720edaebc0eafc0cb507a5cd1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435647468.jpg?k=8d25ed67e1f90e48065407e1420e41038c918942b0b0251c914c0c5827f982d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435647443.jpg?k=0069c6d2722aac8bf60b0d63dd9a8433463f8af7b283df7a0e86d0cd037c520e&o=&hp=1"\namenities:\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Ara Shengjin 200 m"\n  - "Coral 300 m"\nnearbyBeaches:\n  - "Shëngjin Beach 250 m"\n  - "Ylberi Beach 550 m"\n  - "Rana e Hedhun Beach 3.3 km"\n  - "Laguna Park Beach 4 km"\n  - "Kune Beach 4.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 43 km"\n  - "Podgorica Airport 67 km"\nbookingURL: "https://www.booking.com/hotel/al/luka-apartament-shengjin1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a study in spacious living, featuring two well-appointed bedrooms, a cozy living room for relaxation, a fully equipped kitchen for those who enjoy preparing their meals, and a modern bathroom. The commitment to a non-smoking environment underscores the property's dedication to providing a clean and healthy stay for all guests.
 
 Strategically located, Luka Apartament is a mere 42 km away from the historic Rozafa Castle Shkodra, offering an easy gateway for guests inclined towards exploring the rich cultural tapestry of the region. Additionally, the natural beauty of Lake Skadar can be found just 44 km away, presenting an ideal excursion for nature enthusiasts.
 
 For travelers concerned with accessibility, the proximity to Tirana International Mother Teresa Airport, located 49 km from the apartment, ensures a hassle-free arrival and departure experience. Luka Apartament stands out as a compelling choice for those seeking a blend of comfort, convenience, and the opportunity to explore the natural and historical wonders of Shëngjin.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -5,6 +5,10 @@ category: Outdoor Adventure
 featuredImage: /images/activities/rafting.jpg
 language: en
 slug: rafting
+seo:
+  metaTitle: "Ride the Rapids - Discover White Water %term% in Albania"
+  metaDescription: "Experience white-water rafting in Albania's untamed rivers. Stunning scenery and thrilling rapids make for an unforgettable adventure to paddle and explore."
+  focusKeyword: "rafting"
 ---
 
 Why Kayak or Raft in Albania?
@@ -275,10 +279,3 @@ Where to Stay-   **Përmet**: Eco-lodges, riverside guesthouses
 
 Whether you’re gliding through an alpine lake or bouncing through spring rapids, Albania’s rivers and shores offer something rare: nature at its most unfiltered, with just enough infrastructure to make it accessible. This is your chance to explore it before the rest of the world catches on.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

@@ -1,30 +1,7 @@
----
-title: Modern Loft in Prime Location
-description: This air-conditioned haven doesn't just promise a stay; it delivers an experience. With its spacious layout, the apartment features one elegantly appointed bedr
-featuredImage: "/images/accommodation/525737040.jpg"
-language: en
-slug: modern-loft-in-prime-location
-location: ""
-amenities: []
-images: []
----
-
-This air-conditioned haven doesn't just promise a stay; it delivers an experience. With its spacious layout, the apartment features one elegantly appointed bedroom, a bathroom equipped with modern amenities, and a living room designed for relaxation, complete with a flat-screen TV. The fully equipped kitchen, boasting a dining area and oven, invites guests to craft their culinary delights. For those seeking the ultimate convenience, the option to have towels and linens provided is available.
+---\ntitle: "Modern Loft in Prime Location"\ndescription: "Discover the epitome of urban living at Modern Loft in Prime Location, a premier accommodation choice situated in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525737040.jpg?k=fc0c5f103c074ecde6236ed28d824d7329e8c86b52466e0f9f915c88b10b70a7&o=&hp=1"\nlanguage: en\nslug: modern-loft-in-prime-location\naddress: "7 Rruga Prokop Myzeqari, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33279835\n  lng: 19.81463022\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525737040.jpg?k=fc0c5f103c074ecde6236ed28d824d7329e8c86b52466e0f9f915c88b10b70a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/524568738.jpg?k=3b5d23bc6db003de7f0b0b6efec13e395f362bcca406a486debb7e4d848cae95&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/525737037.jpg?k=e9abf3b75ac780f428c5cb0f0a27d57e0987a7bb1dd064c5d56d328f5f129e4a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/525737039.jpg?k=9381548b3a7d1b590f5cb2188f3019e3c8651d1ca2fd5a7d20deffa1b59eb50c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/525737042.jpg?k=d9c168c6c8ad825d4648928b8cb8f3a563d7d8f1414c05858049e19cdebfc46a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/525737043.jpg?k=cf79c4e98aef56b40ddb41489f1303cc81ee9bc0879a038c7bac356c9eb5eafa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/525737044.jpg?k=5366116231b17a70356f414b6d0f5e1b4d2d5001544d097e15dd6476a3cd62e4&o=&hp=1"\namenities:\n  - "Private parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 900 m"\n  - "Rinia Park 950 m"\n  - "Tanners' Bridge 1.2 km"\n  - "Former Residence of Enver Hoxha 1.3 km"\n  - "Grand Park of Tirana 2.5 km"\n  - "Bunk'Art 1 Museum 4.3 km"\nnearbyRestaurants:\n  - "Restorant Piceri Comfort 100 m"\n  - "Pizza Bravo 150 m"\nwhatsNearby:\n  - "Sheshi Paris 400 m"\n  - "Amazing Nature 400 m"\n  - "National Museum of History Albania 450 m"\n  - "Sheshi Skënderbej 550 m"\n  - "Sheshi Rekreativ Mine Peza 600 m"\n  - "Skanderbeg Square 700 m"\n  - "House of Leaves 700 m"\n  - "Parku Europa 700 m"\n  - "Clock Tower Tirana 700 m"\n  - "Sheshi Sulejman Pasha 750 m"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/modern-loft-in-prime-location.en-gb.html?aid=8035640"\nbestFor: "Best for Location"\nbestCategories: "Location"\ncategory: "Location"\n---\n\nThis air-conditioned haven doesn't just promise a stay; it delivers an experience. With its spacious layout, the apartment features one elegantly appointed bedroom, a bathroom equipped with modern amenities, and a living room designed for relaxation, complete with a flat-screen TV. The fully equipped kitchen, boasting a dining area and oven, invites guests to craft their culinary delights. For those seeking the ultimate convenience, the option to have towels and linens provided is available.
 
 Beyond the comfort of the apartment, guests are afforded the luxury of complimentary WiFi and private parking, ensuring a hassle-free stay. The presence of an elevator, ATM, and currency exchange service on-site further enhances the convenience factor, making every aspect of the stay as smooth as possible.
 
 Adding to its allure, Modern Loft in Prime Location is surrounded by must-visit attractions, including the National Museum of History Albania, the House of Leaves, and the National Theatre of Opera and Ballet of Albania. For travelers looking to venture further, Tirana International Mother Teresa Airport is just 13 km away, making both arrivals and departures a breeze.
 
 With its blend of privacy, soundproofing, and strategic location, Modern Loft in Prime Location stands out as a top-tier choice for those seeking to immerse themselves in the pulse of Tirana while enjoying the comforts of a thoughtfully designed space.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

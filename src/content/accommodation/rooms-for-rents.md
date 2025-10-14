@@ -1,32 +1,5 @@
----
-title: Rooms for Rents
-description: A mere 10 km from Skanderbeg Square, the heart of Albania's vibrant history and culture, Rooms for Rents stands out for its accessibility to the National Museum
-featuredImage: "/images/accommodation/527853048.jpg"
-language: en
-slug: rooms-for-rents
-location: ""
-amenities: []
-images: []
----
-
-A mere 10 km from Skanderbeg Square, the heart of Albania's vibrant history and culture, Rooms for Rents stands out for its accessibility to the National Museum of History Albania and the intriguing House of Leaves, both less than 10 km away. The lodge's proximity to these cultural landmarks makes it an ideal base for guests eager to dive into the rich tapestry of Albanian heritage.
+---\ntitle: "Rooms for Rents"\ndescription: "Rooms for Rents emerges as a prime choice for travelers seeking a comfortable stay in Kamëz, strategically positioned within easy reach of some of Albania's most notable attractions."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527853048.jpg?k=f0b4aadb2f9bc7dddb3c074099e144bb1caad9ecb6b8901174cd4ba3faf86d06&o=&hp=1"\nlanguage: en\nslug: rooms-for-rents\naddress: "Rruga Pekini, 1023 Kamëz, Albania"\ncity: "Kamëz"\nlocation: "Kamëz"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 41.38368984\n  lng: 19.76507796\nprice: "US$28"\npriceFrom: 28\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527853048.jpg?k=f0b4aadb2f9bc7dddb3c074099e144bb1caad9ecb6b8901174cd4ba3faf86d06&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527853277.jpg?k=bef3b173f17efac47afcdef97cd860f28cbb86e645ac1f96fd9157ab74fb9b71&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527853224.jpg?k=04a491cabeed46dde1da57d5fe6758360b10521798d3bffebbcf2b196f4a95ab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527853337.jpg?k=5052678dd566218a87f3dea3ba4112e149bf244276fe585fe333400bd0eee4de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527853458.jpg?k=5753fe6f5733a85e44c58418a2e64ebb03c713e52ef4b68d1a4cffd864a6eefd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527853197.jpg?k=abd395b3c296cf474c4f083016371bce6d5e1168276ba0cbe1a06c87c0710a9c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527853416.jpg?k=86e668e89e68003b6a93acc829441a914dcd81914828b99047db25c6b46c95cb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527853446.jpg?k=6bbc94e21a23c3baa55d225655ac9d851b943391b0b70d71b42ec6bcfd842a3d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527853166.jpg?k=abade5d06207e58316dbff13ef7d2e9c086a676fc916952e0fd4dc7611ccfdea&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "Double Room"\nnearbyAttractions:\n  - "National Museum of History Albania 7 km"\n  - "House of Leaves 8 km"\n  - "Skanderbeg Square 8 km"\n  - "Clock Tower Tirana 8 km"\n  - "National Gallery of Arts Tirana 8 km"\n  - "Rinia Park 8 km"\n  - "Tanners' Bridge 8 km"\n  - "Former Residence of Enver Hoxha 8 km"\n  - "Bunk'Art 1 Museum 9 km"\n  - "Grand Park of Tirana 9 km"\nnearbyRestaurants:\n  - "Bar Kafe \Arkensi\\"\" 250 m"\n  - "Bar Palma 250 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Lord Bajron 6 km"\n  - "Shesh Rekreativ Yzberisht 6 km"\n  - "Park Lojrash 6 km"\n  - "Sheshi Rekreativ Don Bosko 6 km"\n  - "Sheshi Rekreativ Parku 1Km 7 km"\n  - "Sheshi Rekreativ Mine Peza 7 km"\n  - "Sheshi Rekreativ Allias 7 km"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 7 km"\n  - "Amazing Nature 7 km"\n  - "Sheshi Rekreativ Pallati me Shigjeta 7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 3.6 km"\n  - "Ohrid Airport 85 km"\nbookingURL: "https://www.booking.com/hotel/al/rooms-for-rents.en-gb.html?aid=8035640"\nbestFor: "Best for Airport Access"\nbestCategories: "Airport Access"\ncategory: "Airport Access"\n---\n\nA mere 10 km from Skanderbeg Square, the heart of Albania's vibrant history and culture, Rooms for Rents stands out for its accessibility to the National Museum of History Albania and the intriguing House of Leaves, both less than 10 km away. The lodge's proximity to these cultural landmarks makes it an ideal base for guests eager to dive into the rich tapestry of Albanian heritage.
 
 Complementing its prime location is the lodge's commitment to guest comfort, offering seamless free WiFi connectivity throughout the property. This ensures that guests can stay connected and share their experiences with ease, whether they're posting photos of their adventures or keeping in touch with loved ones.
 
 For travelers flying into Albania, the convenience of Tirana International Mother Teresa Airport being just 5 km away means less time commuting and more time enjoying the stay. Rooms for Rents stands as a testament to thoughtful accommodation that caters to both the leisure and convenience needs of its guests, making it a standout option for those visiting the Kamëz area.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

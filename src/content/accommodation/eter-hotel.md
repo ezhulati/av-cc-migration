@@ -1,28 +1,8 @@
----
-title: ETER Hotel
-description: Accommodations at ETER Hotel are thoughtfully designed with guest comfort in mind. Each air-conditioned room is equipped with a desk, a kettle, a minibar, and a
-featuredImage: "/images/accommodation/210289782.jpg"
-language: en
-slug: eter-hotel
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "ETER Hotel"\ndescription: "ETER Hotel emerges as a standout choice for travelers seeking both relaxation and convenience in Golem."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210289782.jpg?k=576462dd32e4758ba66f02194ed941f76d0ec4684c43e67fa45c619b521d3c0d&o=&hp=1"\nlanguage: en\nslug: eter-hotel\naddress: "Eter Hotel Blvd. Pishave, Mali Robit - Golem, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.241212\n  lng: 19.51789\nprice: "US$98"\npriceFrom: 98\nstarRating: 3\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 395\nratings:\n  overall: 8.4\n  location: 8.8\n  cleanliness: 8.5\n  facilities: 8.4\n  value: 7.6\n  comfort: 8.6\n  staff: 8.2\n  wifi: 8.9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210289782.jpg?k=576462dd32e4758ba66f02194ed941f76d0ec4684c43e67fa45c619b521d3c0d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471831282.jpg?k=32ccab58f8d4b73230d67df47ffa16a6c331c9730b444b0893475cb73cb348ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245883992.jpg?k=340f431b2fdc347ab740a1da8d14701d5d9e4f2f27770055e95d9be1f45072bb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245880679.jpg?k=774aa615d19ce4d26a1a8a7fa75348f62ab201a4f92cc52f21c32e9a89d76755&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217792858.jpg?k=e2a496dd2725d5b3d0a1d154c0a9dccd593d3da2a33c22fa9a8191de8f54c3b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217793271.jpg?k=73e69b8e8aa1060f67f3af6924dac1d356aaaefe757d56df02359af33e1c6af7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245879315.jpg?k=a55966d987dfe0d605de14e194e0eb6e309517b6f45fb4960a9e89e4653e470c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471831971.jpg?k=0ed7662528142a77962ce87ee1edc26c7f390931e6692663facfe8889461d310&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471831620.jpg?k=eb4fc7c1c709a4690fa2810e59e8b77ea79ebfa591d2a6c1aa284599abff6091&o=&hp=1"\namenities:\n  - "2 swimming pools"\n  - "Spa and wellness centre"\n  - "Fitness centre"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Beachfront"\n  - "Private beach area"\n  - "Good breakfast"\nroomTypes:\n  - "Standard Double Room"\n  - "Standard Double Room with Side Sea View"\n  - "Deluxe Double Room with Side Sea View"\n  - "Deluxe Double Room with Sea View"\n  - "Family Room with Sea View"\n  - "Penthouse Suite with Sea View"\n  - "Superior Suite with Sea View"\nnearbyRestaurants:\n  - "Primo Restorant Golem 20 m"\n  - "Beer House Golem 250 m"\nnearbyBeaches:\n  - "Mali I Robit Beach 40 m"\n  - "Golem Beach 750 m"\n  - "Qerret Beach 1.3 km"\n  - "Shkëmbi i Kavajës Beach 2.7 km"\n  - "Durres Beach 5 km"\nwhatsNearby:\n  - "Durres Amphiteatre 10 km"\n  - "1. Maj 10 km"\n  - "Wine Dhe Pooh 10 km"\n  - "Yje Dhe Hena 10 km"\n  - "Bekimi 10 km"\n  - "Sheshi Demokracia 10 km"\n  - "Sotir Noka 11 km"\nairports:\n  - "Tirana International Airport Mother Teresa 24 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Alan"\n    country: "United Kingdom"\n    text: "“The buffet service was great, able to chose items which suited our dietary requirements. Plenty of choice and quantity in the breakfast buffet.
+Being on the sea front, actually on the sea front not over the road.”"\n  - name: "Daria"\n    country: "Serbia"\n    text: "“The hotel is new and stylish. Just next to the beach.”"\n  - name: "Qerim"\n    country: "Greece"\n    text: "“Everything was nigh standard, value for money,
+Nothing to complain for,
+Thank you”"\nbookingURL: "https://www.booking.com/hotel/al/eter.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at ETER Hotel are thoughtfully designed with guest comfort in mind. Each air-conditioned room is equipped with a desk, a kettle, a minibar, and a safety deposit box for personal convenience. Entertainment and relaxation are ensured with a flat-screen TV and a private balcony. The en-suite bathrooms, complete with showers, are stocked with fresh bed linen and towels, underscoring the hotel's attention to detail.
 
-Accommodations at ETER Hotel are thoughtfully designed with guest comfort in mind. Each air-conditioned room is equipped with a desk, a kettle, a minibar, and a safety deposit box for personal convenience. Entertainment and relaxation are ensured with a flat-screen TV and a private balcony. The en-suite bathrooms, complete with showers, are stocked with fresh bed linen and towels, underscoring the hotel's attention to detail.
-
-Guests are invited to rejuvenate at the hotel's spa center, an oasis of tranquility designed to refresh both body and mind.
+Guests are invited to rejuvenate at the hotel's spa center, an oasis of tranquility designed to refresh both body and mind. 
 
 ETER Hotel's location is ideally situated for those eager to explore the local area, with Mali I Robit Beach, Golem Beach, and Qerret Beach all within easy reach. For travelers arriving by air, Tirana International Mother Teresa Airport is conveniently located 41 km away, making ETER Hotel an accessible destination for both domestic and international visitors. This hotel stands as a prime choice for those seeking a harmonious blend of comfort, convenience, and attentive service.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

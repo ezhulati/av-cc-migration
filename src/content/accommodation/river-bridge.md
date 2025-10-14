@@ -1,26 +1,3 @@
----
-title: River Bridge
-description: The apartment itself is a testament to spacious living, boasting a balcony that offers breathtaking mountain views. It encompasses three well-appointed bedrooms
-featuredImage: "/images/accommodation/471480262.jpg"
-language: en
-slug: river-bridge
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to spacious living, boasting a balcony that offers breathtaking mountain views. It encompasses three well-appointed bedrooms, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen that includes modern amenities such as a microwave and toaster. The presence of two bathrooms, each featuring a bath, ensures that convenience is at the forefront of this accommodation's offerings. Importantly, the apartment maintains a non-smoking policy, catering to the comfort and well-being of all guests.
+---\ntitle: "River Bridge"\ndescription: "River Bridge emerges as a serene retreat in the heart of Gjirokastër, offering guests a unique blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471480262.jpg?k=6da504a269f5a22a6004c1a9e68d57111b785aa9dfa86f63d3f7222abc39ad42&o=&hp=1"\nlanguage: en\nslug: river-bridge\naddress: "Rruga Valere, Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.08711388\n  lng: 20.14657729\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471480262.jpg?k=6da504a269f5a22a6004c1a9e68d57111b785aa9dfa86f63d3f7222abc39ad42&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471480257.jpg?k=b2aab896855ce795a6328b227dd477cde23a2ed12cf50a84e5b4dcf1fd80f69f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471480269.jpg?k=2f31c8fc139be8154ceee1c69c192654e850e1686620bdd2b963fc18805d030b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471480287.jpg?k=f76ea98dc60a16fa542dc334c59188730832970fbb9fe42d887e3592624bf31e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471830737.jpg?k=bc27f1dc1d85e12bd14318cd184fcb9ef943e5522de9d8bda5175ff925211897&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471480301.jpg?k=101abf702347a04144ba4367e542932ff6924b9e66aac106d15ed1d667559e6a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471480293.jpg?k=40374323739b930b43ad30a8b0d34cde1b128d5e46ff8fb806be490fa72e9b42&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471480264.jpg?k=453a4880ee2e58ac19d32ce1ab4da3b5ed394bac311c56b7eb6be21d3ba0b8a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471480276.jpg?k=0ffe5d6c2a5ed010d979827db1168304ff6b08a5d8174448519caa545b67357d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "House of Beer 350 m"\n  - "Traditional Pajtimi 350 m"\nairports:\n  - "Corfu International Airport 56 km"\n  - "Ioannina Airport 71 km"\nbookingURL: "https://www.booking.com/hotel/al/river-bridge.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe apartment itself is a testament to spacious living, boasting a balcony that offers breathtaking mountain views. It encompasses three well-appointed bedrooms, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen that includes modern amenities such as a microwave and toaster. The presence of two bathrooms, each featuring a bath, ensures that convenience is at the forefront of this accommodation's offerings. Importantly, the apartment maintains a non-smoking policy, catering to the comfort and well-being of all guests.
 
 For those traveling to or from the area, the proximity to Ioannina Airport, located 83 km away, makes River Bridge an excellent choice for both short and extended stays. This apartment not only promises a memorable stay but also provides a peaceful haven away from the hustle and bustle of daily life.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Hotel Fantazia
-description: The hotel prides itself on delivering impeccable service, including room service, a 24-hour front desk, and currency exchange facilities, ensuring a hassle-free
-featuredImage: "/images/accommodation/368981453.jpg"
-language: en
-slug: hotel-fantazia
-location: ""
-amenities: []
-images: []
----
-
-The hotel prides itself on delivering impeccable service, including room service, a 24-hour front desk, and currency exchange facilities, ensuring a hassle-free stay for every guest. Among its offerings, Hotel Fantazia boasts select rooms that provide captivating city views, each complemented by a private balcony, adding a touch of elegance to the stay.
+---\ntitle: "Hotel Fantazia"\ndescription: "Hotel Fantazia emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Shkodër, situated a mere 43 km from the Port of Bar."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368981453.jpg?k=4bd80ab88be06fc10b8213726c14b25143c70f7977b68b6fbdb95746837c8496&o=&hp=1"\nlanguage: en\nslug: hotel-fantazia\naddress: "SH41 Zues Shkoder Zus AL, 4003, Albania, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.035222\n  lng: 19.478571\nprice: "US$32"\npriceFrom: 32\nstarRating: 4\nrating: 7.4\nratingWords: "Good"\nnumberOfReviews: 16\nratings:\n  overall: 7.4\n  location: 8.3\n  cleanliness: 7\n  facilities: 6.7\n  value: 7.7\n  comfort: 7\n  staff: 7.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368981453.jpg?k=4bd80ab88be06fc10b8213726c14b25143c70f7977b68b6fbdb95746837c8496&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434780428.jpg?k=93f48918d057117111c4cc230a9b570547d0f2e080a1199500b9d8d3d155ce1a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369296044.jpg?k=5b96f39f51aa6d279fb6b40f979dd6414348c8d6ee193c637645bcd521f76163&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369297312.jpg?k=7245e0ed17dfb27a710b09e0b5d8a9de935005a8a0c3e993fe6a778c7ea3498b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373490773.jpg?k=6f07eb5e7647d060ba37246e7bbb9fc800cf100de0afa9d0250a3882454aaef0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467591372.jpg?k=033e7d836433a9820d84147feb61cf782a86a27a2d218fed3c78c8d9efaefaae&o=&hp=1"\namenities:\n  - "Indoor swimming pool"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Budget Double Room"\nnearbyRestaurants:\n  - "Restorant Budrin 0 m"\n  - "Vila Nr 1 350 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 1.8 km"\n  - "National Park Skadar Lake 9 km"\nairports:\n  - "Podgorica Airport 39 km"\n  - "Tirana International Airport Mother Teresa 70 km"\n  - "Tivat Airport 73 km"\nbookingURL: "https://www.booking.com/hotel/al/fantazia-shkoder.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe hotel prides itself on delivering impeccable service, including room service, a 24-hour front desk, and currency exchange facilities, ensuring a hassle-free stay for every guest. Among its offerings, Hotel Fantazia boasts select rooms that provide captivating city views, each complemented by a private balcony, adding a touch of elegance to the stay.
 
 Morning starts on a high note at Hotel Fantazia with a delightful Italian breakfast, setting the tone for a day of exploration or relaxation. For those seeking leisure within the hotel's confines, a 4-star accommodation experience awaits, highlighted by an indoor pool that promises year-round enjoyment.
 
 Conveniently located, the hotel is just 63 km away from Podgorica Airport, making it an accessible retreat for both international and domestic travelers. Hotel Fantazia stands as a testament to refined hospitality, offering a memorable stay in the heart of Shkodër.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

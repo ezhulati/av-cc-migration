@@ -5,9 +5,10 @@ featuredImage: "/images/pages/VisitAlbania.jpeg"
 language: en
 slug: how-we-make-money
 seo:
-  metaTitle: How We Fund Our Work
-  metaDescription: ""
   canonicalURL: https://albaniavisit.com/how-we-make-money/
+  robots: "noindex"
+  metaDescription: "Learn how we sustain our site through affiliate partnerships, ensuring independent reviews while providing helpful resources for planning your trip to Albania."
+  robots: "noindex"
 ---
 
 ## **How We Fund Our Work**

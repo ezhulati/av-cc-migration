@@ -1,28 +1,5 @@
----
-title: Mani Apartment 2
-description: "The apartment itself is a spacious retreat, featuring a balcony that offers unobstructed sea views, perfect for those tranquil mornings or picturesque sunsets."
-featuredImage: "/images/accommodation/471221752.jpg"
-language: en
-slug: mani-apartment-2
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a spacious retreat, featuring a balcony that offers unobstructed sea views, perfect for those tranquil mornings or picturesque sunsets. It accommodates guests with a well-appointed bedroom, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen that includes an oven and a microwave. The inclusion of a bathroom with a bidet adds to the comfort, and for those in need, towels and linens are available upon request.
+---\ntitle: "Mani Apartment 2"\ndescription: "Mani Apartment 2 emerges as a prime choice for travelers seeking a serene beachfront experience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471221752.jpg?k=b33173021ba12cd222a619f5ebe470cd6c0f36e03b26c3a9cd4fbc5bb051fb38&o=&hp=1"\nlanguage: en\nslug: mani-apartment-2\naddress: "Rr. Porta e Detit 17 , Ap 5, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30083772\n  lng: 19.49600658\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 5\nratings:\n  overall: 9.4\n  location: 9.6\n  cleanliness: 9.5\n  facilities: 9\n  value: 8\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471221752.jpg?k=b33173021ba12cd222a619f5ebe470cd6c0f36e03b26c3a9cd4fbc5bb051fb38&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471221777.jpg?k=1f174604c0e0b6bc7304675a04051fe54c57840dbd884ea4f4312827b3fba16b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471221810.jpg?k=b9883202f24906dc7c768f94243f3da5ee8db474501293afa3fa17e2e9e8adc9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472117254.jpg?k=29b9150c0bdb57c9ea31cc25f9a4dc2b564a1b244623ddd7eda2a54562caa271&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471221823.jpg?k=f131dde0f5785b123bd33f86ea70e372647be1c9b4e712dd079fe14936a97a84&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471221845.jpg?k=11edd57187cbeec0f2d765755886bff5326c8512333b55c26ff99ebbe145a57a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471221800.jpg?k=af7afee3d88ec92e78afe7e79033526cd16785008b6198b1c5d17e8012a29a53&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472790632.jpg?k=d607a39b4a855602f78b52e4d877abdc77b266564564ce97cbe430db9251118a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472790702.jpg?k=e5d4c4f87e1ce9c87df8cd3eab9d9c75279a6fe629ed7691963488ab7cbed4fd&o=&hp=1"\namenities:\n  - "Private parking"\n  - "Good free WiFi (34 Mbps)"\n  - "Family rooms"\n  - "Beachfront"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Verona 50 m"\n  - "RRESHKA 150 m"\nnearbyBeaches:\n  - "Durres Beach 6 m"\n  - "Shkëmbi i Kavajës Beach 2 km"\n  - "Currila Beach 4.1 km"\n  - "Golem Beach 4.4 km"\n  - "Kallmi Beach 6 km"\nwhatsNearby:\n  - "Bekimi 3.4 km"\n  - "Wine Dhe Pooh 4.3 km"\n  - "Sheshi Demokracia 4.4 km"\n  - "Yje Dhe Hena 4.4 km"\n  - "Durres Amphiteatre 4.4 km"\n  - "1. Maj 4.6 km"\n  - "Sotir Noka 4.7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nreviews:\n  - name: "Zoltán"\n    country: "Hungary"\n    text: "“Szuper a kilátás és pár méterre van a tenger !! A szállásadó mindig elérhető volt együtt tudtunk működni!”"\nbookingURL: "https://www.booking.com/hotel/al/mani-apartment-2.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a spacious retreat, featuring a balcony that offers unobstructed sea views, perfect for those tranquil mornings or picturesque sunsets. It accommodates guests with a well-appointed bedroom, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen that includes an oven and a microwave. The inclusion of a bathroom with a bidet adds to the comfort, and for those in need, towels and linens are available upon request.
 
 Located just 2.7 km from the scenic Shkëmbi i Kavajës Beach, the apartment is also within a reasonable distance from major attractions. Skanderbeg Square is 39 km away, offering a glimpse into the rich history and culture of the area, while the Dajti Ekspres Cable Car, 43 km away, presents an adventure for those looking to explore the natural beauty of the region from above. For guests traveling by air, the Tirana International Mother Teresa Airport is conveniently 33 km from Mani Apartment 2, making arrivals and departures as smooth as possible.
 
 Mani Apartment 2 stands out as an ideal spot for those looking to enjoy the beauty of Durrës's coastline while having a comfortable and well-equipped base to return to.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

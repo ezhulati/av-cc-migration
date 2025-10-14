@@ -5,11 +5,14 @@ region: Southern Albania
 featuredImage: /images/destinations/permet.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: permet
 highlights: []
+seo:
+  metaDescription: "Experience the charm of Përmet with our diverse category listing. Find everything you need to make your visit truly memorable."
 ---
 
 Custom Audio Player 
@@ -245,10 +248,3 @@ Përmet exists at a special intersection—where natural beauty meets cultural d
 
 For those seeking the authentic heart of Albania—one beating to rhythms established centuries ago yet facing confidently toward the future—Përmet offers a rare and precious welcome.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

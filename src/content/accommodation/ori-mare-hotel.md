@@ -1,15 +1,6 @@
----
-title: Ori Mare Hotel
-description: The hotel prides itself on its attentive services, featuring a 24-hour front desk ready to cater to guests' needs and a luggage storage space for convenience. F
-featuredImage: "/images/accommodation/466438324.jpg"
-language: en
-slug: ori-mare-hotel
-location: ""
-amenities: []
-images: []
----
-
-The hotel prides itself on its attentive services, featuring a 24-hour front desk ready to cater to guests' needs and a luggage storage space for convenience. For those looking to unwind, the on-site bar serves as a perfect spot for a relaxing drink.
+---\ntitle: "Ori Mare Hotel"\ndescription: "Ori Mare Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Ksamil."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466438324.jpg?k=818228b65b8b1f3b8f5ca1e40720a8ecb88c9b6551071fb1d0ed39b4f45087d3&o=&hp=1"\nlanguage: en\nslug: ori-mare-hotel\naddress: "Rruga Ibrahim Rugova Ksamil, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.76566466\n  lng: 20.00365963\nprice: "US$35"\npriceFrom: 35\nstarRating: 4\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 136\nratings:\n  overall: 9.2\n  location: 8.7\n  cleanliness: 9.6\n  facilities: 9.3\n  value: 9.1\n  comfort: 9.6\n  staff: 9.5\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466438324.jpg?k=818228b65b8b1f3b8f5ca1e40720a8ecb88c9b6551071fb1d0ed39b4f45087d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466438320.jpg?k=366abb417bb3d83f5effb05a056cbf6889c571f2a86f531cf548286f860f20ec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466438328.jpg?k=a2900284926799f3a53dbd561d5ddbb3b17e57d57bd3c61c6162575583410333&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466438307.jpg?k=70a928b2e29e5506279f391c0aaec8872454df03e73e16ac3b88ff40b693dbdc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466438389.jpg?k=1ed4be213503d4d767c221aa661e3036d3bbba5be8a925ce02a3193c78ce45bd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466438359.jpg?k=1a521435cb1b2f2cfa63ce050dce5407776506d779f3c0db99af9dcb9350ab68&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466438354.jpg?k=89318b0550a786fc52256908b024c296d3bfaceddb6ffc82b1bb3da617665942&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466438338.jpg?k=2174b0504474f4c277f22fad8eee99686741d5a0a84b0a81ef02b08299d93f6f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466438344.jpg?k=900a616ad1472a9cf15a5b6354e6fedd33eb4ab3004a90fa8cb5d2ef643429d2&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Very good breakfast"\nnearbyAttractions:\n  - "Museum of Banknotes 17 km"\n  - "New Fortress 17 km"\n  - "Serbian Museum 17 km"\n  - "Theotoki G. Square 18 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 18 km"\n  - "Trion Martiron Park 19 km"\n  - "Mon Repos Palace 19 km"\n  - "Kapodistrias Museum 20 km"\nnearbyRestaurants:\n  - "Bar Restorant Pizza Legisi 2 200 m"\n  - "Grill Zone 200 m"\nnearbyBeaches:\n  - "Ksamil Beach 9 500 m"\n  - "Paradise Beach 600 m"\n  - "Bora Bora Beach 750 m"\n  - "Lori Beach 750 m"\n  - "Ksamil Beach 750 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 250 m"\n  - "Butrint National Park 2.5 km"\n  - "Plazhi I Krorezes 3.8 km"\n  - "Parc National de Butrint 11 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 17 km"\n  - "Old Fortress 17 km"\nairports:\n  - "Corfu International Airport 19 km"\n  - "Ioannina Airport 69 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Sebastian"\n    country: "Poland"\n    text: "“Nice and Comfortable room
+Nice, modern and safety hotel
+Good view from balcony Cozy area with swimming pool Quiet - area - at the evening”"\n  - name: "Lucy"\n    country: "United Kingdom"\n    text: "“Lovely brand new hotel, very welcoming and friendly staff and the rooms and pool area were always super clean. The breakfast was great too. It takes about 10/15 minutes to walk to the main beaches of Ksamil. The underground car park was also very...”"\n  - name: "Nataliya"\n    country: "Serbia"\n    text: "“New hotel, very clean rooms, very friendly and caring staff.”"\nbookingURL: "https://www.booking.com/hotel/al/ori-mare.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe hotel prides itself on its attentive services, featuring a 24-hour front desk ready to cater to guests' needs and a luggage storage space for convenience. For those looking to unwind, the on-site bar serves as a perfect spot for a relaxing drink.
 
 Accommodations at Ori Mare Hotel are thoughtfully designed with guest comfort in mind. Each room is equipped with air conditioning, a desk, and a balcony offering city views, allowing guests to soak in the ambiance of Ksamil from the privacy of their room. The inclusion of a private bathroom, flat-screen TV, and complimentary bed linen and towels add to the comfort of the stay. Select rooms elevate the experience further with breathtaking sea views, and all are furnished with a kettle and wardrobe for added convenience.
 
@@ -18,15 +9,3 @@ Culinary experiences at the hotel are diverse, with options ranging from a buffe
 For beach enthusiasts, Paradise Beach is easily accessible, located less than 1 km from the hotel, while Bora Bora Beach is just an 11-minute walk away. For international travelers, Corfu International Airport is the nearest gateway, situated 92 km from Ori Mare Hotel, making it a convenient option for those flying in or out.
 
 In summary, Ori Mare Hotel stands out as a premier destination for those seeking a harmonious blend of relaxation, convenience, and attentive service in the heart of Ksamil.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

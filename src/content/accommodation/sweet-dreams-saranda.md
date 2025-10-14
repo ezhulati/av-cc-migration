@@ -1,30 +1,7 @@
----
-title: Sweet Dreams Saranda
-description: The apartment itself is a haven of space and light, boasting a generous terrace that commands stunning sea views. It features a well-appointed bedroom, a cozy l
-featuredImage: "/images/accommodation/368158715.jpg"
-language: en
-slug: sweet-dreams-saranda
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Sweet Dreams Saranda"\ndescription: "Sweet Dreams Saranda emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368158715.jpg?k=cba3b86eba37c3da3a8be7b0bf115e6cd62bea8c3596e19c2c20e41985d50aa8&o=&hp=1"\nlanguage: en\nslug: sweet-dreams-saranda\naddress: "Rruga Qazim Demi, Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87177091\n  lng: 20.016988\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 9.6\n  location: 7.5\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368158715.jpg?k=cba3b86eba37c3da3a8be7b0bf115e6cd62bea8c3596e19c2c20e41985d50aa8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368162307.jpg?k=064680f29ee37a8e9c7a3a51b92062a1b10725c0b85cdad2df6a960292dd6669&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466914649.jpg?k=b0eea900ce58ac718c1bcbf557b30fe528c513a471e0b05cb53027eb4e34632e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368162321.jpg?k=9c70ff8543626853c653873e36b166e693d712dfd3a7c25ae84ebd7a30e39b0e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368162344.jpg?k=41d53175b93ade87610e9a1e58ff318fef410e3112f2fcf7fca2480858534466&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466916024.jpg?k=e408b30e47386fa0d46a89ba97e0c28631bf35a9d41a0a2d840a601e5aa719bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466915843.jpg?k=4e81212316fce9ec8e178caa55febb2380ca921fde1604b79cf7aeae2f3c3733&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368162349.jpg?k=5901bb3d01aedbea8273af914b455729a3226cd226a13239975520e2f7aabfe8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466915962.jpg?k=0b01872f8f148391eff419c7ec2583d6fa73c72f3a591b69d2d6a0c127c794da&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Terrace"\nnearbyRestaurants:\n  - "Casa Nostra 100 m"\n  - "Restorant Kalija 150 m"\nnearbyBeaches:\n  - "Saranda City Beach 250 m"\n  - "La Petite Beach 400 m"\n  - "Maestral Beach 550 m"\n  - "Sarande Main Beach 1.2 km"\n  - "VIP Beach 1.4 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.6 km"\n  - "Butrint National Park 2.5 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/sweet-dreams-saranda.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of space and light, boasting a generous terrace that commands stunning sea views. It features a well-appointed bedroom, a cozy living room complete with a flat-screen TV, and a fully equipped kitchen that includes modern amenities such as a dishwasher and toaster. The inclusion of a bathroom with a bath adds a touch of home comfort. One of the highlights is the outdoor dining area, where guests can savor their meals against the backdrop of captivating city views, enhancing the dining experience with a scenic feast for the eyes.
 
-The apartment itself is a haven of space and light, boasting a generous terrace that commands stunning sea views. It features a well-appointed bedroom, a cozy living room complete with a flat-screen TV, and a fully equipped kitchen that includes modern amenities such as a dishwasher and toaster. The inclusion of a bathroom with a bath adds a touch of home comfort. One of the highlights is the outdoor dining area, where guests can savor their meals against the backdrop of captivating city views, enhancing the dining experience with a scenic feast for the eyes.
-
-Privacy and tranquility are paramount at Sweet Dreams Saranda, with thoughtful touches like a private entrance and soundproofing ensuring a peaceful stay. The provision of air conditioning and free private parking further underscores the property's commitment to guest convenience.
+Privacy and tranquility are paramount at Sweet Dreams Saranda, with thoughtful touches like a private entrance and soundproofing ensuring a peaceful stay. The provision of air conditioning and free private parking further underscores the property’s commitment to guest convenience.
 
 For those keen to explore beyond the city, Butrint National Park offers a rich tapestry of history and nature just 15 km away. Additionally, the proximity to Ioannina Airport, 95 km from the property, facilitates ease of travel for international guests.
 
 In summary, Sweet Dreams Saranda presents an appealing package for those in search of a comfortable, well-located base to explore the enchanting surroundings of Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

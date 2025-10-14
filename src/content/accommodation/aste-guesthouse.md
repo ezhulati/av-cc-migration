@@ -1,15 +1,4 @@
----
-title: Aste Guesthouse
-description: The grounds of Aste Guesthouse are a serene retreat, boasting a lush garden and a welcoming terrace, perfect for relaxation or a leisurely read. For those who p
-featuredImage: "/images/accommodation/43632424.jpg"
-language: en
-slug: aste-guesthouse
-location: ""
-amenities: []
-images: []
----
-
-The grounds of Aste Guesthouse are a serene retreat, boasting a lush garden and a welcoming terrace, perfect for relaxation or a leisurely read. For those who prefer the comfort of their rooms, the guesthouse offers room service along with a special diet menu upon request. Additionally, the option to enjoy a barbecue on-site adds a delightful touch to the stay.
+---\ntitle: "Aste Guesthouse"\ndescription: "Stepping into the realm of historical charm and modern amenities, Aste Guesthouse, a gem from the 1920s, underwent a remarkable transformation in 2014 to welcome guests into its warm embrace in the quaint Tropojë village."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/43632424.jpg?k=62e96fca02c7852c6f273c6bcb8986e35ef784155f3d8ffb837bb87fab7edc06&o=&hp=1"\nlanguage: en\nslug: aste-guesthouse\naddress: "Tropojë, 8703 Tropojë, Albania"\ncity: "Tropojë"\nlocation: "Tropojë"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 42.40427182\n  lng: 20.16574055\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 25\nratings:\n  overall: 8.5\n  location: 8.3\n  cleanliness: 8.9\n  facilities: 8.5\n  value: 8.6\n  comfort: 8.7\n  staff: 8.9\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/43632424.jpg?k=62e96fca02c7852c6f273c6bcb8986e35ef784155f3d8ffb837bb87fab7edc06&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/43628120.jpg?k=1deffd0f72ee80e9994393b128f53805de4c6fc385889498de9e59133df0df1f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/43628131.jpg?k=55acacba3e8caabb26451fac53b32ff5a360b7200fa7e07039c7b1a83db0693b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/43632427.jpg?k=57ff213cb2f43e8b84a45aafe3b824504ecab724804fca4c068a051ce234e511&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145709731.jpg?k=e60c33b940b26cdfee0408267246123e11b84902eaae8c445fec26b4113ee6bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/43628132.jpg?k=5d3a1a214d15e01ee266b09664b414cca16c3753e03f2843be467a2bcfd3bd34&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Airport shuttle"\n  - "Room service"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "Standard Twin Room"\n  - "Double Room with Extra Bed"\n  - "Standard Quadruple Room"\nnearbyRestaurants:\n  - "Caffe Inesi 400 m"\n  - "Kafe 4.2 km"\nwhatsNearby:\n  - "Valbona Valley National Park 7 km"\n  - "Valbona Valley National Park 9 km"\n  - "Prokletije National Park 18 km"\nairports:\n  - "Pristina International Airport 73 km"\n  - "Podgorica Airport 75 km"\nreviews:\n  - name: "Bartosz"\n    country: "Poland"\n    text: "“Swojska atmosfera, wystrój związany z lokalną kulturą.”"\n  - name: "Michał"\n    country: "Poland"\n    text: "“Przedpokój z narożnikiem wypoczynkowym wyśmienity. Pokoje bardzo ładne , nowe.”"\n  - name: "Luc"\n    country: "France"\n    text: "“l’accueil la disponibilité le service et surtout une famille très sympa”"\nbookingURL: "https://www.booking.com/hotel/al/aste-guesthouse.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe grounds of Aste Guesthouse are a serene retreat, boasting a lush garden and a welcoming terrace, perfect for relaxation or a leisurely read. For those who prefer the comfort of their rooms, the guesthouse offers room service along with a special diet menu upon request. Additionally, the option to enjoy a barbecue on-site adds a delightful touch to the stay.
 
 Accommodations at Aste Guesthouse are thoughtfully designed, featuring private bathrooms equipped with all essentials, ensuring a comfortable and hassle-free stay. Beyond the comforts of the rooms, the guesthouse provides an array of services including currency exchange, ticketing, and even babysitting, catering to the needs of all guests.
 
@@ -18,15 +7,3 @@ Adventure seekers will find Aste Guesthouse an ideal base for exploring the natu
 Conveniently located, the guesthouse is a mere 12 km from the vibrant city of Bajram Curri, and equally distanced at 30 km from both Valbona National Park and the historic town of Gjakova in Kosovo, making it an excellent choice for travelers looking to explore the region. With the added benefit of complimentary parking, guests are assured a hassle-free stay.
 
 Aste Guesthouse is not just a place to stay; it's a gateway to a rich historical and natural exploration, offering a blend of comfort, convenience, and adventure for its guests.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

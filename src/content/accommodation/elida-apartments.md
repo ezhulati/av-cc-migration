@@ -1,28 +1,5 @@
----
-title: Elida Apartments
-description: What sets our accommodation apart is its spacious layout. It features two well-appointed bedrooms, a bathroom, and a kitchen with everything you need for a self
-featuredImage: "/images/accommodation/501766348.jpg"
-language: en
-slug: elida-apartments
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Elida Apartments"\ndescription: "Elida Apartments, nestled in the heart of Gjirokastër, offers a unique and refreshing stay."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501766348.jpg?k=f3a8fd8899703e7d66e7156c0b5d568699320f4b86a64313b1a6eee76b144bef&o=&hp=1"\nlanguage: en\nslug: elida-apartments\naddress: "Rruga Zenel Gjoleka Building nr.1 Apartment nr.10, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.08090288\n  lng: 20.13456789\nprice: "US$60"\npriceFrom: 60\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501766348.jpg?k=f3a8fd8899703e7d66e7156c0b5d568699320f4b86a64313b1a6eee76b144bef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501766849.jpg?k=103b8ba9aa69b89c003cd29a44bc4b037bbcef983721de7da0360e9d24bc9b58&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501766860.jpg?k=f8120c9ba00ca916fa996f9dfa1eee6f357c724464ef7cfc125ee0f750eca80b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501766404.jpg?k=ffce092540c273e8c1fb5f9a6384041031b44ee1c2efc685b5d3397c08a4e515&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501766391.jpg?k=2d80dda13d2009261fb531fc4fb6da166a87c5c8acbc3270be6bdfa293d81976&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501766854.jpg?k=a831e6dc5d33a2423a1c4a341519a879f7bd1c1a9a2b55aa45d56bb15283317d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501766408.jpg?k=541242964f22fb3bdac448101449a59fc3d45f02913057d68916db2a002ba0b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501766852.jpg?k=b031c4ae21f936e9413cb0ab024171fffc74ba704f56163dc4e6d982530e66e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501766398.jpg?k=c1f1995cfaa40aa40bbd850740d2f1c95304dd5d3c71ee3de11602fdabbd2a45&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Imago 150 m"\n  - "Piazza la Crepa 200 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 71 km"\nbookingURL: "https://www.booking.com/hotel/al/elida-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nWhat sets our accommodation apart is its spacious layout. It features two well-appointed bedrooms, a bathroom, and a kitchen with everything you need for a self-sufficient stay. We've designed our space with your comfort and convenience in mind. 
 
-What sets our accommodation apart is its spacious layout. It features two well-appointed bedrooms, a bathroom, and a kitchen with everything you need for a self-sufficient stay. We've designed our space with your comfort and convenience in mind.
-
-Guests can enjoy the added luxury of a balcony, perfect for taking in the local atmosphere. Entertainment needs are met with a flat-screen TV, ensuring a cozy night in is always an option.
+Guests can enjoy the added luxury of a balcony, perfect for taking in the local atmosphere. Entertainment needs are met with a flat-screen TV, ensuring a cozy night in is always an option. 
 
 For those concerned about health and wellness, it's noteworthy that the apartment maintains a strict non-smoking policy. Situated a scenic drive from Zaravina Lake, only 45 km away, and with Ioannina Airport 83 km from the doorstep, Elida Apartments positions itself as an ideal base for exploring the enchanting surroundings of Gjirokastër.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

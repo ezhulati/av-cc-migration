@@ -1,15 +1,4 @@
----
-title: Kalaja Inn
-description: Upon arrival, guests are greeted by a welcoming 24-hour front desk, ready to assist with any needs, including currency exchange. The shared kitchen facility add
-featuredImage: "/images/accommodation/468785014.jpg"
-language: en
-slug: kalaja-inn
-location: ""
-amenities: []
-images: []
----
-
-Upon arrival, guests are greeted by a welcoming 24-hour front desk, ready to assist with any needs, including currency exchange. The shared kitchen facility adds a touch of home, allowing visitors to prepare their meals as they please.
+---\ntitle: "Kalaja Inn"\ndescription: "Kalaja Inn emerges as a refreshing retreat in the heart of Krujë, boasting a splendid terrace with breathtaking mountain views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468785014.jpg?k=5a46f98076a28068c32252a5bddc4899dd83a2969d55b5bf5df95676c05772a6&o=&hp=1"\nlanguage: en\nslug: kalaja-inn\naddress: "Rruga Lek Zaharia, 1501 Krujë, Albania"\ncity: "Krujë"\nlocation: "Krujë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.5079588\n  lng: 19.79640387\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 96\nratings:\n  overall: 8.5\n  location: 9.5\n  cleanliness: 9.2\n  facilities: 8.7\n  value: 8.6\n  comfort: 9\n  staff: 9.5\n  wifi: 5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468785014.jpg?k=5a46f98076a28068c32252a5bddc4899dd83a2969d55b5bf5df95676c05772a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495671880.jpg?k=dfd9b26eaab30fb4edee93c7c31a5a5981bb8f68ff99828446f9e1f9fe54abd1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495671717.jpg?k=83973f8c1915efa5db43c320973e067337efbb78c116f9819659467c38a92464&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495671455.jpg?k=4fbf403deb7aa4abdb77b6c2ecd8a6c8994911401e2927c40f5aa90568d09816&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495671382.jpg?k=c2434510fc4ecf1389d05335f601759ba173cae350821ae1bc41def5a7bd3699&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491812612.jpg?k=c214735291712a2025871d38a75199a060fff0d54b9db8c05f2c541c37ab590d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485135389.jpg?k=05ebf1e2a76870ebb7d450657d42ad4e378bad9e8b6596d4640a2497f4743b66&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485134608.jpg?k=eccbd93fce94448118599373ee2b4a0668978a41c59be169adf98e602b1d0f5d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485134444.jpg?k=b7f854517655a0f08c561f559ccc3fe9365ec031318963045a576fbc29c77a81&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Exceptional breakfast"\nnearbyAttractions:\n  - "National Museum of History Albania 20 km"\nnearbyRestaurants:\n  - "Restorant Bardhi 150 m"\n  - "Eli Bar Restorant 200 m"\nwhatsNearby:\n  - "Dajti Mountain National Park 3.1 km"\n  - "Sheshi Rekreativ Allias 18 km"\n  - "Bunk'Art 1 Museum 18 km"\n  - "Sheshi Rekreativ Lord Bajron 19 km"\n  - "Sheshi Rekreativ Gjolek Kokona 19 km"\n  - "Sheshi Rekreativ Don Bosko 19 km"\n  - "Sheshi Rekreativ Mine Peza 19 km"\n  - "Amazing Nature 20 km"\n  - "Sheshi Jjosef Shtraus 20 km"\n  - "Shesh Rekreativ Yzberisht 20 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 87 km"\nreviews:\n  - name: "Teresa"\n    country: "United Kingdom"\n    text: "“Great location for Kruje castle and the medieval centre. The host was extremely pleasant and very helpful. Location is a perfect end to a stay in Albania as it’s not too far from the airport.”"\n  - name: "Menno"\n    country: "Netherlands"\n    text: "“The location of the guesthouse is excellent. It is just around the corner of the entrance to the bazar. The rooms have just been renovated and are very comfortable (double doors to the balcony have mosquito nets for example, great!). Beds are...”"\n  - name: "Willem"\n    country: "Belgium"\n    text: "“Very friendly host, the location of the bookinh was great. Everything was clean & for a very good price.”"\nbookingURL: "https://www.booking.com/hotel/al/kalaja-inn-kruje.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nUpon arrival, guests are greeted by a welcoming 24-hour front desk, ready to assist with any needs, including currency exchange. The shared kitchen facility adds a touch of home, allowing visitors to prepare their meals as they please.
 
 Accommodations at Kalaja Inn are nothing short of comfortable and well-appointed. Each unit is furnished with a flat-screen TV and complimentary WiFi, ensuring guests stay connected and entertained. The private bathrooms add an extra layer of privacy, and select rooms boast balconies for those who wish to soak up the surrounding natural beauty from the comfort of their room.
 
@@ -18,15 +7,3 @@ For convenience, a minimarket on-site caters to guests' everyday needs, making l
 Notably, the Kalaja Inn is positioned within easy reach of significant landmarks, including the Former Residence of Enver Hoxha and the Rock of Kavaje, enriching guests' stay with historical exploration. For those traveling by air, the convenience of being just 18 km from Tirana International Mother Teresa Airport is unparalleled.
 
 Kalaja Inn stands out as a prime choice for travelers seeking a blend of comfort, convenience, and a touch of adventure in Krujë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,26 +1,4 @@
----
-title: Bujtina Valgent
-description: Connectivity is never an issue, as free WiFi is accessible throughout the premises, allowing guests to stay connected with the world or plan their next adventur
-featuredImage: "/images/accommodation/492103915.jpg"
-language: en
-slug: bujtina-valgent
-location: ""
-amenities: []
-images: []
----
-
-Connectivity is never an issue, as free WiFi is accessible throughout the premises, allowing guests to stay connected with the world or plan their next adventure in Berat. For those looking to unwind with a drink, the on-site bar serves as a cozy spot to relax after a day of exploration.
+---\ntitle: "Bujtina Valgent"\ndescription: "Bujtina Valgent stands as a charming retreat in the heart of Berat, offering guests a serene accommodation experience complete with modern amenities and picturesque garden views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492103915.jpg?k=023f7fa13b8531065bc07647a45c244c26d2f90f3d5c56470946749e92481432&o=&hp=1"\nlanguage: en\nslug: bujtina-valgent\naddress: "Rruga Veri Zaloshnja, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.70483836\n  lng: 19.95428617\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 39\nratings:\n  overall: 9.5\n  location: 9.7\n  cleanliness: 9.4\n  facilities: 9\n  value: 9.7\n  comfort: 9.6\n  staff: 9.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492103915.jpg?k=023f7fa13b8531065bc07647a45c244c26d2f90f3d5c56470946749e92481432&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479826999.jpg?k=e621ae0a7f1ab19aa72e07da9f5f89e3c094ef3645478f6d574fa51ddd3b4c74&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479826915.jpg?k=0c2f1d455c74ed326f8e97027507cdfdda8552001563e197570cff7fc9f7bb11&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479827031.jpg?k=fba47c1e328ac439a7ade85981c5265328fc4ba68cf3d356a2ebb15c5b0e2585&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479824743.jpg?k=271673a72339f82a3b0ff88e67973c921a80755ebabaa753895ab3aa1d1b39e6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479824730.jpg?k=9d401eadeebe2d09950f94d77dd1e9611368c767b0a3d5860dea48dd001715ba&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Twin Room"\n  - "Triple Room"\n  - "Double Room with Private Bathroom"\nnearbyRestaurants:\n  - "Pizza Hallall Medine 50 m"\n  - "Imperial Fish Berat 50 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 83 km"\nreviews:\n  - name: "Mishál"\n    country: "United Kingdom"\n    text: "“A great, perfectly located B&B run by the sweetest family. When we arrived there was no parking available and they moved their car to accommodate us (even though we said it’s not necessary because we were happy to find parking elsewhere). The room...”"\n  - name: "Kerem"\n    country: "Turkey"\n    text: "“The location is very close to the center with little to no steepness. Good breakfast with handmade jams and lovely pişi.
+Our room was tidy and bathroom was new and sparklingly clean. Our hosts were accommodating also.”"\n  - name: "Jusuf"\n    country: "Switzerland"\n    text: "“The owners have been very courteous and their facility was charming with its garden. We have been three people travelling through Albania and we would recommend every one to stay in this residence if they want to be with locals and also talk with...”"\nbookingURL: "https://www.booking.com/hotel/al/bujtina-valgent.en-gb.html?aid=8035640"\nbestFor: "Best for Location"\nbestCategories: "Location"\ncategory: "Location"\n---\n\nConnectivity is never an issue, as free WiFi is accessible throughout the premises, allowing guests to stay connected with the world or plan their next adventure in Berat. For those looking to unwind with a drink, the on-site bar serves as a cozy spot to relax after a day of exploration.
 
 Situated 118 km from Tirana International Mother Teresa Airport, Bujtina Valgent offers a peaceful escape with the promise of a memorable stay, making it an ideal choice for travelers seeking both comfort and convenience in the picturesque setting of Berat.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

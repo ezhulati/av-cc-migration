@@ -1,15 +1,4 @@
----
-title: Villa Saimon
-description: Guests are welcomed into a space where every detail caters to an unparalleled stay. The apartment boasts a spacious terrace that opens up to breathtaking mounta
-featuredImage: "/images/accommodation/486670203.jpg"
-language: en
-slug: villa-saimon
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into a space where every detail caters to an unparalleled stay. The apartment boasts a spacious terrace that opens up to breathtaking mountain views, providing an ideal backdrop for relaxation or intimate gatherings. Inside, the layout includes two well-appointed bedrooms, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen featuring modern appliances such as a dishwasher and an oven. The convenience of two bathrooms, each with a walk-in shower, adds to the comfort, while the inclusion of air conditioning, a bidet, and a dressing room in the unit ensures a stay that leaves no need unmet.
+---\ntitle: "Villa Saimon"\ndescription: "Villa Saimon emerges as a serene oasis, offering a unique blend of comfort and convenience, just a stone's throw away from the vibrant Saranda City Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486670203.jpg?k=c4a1ef747e9a039da6ecf8b2bbb28bab7d58ef3a28098a263f79a19c5ad7c451&o=&hp=1"\nlanguage: en\nslug: villa-saimon\naddress: "Saranda, AL - Corfu, GR, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87178349\n  lng: 20.02709139\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486670203.jpg?k=c4a1ef747e9a039da6ecf8b2bbb28bab7d58ef3a28098a263f79a19c5ad7c451&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486670232.jpg?k=ab479e471ea7bd265816726ae33b092cc56bd94414b9e7fdd206e9dde4bc3377&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486670229.jpg?k=ba0c44a7f234022d664fbce4be756d7abb9be12aa6a21eae6a63e64da16a089d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486670236.jpg?k=1951f2f3e363e1fc264041553d53d2d9f8e30a4ab7bea334e330c4640396c22d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486670242.jpg?k=abe01813ef53665ef7ed1e8131271784b89f446ebe7384aa05724af77726390e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487595884.jpg?k=2421122c7c6b32e1ca85062f7a06ff8f86aefa51f5070200bb83d70b4d3802fe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488087377.jpg?k=88e881cc3c0cfa19690cf64ad4596f8703ed0b748660d5a51569997a07ce2f49&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486670238.jpg?k=b5c71d875f0a3cf914f154dfd74b09cffc781a9eb66f487c2605052307962d70&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488087374.jpg?k=600a83fbf96d90663ee752c5226678bc14ee9c853776a07f82460e5da9c3fe11&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Facilities for disabled guests"\n  - "Family rooms"\n  - "Terrace"\nnearbyRestaurants:\n  - "Coffee Fast Food 100 m"\n  - "Grand Hotel Saranda 450 m"\nnearbyBeaches:\n  - "Maestral Beach 1.1 km"\n  - "Saranda City Beach 1.1 km"\n  - "La Petite Beach 1.1 km"\n  - "VIP Beach 1.5 km"\n  - "Santa Quaranta Beach 1.6 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.4 km"\n  - "Butrint National Park 2.4 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 31 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/villa-saimon-sarande.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nGuests are welcomed into a space where every detail caters to an unparalleled stay. The apartment boasts a spacious terrace that opens up to breathtaking mountain views, providing an ideal backdrop for relaxation or intimate gatherings. Inside, the layout includes two well-appointed bedrooms, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen featuring modern appliances such as a dishwasher and an oven. The convenience of two bathrooms, each with a walk-in shower, adds to the comfort, while the inclusion of air conditioning, a bidet, and a dressing room in the unit ensures a stay that leaves no need unmet.
 
 Privacy and tranquility are paramount at Villa Saimon, with soundproofing throughout and a private entrance that guarantees a secluded retreat. Families traveling with little ones will appreciate the thoughtful addition of a baby safety gate, ensuring peace of mind during their stay.
 
@@ -18,15 +7,3 @@ For those keen to explore the surrounding area, Villa Saimon not only sits in pr
 Located 94 km from Ioannina Airport, the property further eases travel concerns with the availability of a paid airport shuttle service, ensuring a seamless connection to and from this haven of relaxation.
 
 Villa Saimon stands as a beacon of comfort, convenience, and serene beauty, promising an unforgettable stay for those who seek both adventure and tranquility in the heart of Saranda.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

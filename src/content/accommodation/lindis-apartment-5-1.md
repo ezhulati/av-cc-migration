@@ -4,9 +4,17 @@ description: This air-conditioned apartment is a haven of space and light, featu
 featuredImage: "/images/accommodation/447351912.jpg"
 language: en
 slug: lindis-apartment-5-1
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "hotel"
+location: "Tirana"
+amenities:
+  - "Parking"
+  - "Spa"
+  - "Kitchen"
+  - "TV"
 ---
 
 This air-conditioned apartment is a haven of space and light, featuring a bedroom that promises restful nights. The living area is equipped with a flat-screen TV, perfect for unwinding after a day of exploration. Culinary enthusiasts will appreciate the fully equipped kitchen, complete with an oven and microwave, allowing for the preparation of home-cooked meals. The provision of towels and bed linen adds a layer of convenience for guests.
@@ -17,14 +25,3 @@ The apartment's location is unbeatable for those eager to delve into the local c
 
 With its strategic location, comprehensive amenities, and commitment to guest comfort, Lindi's Apartment 5/1 stands out as a top accommodation choice for visitors to Tirana, offering a blend of convenience, comfort, and cultural proximity.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

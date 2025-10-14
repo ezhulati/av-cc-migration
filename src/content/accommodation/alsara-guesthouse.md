@@ -1,26 +1,3 @@
----
-title: Alsara Guesthouse
-description: A mere 45 km from the serene Zaravina Lake, Alsara Guesthouse becomes a gateway for explorers looking to immerse themselves in the natural beauty of the region.
-featuredImage: "/images/accommodation/442495250.jpg"
-language: en
-slug: alsara-guesthouse
-location: ""
-amenities: []
-images: []
----
-
-A mere 45 km from the serene Zaravina Lake, Alsara Guesthouse becomes a gateway for explorers looking to immerse themselves in the natural beauty of the region. Each room is thoughtfully equipped with modern amenities including air conditioning for those warm summer days, a flat-screen TV for entertainment, and a private bathroom outfitted with a shower and hair dryer for convenience. The inclusion of bed linen and towels in every unit adds a touch of home, ensuring a comfortable stay.
+---\ntitle: "Alsara Guesthouse"\ndescription: "Alsara Guesthouse emerges as a charming accommodation option in the historic city of Gjirokastër."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442495250.jpg?k=af8ccd169c7563f29f2d7df0e5b42a38508574d96a614766a7378268a2f9e415&o=&hp=1"\nlanguage: en\nslug: alsara-guesthouse\naddress: "Rruga Ismail Kadare, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.07415653\n  lng: 20.13775869\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 250\nratings:\n  overall: 9.8\n  location: 9.9\n  cleanliness: 9.9\n  facilities: 9.8\n  value: 9.9\n  comfort: 9.9\n  staff: 10\n  wifi: 9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442495250.jpg?k=af8ccd169c7563f29f2d7df0e5b42a38508574d96a614766a7378268a2f9e415&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442342084.jpg?k=8483e91cbc49e2332ac3c92d99b1a9d6e3b1bd26e979ab8959b113887733deca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442493950.jpg?k=76001a49bd2c67169433582ac14f92e15dc80c9e4b3174febc3755825e21aad3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447691931.jpg?k=e4c818e1993ca3c600a33be71829890796c76c8f97c7e1450d5d4ffda48b0dfd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442494018.jpg?k=0f38c31024aa554bdf8724e31108d5313d1a1855c687c8324f510e3557b8aa85&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442494184.jpg?k=078fe5bbb8ed2873f98a6cc70221e26401050196d6a6c4c1f206d11f8ae4aad7&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Deluxe Quadruple Room"\n  - "Deluxe Double Room"\nnearbyRestaurants:\n  - "Bar Mezeri Harqet 20 m"\n  - "Casa Flora & Linda 20 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Silvia"\n    country: "Switzerland"\n    text: "“Location is top and the hosts are the nicest people ever! Amazing breakfast. The room was spotless clean and the beds very comfortable. Highly recommended!!! Assistance with parking was much appreciated.”"\n  - name: "Emily"\n    country: "United Kingdom"\n    text: "“Great place! Excellent value for money. The hosts were very friendly and helpful with anything we needed. The place was extremely clean and the beds were comfortable. Breakfast was delicious with the most wonderful view of Gjirokaster!! Thanks for...”"\n  - name: "Sheena"\n    country: "Hong Kong"\n    text: "“Fantastic! Hosts were incredible - so friendly and helpful. Great location right in the centre of everything. And fantastic breakfast spread on the rooftop terrace - enough to keep you going for the rest of the day. You cannot go wrong with...”"\nbookingURL: "https://www.booking.com/hotel/al/alsara-guesthouse.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nA mere 45 km from the serene Zaravina Lake, Alsara Guesthouse becomes a gateway for explorers looking to immerse themselves in the natural beauty of the region. Each room is thoughtfully equipped with modern amenities including air conditioning for those warm summer days, a flat-screen TV for entertainment, and a private bathroom outfitted with a shower and hair dryer for convenience. The inclusion of bed linen and towels in every unit adds a touch of home, ensuring a comfortable stay.
 
 For travelers flying in, the proximity to Ioannina Airport, located 83 km away, makes Alsara Guesthouse an accessible retreat or a perfect starting point for an adventure in Gjirokastër.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

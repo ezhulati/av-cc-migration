@@ -1,28 +1,5 @@
----
-title: Grand View Apartment
-description: The apartment itself is a spacious retreat, boasting three well-appointed bedrooms and a living area equipped with a flat-screen TV, complete with streaming ser
-featuredImage: "/images/accommodation/480716051.jpg"
-language: en
-slug: grand-view-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a spacious retreat, boasting three well-appointed bedrooms and a living area equipped with a flat-screen TV, complete with streaming services for endless entertainment. The kitchen doesn't disappoint either, featuring modern appliances such as an oven, microwave, washing machine, toaster, and fridge, catering to all culinary needs. The highlight, however, is the outdoor dining area, where guests can relish their meals against the backdrop of the sea, making every dining experience memorable.
+---\ntitle: "Grand View Apartment"\ndescription: "Grand View Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480716051.jpg?k=6891e02147043e2da297d00357fccee8f75d99f62115a0e0a33c2796fec7e07f&o=&hp=1"\nlanguage: en\nslug: grand-view-apartment\naddress: "Rruga Taulantia, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31069707\n  lng: 19.44171426\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 3\nratings:\n  overall: 9.3\n  location: 10\n  cleanliness: 9.2\n  facilities: 8.3\n  value: 9.2\n  comfort: 9.2\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480716051.jpg?k=6891e02147043e2da297d00357fccee8f75d99f62115a0e0a33c2796fec7e07f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480716180.jpg?k=0bdf2730e915c5f831a05463c0063e648bd2568cf237d41a5748356e93f0ee3c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480716119.jpg?k=ea47f040760e77c13def6a37acf2e838409ad47e0f5f04c281d1ca75b849535e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480716077.jpg?k=40ea54380ed0ba199c92ec69a94d6bcc5f825f685d35085c7727c142eafe6a59&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480716151.jpg?k=1b4724574c4c64b7ace7360a2d49f147f24c04d60f1f931fbc4130c5ab84ef5a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480716104.jpg?k=4c1e3818b3c749fd8799e2ae28ace3b280cc38c936ebdb93ab2ad7290036008e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480716107.jpg?k=3be694ab2d7a91d445a43aa8a42b3ab0b968f7c71cf6b0e797d739d1c371d70f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480716114.jpg?k=6b6d4e8e73f286d1065a0e0a6dd2c5e6e10864e39a55b770ac533ff8c44fc704&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480716125.jpg?k=fd74f12c3917a4ed20f9447e7c8c6625d4a86d14f6b67fdc39717c1b1c3436e0&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Bar OSLO 40 m"\n  - "New Pampas 40 m"\nnearbyBeaches:\n  - "Currila Beach 50 m"\n  - "Kallmi Beach 1.2 km"\n  - "Durres Beach 2.2 km"\n  - "West End Beach 2.3 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nwhatsNearby:\n  - "1. Maj 150 m"\n  - "Durres Amphiteatre 350 m"\n  - "Yje Dhe Hena 750 m"\n  - "Wine Dhe Pooh 800 m"\n  - "Sheshi Demokracia 950 m"\n  - "Sotir Noka 1.2 km"\n  - "Bekimi 3.6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\nbookingURL: "https://www.booking.com/hotel/al/grand-view-apartment-durres.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a spacious retreat, boasting three well-appointed bedrooms and a living area equipped with a flat-screen TV, complete with streaming services for endless entertainment. The kitchen doesn't disappoint either, featuring modern appliances such as an oven, microwave, washing machine, toaster, and fridge, catering to all culinary needs. The highlight, however, is the outdoor dining area, where guests can relish their meals against the backdrop of the sea, making every dining experience memorable.
 
 For those looking to explore, Kallmi Beach is conveniently located just 1.6 km away, while the vibrant Durres Beach is a short 2.9 km journey. For international travelers, the Tirana International Mother Teresa Airport is within a manageable distance of 34 km, making Grand View Apartment an accessible getaway.
 
 With its combination of comfort, convenience, and stunning location, Grand View Apartment stands out as a top-tier accommodation for those wishing to immerse themselves in the beauty of Durrës without compromising on modern amenities.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

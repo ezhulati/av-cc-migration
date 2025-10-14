@@ -5,11 +5,14 @@ region: Northern Albania
 featuredImage: /images/destinations/lezhe.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: lezhe
 highlights: []
+seo:
+  metaDescription: "Explore the wonders of Lezhë with our diverse range of products and services. Find everything you need to make the most of your Lezhë visit."
 ---
 
 A Brief History of Lezhë
@@ -176,10 +179,3 @@ Whether exploring ancient ruins, enjoying natural landscapes, or immersing yours
 
 Discover the charm of this town and the warm hospitality of its people.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

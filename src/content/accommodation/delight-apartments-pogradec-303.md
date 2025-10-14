@@ -1,26 +1,3 @@
----
-title: Delight Apartments Pogradec 303
-description: This apartment, boasting a modern air-conditioned interior, is designed to cater to the needs of contemporary travelers. Guests will find themselves in a cozy r
-featuredImage: "/images/accommodation/12a07b30d7fe835ea09b653635e151032bbf547a.png"
-language: en
-slug: delight-apartments-pogradec-303
-location: ""
-amenities: []
-images: []
----
-
-This apartment, boasting a modern air-conditioned interior, is designed to cater to the needs of contemporary travelers. Guests will find themselves in a cozy retreat featuring a bedroom, a bathroom, and the added comfort of a flat-screen TV, perfect for unwinding after a day of exploration.
+---\ntitle: "Delight Apartments Pogradec 303"\ndescription: "Delight Apartments Pogradec 303 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Pogradec."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"\nlanguage: en\nslug: delight-apartments-pogradec-303\naddress: "Rruga Reshit Çollaku, 7301 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.90537752\n  lng: 20.65248584\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 3\nratings:\n  overall: 9.1\n  location: 8.3\n  cleanliness: 9.2\n  facilities: 9.2\n  value: 9.2\n  comfort: 9.2\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456015126.jpg?k=1845f895fbd3cd84719d75fce764507dfc7163b91861c46393fbbc824ca6c05b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/456015131.jpg?k=0d6cf20b8640bc894da1c81aed762da1b34b9507979a2b774c1e324895b8fc7a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/456015135.jpg?k=1d3ccdfd5131417eb49276ad03dbc25fb6c17266b1c8f344a16e0fc82b96c505&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/456015123.jpg?k=a9204364654ee46aeffd17537f8ade8b70696087c172c36ea88391b28ef94377&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/456015098.jpg?k=24772b0087b5bf615065137ca5656dcd0c509d4baf7f41589cd54a08a9a9879b&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Zgara Pogradecare 200 m"\n  - "Bakery Kosovari 400 m"\nwhatsNearby:\n  - "Driloni National Park 1.6 km"\n  - "National Park Galicica 8 km"\n  - "National Park Galicica 15 km"\n  - "Bay of Bones 16 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 72 km"\n  - "Tirana International Airport Mother Teresa 95 km"\nreviews:\n  - name: "Ionel"\n    country: "Italy"\n    text: "“The room was very nice, clean, all new with a nice view of the lake”"\nbookingURL: "https://www.booking.com/hotel/al/delight-apartments-pogradec.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nThis apartment, boasting a modern air-conditioned interior, is designed to cater to the needs of contemporary travelers. Guests will find themselves in a cozy retreat featuring a bedroom, a bathroom, and the added comfort of a flat-screen TV, perfect for unwinding after a day of exploration.
 
 For those intrigued by historical and cultural sites, the Cave Church Archangel Michael and the Early Christian Basilica are conveniently located less than 40 km from the doorstep. Moreover, the proximity to Ohrid Airport, just 47 km away, ensures a hassle-free arrival and departure, making Delight Apartments Pogradec 303 an ideal base for both short and extended stays in the region. With the added benefits of complimentary WiFi and private parking, guests are assured a seamless and enjoyable experience.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

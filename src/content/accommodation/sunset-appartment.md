@@ -1,30 +1,7 @@
----
-title: Sunset Appartment
-description: Strategically positioned, Sunset Apartment is a mere 48 km from the historic Skanderbeg Square, offering guests a unique opportunity to explore the rich cultura
-featuredImage: "/images/accommodation/503686916.jpg"
-language: en
-slug: sunset-appartment
-location: ""
-amenities: []
-images: []
----
-
-Strategically positioned, Sunset Apartment is a mere 48 km from the historic Skanderbeg Square, offering guests a unique opportunity to explore the rich cultural tapestry of the area. The Rock of Kavaje, a notable landmark, is only 6.1 km away, adding to the list of nearby attractions. History buffs will appreciate the proximity to the Former Residence of Enver Hoxha and the National Museum of History Albania, each located 48 km from the property, promising a deep dive into Albania's storied past.
+---\ntitle: "Sunset Appartment"\ndescription: "Sunset Apartment emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in Golem."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503686916.jpg?k=875384817629cb0a08f2c69822b6bc1a58a30d602317f0a72ccf8abd4831e05d&o=&hp=1"\nlanguage: en\nslug: sunset-appartment\naddress: "Mali Robit Fafa Resort, 1001 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.235664\n  lng: 19.515759\nprice: "US$118"\npriceFrom: 118\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503686916.jpg?k=875384817629cb0a08f2c69822b6bc1a58a30d602317f0a72ccf8abd4831e05d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/503693324.jpg?k=1f43ff244fff0eae45579b3f484169595bfc0a808b91530f2df5a7ae9ce87182&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/503687416.jpg?k=e624d0ff58965290fd93ed922ed941f3d12334fc99544f375f1adeea66824546&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/503687259.jpg?k=a19b4cac98c030cc2595b8f8b71a805c16ab1203fb249ad03a5bec59a94ff930&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/503686815.jpg?k=c8fd68ca1df87fb756944a08ac6d483affe70e5f73b33b695301619d18a6ceb8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/503686558.jpg?k=3367cb19005364329d8ba4ff8007d9ef3c1ec636c7cd1ea63d3b3ba105699012&o=&hp=1"\namenities:\n  - "Swimming Pool"\nroomTypes:\n  - "Apartment"\nnearbyRestaurants:\n  - "Te Berti Golem 5 m"\n  - "Pizza Hallall 150 m"\nnearbyBeaches:\n  - "Mali I Robit Beach 10 m"\n  - "Qerret Beach 650 m"\n  - "Golem Beach 1.4 km"\n  - "Shkëmbi i Kavajës Beach 3.3 km"\n  - "Durres Beach 6 km"\nwhatsNearby:\n  - "Durres Amphiteatre 10 km"\n  - "1. Maj 10 km"\n  - "Wine Dhe Pooh 11 km"\n  - "Yje Dhe Hena 11 km"\n  - "Sheshi Demokracia 11 km"\n  - "Bekimi 11 km"\n  - "Sotir Noka 11 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\nbookingURL: "https://www.booking.com/hotel/al/apartament-at-mali-robit-sea-view-first-line.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nStrategically positioned, Sunset Apartment is a mere 48 km from the historic Skanderbeg Square, offering guests a unique opportunity to explore the rich cultural tapestry of the area. The Rock of Kavaje, a notable landmark, is only 6.1 km away, adding to the list of nearby attractions. History buffs will appreciate the proximity to the Former Residence of Enver Hoxha and the National Museum of History Albania, each located 48 km from the property, promising a deep dive into Albania's storied past.
 
 For those who prefer to stay smoke-free, the accommodation ensures a comfortable and healthy environment. Moreover, guests will find a variety of dining options in the vicinity, catering to diverse palates and preferences.
 
 Further afield, the Durres Amphitheatre, 17 km from the apartment, offers a glimpse into ancient history, while the House of Leaves, 47 km away, provides insights into more recent historical events. Conveniently, Tirana International Mother Teresa Airport is 42 km from Sunset Apartment, facilitating easy travel arrangements for guests.
 
 In summary, Sunset Apartment stands out as a top selection for travelers looking to immerse themselves in the beauty and history of Golem, offering proximity to beaches, cultural sites, and dining options, all while ensuring a comfortable stay in a smoke-free environment.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

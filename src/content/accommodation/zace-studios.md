@@ -1,30 +1,8 @@
----
-title: Zace Studios
-description: Guests are welcomed into air-conditioned studios, each boasting a private balcony that serves as a personal haven of relaxation. The accommodations are thoughtf
-featuredImage: "/images/accommodation/32910866.jpg"
-language: en
-slug: zace-studios
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into air-conditioned studios, each boasting a private balcony that serves as a personal haven of relaxation. The accommodations are thoughtfully equipped with modern amenities including a television, a kitchenette for those who enjoy the art of cooking, and a dining table for intimate meals. The bathrooms are well-appointed, featuring showers, bidets, and complimentary toiletries, ensuring a comfortable stay.
+---\ntitle: "Zace Studios"\ndescription: "Zace Studios emerges as a serene oasis, merely a stone's throw away from the pristine beaches of Ksamil."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/32910866.jpg?k=c26e72c91f17342da19e24e81b6d61391272dbd0ad0c161ce0a010e254c5bb79&o=&hp=1"\nlanguage: en\nslug: zace-studios\naddress: "Naim Frasheri, 9999 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.76721214\n  lng: 19.99890648\nprice: "US$27"\npriceFrom: 27\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 405\nratings:\n  overall: 9.4\n  location: 9.6\n  cleanliness: 9.4\n  facilities: 8.9\n  value: 9.4\n  comfort: 9.2\n  staff: 9.7\n  wifi: 9.6\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/32910866.jpg?k=c26e72c91f17342da19e24e81b6d61391272dbd0ad0c161ce0a010e254c5bb79&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319361457.jpg?k=a1a7d8c0b7031e4e585dc6dc2ab0c058ab289a2ef879354552881a9b2cae2131&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319361402.jpg?k=bc7f6e07c38afa31ff5b199bc9a13a176d3b70c7c1d5a604e510ac7e9813a3b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319361403.jpg?k=dbb213d2d920721d04c93c6c1afbbaff3c59155859a0e77b3352b019954ede55&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319361404.jpg?k=74a73b1c0b3b919421d81740a539ff5230fdb346de6be2a8e7ee89f3e8b259dd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319361406.jpg?k=45e4d8a5e0c33b46082a3554b70aa6e721dc55de630ce9b0014392203e84083f&o=&hp=1"\namenities:\n  - "Airport shuttle (free)"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Fast free WiFi (75 Mbps)"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Studio with Balcony"\n  - "Studio with Balcony"\n  - "Family Room with Terrace"\n  - "Comfort Quadruple Room"\n  - "Quadruple Room"\n  - "One-Bedroom Apartment with Garden View"\n  - "Apartment with Balcony"\nnearbyAttractions:\n  - "Museum of Banknotes 17 km"\n  - "New Fortress 17 km"\n  - "Serbian Museum 17 km"\n  - "Theotoki G. Square 18 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 18 km"\n  - "Trion Martiron Park 19 km"\n  - "Mon Repos Palace 19 km"\n  - "Kapodistrias Museum 20 km"\nnearbyBeaches:\n  - "Ksamil Beach 9 50 m"\n  - "Paradise Beach 250 m"\n  - "Lori Beach 350 m"\n  - "Puerto Rico Beach 400 m"\n  - "Bora Bora Beach 450 m"\nreviews:\n  - name: "Sakeer"\n    country: "United Kingdom"\n    text: "“I forgot my airpods in the property and the owner he is a good gentleman, he replied to my message and courier the airpodes to my UK address.”"\n  - name: "Danae"\n    country: "Germany"\n    text: "“The owner is very friendly and easy going, all the place feels cozy and nice, it’s just a couple of minutes walk to the beach. Very recommended”"\n  - name: "Francesca"\n    country: "United Kingdom"\n    text: "“Gorgeous little flat, lovely garden, adorable cats, and the family that own the place are really nice. Studio was a good size.
+About 2 minutes from a gorgeous beach, close to restaurants etc.”"\nbookingURL: "https://www.booking.com/hotel/al/zace-rooms.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into air-conditioned studios, each boasting a private balcony that serves as a personal haven of relaxation. The accommodations are thoughtfully equipped with modern amenities including a television, a kitchenette for those who enjoy the art of cooking, and a dining table for intimate meals. The bathrooms are well-appointed, featuring showers, bidets, and complimentary toiletries, ensuring a comfortable stay.
 
 The convenience at Zace Studios is further enhanced by the presence of an on-site mini-market, catering to guests' everyday needs without the necessity to venture far. Additionally, the property offers complimentary parking, adding to the ease of travel for those arriving by car.
 
 For adventurers looking to explore beyond the local area, Corfu Airport is accessible, located 50 kilometers away, with ferry services available from Sarrandë, making Zace Studios an ideal base for both relaxation and exploration.
 
 This haven not only promises a stay surrounded by natural beauty but also ensures a comfortable and convenient experience for every guest.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

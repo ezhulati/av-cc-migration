@@ -5,11 +5,15 @@ region: Mountains
 featuredImage: /images/destinations/voskopoja.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: voskopoja
 highlights: []
+seo:
+  metaTitle: "Discover Voskopoja - Albania’s Historic Mountain Village"
+  metaDescription: "Explore Voskopoja, Albania’s hidden gem with Byzantine churches, cobbled streets, and stunning trails. Plan your visit to this historic mountain retreat today."
 ---
 
 Albania’s Hidden Mountain Retreat
@@ -75,10 +79,3 @@ Plan Your Visit
 
 Voskopoja doesn’t demand attention—it earns it with its old stones and pine-covered trails. Spring and fall keep things calm; summer and winter bring more outdoor action. This isn’t a polished destination—it’s a true piece of Albania, complete with imperfections. Ready to see it for yourself?
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

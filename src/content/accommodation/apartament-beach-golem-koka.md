@@ -1,28 +1,5 @@
----
-title: Apartament Beach Golem "Koka"
-description: Apartament Beach Golem "Koka" is a haven for those seeking a blend of comfort and convenience, featuring a fully equipped kitchen, free WiFi, and a balcony that
-featuredImage: "/images/accommodation/482480876.jpg"
-language: en
-slug: apartament-beach-golem-koka
-location: ""
-amenities: []
-images: []
----
-
-Apartament Beach Golem "Koka" is a haven for those seeking a blend of comfort and convenience, featuring a fully equipped kitchen, free WiFi, and a balcony that boasts picturesque pool views. The apartment is designed to cater to the needs of modern travelers, providing a smoke-free environment, air conditioning, and a flat-screen TV for a truly relaxing stay.
+---\ntitle: "Apartament Beach Golem “Koka”"\ndescription: "Discover the charm of Golem with a stay at Apartament Beach Golem “Koka”, a prime accommodation choice located just a stone's throw away from the pristine Golem Beach and a short distance from the serene Mali I Robit Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482480876.jpg?k=ca2d4be830d2d32aea647b0045033917f5b5924d2e9416a7cac77be265bddc6b&o=&hp=1"\nlanguage: en\nslug: apartament-beach-golem-koka\naddress: "Rruga Kompleksit, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.26557511\n  lng: 19.52022044\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 9.6\n  location: 10\n  cleanliness: 10\n  facilities: 8.8\n  value: 10\n  comfort: 8.8\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482480876.jpg?k=ca2d4be830d2d32aea647b0045033917f5b5924d2e9416a7cac77be265bddc6b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482480928.jpg?k=477fd6a3a016f4bdb37149cfd826ed3d5ff968b6c1e3fa8ce6858703747dc199&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482480899.jpg?k=bf22608efecccde08357becd32144d602745f00a978dca153f8748c1b0780d7d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482845711.jpg?k=2e21380e7828c151584655eec8b9a433a543989a2cbeae55c593678751e3c87a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482480889.jpg?k=6033de6a7f09b21940d474b7dd8dea9bf93ac581b891a8d36277e8feb327f501&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482480944.jpg?k=fec3c2ed8515f751ab8ec05ddc9ac48cbda32524ed92b5dea7db4adac50b809f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482480917.jpg?k=7c41af3521af02156735e64f684b6fe280558634d54adc050b74ac6694e83e10&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482480822.jpg?k=ab24115541946eb5d355c4e636452c751cf10b3540c2327074e658f0eac4de5d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482480807.jpg?k=79c10cb8431e6bff0bb25d00ee04737b40de4a2c6ccc34274fc7774896f8b8db&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Fresh Fish 20 m"\n  - "Oaz Durres 250 m"\nnearbyBeaches:\n  - "Golem Beach 100 m"\n  - "Shkëmbi i Kavajës Beach 100 m"\n  - "Mali I Robit Beach 1.9 km"\n  - "Durres Beach 2.4 km"\n  - "Qerret Beach 4 km"\nwhatsNearby:\n  - "Bekimi 8 km"\n  - "Durres Amphiteatre 8 km"\n  - "Wine Dhe Pooh 8 km"\n  - "1. Maj 8 km"\n  - "Yje Dhe Hena 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "Sotir Noka 9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nreviews:\n  - name: "Iulia"\n    country: "United Kingdom"\n    text: "“Closer too the beach. Easy to access the location.”"\n  - name: "Adnan"\n    country: "Bosnia and Herzegovina"\n    text: "“Excellent location, near the Beach with plenty of stores, restaurants and bakery around.”"\nbookingURL: "https://www.booking.com/hotel/al/apartament-beach-golem-koka.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nApartament Beach Golem “Koka” is a haven for those seeking a blend of comfort and convenience, featuring a fully equipped kitchen, free WiFi, and a balcony that boasts picturesque pool views. The apartment is designed to cater to the needs of modern travelers, providing a smoke-free environment, air conditioning, and a flat-screen TV for a truly relaxing stay.
 
 The one-bedroom apartment not only offers city views but also comes with a cozy living room, ensuring guests have ample space to unwind after a day of exploration. Its proximity to notable landmarks such as Skanderbeg Square and the Dajti Ekspres Cable Car, located 44 km and 47 km away respectively, makes it an ideal base for guests looking to explore the wider region.
 
-For those traveling by air, the convenience of being just 38 km from Tirana International Mother Teresa Airport adds to the appeal of Apartament Beach Golem "Koka", making it a top choice for both leisure and business travelers seeking a memorable stay in Golem.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}
+For those traveling by air, the convenience of being just 38 km from Tirana International Mother Teresa Airport adds to the appeal of Apartament Beach Golem “Koka”, making it a top choice for both leisure and business travelers seeking a memorable stay in Golem.

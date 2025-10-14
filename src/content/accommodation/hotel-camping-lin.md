@@ -1,30 +1,7 @@
----
-title: Hotel Camping Lin
-description: "With its well-manicured garden, ample free private parking, inviting terrace, and on-site restaurant, Hotel Camping Lin caters to the needs of every guest."
-featuredImage: "/images/accommodation/152340781.jpg"
-language: en
-slug: hotel-camping-lin
-location: ""
-amenities: []
-images: []
----
-
-With its well-manicured garden, ample free private parking, inviting terrace, and on-site restaurant, Hotel Camping Lin caters to the needs of every guest. The addition of a bar elevates the experience, allowing visitors to unwind with a drink in hand after a day of adventure.
+---\ntitle: "Hotel Camping Lin"\ndescription: "Hotel Camping Lin, located in the charming town of Pogradec, stands out as a serene retreat for travelers seeking both comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/152340781.jpg?k=4ee99c9cc754cddb0508ae07f902b072e216f0b4a782d5a7e4f4d49508dc9f5c&o=&hp=1"\nlanguage: en\nslug: hotel-camping-lin\naddress: "Lin, 1000 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.06800456\n  lng: 20.62938251\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 123\nratings:\n  overall: 8.4\n  location: 8.6\n  cleanliness: 8.3\n  facilities: 7.6\n  value: 8.3\n  comfort: 8.1\n  staff: 8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/152340781.jpg?k=4ee99c9cc754cddb0508ae07f902b072e216f0b4a782d5a7e4f4d49508dc9f5c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/258311697.jpg?k=819482fd83a2b378786675382f4dd01b3e7548e0e3c64f32af6b0122d9e1e3cd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/257429384.jpg?k=6f871a9ac575b426814123b9fb30fa215e90edfba60d2906f0e0c50d007b6f98&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/417844236.jpg?k=212e1252aae7333ad50848c026913201df0b05c5023cafbd8df4b1fd8c666fa5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/152341619.jpg?k=db58e64e069c86fa7ec558ccc52f19723c04b1ca869de4046a85ff53b620a841&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/417844059.jpg?k=73c263a065d049423eedd5f8e0c1ea968041b99dfd917ff0743520bb9aa9583f&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Room service"\n  - "Restaurant"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Double Room"\n  - "One-Bedroom Apartment"\n  - "Double Room"\n  - "Double Room with Lake View"\n  - "Classic Triple Room"\n  - "One-Bedroom Apartment"\n  - "Triple Room"\nnearbyRestaurants:\n  - "Restorant Rrema 950 m"\n  - "Korca 2.3 km"\nwhatsNearby:\n  - "Remains of Via Egnatia 3.6 km"\n  - "Nature Museum 13 km"\n  - "Samoil's Fortress 15 km"\n  - "Ancient Theatre of Ohrid 15 km"\n  - "Upper Gate 15 km"\n  - "Museum Robev House 15 km"\n  - "Icons Gallery 15 km"\n  - "National Workshop for Handmade Paper 15 km"\n  - "Bay of Bones 16 km"\n  - "Mountain Lodge Jankos Stone 19 km"\nairports:\n  - "Ohrid Airport 14 km"\n  - "Tirana International Airport Mother Teresa 84 km"\n  - "Kastoria National Airport 87 km"\nreviews:\n  - name: "Calvin"\n    country: "Canada"\n    text: "“This is one of the best views of the lake. Beautiful at night. Nicely located for access to Ohrid and Pogradec.”"\n  - name: "B"\n    country: "Serbia"\n    text: "“The view was really pretty both from our big terrace and the restaurant. The room was clean, so were the sheets and towels. The AC worked very well. The host, probably the owner, was really kind and helpful!”"\n  - name: "Pawelr26"\n    country: "Poland"\n    text: "“Super lokalizacja. Fotografie odzwierciedlają rzeczywisty stan. Duży pokój z lodówką. Piękny widok z tarasu. Wybrałem ten hotel na jedną noc i jestem zadowolony.”"\nbookingURL: "https://www.booking.com/hotel/al/camping-lin.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nWith its well-manicured garden, ample free private parking, inviting terrace, and on-site restaurant, Hotel Camping Lin caters to the needs of every guest. The addition of a bar elevates the experience, allowing visitors to unwind with a drink in hand after a day of adventure.
 
 Accommodations at Hotel Camping Lin are thoughtfully designed to ensure a restful stay. Each room is equipped with essential amenities such as a wardrobe, a flat-screen TV, and a private bathroom complete with a bidet and complimentary toiletries. For those desiring a touch more independence, select rooms boast a fully equipped kitchen, including a fridge, making longer stays comfortable and convenient. The provision of bed linen and towels in every room underscores the hotel's commitment to guest comfort.
 
 Situated 28 km from the mesmerizing Ohrid Lake Springs and 34 km from the Early Christian Basilica, Hotel Camping Lin serves as an ideal base for exploring the natural and historical wonders of the area. With Ohrid Airport just 25 km away, the hotel's location ensures smooth travel connections for international and domestic visitors alike.
 
 Hotel Camping Lin emerges as a top choice for travelers who value a blend of serene surroundings, thoughtful amenities, and easy access to local attractions.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

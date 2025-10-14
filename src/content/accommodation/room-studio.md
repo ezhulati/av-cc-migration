@@ -1,32 +1,5 @@
----
-title: Room Studio
-description: The apartment itself is a haven of modern amenities, featuring air conditioning for those warm Albanian afternoons, and complimentary WiFi that blankets the ent
-featuredImage: "/images/accommodation/527815419.jpg"
-language: en
-slug: room-studio
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of modern amenities, featuring air conditioning for those warm Albanian afternoons, and complimentary WiFi that blankets the entire property, ensuring guests stay connected with ease. The living space is thoughtfully designed, boasting a single bedroom that promises a restful night's sleep, a fully equipped kitchen for culinary adventures, and a bathroom that provides all the essentials for a refreshing start to the day. Entertainment is readily available with the inclusion of a flat-screen TV, making it easy for guests to unwind after a day of exploration.
+---\ntitle: "Room Studio"\ndescription: "Room Studio emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527815419.jpg?k=eb4e0787444b76913debf6e3804dbc82b05cdd278d6525c1d7686fd7028634de&o=&hp=1"\nlanguage: en\nslug: room-studio\naddress: "Rruga Sulejman Pitarka, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3249294\n  lng: 19.8050559\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527815419.jpg?k=eb4e0787444b76913debf6e3804dbc82b05cdd278d6525c1d7686fd7028634de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527815463.jpg?k=f395a961e441ac95e306ec73dfe3e72044edbdc472e7a2974ac5e35f8b72910d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527815469.jpg?k=95c87e3ab4877111f81026801b8830495a41c6e92d0180bff7c86a4e3f46a6a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527815475.jpg?k=58088605d7634128fa7fdca4bfe94d4c05a1471e5ae6c8128dae7c54e305dc3f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527815480.jpg?k=c5b941f999bcf0524ebb5ec64365a0235dc9ac3c0fd65fc9f45d1bb371baf5cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527815487.jpg?k=e097a607f2835af2a8c3e3cfdb7c2adfa78ad652e66a932f11eb9dd3c00b14d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527815492.jpg?k=40f552cb3bd3c8755ba35929e113261b911d8e263f9f5fa4d16636e6f9edf3b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527815495.jpg?k=967050e45dec964a87a65cd0d7d18f77dede44b6ae126928565cad71d09cba7e&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Rinia Park 1.1 km"\n  - "Former Residence of Enver Hoxha 1.1 km"\n  - "National Museum of History Albania 1.1 km"\n  - "Skanderbeg Square 1.2 km"\n  - "Clock Tower Tirana 1.3 km"\n  - "National Gallery of Arts Tirana 1.3 km"\n  - "Tanners' Bridge 1.8 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Gravity 100 m"\n  - "Mulliri i Vjeter 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Shefqet Musaraj 300 m"\n  - "Sheshi Rekreativ Sali Butka 500 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 550 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 750 m"\n  - "Sheshi Rekreativ Bajram Curri 800 m"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 850 m"\n  - "Sheshi Rekreativ Komuna e Parisit 900 m"\n  - "Sheshi Rekreativ Parku 1Km 900 m"\n  - "Sheshi Paris 950 m"\n  - "House of Leaves 950 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 80 km"\nbookingURL: "https://www.booking.com/hotel/al/room-studio.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a haven of modern amenities, featuring air conditioning for those warm Albanian afternoons, and complimentary WiFi that blankets the entire property, ensuring guests stay connected with ease. The living space is thoughtfully designed, boasting a single bedroom that promises a restful night's sleep, a fully equipped kitchen for culinary adventures, and a bathroom that provides all the essentials for a refreshing start to the day. Entertainment is readily available with the inclusion of a flat-screen TV, making it easy for guests to unwind after a day of exploration.
 
 For those keen on delving into the local culture, Room Studio is conveniently located within walking distance of several notable landmarks. The enchanting Et'hem Bey Mosque, the informative National Museum of History Albania, and the innovative Reja - The Cloud installation are all within a 1.5 km radius. Moreover, the iconic Skanderbeg Square is just a leisurely walk away, offering a glimpse into the city's vibrant heart.
 
 Additional points of interest in the vicinity include the House of Leaves, Rinia Park, and the historic Clock Tower Tirana, each offering a unique insight into the city's diverse heritage and lifestyle. For travelers arriving by air, the Tirana International Mother Teresa Airport is an accessible 14 km journey, making Room Studio an ideal base for both short visits and extended stays in Albania's captivating capital.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

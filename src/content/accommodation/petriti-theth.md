@@ -1,28 +1,5 @@
----
-title: Petriti theth
-description: Accommodations at Petriti Theth are designed with the modern traveler in mind, featuring private bathrooms equipped with baths and complimentary toiletries. The
-featuredImage: "/images/accommodation/523245180.jpg"
-language: en
-slug: petriti-theth
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Petriti Theth are designed with the modern traveler in mind, featuring private bathrooms equipped with baths and complimentary toiletries. The promise of connectivity is kept with free WiFi throughout, while the thoughtful inclusion of bed linen and towels in every room adds a touch of home.
+---\ntitle: "Petriti theth"\ndescription: "Petriti Theth emerges as a serene retreat offering breathtaking mountain views and a cozy stay just a stone's throw away from Theth National Park."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523245180.jpg?k=6800ba0bc1d22c0072dae9a5356f825b0474d9c2eda5bdd1cc64f979f1760212&o=&hp=1"\nlanguage: en\nslug: petriti-theth\naddress: "Rruga Thethi, Theth, Albania"\ncity: "Theth"\nlocation: "Theth"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 42.38591394\n  lng: 19.78206662\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 44\nratings:\n  overall: 8.4\n  location: 9.3\n  cleanliness: 8.5\n  facilities: 7.9\n  value: 7.6\n  comfort: 8.6\n  staff: 9.3\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523245180.jpg?k=6800ba0bc1d22c0072dae9a5356f825b0474d9c2eda5bdd1cc64f979f1760212&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483907726.jpg?k=bae8d43db138d2ea4490b7118fbd73160a4b0bb24468bae1fd67468d6bf95b00&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482010880.jpg?k=57656bfdf27ae940a0070025f3cec21f1090c50860987e8671d2eca08e23c259&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521669593.jpg?k=2c78cc5186da65973274f872eb84ce85cfb7eb77a6970e264c00bc46da250e4a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487046601.jpg?k=51ba30f20f62e28665998fdd563788f9638d66f1be6ca5d3d678ae708e29fcad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490521198.jpg?k=0e24abff3d2cc3e4c4397de54baef6577c42896dc73962a786fcdb5d9e8628ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485135512.jpg?k=e566bfa2cb6bba4d8e10c4cd014323bc12c40478c087be29f450f5d64b680b52&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522206442.jpg?k=7f20b7500af910ca2a052ddd22f5d6ffa3ef0b4d685c11c76a34e77dbfffc5a0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488866501.jpg?k=6b4f41fa8ad2eb6266d6d24cbe8f297941332e12d870d856c42574f3787f1ce8&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Fast free WiFi (89 Mbps)"\n  - "2 restaurants"\n  - "Family rooms"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Bar Kafe 30 m"\n  - "'Gurra Family' Guesthouse 1.1 km"\nwhatsNearby:\n  - "Theth National Park 0 m"\n  - "Theth National Park 3 km"\n  - "Valbona Valley National Park 3.1 km"\n  - "Prokletije National Park 10 km"\n  - "Parku Kombëtar Lugina e Valbonës 13 km"\nairports:\n  - "Podgorica Airport 43 km"\n  - "Tivat Airport 86 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "UnionPay credit card"\n  - "Discover"\nreviews:\n  - name: "Kieran"\n    country: "United Kingdom"\n    text: "“Petri, the owner, was absolutely lovely and incredibly welcoming and all the staff were brilliant!”"\n  - name: "Paula"\n    country: "United Kingdom"\n    text: "“Amazing views over the valley. Friendly hosts and good food in the restaurant.”"\n  - name: "Rebeca"\n    country: "Netherlands"\n    text: "“The room was comfortable and clean. Wonderful views. Nice welcoming staff. Great food in the restaurant and affordable. Petrit was helpful with both hiking advise and stories about theth.”"\nbookingURL: "https://www.booking.com/hotel/al/vuksani-guesthouse.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Petriti Theth are designed with the modern traveler in mind, featuring private bathrooms equipped with baths and complimentary toiletries. The promise of connectivity is kept with free WiFi throughout, while the thoughtful inclusion of bed linen and towels in every room adds a touch of home.
 
 Mornings at Petriti Theth are a culinary delight, with a breakfast spread that includes buffet and continental options. Guests can savor local specialties, fresh pastries, and pancakes, each dish promising to start the day on a delicious note. The on-site restaurant welcomes diners for meals throughout the day, from lunch to dinner, and even brunch, complemented by a selection of cocktails in a family-friendly atmosphere.
 
 Located 89 km from Podgorica Airport, Petriti Theth offers a blend of convenience and tranquility, making it an ideal choice for travelers seeking a peaceful escape with the comforts of modern amenities.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Gjikoka Apartment
-description: The apartment itself is a haven of comfort, featuring a well-equipped kitchen complete with an oven and fridge, a cozy seating area, and a flat-screen TV for en
-featuredImage: "/images/accommodation/456397312.jpg"
-language: en
-slug: gjikoka-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of comfort, featuring a well-equipped kitchen complete with an oven and fridge, a cozy seating area, and a flat-screen TV for entertainment. The bedroom promises restful nights, complemented by a bathroom outfitted with a bidet, ensuring a stay that marries convenience with relaxation. Towels and bed linen are thoughtfully provided, enhancing the home-away-from-home experience. Notably, the accommodation guarantees guest privacy with its own separate entrance.
+---\ntitle: "Gjikoka Apartment"\ndescription: "Gjikoka Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Orikum, boasting a splendid terrace with sweeping sea views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456397312.jpg?k=10cc500ef7e25e015a2808659ab932f67ad28e7f9855e24908bab8f1f19effc0&o=&hp=1"\nlanguage: en\nslug: gjikoka-apartment\naddress: "Rruga Kaonët 5 piano interno 18, 9426 Orikum, Albania"\ncity: "Orikum"\nlocation: "Orikum"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.32798629\n  lng: 19.4730653\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456397312.jpg?k=10cc500ef7e25e015a2808659ab932f67ad28e7f9855e24908bab8f1f19effc0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456397367.jpg?k=e4bd1f07b8c0f3a60be2eb535736f38ef85653fb6d57a58eb04b72ec7fce31d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456397372.jpg?k=8af8b49e83b2b290df8f3403be0e0f7f44405535b0b724c2ed1402c983da9643&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456397378.jpg?k=d884ab687d86d72bbba1200dd3e5e11ac4db842a4e89a21a09a1582d7634009e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456397379.jpg?k=3cdd6546dae416481026fda87d1c308478ece8ff5334ffbea4db01afa643b2a1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456397382.jpg?k=25f0be24d9bf96832f475267766ea0ecaec29bc04f30928c5e639d36b7126a49&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456397385.jpg?k=54e1d1f04d79d2197c497062e9c029b8656137accbf62687e8e4ea2607d5baf5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456397389.jpg?k=137c28e43e84de73de07c85a5b3894dc1da0588ac65103dd6479103deea92c70&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Las Belo 250 m"\n  - "Las Bello 350 m"\nnearbyBeaches:\n  - "Nettuno Beach 1,000 m"\n  - "Orikum Beach 1.3 km"\n  - "Baro Beach 1.6 km"\n  - "Al Breeze Beach 2.2 km"\n  - "Radhimë Beach 2.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 12 km"\n  - "Llogora National Park 13 km"\n  - "Kuzum Baba 16 km"\n  - "Independence Square 16 km"\nairports:\n  - "Corfu International Airport 88 km"\nreviews:\n  - name: "Magdalena"\n    country: "Poland"\n    text: "“Cleanliness, comfortable bed, kitchenette, view from the balcony, helpful staff”"\nbookingURL: "https://www.booking.com/hotel/al/gjikoka-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of comfort, featuring a well-equipped kitchen complete with an oven and fridge, a cozy seating area, and a flat-screen TV for entertainment. The bedroom promises restful nights, complemented by a bathroom outfitted with a bidet, ensuring a stay that marries convenience with relaxation. Towels and bed linen are thoughtfully provided, enhancing the home-away-from-home experience. Notably, the accommodation guarantees guest privacy with its own separate entrance.
 
 For those looking to explore beyond the beach, the historic sites of Kuzum Baba and Independence Square are both within an 18 km radius, offering a glimpse into the rich cultural tapestry of the area. Despite its tranquil setting, Gjikoka Apartment remains within reach of urban conveniences, with Tirana International Mother Teresa Airport situated 167 km away, making it an accessible retreat for both local and international visitors.
 
 In essence, Gjikoka Apartment stands out as an idyllic spot for guests aiming to unwind by the sea, offering all the necessary amenities for a comfortable and memorable stay.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

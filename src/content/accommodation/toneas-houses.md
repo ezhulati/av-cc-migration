@@ -4,9 +4,17 @@ description: The accommodations at Tonea's Houses are thoughtfully designed with
 featuredImage: "/images/accommodation/420704057.jpg"
 language: en
 slug: toneas-houses
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 3
+rating: 3
+accommodationType: "apartment"
+location: "Himare"
+amenities:
+  - "Air Conditioning"
+  - "Bar"
+  - "Breakfast"
+  - "TV"
 ---
 
 The accommodations at Tonea's Houses are thoughtfully designed with guest comfort in mind. Each unit is equipped with essential modern conveniences including air conditioning, a flat-screen TV, and a private bathroom featuring a shower and hairdryer. For added comfort, select rooms also offer a cozy seating area, perfect for unwinding after a day under the sun. The attention to detail extends to the provision of crisp bed linen and plush towels, ensuring a restful night's sleep.
@@ -17,14 +25,3 @@ Situated conveniently close to other local attractions, Tonea's Houses is just 1
 
 Tonea's Houses stands out as a perfect getaway for families and couples alike, offering a blend of comfort, convenience, and natural beauty, making every stay a memorable one.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

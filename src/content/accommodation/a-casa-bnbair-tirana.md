@@ -1,30 +1,7 @@
----
-title: A casa bnbAir Tirana
-description: Proximity to cultural landmarks such as the Clock Tower Tirana and Et'hem Bey Mosque, both approximately 1.8 km away, as well as the National Theatre of Opera a
-featuredImage: "/images/accommodation/518134685.jpg"
-language: en
-slug: a-casa-bnbair-tirana
-location: ""
-amenities: []
-images: []
----
-
-Proximity to cultural landmarks such as the Clock Tower Tirana and Et'hem Bey Mosque, both approximately 1.8 km away, as well as the National Theatre of Opera and Ballet of Albania, 1.6 km from the property, makes A Casa BnbAir Tirana a strategic spot for explorers keen on immersing themselves in the local heritage and arts scene.
+---\ntitle: "A casa bnbAir Tirana"\ndescription: "A Casa BnbAir Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518134685.jpg?k=f73179e3e9c570d53b8b74288a5ab800c51b9ba4b1d9d1977673a7ce0c2cfaf8&o=&hp=1"\nlanguage: en\nslug: a-casa-bnbair-tirana\naddress: "Rruga Dritan Hoxha,Apartment 2,Floor 1,, 1000 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.3332552\n  lng: 19.80316777\nprice: "US$40"\npriceFrom: 40\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518134685.jpg?k=f73179e3e9c570d53b8b74288a5ab800c51b9ba4b1d9d1977673a7ce0c2cfaf8&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "Family Room"\nnearbyAttractions:\n  - "Skanderbeg Square 1.5 km"\n  - "Clock Tower Tirana 1.5 km"\n  - "Rinia Park 1.6 km"\n  - "National Gallery of Arts Tirana 1.7 km"\n  - "Former Residence of Enver Hoxha 1.8 km"\n  - "Tanners' Bridge 2.1 km"\n  - "Grand Park of Tirana 3 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Black Pearl Lounge & Bar 20 m"\n  - "Lebon Tirana 50 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Mine Peza 300 m"\n  - "Sheshi Rekreativ Don Bosko 400 m"\n  - "Sheshi Rekreativ Parku 1Km 650 m"\n  - "Sheshi Rekreativ Lord Bajron 950 m"\n  - "Sheshi Paris 1.1 km"\n  - "Sheshi Rekreativ Shefqet Musaraj 1.1 km"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 1.1 km"\n  - "Sheshi Rekreativ Sali Butka 1.2 km"\n  - "National Museum of History Albania 1.3 km"\n  - "House of Leaves 1.3 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 80 km"\nbookingURL: "https://www.booking.com/hotel/al/a-casa-bnbair-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nProximity to cultural landmarks such as the Clock Tower Tirana and Et'hem Bey Mosque, both approximately 1.8 km away, as well as the National Theatre of Opera and Ballet of Albania, 1.6 km from the property, makes A Casa BnbAir Tirana a strategic spot for explorers keen on immersing themselves in the local heritage and arts scene.
 
 Guests are treated to captivating city views from the comfort of a terrace, enhancing the serene ambiance of this accommodation. The availability of free WiFi throughout the property ensures that guests remain connected and can share their experiences with ease.
 
 Accommodations at A Casa BnbAir Tirana are thoughtfully designed with guest comfort in mind. Each unit boasts a balcony, air conditioning, a flat-screen TV, and a private bathroom equipped with a bidet and bathrobes, ensuring a stay that marries convenience with luxury. The inclusion of a wardrobe in all units adds an extra layer of convenience for travelers.
 
 For those interested in exploring beyond the immediate vicinity, the guest house is conveniently located near the House of Leaves, National Museum of History Albania, and Rinia Park, offering a diverse array of leisure and educational opportunities. With Tirana International Mother Teresa Airport just 13 km away, A Casa BnbAir Tirana presents an accessible retreat for both international visitors and locals alike, promising an unforgettable stay in the heart of Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

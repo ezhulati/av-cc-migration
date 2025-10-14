@@ -1,28 +1,7 @@
----
-title: Village of Peace - House 38
-description: The interior of the apartment is a blend of comfort and functionality, featuring air conditioning for those warm summer days. It houses a single bedroom, a cozy
-featuredImage: "/images/accommodation/485668849.jpg"
-language: en
-slug: village-of-peace-house-38
-location: ""
-amenities: []
-images: []
----
-
-The interior of the apartment is a blend of comfort and functionality, featuring air conditioning for those warm summer days. It houses a single bedroom, a cozy living room, and a kitchen equipped with modern amenities such as a fridge and kettle. The bathroom adds a touch of luxury with a bath and plush bathrobes, complemented by the added benefit of a private entrance for guest privacy.
+---\ntitle: "Village of Peace - House 38"\ndescription: "Village of Peace - House 38 emerges as a recently updated gem in the heart of Shkodër, offering guests a serene retreat with its lush garden and inviting bar."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485668849.jpg?k=27106038fe9a706accc290977ef296b021c28c1f03ef6353a70ef589ae806cc9&o=&hp=1"\nlanguage: en\nslug: village-of-peace-house-38\naddress: "Rruga Kazenës, 4002 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.05222842\n  lng: 19.48876974\nprice: "US$28"\npriceFrom: 28\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 20\nratings:\n  overall: 9\n  location: 8.9\n  cleanliness: 9.3\n  facilities: 7.9\n  value: 9.6\n  comfort: 9.2\n  staff: 9.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485668849.jpg?k=27106038fe9a706accc290977ef296b021c28c1f03ef6353a70ef589ae806cc9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523039889.jpg?k=9b1144acc5b909d75f019d1f6582a7c918ebbc80396b89b1ca4c3228ee1f7bc0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485668650.jpg?k=f06ee52a5b0d453350d83f0e2a631140f69b988bf9f519f4cd92ab3f6b70cff9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485662498.jpg?k=f82ec9bb8ea16242b2fbd7644ff06830b61b03301fc3651a569d353e9fcf35d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485664930.jpg?k=e8ef5dc73f63b732e3527b82066ee7efeb8dede004e6d8b0f78e85139b2566fe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485668854.jpg?k=5d6ae920717ceb7e792f1e4845e5dc50425d088a13e04af3b68aa1c7e3eea77a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485662666.jpg?k=47590c64bac97005c0623b1c4787834a01c0e8f46f6e27cae7e7d2e9c84f0593&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484532159.jpg?k=05b8e8c643ac7c087e73dc70f96517412a694c5e9233780705cb9333a0a02f11&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485668843.jpg?k=da70f2ab1d3930eafa3ab0adfa715779aa0e1a7f25a4e10ee98e28309af3db3d&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fast free WiFi (98 Mbps)"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Elvisi 150 m"\n  - "Restorant Vataksi 250 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 750 m"\n  - "National Park Skadar Lake 9 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 72 km"\n  - "Tivat Airport 73 km"\nreviews:\n  - name: "Antonela"\n    country: "Albania"\n    text: "“It was a very nice place, very clean and quiet. It was really peaceful .
+I will suggest it to all my friends.
+I hope to come back again”"\n  - name: "Mikael"\n    country: "Albania"\n    text: "“I had the most delightful stay at this charming small wood house! The clean rooms were a breath of fresh air, and the AC made sure I was always comfortable. The free Wi-Fi was a bonus for staying connected, and the garden was a tranquil spot to...”"\n  - name: "Agnes"\n    country: "Germany"\n    text: "“An der Anfahrt wartet ein sehr netter und hilfsbereiter Portier, die Anlage ist komplett eingezäunt und überwacht. Für Alleinreisende, mit Motorrad oder mit Hunden ist das hervorragend. Die Lage ist sehr gut und ruhig. Für die Küche sollte man...”"\nbookingURL: "https://www.booking.com/hotel/al/village-of-peace-house-2.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nThe interior of the apartment is a blend of comfort and functionality, featuring air conditioning for those warm summer days. It houses a single bedroom, a cozy living room, and a kitchen equipped with modern amenities such as a fridge and kettle. The bathroom adds a touch of luxury with a bath and plush bathrobes, complemented by the added benefit of a private entrance for guest privacy.
 
 Morning risers are greeted with a choice of breakfast options, including buffet, continental, or halal, ensuring a delightful start to the day. For those seeking leisure activities within the premises, the apartment complex boasts a picturesque picnic area, perfect for enjoying the outdoors.
 
 Situated 46 km from the Port of Bar and 63 km from Podgorica Airport, Village of Peace - House 38 is conveniently located for travelers. Additionally, the property facilitates ease of travel with its paid airport shuttle service, making it an ideal choice for both relaxation and exploration in Shkodër.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

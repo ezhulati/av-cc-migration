@@ -7,6 +7,10 @@ featuredImage: /images/attractions/tumulus-of-kamenica.jpg
 images: []
 language: en
 slug: tumulus-of-kamenica
+seo:
+  metaTitle: "Tumulus of Kamenica - Albania’s Bronze Age Burial Legacy"
+  metaDescription: "Learn about the captivating world of Albania's ancient tumulus burials, from the Bronze Age to the Iron Age, and discover the cultural richness they reveal."
+  robots: "index"
 ---
 
 Why Visit
@@ -29,10 +33,3 @@ Adjacent Kamenica Museum elucidates burial evidence through replica tombs and re
 
 By wandering pathways to observe ongoing archaeological efforts, modern Albanians reconnect through ancient rites that failures and innovations now reveal a cultural resilience rooted profoundly in Europe’s deep memory. The mound’s grassy face links eras.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

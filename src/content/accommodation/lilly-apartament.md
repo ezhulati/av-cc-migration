@@ -1,28 +1,5 @@
----
-title: Lilly Apartament
-description: The apartment itself is a haven of space and light, featuring a bedroom, a living room, and a terrace that offers stunning views of the lake. Modern amenities a
-featuredImage: "/images/accommodation/482344897.jpg"
-language: en
-slug: lilly-apartament
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of space and light, featuring a bedroom, a living room, and a terrace that offers stunning views of the lake. Modern amenities are not spared, with a fully equipped kitchen that includes a dishwasher and an oven, ensuring that guests have everything they need for a comfortable stay. The inclusion of a flat-screen TV and free WiFi allows for relaxing evenings in, while the outdoor dining area and the warmth of a fireplace provide perfect settings for making memories.
+---\ntitle: "Lilly Apartament"\ndescription: "Lilly Apartament emerges as a serene retreat in Pogradec, boasting a prime beachfront location that effortlessly combines comfort with the breathtaking beauty of its surroundings."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482344897.jpg?k=f1afecadc7df23f6c4c099737d5a3757d1a295ea53be0996ecc14e0683155371&o=&hp=1"\nlanguage: en\nslug: lilly-apartament\naddress: "Rruga Andon Xoxa 30, Kati 8, 7301 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.90287232\n  lng: 20.65580159\nprice: "US$42"\npriceFrom: 42\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 3\nratings:\n  overall: 8.8\n  location: 9.2\n  cleanliness: 8.3\n  facilities: 8.3\n  value: 9.2\n  comfort: 9.2\n  staff: 8.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482344897.jpg?k=f1afecadc7df23f6c4c099737d5a3757d1a295ea53be0996ecc14e0683155371&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492106949.jpg?k=47788c675a1674e78b9cf0a1d24cc82dc1acaa62d2fce8ecd5d8a5e41eb8d254&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492105229.jpg?k=fbf9cec175f033dad14fb460555d98083773eb3129714f1fcc093b64b96700a8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483933787.jpg?k=591be0e425c9ad524173a00dbefc216a688176df90e255cf788a825f45d41075&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492107231.jpg?k=68b12403f32baeee170a620d1592c3b6f6614e72ed5a9a1a098a5a9c6950d42a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482344940.jpg?k=095585eb71ce7e26148f0e167e1cab814424535ee56040cf87b93c3a1515cb97&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492107102.jpg?k=ecc9905189acd66f2356b6f987312a703aaa99ce4c4a9d27b58c6b1a3a91c070&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482344949.jpg?k=897c52e450c65a11e20cdcd8e16c870b56cf3b8ba2ffaff90b7ef5515689af63&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483523392.jpg?k=950071f54b35a06f1d0d97ef77186e2bf5380c4e6c5ede8fd9f45341409af48c&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "PORADECI 50 m"\n  - "Restorant Tradita 100 m"\nwhatsNearby:\n  - "Driloni National Park 1.2 km"\n  - "National Park Galicica 7 km"\n  - "National Park Galicica 14 km"\n  - "Bay of Bones 16 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 72 km"\n  - "Tirana International Airport Mother Teresa 95 km"\nreviews:\n  - name: "Denis"\n    country: "Albania"\n    text: "“The apartment is in an excellent location and the view from the balcony is amazing.”"\nbookingURL: "https://www.booking.com/hotel/al/lilly-apartament.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of space and light, featuring a bedroom, a living room, and a terrace that offers stunning views of the lake. Modern amenities are not spared, with a fully equipped kitchen that includes a dishwasher and an oven, ensuring that guests have everything they need for a comfortable stay. The inclusion of a flat-screen TV and free WiFi allows for relaxing evenings in, while the outdoor dining area and the warmth of a fireplace provide perfect settings for making memories.
 
 For those keen to explore, Lilly Apartament is ideally situated for embarking on walking and bike tours around Pogradec, offering a unique opportunity to immerse in the local culture and natural beauty. Despite its tranquil setting, the property remains well-connected, with the Cave Church Archangel Michael and Port Ohrid both located 40 km away, and Ohrid Airport conveniently 46 km from the apartment.
 
 Lilly Apartament is not just an accommodation but a gateway to experiencing the rich tapestry of Pogradec, making it a top choice for travelers seeking both adventure and relaxation.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Bujtinat Skenderi Gjinar 1
-description: Each room at Bujtinat Skenderi Gjinar 1 is thoughtfully designed with a cozy seating area, ensuring guests have a comfortable space to relax. The highlight of t
-featuredImage: "/images/accommodation/456085688.jpg"
-language: en
-slug: bujtinat-skenderi-gjinar-1
-location: ""
-amenities: []
-images: []
----
-
-Each room at Bujtinat Skenderi Gjinar 1 is thoughtfully designed with a cozy seating area, ensuring guests have a comfortable space to relax. The highlight of these accommodations is the private bathroom equipped with a bidet, adding a touch of luxury to the guest experience.
+---\ntitle: "Bujtinat Skenderi Gjinar 1"\ndescription: "Bujtinat Skenderi Gjinar 1 emerges as a serene retreat in the heart of Gjinar, offering guests a unique blend of comfort and natural beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456085688.jpg?k=ea78e62cb6709e3cbe89ddb0e42eb6537486612af4277b6f1dc8db8da69c5f5d&o=&hp=1"\nlanguage: en\nslug: bujtinat-skenderi-gjinar-1\naddress: "Bujtinat Skenderi Bujtinat Skenderi, 3014 Gjinar, Albania"\ncity: "Gjinar"\nlocation: "Gjinar"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 41.020224\n  lng: 20.203261\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456085688.jpg?k=ea78e62cb6709e3cbe89ddb0e42eb6537486612af4277b6f1dc8db8da69c5f5d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353976298.jpg?k=42ce7bdd063353db86c7f8a1a00e984b05f958f39471b31c56b644cbdfe4e33c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456085722.jpg?k=57b9035bdc6e71056ecea28f147c920bfb91cefab45428f2d6158c929e4e6ee1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456085319.jpg?k=dae668e3a5bc76ebabad9dc9b7ccc5cb877f3362e4fd00f2345b35b1c2b0f0d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456085775.jpg?k=eae6f15bf62897cb246f0dd7acdc99f22e025b86c22401898fbf075f4fe039c2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388158971.jpg?k=acb55bd232d380654697df441a5e475d815170ae73461b13dec802229bddebab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456085759.jpg?k=e61da8f2c5e067e6a137e70fd702948867f31f47698c0d5b13c11cda3f79685a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388159133.jpg?k=abaa4454aca185ae807516f2b077c1e5244bbb24bc19f7d56a388a2923ce22de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462203161.jpg?k=a1a574d9ba802c072dabb009e1b8538ed7e94c8f567ec17c10777b26372ada28&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Bar"\nroomTypes:\n  - "Holiday Home"\nnearbyRestaurants:\n  - "Bar Restorant Karaj 200 m"\n  - "Mema Resort 10 km"\nairports:\n  - "Ohrid Airport 48 km"\n  - "Tirana International Airport Mother Teresa 58 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/skenderi-guest-house-39-s-gjinar-elbasan-albania.en-gb.html?aid=8035640"\nbestFor: "Best for Hiking Trail Proximity"\nbestCategories: "Hiking Trail Proximity"\ncategory: "Hiking Trail Proximity"\n---\n\nEach room at Bujtinat Skenderi Gjinar 1 is thoughtfully designed with a cozy seating area, ensuring guests have a comfortable space to relax. The highlight of these accommodations is the private bathroom equipped with a bidet, adding a touch of luxury to the guest experience.
 
 For those with a spirit of adventure, Bujtinat Skenderi Gjinar 1 serves as the perfect base to explore the surrounding area of Gjinar. Hiking enthusiasts will find themselves in their element, with numerous trails offering breathtaking scenery and a chance to connect with nature.
 
 Situated 74 km from Tirana International Mother Teresa Airport, the hostel remains conveniently accessible for travelers seeking a tranquil escape from the hustle and bustle of city life.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,7 @@
----
-title: Lake view apartment
-description: This air-conditioned haven boasts a generous layout, encompassing two well-appointed bedrooms, ensuring ample space for guests. The living area is equipped with
-featuredImage: "/images/accommodation/477835131.jpg"
-language: en
-slug: lake-view-apartment
-location: ""
-amenities: []
-images: []
----
-
-This air-conditioned haven boasts a generous layout, encompassing two well-appointed bedrooms, ensuring ample space for guests. The living area is equipped with a flat-screen TV featuring satellite channels, catering to entertainment needs. The heart of the apartment, a fully equipped kitchen, comes complete with modern appliances including a dishwasher, toaster, washing machine, fridge, and essential kitchenware, inviting guests to prepare and savor their meals in the comfort of their temporary home.
+---\ntitle: "Lake view apartment"\ndescription: "Lake View Apartment emerges as a serene retreat in Pogradec, offering a blend of comfort and scenic beauty for travelers seeking a tranquil escape."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477835131.jpg?k=f7dcf33524d71b2a741589a616958193a4b31bb1eb452bffd46b804b59a78a9a&o=&hp=1"\nlanguage: en\nslug: lake-view-apartment\naddress: "Rruga Dëshmorët e Pojskës, kati 6, ap. 28, 7301 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.90105083\n  lng: 20.66932946\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477835131.jpg?k=f7dcf33524d71b2a741589a616958193a4b31bb1eb452bffd46b804b59a78a9a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470159836.jpg?k=90176b7803be2cf2058b6e23babea11a23bb0bdbf3a433864dc849ebd02b26d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470159799.jpg?k=7859546ad6af07b3b755fbb6c6478e1045b8af6d4a96d7cd888d427e24d38452&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477835759.jpg?k=516f307e0fca759ab7cf2fc36d00cbafebb8412d51e02109f46ebcf0becaea3b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470159828.jpg?k=6e1d0e20b56ee07536dea6b39e70a24bcbd808e4f68c3c25b97d1574c938cbc8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477837005.jpg?k=f65a3bb20293a653956cd0a80163ea3310c0f48589f3942708fc94bdc8fffe09&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477835562.jpg?k=0a563d3a5d6b96d6d4bcf1b638bedc193f091e282c3d3162bb782b4cd13d1677&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470159808.jpg?k=db1587ffe899bcab6b0d4b1869ef96ca01c5bc6062d26e4aff7f2d610a1951e6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470159804.jpg?k=162c523a415b116194b234912eec71c4149c7acb44540ef4d4e3fc141343ea3b&o=&hp=1"\namenities:\n  - "Fast free WiFi (92 Mbps)"\nnearbyRestaurants:\n  - "Bar Eleven 10 m"\n  - "People 40 m"\nwhatsNearby:\n  - "Driloni National Park 250 m"\n  - "National Park Galicica 6 km"\n  - "National Park Galicica 13 km"\n  - "Bay of Bones 15 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 71 km"\n  - "Tirana International Airport Mother Teresa 97 km"\nbookingURL: "https://www.booking.com/hotel/al/lake-view-apartment-pogradec1.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThis air-conditioned haven boasts a generous layout, encompassing two well-appointed bedrooms, ensuring ample space for guests. The living area is equipped with a flat-screen TV featuring satellite channels, catering to entertainment needs. The heart of the apartment, a fully equipped kitchen, comes complete with modern appliances including a dishwasher, toaster, washing machine, fridge, and essential kitchenware, inviting guests to prepare and savor their meals in the comfort of their temporary home.
 
 One of the apartment's highlights is its terrace, offering an outdoor dining area where guests can dine al fresco while soaking in the breathtaking mountain views. The sense of exclusivity is further enhanced by a private entrance, ensuring a secluded and intimate experience.
 
 For those drawn to spiritual sites, the Church of St. John at Kaneo and the Cave Church Archangel Michael are within a manageable distance, located 38 km and 41 km away, respectively. Additionally, the convenience of being 45 km from Ohrid Airport facilitates stress-free travel arrangements.
 
 Lake View Apartment not only promises a stay filled with peace and picturesque landscapes but also serves as a gateway to exploring the rich heritage and natural wonders of Pogradec and its surroundings.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

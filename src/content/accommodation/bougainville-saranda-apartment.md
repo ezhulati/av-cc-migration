@@ -1,30 +1,7 @@
----
-title: Bougainville Saranda Apartment
-description: The accommodation boasts a well-appointed bedroom, a fully equipped kitchen featuring modern appliances such as a dishwasher and an oven, and a cozy seating are
-featuredImage: "/images/accommodation/518219909.jpg"
-language: en
-slug: bougainville-saranda-apartment
-location: ""
-amenities: []
-images: []
----
-
-The accommodation boasts a well-appointed bedroom, a fully equipped kitchen featuring modern appliances such as a dishwasher and an oven, and a cozy seating area perfect for unwinding. Guests can enjoy the luxury of a flat-screen TV and the convenience of a bathroom fitted with a bidet. To ensure a comfortable stay, towels and bed linen are thoughtfully provided, and the apartment prides itself on being allergy-free and strictly non-smoking.
+---\ntitle: "Bougainville Saranda Apartment"\ndescription: "Bougainville Saranda Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by striking city views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518219909.jpg?k=24241cdb77371ca8e15986360067f3c5d81311922136190d50e06ea22584004f&o=&hp=1"\nlanguage: en\nslug: bougainville-saranda-apartment\naddress: "bouga, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86405156\n  lng: 20.01743299\nprice: "US$140"\npriceFrom: 140\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518219909.jpg?k=24241cdb77371ca8e15986360067f3c5d81311922136190d50e06ea22584004f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518219996.jpg?k=34d2e736bf31ee8949edb32e62c6aa03a7ea38c080b04611ef29821426c471e2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518220037.jpg?k=1eadc0001428eeb6d9e594bfb5007d63b9fa737f9b070f1b8f2084e39a13785f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518220020.jpg?k=502ff4a9e631988866bb1fea28e30e6ddc5633306dbcb5f8d937e9e5cdc0789e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518220029.jpg?k=08d46223ad63a07a57b2ac6effea6d7a7dc1d1eb7485e37f5037cbfb11364e25&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518220032.jpg?k=49d1bbd3882e4a9442aa7ff911a755f731b1aed1ad9ee273f14dfb50cfb674c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518220003.jpg?k=beb48051d625cff15bc2384368654274bf484df69aaff7ddc82dea8cc31889d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518219990.jpg?k=46ae6a4d08a5644dd0386b106c9c214505a17dcb49fa0c45b0fd1df99ffc8b90&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518220013.jpg?k=8e35d5c51933e17e1ecb35dd8a2aac7ddc8761b469b811c727655ba32d4c4034&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Nertili 10 m"\n  - "Pizza di Gusto 50 m"\nnearbyBeaches:\n  - "Maestral Beach 300 m"\n  - "La Petite Beach 500 m"\n  - "VIP Beach 600 m"\n  - "Santa Quaranta Beach 650 m"\n  - "Flamingo Beach 900 m"\nwhatsNearby:\n  - "Parc National de Butrint 850 m"\n  - "Butrint National Park 1.7 km"\n  - "Plazhi I Krorezes 7 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 11 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/bougainville-saranda-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodation boasts a well-appointed bedroom, a fully equipped kitchen featuring modern appliances such as a dishwasher and an oven, and a cozy seating area perfect for unwinding. Guests can enjoy the luxury of a flat-screen TV and the convenience of a bathroom fitted with a bidet. To ensure a comfortable stay, towels and bed linen are thoughtfully provided, and the apartment prides itself on being allergy-free and strictly non-smoking.
 
 For those looking to explore local dining options, a variety of choices await just moments from the doorstep. Connectivity is seamless with free WiFi available throughout the property, ensuring guests stay connected with the world or plan their next adventure in Saranda.
 
 Travelers will find Bougainville Saranda Apartment not only a gateway to the area's natural beauty but also a retreat that promises a hassle-free stay, with Maestral Beach located a mere 300 meters away. For those venturing from afar, Ioannina Airport is the nearest air link, positioned 96 km from the apartment, making it a convenient option for international and domestic visitors alike.
 
 In essence, Bougainville Saranda Apartment offers an inviting home away from home, where every detail is curated to enhance the guest experience, making it a highly recommended stay for those looking to capture the essence of Saranda.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

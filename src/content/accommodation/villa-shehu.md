@@ -1,28 +1,3 @@
----
-title: Villa Shehu
-description: "Recently undergoing a stylish renovation, Villa Shehu presents a cozy one-bedroom villa that captivates with its breathtaking mountain and garden views."
-featuredImage: "/images/accommodation/463274644.jpg"
-language: en
-slug: villa-shehu
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Villa Shehu"\ndescription: "Villa Shehu stands out as a prime choice for travelers seeking comfort and convenience in Gjirokastër."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512143114.jpg?k=ebae67e11f89e614383454abecedc7bfe31310719f0bb2288f8d4c3881d0c28a&o=&hp=1"\nlanguage: en\nslug: villa-shehu\naddress: "Rruga Gjin Bue Shpata, Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.07358498\n  lng: 20.14186519\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512143114.jpg?k=ebae67e11f89e614383454abecedc7bfe31310719f0bb2288f8d4c3881d0c28a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512143094.jpg?k=78b8c28943c79b5e28c11d629f9630a87c396c53a68ebbbf6536e7111cc4c062&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512143137.jpg?k=c169e71954da2eb9beb3aa463531dcc2bb7c898b413aae75c17a9372c9c31570&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512143083.jpg?k=a91213512d2cc702d3ad016dd807229e647a43b35218f9d53b571904ab302475&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512143102.jpg?k=9d0fac08ee495e94937afff98f02011cffa70abee33ddb23cf924989a4db3d64&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512142462.jpg?k=939f15c99b1cef83653c57e3cf5cca0ec63cbbeeb90248594b36dd8c5aee0522&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Deluxe Double Room with Balcony"\n  - "Deluxe Double or Twin Room with Balcony"\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Taverna Tradicionale Sokolli 50 m"\n  - "Te Kalaja 200 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/studio-katoki.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nSelect apartments boast a fully equipped kitchen, complete with an oven and fridge, catering to those who prefer the convenience of home-cooked meals during their travels.
 
-Recently undergoing a stylish renovation, Villa Shehu presents a cozy one-bedroom villa that captivates with its breathtaking mountain and garden views. Guests are welcomed into a space that feels like home, complete with a balcony for intimate moments under the sky. The villa is equipped with modern comforts such as air conditioning, a television, and a seating area, ensuring a stay that blends relaxation with entertainment. Practical needs are not overlooked, with a washing machine and a comprehensive bathroom featuring a bidet, bath, and shower. For a touch of luxury, wine or champagne awaits to toast to unforgettable memories.
-
-Culinary delights are within easy reach, with an onsite coffee shop and a convenient minimarket, catering to guests' needs without having to venture far. For those looking to explore the surroundings, Villa Shehu offers bike and car rental services, making it an ideal base for cycling enthusiasts and hikers eager to discover the area's natural beauty. Families will appreciate the indoor play area, ensuring entertainment for all ages, while the garden invites moments of tranquility and relaxation.
-
-Situated 115 km from Tirana International Mother Teresa Airport, Villa Shehu represents a perfect blend of accessibility and seclusion, promising a stay that is both refreshing and memorable.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}
+For guests looking to explore beyond the local area, Ioannina Airport is conveniently located just 83 km away, making Villa Shehu an excellent base for both short and extended stays.

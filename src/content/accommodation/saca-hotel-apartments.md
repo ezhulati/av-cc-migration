@@ -1,26 +1,3 @@
----
-title: Saca Hotel/Apartments
-description: "The accommodation at Saca Hotel/Apartments is thoughtfully designed, featuring a single bedroom apartment that is both spacious and well-appointed."
-featuredImage: "/images/accommodation/AOh14GgAiCRKv4NRii0eDdeUFb3XKDJUyajsWN_Mu2a7wws96-c64"
-language: en
-slug: saca-hotel-apartments
-location: ""
-amenities: []
-images: []
----
-
-The accommodation at Saca Hotel/Apartments is thoughtfully designed, featuring a single bedroom apartment that is both spacious and well-appointed. Guests will find a fully equipped kitchen at their disposal, making self-catering a breeze, alongside a modern bathroom for utmost convenience. Entertainment needs are well catered to with the inclusion of a flat-screen TV, ensuring relaxation is just a remote click away.
+---\ntitle: "Saca Hotel/Apartments"\ndescription: "Saca Hotel/Apartments emerges as a prime choice for travelers seeking comfort and convenience in Shëngjin, positioned just a stone's throw away from the serene Ylberi Beach and within easy reach of Shëngjin Beach."\nfeaturedImage: "https://lh3.googleusercontent.com/a-/AOh14GgAiCRKv4NRii0eDdeUFb3XKDJUyajsWN_Mu2a7ww=s96-c64"\nlanguage: en\nslug: saca-hotel-apartments\naddress: "Rruga Shëngjin - Kune, 4503 Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.79253323\n  lng: 19.60314102\nprice: "US$96"\npriceFrom: 96\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 9.5\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 7.5\n  comfort: 10\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://lh3.googleusercontent.com/a-/AOh14GgAiCRKv4NRii0eDdeUFb3XKDJUyajsWN_Mu2a7ww=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/xk/b02858506aba20c9844cce25c84ae81896d81c6a.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477844802.jpg?k=fb67b8a230afd0be4beb3f0111612706d284f8b9b029a5d61498ef004a53eea5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/503702853.jpg?k=fb16757ccb0ab442c54e7240ded3aef97d4e3264c7a96692d721beef04789324&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/477844739.jpg?k=df0b514bf4d33fb0c03e1bac49a5d67f7b70beff6eec5786638ed72a4a3a92f0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/477844810.jpg?k=c21e414ded81a5f1347f00433ec43193be119cec448eeee320624c3f1bddecf6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/477844816.jpg?k=658f7afc87e7daa6fc9df152df53a1da0f3853a31fac1d7600ce517ac063d07d&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Hotel Restorant Molla 150 m"\n  - "Soleil 600 m"\nnearbyBeaches:\n  - "Ylberi Beach 200 m"\n  - "Shëngjin Beach 850 m"\n  - "Laguna Park Beach 2.6 km"\n  - "Kune Beach 2.8 km"\n  - "Rana e Hedhun Beach 4.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 41 km"\n  - "Podgorica Airport 68 km"\nreviews:\n  - name: "Drenovci"\n    country: "Kosovo"\n    text: "“Super comfy place, people were very respectful and very clean too!”"\nbookingURL: "https://www.booking.com/hotel/al/saca-apartments-shengjin.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodation at Saca Hotel/Apartments is thoughtfully designed, featuring a single bedroom apartment that is both spacious and well-appointed. Guests will find a fully equipped kitchen at their disposal, making self-catering a breeze, alongside a modern bathroom for utmost convenience. Entertainment needs are well catered to with the inclusion of a flat-screen TV, ensuring relaxation is just a remote click away.
 
 For those intrigued by historical and natural explorations, the proximity to Rozafa Castle Shkodra, 41 km away, and Lake Skadar, 43 km distant, offers enriching day trip options. Moreover, the accessibility of Tirana International Mother Teresa Airport, located 48 km from the property, facilitates ease of travel for international guests. Saca Hotel/Apartments stands out as a compelling choice for those in pursuit of a tranquil retreat coupled with the promise of adventure in the beautiful surroundings of Shëngjin.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

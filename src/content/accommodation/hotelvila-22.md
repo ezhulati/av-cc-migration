@@ -1,30 +1,7 @@
----
-title: HotelVila 22
-description: The accommodations at HotelVila 22 are thoughtfully designed to ensure a restful stay. Each air-conditioned room is a sanctuary of tranquility, featuring a priv
-featuredImage: "/images/accommodation/483016860.jpg"
-language: en
-slug: hotelvila-22
-location: ""
-amenities: []
-images: []
----
-
-The accommodations at HotelVila 22 are thoughtfully designed to ensure a restful stay. Each air-conditioned room is a sanctuary of tranquility, featuring a private bathroom, free WiFi, a desk for those needing to stay connected, a flat-screen TV for entertainment, and complimentary toiletries adding a touch of home.
+---\ntitle: "HotelVila 22"\ndescription: "HotelVila 22 emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483016860.jpg?k=ba0ac641e5315d0cca075144a4d19f9b63abea47135c18e25d2c0de94fba505a&o=&hp=1"\nlanguage: en\nslug: hotelvila-22\naddress: "Rruga Naim Frashëri, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.32830419\n  lng: 19.806139\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.3\nratingWords: "Good"\nnumberOfReviews: 26\nratings:\n  overall: 7.3\n  location: 7.8\n  cleanliness: 7.4\n  facilities: 7.2\n  value: 6.9\n  comfort: 7.5\n  staff: 7.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483016860.jpg?k=ba0ac641e5315d0cca075144a4d19f9b63abea47135c18e25d2c0de94fba505a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483016952.jpg?k=31bd1facb7b07bc65182ea0ceecfd2bd6d21b946c8873fccd8a60eef3a24a703&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483016938.jpg?k=f1781cb13d37768a331894235402e82d6b0fe94ccca4f5903c40f9ed7226c4b0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483016989.jpg?k=4d5f9f6c3dac4ef269c6e3dab5bc1313a71a1dd1989bb18dd0769f4533e9ec79&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483019208.jpg?k=c0d46b6d77cbe038a6ee7f9c6c8fab2027b4a30e2b6263e031db08e07c30373c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483016967.jpg?k=2d416c359ea437f69aefef0e60973288d04a47f699970e4f2b2410e3b72d84cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483019210.jpg?k=b2367b0ec5007bcaff70f1c8e48c82002b1044da4258f78dd771a59523b30db7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483016920.jpg?k=cb85c45b5c8576e7970fbfe6b2b1258202caffc951a0052bb3b278dea4a8b3a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483016928.jpg?k=c1fdaf9cef847b40ae1aadd9e7cb642e017fd7a959f8165656b928b6d8e6fbcc&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room"\n  - "Twin Room"\n  - "Triple Room"\n  - "Quadruple Room"\nnearbyAttractions:\n  - "Rinia Park 1.1 km"\n  - "Skanderbeg Square 1.1 km"\n  - "Clock Tower Tirana 1.1 km"\n  - "Former Residence of Enver Hoxha 1.2 km"\n  - "National Gallery of Arts Tirana 1.2 km"\n  - "Tanners' Bridge 1.7 km"\n  - "Grand Park of Tirana 2.4 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Gastro Organic 20 m"\n  - "Vila 31 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Mine Peza 600 m"\n  - "Sheshi Rekreativ Shefqet Musaraj 650 m"\n  - "Sheshi Paris 750 m"\n  - "Sheshi Rekreativ Sali Butka 800 m"\n  - "Sheshi Rekreativ Parku 1Km 800 m"\n  - "Sheshi Rekreativ Don Bosko 850 m"\n  - "House of Leaves 900 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 900 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 950 m"\n  - "National Museum of History Albania 950 m"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 80 km"\nbookingURL: "https://www.booking.com/hotel/al/hotelvila-22.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe accommodations at HotelVila 22 are thoughtfully designed to ensure a restful stay. Each air-conditioned room is a sanctuary of tranquility, featuring a private bathroom, free WiFi, a desk for those needing to stay connected, a flat-screen TV for entertainment, and complimentary toiletries adding a touch of home.
 
 The hotel's location is particularly advantageous for those eager to explore Tirana's rich cultural tapestry. A short distance away, guests can discover historical sites such as the Former Residence of Enver Hoxha, the intriguing House of Leaves, and the lush surroundings of Rinia Park. For those looking to venture further, the Dajti Ekspres Cable Car is located 6.7 km away, offering breathtaking views of the city from above.
 
 Ease of communication is guaranteed, with a reception staff fluent in both English and Italian, ready to assist guests with any inquiries or recommendations to enhance their stay.
 
 For travelers arriving by air, the convenience of Tirana International Mother Teresa Airport being just 13 km away makes HotelVila 22 an ideal choice for both short visits and extended stays in Albania's vibrant capital.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

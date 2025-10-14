@@ -1,30 +1,7 @@
----
-title: Olympia Hotel
-description: "Guests are treated to air-conditioned accommodations that boast not only a balcony with sweeping sea views but also modern amenities including a telev..."
-featuredImage: "/images/accommodation/300549187.jpg"
-language: en
-slug: olympia-hotel
-location: ""
-amenities: []
-images: []
----
-
-Guests are treated to air-conditioned accommodations that boast not only a balcony with sweeping sea views but also modern amenities including a television and a refrigerator. The en-suite bathrooms are well-appointed with complimentary toiletries and towels, enhancing the comfort of each stay. Select units also feature a fully equipped kitchen, catering to those who prefer a home-cooked meal even while on vacation.
+---\ntitle: "Olympia Hotel"\ndescription: "Olympia Hotel emerges as a prime choice for travelers seeking both comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300549187.jpg?k=0c6cb45a6a2fc38963c42294b9affa950dfc99db1df3c2854632fcd2e24f772d&o=&hp=1"\nlanguage: en\nslug: olympia-hotel\naddress: "Street Gjergj Arianiti, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.87574359\n  lng: 20.01232432\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nrating: 7\nratingWords: "Good"\nnumberOfReviews: 218\nratings:\n  overall: 7\n  location: 6.8\n  cleanliness: 6.7\n  facilities: 6.6\n  value: 6.4\n  comfort: 6.7\n  staff: 7.6\n  wifi: 8.1\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300549187.jpg?k=0c6cb45a6a2fc38963c42294b9affa950dfc99db1df3c2854632fcd2e24f772d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304211630.jpg?k=b4f0949f74bc40c7036ab549f073408ab5a7c374a05cecf670fa93e94615ac3d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/266364102.jpg?k=5a0339783f1bb6eafc7cae0d9df289d3d5649063955fec87f66ecf74d20f0ba1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347393053.jpg?k=ff1f1392e9bfd6f660e1e765b4d381cab55b1aeac8ad74dc5798070e5f3f1bd5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213944464.jpg?k=3d1afd0d79f5dca2b23e2a45a8f5f345d667f4d4b953d5956f4dc20e8181f342&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213944313.jpg?k=837dac3d57e031893670283e452bb969d29512da2346cff0e1f0b8479ed2a5be&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Terrace"\n  - "Bar"\nroomTypes:\n  - "Twin Room"\n  - "Double Room"\n  - "Superior Double Room"\n  - "Queen Room"\n  - "King Room"\n  - "Double Room with Extra Bed"\n  - "Economy Triple Room"\n  - "Triple Room"\n  - "Comfort Triple Room"\nnearbyRestaurants:\n  - "Nona Qebaptore 150 m"\n  - "Pastiçeri Gremo 200 m"\nnearbyBeaches:\n  - "Saranda City Beach 250 m"\n  - "La Petite Beach 800 m"\n  - "Maestral Beach 1,000 m"\n  - "Sarande Main Beach 1.1 km"\n  - "VIP Beach 2 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.1 km"\n  - "Butrint National Park 3 km"\n  - "Plazhi I Krorezes 9 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 31 km"\n  - "Ioannina Airport 71 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/olympia.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are treated to air-conditioned accommodations that boast not only a balcony with sweeping sea views but also modern amenities including a television and a refrigerator. The en-suite bathrooms are well-appointed with complimentary toiletries and towels, enhancing the comfort of each stay. Select units also feature a fully equipped kitchen, catering to those who prefer a home-cooked meal even while on vacation.
 
 The culinary experience at Olympia Hotel is a delightful journey through traditional Albanian flavors and Mediterranean delights, served in the hotel's à-la-carte restaurant. For a more casual setting, the bar with its inviting terrace offers a relaxed atmosphere for guests to unwind.
 
 Convenience is key at Olympia Hotel, with a grocery store located just 10 meters away, ensuring that essentials are always within reach. For those looking to explore further, a bus station is situated 600 meters from the hotel, and the historic Lekursi Castle is just 2 kilometers away. Additionally, guests can enjoy peace of mind with the provision of free secure parking for each room.
 
 Olympia Hotel stands out as a stellar accommodation choice, offering a harmonious blend of location, comfort, and culinary excellence, making it a must-visit for any traveler to Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

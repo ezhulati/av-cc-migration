@@ -1,26 +1,3 @@
----
-title: Villa ERI
-description: The villa itself is a testament to modern living with a touch of home, featuring air conditioning for those warm Berat days. It is thoughtfully designed with tw
-featuredImage: "/images/accommodation/494678750.jpg"
-language: en
-slug: villa-eri
-location: ""
-amenities: []
-images: []
----
-
-The villa itself is a testament to modern living with a touch of home, featuring air conditioning for those warm Berat days. It is thoughtfully designed with two separate bedrooms, a cozy living room, a fully equipped kitchen for those who love to cook, and a bathroom. Entertainment is readily available with a flat-screen TV, catering to guests' diverse viewing preferences. Importantly, the villa maintains a non-smoking environment, ensuring a clean and fresh atmosphere.
+---\ntitle: "Villa ERI"\ndescription: "Villa ERI stands out as a serene retreat in the historic city of Berat, providing guests with a blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494678750.jpg?k=219836f4187ab0b757172888eec54fab49560cd227a5091e169c50c6202c041a&o=&hp=1"\nlanguage: en\nslug: villa-eri\naddress: "Velabisht, Berat, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.69802159\n  lng: 19.9368306\nprice: "US$56"\npriceFrom: 56\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494678750.jpg?k=219836f4187ab0b757172888eec54fab49560cd227a5091e169c50c6202c041a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494678762.jpg?k=87f48baff4c6eff5e02a309ea6039d6fc1c7c77b0f9f01fb226f854eb8bb618f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494678716.jpg?k=a9f7356f5e03d08a7a39889fdafa5dcc1a504ce10ad398d35710ad537c7e31e6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494678724.jpg?k=3c2600671129de56906d17ccc851545631bc501fe779304b67130d6a6378748b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494678748.jpg?k=05a27089849371b4d7d969ebd3082accdc343b01eca8afa7692727cc12281768&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494678720.jpg?k=3316a66d2b8ebc289f9f471961429e047757139f034761673037d99c66e5ce21&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494678729.jpg?k=5d100a2754ac62959e010ceefc1187cf22950452d34c9bf696cd04bbe87bb6d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494678725.jpg?k=5514968937148994a33936e67e8143188772acd0df5ad9fba94bd7a1a87d4d9f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494678740.jpg?k=af96377b7ebb286fc34930ae1973bc1539e60add378c7711d258a932b1c7eb88&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "Villa with Garden View"\nnearbyRestaurants:\n  - "Infopoint Gorica 600 m"\n  - "Eni Traditional Food Berat 800 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 10 km"\n  - "Sheshi Tomorri 17 km"\nairports:\n  - "Tirana International Airport Mother Teresa 80 km"\n  - "Ohrid Airport 85 km"\nbookingURL: "https://www.booking.com/hotel/al/villa-paradiso.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nThe villa itself is a testament to modern living with a touch of home, featuring air conditioning for those warm Berat days. It is thoughtfully designed with two separate bedrooms, a cozy living room, a fully equipped kitchen for those who love to cook, and a bathroom. Entertainment is readily available with a flat-screen TV, catering to guests' diverse viewing preferences. Importantly, the villa maintains a non-smoking environment, ensuring a clean and fresh atmosphere.
 
 Located 118 km from Tirana International Mother Teresa Airport, Villa ERI offers a perfect escape for those looking to explore the rich history and culture of Berat while enjoying the comforts of a well-appointed accommodation.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

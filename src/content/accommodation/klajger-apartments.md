@@ -1,30 +1,3 @@
----
-title: Klajger Apartments
-description: Each apartment within this complex is meticulously equipped with modern amenities, including air conditioning for those warm summer days and a cable flat-screen
-featuredImage: "/images/accommodation/527513841.jpg"
-language: en
-slug: klajger-apartments
-location: ""
-amenities: []
-images: []
----
-
-Each apartment within this complex is meticulously equipped with modern amenities, including air conditioning for those warm summer days and a cable flat-screen TV for entertainment needs. Privacy and convenience are paramount, as evidenced by the inclusion of an en-suite bathroom complete with a shower and complimentary slippers. To stay connected, guests can enjoy the benefit of complimentary WiFi throughout their stay, alongside the comfort of heating facilities to ward off the evening chill.
+---\ntitle: "Klajger Apartments"\ndescription: "Klajger Apartments emerges as a prime choice for travelers seeking comfortable lodging in Berat, boasting a serene garden view that promises a tranquil retreat."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527513841.jpg?k=b12a7c459d5646b4d4f8cb0b5f8bc41939dd5d4d27b164e5013860d9f510d659&o=&hp=1"\nlanguage: en\nslug: klajger-apartments\naddress: "Rruga Antipatrea, Pallati nr 18, shkalla1, kati 1, apartamenti nr 5A & 5B., 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.70261037\n  lng: 19.95821043\nprice: "US$30"\npriceFrom: 30\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527513841.jpg?k=b12a7c459d5646b4d4f8cb0b5f8bc41939dd5d4d27b164e5013860d9f510d659&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527520221.jpg?k=1cbb57c228698c64a3982e307a631bc08fc36921464b348d1e2f20a7aeb13676&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527519228.jpg?k=9b572dd91ae9c7ffafcada3af5964525eb315b888cf50bc8689af719402d845f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527519179.jpg?k=a127e79fe7ff3de8863d360339c1c67e3d77ea4e293c225c778d0b5bd93c3ecf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527519234.jpg?k=d47a0bd087420d120d5629de9ae8b6083baaad36d081496655bbd850cc6da7db&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527520186.jpg?k=dbdd3ba6c68b6f670c4ac0bb0f4ee4b5c4ef8e92a97b91e6f25aae34e806552b&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Restorant Il Gusto 40 m"\n  - "Gimi Coffee House 100 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 8 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 80 km"\n  - "Ohrid Airport 83 km"\nbookingURL: "https://www.booking.com/hotel/al/klajger-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nEach apartment within this complex is meticulously equipped with modern amenities, including air conditioning for those warm summer days and a cable flat-screen TV for entertainment needs. Privacy and convenience are paramount, as evidenced by the inclusion of an en-suite bathroom complete with a shower and complimentary slippers. To stay connected, guests can enjoy the benefit of complimentary WiFi throughout their stay, alongside the comfort of heating facilities to ward off the evening chill.
 
 Situated a considerable distance from the hustle and bustle, the property is located 119 km from Tirana International Mother Teresa Airport, making it an accessible getaway for both local and international travelers.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

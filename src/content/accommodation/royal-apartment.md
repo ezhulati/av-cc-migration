@@ -1,28 +1,5 @@
----
-title: Royal Apartment
-description: "Guests at Royal Apartment enjoy the convenience of modern amenities in a smoke-free environment."
-featuredImage: "/images/accommodation/480601614.jpg"
-language: en
-slug: royal-apartment
-location: ""
-amenities: []
-images: []
----
-
-Guests at Royal Apartment enjoy the convenience of modern amenities in a smoke-free environment. The apartment boasts a generous layout, featuring a bedroom, a bathroom, and a balcony that presents breathtaking sea views. Comfort is prioritized with air conditioning, complimentary WiFi, and private parking available to all guests. The living space is thoughtfully equipped with a flat-screen TV, a dining area, and a kitchen that includes everything needed for a home-cooked meal.
+---\ntitle: "Royal Apartment"\ndescription: "Royal Apartment in Sarandë offers a prime location for travelers seeking both relaxation and adventure."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480601614.jpg?k=10ed753812310b93ef2dcbd4425f08dc633be0d4a9c572ad9b2315cd9bdae663&o=&hp=1"\nlanguage: en\nslug: royal-apartment\naddress: "Rruga Qazim Demi, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.8737541\n  lng: 20.0140361\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 2\nratings:\n  overall: 7.9\n  location: 8.8\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 7.5\n  comfort: 7.5\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480601614.jpg?k=10ed753812310b93ef2dcbd4425f08dc633be0d4a9c572ad9b2315cd9bdae663&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480601742.jpg?k=1352d0ff1cc0f5fc791e4f280e29211d284c575e27b3886d8359d764b565408b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481968436.jpg?k=a35ace24c9d4bf3be16835509cdddb26c5f8e16adc4e8725defa4bc8e16e43b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480601756.jpg?k=336e756f21da80a949b3d3ec25a45b3737e07099dad759527d0e8ac07b2d5d0a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481968282.jpg?k=ed6751bf9f576b503dc3d58eb9a8762dab89221bd652d4612072395641d486c2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480601751.jpg?k=ff982b1083343d7bb2bfedd61d258fb3a2c29a429e345fece0bd3a0680c735ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480601738.jpg?k=33a5cfd04c523098f3140075f92ac5c7f780c653b738f92dd0621bd2ef5ee876&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480601731.jpg?k=8432d865539506e1cbc67d2e11283481b74cf58a77a6649779952157d04d37da&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481968069.jpg?k=f7b794aeb18b786539a5d3171e1853c1e7a30a18e02f2bd07757a06f4800811f&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Good free WiFi (27 Mbps)"\n  - "Family rooms"\n  - "Terrace"\nnearbyRestaurants:\n  - "La Brasseria da Franco 100 m"\n  - "TUNELI RESTAURANT 100 m"\nnearbyBeaches:\n  - "Saranda City Beach 150 m"\n  - "La Petite Beach 600 m"\n  - "Maestral Beach 750 m"\n  - "Sarande Main Beach 1.1 km"\n  - "VIP Beach 1.7 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.9 km"\n  - "Butrint National Park 2.8 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nbookingURL: "https://www.booking.com/hotel/al/royal-apartment-sarande2.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Royal Apartment enjoy the convenience of modern amenities in a smoke-free environment. The apartment boasts a generous layout, featuring a bedroom, a bathroom, and a balcony that presents breathtaking sea views. Comfort is prioritized with air conditioning, complimentary WiFi, and private parking available to all guests. The living space is thoughtfully equipped with a flat-screen TV, a dining area, and a kitchen that includes everything needed for a home-cooked meal.
 
 Adding to the appeal, the apartment's terrace invites guests to unwind and soak in the surroundings, making it a perfect retreat after a day of exploration. With La Petite Beach also less than a kilometer away, visitors have ample opportunity to enjoy the coastal lifestyle Sarandë is celebrated for.
 
 For those traveling to or from the area, Ioannina Airport is located 96 km away, making Royal Apartment a convenient choice for both domestic and international travelers. This property stands out as a top pick for those looking to experience the best of Sarandë in comfort and style.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

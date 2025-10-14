@@ -1,15 +1,6 @@
----
-title: Ilio Boutique Hotel
-description: "Guests can enjoy the luxury of connectivity with complimentary WiFi throughout the hotel, alongside thoughtful amenities such as a kids..."
-featuredImage: "/images/accommodation/465418318.jpg"
-language: en
-slug: ilio-boutique-hotel
-location: ''
-amenities: []
-images: []
----
-
-Guests can enjoy the luxury of connectivity with complimentary WiFi throughout the hotel, alongside thoughtful amenities such as a kids' club, room service, an ATM, and currency exchange services, making every aspect of their stay seamless and worry-free.
+---\ntitle: "Ilio Boutique Hotel"\ndescription: "Ilio Boutique Hotel emerges as a charming retreat in the heart of Ksamil, merely a stone's throw away from the pristine Ksamil Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465418318.jpg?k=39b4dbd19dab5432352c64252f9ae86ce152bb2b4785fb47fa2234415186f18d&o=&hp=1"\nlanguage: en\nslug: ilio-boutique-hotel\naddress: "Rruga Peshkatari Ksamil, 9701 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.7695634\n  lng: 20.00410823\nprice: "US$47"\npriceFrom: 47\nstarRating: 4\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 100\nratings:\n  overall: 9.3\n  location: 9.2\n  cleanliness: 9.3\n  facilities: 9\n  value: 8.9\n  comfort: 9.4\n  staff: 9.3\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465418318.jpg?k=39b4dbd19dab5432352c64252f9ae86ce152bb2b4785fb47fa2234415186f18d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497391701.jpg?k=2b21d045094d38d7c9c951d97ce1bb2da5e2d143ca605a099ab19b9f90bb68e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473641932.jpg?k=3f4238c606a183472285e915772fdb46f3796498c3c71ab571a1155a2b30ae69&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498426066.jpg?k=e962c67caece46658b608f4e58de6bea29bd3e222b2f4a460bafce02e61a9c56&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475234351.jpg?k=0014e7793291dfcd94cd3f04361a09692e4e11f84ddf5b348c6a5785d64d9eb3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507357209.jpg?k=2f0ac5eb0bf7136d6124023271c7211bfe922a1e6b4ff4532c717092ef906a1d&o=&hp=1"\namenities:\n  - "2 swimming pools"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Double Room"\n  - "Superior King Room"\n  - "Superior King Room with Jacuzzi"\n  - "Deluxe Triple Room"\n  - "Deluxe Family Room"\nnearbyAttractions:\n  - "Museum of Banknotes 18 km"\n  - "New Fortress 18 km"\n  - "Serbian Museum 18 km"\n  - "Theotoki G. Square 18 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 19 km"\n  - "Trion Martiron Park 19 km"\n  - "Mon Repos Palace 19 km"\nnearbyRestaurants:\n  - "Fish Shop Butrint 50 m"\n  - "Papu Gyros 50 m"\nnearbyBeaches:\n  - "Ksamil Beach 400 m"\n  - "Ksamil Beach 9 500 m"\n  - "Bora Bora Beach 500 m"\n  - "Ksamil Beach 7 550 m"\n  - "Coco Beach 750 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 250 m"\n  - "Butrint National Park 2.5 km"\n  - "Plazhi I Krorezes 3.4 km"\n  - "Parc National de Butrint 10 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 17 km"\n  - "Old Fortress 17 km"\nairports:\n  - "Corfu International Airport 19 km"\n  - "Ioannina Airport 69 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Sadam"\n    country: "United Kingdom"\n    text: "“My partner and I, experienced a delightful 3-night stay at Ilio Boutique Hotel, nestled in the heart of Ksamil and just a stroll from the sea. The charm extended from the spotless, new interiors to the 1st floor swimming pool. The owner's...”"\n  - name: "Natasha"\n    country: "Australia"\n    text: "“Perfect Location Very cleab rooms and amazing Pool area Breakfast very generous Staff very accommodating”"\n  - name: "Lion"\n    country: "France"\n    text: "“We liked everything about this hotel since the check in and now.The room is spacious and the bed is very comfy.
+I did not use the pool,but the two pools were very clean and big.Everything was very near like 2 minutes walk.
+We even ate dinner at...”"\nbookingURL: "https://www.booking.com/hotel/al/gi-relax-private-paradise.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests can enjoy the luxury of connectivity with complimentary WiFi throughout the hotel, alongside thoughtful amenities such as a kids' club, room service, an ATM, and currency exchange services, making every aspect of their stay seamless and worry-free.
 
 The accommodations at Ilio Boutique Hotel are designed with comfort and elegance in mind. Each room is equipped with air conditioning, a cozy seating area, and a flat-screen TV with satellite channels for those moments of relaxation. The safety deposit box, private bathroom complete with complimentary toiletries and a hairdryer, and ample wardrobe space further enhance the guest experience, ensuring a blend of security and convenience.
 
@@ -18,15 +9,3 @@ Mornings at Ilio Boutique Hotel are greeted with a delightful continental breakf
 The hotel's staff, proficient in Bosnian, German, Greek, and English, stand ready to assist guests, ensuring that every need is met with the utmost care and professionalism.
 
 Located just a short walk from the enchanting Bora Bora Beach and the serene Ksamil Beach 9, and with Corfu International Airport 93 km away, Ilio Boutique Hotel serves as an ideal base for exploring the beauty of Ksamil and beyond.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

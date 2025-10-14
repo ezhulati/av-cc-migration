@@ -1,28 +1,5 @@
----
-title: Bonalba sea view room 2
-description: This apartment is a haven of comfort, offering guests a cozy bedroom, a bathroom equipped with essential amenities, bed linen, towels, and a living area that in
-featuredImage: "/images/accommodation/419210147.jpg"
-language: en
-slug: bonalba-sea-view-room-2
-location: ""
-amenities: []
-images: []
----
-
-This apartment is a haven of comfort, offering guests a cozy bedroom, a bathroom equipped with essential amenities, bed linen, towels, and a living area that includes a flat-screen TV with streaming services for entertainment. The dining area and a fully equipped kitchen cater to the needs of those who prefer home-cooked meals, while the terrace invites guests to unwind as they gaze upon the sea or enjoy the mountain views from the comfort of the patio, which is thoughtfully furnished with outdoor seating.
+---\ntitle: "Bonalba sea view room 2"\ndescription: "Bonalba Sea View Room #2 emerges as a prime choice for travelers seeking a serene beachfront escape in Himare."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419210147.jpg?k=57b7bb097ebcbe0daf094fc6ce5d05c2141a5e36f011a435b74a4b798dad9440&o=&hp=1"\nlanguage: en\nslug: bonalba-sea-view-room-2\naddress: "6 SH8, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.10007853\n  lng: 19.74769772\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 9.5\n  location: 9.2\n  cleanliness: 10\n  facilities: 8.3\n  value: 9.2\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419210147.jpg?k=57b7bb097ebcbe0daf094fc6ce5d05c2141a5e36f011a435b74a4b798dad9440&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483419487.jpg?k=750766b21d3219f48eed59559937587c2e7ae89c446f35b129c9f8c7857eba4d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483419618.jpg?k=e6a3ed666523397ec17c6269a77912a9dc48899f96af57e8a678974d96517fac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483416919.jpg?k=4902b39ebb06e6b4dab3cbb296a2cdfb9c1e5e97e30b686241c329daccf58fd4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483418838.jpg?k=7639c8771b023382ac9fd7a6ab54e7ded35d5a9ee48f24c4fa1407e4847dba24&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487109428.jpg?k=e408eddee8b1c8139897af05042f75a41ab0ab7242940ec24661e23af7f86fdc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483419344.jpg?k=e371899b2c2ab2b090a103193ae6c39e1ffda4037f3b27854fa097033daeb337&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378932563.jpg?k=5e772ca4a8b329b28cc09dfa7e92ab2bbacdf7ab3da757b01db3b6001e474506&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486953384.jpg?k=76012a1d793d1626eeaf6df9bcd384fc0064506c885779d49d1c2ccebf347d10&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "La Famiglia Kreperi 10 m"\n  - "Valentino 100 m"\nnearbyBeaches:\n  - "Spille Beach 20 m"\n  - "Maracit Beach 50 m"\n  - "Prinos Beach 300 m"\n  - "Potam Beach 700 m"\n  - "Livadhi Beach 1.5 km"\nwhatsNearby:\n  - "Llogora National Park 17 km"\nairports:\n  - "Corfu International Airport 56 km"\nreviews:\n  - name: "Ian"\n    country: "United Kingdom"\n    text: "“Plenty of room. Living area is outside, but we'll covered. Big television. Everything in good condition. Bathroom excellent with fully enclosed shower. Well equipped shared kitchen. Hosts very helpful and welcoming.”"\n  - name: "Julia"\n    country: "Netherlands"\n    text: "“Was een erg prettig verblijf! Hele vriendelijke en behulpzame mensen en de locatie was ideaal voor een strand vakantie!”"\nbookingURL: "https://www.booking.com/hotel/al/sea-view-room-2.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment is a haven of comfort, offering guests a cozy bedroom, a bathroom equipped with essential amenities, bed linen, towels, and a living area that includes a flat-screen TV with streaming services for entertainment. The dining area and a fully equipped kitchen cater to the needs of those who prefer home-cooked meals, while the terrace invites guests to unwind as they gaze upon the sea or enjoy the mountain views from the comfort of the patio, which is thoughtfully furnished with outdoor seating.
 
 Adding to the appeal, Bonalba Sea View Room #2 ensures a sense of privacy and exclusivity with its private entrance, making it an ideal retreat for those looking to escape the hustle and bustle. The convenience of free WiFi enhances the stay, allowing guests to stay connected if they choose.
 
 Situated 143 km from Ioannina Airport, the apartment is accessible for international travelers, making it a compelling choice for those exploring the beauty of Himare and its surroundings.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

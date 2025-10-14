@@ -1,26 +1,6 @@
----
-title: Hotel Magllara
-description: "The accommodations at Hotel Magllara are meticulously designed for comfort and convenience, equipped with air conditioning, a work-friendly desk, a fl..."
-featuredImage: "/images/accommodation/107894209.jpg"
-language: en
-slug: hotel-magllara
-location: ""
-amenities: []
-images: []
----
-
-The accommodations at Hotel Magllara are meticulously designed for comfort and convenience, equipped with air conditioning, a work-friendly desk, a flat-screen TV for entertainment, and a private bathroom stocked with fresh bed linen and towels. Additionally, a terrace offering a panoramic view of the cityscape and a fridge for personal use enhance the living space, catering to the needs of modern travelers.
+---\ntitle: "Hotel Magllara"\ndescription: "Hotel Magllara stands as a distinguished 4-star gem in Sarandë, offering guests an unparalleled beachfront experience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/107894209.jpg?k=6ee9564bf70788d036de58f31cd8b444aaa37f3dc80d385a3eb598fe075bea5e&o=&hp=1"\nlanguage: en\nslug: hotel-magllara\naddress: "Rruga Naim Frasheri (Main walking boulevard), 9702 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.872965\n  lng: 20.01319\nprice: "US$35"\npriceFrom: 35\nstarRating: 4\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 229\nratings:\n  overall: 9.4\n  location: 9.7\n  cleanliness: 9.5\n  facilities: 9.2\n  value: 9.3\n  comfort: 9.5\n  staff: 9.6\n  wifi: 8.9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/107894209.jpg?k=6ee9564bf70788d036de58f31cd8b444aaa37f3dc80d385a3eb598fe075bea5e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/107894211.jpg?k=1c1c8b40e6922bf8c437f4d37e1bcd2077e39b0a56cc7ac5f7e8f93007713cd3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/107915610.jpg?k=7ed5ff9b69a31e724a463bcd7d28bad19ef32fc11f9ec374de7c5f0edde8af48&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/108947042.jpg?k=e5a22eb39081593f39eef7ebc38188f0fead609f9f8be6fc38c4ea1229d7d60e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/107894181.jpg?k=d14dc349845da1231f8fb18df9b1a0c792ddea2f1ae7377c1bd2e0900be2a6c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/107894189.jpg?k=7011791aa7fcd609664efdf5c788c9dae6aa95bcf888c52651566239a5c118ca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/107894197.jpg?k=64d55f1b7e3f053834872162325a6c3fb04e60b0f65df496da77c5c0458e4600&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/109390844.jpg?k=b1af23884ba9166b1dc845a9624592d65ac3d96ecb7b66b68d6bd0b75ac1569c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/108025968.jpg?k=3ded30eed34f5e06ec4872a501ba584ca140b4ad4399ce9153491347b819f046&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Terrace"\n  - "Fabulous breakfast"\nnearbyRestaurants:\n  - "Allegro 30 m"\n  - "Gostivari 30 m"\nnearbyBeaches:\n  - "Saranda City Beach 20 m"\n  - "La Petite Beach 500 m"\n  - "Maestral Beach 700 m"\n  - "Sarande Main Beach 1,000 m"\n  - "VIP Beach 1.6 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.8 km"\n  - "Butrint National Park 2.7 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Brent"\n    country: "Canada"\n    text: "“Great location, right on the promenade, walking distance to everything. The host Ava, was super helpful and nice. Room had all you need for a great stay.”"\n  - name: "Eleonora"\n    country: "Lithuania"\n    text: "“- very nice staff
+- parking lot at the hotel (we always found a place, and if we didn't find it - the staff promised to take care of parking)
+- great breakfast
+- next to the beach”"\n  - name: "Travis"\n    country: "Australia"\n    text: "“We really enjoyed the location of this place and the room was great for our needs”"\nbookingURL: "https://www.booking.com/hotel/al/magllara.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodations at Hotel Magllara are meticulously designed for comfort and convenience, equipped with air conditioning, a work-friendly desk, a flat-screen TV for entertainment, and a private bathroom stocked with fresh bed linen and towels. Additionally, a terrace offering a panoramic view of the cityscape and a fridge for personal use enhance the living space, catering to the needs of modern travelers.
 
 Mornings at Hotel Magllara begin with a delightful continental breakfast, setting the tone for a day of exploration or relaxation. The hotel's prime location places guests within easy reach of Saranda's most sought-after attractions, including the vibrant Saranda City Beach, the charming La Petite Beach, and the picturesque Maestral Beach. For those venturing further, Ioannina Airport is located 96 km away, making Hotel Magllara an ideal choice for both local and international visitors seeking a memorable stay in Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

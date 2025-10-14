@@ -7,6 +7,10 @@ featuredImage: /images/attractions/national-history-museum.jpg
 images: []
 language: en
 slug: national-history-museum
+seo:
+  metaTitle: "The National History Museum - Albania's History on Display"
+  metaDescription: "The National History Museum stands as a pillar of Albania's rich heritage, offering visitors an immersive experience into the nation's past."
+  focusKeyword: "National History Museum"
 ---
 
 ***Please note:** The National Historical Museum in Tirana shut its doors to visitors on **15 March 2024** and is scheduled to remain closed **until 2028**. The closure covers the entire building, not just individual galleries.*
@@ -477,10 +481,3 @@ Visitor Reviews & Ratings
 
 We believe in the power of shared experiences. After your visit, we encourage you to share your impressions and reviews, helping others tailor their visits and immerse themselves in the museum’s rich narratives.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

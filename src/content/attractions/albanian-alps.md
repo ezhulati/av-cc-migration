@@ -57,10 +57,3 @@ An Alpine Sanctuary
 
 By leaving imposing glass and concrete structures dominating most developed mountain resort destinations far below, Albania’s majestic Albanian Alps transport adventurous eco-tourists back through time into vibrant high-altitude habitats dispensing natural rejuvenation of body and spirit unbounded. However, respectful behaviors upholding local values prove essential for sustainable futures, allowing these captivating Alpine sanctuaries to persist.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

@@ -1,15 +1,7 @@
----
-title: Hotel Pandora Residence
-description: The property is strategically positioned within a 20-minute stroll from notable landmarks such as the Archaeological Museum of Tirana, the iconic Tirana Pyramid
-featuredImage: "/images/accommodation/150752985.jpg"
-language: en
-slug: hotel-pandora-residence
-location: ""
-amenities: []
-images: []
----
-
-The property is strategically positioned within a 20-minute stroll from notable landmarks such as the Archaeological Museum of Tirana, the iconic Tirana Pyramid, and the vibrant Skanderbeg Square. This proximity to cultural and historical sites makes it an ideal base for explorers keen to immerse themselves in the city's rich heritage.
+---\ntitle: "Hotel Pandora Residence"\ndescription: "Hotel Pandora Residence emerges as a serene oasis in the bustling city of Tirana, located just a kilometer away from the US Embassy."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150752985.jpg?k=5127c0b0f8530bc13e293319bd757cc21cb03dda554d26ec50d19dc760166af2&o=&hp=1"\nlanguage: en\nslug: hotel-pandora-residence\naddress: "RRUGA FUAT TOPTANI 8, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.31704103\n  lng: 19.83508591\nprice: "US$50"\npriceFrom: 50\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 343\nratings:\n  overall: 8.9\n  location: 8\n  cleanliness: 9.1\n  facilities: 8.6\n  value: 9\n  comfort: 9.1\n  staff: 9.2\n  wifi: 9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150752985.jpg?k=5127c0b0f8530bc13e293319bd757cc21cb03dda554d26ec50d19dc760166af2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/153192914.jpg?k=d4555d846a8bdfa25fe84bb9a4538f37d34d636498ea37981c44ae724619f84b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/187052298.jpg?k=f334af6c2906db9f1abea99a33648ffcfbfb46a1dce03862949cf5dd04ba1acb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205704287.jpg?k=a04c0f6858bc00463114b910c513a111b59faaf219e8d838087e910d792ab294&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/92305496.jpg?k=3c425d049b1cbbf298715cdd45c9f5b1817e72915975a144015d2117deefbcce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150751029.jpg?k=f12b920fc88ea4a66fbd64fe442d0190943a98d2a82bd9d58b10ca1e2197094e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Facilities for disabled guests"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Superior Double Room - Basement - Berati Room"\n  - "Large Double Room - Basement - Ksamil Room"\n  - "Double Room with Balcony"\n  - "Twin Room with Balcony"\n  - "Superior Double Room with Steam room - Basement"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 1.6 km"\n  - "Rinia Park 1.6 km"\n  - "Clock Tower Tirana 1.8 km"\n  - "Skanderbeg Square 1.8 km"\n  - "House of Leaves 1.9 km"\n  - "National Museum of History Albania 2 km"\n  - "Bunk'Art 1 Museum 4.2 km"\nnearbyRestaurants:\n  - "Henri BAR 250 m"\n  - "Verve 300 m"\nwhatsNearby:\n  - "Parku I Madh 500 m"\n  - "Shesh Rekreativ 700 m"\n  - "Sheshi Rekreativ tek Arena Kombëtare 800 m"\n  - "Grand Park of Tirana 950 m"\n  - "Shesh Rekreativ 1.3 km"\n  - "Sheshi Rekreativ Piramida 1.3 km"\n  - "Tanners' Bridge 1.3 km"\n  - "Sheshi Rekreativ tek ish ATSh 1.4 km"\n  - "Former Residence of Enver Hoxha 1.5 km"\n  - "Sheshi Rekreativ Tika 1.6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 13 km"\n  - "Ohrid Airport 77 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Peter"\n    country: "Switzerland"\n    text: "“Nice staff, all speak english. Calm and cozy room, nicely furnished.”"\n  - name: "Laura"\n    country: "United Kingdom"\n    text: "“Great stay!
+The staff is friendly and helpful
+Clean and comfortable rooms with a nice private balcony
+Good location”"\n  - name: "Anton"\n    country: "Bosnia and Herzegovina"\n    text: "“Location of the place is very appropriate. University, stadium, park... and many other objects are relatively close... Last coffee was gratis!”"\nbookingURL: "https://www.booking.com/hotel/al/pandora-residence.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe property is strategically positioned within a 20-minute stroll from notable landmarks such as the Archaeological Museum of Tirana, the iconic Tirana Pyramid, and the vibrant Skanderbeg Square. This proximity to cultural and historical sites makes it an ideal base for explorers keen to immerse themselves in the city's rich heritage.
 
 Accommodations at Hotel Pandora Residence are thoughtfully designed with guest comfort in mind. Each air-conditioned room features a flat-screen TV and a balcony that presents captivating city views, inviting guests to unwind in their private sanctuary. The en-suite bathrooms are well-appointed with modern amenities, including a shower, bidet, slippers, and a hairdryer, catering to the needs of the discerning traveler.
 
@@ -18,15 +10,3 @@ The hotel prides itself on its 24-hour front desk service, ensuring assistance i
 Accessibility is a key advantage, with a public bus stop adjacent to the hotel, offering direct lines to the city center. Shopping enthusiasts will appreciate the proximity to Tirana East Gate shopping center, just an 11-minute bus ride away. Additionally, Tirana Airport is conveniently located 20 km from the hotel, making travel arrangements seamless for international guests.
 
 Hotel Pandora Residence stands out as a preferred choice for travelers seeking a blend of tranquility, convenience, and access to Tirana's cultural highlights.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

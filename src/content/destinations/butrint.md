@@ -5,11 +5,16 @@ region: Southern Albania
 featuredImage: /images/destinations/butrint.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: butrint
 highlights: []
+seo:
+  metaTitle: "Discover Butrint %sep% %sitename%"
+  metaDescription: "Discover what makes Butrint National Park in Albania a must-see from its rich history to local attractions, things to see and do, where to stay and more."
+  focusKeyword: "butrint,butrint national park"
 ---
 
 Butrint Quick Info   
@@ -311,10 +316,3 @@ This is Albania revealing its deepest character—where every stone holds multip
 
 *Map of Ancient Buthrotum*
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

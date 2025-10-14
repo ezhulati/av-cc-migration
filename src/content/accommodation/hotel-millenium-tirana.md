@@ -1,15 +1,4 @@
----
-title: Hotel Millenium Tirana
-description: The hotel's accommodations are designed with comfort and convenience in mind. Each guest room is equipped with air conditioning, a cozy seating area, and a flat
-featuredImage: "/images/accommodation/360131408.jpg"
-language: en
-slug: hotel-millenium-tirana
-location: ""
-amenities: []
-images: []
----
-
-The hotel's accommodations are designed with comfort and convenience in mind. Each guest room is equipped with air conditioning, a cozy seating area, and a flat-screen TV with satellite channels, ensuring a relaxing retreat after a day of exploration. The inclusion of a safety deposit box, a private bathroom complete with a bidet, complimentary toiletries, and a hairdryer, adds an extra layer of convenience. For those who appreciate a good view, selected rooms boast terraces that offer serene garden vistas, while all guests will find the thoughtful addition of a kettle, bed linen, and towels in their rooms.
+---\ntitle: "Hotel Millenium Tirana"\ndescription: "Hotel Millenium Tirana emerges as a prime choice for travelers seeking the heart of Tirana's vibrant culture and history."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360131408.jpg?k=e9dcdad10fac88b520ca9dc12f26ea20b4a45f7efce90e579d3968272e3a2081&o=&hp=1"\nlanguage: en\nslug: hotel-millenium-tirana\naddress: "Rruga Murat Toptani 5 Pedonale Street, Tirana 1001 Albania Rruga Murat Toptani 5 Pedonale Street, Tirana 1001 Albania, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.32601744\n  lng: 19.82015556\nprice: "US$56"\npriceFrom: 56\nstarRating: 3\nrating: 7.7\nratingWords: "Good"\nnumberOfReviews: 207\nratings:\n  overall: 7.7\n  location: 9.5\n  cleanliness: 7.2\n  facilities: 6.8\n  value: 7.5\n  comfort: 7.4\n  staff: 8\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360131408.jpg?k=e9dcdad10fac88b520ca9dc12f26ea20b4a45f7efce90e579d3968272e3a2081&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482703903.jpg?k=0f9f08d2a920887dbbe5d9c813d3821da04a62abbf03fe9b21fa5a0c8de16b8a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360131404.jpg?k=6b0a35818034180b35964c7fa2d9619a8bd5e9195bfbb6e7fff02d5cd6f3d35c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447856099.jpg?k=a8dd79f128d6e342a4b15573495fd195ad8121f20c2c29cedbb47ad8b14ba259&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482703697.jpg?k=7cf43f38bf5582670bc5469c90a616971200ef173ae28a71b3b175e1ed549f6b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448617879.jpg?k=15b71af119ac18849e73983bd36968296c3ce66f9fe81c84f52f82efb6f824f6&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Parking on site"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Triple Room"\nnearbyAttractions:\n  - "National Museum of History Albania 450 m"\n  - "Tanners' Bridge 500 m"\n  - "Former Residence of Enver Hoxha 600 m"\n  - "Grand Park of Tirana 1.6 km"\n  - "Bunk'Art 1 Museum 4.3 km"\nnearbyRestaurants:\n  - "Aleanca Bar Café 10 m"\n  - "Imperium 100 m"\nwhatsNearby:\n  - "National Gallery of Arts Tirana 50 m"\n  - "Parku Rinia 100 m"\n  - "Parku Europa 200 m"\n  - "Clock Tower Tirana 200 m"\n  - "Skanderbeg Square 200 m"\n  - "Rinia Park 200 m"\n  - "Sheshi Rekreativ Piramida 300 m"\n  - "Sheshi Sulejman Pasha 300 m"\n  - "House of Leaves 300 m"\n  - "Sheshi Skënderbej 350 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/millenium-tirana-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe hotel's accommodations are designed with comfort and convenience in mind. Each guest room is equipped with air conditioning, a cozy seating area, and a flat-screen TV with satellite channels, ensuring a relaxing retreat after a day of exploration. The inclusion of a safety deposit box, a private bathroom complete with a bidet, complimentary toiletries, and a hairdryer, adds an extra layer of convenience. For those who appreciate a good view, selected rooms boast terraces that offer serene garden vistas, while all guests will find the thoughtful addition of a kettle, bed linen, and towels in their rooms.
 
 Culinary experiences at Hotel Millenium Tirana are a delight, with the on-site restaurant serving a mix of American and Greek cuisine. The bar is a perfect spot for unwinding with a cocktail, offering a relaxed atmosphere for planning the next day's adventures or reflecting on the day's experiences.
 
@@ -18,15 +7,3 @@ The hotel staff, proficient in English, Italian, and Albanian, are always on han
 For those looking to immerse themselves further into Tirana's rich history and culture, the hotel is conveniently located near the Former Residence of Enver Hoxha, the Clock Tower Tirana, and the Et'hem Bey Mosque. Additionally, for guests arriving by air, Tirana International Mother Teresa Airport is just 15 km away, with the hotel offering a paid shuttle service for a seamless transition to and from the property.
 
 Hotel Millenium Tirana stands out as a beacon for travelers who desire both the excitement of Tirana's urban offerings and the solace of a comfortable, well-appointed base.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

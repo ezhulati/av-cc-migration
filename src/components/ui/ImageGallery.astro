@@ -1,0 +1,399 @@
+---
+/**
+ * Image Gallery Component
+ * Professional hotel-style image gallery with lightbox
+ */
+
+interface Props {
+  images: string[];
+  title: string;
+}
+
+const { images, title } = Astro.props;
+const hasImages = images && images.length > 0;
+const mainImage = images[0];
+const gridImages = images.slice(1, 5); // Show up to 4 additional images
+const remainingCount = images.length > 5 ? images.length - 5 : 0;
+---
+
+{hasImages && (
+  <div class="gallery-container">
+    <div class="gallery-grid">
+      <!-- Main large image -->
+      <button
+        class="gallery-main"
+        data-image-index="0"
+        aria-label={`View photo 1 of ${images.length}`}
+      >
+        <img
+          src={mainImage}
+          alt={title}
+          loading="eager"
+        />
+      </button>
+
+      <!-- Grid of smaller images -->
+      <div class="gallery-thumbnails">
+        {gridImages.map((image, index) => (
+          <button
+            class="gallery-thumb"
+            data-image-index={index + 1}
+            aria-label={`View photo ${index + 2} of ${images.length}`}
+          >
+            <img
+              src={image}
+              alt={`${title} - Image ${index + 2}`}
+              loading="lazy"
+            />
+            {index === 3 && remainingCount > 0 && (
+              <div class="remaining-overlay">
+                <span>+{remainingCount} photos</span>
+              </div>
+            )}
+          </button>
+        ))}
+      </div>
+
+      <!-- View all photos button -->
+      <button class="view-all-btn" data-gallery-trigger>
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <rect x="3" y="3" width="7" height="7"/>
+          <rect x="14" y="3" width="7" height="7"/>
+          <rect x="14" y="14" width="7" height="7"/>
+          <rect x="3" y="14" width="7" height="7"/>
+        </svg>
+        Show all {images.length} photos
+      </button>
+    </div>
+
+    <!-- Lightbox Modal -->
+    <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-hidden="true">
+      <div class="lightbox-content">
+        <button class="lightbox-close" aria-label="Close gallery">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+
+        <button class="lightbox-prev" aria-label="Previous image">
+          <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="15 18 9 12 15 6"></polyline>
+          </svg>
+        </button>
+
+        <img class="lightbox-image" src="" alt="">
+
+        <button class="lightbox-next" aria-label="Next image">
+          <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="9 18 15 12 9 6"></polyline>
+          </svg>
+        </button>
+
+        <div class="lightbox-counter">
+          <span class="current-index">1</span> / <span class="total-images">{images.length}</span>
+        </div>
+      </div>
+    </div>
+  </div>
+)}
+
+<style>
+  .gallery-container {
+    width: 100%;
+    margin-bottom: 2rem;
+  }
+
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.5rem;
+    height: 500px;
+    border-radius: 12px;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .gallery-main {
+    grid-row: span 2;
+    position: relative;
+    overflow: hidden;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    background: #f0f0f0;
+  }
+
+  .gallery-main img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+  }
+
+  .gallery-main:hover img {
+    transform: scale(1.05);
+  }
+
+  .gallery-thumbnails {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.5rem;
+  }
+
+  .gallery-thumb {
+    position: relative;
+    overflow: hidden;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    background: #f0f0f0;
+  }
+
+  .gallery-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+  }
+
+  .gallery-thumb:hover img {
+    transform: scale(1.05);
+  }
+
+  .remaining-overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: 600;
+    font-size: 1.25rem;
+  }
+
+  .view-all-btn {
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 0.75rem 1.25rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    transition: all 0.2s;
+    z-index: 10;
+  }
+
+  .view-all-btn:hover {
+    background: #f8f8f8;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  }
+
+  /* Lightbox Styles */
+  .lightbox {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.95);
+    z-index: 9999;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .lightbox[aria-hidden="false"] {
+    display: flex;
+  }
+
+  .lightbox-content {
+    position: relative;
+    width: 90%;
+    height: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .lightbox-image {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+
+  .lightbox-close {
+    position: absolute;
+    top: -3rem;
+    right: 0;
+    background: transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
+    padding: 0.5rem;
+    transition: opacity 0.2s;
+  }
+
+  .lightbox-close:hover {
+    opacity: 0.7;
+  }
+
+  .lightbox-prev,
+  .lightbox-next {
+    position: absolute;
+    background: rgba(255, 255, 255, 0.9);
+    border: none;
+    border-radius: 50%;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .lightbox-prev:hover,
+  .lightbox-next:hover {
+    background: white;
+    transform: scale(1.1);
+  }
+
+  .lightbox-prev {
+    left: 2rem;
+  }
+
+  .lightbox-next {
+    right: 2rem;
+  }
+
+  .lightbox-counter {
+    position: absolute;
+    bottom: -3rem;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+    font-size: 0.9rem;
+  }
+
+  /* Mobile Responsive */
+  @media (max-width: 768px) {
+    .gallery-grid {
+      height: 350px;
+      grid-template-columns: 1fr;
+      grid-template-rows: 1fr 1fr;
+    }
+
+    .gallery-main {
+      grid-row: span 1;
+    }
+
+    .gallery-thumbnails {
+      grid-template-columns: repeat(4, 1fr);
+    }
+
+    .view-all-btn {
+      font-size: 0.85rem;
+      padding: 0.6rem 1rem;
+    }
+
+    .lightbox-prev,
+    .lightbox-next {
+      width: 40px;
+      height: 40px;
+    }
+
+    .lightbox-prev {
+      left: 1rem;
+    }
+
+    .lightbox-next {
+      right: 1rem;
+    }
+  }
+</style>
+
+<script define:vars={{ images, title }}>
+  // Gallery functionality with ALL images
+  const galleryImages = Array.from(document.querySelectorAll('[data-image-index]'));
+  const lightbox = document.getElementById('lightbox');
+  const lightboxImage = lightbox?.querySelector('.lightbox-image');
+  const currentIndexEl = lightbox?.querySelector('.current-index');
+  const closeBtn = lightbox?.querySelector('.lightbox-close');
+  const prevBtn = lightbox?.querySelector('.lightbox-prev');
+  const nextBtn = lightbox?.querySelector('.lightbox-next');
+  const viewAllBtn = document.querySelector('[data-gallery-trigger]');
+
+  let currentIndex = 0;
+  // Use ALL images from the hotel data, not just the visible thumbnails
+  const allImages = images.map((src, idx) => ({
+    src: src,
+    alt: `${title} - Image ${idx + 1}`
+  }));
+
+  function openLightbox(index: number) {
+    currentIndex = index;
+    showImage(currentIndex);
+    lightbox?.setAttribute('aria-hidden', 'false');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeLightbox() {
+    lightbox?.setAttribute('aria-hidden', 'true');
+    document.body.style.overflow = '';
+  }
+
+  function showImage(index: number) {
+    if (!lightboxImage || !currentIndexEl) return;
+
+    currentIndex = index;
+    lightboxImage.src = allImages[index].src;
+    lightboxImage.alt = allImages[index].alt;
+    currentIndexEl.textContent = (index + 1).toString();
+  }
+
+  function nextImage() {
+    const newIndex = (currentIndex + 1) % allImages.length;
+    showImage(newIndex);
+  }
+
+  function prevImage() {
+    const newIndex = (currentIndex - 1 + allImages.length) % allImages.length;
+    showImage(newIndex);
+  }
+
+  // Event listeners
+  galleryImages.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const index = parseInt(btn.getAttribute('data-image-index') || '0');
+      openLightbox(index);
+    });
+  });
+
+  viewAllBtn?.addEventListener('click', () => openLightbox(0));
+  closeBtn?.addEventListener('click', closeLightbox);
+  prevBtn?.addEventListener('click', prevImage);
+  nextBtn?.addEventListener('click', nextImage);
+
+  // Keyboard navigation
+  document.addEventListener('keydown', (e) => {
+    if (lightbox?.getAttribute('aria-hidden') === 'false') {
+      if (e.key === 'Escape') closeLightbox();
+      if (e.key === 'ArrowLeft') prevImage();
+      if (e.key === 'ArrowRight') nextImage();
+    }
+  });
+
+  // Close on background click
+  lightbox?.addEventListener('click', (e) => {
+    if (e.target === lightbox) closeLightbox();
+  });
+</script>

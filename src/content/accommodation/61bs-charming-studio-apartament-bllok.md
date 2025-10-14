@@ -4,9 +4,16 @@ description: This inviting studio apartment is not only close to the heart of th
 featuredImage: "/images/accommodation/450467283.jpg"
 language: en
 slug: 61bs-charming-studio-apartament-bllok
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "hotel"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Kitchen"
+  - "TV"
 ---
 
 This inviting studio apartment is not only close to the heart of the city, with Skanderbeg Square just 1.7 km away, but it also offers easy access to the serene Rock of Kavaje, located 45 km away. For those interested in modern art and architecture, Reja - The Cloud and the Pyramid of Tirana are nearby, along with Rinia Park, providing a perfect blend of cultural and natural exploration opportunities.
@@ -17,14 +24,3 @@ The 61°Bs Charming Studio Apartment @BLLOK is a non-smoking accommodation, ensu
 
 For travelers flying into Tirana, the convenience of being just 16 km from Tirana International Mother Teresa Airport makes this apartment an excellent choice. Whether visiting for leisure or business, guests will find 61°Bs Charming Studio Apartment @BLLOK to be a delightful retreat that combines the comforts of home with the excitement of travel.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,16 @@
----
-title: AL BON Park
-description: Accommodations at AL BON Park are thoughtfully designed with the modern traveler in mind. Each air-conditioned room is equipped with essential amenities such as
-featuredImage: "/images/accommodation/433627028.jpg"
-language: en
-slug: al-bon-park
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at AL BON Park are thoughtfully designed with the modern traveler in mind. Each air-conditioned room is equipped with essential amenities such as a wardrobe, a safety deposit box, a flat-screen TV, and a private bathroom complete with a bidet, ensuring a restful and secure stay. The attention to detail extends to the provision of plush bed linen and towels, enhancing the overall guest experience.
+---\ntitle: "AL BON Park"\ndescription: "AL BON Park emerges as a serene retreat in the heart of Berat, offering a harmonious blend of comfort and convenience for travelers."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520245647.jpg?k=3ecc55e08c61288ef8884d514a6af919d26bc381e8883c5c181f564a824d658e&o=&hp=1"\nlanguage: en\nslug: al-bon-park\naddress: "Rruga Antipatrea, 124. Berat Shqiperi, 5002 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.69836252\n  lng: 19.97308147\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 176\nratings:\n  overall: 9.4\n  location: 8.4\n  cleanliness: 9.4\n  facilities: 9.3\n  value: 9.5\n  comfort: 9.3\n  staff: 9.7\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520245647.jpg?k=3ecc55e08c61288ef8884d514a6af919d26bc381e8883c5c181f564a824d658e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433627028.jpg?k=929f3888ee3bddd453cca134f344b39abf676d42377100cf5894cc77ffe228e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434317724.jpg?k=e3c226d8afd3e15f952fe97277c836e3eee65b36b107a5a22339c40dece55e53&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460879798.jpg?k=6174dd2d88f06ab8302d0b943705886a913913a689b974bedbfef7ab70150c29&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/293754627.jpg?k=369f304107df6660adc7af7cb3c73e040528f64cc070f9d33d35dec07f07dd00&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460880307.jpg?k=36710b1fd32ab59be3f32a45bfc144d6ef8cc6702d2b4b157fe8d5194d88f4bc&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Facilities for disabled guests"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Double Room"\n  - "Twin Room"\n  - "Triple Room"\nnearbyRestaurants:\n  - "Sweet House 20 m"\n  - "Fatos Bajraktari 600 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 7 km"\n  - "Sheshi Tomorri 14 km"\nairports:\n  - "Tirana International Airport Mother Teresa 81 km"\n  - "Ohrid Airport 83 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Ajeena"\n    country: "United Arab Emirates"\n    text: "“Clean bedroom with attached bathroom.
+Super WiFi.
+Parking is available.
+Breakfast is amazing with great quantity.
+Nice welcoming staffs with friendly behaviour.
+It is just walkable to 1001 windows, castle.
+Slippers were available for three of...”"\n  - name: "Sofie"\n    country: "Belgium"\n    text: "“The hosts were very kind, the room very clean, the breakfast pretty big! The location is a bit out of town and looked a bit sketchy at first but still close to the center and not that bad once you're walking around a bit. Also had a free parking...”"\n  - name: "Jóni"\n    country: "Portugal"\n    text: "“The hotel is perfect for a quite stay in Berat. It is located approximately from 20 minutes walk to the old city of Berat.
+Our bedroom was nice and the bed was really comfortable.
+The staff is very friendly and nice. The breakfast was amazing!
+A...”"\nbookingURL: "https://www.booking.com/hotel/al/green-house.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nAccommodations at AL BON Park are thoughtfully designed with the modern traveler in mind. Each air-conditioned room is equipped with essential amenities such as a wardrobe, a safety deposit box, a flat-screen TV, and a private bathroom complete with a bidet, ensuring a restful and secure stay. The attention to detail extends to the provision of plush bed linen and towels, enhancing the overall guest experience.
 
 Guests can start their day on a high note with a delightful continental breakfast, served fresh each morning. The hotel's prime location makes it a haven for outdoor enthusiasts, with fishing and cycling opportunities readily available. For those looking to explore further, car hire services are offered on-site, providing an easy gateway to the surrounding beauty.
 
 AL BON Park also caters to the needs of business travelers, offering efficient dry cleaning services and well-equipped business facilities, including fax and photocopying services. This makes it an ideal choice for both leisure and business trips.
 
 Situated 120 km from Tirana International Mother Teresa Airport, AL BON Park stands as a distinguished choice for travelers seeking a blend of tranquility, comfort, and convenience in Berat.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

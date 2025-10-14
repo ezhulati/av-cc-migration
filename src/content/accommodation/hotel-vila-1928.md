@@ -1,28 +1,5 @@
----
-title: Hotel Vila 1928
-description: Guests are treated to the comfort of air-conditioned rooms, each thoughtfully equipped with a desk, a safety deposit box, a flat-screen TV, and a private bathro
-featuredImage: "/images/accommodation/130166435.jpg"
-language: en
-slug: hotel-vila-1928
-location: ""
-amenities: []
-images: []
----
-
-Guests are treated to the comfort of air-conditioned rooms, each thoughtfully equipped with a desk, a safety deposit box, a flat-screen TV, and a private bathroom featuring a shower. The addition of a fridge in every room adds a touch of home-like convenience.
+---\ntitle: "Hotel Vila 1928"\ndescription: "Hotel Vila 1928 emerges as a charming retreat in the heart of Tirana, boasting a serene garden, a welcoming shared lounge, and a lively bar, all complemented by the convenience of complimentary WiFi accessible throughout the premises."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/130166435.jpg?k=c6b66d280f00b05ffebc27a963efbe983f7d034b3d806fbb08c8968c422af341&o=&hp=1"\nlanguage: en\nslug: hotel-vila-1928\naddress: "Rr. Kavajes, next to Islam Alla str., 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.32800677\n  lng: 19.81130513\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 8.3\nratingWords: "Very Good"\nnumberOfReviews: 327\nratings:\n  overall: 8.3\n  location: 9.2\n  cleanliness: 8.3\n  facilities: 7.8\n  value: 8.2\n  comfort: 8.1\n  staff: 8.7\n  wifi: 8.1\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/130166435.jpg?k=c6b66d280f00b05ffebc27a963efbe983f7d034b3d806fbb08c8968c422af341&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/130167465.jpg?k=b4ea833c5affd5647fbcfc4c430936235f90424233f1f04f710d0a9d5a5aeaba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/130167372.jpg?k=939e2ae7f59698b8152c42969dc8d8b42ed9f7d267ee24f09053ef300f34a255&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/130166570.jpg?k=9ff0fb361e5ea6d8bb200a6f7d729ab462ecc57632fdf7669c16f92d057e4b23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/130167376.jpg?k=044144eac71e76ba2a729ce044e2fd2e9b724b4b123fe1e9b6e2d96bda861047&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/130166566.jpg?k=a13d8d9d427f1fc539de754245bd3c29ff282e62424b988a8bc22382eaad34e7&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Single Room"\n  - "Deluxe Double Room"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 800 m"\n  - "Former Residence of Enver Hoxha 950 m"\n  - "Tanners' Bridge 1.2 km"\n  - "Grand Park of Tirana 2.1 km"\n  - "Bunk'Art 1 Museum 4.8 km"\nnearbyRestaurants:\n  - "Tymi Tradita Shqiptare 30 m"\n  - "Zgara Zhidro 50 m"\nwhatsNearby:\n  - "Sheshi Paris 350 m"\n  - "House of Leaves 450 m"\n  - "National Museum of History Albania 550 m"\n  - "Sheshi Skënderbej 550 m"\n  - "Parku Europa 650 m"\n  - "Skanderbeg Square 650 m"\n  - "Rinia Park 700 m"\n  - "Clock Tower Tirana 700 m"\n  - "Parku Rinia 700 m"\n  - "Sheshi Rekreativ Mine Peza 750 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Tibor"\n    country: "Belgium"\n    text: "“Central located, very clean, staff speaks English and are friendly. Travelled with a small dog, shumë faleminderit!”"\n  - name: "Musa"\n    country: "United Kingdom"\n    text: "“An old historic building with a character nice comfy beds great location nice and clean good value for money”"\n  - name: "Renate"\n    country: "United Kingdom"\n    text: "“Perfect location, simple but tasty breakfast- coffee, juice and toast.”"\nbookingURL: "https://www.booking.com/hotel/al/vila-1928-tirane.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests are treated to the comfort of air-conditioned rooms, each thoughtfully equipped with a desk, a safety deposit box, a flat-screen TV, and a private bathroom featuring a shower. The addition of a fridge in every room adds a touch of home-like convenience.
 
 For those with a penchant for exploration on two wheels, Hotel Vila 1928 stands out as an ideal base, offering bike hire services to guests eager to navigate the vibrant surroundings. The hotel's location serves as a gateway to discovering Tirana's rich tapestry of history and culture, with Skanderbeg Square, the Former Residence of Enver Hoxha, and the House of Leaves all within easy reach.
 
 Situated just 14 km from Tirana International Mother Teresa Airport, Hotel Vila 1928 offers both a peaceful haven and a strategic starting point for adventurers and culture enthusiasts alike, promising an unforgettable stay in Albania's bustling capital.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

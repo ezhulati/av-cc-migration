@@ -1,30 +1,7 @@
----
-title: Forty Saints Sea View Apartment
-description: The apartment itself is a testament to modern living, boasting two well-appointed bedrooms and a fully equipped kitchen that includes a fridge and stovetop, ens
-featuredImage: "/images/accommodation/420268550.jpg"
-language: en
-slug: forty-saints-sea-view-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to modern living, boasting two well-appointed bedrooms and a fully equipped kitchen that includes a fridge and stovetop, ensuring guests feel right at home. The living space is enhanced by a flat-screen TV and a cozy seating area, perfect for unwinding after a day of exploration. What truly sets this apartment apart are the two bathrooms, each fitted with a shower, providing ample space and privacy for guests.
+---\ntitle: "Forty Saints Sea View Apartment"\ndescription: "Forty Saints Sea View Apartment emerges as a prime choice for travelers seeking spacious and comfortable lodging in Sarandë, located just a short stroll from the pristine Maestral Beach and within easy reach of La Petite Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420268550.jpg?k=d6195aae0432ecb3fb896957951504ff403eac61dec79c986699b6cfd4b8a76a&o=&hp=1"\nlanguage: en\nslug: forty-saints-sea-view-apartment\naddress: "Rruga Butrinti, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86458936\n  lng: 20.01861117\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.6\nratingWords: "Good"\nnumberOfReviews: 4\nratings:\n  overall: 7.6\n  location: 8.1\n  cleanliness: 6.3\n  facilities: 5.6\n  value: 8.1\n  comfort: 8.1\n  staff: 6.7\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420268550.jpg?k=d6195aae0432ecb3fb896957951504ff403eac61dec79c986699b6cfd4b8a76a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420268581.jpg?k=b8a0c44bd34790e0e386af5f302f71ed6f0548521140257f1bd885c98cd7ebe4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420268475.jpg?k=11eaaea647a184e1b4cc3412925b922dd33615157eeddd7e217503c87741145c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420268561.jpg?k=7238e2bf1f518e73b4557cf537f53f672430458a8fda2e20c9b56a411b7762f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420268551.jpg?k=fe9fb836f6547ae4ae27a65016d6ef22e789b714ced96efe60290e5c93e4cfe7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420268558.jpg?k=a822a67e42af7d63fcf051c425013a2df1d02c2daef37c991f92cb05a48f7ea4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420268530.jpg?k=f6b8881acf45b675ae4748cafd47e774f9e3528cea02d81a7227e38f35a93f4f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420268526.jpg?k=5eb4ecf977573f19aaecd8dd76c67cd693a1cd3842dc9c2e9dd8ae6eab5ebd14&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420268525.jpg?k=4be4abb99c871884306caae712e75bf3ba3f3fa06ddc2b7b9893b6ffb2f7e69f&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\nnearbyRestaurants:\n  - "Cataleya 50 m"\n  - "Pizza di Gusto 100 m"\nnearbyBeaches:\n  - "Maestral Beach 300 m"\n  - "La Petite Beach 500 m"\n  - "VIP Beach 600 m"\n  - "Santa Quaranta Beach 700 m"\n  - "Saranda City Beach 900 m"\nwhatsNearby:\n  - "Parc National de Butrint 800 m"\n  - "Butrint National Park 1.7 km"\n  - "Plazhi I Krorezes 7 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 11 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Danuta"\n    country: "Germany"\n    text: "“Ich habe mich wie bei der eigene Familie gefüllt…nett…problemlos…unkompliziert und vor allem das leckerste Frühstück seid langen Zeit schon vermisst…war das zweite mal dort.”"\nbookingURL: "https://www.booking.com/hotel/al/jan-sea-view-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to modern living, boasting two well-appointed bedrooms and a fully equipped kitchen that includes a fridge and stovetop, ensuring guests feel right at home. The living space is enhanced by a flat-screen TV and a cozy seating area, perfect for unwinding after a day of exploration. What truly sets this apartment apart are the two bathrooms, each fitted with a shower, providing ample space and privacy for guests.
 
 One of the highlights of staying at Forty Saints Sea View Apartment is undoubtedly the terrace. Here, guests can enjoy breathtaking sea views, complemented by outdoor furniture for maximum comfort. The addition of a private entrance further underscores the accommodation's commitment to privacy and exclusivity.
 
 For those looking to venture beyond the beach, Butrint National Park offers a rich tapestry of history and natural beauty, located just 15 km from the apartment. Additionally, the proximity to Ioannina Airport, 96 km away, ensures that access to and from the property is hassle-free.
 
 In summary, Forty Saints Sea View Apartment presents an ideal retreat for those in search of a tranquil yet convenient beachside getaway in Sarandë, complete with all the comforts of modern living and stunning views that promise a memorable stay.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

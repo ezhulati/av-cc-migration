@@ -1,30 +1,7 @@
----
-title: Vila Bendo
-description: This charming inn provides guests with a peaceful garden setting and the convenience of complimentary private parking. Each guest room boasts a private balcony
-featuredImage: "/images/accommodation/407934835.jpg"
-language: en
-slug: vila-bendo
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Vila Bendo"\ndescription: "Vila Bendo emerges as a serene retreat in Divjakë, a mere 44 km from the iconic Rock of Kavaje."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407934835.jpg?k=02f4f8d5590c7c45ae0ac3feb4d57fa9d7827d22392f028a14143d4e93998566&o=&hp=1"\nlanguage: en\nslug: vila-bendo\naddress: "Rruga Divjjake - Plazh Rruga e Divjakes - Plazh 50 metra poshte komisiaratit te policise, 9022 Divjakë, Albania"\ncity: "Divjakë"\nlocation: "Divjakë"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.99278947\n  lng: 19.51987404\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 7.2\nratingWords: "Good"\nnumberOfReviews: 4\nratings:\n  overall: 7.2\n  location: 6.9\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 6.9\n  comfort: 7.5\n  staff: 6.9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407934835.jpg?k=02f4f8d5590c7c45ae0ac3feb4d57fa9d7827d22392f028a14143d4e93998566&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407934855.jpg?k=da1a8d9ccc2d0eea2758a6268a89843346f4f3ae8b84912e390871fe0e773236&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407934830.jpg?k=cc2963f85e9c1fd0a3d290fe647404f913a0aee9acfa0ee9f6b70ec3c3e235b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407934839.jpg?k=81a13d988010152bbac6521fdc9c91977ac0a6b1b7d1938ffd48a2d4b8cedfe9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407934845.jpg?k=bb018ed60efc9f0be18703e8e8ced3645c514568310b10f47e0b9cd414681202&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407934859.jpg?k=912d970fa63d867a9f15b0b513313485484dde4af32ded2077c70618cf19c8d7&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Double Room with Balcony"\n  - "Family Room with Balcony"\nnearbyRestaurants:\n  - "Gorreja 800 m"\n  - "Roma 950 m"\nnearbyBeaches:\n  - "Spille Beach 9 km"\nwhatsNearby:\n  - "Divjake-Karavasta National Park 0 m"\n  - "Sheshi I Bashkise 17 km"\nairports:\n  - "Tirana International Airport Mother Teresa 48 km"\nbookingURL: "https://www.booking.com/hotel/al/vila-bendo.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis charming inn provides guests with a peaceful garden setting and the convenience of complimentary private parking. 
 
-This charming inn provides guests with a peaceful garden setting and the convenience of complimentary private parking.
+Each guest room boasts a private balcony overlooking the lush garden, ensuring a tranquil view that enhances the stay. 
 
-Each guest room boasts a private balcony overlooking the lush garden, ensuring a tranquil view that enhances the stay.
-
-Additionally, modern comforts are not overlooked, as every room is outfitted with air conditioning and a flat-screen TV, catering to the needs of the contemporary traveler.
+Additionally, modern comforts are not overlooked, as every room is outfitted with air conditioning and a flat-screen TV, catering to the needs of the contemporary traveler. 
 
 Tirana International Mother Teresa Airport is conveniently situated 80 km away for those arriving by air, making Vila Bendo an accessible haven for local and international guests seeking solace and comfort.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

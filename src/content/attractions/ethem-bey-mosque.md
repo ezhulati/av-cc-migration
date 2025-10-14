@@ -67,10 +67,3 @@ The broader neighborhood enhances understanding of Tirana’s interwoven archite
 
 Through its bold endurance and elegant revival, Et’hem Bey Mosque reveals national aspirations for freedom and tolerance harbored silently under decades of assault against identity. By experiencing Tirana’s living spirit, tourists access amplified perspectives on the Albania story that Et’hem Bey narrates so poignantly through rare creative relics revived by respect and resilience. This graceful yet steadfast jewel makes an essential first stop for those seeking to grasp Albania’s complex heart.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

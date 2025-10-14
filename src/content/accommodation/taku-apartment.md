@@ -1,28 +1,9 @@
----
-title: Taku apartment
-description: Occupying a prime position on the ground floor, Taku Apartment is a haven of comfort and convenience. It boasts a generously sized bedroom, a living space adorn
-featuredImage: "/images/accommodation/AEdFTp6dBApLrMRfGZuyVVvpFFfBoFSCrrOzO1pCmoAWs96-c64"
-language: en
-slug: taku-apartment
-location: ""
-amenities: []
-images: []
----
-
-Occupying a prime position on the ground floor, Taku Apartment is a haven of comfort and convenience. It boasts a generously sized bedroom, a living space adorned with a flat-screen TV featuring a plethora of cable channels, and a kitchen that leaves no culinary desire unmet. Equipped with modern amenities such as a toaster, refrigerator, and washing machine, it ensures a stay that blends the essence of home with the luxury of vacation.
+---\ntitle: "Taku apartment"\ndescription: "Taku Apartment emerges as a serene retreat in the heart of Sarandë, merely a stone's throw away from the pristine Sarande Main Beach and within a brisk walk from Saranda City Beach."\nfeaturedImage: "https://lh3.googleusercontent.com/a/AEdFTp6dBApLrMRfGZuyVVvpFFfBoFSCrrOzO1pCmoAW=s96-c64"\nlanguage: en\nslug: taku-apartment\naddress: "Lagjia nr. 4, Rr. \"Vasil Llaci\", Koder, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87264721\n  lng: 20.00016442\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 10\nratings:\n  overall: 10\n  location: 9.8\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://lh3.googleusercontent.com/a/AEdFTp6dBApLrMRfGZuyVVvpFFfBoFSCrrOzO1pCmoAW=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/ua/da35c421a013b5d14c01763bcde8aa42d474eff0.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"\n  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"\n  - "https://lh3.googleusercontent.com/a/AEdFTp4MV-U_LFtueoNgqr9pnK5fi29HMnl58YGu2XE=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"\n  - "https://lh6.googleusercontent.com/-RTaaT-QCBvo/AAAAAAAAAAI/AAAAAAAAD3c/IMDe3-XWAIo/s96-c/photo.jpg64"\n  - "https://cf.bstatic.com/static/img/flags/12/rs/f2eab0e7a8259fc3db34eb38096cb24d7c7e8f9b.png"\n  - "https://lh3.googleusercontent.com/a-/AOh14GicB9lkkbygc3ZBH2uXFFN1tUcJ_0uoHgUu66xj5A=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"\n  - "https://lh3.googleusercontent.com/a/ALm5wu0iGe0U-SkPnhT9WvGR7WBe1DINEUF9uS29hkjZ=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"\n  - "https://cf.bstatic.com/static/img/flags/12/gr/da7e6131cc83f867d8f44137a902afce81580e57.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462840458.jpg?k=12c8bf851be6a4e652b152fc05732926aa77f8e8120725a0723cd477effedaba&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Taverna Rrapo 40 m"\n  - "Pizza Cimi & Grill 100 m"\nnearbyBeaches:\n  - "Sarande Main Beach 350 m"\n  - "Saranda City Beach 800 m"\n  - "La Petite Beach 1.3 km"\n  - "Maestral Beach 1.4 km"\n  - "Saranda Bay Beach 1.6 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.6 km"\n  - "Butrint National Park 3.3 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Hrysenko"\n    country: "Ukraine"\n    text: "“Great location, wonderful apartment. Everything is new, close to the beach. Nearby are shops, cafes, restaurants, embankment. We will only come back here, it was incredible!”"\n  - name: "Sarah"\n    country: "United Kingdom"\n    text: "“Very clean, spacious and fully equipped.
+Hosts were helpful and friendly.
+Good location.
+Quiet at night.
+Overall, a lovely stay in this home.”"\n  - name: "Ruprecht"\n    country: "Germany"\n    text: "“Very nice and friendly landlord. Central location”"\nbookingURL: "https://www.booking.com/hotel/al/taku-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nOccupying a prime position on the ground floor, Taku Apartment is a haven of comfort and convenience. It boasts a generously sized bedroom, a living space adorned with a flat-screen TV featuring a plethora of cable channels, and a kitchen that leaves no culinary desire unmet. Equipped with modern amenities such as a toaster, refrigerator, and washing machine, it ensures a stay that blends the essence of home with the luxury of vacation.
 
 The apartment, a non-smoking sanctuary, extends an invitation to guests to unwind in its serene garden, offering a peaceful respite from the day's adventures. For those arriving from afar, Ioannina Airport is located 97 kilometers away, making Taku Apartment an accessible escape for international and domestic travelers alike.
 
 In summary, Taku Apartment stands out as an ideal choice for those seeking a blend of convenience, comfort, and proximity to Sarandë's most enchanting attractions.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

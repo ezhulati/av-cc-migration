@@ -1,28 +1,5 @@
----
-title: Mali Robit apartament
-description: The apartment itself offers a haven of comfort and convenience. Guests are greeted with an air-conditioned space that opens up to a private balcony, offering se
-featuredImage: "/images/accommodation/472801113.jpg"
-language: en
-slug: mali-robit-apartament
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself offers a haven of comfort and convenience. Guests are greeted with an air-conditioned space that opens up to a private balcony, offering serene garden views - a perfect backdrop for morning coffees or evening relaxation. The living space is thoughtfully designed, featuring a bedroom that promises restful nights and a fully equipped kitchen that caters to culinary adventures.
+---\ntitle: "Mali Robit apartament"\ndescription: "Mali Robit Apartment emerges as a serene retreat in the heart of Golem, boasting an enviable location just a stone's throw away from the pristine Mali I Robit Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472801113.jpg?k=fc3af66a88821d3dc2be350045aa99a172766834234b22abc9ab1255fe3f8772&o=&hp=1"\nlanguage: en\nslug: mali-robit-apartament\naddress: "Rruga Liria, 1747 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.23502518\n  lng: 19.5167326\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472801113.jpg?k=fc3af66a88821d3dc2be350045aa99a172766834234b22abc9ab1255fe3f8772&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/472801121.jpg?k=4619520f489452caa5b75608f0d6d6dbe87dc8757d6e9e3701e8c4aa8ad53b00&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/472801126.jpg?k=1cfdcb215f04d3f27b7151202188285cf83175c7445c94114798f46d8e200c23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/472801134.jpg?k=9275a042c0129a4b9665c779c713107c56809c3cea00ccdce67100e57e072cf0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/472801047.jpg?k=db1467d57f5bdde10110eeb3ba612ce199a670a30cba3bfc224c0249d58758b1&o=&hp=1"\namenities:\n  - "Free parking"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Ujvara Hotel & Bar Restorant Piceri 50 m"\n  - "Pizza Hallall 200 m"\nnearbyBeaches:\n  - "Mali I Robit Beach 100 m"\n  - "Qerret Beach 600 m"\n  - "Golem Beach 1.4 km"\n  - "Shkëmbi i Kavajës Beach 3.4 km"\n  - "Durres Beach 6 km"\nwhatsNearby:\n  - "Durres Amphiteatre 11 km"\n  - "1. Maj 11 km"\n  - "Wine Dhe Pooh 11 km"\n  - "Yje Dhe Hena 11 km"\n  - "Sheshi Demokracia 11 km"\n  - "Bekimi 11 km"\n  - "Sotir Noka 11 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\nbookingURL: "https://www.booking.com/hotel/al/mali-robit-apartament-golem1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself offers a haven of comfort and convenience. Guests are greeted with an air-conditioned space that opens up to a private balcony, offering serene garden views – a perfect backdrop for morning coffees or evening relaxation. The living space is thoughtfully designed, featuring a bedroom that promises restful nights and a fully equipped kitchen that caters to culinary adventures.
 
 For travelers with an eco-conscious mindset, Mali Robit Apartment steps up with private parking that includes an electric vehicle charging station, ensuring a seamless experience for those exploring with electric vehicles.
 
 Cultural enthusiasts and beach lovers alike will appreciate the apartment's proximity to notable attractions, including the Durres Amphitheatre, located 17 kilometers away, and the House of Leaves, 47 kilometers from the doorstep. Moreover, the convenience of being just 42 kilometers from Tirana International Mother Teresa Airport adds to the appeal, making Mali Robit Apartment an ideal choice for both short getaways and extended stays in the enchanting city of Golem.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

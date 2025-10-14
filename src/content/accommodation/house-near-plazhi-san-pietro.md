@@ -1,15 +1,4 @@
----
-title: House near 'Plazhi San Pietro'
-description: This holiday home is not just about its prime location; it offers a sanctuary of comfort with its air-conditioned interiors, featuring a cozy bedroom, a flat-sc
-featuredImage: "/images/accommodation/473955643.jpg"
-language: en
-slug: house-near-plazhi-san-pietro
-location: ""
-amenities: []
-images: []
----
-
-This holiday home is not just about its prime location; it offers a sanctuary of comfort with its air-conditioned interiors, featuring a cozy bedroom, a flat-screen TV for entertainment, and a fully equipped kitchen for those who love to cook their meals. The convenience doesn't end here; guests are treated to complimentary WiFi and the luxury of free private parking, making stays hassle-free.
+---\ntitle: "House near 'Plazhi San Pietro'"\ndescription: "Discover the charm of a serene getaway at House near 'Plazhi San Pietro', a prime holiday home offering a blend of comfort and convenience for travelers seeking a peaceful retreat."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473955643.jpg?k=2adacec5f3bc57f5518d07fcaff672ece620b9fa445885b63085e42a98cb016a&o=&hp=1"\nlanguage: en\nslug: house-near-plazhi-san-pietro\naddress: "Near Plazhi San Pietro, 2011 Fushë-Draç, Albania"\ncity: "Fushë-Draç"\nlocation: "Fushë-Draç"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.52734119\n  lng: 19.52324554\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 5.2\nratingWords: "Below Average"\nnumberOfReviews: 3\nratings:\n  overall: 5.2\n  location: 6.3\n  cleanliness: 5\n  facilities: 5\n  value: 5\n  comfort: 3.8\n  staff: 6.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473955643.jpg?k=2adacec5f3bc57f5518d07fcaff672ece620b9fa445885b63085e42a98cb016a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485336269.jpg?k=4bd3fd1583b2bf1a688b8e9ba3fbcbede433b61198edc84b0dd38d0f6ac8ecf5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485336265.jpg?k=4042788ac6ba9bb9786834c85dacec278e6cae96f14d31974dd2f1e80e897af4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473955712.jpg?k=6f4a3a4f80b96895e353bb09d389078c7984b1dee160194125fead42038de37c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473955708.jpg?k=d4dffcd802b902eca6220c7f54f818d48847490f002cb1eb184c810158a1f418&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473955706.jpg?k=27aa88941ced2a1af19c82a4d87890badd3a0ce262ced75bd613c95c3ace75b4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473955718.jpg?k=7fd3a91d14fe6a94d2f994f1378345c48b6943c3ff9bafc8456f55b2a5f706b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485336507.jpg?k=00b0e7658a691dad374c9a92ad356a0360b113e0965c6e82f8196bf44f20bd09&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485336249.jpg?k=8a974fead7954fe74938ba2c1bfe780e38c6a37cf56c733ae57817320d3f528c&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom House"\nnearbyRestaurants:\n  - "Fish Land 400 m"\n  - "Alla Ristorante 1 km"\nnearbyBeaches:\n  - "Lalëz Bay Beach 700 m"\n  - "Rodoni Beach 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 19 km"\n  - "Podgorica Airport 94 km"\nbookingURL: "https://www.booking.com/hotel/al/house-near-plazhi-san-pietro.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nThis holiday home is not just about its prime location; it offers a sanctuary of comfort with its air-conditioned interiors, featuring a cozy bedroom, a flat-screen TV for entertainment, and a fully equipped kitchen for those who love to cook their meals. The convenience doesn't end here; guests are treated to complimentary WiFi and the luxury of free private parking, making stays hassle-free.
 
 For those who find solace in nature, the property's garden provides the perfect backdrop to unwind and relax. Whether it's enjoying a morning cup of coffee or reading a book in the tranquility of the garden, guests find this space a delightful addition to their stay.
 
@@ -18,15 +7,3 @@ Cultural enthusiasts and history buffs will appreciate the proximity to the Durr
 Accessibility is a breeze with Tirana International Mother Teresa Airport, the nearest airport, situated just 29 km from the holiday home, ensuring smooth travel plans for guests.
 
 House near 'Plazhi San Pietro' emerges as a top choice for travelers seeking a blend of leisure, comfort, and convenience, promising an unforgettable stay in the heart of Albania's stunning landscapes.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

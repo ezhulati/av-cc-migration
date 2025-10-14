@@ -7,6 +7,10 @@ featuredImage: /images/attractions/top-things-to-do-albania.jpg
 images: []
 language: en
 slug: top-things-to-do-albania
+seo:
+  metaTitle: "Top %title% %sep% %sitename%"
+  metaDescription: "Planning a trip to Albania? Don't miss out on these top 10 things to see and do to make your visit unforgettable. From beaches to history, we've got you covered!"
+  focusKeyword: "Things to see and do in albania"
 ---
 
 1\. Explore the Albanian Riviera
@@ -117,10 +121,3 @@ Whether you’re an adrenaline junkie, a history aficionado, or a beach bum, the
 
 So, regardless of when you visit, you’re guaranteed an experience that will stay with you long after you’ve returned home.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

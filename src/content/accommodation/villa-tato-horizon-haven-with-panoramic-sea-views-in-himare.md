@@ -1,28 +1,5 @@
----
-title: "Villa Tato: Horizon Haven with Panoramic Sea Views in Himare."
-description: Each air-conditioned accommodation at Villa Tato is thoughtfully designed to maximize comfort and the stunning natural surroundings. Guests are treated to rooms
-featuredImage: "/images/accommodation/486369165.jpg"
-language: en
-slug: villa-tato-horizon-haven-with-panoramic-sea-views-in-himare
-location: ""
-amenities: []
-images: []
----
-
-Each air-conditioned accommodation at Villa Tato is thoughtfully designed to maximize comfort and the stunning natural surroundings. Guests are treated to rooms that open onto patios, offering intimate garden views, or balconies that present breathtaking mountain landscapes. The attention to detail extends inside, where seating areas provide a cozy nook for relaxation, and private bathrooms, equipped with hair dryers and fresh bed linen, ensure a comfortable stay.
+---\ntitle: "Villa Tato: Horizon Haven with Panoramic Sea Views in Himare."\ndescription: "Villa Tato stands as a serene retreat, offering guests a unique vantage point with its panoramic sea views in the charming town of Himare."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486369165.jpg?k=b87054c607c4056a5f19157b923b9ac6cb62e399cf5a8f07a90881e45c0d84fd&o=&hp=1"\nlanguage: en\nslug: villa-tato-horizon-haven-with-panoramic-sea-views-in-himare\naddress: "Himare, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.10086927\n  lng: 19.74986348\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486369165.jpg?k=b87054c607c4056a5f19157b923b9ac6cb62e399cf5a8f07a90881e45c0d84fd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480143310.jpg?k=bedabb0087aaf37f9bed2ba208e61ef6b9fff1b86b87ffaf2e57e10d89ef0d73&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480143293.jpg?k=2edce46e6d7e5058bf33cceef431e92d803a55a345d8d6d6d2ecb34f263abcce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480143291.jpg?k=d70125c6f2e1166f083d02e8b6c76e9a7caa0c5b97f2f98269d3054e6356efcd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486366477.jpg?k=fe48fb70412d17cee02577ed282f84198febde370ab6b4fb52dc68e9c6f66510&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480143305.jpg?k=b86f2aa52a8a93f2b375ffd53085e637c21f3c35385bdab15cb1a79d39051972&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486366608.jpg?k=6adad82973af0f53b7efe81c2fff9e3edff7254b7767b0fd4b8f4f0660ec5f5f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480143229.jpg?k=6487aec0ce144e267b8e980c090e179912d404fc55c8ba2edad166333dc07cb1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480143294.jpg?k=742180b1122011e342cba74d7141e85bf2235ef5d2e4dc89cdd0726e8ae4bbb7&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Orzo 200 m"\n  - "La Famiglia Kreperi 200 m"\nnearbyBeaches:\n  - "Maracit Beach 150 m"\n  - "Spille Beach 250 m"\n  - "Prinos Beach 250 m"\n  - "Potam Beach 650 m"\n  - "Gjiri i Filikurit Beach 1.6 km"\nwhatsNearby:\n  - "Llogora National Park 17 km"\nairports:\n  - "Corfu International Airport 56 km"\nbookingURL: "https://www.booking.com/hotel/al/villa-tato-horizon-haven-with-panoramic-sea-views-in-himare-himare.en-gb.html?aid=8035640"\nbestFor: "Best for Panoramic Views"\nbestCategories: "Panoramic Views"\ncategory: "Panoramic Views"\n---\n\nEach air-conditioned accommodation at Villa Tato is thoughtfully designed to maximize comfort and the stunning natural surroundings. Guests are treated to rooms that open onto patios, offering intimate garden views, or balconies that present breathtaking mountain landscapes. The attention to detail extends inside, where seating areas provide a cozy nook for relaxation, and private bathrooms, equipped with hair dryers and fresh bed linen, ensure a comfortable stay.
 
 The property itself invites guests to unwind in its lush garden, creating an oasis of peace amidst the beauty of Himare. For those looking to explore the local area, Villa Tato is ideally located within walking distance of Spille Beach and Prinos Beach, offering a variety of scenic spots to enjoy the sun and sea.
 
 Situated 144 km from Ioannina Airport, Villa Tato presents an accessible escape for those looking to immerse themselves in the natural beauty and serene atmosphere of Himare.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

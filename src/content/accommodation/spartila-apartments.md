@@ -1,28 +1,5 @@
----
-title: Spartila Apartments
-description: Each apartment within Spartila is a testament to modern living, featuring air conditioning, a satellite flat-screen TV, and the essential kettle for a morning t
-featuredImage: "/images/accommodation/141120468.jpg"
-language: en
-slug: spartila-apartments
-location: ""
-amenities: []
-images: []
----
-
-Each apartment within Spartila is a testament to modern living, featuring air conditioning, a satellite flat-screen TV, and the essential kettle for a morning tea or coffee. The attention to detail extends to the private bathrooms, where guests will find everything they need for a comfortable stay, including free WiFi to keep them connected. Select units elevate the experience further with expansive terraces and captivating sea views, inviting guests to unwind in an oasis of tranquility.
+---\ntitle: "Spartila Apartments"\ndescription: "Spartila Apartments emerges as a serene retreat in Dhërmi, boasting breathtaking mountain vistas and a prime location just moments away from the pristine shores of Palasa and Dhermi Beaches."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/141120468.jpg?k=ff2c7e223c0907f05b6c016584286c3385c6cba56e75e373c1e574bdc2c2ea18&o=&hp=1"\nlanguage: en\nslug: spartila-apartments\naddress: "Rruga Perivolo, 9422 Dhërmi, Albania"\ncity: "Dhërmi"\nlocation: "Dhërmi"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.15580456\n  lng: 19.62372107\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 161\nratings:\n  overall: 9.5\n  location: 8.6\n  cleanliness: 9.9\n  facilities: 9.7\n  value: 9.4\n  comfort: 9.8\n  staff: 9.8\n  wifi: 9.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/141120468.jpg?k=ff2c7e223c0907f05b6c016584286c3385c6cba56e75e373c1e574bdc2c2ea18&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205112040.jpg?k=35bbe8aee0530a31ae69ffa4944fe33f8347896576dfb134a5184ad33c5f972f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197370097.jpg?k=836daeae7a52f085d18548e3fb24a66f1765fa931141120e1124546efe3f37bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426679316.jpg?k=2224e0dece1a81decf4c252e18b76412df66a51bbe18d47257290eb98dd09bcb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197373117.jpg?k=ce56230780a7c07982e2850ceb68cc352606f7a00c2091e1e77d1104d9310b39&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203944164.jpg?k=c93db8b5633dd809406685f7e37dcafd38a83a4d53f18253dc0fb8f0b0e416f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/141162529.jpg?k=76171969e18c27dd798635877618f176c781ea4b9d1b8073e2950e5eba1046d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202940267.jpg?k=c9bf13e61321817a86770da5f98a87b8545851886479d8a75339c08b01cb7359&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205433362.jpg?k=6f1fdc5b425f25d8d7e74f4128d59ac9d2aa0af937920be5990feed18e5760f2&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyBeaches:\n  - "Palasa Beach 800 m"\n  - "Dhermi Beach 1.6 km"\n  - "Nazar Beach 3.1 km"\n  - "Gjipe Beach 5 km"\n  - "Beach Me Shpella 6 km"\nreviews:\n  - name: "Julia"\n    country: "Austria"\n    text: "“best room of our whole trip! very clean, very lovely decorated, amazing view with two balconys, clean and modern bathroom, access to kitchen, our stay here was great, it is just a pity it only lasted for two nights”"\n  - name: "Max"\n    country: "Germany"\n    text: "“Absolutely amazing room, friendly owners, beautiful view. There even is a shared kitchen with everything you need.”"\n  - name: "Michela"\n    country: "Italy"\n    text: "“Very clean and the owner provide you anything you need to cook. New furniture”"\nbookingURL: "https://www.booking.com/hotel/al/spartila-rooms-apartments-1.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach apartment within Spartila is a testament to modern living, featuring air conditioning, a satellite flat-screen TV, and the essential kettle for a morning tea or coffee. The attention to detail extends to the private bathrooms, where guests will find everything they need for a comfortable stay, including free WiFi to keep them connected. Select units elevate the experience further with expansive terraces and captivating sea views, inviting guests to unwind in an oasis of tranquility.
 
 For those concerned with travel logistics, the proximity of Ioannina Airport, located 162 km away, ensures a relatively straightforward journey to this haven of relaxation. Moreover, the thoughtful inclusion of bed linen and towels in each unit underscores Spartila Apartments' dedication to providing a hassle-free and welcoming environment for all who step through its doors.
 
 In summary, Spartila Apartments distinguishes itself as a premier choice for travelers seeking a blend of scenic beauty, comfort, and convenience in Dhërmi.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

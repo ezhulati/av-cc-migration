@@ -1,15 +1,4 @@
----
-title: TiranaDailyRentalApartment
-description: "Constructed in 2012 and having undergone recent renovations, the apartment complex offers air-conditioned units, each featuring a balcony that allows..."
-featuredImage: "/images/accommodation/508490764.jpg"
-language: en
-slug: tiranadailyrentalapartment
-location: ""
-amenities: []
-images: []
----
-
-Constructed in 2012 and having undergone recent renovations, the apartment complex offers air-conditioned units, each featuring a balcony that allows guests to soak in the city's atmosphere from the comfort of their accommodation. Complimentary WiFi is available throughout the premises, ensuring that guests stay connected during their visit.
+---\ntitle: "TiranaDailyRentalApartment"\ndescription: "TiranaDailyRentalApartment emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508490764.jpg?k=495351c22c15ef7a6ef004745748814c3ae50723ff58c112f797be0410f14ebc&o=&hp=1"\nlanguage: en\nslug: tiranadailyrentalapartment\naddress: "Rruga Haxhi Hysen Dalliu, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33377251\n  lng: 19.81232883\nprice: "US$49"\npriceFrom: 49\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 67\nratings:\n  overall: 9.6\n  location: 9.4\n  cleanliness: 9.5\n  facilities: 9.5\n  value: 9.8\n  comfort: 9.4\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508490764.jpg?k=495351c22c15ef7a6ef004745748814c3ae50723ff58c112f797be0410f14ebc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508494387.jpg?k=68f7f6ff4917d08fe873cac69f2c621a34cca545f3193981780c7c7c8fc4dcc2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508490177.jpg?k=1b80c425bbd1a42c2276067c781c7da57be3acfd1a703e802b70461ff47740af&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474929844.jpg?k=2ffee974d9fecca44b45c0ab0e88e575a4c15eb924fce93b14f70415a5400542&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508492193.jpg?k=a671e053a747e36cb7d8ae940b65b88dd38061a04bbbff90843ca8fc684cbf92&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474925842.jpg?k=5984f704bb728a07b376ec7fe628a83c21e69deabea59ea5ba86e792e2b53c7e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Parking"\n  - "Basic free WiFi (14 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 1.1 km"\n  - "Rinia Park 1.1 km"\n  - "Tanners' Bridge 1.4 km"\n  - "Former Residence of Enver Hoxha 1.5 km"\n  - "Grand Park of Tirana 2.7 km"\n  - "Bunk'Art 1 Museum 4.4 km"\nnearbyRestaurants:\n  - "Kantina Binjaket Winery Binjaket 40 m"\n  - "Shelter 150 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Mine Peza 400 m"\n  - "Sheshi Paris 550 m"\n  - "Amazing Nature 550 m"\n  - "Sheshi Rekreativ Don Bosko 600 m"\n  - "National Museum of History Albania 650 m"\n  - "Sheshi Skënderbej 750 m"\n  - "House of Leaves 850 m"\n  - "Skanderbeg Square 900 m"\n  - "Parku Europa 900 m"\n  - "Clock Tower Tirana 900 m"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 80 km"\nreviews:\n  - name: "Johannes"\n    country: "Germany"\n    text: "“Very clean apartment with all the facilities you need. Very reliable host. Great value! Great view on the mountains. Also, it was very quite at night which I value a lot. There is a coffee place in the same building with great coffee for a very...”"\n  - name: "Marvyn"\n    country: "United Kingdom"\n    text: "“Great communication every step of way. Kind host and place with everything you need. Location had everything needed.”"\n  - name: "Laura"\n    country: "France"\n    text: "“Really nice flat close to everything! Everything you need is there. The owner is very friendly and helpful. Thanks so much!”"\nbookingURL: "https://www.booking.com/hotel/al/lovely-apartament-one-bedroom-near-tirana-center.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nConstructed in 2012 and having undergone recent renovations, the apartment complex offers air-conditioned units, each featuring a balcony that allows guests to soak in the city's atmosphere from the comfort of their accommodation. Complimentary WiFi is available throughout the premises, ensuring that guests stay connected during their visit.
 
 Accommodations vary, with select units offering amenities such as satellite flat-screen TVs, fully equipped kitchens complete with dishwashers, and private bathrooms outfitted with bidets and slippers, catering to the needs and preferences of every guest.
 
@@ -18,15 +7,3 @@ For those looking to immerse themselves in local flavors, an on-site coffee shop
 Noteworthy attractions in close proximity to TiranaDailyRentalApartment include the House of Leaves, the National Theatre of Opera and Ballet of Albania, and the Clock Tower Tirana, each contributing to the apartment's appeal for cultural enthusiasts and history buffs alike. For travelers arriving by air, the convenience is further enhanced by the accommodation's proximity to Tirana International Mother Teresa Airport, located just 13 km away.
 
 With its strategic location, comprehensive amenities, and commitment to guest comfort, TiranaDailyRentalApartment stands out as a top choice for those looking to experience the best of Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Palorto Hotel
-description: "Each room at Palorto Hotel is thoughtfully equipped with a flat-screen TV, and select accommodations provide captivating city views, allowing guests t..."
-featuredImage: "/images/accommodation/472520546.jpg"
-language: en
-slug: palorto-hotel
-location: ""
-amenities: []
-images: []
----
-
-Each room at Palorto Hotel is thoughtfully equipped with a flat-screen TV, and select accommodations provide captivating city views, allowing guests to soak in the ambiance of Gjirokastër right from their windows. Convenience is paramount, with in-room fridges and a range of services designed to enhance the guest experience, including a free shuttle service, a shared lounge for relaxation, and currency exchange facilities on-site.
+---\ntitle: "Palorto Hotel"\ndescription: "Palorto Hotel emerges as a charming retreat in the historic heart of Gjirokastër, situated a mere 45 km from the serene Zaravina Lake."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472520546.jpg?k=df64f171e322ce11df1321e3860ec4d758308bbb2e5bd86c874b116b0b6fa18e&o=&hp=1"\nlanguage: en\nslug: palorto-hotel\naddress: "Rr Ismail Kadare, 1001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.07517147\n  lng: 20.13508866\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 754\nratings:\n  overall: 9.4\n  location: 9.6\n  cleanliness: 9.4\n  facilities: 9\n  value: 9.5\n  comfort: 9.2\n  staff: 9.7\n  wifi: 9.6\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472520546.jpg?k=df64f171e322ce11df1321e3860ec4d758308bbb2e5bd86c874b116b0b6fa18e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448060501.jpg?k=1d1da237dd2263640e1ba1068fa8aa57615dc25d621347e35bceff290ad19c3c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448031751.jpg?k=a51da0809b474ee2827dd6fcaacf40cc374c7ec8305e92d9ed4f83466e303967&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/258589669.jpg?k=2cb8a811de829df0f2359a466e6d835efd561e067ae67a1619f9f94240f1a00d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457540016.jpg?k=69b8abdde133f3a0a1a1bf8f7c3f7a9d55dd1ae007d464d7e764dca450fbd56b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/258590292.jpg?k=23cbb88177cdba15fcdf9dbe2a4b20cf4d7fc8389e87e6ecd66385ed1bcaf9b7&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Deluxe Double or Twin Room"\n  - "Deluxe Double or Twin Room"\n  - "Deluxe Double or Twin Room"\nnearbyRestaurants:\n  - "Etno 150 m"\n  - "Silver Hill Reastaurant 150 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 71 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Sivahaamy"\n    country: "United Kingdom"\n    text: "“The breakfast was fantastic, the owner even provided us extra eggs upon our request. The rooms were super clean, and easily accessible to the castle and bazaar. A very kind owner and gave us a homely vibe.”"\n  - name: "Ian"\n    country: "Australia"\n    text: "“Excellent family run hotel. Staff are very helpful and friendly. Only had an overnight stay but staff still managed to get my laundry washed and dried.”"\n  - name: "Andrea"\n    country: "Austria"\n    text: "“The family is very friendly, good location, great breakfast. Would come again!”"\nbookingURL: "https://www.booking.com/hotel/al/palorto.en-gb.html?aid=8035640"\nbestFor: "Best for Cultural Experience"\nbestCategories: "Cultural Experience"\ncategory: "Cultural Experience"\n---\n\nEach room at Palorto Hotel is thoughtfully equipped with a flat-screen TV, and select accommodations provide captivating city views, allowing guests to soak in the ambiance of Gjirokastër right from their windows. Convenience is paramount, with in-room fridges and a range of services designed to enhance the guest experience, including a free shuttle service, a shared lounge for relaxation, and currency exchange facilities on-site.
 
 The hotel's terrace and garden offer tranquil spots for guests to unwind, presenting an ideal setting for those seeking a peaceful retreat amidst the bustling city. The 24-hour front desk, staffed by multilingual personnel fluent in English and Italian, stands ready to assist guests in planning their stay, ensuring a memorable experience in this historic locale.
 
 For travelers looking to explore beyond Gjirokastër, the nearest airport, Ioannina Airport, is located 83 km away, making Palorto Hotel a convenient base for both local and international visitors. Whether it's the allure of Gjirokastër's cobblestone streets or the natural beauty of the surrounding areas, Palorto Hotel offers a welcoming and comfortable stay for those eager to explore the treasures of this unique region.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

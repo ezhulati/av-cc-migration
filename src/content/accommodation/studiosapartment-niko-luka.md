@@ -4,9 +4,22 @@ description: Each apartment and studio within this property is a testament to th
 featuredImage: "/images/accommodation/350759075.jpg"
 language: en
 slug: studiosapartment-niko-luka
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Ksamil"
+amenities:
+  - "WiFi"
+  - "Parking"
+  - "Pool"
+  - "Restaurant"
+  - "Bar"
+  - "Spa"
+  - "Kitchen"
+  - "Balcony"
+  - "Mountain View"
 ---
 
 Each apartment and studio within this property is a testament to thoughtful design, boasting a private entrance that leads guests into a world of warmth and relaxation. The presence of a heated pool, visible from select units, adds a touch of luxury to the stay, ensuring memorable moments of leisure. The accommodations are not only air-conditioned but also come with the promise of free private parking and seamless connectivity through complimentary WiFi, addressing all the essentials of modern travel.
@@ -19,14 +32,3 @@ Strategically located, Studios&Apartment Niko Luka is just a short distance from
 
 In summary, Studios&Apartment Niko Luka stands as a hallmark of hospitality in Ksamil, offering a harmonious blend of natural beauty, comfort, and convenience, making it a preferred choice for those seeking an unforgettable stay in this picturesque corner of the world.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,26 +1,5 @@
----
-title: Pushi Park
-description: Accommodations at Pushi Park are thoughtfully designed with guest comfort in mind. Each unit boasts a balcony, air conditioning, a flat-screen TV, and a private
-featuredImage: "/images/accommodation/469664221.jpg"
-language: en
-slug: pushi-park
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Pushi Park are thoughtfully designed with guest comfort in mind. Each unit boasts a balcony, air conditioning, a flat-screen TV, and a private bathroom equipped with a bidet, blending modern conveniences with home comforts. The addition of a patio furnished with outdoor seating and offering mountain views elevates the experience, providing the perfect backdrop for relaxation. Convenience is further enhanced with in-room amenities such as a desk and a coffee machine, catering to both leisure and business travelers.
+---\ntitle: "Pushi Park"\ndescription: "Pushi Park emerges as a serene oasis in Ksamil, just a stone's throw away from the pristine Ksamil Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469664221.jpg?k=efa01e83cc596b219af9defb1f05e59bbe43c6b9f0e711419573193000038470&o=&hp=1"\nlanguage: en\nslug: pushi-park\naddress: "Baba Sherifi Ksamil 62, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.76918785\n  lng: 20.00774023\nprice: "US$21"\npriceFrom: 21\nstarRating: 3\nrating: 8.7\nratingWords: "Very Good"\nnumberOfReviews: 10\nratings:\n  overall: 8.7\n  location: 8.8\n  cleanliness: 9\n  facilities: 8.5\n  value: 7.8\n  comfort: 9\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469664221.jpg?k=efa01e83cc596b219af9defb1f05e59bbe43c6b9f0e711419573193000038470&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469666546.jpg?k=f40b5a0dc4d514a82db8f4cb7e3e68addbbeff88c8455fa600398079e6eb6d3e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469664125.jpg?k=921b34741a91ab4df18239aa07a441668583115ae4d4a3a6e37a22e5e43ac84f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469666904.jpg?k=80d9ee4edf917e6ba86a76360c60b8b7aa2deaf7e28d8bf3b9d4f487725e3a22&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469664888.jpg?k=70171cccb13cb3f189189748e0ca64ee187b5236af7fb62e5b7caec586342941&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469666656.jpg?k=d717136ed30f0c2ad9ff48a9509540e8f163792365cc1f4345142f1db5ccad5e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom House"\n  - "One-Bedroom House"\nnearbyAttractions:\n  - "Museum of Banknotes 18 km"\n  - "New Fortress 18 km"\n  - "Serbian Museum 18 km"\n  - "Theotoki G. Square 18 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 19 km"\n  - "Trion Martiron Park 19 km"\n  - "Mon Repos Palace 19 km"\nnearbyRestaurants:\n  - "Grill House Gyros 250 m"\n  - "Fish Shop Butrint 350 m"\nnearbyBeaches:\n  - "Ksamil Beach 600 m"\n  - "Ksamil Beach 9 800 m"\n  - "Bora Bora Beach 800 m"\n  - "Ksamil Beach 7 850 m"\n  - "Coco Beach 900 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 500 m"\n  - "Butrint National Park 2.2 km"\n  - "Plazhi I Krorezes 3.5 km"\n  - "Parc National de Butrint 10 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 17 km"\n  - "Old Fortress 18 km"\nairports:\n  - "Corfu International Airport 19 km"\n  - "Ioannina Airport 69 km"\nreviews:\n  - name: "Alina"\n    country: "Albania"\n    text: "“Everything was great and the host was very polite and friendly.”"\n  - name: "Anna"\n    country: "Germany"\n    text: "“The little cottage for us alone was very nice.
+In the morning on the terrace to see the lake
+Contact person directly on site”"\nbookingURL: "https://www.booking.com/hotel/al/pushi-park.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Pushi Park are thoughtfully designed with guest comfort in mind. Each unit boasts a balcony, air conditioning, a flat-screen TV, and a private bathroom equipped with a bidet, blending modern conveniences with home comforts. The addition of a patio furnished with outdoor seating and offering mountain views elevates the experience, providing the perfect backdrop for relaxation. Convenience is further enhanced with in-room amenities such as a desk and a coffee machine, catering to both leisure and business travelers.
 
 For quick essentials or snacks, the holiday home features an on-site minimarket, adding an extra layer of convenience to your stay. Situated less than 1 km from the iconic Ksamil Beach 9 and a mere 11-minute walk from the vibrant Bora Bora Beach, Pushi Park offers an ideal base for beach enthusiasts. For international travelers, Corfu International Airport is located 93 km away, making Pushi Park an accessible escape into the heart of Ksamil's enchanting landscape.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

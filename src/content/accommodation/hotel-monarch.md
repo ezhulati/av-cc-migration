@@ -1,26 +1,7 @@
----
-title: Hotel Monarch
-description: The hotel's commitment to guest satisfaction is evident through its round-the-clock front desk, a welcoming terrace for moments of relaxation, and an on-site ba
-featuredImage: "/images/accommodation/79060585.jpg"
-language: en
-slug: hotel-monarch
-location: ""
-amenities: []
-images: []
----
-
-The hotel's commitment to guest satisfaction is evident through its round-the-clock front desk, a welcoming terrace for moments of relaxation, and an on-site bar perfect for evening unwinds. For those seeking a bit more during their stay, Hotel Monarch also houses a variety of shops within its premises, adding a layer of convenience to the experience. Guests arriving by car will appreciate the complimentary parking, a thoughtful touch that underscores the hotel's dedication to hassle-free stays.
+---\ntitle: "Hotel Monarch"\ndescription: "Hotel Monarch stands as a beacon of comfort and convenience in the heart of Elbasan, offering guests a seamless blend of modern amenities and attentive service."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/79060585.jpg?k=e513e0890f4ad16b6b541f5e2f8907d9496a79430088da96580efc1e8be373ac&o=&hp=1"\nlanguage: en\nslug: hotel-monarch\naddress: "Rruga Rinia 13, 3001 Elbasan, Albania"\ncity: "Elbasan"\nlocation: "Elbasan"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.11216459\n  lng: 20.08441396\nprice: "US$57"\npriceFrom: 57\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 82\nratings:\n  overall: 9.3\n  location: 9.5\n  cleanliness: 9.4\n  facilities: 9\n  value: 9.1\n  comfort: 9.3\n  staff: 9.2\n  wifi: 9.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/79060585.jpg?k=e513e0890f4ad16b6b541f5e2f8907d9496a79430088da96580efc1e8be373ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/79063305.jpg?k=a186714d601afe46134cdadcb4523a50d5d292e85e8f9013116744ff383c4bae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/79065587.jpg?k=7419940e2c1ba06edf1daebdf863065fc5880bf336ff41b7c5dfd2d1312bca13&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/79062044.jpg?k=a0cf003176ba7e4a70dcb5606caf7e811d7caef11456e4d1f1ac5ced642befa8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/79059997.jpg?k=87ee4cfd68996f9754b5920972dc1ef8a7fa720a4a62ec8eba84de8d6dee053e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/79060053.jpg?k=4edd7f881d4f3245290bf509c4d9a929d13ac5ae29d4dd5704f1125acf8e03f1&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Room service"\n  - "Free WiFi"\n  - "Facilities for disabled guests"\n  - "Family rooms"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Superb breakfast"\nroomTypes:\n  - "Deluxe Double Room"\n  - "Deluxe Double Room with Balcony"\nnearbyRestaurants:\n  - "Monarch 1 m"\n  - "Mëngjezore Kristoforidhi 150 m"\nwhatsNearby:\n  - "Dajti Mountain National Park 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 44 km"\n  - "Ohrid Airport 55 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "James"\n    country: "Ireland"\n    text: "“The Hotel was really nice and stood up to 4 star and well run.
+Staff were extremely helpful and spoke good English.
+Breakfast was lovely and plentiful
+The room was cleaned every day.”"\n  - name: "Laurent"\n    country: "France"\n    text: "“Very pleasant and comfortable accommodation, in a pretty hotel located in the center of Elbasan, with guarded parking.
+All the staff was nice. A special thank you to the manager of the hotel: she really listens and takes care of the customers and...”"\n  - name: "Katerina"\n    country: "North Macedonia"\n    text: "“Everything was perfect. Space room, excellent location, nice balcony, very good breakfast.”"\nbookingURL: "https://www.booking.com/hotel/al/monarch-elbasan1.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe hotel's commitment to guest satisfaction is evident through its round-the-clock front desk, a welcoming terrace for moments of relaxation, and an on-site bar perfect for evening unwinds. For those seeking a bit more during their stay, Hotel Monarch also houses a variety of shops within its premises, adding a layer of convenience to the experience. Guests arriving by car will appreciate the complimentary parking, a thoughtful touch that underscores the hotel's dedication to hassle-free stays.
 
 Located a mere 46 km from Tirana Airport, Hotel Monarch offers both accessibility and a gateway to the charms of Elbasan, making it an ideal choice for travelers seeking both leisure and ease.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

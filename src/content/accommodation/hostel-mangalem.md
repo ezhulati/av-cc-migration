@@ -1,24 +1,3 @@
----
-title: Hostel Mangalem
-description: For those keen on exploring the local area, Hostel Mangalem presents an ideal base with cycling among the popular activities to engage in around Berat. Furtherm
-featuredImage: "/images/accommodation/73808409.jpg"
-language: en
-slug: hostel-mangalem
-location: ""
-amenities: []
-images: []
----
-
-For those keen on exploring the local area, Hostel Mangalem presents an ideal base with cycling among the popular activities to engage in around Berat. Furthermore, for guests traveling to and from the city, Tirana International Mother Teresa Airport is situated 117 km away, making the hostel a strategic choice for both international and domestic travelers seeking an authentic Berat experience.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}
+---\ntitle: "Hostel Mangalem"\ndescription: "Hostel Mangalem, located in the heart of Berat, offers a unique blend of comfort and convenience with its array of amenities including a serene garden, a communal lounge, and a sun-drenched terrace."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73808409.jpg?k=2ee31b11cf20494cfc16debb7860c8d108d6df8887c1c70e4647c76d9ddf9e72&o=&hp=1"\nlanguage: en\nslug: hostel-mangalem\naddress: "Lagja Mangalem, 5000 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "hostel"\ncoordinates:\n  lat: 40.70455329\n  lng: 19.94927873\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 359\nratings:\n  overall: 9.7\n  location: 9.9\n  cleanliness: 9.6\n  facilities: 9.3\n  value: 9.8\n  comfort: 9.6\n  staff: 9.8\n  wifi: 9.7\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73808409.jpg?k=2ee31b11cf20494cfc16debb7860c8d108d6df8887c1c70e4647c76d9ddf9e72&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216089641.jpg?k=9dc8bced0d07c2a01c8d3252545ec2952ba3b4a65e1b9e37df2c69e34488eb79&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218248992.jpg?k=710b59142a32dc67e2e30c8bc551bb6704dd531f4f76f8e590ba72d57228c510&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216090228.jpg?k=130fda0588647fbae5a9e11d9515a166116454e930094bee81bde062fe8142e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218382339.jpg?k=3113c812e16df71cc25d08157cfd742527f69039d0a634966d6bb9e239c85693&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/49573968.jpg?k=ff346f974036a5b5aac8f9fc1edcbe02c4f38bae4afe93f49019fcb5448a9d60&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/49947705.jpg?k=6871945a59f85fdc754db7f6e495069f27fba4fff55c81b7019a5fa65f56a356&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216090818.jpg?k=d59f455829ecb41ab47b644622edb7b4d9889a039353376f340692a6e1cdb5db&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478153006.jpg?k=921a132d91ffd315057e12ac8608ef474859a5705c376f94cf05f9b5047fdd91&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Exceptional breakfast"\nnearbyRestaurants:\n  - "Chef Toska 40 m"\n  - "White House 40 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 84 km"\nreviews:\n  - name: "Mantas"\n    country: "Lithuania"\n    text: "“I've been travelling for around 15 years, and the owner of this place is the warmest person I've ever met hands down. I showed up when the property was closed and not only they still managed to accommodate me, but offered an alternative just in...”"\n  - name: "Livia"\n    country: "Brazil"\n    text: "“If you are looking a really quiet, clean and nice place to chill, this is the place!”"\n  - name: "Dea"\n    country: "Albania"\n    text: "“friendly owner!
+central location and clean!
+highly recommended!”"\nbookingURL: "https://www.booking.com/hotel/al/hostel-mangalem.en-gb.html?aid=8035640"\nbestFor: "Best for Hostel Experience"\nbestCategories: "Hostel Experience"\ncategory: "Hostel Experience"\n---\n\nFor those keen on exploring the local area, Hostel Mangalem presents an ideal base with cycling among the popular activities to engage in around Berat. Furthermore, for guests traveling to and from the city, Tirana International Mother Teresa Airport is situated 117 km away, making the hostel a strategic choice for both international and domestic travelers seeking an authentic Berat experience.

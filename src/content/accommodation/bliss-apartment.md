@@ -1,32 +1,9 @@
----
-title: Bliss Apartment
-description: "This air-conditioned apartment, situated merely 2."
-featuredImage: "/images/accommodation/506557736.jpg"
-language: en
-slug: bliss-apartment
-location: ""
-amenities: []
-images: []
----
-
-This air-conditioned apartment, situated merely 2.8 km from the Dajti Ekspres Cable Car, offers guests the luxury of private parking on the premises along with complimentary WiFi, ensuring both ease of access and connectivity throughout their stay. The establishment prides itself on being a non-smoking facility, located a brief 3.1 km journey from the vibrant Skanderbeg Square.
+---\ntitle: "Bliss Apartment"\ndescription: "Bliss Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506557736.jpg?k=4ba421acfbd0c14c69f737a5450dc618c7ac4ac2fc5dc698eb3a292f354f765e&o=&hp=1"\nlanguage: en\nslug: bliss-apartment\naddress: "Rruga Kongresi i Manastirit, ASL Building, Entrance 2, 7th floor, Apt. nr. 42, 1015 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33839604\n  lng: 19.83875825\nprice: "US$63"\npriceFrom: 63\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506557736.jpg?k=4ba421acfbd0c14c69f737a5450dc618c7ac4ac2fc5dc698eb3a292f354f765e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506557733.jpg?k=bcca8d5775636f36722e02d2e27824aba0bf192b1204eb4d08ea8a504b144a68&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506557727.jpg?k=b5f3dfab82f6b671a61b69e5748b088d73cebf764ad9df0f57f132ca8ebff04e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506557719.jpg?k=eac16ceb954c082ccc7daea53de892b95b2db39ab6d6fa6bc62aa6e35dcd06f9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506557757.jpg?k=cc06c69bfe72f0e4eae4cca6e7c4b628f22924dda4b6c5088306ac85e0210e34&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506557730.jpg?k=a21dba92b6ca3a8d8424612581174021cf80e2d8b1205e6279c9c074f0523fb7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506557763.jpg?k=8aeaee3b33c3f11e0789cb10d9f573f3c639c50297ebf1edb4643f5f66025687&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506557731.jpg?k=6adb222755b85c1530a74afbd086becedad0fa3e808ad36866221e0338ac9472&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506557765.jpg?k=d10a8f40ea9e2b4e9571c2c9831b5acd4f4d3816d9d59477ba5743c3b0fb823d&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fast free WiFi (266 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "National Museum of History Albania 2 km"\n  - "Bunk'Art 1 Museum 2.2 km"\n  - "House of Leaves 2.3 km"\n  - "Rinia Park 2.3 km"\n  - "Former Residence of Enver Hoxha 2.6 km"\n  - "Grand Park of Tirana 3.1 km"\nnearbyRestaurants:\n  - "Bar St. Pauli 150 m"\n  - "Bar Restorant Ija 200 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Gjolek Kokona 250 m"\n  - "Sheshi Jjosef Shtraus 450 m"\n  - "Sheshi Rekreativ Allias 1.2 km"\n  - "Sheshi Rekreativ tek ish ATSh 1.5 km"\n  - "Tanners' Bridge 1.7 km"\n  - "Amazing Nature 1.7 km"\n  - "Sheshi Sulejman Pasha 1.8 km"\n  - "Clock Tower Tirana 2 km"\n  - "Skanderbeg Square 2 km"\n  - "National Gallery of Arts Tirana 2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 77 km"\nbookingURL: "https://www.booking.com/hotel/al/bliss-apartment-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis air-conditioned apartment, situated merely 2.8 km from the Dajti Ekspres Cable Car, offers guests the luxury of private parking on the premises along with complimentary WiFi, ensuring both ease of access and connectivity throughout their stay. The establishment prides itself on being a non-smoking facility, located a brief 3.1 km journey from the vibrant Skanderbeg Square.
 
 Guests stepping into Bliss Apartment are greeted by a generously sized living space that boasts a balcony offering picturesque mountain views. The apartment features two well-appointed bedrooms, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen that includes a dishwasher and an oven, catering to all culinary needs. Additionally, two bathrooms equipped with a bidet, along with towels and bed linen, enhance the comfort and convenience of the stay.
 
-For those needing essentials or quick snacks, the apartment complex houses a minimarket, adding an extra layer of convenience to the guest experience.
+For those needing essentials or quick snacks, the apartment complex houses a minimarket, adding an extra layer of convenience to the guest experience. 
 
 Explorers eager to delve into the local culture will find Tanners' Bridge just 2 km away, and the Bektashi World Centre, a significant cultural landmark, is located even closer at 1.9 km from the property. For guests traveling by air, the Tirana International Mother Teresa Airport is a manageable 16 km distance, with Bliss Apartment offering a paid shuttle service to ensure a smooth transition to and from the accommodation.
 
 Bliss Apartment stands out as a top-tier choice for those looking to immerse themselves in the sights and sounds of Tirana, offering a harmonious blend of comfort, convenience, and cultural proximity.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

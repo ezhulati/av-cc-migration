@@ -1,30 +1,10 @@
----
-title: Brais Boutique Hotel
-description: A mere 2.4 km from the inviting sands of Durres Beach and within proximity to the vibrant Skanderbeg Square and the scenic Dajti Ekspres Cable Car, Brais Boutiq
-featuredImage: "/images/accommodation/158360959.jpg"
-language: en
-slug: brais-boutique-hotel
-location: ""
-amenities: []
-images: []
----
-
-A mere 2.4 km from the inviting sands of Durres Beach and within proximity to the vibrant Skanderbeg Square and the scenic Dajti Ekspres Cable Car, Brais Boutique Hotel serves as an ideal base for both relaxation and adventure. The hotel itself boasts a welcoming terrace, ensuring guests can unwind in style after a day of exploration.
+---\ntitle: "Brais Boutique Hotel"\ndescription: "Brais Boutique Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/158360959.jpg?k=e73543deccb8b5343f288a4969416653265d2eef2b58082674ab416d1b6da4ff&o=&hp=1"\nlanguage: en\nslug: brais-boutique-hotel\naddress: "Rruga Xhamia, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.311011\n  lng: 19.445951\nprice: "US$65"\npriceFrom: 65\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 153\nratings:\n  overall: 9\n  location: 9.3\n  cleanliness: 9.2\n  facilities: 8.7\n  value: 9.1\n  comfort: 9.3\n  staff: 9\n  wifi: 8.6\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/158360959.jpg?k=e73543deccb8b5343f288a4969416653265d2eef2b58082674ab416d1b6da4ff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/143722143.jpg?k=f2689ac1c6d2cdbed09dc5041c798015611300b7153df84f6f38929a688f608c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/141376303.jpg?k=a0e1483873ba92f1429718b1bf9ae4b34ccc939bce36528ea654f74cf3bc8845&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/143725349.jpg?k=5f8a4052c4af8deb7baf43750fbb88715b07bada1b0cccec8fba18b2dda55b5c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296538035.jpg?k=ab91786cb884ae00cdb07434b14717133f8f238c631c738ee822fa96ba52374d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296538049.jpg?k=3d887c12a685add404d4465fe16fa48f495f294f2c45376e18b53c303db2957b&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "24-hour front desk"\n  - "Good breakfast"\nroomTypes:\n  - "Double Room"\n  - "Standard Twin Room"\n  - "Deluxe Double Room with Bath"\nnearbyRestaurants:\n  - "Rehat Fish & Pizza 20 m"\n  - "Buondi Caffè 50 m"\nnearbyBeaches:\n  - "Currila Beach 200 m"\n  - "Kallmi Beach 1.4 km"\n  - "Durres Beach 1.8 km"\n  - "West End Beach 2.5 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nwhatsNearby:\n  - "Durres Amphiteatre 150 m"\n  - "1. Maj 300 m"\n  - "Wine Dhe Pooh 600 m"\n  - "Yje Dhe Hena 600 m"\n  - "Sheshi Demokracia 750 m"\n  - "Sotir Noka 1.1 km"\n  - "Bekimi 3.3 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Francisco"\n    country: "Spain"\n    text: "“Very nice hotel.
+Big and new rooms.
+Good location near the beach, seaside and city center.
+Breakfast is very good.”"\n  - name: "Farida"\n    country: "France"\n    text: "“I was very happy with my stay. The bed is huge and very comfortable, nice and clean bathroom. The breakfast buffet was very tasty. The location cannot be better.”"\n  - name: "Mariafromlatvia"\n    country: "Latvia"\n    text: "“Location- just between amphitheater and main street, nice terrace with sea view, no proprietary parking, but you can easily park nearby”"\nbookingURL: "https://www.booking.com/hotel/al/brais.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nA mere 2.4 km from the inviting sands of Durres Beach and within proximity to the vibrant Skanderbeg Square and the scenic Dajti Ekspres Cable Car, Brais Boutique Hotel serves as an ideal base for both relaxation and adventure. The hotel itself boasts a welcoming terrace, ensuring guests can unwind in style after a day of exploration.
 
 Accommodations at Brais Boutique Hotel are thoughtfully designed with guest comfort in mind. Each room is equipped with air conditioning and a flat-screen TV, with select rooms offering captivating city views, adding an extra touch of elegance to the stay.
 
 For those looking to immerse themselves in the local lifestyle, the hotel's location is a haven for cycling enthusiasts, with bike hire readily available for guests wishing to explore the surroundings on two wheels. Nearby, Currila Beach, Kallmi Beach, and the historic Durres Amphitheatre beckon with their unique charms, promising memorable experiences just moments away.
 
 Conveniently, Tirana International Mother Teresa Airport is a mere 33 km from the hotel, making Brais Boutique Hotel an accessible retreat for international and domestic travelers alike. With its blend of modern comforts, strategic location, and attentive service, Brais Boutique Hotel stands as a premier choice for those seeking to discover the wonders of Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

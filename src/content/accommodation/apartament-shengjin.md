@@ -1,28 +1,5 @@
----
-title: Apartament Shengjin
-description: Guests at Apartament Shengjin are treated to the luxury of both complimentary WiFi and on-site parking, ensuring a hassle-free experience from the moment of arr
-featuredImage: "/images/accommodation/315f92289c481a16de5ee7737aa1b5fd531afcce.png"
-language: en
-slug: apartament-shengjin
-location: ""
-amenities: []
-images: []
----
-
-Guests at Apartament Shengjin are treated to the luxury of both complimentary WiFi and on-site parking, ensuring a hassle-free experience from the moment of arrival. The apartment itself is a haven of space and tranquility, featuring a balcony that offers a private outdoor retreat. With two bedrooms, a cozy living room, and a well-equipped kitchen, the apartment is designed to be a home away from home for its guests. Additionally, the attention to detail is evident in the soundproofing and the inclusion of a bidet, catering to the needs of even the most discerning travelers. For those with specific health concerns, it's noteworthy that the apartment is both allergy-free and non-smoking, ensuring a comfortable and safe environment for all guests.
+---\ntitle: "Apartament Shengjin"\ndescription: "Discover the charm of Lezhë with a stay at Apartament Shengjin, a prime choice for travelers seeking both comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"\nlanguage: en\nslug: apartament-shengjin\naddress: "Rruga Shëngjin - Kune, 4503 Lezhë, Albania"\ncity: "Lezhë"\nlocation: "Lezhë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.79557394\n  lng: 19.60602591\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 1\nratings:\n  overall: 8.8\n  location: 7.5\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"\n  - "https://cf.bstatic.com/static/img/flags/12/nl/7b4427cefda046f99f0efc11622be2e83b8ba511.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473663826.jpg?k=25e50b22c2c4742f05e2de452f69841f84532eff6050fc8e7931a0497589261f&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyBeaches:\n  - "Ylberi Beach 350 m"\n  - "Shëngjin Beach 650 m"\n  - "Laguna Park Beach 3 km"\n  - "Kune Beach 3.2 km"\n  - "Rana e Hedhun Beach 4.1 km"\nreviews:\n  - name: "Claire"\n    country: "Netherlands"\n    text: "“Lekker ruim, schoon en fijn appartement. Erg goed ontvangen”"\nbookingURL: "https://www.booking.com/hotel/al/apartament-shengjin-lezhe1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Apartament Shengjin are treated to the luxury of both complimentary WiFi and on-site parking, ensuring a hassle-free experience from the moment of arrival. The apartment itself is a haven of space and tranquility, featuring a balcony that offers a private outdoor retreat. With two bedrooms, a cozy living room, and a well-equipped kitchen, the apartment is designed to be a home away from home for its guests. Additionally, the attention to detail is evident in the soundproofing and the inclusion of a bidet, catering to the needs of even the most discerning travelers. For those with specific health concerns, it's noteworthy that the apartment is both allergy-free and non-smoking, ensuring a comfortable and safe environment for all guests.
 
 Situated 41 km from the historic Rozafa Castle Shkodra and 43 km from the picturesque Lake Skadar, Apartament Shengjin serves as an ideal base for exploring the natural and cultural wonders of the region. Moreover, the proximity to Tirana International Mother Teresa Airport, just 48 km away, adds to the convenience, making it an excellent choice for both short and extended stays.
 
 In summary, Apartament Shengjin emerges as a top contender for travelers looking for a blend of comfort, convenience, and a touch of local charm during their visit to Lezhë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

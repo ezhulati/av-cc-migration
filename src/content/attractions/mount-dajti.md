@@ -7,6 +7,9 @@ featuredImage: /images/attractions/mount-dajti.jpg
 images: []
 language: en
 slug: mount-dajti
+seo:
+  metaTitle: "Discover Albania's Mount Dajti Looming High Above Tirana"
+  metaDescription: "A quick cable car whisks adventure seekers from Tirana up to Mount Dajti overflowing with hiking trails, sightseeing peaks and outdoor escapes from the city."
 ---
 
 Escape to the Mountains
@@ -49,10 +52,3 @@ Park maps and suggested itineraries reach limited circulation beyond Albanian la
 
 Remember – you escape the mountain wilderness seeking restoration and revelation unavailable across the same old crowded sightseeing routes. Follow wherever the winding dirt trails may lead to uncovering your high country highlights amidst Albania’s majestic Mount Dajti.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

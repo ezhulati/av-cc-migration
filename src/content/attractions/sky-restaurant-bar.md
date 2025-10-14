@@ -7,6 +7,9 @@ featuredImage: /images/attractions/sky-restaurant-bar.jpg
 images: []
 language: en
 slug: sky-restaurant-bar
+seo:
+  metaDescription: "Discover Sky Bar's futuristic style through its lofty revolving restaurant orbiting 16 floors above remnants of old regimes while unveiling Tirana's promise.
+"
 ---
 
 Overview
@@ -55,10 +58,3 @@ Sky Hotel Tirana![Sky Hotel Tirana Tirana_5](/images/attractions/118433430.jpg "
 -   24-hour front desk
 -   Bar**View Sky Hotel** **Tirana**
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

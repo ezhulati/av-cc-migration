@@ -1,28 +1,7 @@
----
-title: Guest House KrisHen
-description: Each room is equipped with modern amenities including air conditioning and a flat-screen TV, ensuring a comfortable stay. The private bathrooms come with a bide
-featuredImage: "/images/accommodation/422480220.jpg"
-language: en
-slug: guest-house-krishen
-location: ""
-amenities: []
-images: []
----
-
-Each room is equipped with modern amenities including air conditioning and a flat-screen TV, ensuring a comfortable stay. The private bathrooms come with a bidet and plush bathrobes, adding a touch of luxury to the guest experience. Free WiFi is available throughout the property, with select rooms also offering the added bonus of a balcony for guests to enjoy the scenic surroundings. The attention to detail extends to the provision of quality bed linen and towels in all units.
+---\ntitle: "Guest House KrisHen"\ndescription: "Guest House KrisHen in Përmet stands out as a serene retreat offering breathtaking mountain views, ensuring a memorable stay for its guests."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422480220.jpg?k=a2ee915bb0133800c74ebc890aade18f8f5df9831e45659c3eb5b406bbcde279&o=&hp=1"\nlanguage: en\nslug: guest-house-krishen\naddress: "SH75, Përmet, Albania"\ncity: "Përmet"\nlocation: "Përmet"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.22881353\n  lng: 20.36493832\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 67\nratings:\n  overall: 9.7\n  location: 9.1\n  cleanliness: 9.7\n  facilities: 9.7\n  value: 9.8\n  comfort: 9.7\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422480220.jpg?k=a2ee915bb0133800c74ebc890aade18f8f5df9831e45659c3eb5b406bbcde279&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401294998.jpg?k=d14e3197001070415561b950458a47a38307d9ffffa3eba0fc735f17dc8f7eed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457696175.jpg?k=776d715dd07d9965eff9278bb5f1eb98ac843672eb3028c6b29204e50c2fa131&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457701093.jpg?k=b0e44c7eaec9fd5998fdcef4ac6cbe28b7c3ed3ea3ec5e85818153823d0d5ff0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457701067.jpg?k=fa732152ad460cdc9c15957efefc1c2c0a653017b570dea134cdbdf485b92176&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457694282.jpg?k=9f65b916a9b4c79f69ba9823acae31d74066e943eb7e6616a7e51d7deaa0529d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457693335.jpg?k=9632c8ba63d298ef3e15e8429c3e941ce6296d7135a43aede3c61418cdbf2f97&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422480047.jpg?k=1e9949538c0a7f1cdfbda9686230d85f7d3ce64923a1352f930523bbc93edb0d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422480030.jpg?k=6f7cfbf1f849e27bd6bd5bd56b632bdea1780ae907fee699ab4d3103b230e562&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Exceptional breakfast"\nnearbyRestaurants:\n  - "Cabeli 550 m"\n  - "Sky 800 m"\nwhatsNearby:\n  - "Fir of Hotova National Park 16 km"\nairports:\n  - "Ioannina Airport 69 km"\n  - "Corfu International Airport 79 km"\n  - "Kastoria National Airport 81 km"\nreviews:\n  - name: "Pirker"\n    country: "Austria"\n    text: "“Absolutely everything was perfect. The Host was so warm and friendly, the Apartment was cozy and the breakfast was very good. Would recommend to anybody who wants to visit the termal waters the next day”"\n  - name: "Michelle"\n    country: "Netherlands"\n    text: "“The family room is really great. The location is good. Just outside town on the riverside.
+But the host is what made the accommodation even better. She is so friendly and attentive. Prepare for the big breakfast. It's great.
+If you're looking for...”"\n  - name: "Angèle"\n    country: "France"\n    text: "“The owner is lovely, and the bedroom was very clean, and very comfortable. We also had the most amazing breakfast in Albania, very generous and fresh! We can totally recommend. PS: the room had air conditioning”"\nbookingURL: "https://www.booking.com/hotel/al/guest-house-krishen.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach room is equipped with modern amenities including air conditioning and a flat-screen TV, ensuring a comfortable stay. The private bathrooms come with a bidet and plush bathrobes, adding a touch of luxury to the guest experience. Free WiFi is available throughout the property, with select rooms also offering the added bonus of a balcony for guests to enjoy the scenic surroundings. The attention to detail extends to the provision of quality bed linen and towels in all units.
 
 Mornings at Guest House KrisHen are greeted with a delightful breakfast selection. Guests can enjoy a variety of continental and vegetarian options, featuring warm dishes, local specialties, and fresh fruits, ensuring a perfect start to the day.
 
 Located 88 km from Ioannina Airport, Guest House KrisHen presents an ideal base for exploring the beauty of Përmet or simply enjoying a tranquil escape from the everyday.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

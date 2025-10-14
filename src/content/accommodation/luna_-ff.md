@@ -4,9 +4,21 @@ description: The property boasts an array of amenities designed to enhance the g
 featuredImage: "/images/accommodation/386004129.jpg"
 language: en
 slug: luna_-ff
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Air Conditioning"
+  - "Parking"
+  - "Restaurant"
+  - "Spa"
+  - "Kitchen"
+  - "Laundry"
+  - "TV"
 ---
 
 The property boasts an array of amenities designed to enhance the guest experience, including complimentary private parking, an elevator for easy access, and high-speed WiFi throughout the premises. Security is a top priority at Luna\_FF, with round-the-clock surveillance and a dedicated housekeeping service ensuring a safe and immaculate environment. Additionally, the convenience of an on-site currency exchange service means guests have one less thing to worry about during their stay.
@@ -19,14 +31,3 @@ For those looking to explore beyond the beach, Mali I Robit Beach is located jus
 
 In summary, Luna\_FF stands out as a premier destination for guests seeking a harmonious blend of beachside serenity, modern amenities, and culinary delights, all wrapped up in a welcoming and secure environment.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

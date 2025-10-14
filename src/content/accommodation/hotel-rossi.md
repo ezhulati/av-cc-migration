@@ -1,28 +1,5 @@
----
-title: Hotel Rossi
-description: Each air-conditioned room at Hotel Rossi is a testament to thoughtful hospitality, ensuring a seamless stay with complimentary WiFi and private bathrooms. The a
-featuredImage: "/images/accommodation/52419900.jpg"
-language: en
-slug: hotel-rossi
-location: ""
-amenities: []
-images: []
----
-
-Each air-conditioned room at Hotel Rossi is a testament to thoughtful hospitality, ensuring a seamless stay with complimentary WiFi and private bathrooms. The attention to detail extends to the provision of a wardrobe and a flat-screen TV in every room, catering to the needs of the contemporary traveler.
+---\ntitle: "Hotel Rossi"\ndescription: "Hotel Rossi emerges as a distinguished choice for travelers seeking comfort and convenience in Vlorë, located just a short 1."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/52419900.jpg?k=c640579b194d8bdf17a71d0b8c134d990d4e94e237e7cf0933b5144ec25dac50&o=&hp=1"\nlanguage: en\nslug: hotel-rossi\naddress: "Rr: Boulevardi Ismail Qemali, 8401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.45898716\n  lng: 19.48781222\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 92\nratings:\n  overall: 7.9\n  location: 8.6\n  cleanliness: 7.3\n  facilities: 7.1\n  value: 7.6\n  comfort: 7.2\n  staff: 8.7\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/52419900.jpg?k=c640579b194d8bdf17a71d0b8c134d990d4e94e237e7cf0933b5144ec25dac50&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308648756.jpg?k=3a28f291685a74b4fd2108ca1464c38c162b794e2ba27e505956f000cbae5b31&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/52419922.jpg?k=e973cb0e1fafc3b0be56add8249c96e219a6c4d51ba865b761d851ed37c50465&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/52435725.jpg?k=7fb314e3e731a1d1de59665d476e95145798d0869ee9f01d3725c966ee0c124f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308649093.jpg?k=2fdcaadcae2c0904db648a48f52867dcac8e216e37d09e44e6cfd840345bcfc0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/52419918.jpg?k=84b59d686e95abf45b231d0a26d4f87607ebc21c23c0b22d86c5cf1541c39fd1&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Single Room"\n  - "Standard Double Room"\n  - "Triple Room"\n  - "Quadruple Room"\nnearbyRestaurants:\n  - "Garden Pizza 100 m"\n  - "Fast Food Angjelos 100 m"\nnearbyBeaches:\n  - "Vjetër Beach 900 m"\n  - "Vlore Beach 1.3 km"\n  - "Ri Beach 2.7 km"\n  - "Beach at Government Villas 4.3 km"\n  - "Liro Beach 4.9 km"\nwhatsNearby:\n  - "Kuzum Baba 1.1 km"\n  - "Independence Square 1.3 km"\n  - "Scooby Doo Vlore 2.6 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nbookingURL: "https://www.booking.com/hotel/al/rossi.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach air-conditioned room at Hotel Rossi is a testament to thoughtful hospitality, ensuring a seamless stay with complimentary WiFi and private bathrooms. The attention to detail extends to the provision of a wardrobe and a flat-screen TV in every room, catering to the needs of the contemporary traveler.
 
 For those desiring a glimpse into the local ambiance, select rooms boast city views and come with the added luxury of a balcony, offering a perfect nook for morning reflections or evening relaxation. The hotel's commitment to guest satisfaction is further evidenced by its round-the-clock front desk and room service, ensuring assistance is always at hand.
 
 Strategically positioned, Hotel Rossi serves as an ideal base for exploring Vlorë's attractions, including the picturesque Vlore Beach, the historic Independence Square, and the iconic Kuzum Baba. For guests arriving from afar, the Tirana International Mother Teresa Airport is located 150 km away, making Hotel Rossi a convenient and compelling choice for both leisure and business travelers alike.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

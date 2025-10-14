@@ -1,28 +1,5 @@
----
-title: AKE Twin Apartments
-description: AKE Twin Apartments stands out for its thoughtful layout, featuring a cozy bedroom, a modern bathroom, and a spacious living room, all designed to ensure a comf
-featuredImage: "/images/accommodation/301073009.jpg"
-language: en
-slug: ake-twin-apartments
-location: ""
-amenities: []
-images: []
----
-
-AKE Twin Apartments stands out for its thoughtful layout, featuring a cozy bedroom, a modern bathroom, and a spacious living room, all designed to ensure a comfortable stay. Guests will appreciate the commitment to a smoke-free environment, enhancing the air quality and comfort of the accommodation.
+---\ntitle: "AKE Twin Apartments"\ndescription: "Discover the charm of AKE Twin Apartments, a gem located in the heart of Shëngjin, just a stone's throw away from the pristine Shëngjin Beach and a brief stroll from the serene Ylberi Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301073009.jpg?k=3333c321658d5bc0ea3a735eef8229ce83ed5b6a24c1efb3239dca5e8c44f100&o=&hp=1"\nlanguage: en\nslug: ake-twin-apartments\naddress: "Sheshi Nene Tereza Twin Towers Kati 10, 4503 Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.8122768\n  lng: 19.5952783\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301073009.jpg?k=3333c321658d5bc0ea3a735eef8229ce83ed5b6a24c1efb3239dca5e8c44f100&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/497833324.jpg?k=a29f0c5ff34700d72a3038d6a47fd2df9fe13a3973c2bf754272a17dcabcad8e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/368165065.jpg?k=aa3811c8be3ee66004139d7fa0f491db074ec7bfcdd6df3493abc30f25e7b9a4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/301072999.jpg?k=069819152c54b1b320d71a97a1ee3089654e876f9b48743a4c9e64313a24eec8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/358201051.jpg?k=1614fac3127ab52ad909058110f141dc040c81b71ef433110c85f3e88c2cdef2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/301073002.jpg?k=6a905cb53a86269aa68b8d7ccd74298fb999afd32a820654300bef183a220c50&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/360170908.jpg?k=2b975c7b19d4d1f220f293003483dd2b5c920200eca0083f074929c6eac7a583&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/301073010.jpg?k=ed48e0ad385b0283201b0ef1fb9454c5903703e28d73fd45f870c121ebffcce7&o=&hp=1"\namenities:\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Casa di Caldo 20 m"\n  - "Restorant Pjeromo 40 m"\nnearbyBeaches:\n  - "Shëngjin Beach 100 m"\n  - "Ylberi Beach 1.5 km"\n  - "Rana e Hedhun Beach 2.5 km"\n  - "Kune Beach 4.8 km"\n  - "Laguna Park Beach 4.8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 44 km"\n  - "Podgorica Airport 66 km"\n  - "Tivat Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/twin-towers-apartaments.en-gb.html?aid=8035640"\nbestFor: "Best for Pet-Friendly Stays"\nbestCategories: "Pet-Friendly Stays"\ncategory: "Pet-Friendly Stays"\n---\n\nAKE Twin Apartments stands out for its thoughtful layout, featuring a cozy bedroom, a modern bathroom, and a spacious living room, all designed to ensure a comfortable stay. Guests will appreciate the commitment to a smoke-free environment, enhancing the air quality and comfort of the accommodation.
 
 Situated a mere 42 km from the historic Rozafa Castle Shkodra and 44 km from the picturesque Lake Skadar, the apartment serves as an ideal base for explorers eager to uncover the natural and cultural treasures of the region. Moreover, with Tirana International Mother Teresa Airport just 49 km away, AKE Twin Apartments promises convenience for both local and international travelers.
 
 Equipped with complimentary WiFi, guests can easily stay connected with loved ones or plan their next day's adventure. AKE Twin Apartments is not just a place to stay; it's a gateway to the enchanting landscapes and rich history of Shëngjin, offering an unforgettable experience for all who visit.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

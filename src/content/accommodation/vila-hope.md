@@ -1,32 +1,5 @@
----
-title: Vila Hope
-description: The apartment itself is a testament to spacious living, boasting a generous layout that includes a balcony, a cozy bedroom, a welcoming living room, and a well-
-featuredImage: "/images/accommodation/Vila-Hope.jpeg"
-language: en
-slug: vila-hope
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to spacious living, boasting a generous layout that includes a balcony, a cozy bedroom, a welcoming living room, and a well-equipped kitchen. Modern amenities such as air conditioning, free WiFi, and a flat-screen TV add to the comfort of the stay, ensuring guests feel at home. The convenience of private parking on-site is a notable perk for those arriving by car.
+---\ntitle: "Vila Hope"\ndescription: "Vila Hope emerges as a serene oasis in the heart of Tirana, offering guests a unique blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528852413.jpg?k=aad68b4cf6c9c54f584cb2bcabe9f76a84e0092775e69bcbe21a55ca15b520d9&o=&hp=1"\nlanguage: en\nslug: vila-hope\naddress: "Rruga Mihal Grameno, 1000 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32356711\n  lng: 19.83024446\nprice: "US$56"\npriceFrom: 56\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528852413.jpg?k=aad68b4cf6c9c54f584cb2bcabe9f76a84e0092775e69bcbe21a55ca15b520d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528855828.jpg?k=39594a8419976a6ddb3c0dac04f40857ae9736697c4198e461668477be9e096a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528854910.jpg?k=b1fe210ee910b2dd54d36f223df20e6a7802786b6c6ca130598f3fb7dddec38f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528143297.jpg?k=4fcf3980935c1e654b10afced13698f9a0639efed1e55fc919d9b6dcc399cb84&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528852520.jpg?k=969430f836b881ca2b5e02fa43f9accd399ffbd1cd394799e7a4524a84ebb210&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528855634.jpg?k=974794c8807be72d93b1e61e2d3a9fd2c1892ca1820475b16a079cba5515056e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528855827.jpg?k=eedcd4c94470c5eaabccce613aadcea0b8d2d960110304d41631305edca557b5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528854792.jpg?k=9cbba2fb53bffbd3f0dd5f7dbf1fb86ae9a1a26cc9fe018f4d22883a7a52bf0c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528852616.jpg?k=b77c2cb2ba713fc2d1956435573b20b26c28f3da593ffd9ff2e40c77c06a471c&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Clock Tower Tirana 1,000 m"\n  - "Rinia Park 1 km"\n  - "Skanderbeg Square 1 km"\n  - "Former Residence of Enver Hoxha 1.1 km"\n  - "House of Leaves 1.2 km"\n  - "National Museum of History Albania 1.3 km"\n  - "Grand Park of Tirana 1.3 km"\n  - "Bunk'Art 1 Museum 3.9 km"\nnearbyRestaurants:\n  - "Fiamma Bar Pizzeria 100 m"\n  - "Otro Cafe 100 m"\nwhatsNearby:\n  - "Shesh Rekreativ 400 m"\n  - "Tanners' Bridge 500 m"\n  - "Sheshi Rekreativ tek ish ATSh 600 m"\n  - "Sheshi Rekreativ tek Arena Kombëtare 600 m"\n  - "Sheshi Rekreativ Piramida 650 m"\n  - "National Gallery of Arts Tirana 850 m"\n  - "Parku I Madh 900 m"\n  - "Sheshi Sulejman Pasha 900 m"\n  - "Shesh Rekreativ 900 m"\n  - "Parku Rinia 950 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\nbookingURL: "https://www.booking.com/hotel/al/vila-hope.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a testament to spacious living, boasting a generous layout that includes a balcony, a cozy bedroom, a welcoming living room, and a well-equipped kitchen. Modern amenities such as air conditioning, free WiFi, and a flat-screen TV add to the comfort of the stay, ensuring guests feel at home. The convenience of private parking on-site is a notable perk for those arriving by car.
 
 Vila Hope prides itself on being a non-smoking property, catering to guests who appreciate a clean and healthy living environment. Its location further enhances the stay experience, with easy access to notable attractions such as the Saint Paul Cathedral, the intriguing Pyramid of Tirana, and the historical Postbllok - Checkpoint Monument. For those looking to explore beyond the city, the Dajti Ekspres Cable Car is just 4.9 km away, offering breathtaking views and an escape to nature.
 
 Accessibility is seamless, with Tirana International Mother Teresa Airport located just 17 km from the property, making Vila Hope an ideal choice for both domestic and international travelers seeking a blend of tranquility and urban exploration in Tirana.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

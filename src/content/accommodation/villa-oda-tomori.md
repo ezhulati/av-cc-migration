@@ -1,28 +1,5 @@
----
-title: Villa Oda Tomori
-description: Accommodations at Villa Oda Tomori are designed with the guest's comfort in mind. Each unit is equipped with modern amenities such as air conditioning, a flat-s
-featuredImage: "/images/accommodation/471709000.jpg"
-language: en
-slug: villa-oda-tomori
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Villa Oda Tomori"\ndescription: "Villa Oda Tomori, a distinguished 4-star guest house in Berat, offers an exceptional stay with its blend of comfort and scenic beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471709000.jpg?k=d46ede8f735f2ad28e1c2b784c554ddd263746c44c97bafc74f91931e6edfef7&o=&hp=1"\nlanguage: en\nslug: villa-oda-tomori\naddress: "Lagjia Kala, 5000 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.70973969\n  lng: 19.94524953\nprice: "US$52"\npriceFrom: 52\nstarRating: 4\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 66\nratings:\n  overall: 9.5\n  location: 9.6\n  cleanliness: 9.6\n  facilities: 9.2\n  value: 9.5\n  comfort: 9.5\n  staff: 9.2\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471709000.jpg?k=d46ede8f735f2ad28e1c2b784c554ddd263746c44c97bafc74f91931e6edfef7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471709008.jpg?k=e1b54829348a0b88bfa94787a0a51d7f48657dba9f94a235642cb1b129278a72&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457068500.jpg?k=0adcd5d20e67553f522dfe23f1ad3a73980b8c1ccf600ad316fa5cf01a8efab1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471708993.jpg?k=76345a17e3314fd3a2787a1024c9b780a5af9ca6695e08d853e56401ed97bc91&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457068619.jpg?k=74d2496dd098d2d38487d29e855dae03197ac24175415d8a25d2d501a9f266c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513734025.jpg?k=876fc7bcee7a2d3d58ca18dc53e764230d3a93c64bb390b52420071f718084dc&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room"\n  - "Double Room"\n  - "Double Room"\n  - "Standard Quadruple Room"\nnearbyRestaurants:\n  - "Onufri Traditional 40 m"\n  - "Te Zalua 50 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 17 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 84 km"\nreviews:\n  - name: "Helena"\n    country: "Poland"\n    text: "“Outstanding acomodation in beautiful surrounding. Few steps from parking area. Very clean, very comfortable beds, perfect location in Berat castle area. So calm during October stay. Breakfest in near Castle hotel, tasty and sufficient. Excelent...”"\n  - name: "Alfred"\n    country: "Switzerland"\n    text: "“The hotel is located in the beautiful old castle area and has a nice little backyard where one can sit and rest. Staff was very friendly and accomodating. They openend the backdoor for us as we had very heavy luggage.”"\n  - name: "Nette"\n    country: "Australia"\n    text: "“This property was the highlight of our week in Albania. We loved everything about it and the warmth of the host. Not only would we recommend staying in the castle - we would also highly recommend this property.”"\nbookingURL: "https://www.booking.com/hotel/al/oda-tomori.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Villa Oda Tomori are designed with the guest's comfort in mind. Each unit is equipped with modern amenities such as air conditioning, a flat-screen TV, and a private bathroom complete with a bidet and slippers, ensuring a stay that combines luxury with the comforts of home. The thoughtful addition of a terrace, featuring an outdoor dining area and serene inner courtyard views, allows guests to fully immerse themselves in the tranquility of their surroundings.
 
-Accommodations at Villa Oda Tomori are designed with the guest's comfort in mind. Each unit is equipped with modern amenities such as air conditioning, a flat-screen TV, and a private bathroom complete with a bidet and slippers, ensuring a stay that combines luxury with the comforts of home. The thoughtful addition of a terrace, featuring an outdoor dining area and serene inner courtyard views, allows guests to fully immerse themselves in the tranquility of their surroundings.
-
-For those eager to explore, the guest house is ideally situated for sightseeing tours, with a convenient car rental service on-site to facilitate adventures in the local area.
+For those eager to explore, the guest house is ideally situated for sightseeing tours, with a convenient car rental service on-site to facilitate adventures in the local area. 
 
 Located 117 km from Tirana International Mother Teresa Airport, Villa Oda Tomori also offers a paid shuttle service, making it easily accessible for international travelers seeking a serene getaway in the heart of Berat.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Saukwood
-description: The apartment itself is a testament to modern living, featuring three well-appointed bedrooms, a kitchen equipped with everything needed for a home-cooked meal,
-featuredImage: "/images/accommodation/524065015.jpg"
-language: en
-slug: saukwood
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to modern living, featuring three well-appointed bedrooms, a kitchen equipped with everything needed for a home-cooked meal, and two pristine bathrooms. Entertainment is readily available through a flat-screen TV, ensuring that guests have both the comforts of home and the luxury of a hotel.
+---\ntitle: "Saukwood"\ndescription: "Saukwood emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sauk."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524065015.jpg?k=44a511e957bcf71539b083419504a3616b5dabc1d07150d2256555409a087351&o=&hp=1"\nlanguage: en\nslug: saukwood\naddress: "Rruga Anastas Byku, 1004 Sauk, Albania"\ncity: "Sauk"\nlocation: "Sauk"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30316515\n  lng: 19.83457236\nprice: "US$34"\npriceFrom: 34\nstarRating: 4\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524065015.jpg?k=44a511e957bcf71539b083419504a3616b5dabc1d07150d2256555409a087351&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/527910992.jpg?k=53f985d44542f15265fa6c2c25f0f91375b46c635939fd7734d84ccbb39de77a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/527910345.jpg?k=f7a1110696bac86bb102094ef87b2f45ad2e0d0205bd401943c1744307b83ab5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/527910473.jpg?k=59c6c02ca66c37c5ef019923220e9959006d06c409259f7bba8f461189c6340a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/527910594.jpg?k=c784f69e04daadf13b90fde6acdc19db745692745b1932f5c1426d5de1796a59&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/527910319.jpg?k=f5c6b46836a6b2cad922a3273b839499a95f75060713664930ffa1397da13eaf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/527910835.jpg?k=ecfc763705c98d9032ef7d30ae4eb5c29a6e718354a754eefadb5edefde2dbcd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/527910683.jpg?k=b268d0d241ddf6dbed82ddc8d1400772402e49d8ce0030c0b18ef2aa497f22ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/527910407.jpg?k=f734cc42eb764e987440e531f9bdba8a34a8aec0ebd14f6873e3219268431800&o=&hp=1"\namenities:\n  - "Private parking"\nroomTypes:\n  - "Three-Bedroom Apartment"\nnearbyAttractions:\n  - "Tanners' Bridge 2.7 km"\n  - "Rinia Park 2.8 km"\n  - "National Gallery of Arts Tirana 2.8 km"\n  - "Clock Tower Tirana 3 km"\n  - "Skanderbeg Square 3 km"\n  - "House of Leaves 3 km"\n  - "National Museum of History Albania 3.3 km"\n  - "Bunk'Art 1 Museum 6 km"\nnearbyRestaurants:\n  - "EL-GREKO 200 m"\n  - "Graal 750 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Tika 900 m"\n  - "Grand Park of Tirana 1.2 km"\n  - "Parku I Madh 1.4 km"\n  - "Pylli Orbital 1.6 km"\n  - "Sheshi Rekreativ tek Arena Kombëtare 1.9 km"\n  - "Parku I Madh I Tiranës (Grand Park) 2 km"\n  - "Shesh Rekreativ 2 km"\n  - "Shesh Rekreativ 2.2 km"\n  - "Former Residence of Enver Hoxha 2.4 km"\n  - "Sheshi Rekreativ Piramida 2.5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 14 km"\n  - "Ohrid Airport 77 km"\nbookingURL: "https://www.booking.com/hotel/al/family-house-sauk-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nThe apartment itself is a testament to modern living, featuring three well-appointed bedrooms, a kitchen equipped with everything needed for a home-cooked meal, and two pristine bathrooms. Entertainment is readily available through a flat-screen TV, ensuring that guests have both the comforts of home and the luxury of a hotel.
 
 For those looking to venture further, the Rock of Kavaje stands 46 km away, offering a unique day trip opportunity, while the serene Saint Paul Cathedral is just a short 3.8 km drive, perfect for those seeking cultural enrichment. Convenience is further underscored by the proximity to Tirana International Mother Teresa Airport, located only 17 km from Saukwood, making arrivals and departures as smooth as possible.
 
 While private parking is available for an additional charge, the ease of access to both local sights and distant attractions positions Saukwood as a compelling choice for visitors to Sauk, blending convenience, comfort, and the promise of an unforgettable stay.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

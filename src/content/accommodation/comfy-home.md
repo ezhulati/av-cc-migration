@@ -1,28 +1,5 @@
----
-title: Comfy Home
-description: This non-smoking property offers a spacious apartment that is a perfect blend of modern amenities and home-like comfort. Guests will find themselves in a beauti
-featuredImage: "/images/accommodation/370996797.jpg"
-language: en
-slug: comfy-home
-location: ""
-amenities: []
-images: []
----
-
-This non-smoking property offers a spacious apartment that is a perfect blend of modern amenities and home-like comfort. Guests will find themselves in a beautifully appointed space featuring a separate bedroom, a bathroom equipped with essentials, and a living room designed for relaxation, complete with a flat-screen TV. The fully equipped kitchen, complete with a dining area and oven, invites guests to prepare their meals just the way they like.
+---\ntitle: "Comfy Home"\ndescription: "Comfy Home stands as a beacon of comfort and convenience in the heart of Tirana, merely a stone's throw away from the city's vibrant Skanderbeg Square and the serene expanse of Dajti Ekspres Cable Car."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370996797.jpg?k=eb13e613261652a914b0afd0536cee83017c26d0474b244baeab7cb93f0415a5&o=&hp=1"\nlanguage: en\nslug: comfy-home\naddress: "Road Ethem Haxhidemi, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33037269\n  lng: 19.83686191\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 3\nratings:\n  overall: 8.8\n  location: 7.5\n  cleanliness: 8.8\n  facilities: 7.5\n  value: 10\n  comfort: 8.8\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370996797.jpg?k=eb13e613261652a914b0afd0536cee83017c26d0474b244baeab7cb93f0415a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370996810.jpg?k=54b6d7e71c0ff1cc45b0bc158c7bb6049264e65504e05d420813f4a001dc1fe1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422808361.jpg?k=0be81fe7491db3de32bf3a6ca0c6c15da041460b8118d81eadcb286051bb253a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422808370.jpg?k=eb55b0830636bd0c490ee255111928deb5bd9e5e311a2e5e0bf67e34933a7e87&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422808369.jpg?k=ca5e9a7b969fa99c28061f3b854dc8d77ff92cdd9a4847f944e797ff299d1ff2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422808365.jpg?k=a2a0bfe031938a9eb0864886c4fe3b4ea37eef789d600bc0b870106204a1ed40&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370996801.jpg?k=2ffc335074cf8e0cd5c9786adf2e662730fecd78932e799126576dd6bada8529&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370996807.jpg?k=0a7ffbeaa2fc867c473aa26afc0f4cfc5d916a409ba66429540b37df9d067006&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370996816.jpg?k=5492dfc94f73eb8038408a5ed1b07065793da37b1ddf3ada5de978b4c0421043&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyAttractions:\n  - "National Museum of History Albania 1.6 km"\n  - "Rinia Park 1.7 km"\n  - "House of Leaves 1.8 km"\n  - "Former Residence of Enver Hoxha 1.9 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 2.9 km"\nnearbyRestaurants:\n  - "Fast Lounge Ristorante Italiano 50 m"\n  - "Antipatrea 150 m"\nwhatsNearby:\n  - "Sheshi Jjosef Shtraus 500 m"\n  - "Sheshi Rekreativ tek ish ATSh 900 m"\n  - "Tanners' Bridge 1 km"\n  - "Sheshi Rekreativ Gjolek Kokona 1.1 km"\n  - "Sheshi Sulejman Pasha 1.3 km"\n  - "Shesh Rekreativ 1.3 km"\n  - "National Gallery of Arts Tirana 1.4 km"\n  - "Sheshi Rekreativ Piramida 1.4 km"\n  - "Clock Tower Tirana 1.5 km"\n  - "Skanderbeg Square 1.5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 77 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/comfy-home-tirane.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis non-smoking property offers a spacious apartment that is a perfect blend of modern amenities and home-like comfort. Guests will find themselves in a beautifully appointed space featuring a separate bedroom, a bathroom equipped with essentials, and a living room designed for relaxation, complete with a flat-screen TV. The fully equipped kitchen, complete with a dining area and oven, invites guests to prepare their meals just the way they like.
 
 For those keen on exploring the local culture and landmarks, Comfy Home is conveniently located near Tanners' Bridge, Bektashi World Centre, and Saint Paul Cathedral, making it an ideal base for sightseers. Additionally, the proximity to Tirana International Mother Teresa Airport, just 17 km away, adds to the convenience for international travelers.
 
 With its strategic location, well-appointed accommodations, and the promise of a comfortable stay, Comfy Home is a top choice for travelers seeking to immerse themselves in the charm and dynamism of Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,26 +1,3 @@
----
-title: Odeon Residence Vlore Apartment Inge
-description: This apartment boasts a well-appointed bedroom, a fully equipped kitchen for those who enjoy crafting their meals, and a modern bathroom. Entertainment needs ar
-featuredImage: "/images/accommodation/482111231.jpg"
-language: en
-slug: odeon-residence-vlore-apartment-inge
-location: ""
-amenities: []
-images: []
----
-
-This apartment boasts a well-appointed bedroom, a fully equipped kitchen for those who enjoy crafting their meals, and a modern bathroom. Entertainment needs are met with a flat-screen TV, ensuring guests have a relaxing stay. Emphasizing a smoke-free environment, it caters to those who prioritize health and cleanliness in their accommodation choices.
+---\ntitle: "Odeon Residence Vlore Apartment Inge"\ndescription: "Odeon Residence Vlore Apartment Inge emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482111231.jpg?k=56f15fd6dce2b41e4f7cc6e5943cafa185941a6a94dc0f901f714b28102fc28b&o=&hp=1"\nlanguage: en\nslug: odeon-residence-vlore-apartment-inge\naddress: "RRUGA AMALI ANDONI, 9405 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.43788565\n  lng: 19.49803551\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482111231.jpg?k=56f15fd6dce2b41e4f7cc6e5943cafa185941a6a94dc0f901f714b28102fc28b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482111240.jpg?k=5d988680120c1b3014297b503155c47e5db667a858c4a13590f35b7642443214&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482111245.jpg?k=b9b735b39ba79964ede8b4421575e1f71a0a5ff472a87a146693a81a42bc9750&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482111239.jpg?k=e648d9f30a5077216fa463c737d9e175c74f5952bc7441084134e2646aa27a30&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482111241.jpg?k=7f6a9344ee14a3ca4fcda818ee459aea1d65a61985d3ed985f66f0399ee22d5d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482111229.jpg?k=6e81c95cc93991bca5e75f86a206c05ded1b766d2366cca44d846d3d0505d21a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482111236.jpg?k=f5d2df2f5d4949a0ff4c3f88d18cc525c8e77a701cde1b46c6f9afec9e9ff583&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482111225.jpg?k=7995f69814cffd2cf5be095fddf9c3a3b57bc995fc3d60999b8f10a49c251345&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482111234.jpg?k=601dbb14207943971e143ac16cb9150435cf84d1d7cdbeb48ad35dbd61d0c2e5&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Te Fabio 200 m"\n  - "Restorant Titanic 200 m"\nnearbyBeaches:\n  - "Ri Beach 400 m"\n  - "Vlore Beach 600 m"\n  - "Vjetër Beach 2.1 km"\n  - "Beach at Government Villas 2.2 km"\n  - "Liro Beach 2.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 300 m"\n  - "Kuzum Baba 3.3 km"\n  - "Independence Square 3.7 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/odeon-residence-vlore-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment boasts a well-appointed bedroom, a fully equipped kitchen for those who enjoy crafting their meals, and a modern bathroom. Entertainment needs are met with a flat-screen TV, ensuring guests have a relaxing stay. Emphasizing a smoke-free environment, it caters to those who prioritize health and cleanliness in their accommodation choices.
 
 For guests arriving by air, the Tirana International Mother Teresa Airport is located 153 kilometers away, making Odeon Residence Vlore Apartment Inge a viable option for both local and international travelers. This property stands out for its blend of accessibility, comfort, and thoughtful amenities, promising a memorable stay in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

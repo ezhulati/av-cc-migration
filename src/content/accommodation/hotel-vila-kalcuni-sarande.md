@@ -1,28 +1,5 @@
----
-title: Hotel Vila Kalcuni Sarande
-description: A standout feature of Hotel Vila Kalcuni Sarande is its on-site bar, complete with a terrace that offers breathtaking views of the sea, allowing guests to unwin
-featuredImage: "/images/accommodation/376430929.jpg"
-language: en
-slug: hotel-vila-kalcuni-sarande
-location: ""
-amenities: []
-images: []
----
-
-A standout feature of Hotel Vila Kalcuni Sarande is its on-site bar, complete with a terrace that offers breathtaking views of the sea, allowing guests to unwind in style. The convenience of free private parking and complimentary WiFi throughout the property ensures that every need is met with ease.
+---\ntitle: "Hotel Vila Kalcuni Sarande"\ndescription: "Hotel Vila Kalcuni Sarande stands as a prime beachfront destination in Sarandë, captivating guests with its elegant design and air-conditioned comfort."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376430929.jpg?k=a909ed7b9000414999067e2b31f765db965ff38c7d21290b646389c3144a44c8&o=&hp=1"\nlanguage: en\nslug: hotel-vila-kalcuni-sarande\naddress: "Rruga Mitat Hoxha 61/2, 0699 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.86859685\n  lng: 20.00204779\nprice: "US$86"\npriceFrom: 86\nstarRating: 4\nrating: 8.7\nratingWords: "Very Good"\nnumberOfReviews: 158\nratings:\n  overall: 8.7\n  location: 8.9\n  cleanliness: 8.8\n  facilities: 8.4\n  value: 7.7\n  comfort: 8.9\n  staff: 8.4\n  wifi: 9.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376430929.jpg?k=a909ed7b9000414999067e2b31f765db965ff38c7d21290b646389c3144a44c8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355382889.jpg?k=0cfa7899864c65833d8f3d3be66ffd86b5b8ab72f2c0743c9ccf042d390156bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355382874.jpg?k=40dcff12f9a0b00110f1463e25951069f4772f6a877ef2ba92000a37eb7e1837&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376430016.jpg?k=d2f348d9ecc59c0b4c685f3414de3b3ae4f1a7afe6d55b2aeb488ef0b532fd2e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355382898.jpg?k=c1ec6425f0100a4532912c09927ec3240c3ec3f40c2e1037b6a93b582a275366&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355382876.jpg?k=6470219b3407d9917d96c74fed6e35fc2942bfdc8b5880a80e6c1565f7156130&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Very good breakfast"\nroomTypes:\n  - "Deluxe Twin Room"\n  - "Deluxe Double Room with Sea View"\n  - "Deluxe Suite with Sea View"\n  - "Deluxe Queen Suite"\n  - "Quadruple Room with Sea View"\nnearbyRestaurants:\n  - "Maria Madalena 100 m"\n  - "Like/Creperie/Coffee 100 m"\nnearbyBeaches:\n  - "Sarande Main Beach 0 m"\n  - "Saranda City Beach 850 m"\n  - "La Petite Beach 1 km"\n  - "Maestral Beach 1.2 km"\n  - "VIP Beach 1.8 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.2 km"\n  - "Butrint National Park 2.8 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Faisal"\n    country: "United Kingdom"\n    text: "“Excellent location right in front of the beach! Amazing views from the bedroom.”"\n  - name: "Charlotte"\n    country: "United Kingdom"\n    text: "“The location of this hotel is fantastic. We were able to sit around the pool and just wander back and forth to the beach, which is very busy in August. We had a family bedroom for 4 which worked well for our family as the boys had a separate...”"\n  - name: "Martin"\n    country: "Australia"\n    text: "“Stunning to look at and service just as good . Lovely staff , great beach and pool . Delicious Breakfast”"\nbookingURL: "https://www.booking.com/hotel/al/vila-kalcuni.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nA standout feature of Hotel Vila Kalcuni Sarande is its on-site bar, complete with a terrace that offers breathtaking views of the sea, allowing guests to unwind in style. The convenience of free private parking and complimentary WiFi throughout the property ensures that every need is met with ease.
 
 The hotel's commitment to service is further highlighted by its 24-hour front desk and a cozy lounge area, designed for relaxation and socializing. Situated just 200 meters from the Port of Sarandë, with ferry links to Corfu Island, and within 19 km of the UNESCO-protected Butrint National Park, the hotel serves as an ideal base for exploring the rich cultural and natural heritage of the region.
 
 Hotel Vila Kalcuni Sarande emerges not just as a place to stay, but as a destination that enriches the travel experience, making it a highly recommended choice for those seeking comfort, convenience, and a touch of elegance by the sea.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

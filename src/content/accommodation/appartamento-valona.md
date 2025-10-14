@@ -1,30 +1,7 @@
----
-title: Appartamento Valona
-description: "This apartment is a haven of modern amenities, including complimentary WiFi, a flat-screen TV, and a washing machine."
-featuredImage: "/images/accommodation/483923813.jpg"
-language: en
-slug: appartamento-valona
-location: ""
-amenities: []
-images: []
----
-
-This apartment is a haven of modern amenities, including complimentary WiFi, a flat-screen TV, and a washing machine. The kitchen is thoughtfully equipped with an oven and microwave, catering to guests' culinary needs. Additionally, the provision of towels and bed linen enhances the comfort of the stay. Emphasizing privacy, Appartamento Valona features a private entrance, ensuring a secluded and personal experience for every guest.
+---\ntitle: "Appartamento Valona"\ndescription: "Appartamento Valona emerges as a refreshing retreat in Vlorë, offering air-conditioned accommodations that boast a terrace with sweeping mountain views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483923740.jpg?k=117e87a2415e919a6a573c2e414b8e5d2b0822ea834a7c8f5431700f1ce57a90&o=&hp=1"\nlanguage: en\nslug: appartamento-valona\naddress: "Lagjia Uji Ftohte 36, 9405 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44659241\n  lng: 19.49506276\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483923740.jpg?k=117e87a2415e919a6a573c2e414b8e5d2b0822ea834a7c8f5431700f1ce57a90&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483923813.jpg?k=eccd24d6daf5206aba744acf01849eab79b44f3d2dfdc9e7c6ee5de9aef98bc5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483924230.jpg?k=925982f5104b9a200755f9624bb7bad72f44b92a7579bcf6ccffb1c80cf0760f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527346996.jpg?k=249d24c66d8541cda2c30b77adae8af639c65fab9caed459340dadf0de19c4d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483924141.jpg?k=d69bc2a03bef177e53dc7f6a18c522558cbc202982e39e2bbea56fad86ea312c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483923952.jpg?k=014e6f2fbafaf19ce843004f47bf13385ffba837096189fcb38e70931fea77e1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483923597.jpg?k=24ecb9b506d8b3e21f4aea2547fd8caca736a642b1beaae6af21154fb2cf5814&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527346615.jpg?k=87e3f1e42733d218c18a5b3c1e02a568929bb4bcbb0cd7c33c8ac9e448b70dba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/429097559.jpg?k=01cc63b0ad461cc35a70fc355c24f91be59013d1cd63c0cb79ce2448beeb82d6&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Primo Gusto 50 m"\n  - "Restorant Xhokla 100 m"\nnearbyBeaches:\n  - "Vlore Beach 100 m"\n  - "Ri Beach 1.2 km"\n  - "Vjetër Beach 1.3 km"\n  - "Beach at Government Villas 3 km"\n  - "Liro Beach 3.7 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.1 km"\n  - "Kuzum Baba 2.3 km"\n  - "Independence Square 2.7 km"\npaymentMethods:\n  - "Visa"\nreviews:\n  - name: "Giusy"\n    country: "Italy"\n    text: "“Sono stata a Valona 3 volte ma non mi è mai capitata un' esperienza così positiva come questa volta. L'appartamento dista circa 2 minuti dal lungomare di Valona. Zona ricca di locali e vicina a tutti i punti d'interesse della zona. L'appartamento...”"\nbookingURL: "https://www.booking.com/hotel/al/appartamento-lungomare-vlore-valona.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThis apartment is a haven of modern amenities, including complimentary WiFi, a flat-screen TV, and a washing machine. The kitchen is thoughtfully equipped with an oven and microwave, catering to guests' culinary needs. Additionally, the provision of towels and bed linen enhances the comfort of the stay. Emphasizing privacy, Appartamento Valona features a private entrance, ensuring a secluded and personal experience for every guest.
 
 For moments of leisure, the property's garden offers a serene escape, inviting guests to unwind in a peaceful setting.
 
 Explorers will appreciate the apartment's proximity to local attractions, with Ri Beach located just 1.3 km away and Vjetër Beach 1.9 km from the doorstep. For those traveling further afield, Tirana International Mother Teresa Airport is 152 km away, making Appartamento Valona an accessible choice for both local and international visitors.
 
 In summary, Appartamento Valona stands out as a premier choice for travelers seeking a blend of comfort, convenience, and a touch of nature's beauty in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

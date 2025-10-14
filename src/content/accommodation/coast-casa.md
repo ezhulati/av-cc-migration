@@ -1,30 +1,7 @@
----
-title: Coast Casa
-description: "This one-bedroom apartment is not just about its prime location; it's a haven of modern amenities."
-featuredImage: "/images/accommodation/428119573.jpg"
-language: en
-slug: coast-casa
-location: ''
-amenities: []
-images: []
----
+---\ntitle: "Coast Casa"\ndescription: "Coast Casa emerges as a premier choice for travelers seeking a blend of comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428119573.jpg?k=e53cd07f816eb03263cd5bbcd13bd7c9e51eeb89d196f3fa50d2a9669023bcc6&o=&hp=1"\nlanguage: en\nslug: coast-casa\naddress: "Rruga Shaban Demiraj, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4485207\n  lng: 19.4944889\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 6\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428119573.jpg?k=e53cd07f816eb03263cd5bbcd13bd7c9e51eeb89d196f3fa50d2a9669023bcc6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428119612.jpg?k=cc41854858150a43b3a9bacf1a4cad56f5c684b7fca26c4a55616d621edf69a1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/417704169.jpg?k=8479bdf876a97078047585045e84ee878f3d0040a5ca08f76aee3d008fd9f803&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/417704240.jpg?k=afd858b97f4678731ed02e19fb533c4a402afae22c1c2459a3118d29cbb7b1bc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451818106.jpg?k=aa2cbf0785a87eab0bd205a4d7a82e67cac974d9cdcb40b930b4f97446129333&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/417704218.jpg?k=1956b9dfc87543ae8c653ca265195c46d9a8bed8fbf876a35fc77f3acc9eed1a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/417704190.jpg?k=b01cac63c754bd09dd02cba8814400f3266a823cda383a96b6c522f1964e8a81&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451817967.jpg?k=b6f0658595cf77c9172acedbda0919faa507d22fde9f19a8b44332cc82f48f64&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451817894.jpg?k=3624044b9801227fb09db5a2002bda9b0ca8f369b528ca0a332c0d2967a13c16&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Tradicional Zgara 50 m"\n  - "Patio 150 m"\nnearbyBeaches:\n  - "Vlore Beach 150 m"\n  - "Vjetër Beach 1.2 km"\n  - "Ri Beach 1.4 km"\n  - "Beach at Government Villas 3.2 km"\n  - "Liro Beach 3.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.4 km"\n  - "Kuzum Baba 2.1 km"\n  - "Independence Square 2.5 km"\nreviews:\n  - name: "Olga"\n    country: "Ukraine"\n    text: "“Very clean and comfortable apartment with all necessary supplies. Welcoming and caring host. There's an elevator in the building, which is a huge advantage if you travel with elderly parents or kids. Great location, all facilities are very close...”"\n  - name: "Madalina"\n    country: "Romania"\n    text: "“The place is welcoming, it has good energy, it is modern, it is equipped with everything you need, and the host is very helpful and nice, she recommended us nice places to visit, restaurants, and this made our vacation much more beautiful and...”"\n  - name: "Ionela"\n    country: "United Kingdom"\n    text: "“The apartment was so nice and so clean . They had heater which made our stay more comfortable. The owner was so nice he helped us with everything we needed . I would definitely come back to this place! Good job coast casa 👏!!!”"\nbookingURL: "https://www.booking.com/hotel/al/coast-casa.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis one-bedroom apartment is not just about its prime location; it's a haven of modern amenities. Guests can enjoy the luxury of free WiFi, ensuring they stay connected with the world or plan their next day's adventures with ease. The living space is equipped with a flat-screen TV, perfect for unwinding after a day of exploration. A washing machine adds a touch of home convenience, catering to the needs of those on longer stays or those who simply prefer to travel light.
 
-This one-bedroom apartment is not just about its prime location; it's a haven of modern amenities. Guests can enjoy the luxury of free WiFi, ensuring they stay connected with the world or plan their next day's adventures with ease. The living space is equipped with a flat-screen TV, perfect for unwinding after a day of exploration. A washing machine adds a touch of home convenience, catering to the needs of those on longer stays or those who simply prefer to travel light.
-
-The kitchen does not disappoint, being fully equipped and featuring a minibar, allowing guests the freedom to prepare their meals or enjoy a refreshing drink in the comfort of their accommodation.
+The kitchen does not disappoint, being fully equipped and featuring a minibar, allowing guests the freedom to prepare their meals or enjoy a refreshing drink in the comfort of their accommodation. 
 
 For those venturing further, Independence Square is just 3 km away, offering a glimpse into the city's vibrant life and culture. And for international travelers, the Tirana International Mother Teresa Airport is accessible, located 151 km from Coast Casa, making it a feasible option for both short and extended visits.
 
 In essence, Coast Casa stands out as a meticulously designed space that promises not just a stay but an experience, catering to the needs of modern travelers looking for quality, convenience, and a touch of home in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

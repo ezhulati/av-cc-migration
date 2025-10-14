@@ -1,30 +1,6 @@
----
-title: Vila Belvedere
-description: The hotel's interior pays homage to traditional Italian elegance, creating a warm and inviting atmosphere. Each guest room is thoughtfully appointed with modern
-featuredImage: "/images/accommodation/10467892.jpg"
-language: en
-slug: vila-belvedere
-location: ""
-amenities: []
-images: []
----
-
-The hotel's interior pays homage to traditional Italian elegance, creating a warm and inviting atmosphere. Each guest room is thoughtfully appointed with modern amenities including air conditioning, satellite TV, a minibar, and a private bathroom, ensuring a stay that combines comfort with convenience.
+---\ntitle: "Vila Belvedere"\ndescription: "Discover the charm of Vila Belvedere, a gem located in the vibrant beach area of Shkembi Kavajes, just a short 6 km journey from the heart of Durres."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/10467892.jpg?k=1c45153f1f7ce4225189e2e5e572d46dc0cbd61acefcaccdf498f00594d47ab7&o=&hp=1"\nlanguage: en\nslug: vila-belvedere\naddress: "Shkembi i Kavajes, 4000 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.27657686\n  lng: 19.51626778\nprice: "US$50"\npriceFrom: 50\nstarRating: 4\nrating: 8.1\nratingWords: "Very Good"\nnumberOfReviews: 504\nratings:\n  overall: 8.1\n  location: 7.4\n  cleanliness: 8.2\n  facilities: 8\n  value: 8.4\n  comfort: 8.2\n  staff: 8.9\n  wifi: 7.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/10467892.jpg?k=1c45153f1f7ce4225189e2e5e572d46dc0cbd61acefcaccdf498f00594d47ab7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368271614.jpg?k=04595e43f20afd472e2f92912e41b27d77a91809fdb2c3ae82f8b3911d8738da&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368271620.jpg?k=6453de5385dd6bcec964140f31f7e6b48fd8db553648d1fa3827030aa273dcb9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369896707.jpg?k=6cba6ae2e92d442b9e85feba7a1708edb69f2885c593e030a96f2ab9f6a2523d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/227154057.jpg?k=a31a74b422cffcfacaa0357fb89a823946aff615534533808a7394eef529d3f4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472620055.jpg?k=a84e05001f0e449d87a00ef92c2f06c0db728f4581da6f9791f8ec29508c5b5d&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Fitness centre"\n  - "Room service"\n  - "Free parking"\n  - "Restaurant"\n  - "Bar"\n  - "Private beach area"\n  - "Very good breakfast"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 100 m"\n  - "Durres Beach 1.2 km"\n  - "Golem Beach 1.3 km"\n  - "Mali I Robit Beach 3.2 km"\n  - "Qerret Beach 5 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Matthew"\n    country: "Germany"\n    text: "“Everything. The staff were all incredibly friendly and went above and beyond to make sure I had everything I needed. The pool area is exceptional, I spent almost every day relaxing by the pool and it was perfect. The beds were incredibly...”"\n  - name: "Niina"\n    country: "Finland"\n    text: "“Great hotel with beautiful interior
+Hotel was really clean
+Breakfast was versatile and the best I had here in Albania. Also evenings dinner at the restaurant was tasty
+Professional and friendly service from the woman with curly hair in the reception”"\n  - name: "Milena"\n    country: "United Kingdom"\n    text: "“The property is nice , with a swimming pool, a bar by the pool and very affordable prices for lunch or dinner at the hotel . Food is great , buffet breakfast quite nice , with lots of options to choose from , except for the coffe that aren’t great...”"\nbookingURL: "https://www.booking.com/hotel/al/villa-belvedere.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe hotel's interior pays homage to traditional Italian elegance, creating a warm and inviting atmosphere. Each guest room is thoughtfully appointed with modern amenities including air conditioning, satellite TV, a minibar, and a private bathroom, ensuring a stay that combines comfort with convenience.
 
 Just a brief stroll of 100 meters brings guests to the nearest beach, where the Adriatic Sea's gentle waves offer a tranquil escape. For those intrigued by history, the Durres Amphitheatre, noted as the largest Roman amphitheatre in the Balkans, awaits exploration in the city center. Additionally, the convenience of being only 35 km from Tirana Airport makes Vila Belvedere an ideal choice for both leisure and business travelers seeking a serene retreat with easy access to local attractions.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

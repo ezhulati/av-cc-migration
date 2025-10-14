@@ -1,30 +1,10 @@
----
-title: Holiday Apartament
-description: The apartment itself is a haven of space and light, boasting a balcony that offers breathtaking sea views. It is well-appointed with two bedrooms, a cozy living
-featuredImage: "/images/accommodation/430686079.jpg"
-language: en
-slug: holiday-apartament
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of space and light, boasting a balcony that offers breathtaking sea views. It is well-appointed with two bedrooms, a cozy living room, a flat-screen TV for entertainment, and a kitchen equipped with modern appliances including an oven and a fridge. The inclusion of a bathroom with a bidet adds a touch of convenience, ensuring a comfortable stay in a smoke-free environment.
+---\ntitle: "Holiday Apartament"\ndescription: "Holiday Apartament stands out as a prime choice for travelers seeking comfort and convenience mere steps away from Shëngjin Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/430686079.jpg?k=b6dc48982754159f75c9acf011690dcb5f761eee96574577bf5fae45bcc66a23&o=&hp=1"\nlanguage: en\nslug: holiday-apartament\naddress: "Shetitorja Wilson 48, 4503 Lezhë, Albania"\ncity: "Lezhë"\nlocation: "Lezhë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.81271712\n  lng: 19.59369785\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 1\nratings:\n  overall: 8.8\n  location: 10\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 10\n  comfort: 10\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/430686079.jpg?k=b6dc48982754159f75c9acf011690dcb5f761eee96574577bf5fae45bcc66a23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487490077.jpg?k=b5fce5de4072e267a51a352845e52a140385e26ffc3a67a4805f7acbff185b69&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/430686094.jpg?k=231ad5676cb06e28a3db6188f696eea2c3d0f8dece7fd6db02ca00cc6010e8d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431787197.jpg?k=ee6a2fe5ccacbccfd9e669eaf6cebadac7b4606f0acd973a4cc6c6f987ac87dd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487490095.jpg?k=cf4df6b23d7e92a09d15ac391c9111351ac0a44a03c10cac4d995e20ef2c36d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487490213.jpg?k=7d027fe1b0ba6095837cd46ed2a4bc763f49cea7f97f0c1ea413bb9a3f62df53&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/430686066.jpg?k=f4cf9e71391b51a8ed4a13768524a1e80e3d88e752a1037350ced33805911982&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487490061.jpg?k=0bfe88a31ee90710d237faa147fa70285799a0b02a50b6a8e5705bc65cf4a401&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/430686089.jpg?k=287e22b853415f5ba25fd80f7372e2449213655d564be77f3c846a96f1472435&o=&hp=1"\namenities:\n  - "Spa and wellness centre"\n  - "Non-smoking rooms"\n  - "Fitness centre"\n  - "Free parking"\n  - "Good free WiFi (50 Mbps)"\n  - "Family rooms"\n  - "Bar"\nnearbyRestaurants:\n  - "Restorant Varka 50 m"\n  - "Café Ondine 50 m"\nnearbyBeaches:\n  - "Shëngjin Beach 100 m"\n  - "Ylberi Beach 1.5 km"\n  - "Rana e Hedhun Beach 2.4 km"\n  - "Kune Beach 4.8 km"\n  - "Laguna Park Beach 4.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 44 km"\n  - "Podgorica Airport 66 km"\n  - "Tivat Airport 96 km"\nreviews:\n  - name: "Tiberiu"\n    country: "Romania"\n    text: "“locatie excelenta; Vedere la mare de pe balcon
+Gazda foarte buna,amabila
+Facilitati foarte bune
+Ne-am bucurat de un sejur minunat!”"\nbookingURL: "https://www.booking.com/hotel/al/apartament-lezhe3.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of space and light, boasting a balcony that offers breathtaking sea views. It is well-appointed with two bedrooms, a cozy living room, a flat-screen TV for entertainment, and a kitchen equipped with modern appliances including an oven and a fridge. The inclusion of a bathroom with a bidet adds a touch of convenience, ensuring a comfortable stay in a smoke-free environment.
 
 For guests looking to savor local flavors or those in need of a quick bite, the snack bar on-site provides a variety of options, with packed lunches available for day trips. The area around Holiday Apartament is renowned for its cycling routes, making it an ideal spot for enthusiasts. The provision of bike and car rental services directly from the apartment facilitates easy exploration of the surrounding beauty.
 
 Families will appreciate the thoughtful addition of an outdoor fireplace for memorable evenings and a children's playground to keep the little ones entertained. For those intrigued by history and nature, Rozafa Castle Shkodra and Lake Skadar are within accessible distances, at 42 km and 44 km respectively, promising enriching day trips. Moreover, the convenience of being just 49 km away from Tirana International Mother Teresa Airport adds to the appeal for international travelers.
 
 Holiday Apartament emerges as a top recommendation for those in search of a blend of leisure and adventure, offering a perfect base to explore the enchanting surroundings or simply relax and soak in the serene views.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

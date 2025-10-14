@@ -1,28 +1,5 @@
----
-title: The Little Big Apartament
-description: This apartment is a haven of space and comfort, featuring a well-appointed bedroom that guarantees a restful night's sleep. The living area is equipped with a f
-featuredImage: "/images/accommodation/481156182.jpg"
-language: en
-slug: the-little-big-apartament
-location: ""
-amenities: []
-images: []
----
-
-This apartment is a haven of space and comfort, featuring a well-appointed bedroom that guarantees a restful night's sleep. The living area is equipped with a flat-screen TV, perfect for unwinding after a day of exploration. Culinary enthusiasts will appreciate the fully equipped kitchen, boasting an oven and fridge, alongside the convenience of a washing machine. The inclusion of a bathroom with a bidet adds a touch of luxury to the overall experience.
+---\ntitle: "The Little Big Apartament"\ndescription: "The Little Big Apartment emerges as a serene retreat, offering breathtaking lake views from its generously sized balcony."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481156182.jpg?k=468d545d2eae89d56dd3adc88b49c9d1083f8655a3086cde10130e581a74a011&o=&hp=1"\nlanguage: en\nslug: the-little-big-apartament\naddress: "SH64 4, 7301 Tushemisht, Albania"\ncity: "Tushemisht"\nlocation: "Tushemisht"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.90173527\n  lng: 20.71621801\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481156182.jpg?k=468d545d2eae89d56dd3adc88b49c9d1083f8655a3086cde10130e581a74a011&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/481156213.jpg?k=3d6f1923ec5bd137d29b597f973079aca06ff171ecbd2acab4f725bcacda6428&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/481156218.jpg?k=4613d2661310283b520a0c056cea6d0e3e15934766874af5ea323fcea38bbbb1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/481156221.jpg?k=e5e41bf0c271509d9ce3794aa3506cc0483b34c25c3b868a978f36be41b05b1a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/481156222.jpg?k=a2ed668581bf4dc7cdfe18cf00db21f9aa2dd7b413c26ec75de73dde2ad5db5b&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Taverna Agai 100 m"\n  - "Dante 200 m"\nwhatsNearby:\n  - "National Park Galicica 2.6 km"\n  - "Driloni National Park 4 km"\n  - "National Park Galicica 10 km"\n  - "Bay of Bones 12 km"\nairports:\n  - "Ohrid Airport 29 km"\n  - "Kastoria National Airport 68 km"\nbookingURL: "https://www.booking.com/hotel/al/the-little-big-apartament.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nThis apartment is a haven of space and comfort, featuring a well-appointed bedroom that guarantees a restful night's sleep. The living area is equipped with a flat-screen TV, perfect for unwinding after a day of exploration. Culinary enthusiasts will appreciate the fully equipped kitchen, boasting an oven and fridge, alongside the convenience of a washing machine. The inclusion of a bathroom with a bidet adds a touch of luxury to the overall experience.
 
 For adventurers looking to delve deeper into the region's spiritual heritage, the Cave Church Archangel Michael awaits at a distance of 45 kilometers, offering a unique glimpse into the area's religious past. Moreover, the Monastery Saint Naum, located just 2.6 kilometers from the apartment, provides an intimate encounter with local spirituality and architecture.
 
 Accessibility is seamless, with Ohrid Airport situated 41 kilometers away, making The Little Big Apartment an ideal choice for both domestic and international travelers seeking a blend of comfort, convenience, and cultural immersion.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

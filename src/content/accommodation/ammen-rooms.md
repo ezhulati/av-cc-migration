@@ -1,28 +1,5 @@
----
-title: AMMEN Rooms
-description: Guests at AMMEN Rooms are treated to complimentary amenities including WiFi and on-site parking, ensuring a hassle-free stay. The establishment prioritizes gues
-featuredImage: "/images/accommodation/428106401.jpg"
-language: en
-slug: ammen-rooms
-location: ""
-amenities: []
-images: []
----
-
-Guests at AMMEN Rooms are treated to complimentary amenities including WiFi and on-site parking, ensuring a hassle-free stay. The establishment prioritizes guest security and convenience, evident from the provision of full-day security and an elevator, catering to all needs and ensuring peace of mind.
+---\ntitle: "AMMEN Rooms"\ndescription: "AMMEN Rooms emerges as a prime choice for travelers seeking comfort and convenience in Shëngjin."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428106401.jpg?k=6e303b3502507f69538abf9a0848e3e1344578c6d4311976f52c9332912a50fb&o=&hp=1"\nlanguage: en\nslug: ammen-rooms\naddress: "Rruga Ivanaj, 1000 Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.80490731\n  lng: 19.60224236\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nrating: 6.7\nratingWords: "Average"\nnumberOfReviews: 3\nratings:\n  overall: 6.7\n  location: 6.7\n  cleanliness: 6.7\n  facilities: 6.7\n  value: 6.7\n  comfort: 6.7\n  staff: 6.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428106401.jpg?k=6e303b3502507f69538abf9a0848e3e1344578c6d4311976f52c9332912a50fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428106389.jpg?k=efe12bb5b7571342590d6e9fb6b57264c30c37d008183beb2d291e55f03193c2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428051308.jpg?k=e6106c99a1daa2b8bfa0d09e839a7e598415871ece9a6de6934af679b4fa5f20&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428106365.jpg?k=36db874b25ed794ed2a45e1a7f724c10019d71a9913d76a2a6c0b442cece4f75&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422961124.jpg?k=75cd26537b3d1d94a361947e28c2934e7c947fd02a2380c5aadd3b4d71609141&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428099138.jpg?k=84fc1bf834b10adbd335f7394426fd8dad964fa65a2b03f79dd2e9b78fa6a75c&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Double Room with Balcony"\n  - "Deluxe Double Room with Balcony"\n  - "Deluxe Double Room with Balcony"\n  - "Deluxe Double Room with Balcony"\n  - "Deluxe Double Room with Balcony"\n  - "Apartment"\nnearbyRestaurants:\n  - "Ara Shengjin 200 m"\n  - "Coral 300 m"\nnearbyBeaches:\n  - "Shëngjin Beach 200 m"\n  - "Ylberi Beach 600 m"\n  - "Rana e Hedhun Beach 3.3 km"\n  - "Laguna Park Beach 4 km"\n  - "Kune Beach 4.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 43 km"\n  - "Podgorica Airport 67 km"\nbookingURL: "https://www.booking.com/hotel/al/ammen-rooms.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at AMMEN Rooms are treated to complimentary amenities including WiFi and on-site parking, ensuring a hassle-free stay. The establishment prioritizes guest security and convenience, evident from the provision of full-day security and an elevator, catering to all needs and ensuring peace of mind.
 
 The rooms, designed with the guest's comfort in mind, feature private bathrooms, and select units boast balconies, offering a serene spot to unwind after a day of adventure. For those looking to explore beyond the local beaches, Lake Skadar awaits at a distance of 44 km, presenting an opportunity for nature lovers to immerse themselves in the area's natural beauty.
 
 Conveniently located 49 km from Tirana International Mother Teresa Airport, AMMEN Rooms serves as an ideal base for both international visitors and those looking to explore the rich offerings of Shëngjin and its surroundings.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

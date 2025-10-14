@@ -1,28 +1,5 @@
----
-title: Guest House Maria - Berat castle
-description: Accommodations are well-appointed with a flat-screen TV for entertainment, alongside thoughtful touches like towels and bed linen to enhance the comfort of your
-featuredImage: "/images/accommodation/469427070.jpg"
-language: en
-slug: guest-house-maria-berat-castle
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Guest House Maria - Berat castle"\ndescription: "Guest House Maria - Berat Castle stands as a serene retreat in the historic heart of Berat, offering guests a unique blend of traditional charm and modern comforts."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469427070.jpg?k=1fb10ea23303662bef2fe612661525f9fe184adffdbb1070fe36550f76120cbe&o=&hp=1"\nlanguage: en\nslug: guest-house-maria-berat-castle\naddress: "Rruga Mihal Komnena rruga mbrica kala, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.70746516\n  lng: 19.9464001\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 35\nratings:\n  overall: 8.9\n  location: 9.9\n  cleanliness: 8.9\n  facilities: 8.4\n  value: 9.5\n  comfort: 8.6\n  staff: 9.6\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469427070.jpg?k=1fb10ea23303662bef2fe612661525f9fe184adffdbb1070fe36550f76120cbe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454817993.jpg?k=8ccdca3c0b3a6d692fb1f23eff159023f0c23774033388c2a77ec168ad7ca573&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454818065.jpg?k=91580986074ef4f31aae5847c23d972d46b2d94d66347ed6d2cf16d3e2b637e5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469427066.jpg?k=ae2478722f12c7e970f6c928207e70a84b6777013e39d9ba439776725da1d51c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454817936.jpg?k=2d6ea529a467a29de5a09fef415a40490de7f97680d1e6328aa7bec435e65f16&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454818069.jpg?k=211317c5c6e91a5a8a96374e4d0662b45190514455d47d2a580871e81e4712c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454818021.jpg?k=6c4c2479d2719d4e30da8216f02d450f86cd1dd8b8d5af06953ac4ce9df0b6e0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454818059.jpg?k=f302d4d7f25422f3053dbafb8edd20ef96d01ef7b424a480bde3863b211f8f7b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472933316.jpg?k=fe575a904422920772fcf814666335a86ab5ae54d0a1ad9e75ad3601f8202122&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Breakfast"\nroomTypes:\n  - "Double or Twin Room"\nnearbyRestaurants:\n  - "Bar 100 m"\n  - "Bar Kafe Iljesa 150 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 17 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 84 km"\nreviews:\n  - name: "Jake"\n    country: "United Kingdom"\n    text: "“Kindest, most genuine hospitality I have ever received. The family are all so nice. Great experience and very unique to wake up inside the hilltop castle.”"\n  - name: "Lucie"\n    country: "United Kingdom"\n    text: "“Stunning location. Quaint wee room and family are lovely. Mum and Dad don’t speak English but we managed with my little Albanian, google translate, gestures and the little Italian I didn’t even know I knew 😆 son speaks a little English and I met...”"\n  - name: "Dmitry"\n    country: "Russia"\n    text: "“It was best decision to choose this guest house. We had very cosy and clean room. There was also a terrace with wonderful view where we had breakfast. The family is very hospitable and kind. Highly recommend!”"\nbookingURL: "https://www.booking.com/hotel/al/guest-house-maria-berat-castele.en-gb.html?aid=8035640"\nbestFor: "Best for Historical Sites Proximity"\nbestCategories: "Historical Sites Proximity"\ncategory: "Historical Sites Proximity"\n---\n\nAccommodations are well-appointed with a flat-screen TV for entertainment, alongside thoughtful touches like towels and bed linen to enhance the comfort of your stay. Emphasizing a peaceful environment, the property is both non-smoking and soundproof, ensuring a restful night's sleep.
 
-Accommodations are well-appointed with a flat-screen TV for entertainment, alongside thoughtful touches like towels and bed linen to enhance the comfort of your stay. Emphasizing a peaceful environment, the property is both non-smoking and soundproof, ensuring a restful night's sleep.
-
-For moments of relaxation, the garden invites guests to unwind in a lush, green oasis, adding to the overall sense of tranquility that defines Guest House Maria.
+For moments of relaxation, the garden invites guests to unwind in a lush, green oasis, adding to the overall sense of tranquility that defines Guest House Maria. 
 
 Situated 117 km from Tirana International Mother Teresa Airport, this guest house offers a perfect escape for those seeking a blend of historical exploration and contemporary ease.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

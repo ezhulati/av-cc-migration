@@ -1,26 +1,4 @@
----
-title: Hotel Ajka
-description: Each room at Hotel Ajka is thoughtfully furnished, featuring a wardrobe for personal belongings, a desk for those needing to stay productive on the go, and a fl
-featuredImage: "/images/accommodation/142962138.jpg"
-language: en
-slug: hotel-ajka
-location: ""
-amenities: []
-images: []
----
-
-Each room at Hotel Ajka is thoughtfully furnished, featuring a wardrobe for personal belongings, a desk for those needing to stay productive on the go, and a flat-screen TV for entertainment. Select rooms elevate the experience further with the addition of a balcony, offering guests a private outdoor space to unwind.
+---\ntitle: "Hotel Ajka"\ndescription: "Hotel Ajka stands as a charming retreat in the heart of Berat, offering guests a blend of comfort and convenience with its array of amenities."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/142962138.jpg?k=3fc25158ce44dc26b9ce941db0206c5902ae2b5b31b2988397cfb069a18edbd9&o=&hp=1"\nlanguage: en\nslug: hotel-ajka\naddress: "Lagjia Gorice, Rruga Kristaq Tutulani, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.70285109\n  lng: 19.95012239\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 1301\nratings:\n  overall: 8.8\n  location: 9.7\n  cleanliness: 8.3\n  facilities: 8\n  value: 9\n  comfort: 8.3\n  staff: 9.1\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/142962138.jpg?k=3fc25158ce44dc26b9ce941db0206c5902ae2b5b31b2988397cfb069a18edbd9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197188573.jpg?k=5ced2dabaf15559acff72fda529562fa14579c2a0aca4aa2c9adcd876a3733d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197188684.jpg?k=3bf0eda36236dfa4ffae27dc0ab42485e99ca841dfc17cd2a613a582630ce911&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/142954883.jpg?k=58c7a848118c2b53e1c74b5e2b00b708c87290025fcc34895aae2b1af00d0ddd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/142954554.jpg?k=a2d18898dc900f8452fe21dc038d19f41a053a5dd22dfb19f317dcbe3c513b29&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197188659.jpg?k=582ef2cde06790aa0f90e40e155c78e9fdb239c89ccbbe9850e5c460ad1845a2&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Double Room with Shared Terrace"\n  - "Triple Room with Balcony"\n  - "Budget Triple Room"\n  - "Quadruple Room with Balcony"\n  - "Family Room"\nnearbyRestaurants:\n  - "Ajka 50 m"\n  - "Bar Restorant Wildor 150 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 80 km"\n  - "Ohrid Airport 84 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Waldek"\n    country: "Poland"\n    text: "“This was my 2nd visit at Berat and we have chosen again this hotel. Breakfast is excellent! and view on the bridge and town, too. Worth to choose this place.”"\n  - name: "Ma"\n    country: "United Arab Emirates"\n    text: "“the view is spectacular in the window and breakfast area you can see the white houses across the bridge. Its 27 min. walk to berat castle and close to everything but quiet at night”"\n  - name: "As_kz"\n    country: "Kazakhstan"\n    text: "“The best town and the best hotel in Albania.
+The staff, the cook, the room - everything is super perfect!”"\nbookingURL: "https://www.booking.com/hotel/al/restorant-ajka.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach room at Hotel Ajka is thoughtfully furnished, featuring a wardrobe for personal belongings, a desk for those needing to stay productive on the go, and a flat-screen TV for entertainment. Select rooms elevate the experience further with the addition of a balcony, offering guests a private outdoor space to unwind.
 
 For those venturing from afar, the proximity to Tirana International Mother Teresa Airport, located 118 km away, positions Hotel Ajka as an accessible gateway to exploring the rich history and culture of Berat. With its welcoming bar and inviting terrace, this hotel promises a stay that is both comfortable and memorable, making it an ideal choice for travelers seeking a blend of convenience and charm.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

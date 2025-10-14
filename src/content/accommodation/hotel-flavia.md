@@ -1,15 +1,5 @@
----
-title: HOTEL FLAVIA
-description: Accommodations at Hotel Flavia are designed with guest comfort in mind, featuring private bathrooms and complimentary WiFi access. Select rooms elevate the expe
-featuredImage: "/images/accommodation/487308192.jpg"
-language: en
-slug: hotel-flavia
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Hotel Flavia are designed with guest comfort in mind, featuring private bathrooms and complimentary WiFi access. Select rooms elevate the experience further with the addition of a terrace, perfect for enjoying the serene surroundings.
+---\ntitle: "HOTEL FLAVIA"\ndescription: "Hotel Flavia stands out in Poliçan for offering a comfortable and convenient stay, complete with complimentary private parking and diligent housekeeping services."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487308192.jpg?k=c4780ae9a3a9b9e877daa0f6b9409ccefedf51b98c485ae7090f6acd9a55ddb8&o=&hp=1"\nlanguage: en\nslug: hotel-flavia\naddress: "HOTEL FLAVIA, 5404 Poliçan, Albania"\ncity: "Poliçan"\nlocation: "Poliçan"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.60357004\n  lng: 20.1012351\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487308192.jpg?k=c4780ae9a3a9b9e877daa0f6b9409ccefedf51b98c485ae7090f6acd9a55ddb8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487308573.jpg?k=3f562e1b3e747c64b2d73a188dace1b381b522648b605b5a0b5a2ec7bec3e091&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487308219.jpg?k=68f01bc51bb7246b71f39f95e1d37019180ec510c706b01aab36dffdb1c1022f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487308222.jpg?k=f1d335ae3315a1ccb9674c5a33c4b507d73272b5ce87003c2ebd60f781d8b4cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487308397.jpg?k=f25d8849a79a1d902f443ef62385385e5e9283e9c4cf4ee0432cb1a780ac51c4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487308213.jpg?k=519ab844e032970bf82739ec0150af68a9ae62717155b76efe7c64ab47daa2ca&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Budget Double Room"\n  - "Triple Room with Terrace"\n  - "Deluxe Double Room"\n  - "Deluxe King Room"\nnearbyRestaurants:\n  - "Spathara 5 km"\n  - "Bogova 5 km"\nwhatsNearby:\n  - "Sheshi Tomorri 950 m"\n  - "Tomorr Mountain National Park 3.3 km"\nairports:\n  - "Ohrid Airport 82 km"\n  - "Tirana International Airport Mother Teresa 94 km"\nreviews:\n  - name: "Marion"\n    country: "France"\n    text: "“We loved everything about it ! I have rarely received hospitality like that of Arthur and Yola. They are fabulous and caring
+A wonderful welcome and many happy memories. We can't wait to come back and discover more of the region. I'm moved by...”"\nbookingURL: "https://www.booking.com/hotel/al/flavia-polican1.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nAccommodations at Hotel Flavia are designed with guest comfort in mind, featuring private bathrooms and complimentary WiFi access. Select rooms elevate the experience further with the addition of a terrace, perfect for enjoying the serene surroundings.
 
 Culinary needs are well catered to with an on-site snack bar and bar, providing a cozy spot for guests to unwind and savor light bites and refreshing beverages.
 
@@ -18,15 +8,3 @@ Families will find Hotel Flavia particularly appealing, thanks to its child-frie
 For those looking to explore the area, cycling opportunities abound nearby, allowing guests to immerse themselves in the natural beauty of Poliçan. The guest house's garden offers another tranquil spot for relaxation and leisure.
 
 Situated 142 km from Tirana International Mother Teresa Airport, Hotel Flavia presents a peaceful retreat that promises a blend of comfort, convenience, and family-friendly amenities for travelers visiting Poliçan.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Xhaferri Guesthouse
-description: Each room at Xhaferri Guesthouse is thoughtfully equipped with essential comforts including a wardrobe, a flat-screen TV, and a private bathroom complete with b
-featuredImage: "/images/accommodation/512217078.jpg"
-language: en
-slug: xhaferri-guesthouse
-location: ""
-amenities: []
-images: []
----
-
-Each room at Xhaferri Guesthouse is thoughtfully equipped with essential comforts including a wardrobe, a flat-screen TV, and a private bathroom complete with bed linen and towels, ensuring a comfortable stay for all guests.
+---\ntitle: "Xhaferri Guesthouse"\ndescription: "Xhaferri Guesthouse, located in the heart of Çorovodë, offers a serene retreat with its lush garden surroundings and comprehensive amenities."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512217078.jpg?k=c69c2dbf2046c8da551ba111bec255b3806604560c89d182d15a1fe2e3db0fa9&o=&hp=1"\nlanguage: en\nslug: xhaferri-guesthouse\naddress: "Mollas, Çorovodë, Albania"\ncity: "Çorovodë"\nlocation: "Çorovodë"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.53749577\n  lng: 20.23221065\nprice: "US$24"\npriceFrom: 24\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512217078.jpg?k=c69c2dbf2046c8da551ba111bec255b3806604560c89d182d15a1fe2e3db0fa9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512217098.jpg?k=57f6f1d722aa6d6978fe7314402924f3c93e00350ee2edf12e1f8478d4dd515c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512217104.jpg?k=93434d8856444eb5e78157b6e7d461258814d931eb23d5ca2f330338f05c103b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512217090.jpg?k=c20a3c40cd9d57d8c0949cf8564b7f807dbfd15815857521efd21147bf99c3ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512217092.jpg?k=fd7e6ea7a0f18de18d0381fd3751756fa96d5f5fb50d8e3a9597db7ef1d0abdb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512217101.jpg?k=acfeb8b6ee5e9acc3d627deed288a42e88b497e020f6ba48c2dea935cf470cea&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Family Room"\nnearbyRestaurants:\n  - "Flora 3.6 km"\n  - "Bar Kafe \Turhani\\"\" 3.6 km"\nwhatsNearby:\n  - "Tomorr Mountain National Park 250 m"\n  - "Sheshi Tomorri 14 km"\nairports:\n  - "Ohrid Airport 82 km"\n  - "Kastoria National Airport 88 km"\nbookingURL: "https://www.booking.com/hotel/al/xhaferri-guesthouse.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach room at Xhaferri Guesthouse is thoughtfully equipped with essential comforts including a wardrobe, a flat-screen TV, and a private bathroom complete with bed linen and towels, ensuring a comfortable stay for all guests.
 
 For those looking to explore the local area, the guesthouse's reception is ready to offer valuable insights and tips, making it easier for guests to discover the hidden gems of Çorovodë.
 
 Situated 148 km from Ioannina Airport, Xhaferri Guesthouse presents an ideal base for travelers seeking a blend of convenience and tranquility during their visit.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

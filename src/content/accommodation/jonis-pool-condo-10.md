@@ -4,9 +4,17 @@ description: Following a recent renovation, Joni's Pool Condo 10 presents a mode
 featuredImage: "/images/accommodation/376348779.jpg"
 language: en
 slug: jonis-pool-condo-10
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "Pool"
+  - "Spa"
+  - "Kitchen"
+  - "TV"
 ---
 
 Following a recent renovation, Joni's Pool Condo 10 presents a modern one-bedroom apartment equipped with a fully functional kitchen, including a fridge and stovetop, ensuring guests feel right at home. The living space is thoughtfully designed with a flat-screen TV and a cozy seating area, perfect for unwinding after a day of exploration. The convenience of a private bathroom, complete with a shower, towels, and bed linen, adds to the comfort of the stay.
@@ -17,14 +25,3 @@ Cultural enthusiasts will appreciate the proximity to significant landmarks such
 
 Joni's Pool Condo 10 stands out as a prime choice for those seeking a blend of leisure and exploration in the picturesque setting of Golem.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

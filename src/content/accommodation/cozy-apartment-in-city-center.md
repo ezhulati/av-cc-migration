@@ -1,26 +1,3 @@
----
-title: Cozy apartment in city center
-description: "Designed with comfort and privacy in mind, the apartment features a welcoming bedroom, a well-appointed bathroom equipped with a shower and hair dryer..."
-featuredImage: "/images/accommodation/477875732.jpg"
-language: en
-slug: cozy-apartment-in-city-center
-location: ""
-amenities: []
-images: []
----
-
-Designed with comfort and privacy in mind, the apartment features a welcoming bedroom, a well-appointed bathroom equipped with a shower and hair dryer, and the added bonus of a balcony for guests to enjoy the fresh air and views. To ensure a home-away-from-home experience, towels and bed linen are thoughtfully provided, and the accommodation benefits from a private entrance, allowing for a truly personal and secluded stay.
+---\ntitle: "Cozy apartment in city center"\ndescription: "Discover the charm of Himare with a stay at the Cozy apartment in the city center, a prime location that places guests just a stone's throw away from the serene Maracit Beach and the picturesque Prinos Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477875732.jpg?k=76b1f266b37dd85bdebadca6a06289c95a2a28073448a6b9df0c598dffd58be6&o=&hp=1"\nlanguage: en\nslug: cozy-apartment-in-city-center\naddress: "SH8, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.10196656\n  lng: 19.74613165\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 6\nratings:\n  overall: 9.3\n  location: 9.2\n  cleanliness: 9.6\n  facilities: 9.2\n  value: 8.8\n  comfort: 9.6\n  staff: 9.6\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477875732.jpg?k=76b1f266b37dd85bdebadca6a06289c95a2a28073448a6b9df0c598dffd58be6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477875803.jpg?k=283d9b464b6f45437906ffba99a0fe6a4f04a0582d4e942ffce0706c8f0a40a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477875855.jpg?k=6fe2dec3b873cc7fc0fcdf8796775ebba201796b7106c3ebda8cab45ed290c1c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477875827.jpg?k=ab6fde2aac5a10abcc9f311e7fbc2e990185a78160b75abd644b27341532cc37&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477875789.jpg?k=b18f92a3a576fbfa5e586171d26efae9cbb9490ed48d2ebb979c7b7f26d3b76d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477875862.jpg?k=b27c3d29c6254573e33803dbb3ee8eff912e3c2a7c1698ce2cac4d45dfe74d23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477875859.jpg?k=6508762cf702bac33647641b72533de58e04193033d5f75861c83b2e84f1c0b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477875853.jpg?k=23ff14c15113da3277937cea9bd0fe6d5a4d09fce6b5302539b3834e61a3ba39&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477875793.jpg?k=7e8bf41a2383bc5ad81c365ffc7494dc8f661f991b752c0b19de0e4cc11ec916&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Pasticeri Delight 5 m"\n  - "Merluc 10 m"\nnearbyBeaches:\n  - "Spille Beach 100 m"\n  - "Maracit Beach 300 m"\n  - "Prinos Beach 550 m"\n  - "Potam Beach 950 m"\n  - "Livadhi Beach 1.3 km"\nwhatsNearby:\n  - "Llogora National Park 16 km"\nairports:\n  - "Corfu International Airport 56 km"\nreviews:\n  - name: "Orges"\n    country: "Kosovo"\n    text: "“A very nice apartment in the heart of Himarë. Everything was very close so it was very convenient. The place is super clean and the bed is very comfortable. A helpful hostess as well. Would definitely recommend!”"\nbookingURL: "https://www.booking.com/hotel/al/cozy-apartment-in-city-center-himare.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nDesigned with comfort and privacy in mind, the apartment features a welcoming bedroom, a well-appointed bathroom equipped with a shower and hair dryer, and the added bonus of a balcony for guests to enjoy the fresh air and views. To ensure a home-away-from-home experience, towels and bed linen are thoughtfully provided, and the accommodation benefits from a private entrance, allowing for a truly personal and secluded stay.
 
 Situated 143 km from Ioannina Airport, this apartment is an ideal choice for travelers seeking a blend of convenience, comfort, and the opportunity to explore the beautiful coastline of Himare.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

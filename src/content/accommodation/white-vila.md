@@ -1,28 +1,5 @@
----
-title: White Vila
-description: "Guests can enjoy the comfort of private bathrooms in every unit, with select rooms enhancing the stay experience through the addition of balconies tha..."
-featuredImage: "/images/accommodation/495287316.jpg"
-language: en
-slug: white-vila
-location: ""
-amenities: []
-images: []
----
-
-Guests can enjoy the comfort of private bathrooms in every unit, with select rooms enhancing the stay experience through the addition of balconies that open up to refreshing views. The promise of free WiFi across the premises ensures that guests remain connected with the world, or perhaps share their memorable experiences in real-time.
+---\ntitle: "White Vila"\ndescription: "White Vila emerges as a serene retreat in the heart of Ksamil, a stone's throw away from the pristine shores of Ksamil Beach 9 and the vibrant Bora Bora Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494111564.jpg?k=d7083bfd730211a5159cd2ba8e56ed78a01c2ad23cbbb0500f11519c6d4d9b94&o=&hp=1"\nlanguage: en\nslug: white-vila\naddress: "Rruga Amantia Ksamil, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "villa"\ncoordinates:\n  lat: 39.76970779\n  lng: 20.00101928\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494111564.jpg?k=d7083bfd730211a5159cd2ba8e56ed78a01c2ad23cbbb0500f11519c6d4d9b94&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495287316.jpg?k=f4dadd26d5d4fca2fde3a53390023a00559a6abefe69d344b3f0ea1bdd9a8dc2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494722873.jpg?k=c320703460029b8e2ec5cae220ce4e1dbdb8e1698216dacf5caa6705f00a2e0c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494111636.jpg?k=72e703e675cf8c483dcafbf6a848a6327204b7da5d51bc110f1143b2a9112bfa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494723578.jpg?k=f8129b59db65be97ef1fca442e735a82434e933c54c1a84a55ad809a941f0ed2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494111648.jpg?k=a9aae0d14dc936a48537c8e3e89aef489289d48fdc2f23c34c62d18af360f949&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495019885.jpg?k=fa5a2d2ed4143dfc04b5c7c4aabf101d517745add22404ab337d100d706c3b99&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494111633.jpg?k=ea865557fc96ddb146b55158ce8d18ff43ebe200d43a326e27345ccb03f99d12&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494111641.jpg?k=24ca01aba5f0cecdaca5f854a2d21b1c150a6b154f163a2ff87c0ea44e3abe5e&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyAttractions:\n  - "Museum of Banknotes 17 km"\n  - "New Fortress 18 km"\n  - "Serbian Museum 18 km"\n  - "Theotoki G. Square 18 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 19 km"\n  - "Trion Martiron Park 19 km"\n  - "Mon Repos Palace 19 km"\n  - "Kapodistrias Museum 20 km"\nnearbyRestaurants:\n  - "Pizza Malasi 30 m"\n  - "Sweet & Salty 40 m"\nnearbyBeaches:\n  - "Ksamil Beach 9 250 m"\n  - "Bora Bora Beach 250 m"\n  - "Ksamil Beach 7 300 m"\n  - "Ksamil Beach 300 m"\n  - "Paradise Beach 550 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 300 m"\n  - "Butrint National Park 2.8 km"\n  - "Plazhi I Krorezes 3.4 km"\n  - "Parc National de Butrint 10 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 17 km"\n  - "Old Fortress 17 km"\nairports:\n  - "Corfu International Airport 19 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/white-vila-ksamil.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests can enjoy the comfort of private bathrooms in every unit, with select rooms enhancing the stay experience through the addition of balconies that open up to refreshing views. The promise of free WiFi across the premises ensures that guests remain connected with the world, or perhaps share their memorable experiences in real-time.
 
 Situated just 2.9 km from the enchanting Butrint National Park, White Vila serves as a perfect base for explorers keen on immersing themselves in the rich tapestry of local history and natural beauty. For those venturing from afar, the proximity to Corfu International Airport, located 93 km away, underscores the aparthotel's appeal to international travelers seeking a blend of convenience and tranquility.
 
 White Vila stands out as a testament to thoughtful hospitality, where every detail is curated to ensure a stay that is as comfortable as it is memorable.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

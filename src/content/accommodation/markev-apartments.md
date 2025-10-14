@@ -1,28 +1,12 @@
----
-title: Markev Apartments
-description: Each apartment at Markev is designed with guest comfort in mind, featuring air-conditioned rooms that connect to a private entrance, ensuring a seamless and exc
-featuredImage: "/images/accommodation/448414445.jpg"
-language: en
-slug: markev-apartments
-location: ""
-amenities: []
-images: []
----
-
-Each apartment at Markev is designed with guest comfort in mind, featuring air-conditioned rooms that connect to a private entrance, ensuring a seamless and exclusive experience. The attention to detail is evident in the well-appointed units, each boasting a terrace and a kitchenette equipped with a fridge, alongside essentials such as a TV, washing machine, and a cozy fireplace. The private bathrooms come with walk-in showers and slippers, adding a touch of luxury to the stay. Moreover, guests are treated to a patio that opens up to an outdoor dining area, where one can savor meals against the backdrop of stunning sea views. Complimentary bed linen and towels in all units underscore the property's commitment to comfort.
+---\ntitle: "Markev Apartments"\ndescription: "Markev Apartments emerges as a modern oasis of comfort and convenience, situated just a stone's throw away from the serene Beach at Government Villas in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448414445.jpg?k=a569af130d541fb7d34896d1f645559f6ae980e5f0fe8490778624bcf62d485f&o=&hp=1"\nlanguage: en\nslug: markev-apartments\naddress: "Rruga Pano Xhaho, 9405 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.42326548\n  lng: 19.49319588\nprice: "US$25"\npriceFrom: 25\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 26\nratings:\n  overall: 8.9\n  location: 8\n  cleanliness: 9\n  facilities: 8.4\n  value: 9.2\n  comfort: 9.2\n  staff: 9.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448414445.jpg?k=a569af130d541fb7d34896d1f645559f6ae980e5f0fe8490778624bcf62d485f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481863247.jpg?k=74336680cf2995dc1638e48a8237abf84215ff2071950d970e790b363a4af05d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481883406.jpg?k=40fedaa7863167f91792409212372340a9045b8407d3646446b5b51ab6521003&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481867305.jpg?k=b37d0fac475b41e169b9fe62f42d2639ec23a9e020b7f0e7e221739d94cea8cc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481882492.jpg?k=8d8f95ae55c80213d68b2ff40ed67ffa07bda412fb6159274f0e78ca04d01dd9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481883797.jpg?k=0dca1d10ee361d122759295e1dd8fcb4c61e44d972c15ceec0e35f65e46efd49&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Donatelo 200 m"\n  - "Gjurma by Aldo Mehmeti 250 m"\nnearbyBeaches:\n  - "Beach at Government Villas 650 m"\n  - "Ri Beach 750 m"\n  - "Liro Beach 1.4 km"\n  - "Vlore Beach 2.2 km"\n  - "Coco Bongo Beach 2.4 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.5 km"\n  - "Kuzum Baba 4.9 km"\n  - "Independence Square 5 km"\nairports:\n  - "Corfu International Airport 97 km"\nreviews:\n  - name: "Loredana"\n    country: "Austria"\n    text: "“Nice apartment with well equipped kitchen and amazing views. The hosts are super kind, they even left us some mandarines. Finding the place is a bit tricky, but Mario‘s dad met us on the main road and we followed him up. The cute and friendly dogs...”"\n  - name: "Katherine"\n    country: "United Kingdom"\n    text: "“The most amazing views.
+Comfortable bed.
+Clean.
+The views.
+Friendly dogs.
+Given lots of juicy oranges.
+The father met us on the main road and we followed him up; we would never have found it otherwise.
+The views. There was enough kitchen...”"\n  - name: "Vasilka"\n    country: "North Macedonia"\n    text: "“The hosts are amazing. I love my little lions Čoku and Marina. The apartment was extremely clean and the bed and everything inside was cosy and on spot. The view on the sea and the city is breathtaking.Looking forward coming back again to the...”"\nbookingURL: "https://www.booking.com/hotel/al/markev-apartments-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach apartment at Markev is designed with guest comfort in mind, featuring air-conditioned rooms that connect to a private entrance, ensuring a seamless and exclusive experience. The attention to detail is evident in the well-appointed units, each boasting a terrace and a kitchenette equipped with a fridge, alongside essentials such as a TV, washing machine, and a cozy fireplace. The private bathrooms come with walk-in showers and slippers, adding a touch of luxury to the stay. Moreover, guests are treated to a patio that opens up to an outdoor dining area, where one can savor meals against the backdrop of stunning sea views. Complimentary bed linen and towels in all units underscore the property's commitment to comfort.
 
 The allure of Markev Apartments is not limited to its interiors. Guests are invited to unwind in the lush garden, a perfect spot for relaxation and tranquility. For those looking to explore the local beaches, Ri Beach and Liro Beach are conveniently located within a short distance of 1.7 km and 1.9 km respectively, offering easy access to some of Vlorë's most picturesque coastal spots.
 
 Situated 155 km from Tirana International Mother Teresa Airport, Markev Apartments also provides a paid airport shuttle service, ensuring a hassle-free journey to and from the property. This combination of thoughtful amenities, strategic location, and the promise of a peaceful stay makes Markev Apartments a compelling choice for travelers seeking a memorable escape in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

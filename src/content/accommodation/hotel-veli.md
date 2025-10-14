@@ -1,15 +1,4 @@
----
-title: Hotel Veli
-description: Accommodations at Hotel Veliu are designed with the guest's comfort in mind, featuring air-conditioned rooms equipped with cable TV for entertainment after a da
-featuredImage: "/images/accommodation/137306305.jpg"
-language: en
-slug: hotel-veli
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Hotel Veliu are designed with the guest's comfort in mind, featuring air-conditioned rooms equipped with cable TV for entertainment after a day of exploration. The convenience extends to each room's private bathroom, equipped with a shower, catering to the needs for refreshment and relaxation.
+---\ntitle: "Hotel Veli"\ndescription: "Hotel Veliu stands as a beacon of comfort and convenience in the heart of Sarandë, offering guests an exceptional stay with its array of amenities and prime location."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137306305.jpg?k=b4f3fe31c1679212841281d5ec05113e5bdd31e5914c21b49c7cc3d7d5b4c59b&o=&hp=1"\nlanguage: en\nslug: hotel-veli\naddress: "Rruga Lefter Talo, 9703 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.8758972\n  lng: 20.00524789\nprice: "US$19"\npriceFrom: 19\nstarRating: 3\nrating: 7.6\nratingWords: "Good"\nnumberOfReviews: 319\nratings:\n  overall: 7.6\n  location: 8.7\n  cleanliness: 7.6\n  facilities: 7\n  value: 7.7\n  comfort: 7.3\n  staff: 8.4\n  wifi: 6.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137306305.jpg?k=b4f3fe31c1679212841281d5ec05113e5bdd31e5914c21b49c7cc3d7d5b4c59b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480778434.jpg?k=22b57f11c379d2725090798b3bab50598dc090e912ee883b4da46abfe6f46082&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480778637.jpg?k=71126bb70d464940738ecb3a722d7c3ed9f6d32fbb29ad32b62d7c026ccf508b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374487354.jpg?k=ea5c8a84117da78bfb43219831d230ea833cf77274f61ac2fc03e6388a47e0f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480762933.jpg?k=5208023b14884487293eb077f72cd8af6a3b0635ec8c5f5b122ad731f27241fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374487389.jpg?k=91055a3cfedd117d546ab25f5a0e2f80b2bd24c5b62508b7a41f19c9c9a60269&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Good breakfast"\nroomTypes:\n  - "Single Room"\n  - "Standard Twin Room"\n  - "Double Room"\n  - "Comfort Triple Room"\n  - "Triple Room"\nnearbyRestaurants:\n  - "Oda e Babës 40 m"\n  - "Pasuria E Detit - Fish Store 100 m"\nnearbyBeaches:\n  - "Saranda City Beach 450 m"\n  - "Sarande Main Beach 800 m"\n  - "La Petite Beach 1.1 km"\n  - "Maestral Beach 1.3 km"\n  - "Saranda Bay Beach 2 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.5 km"\n  - "Butrint National Park 3.3 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/veliu.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Hotel Veliu are designed with the guest's comfort in mind, featuring air-conditioned rooms equipped with cable TV for entertainment after a day of exploration. The convenience extends to each room's private bathroom, equipped with a shower, catering to the needs for refreshment and relaxation.
 
 The hotel's on-site restaurant and bar present a delightful culinary journey, promising an array of delectable dishes and refreshing beverages, perfect for unwinding after a sun-soaked day at the beach, which is a mere 300 meters away. Moreover, the provision of free private parking adds to the hassle-free experience, allowing guests to explore the surroundings without worry.
 
@@ -18,15 +7,3 @@ For those seeking assistance or local insights, the 24-hour front desk stands re
 Adventurous souls will appreciate Hotel Veliu's proximity to significant landmarks, including the UNESCO-listed ancient city of Butrint, just 18 km away, and the mesmerizing natural beauty of the Blue Eye (Syri Kalter) park, located 20 km from the hotel. Additionally, the Corfu airport is within a manageable distance of 34 km, making arrivals and departures as smooth as possible.
 
 Hotel Veliu emerges not just as a place to stay but as a gateway to the wonders of Sarandë, offering a blend of convenience, comfort, and accessibility to the treasures of the region.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

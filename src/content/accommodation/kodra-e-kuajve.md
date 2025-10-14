@@ -1,30 +1,10 @@
----
-title: Kodra e Kuajve
-description: Guests at Kodra e Kuajve are treated to a range of amenities designed to enhance their experience. The resort features a children's playground, perfect for fami
-featuredImage: "/images/accommodation/169247793.jpg"
-language: en
-slug: kodra-e-kuajve
-location: ""
-amenities: []
-images: []
----
-
-Guests at Kodra e Kuajve are treated to a range of amenities designed to enhance their experience. The resort features a children's playground, perfect for families seeking a relaxing getaway. For those looking to unwind, a hot tub is available, alongside the convenience of a 24-hour front desk, ensuring all needs are met around the clock.
+---\ntitle: "Kodra e Kuajve"\ndescription: "Kodra e Kuajve emerges as a serene oasis in Durrës, merely 400 meters from the iconic Rock of Kavaje."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/169247793.jpg?k=dabeef5cbeff50e77969b3c4e416069748f809bb202f03b693bffe5819e3e8c4&o=&hp=1"\nlanguage: en\nslug: kodra-e-kuajve\naddress: "Rruga Shkembi i Kavajes, Durrës, Albania Kodër Dedej, tek Shkëmbi i Kavajës, Shkallnur, Durrës, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "resort"\ncoordinates:\n  lat: 41.27674604\n  lng: 19.5236159\nprice: "US$69"\npriceFrom: 69\nstarRating: 4\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 34\nratings:\n  overall: 9.5\n  location: 9.3\n  cleanliness: 10\n  facilities: 9.4\n  value: 9.1\n  comfort: 9.6\n  staff: 9\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/169247793.jpg?k=dabeef5cbeff50e77969b3c4e416069748f809bb202f03b693bffe5819e3e8c4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477857737.jpg?k=64488e229ffe2410a21f90701b5d1b7372decd813f35ec0395e10ee6a0fec6df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477709988.jpg?k=cea8bc039258264c0e65d52c9c78bf3b5970b3e0db60d338e323d758ed6c625f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479741910.jpg?k=173484a2e17a57a3f318f16480cd379cf81238d3395f089f4abe61c30a47da92&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477858968.jpg?k=15c33612ccf9639f82c9d3d2738a3a4100c34b119895ba9861c77b70d3d5ec59&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477858558.jpg?k=2be5d44c16c25910f82509f12ce1976d15b8a845b19862723cf4c63782a3ff9a&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Facilities for disabled guests"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Single Room with Balcony"\n  - "Deluxe Single Room with Balcony"\n  - "King Room with Sea View"\n  - "Deluxe Suite with Sea View"\nnearbyRestaurants:\n  - "At Çiftliği 20 m"\n  - "Hotel Espana 650 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 700 m"\n  - "Golem Beach 1.3 km"\n  - "Durres Beach 1.6 km"\n  - "Mali I Robit Beach 3.2 km"\n  - "Qerret Beach 5 km"\nwhatsNearby:\n  - "Bekimi 7 km"\n  - "Wine Dhe Pooh 8 km"\n  - "Durres Amphiteatre 8 km"\n  - "Yje Dhe Hena 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "1. Maj 8 km"\n  - "Sotir Noka 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Rebecca"\n    country: "Egypt"\n    text: "“- amazing views from the room (we had a balcony with sea view: perfect to watch the sunset from here)
+- modern room with big/cosy bed and spacious bathroom
+- easy check in with friendly staff
+- amazing dinner options in the hotel restaurant...”"\n  - name: "Daria"\n    country: "United Kingdom"\n    text: "“beautiful hotel! very big rooms with beautiful views. horse riding was offered to us which we thought was a very sweet addition to our stay even though we have decided not to take part. Breakfast included- nice but not exciting”"\n  - name: "Thomas"\n    country: "Germany"\n    text: "“Tolle Lage! Spannender Ort. Pferde für die Kinder, sehr gutes Essen, toller Blick und eine schöne Terrasse. Wir waren zum Glück in der Nachsaison, sodass wir den Ort nicht mit so vielen Leuten teilen müssen - im Hochsommer bestimmt sehr gut...”"\nbookingURL: "https://www.booking.com/hotel/al/kodra-e-kuajve.en-gb.html?aid=8035640"\nbestFor: "Best for Resort Experience"\nbestCategories: "Resort Experience"\ncategory: "Resort Experience"\n---\n\nGuests at Kodra e Kuajve are treated to a range of amenities designed to enhance their experience. The resort features a children's playground, perfect for families seeking a relaxing getaway. For those looking to unwind, a hot tub is available, alongside the convenience of a 24-hour front desk, ensuring all needs are met around the clock.
 
 Accommodations at Kodra e Kuajve are thoughtfully equipped with modern comforts. Each room includes a coffee machine, a TV, and, in select rooms, a balcony to enjoy the serene surroundings. A fridge is also provided in all guest rooms, adding an extra layer of convenience to the stay.
 
 Culinary delights await at Kodra e Kuajve, where guests can start their day with a choice of a buffet or Italian breakfast. The on-site restaurant serves a variety of international cuisine, catering to diverse palates and offering a memorable dining experience.
 
 Located just 7 km from the Port of Durres and 22 km from Tirana International Mother Teresa Airport, Kodra e Kuajve offers both seclusion and accessibility, making it a preferred choice for those seeking a peaceful retreat within easy reach of local attractions and transport hubs.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

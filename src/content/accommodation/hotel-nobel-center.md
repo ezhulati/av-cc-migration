@@ -1,30 +1,7 @@
----
-title: HOTEL NOBEL CENTER
-description: Guests at HOTEL NOBEL CENTER are treated to rooms equipped with modern amenities such as air conditioning, flat-screen TVs with cable channels, refrigerators, a
-featuredImage: "/images/accommodation/492310708.jpg"
-language: en
-slug: hotel-nobel-center
-location: ""
-amenities: []
-images: []
----
-
-Guests at HOTEL NOBEL CENTER are treated to rooms equipped with modern amenities such as air conditioning, flat-screen TVs with cable channels, refrigerators, and kettles, ensuring a stay that blends relaxation with the comforts of home. The inclusion of a private bathroom, complete with a bath, hairdryer, and complimentary toiletries, adds an extra layer of convenience, while the city views from the rooms offer a glimpse into the bustling life of Tirana.
+---\ntitle: "HOTEL NOBEL CENTER"\ndescription: "HOTEL NOBEL CENTER emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492310708.jpg?k=7f79660b4919402aa21ccdf0f5cd802d72912e281ea9e096742059f713cb6bf4&o=&hp=1"\nlanguage: en\nslug: hotel-nobel-center\naddress: "Rruga Urani Pano Rruga Urani Pano, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.33045562\n  lng: 19.81859946\nprice: "US$59"\npriceFrom: 59\nstarRating: 3\nrating: 8.6\nratingWords: "Very Good"\nnumberOfReviews: 476\nratings:\n  overall: 8.6\n  location: 9.5\n  cleanliness: 8.4\n  facilities: 7.6\n  value: 8.4\n  comfort: 8\n  staff: 8.6\n  wifi: 9.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492310708.jpg?k=7f79660b4919402aa21ccdf0f5cd802d72912e281ea9e096742059f713cb6bf4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484684699.jpg?k=0102ca69e17219e72e3c89374646cdc8685a1b46592aa77057bfdaf1142d935e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525006007.jpg?k=7e0d9c466ce37b2de8c6c912d527e55b40bc192cca0bca972b8472bb7d1abc44&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481917061.jpg?k=46d6921d3fb5166b601174a037e13e84d86894e6ba757dc4fffcacb9987336e1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525006364.jpg?k=8fdb52ff4d781ade9751c9334a9c68c7bfdf45e0edf14184a26907b1705b9cfe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387681684.jpg?k=5dff89a9a066178035ec8b2c514b633c1d659457265934276b90c4969e6ddc60&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Triple Room"\nnearbyAttractions:\n  - "Rinia Park 650 m"\n  - "Tanners' Bridge 750 m"\n  - "Former Residence of Enver Hoxha 1.1 km"\n  - "Grand Park of Tirana 2.1 km"\n  - "Bunk'Art 1 Museum 4.1 km"\nnearbyRestaurants:\n  - "Street Food 12 10 m"\n  - "Bar - Restorant Kastrati 10 m"\nwhatsNearby:\n  - "National Museum of History Albania 150 m"\n  - "Sheshi Skënderbej 250 m"\n  - "Skanderbeg Square 300 m"\n  - "Clock Tower Tirana 300 m"\n  - "Sheshi Paris 350 m"\n  - "Amazing Nature 350 m"\n  - "Parku Europa 350 m"\n  - "Sheshi Sulejman Pasha 350 m"\n  - "House of Leaves 450 m"\n  - "National Gallery of Arts Tirana 500 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Paul"\n    country: "United Kingdom"\n    text: "“Great location, once building is finished it will be a brilliant little hotel.”"\n  - name: "Leon"\n    country: "United Kingdom"\n    text: "“Very good very cheap definitely value for money, would recommend, shops and bars very close, walking distance from almost all the sites within the city”"\n  - name: "Gentian"\n    country: "Poland"\n    text: "“Great location , at the city center . Delicious food”"\nbookingURL: "https://www.booking.com/hotel/al/nobel-center.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests at HOTEL NOBEL CENTER are treated to rooms equipped with modern amenities such as air conditioning, flat-screen TVs with cable channels, refrigerators, and kettles, ensuring a stay that blends relaxation with the comforts of home. The inclusion of a private bathroom, complete with a bath, hairdryer, and complimentary toiletries, adds an extra layer of convenience, while the city views from the rooms offer a glimpse into the bustling life of Tirana.
 
 The hotel distinguishes itself with services designed to make each stay hassle-free, including a 24-hour front desk, airport transfers, room service, and the luxury of free WiFi. For those arriving by car, private parking is an added benefit, providing peace of mind throughout their visit.
 
 Starting each day on a high note, guests can enjoy an à la carte breakfast, a perfect way to fuel up before exploring the city. The hotel's proximity to notable attractions such as the Former Residence of Enver Hoxha, National Museum of History Albania, and House of Leaves means that guests are never far from delving into the rich history and culture of Tirana.
 
 For travelers flying into the area, the convenience of being just 14 km from Tirana International Mother Teresa Airport makes HOTEL NOBEL CENTER an ideal gateway to exploring the enchanting city of Tirana and its surroundings.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

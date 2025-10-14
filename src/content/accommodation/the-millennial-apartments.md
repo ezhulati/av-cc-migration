@@ -1,30 +1,7 @@
----
-title: The Millennial Apartments
-description: Every apartment within this establishment is air-conditioned, ensuring a cool retreat from the bustling city life. Guests can expect to find a suite of amenitie
-featuredImage: "/images/accommodation/449627568.jpg"
-language: en
-slug: the-millennial-apartments
-location: ""
-amenities: []
-images: []
----
-
-Every apartment within this establishment is air-conditioned, ensuring a cool retreat from the bustling city life. Guests can expect to find a suite of amenities including a private bathroom, a flat-screen TV for entertainment, a fully equipped kitchen for those who love to cook, and a terrace to enjoy the fresh air and perhaps a morning cup of coffee or an evening glass of wine.
+---\ntitle: "The Millennial Apartments"\ndescription: "The Millennial Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience, situated just a short stroll from the vibrant Skanderbeg Square."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449627568.jpg?k=9d3e3c08201024cc1f93f9141743385cc42215f35e3e02037a061eed8b817717&o=&hp=1"\nlanguage: en\nslug: the-millennial-apartments\naddress: "Rruga Kostandin Kristoforidhi 31/1, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32920414\n  lng: 19.82242699\nprice: "US$103"\npriceFrom: 103\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449627568.jpg?k=9d3e3c08201024cc1f93f9141743385cc42215f35e3e02037a061eed8b817717&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449627207.jpg?k=22d9b8ab6899909962008d26fbf8ad8ba7d57db02aba969c200ee48f7c550f4e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449627480.jpg?k=cdd03720019cc0557254c902b247151f848d2790635079b6ea0e9b1981dfc914&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449627501.jpg?k=4da6e27aefba8de0f6809e6414524562833ec00c5fe8e593a1e2c5d0171f30cc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449627370.jpg?k=52512911a5843fa83f3352761804e2614ed91182acaa1c79871782b3403aba3f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449627395.jpg?k=a14bbc25fe2031970d2a4f651cd79270b0238ec5e536f4ccaa244d6eb6d39114&o=&hp=1"\namenities:\n  - "Private parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "One-Bedroom Apartment"\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 550 m"\n  - "Rinia Park 600 m"\n  - "Former Residence of Enver Hoxha 1 km"\n  - "Grand Park of Tirana 1.9 km"\n  - "Bunk'Art 1 Museum 3.9 km"\nnearbyRestaurants:\n  - "Happy Times 10 m"\n  - "Ama 30 m"\nwhatsNearby:\n  - "Sheshi Sulejman Pasha 100 m"\n  - "Clock Tower Tirana 300 m"\n  - "Skanderbeg Square 300 m"\n  - "Parku Europa 350 m"\n  - "Sheshi Rekreativ tek ish ATSh 350 m"\n  - "National Gallery of Arts Tirana 350 m"\n  - "Sheshi Skënderbej 400 m"\n  - "National Museum of History Albania 400 m"\n  - "Tanners' Bridge 450 m"\n  - "Parku Rinia 500 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/city-center-apartments-tirane.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEvery apartment within this establishment is air-conditioned, ensuring a cool retreat from the bustling city life. Guests can expect to find a suite of amenities including a private bathroom, a flat-screen TV for entertainment, a fully equipped kitchen for those who love to cook, and a terrace to enjoy the fresh air and perhaps a morning cup of coffee or an evening glass of wine.
 
 Connectivity is never an issue, as complimentary WiFi blankets the property, ensuring guests stay connected with the world or plan their next day's adventure in Tirana. For those arriving by car, the convenience of private parking on site is a notable perk, removing any worries about the safety of their vehicle.
 
 The location of The Millennial Apartments places guests in the vicinity of several of Tirana's must-see attractions. The historical Former Residence of Enver Hoxha, the bustling Toptani Shopping Centre, and the prestigious National Theatre of Opera and Ballet of Albania are all within easy reach, promising a rich cultural experience. For those looking to explore beyond the city, the Dajti Ekspres Cable Car offers breathtaking views and is only a short drive away, while the Rock of Kavaje presents an opportunity for a scenic day trip.
 
 Accessibility is further enhanced by the proximity to Tirana International Mother Teresa Airport, just 14 km away, making The Millennial Apartments an ideal base for both short visits and longer stays in Albania's captivating capital.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

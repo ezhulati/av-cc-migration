@@ -1,28 +1,5 @@
----
-title: Lian Apartament
-description: Guests at Lian Apartment are treated to a well-appointed, air-conditioned space that boasts a generous layout, ensuring a comfortable stay. The apartment featur
-featuredImage: "/images/accommodation/306842329.jpg"
-language: en
-slug: lian-apartament
-location: ""
-amenities: []
-images: []
----
-
-Guests at Lian Apartment are treated to a well-appointed, air-conditioned space that boasts a generous layout, ensuring a comfortable stay. The apartment features a modern flat-screen TV in its spacious living area and is equipped with a bedroom that promises restful nights. For added convenience, towels and bed linen are thoughtfully provided, enhancing the home-away-from-home experience.
+---\ntitle: "Lian Apartament"\ndescription: "Lian Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, positioned just a short distance from the pristine Vlore Beach and within easy reach of the city's notable landmarks such as Vjetër Beach and Kuzum Baba."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306842329.jpg?k=e3e0117e0b030dd7a1598a0e91ca67f762e1326f9237067fc310cc232c9ed3d3&o=&hp=1"\nlanguage: en\nslug: lian-apartament\naddress: "Rruga Francesko Krispi, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.43971138\n  lng: 19.49855514\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306842329.jpg?k=e3e0117e0b030dd7a1598a0e91ca67f762e1326f9237067fc310cc232c9ed3d3&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Pizzeria City 250 m"\n  - "Taverna del Mare 250 m"\nnearbyBeaches:\n  - "Vlore Beach 450 m"\n  - "Ri Beach 550 m"\n  - "Vjetër Beach 2 km"\n  - "Beach at Government Villas 2.4 km"\n  - "Liro Beach 3.1 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 450 m"\n  - "Kuzum Baba 3.1 km"\n  - "Independence Square 3.5 km"\nbookingURL: "https://www.booking.com/hotel/al/lian-apartament.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Lian Apartment are treated to a well-appointed, air-conditioned space that boasts a generous layout, ensuring a comfortable stay. The apartment features a modern flat-screen TV in its spacious living area and is equipped with a bedroom that promises restful nights. For added convenience, towels and bed linen are thoughtfully provided, enhancing the home-away-from-home experience.
 
 One of the notable amenities includes the availability of a minimarket on the premises, allowing guests to easily procure essentials without having to venture far. Additionally, the provision of private parking and complimentary WiFi adds to the seamless experience, ensuring that both leisure and business travelers have their needs met.
 
 Located merely 700 meters from Ri Beach and a stone's throw away from Independence Square, Lian Apartment not only offers a peaceful haven but also keeps guests connected to the pulse of Vlorë. For those traveling to or from the city by air, the Tirana International Mother Teresa Airport is accessible, located 153 km away, making Lian Apartment a convenient base for exploring the region's attractions and natural beauty.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

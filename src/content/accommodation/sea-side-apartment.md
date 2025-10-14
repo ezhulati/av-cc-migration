@@ -1,28 +1,5 @@
----
-title: Sea-Side Apartment
-description: The apartment distinguishes itself with its thoughtful amenities, including complimentary private parking and high-speed WiFi, ensuring a hassle-free stay. Gues
-featuredImage: "/images/accommodation/473678293.jpg"
-language: en
-slug: sea-side-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment distinguishes itself with its thoughtful amenities, including complimentary private parking and high-speed WiFi, ensuring a hassle-free stay. Guests will find themselves in a smoke-free environment, accentuating the property's commitment to providing a clean and healthy atmosphere.
+---\ntitle: "Sea-Side Apartment"\ndescription: "Sea-Side Apartment emerges as a prime choice for travelers seeking a blend of comfort and scenic beauty in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473678293.jpg?k=f687ae908b4e27b06d20279f56b4e50199602067f021989202b115b03ca3353b&o=&hp=1"\nlanguage: en\nslug: sea-side-apartment\naddress: "Vlore Lungomare, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.43648319\n  lng: 19.49574883\nprice: "US$39"\npriceFrom: 39\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 9\nratings:\n  overall: 9.6\n  location: 9.7\n  cleanliness: 9.7\n  facilities: 9.4\n  value: 9.7\n  comfort: 9.7\n  staff: 9.4\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473678293.jpg?k=f687ae908b4e27b06d20279f56b4e50199602067f021989202b115b03ca3353b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473678345.jpg?k=f9a6157c28c997a0991e33589a58284064582879371c9c17a7e6ac581e1a6aa6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473678310.jpg?k=60740f5eee2f34d4f07f6059fd59b24228dbf2132ff3c2f25a2199dc4b7920ba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473678326.jpg?k=990d90c2a6b30d4b5143604466fd4035d898b4e69b457929a333ef3d8d825443&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474025894.jpg?k=1eaaaa9c4c9394eaf9d5788352cf85a86290be2ca99810d5a1b45e98801018a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473678308.jpg?k=cf9b8e4890e7948a645f62332954b4d1d5a2d8ba10191d5a909ebe491825256c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473678318.jpg?k=d2ee212971465b642a2f808d34f9a93ffc5e4178be2537aebbaf133b38b6e3f2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473678312.jpg?k=27fdd3097a16a1bdf422c562dc9034275eb7fb40a6b6b0834861809a813fed57&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473678348.jpg?k=e8d8c82676f0cdd524901a1b9ab38792e5b0b7f287a49a7e33712814ebec66ff&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyBeaches:\n  - "Ri Beach 150 m"\n  - "Vlore Beach 700 m"\n  - "Beach at Government Villas 2 km"\n  - "Vjetër Beach 2.1 km"\n  - "Liro Beach 2.7 km"\nreviews:\n  - name: "Monique"\n    country: "Netherlands"\n    text: "“Great appartment and really close to the beach. The host was extremely kind and helpfull”"\n  - name: "Dimic"\n    country: "Serbia"\n    text: "“This is a great place to stay, great location - just in front of the beach. The owner and her mother are very welcoming and friendly. We wholeheartedly recommend Sea side appartments.”"\n  - name: "Yevheniia"\n    country: "United Kingdom"\n    text: "“Дуже чиста, світла та комфортна квартира. Є вся необхідна сучасна побутова техніка( духовка, пральна машина, мікрохвильова піч, телевізор. Великий просторий балкон з видом на гори. Квартира знаходиться в дуже зручному розташуванні. Поруч відразу...”"\nbookingURL: "https://www.booking.com/hotel/al/sea-side-apartment-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe apartment distinguishes itself with its thoughtful amenities, including complimentary private parking and high-speed WiFi, ensuring a hassle-free stay. Guests will find themselves in a smoke-free environment, accentuating the property's commitment to providing a clean and healthy atmosphere.
 
 Accommodation at Sea-Side Apartment is designed with guest comfort in mind. The air-conditioned 1-bedroom apartment is well-appointed with a fully equipped kitchen, a cozy seating area, and a flat-screen TV, perfect for those moments of relaxation. The addition of a private entrance enhances the sense of privacy and exclusivity.
 
 For those interested in exploring the local culture and landmarks, Kuzum Baba and Independence Square are within easy reach, located 3.9 km and 4.2 km away, respectively. Moreover, for international travelers, the convenience of Tirana International Mother Teresa Airport, situated 153 km from the apartment, makes Sea-Side Apartment an accessible haven of tranquility and comfort.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

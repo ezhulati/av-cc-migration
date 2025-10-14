@@ -1,30 +1,8 @@
----
-title: Luani A Hotel
-description: Each air-conditioned room at Luani A Hotel is a testament to thoughtful hospitality, featuring free WiFi, private bathrooms, and essential amenities designed fo
-featuredImage: "/images/accommodation/74903554.jpg"
-language: en
-slug: luani-a-hotel
-location: ""
-amenities: []
-images: []
----
-
-Each air-conditioned room at Luani A Hotel is a testament to thoughtful hospitality, featuring free WiFi, private bathrooms, and essential amenities designed for modern travelers. The inclusion of a wardrobe, desk, and flat-screen TV in every room, along with select rooms offering balconies, underscores the hotel's commitment to guest satisfaction. The seating area in all rooms adds an extra layer of comfort, making it easy for guests to feel at home.
+---\ntitle: "Luani A Hotel"\ndescription: "Luani A Hotel emerges as a charming retreat in the heart of Shkodër, located a mere 45 km from the bustling Port of Bar."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/74903554.jpg?k=fe0bc5267b24be2f8962e865f2f69cdd796c5b1e4e94d118e0e57c420f201030&o=&hp=1"\nlanguage: en\nslug: luani-a-hotel\naddress: "L. Ali Begaj Rr. Agron, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.04556676\n  lng: 19.4899714\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 116\nratings:\n  overall: 8.4\n  location: 8.2\n  cleanliness: 8.3\n  facilities: 8\n  value: 8.2\n  comfort: 8.2\n  staff: 8.8\n  wifi: 9.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/74903554.jpg?k=fe0bc5267b24be2f8962e865f2f69cdd796c5b1e4e94d118e0e57c420f201030&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/76112611.jpg?k=3033a7317b7f5a399e985b1df2adc52c1200b3d0d0844f8e6c52eea04091b006&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/76112596.jpg?k=5c15705d16ba54fdd6c08e4f1019b3e04754ea8753f9ceb50697857ade7bc7fd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/74903929.jpg?k=eef0dfed769687816317dce65f036344dfcf551f8755a943f90343769b524c69&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73964040.jpg?k=c34db466710142b9df7f170a96f19c735e628b39bb8870fcec80ce0029f34196&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110220240.jpg?k=4565cf8f857dcdf01748e336014dd6561c17d17840caa80482b9e63d5f8b13e5&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Single Room with Mountain View"\n  - "Double Room"\n  - "Twin Room with Balcony"\nnearbyRestaurants:\n  - "Bar Unik 200 m"\n  - "Legjenda Bar-Restorant 250 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 350 m"\n  - "National Park Skadar Lake 9 km"\nairports:\n  - "Podgorica Airport 39 km"\n  - "Tirana International Airport Mother Teresa 71 km"\n  - "Tivat Airport 73 km"\nreviews:\n  - name: "Przemysław"\n    country: "Poland"\n    text: "“Good place to spend a night at in Shkoder, very close to the castle, my apartament nad a nice river view. Around 20 minute walk from the city center. Very friendly and helpful host and Staff.”"\n  - name: "Sajeel"\n    country: "United Kingdom"\n    text: "“Good location. Located at the busiest roundabout making ideal for exiting to northern areas or returning to
+Tirana.”"\n  - name: "David"\n    country: "United Kingdom"\n    text: "“The staff were very helpful and were happy for me to have my bicycle in the spacious room. Nice omelette breakfast in the morning.”"\nbookingURL: "https://www.booking.com/hotel/al/luani-a.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nEach air-conditioned room at Luani A Hotel is a testament to thoughtful hospitality, featuring free WiFi, private bathrooms, and essential amenities designed for modern travelers. The inclusion of a wardrobe, desk, and flat-screen TV in every room, along with select rooms offering balconies, underscores the hotel's commitment to guest satisfaction. The seating area in all rooms adds an extra layer of comfort, making it easy for guests to feel at home.
 
 Families will find Luani A Hotel particularly appealing, thanks to its dedicated kids' club and children's playground, ensuring that younger guests are entertained throughout their stay. For those seeking to explore the natural beauty and activities around Shkodër, the hotel serves as an ideal base for adventures such as fishing.
 
 The multilingual staff at the reception, proficient in both English and Italian, are always on hand to assist guests, ensuring a seamless and hassle-free experience. For travelers arriving from afar, the hotel's paid airport shuttle service from Podgorica Airport, located 61 km away, provides a convenient connection to this tranquil oasis.
 
 Luani A Hotel stands out not only for its comprehensive amenities but also for its ability to create a welcoming atmosphere where every guest's needs are anticipated and met with genuine care.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

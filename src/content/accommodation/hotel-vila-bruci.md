@@ -1,26 +1,3 @@
----
-title: Hotel Vila Bruci
-description: "Each room, equipped with a television and boasting a private bathroom, ensures a stay that blends modern amenities with the coziness of home."
-featuredImage: "/images/accommodation/484490506.jpg"
-language: en
-slug: hotel-vila-bruci
-location: ""
-amenities: []
-images: []
----
-
-Each room, equipped with a television and boasting a private bathroom, ensures a stay that blends modern amenities with the coziness of home. The commitment to guest comfort is further underscored by the availability of free WiFi across the hotel, ensuring connectivity and convenience are always within reach.
+---\ntitle: "Hotel Vila Bruci"\ndescription: "Hotel Vila Bruci emerges as a serene retreat in Burrel, offering guests a blend of comfort and convenience with its air-conditioned rooms and complimentary private parking."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484490506.jpg?k=3d9cbca0bc7e6f56fce549d8e3cf0eb60ebfe2d5ec6cc34f3ba77f8e5d331e2c&o=&hp=1"\nlanguage: en\nslug: hotel-vila-bruci\naddress: "\"Ibrahim Temo\", 8001 Burrel, Albania"\ncity: "Burrel"\nlocation: "Burrel"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.61400452\n  lng: 20.01292978\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 69\nratings:\n  overall: 9\n  location: 9.2\n  cleanliness: 8.9\n  facilities: 8.3\n  value: 9.1\n  comfort: 9\n  staff: 9.8\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484490506.jpg?k=3d9cbca0bc7e6f56fce549d8e3cf0eb60ebfe2d5ec6cc34f3ba77f8e5d331e2c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484490489.jpg?k=34e578ac5d9cb5efc2e05bbe445a60068deb87ba18567c87f5f5c08b5b56fcb8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484490473.jpg?k=980d1ff13aa9aab2f18e8fbce3a0fbede7f08b7527da18a915ce2d594ea4fffd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484490490.jpg?k=0b072a96bc2f45a508fe2835c51bf70346e375ece7133939fc6c33671e4d8ef9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484490498.jpg?k=8996d6efc76b2962743a6d65feb0e23cd79a195126cf2a60102272b3ff112f64&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484490491.jpg?k=5d9ebcde428627444da422376f7370eb8642c1838155e81e4fdb3f8314e8125a&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Room service"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Facilities for disabled guests"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Balcony"\n  - "Twin Room with Balcony"\nnearbyRestaurants:\n  - "Vila Meris 350 m"\n  - "Bar Muca 600 m"\nwhatsNearby:\n  - "Dajti Mountain National Park 13 km"\n  - "Sofra e Kthelles 15 km"\n  - "Lure National Park 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 32 km"\n  - "Ohrid Airport 77 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "David"\n    country: "United Kingdom"\n    text: "“Lovely clean rooms air conditioning and exceptionally friendly staff who went above and beyond”"\n  - name: "Sebastian"\n    country: "Austria"\n    text: "“Nice Family owned Business, room had everything we needed, delicious food and breakfast. Highly recommend”"\n  - name: "Andy"\n    country: "United Kingdom"\n    text: "“Lovely clean and quiet rooms with beautiful views from the veranda”"\nbookingURL: "https://www.booking.com/hotel/al/vila-bruci-burrel2.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach room, equipped with a television and boasting a private bathroom, ensures a stay that blends modern amenities with the coziness of home. The commitment to guest comfort is further underscored by the availability of free WiFi across the hotel, ensuring connectivity and convenience are always within reach.
 
 Adding to the allure, Hotel Vila Bruci offers room service, allowing guests to enjoy the luxury of dining in the privacy of their rooms. Its location proves to be an ideal base for exploring, situated just 90 km from the vibrant city of Tirana and 87 km from Tirana Airport, making it both an accessible and enticing option for travelers seeking both relaxation and adventure.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

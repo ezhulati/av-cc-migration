@@ -1,26 +1,5 @@
----
-title: Martin Villa Gjirokaster
-description: Accommodations at Martin Villa Gjirokaster are thoughtfully appointed with balconies that frame breathtaking mountain views, creating a perfect backdrop for rel
-featuredImage: "/images/accommodation/478080071.jpg"
-language: en
-slug: martin-villa-gjirokaster
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Martin Villa Gjirokaster are thoughtfully appointed with balconies that frame breathtaking mountain views, creating a perfect backdrop for relaxation. Each room is a haven of comfort, featuring a cozy seating area, a flat-screen TV for entertainment, and a fully equipped kitchenette with a fridge and stovetop, catering to the culinary needs of guests. The private bathrooms are well-appointed with showers and slippers, adding a touch of home-like comfort. For a delightful surprise, guests are welcomed with fresh fruits, adding a personal touch to the experience. The villa ensures a seamless stay by providing essential amenities such as bed linen and towels in every unit.
+---\ntitle: "Martin Villa Gjirokaster"\ndescription: "Martin Villa Gjirokaster emerges as a serene retreat, located a mere 44 km from the tranquil Zaravina Lake."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478080071.jpg?k=cd519cd64483bf52b125616988389ec3448a2ea42f2ea14cf6a6c519f97a50fe&o=&hp=1"\nlanguage: en\nslug: martin-villa-gjirokaster\naddress: "Rruga Gjirokastër, Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.0776621\n  lng: 20.1379506\nprice: "US$59"\npriceFrom: 59\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 9\nratings:\n  overall: 10\n  location: 9.7\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478080071.jpg?k=cd519cd64483bf52b125616988389ec3448a2ea42f2ea14cf6a6c519f97a50fe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479964436.jpg?k=3e9b1a600e7365ce6673e232baf8d1e7187ef3398b7e59ffaaa200f722e9a8ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479789494.jpg?k=04c8f89aa970984cde0fe15b6d2e518b1e120a03fcf0dd3477fb01afaabf5fb8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479964514.jpg?k=74e34413012fbc11e775b9708bc91e15d83df499d5f21575118c147f8abd749b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479965494.jpg?k=7b8acd05c50c9a50980e492fbfababb38c492617960457d9b7b282a62c7ad4e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479964486.jpg?k=eccd731950dc766ff3d009e0a67ca4d636100038beb75a4e3202d6f503524557&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Good free WiFi (41 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "Standard Villa"\n  - "Superior Villa"\nnearbyRestaurants:\n  - "Taverna Kufoi 50 m"\n  - "Te Raqi 100 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Ina"\n    country: "Albania"\n    text: "“We had a great stay at Martin Villa.
+Centrally located with walking distance to the main attractions.
+The apartment was super clean, comfortable, newly renovated and had all the facilities, The host is very friendly and gives detailed suggestions...”"\n  - name: "Bas"\n    country: "Netherlands"\n    text: "“The host and her family are very friendly and helpful. And the location of the apartment is excellent and quiet, in the centre of the old town near the bustling and charming streets”"\n  - name: "Daphne"\n    country: "Netherlands"\n    text: "“Comfortabele, ruime, schone accommodatie met mooi uitzicht vanaf het balkon. Gezellig en sfeervol ingericht. Alle faciliteiten deden het goed. Super vriendelijke en hartelijke eigenaren. Moeder en dochter spreken goed Engels en waren zeer...”"\nbookingURL: "https://www.booking.com/hotel/al/martin-vila.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Martin Villa Gjirokaster are thoughtfully appointed with balconies that frame breathtaking mountain views, creating a perfect backdrop for relaxation. Each room is a haven of comfort, featuring a cozy seating area, a flat-screen TV for entertainment, and a fully equipped kitchenette with a fridge and stovetop, catering to the culinary needs of guests. The private bathrooms are well-appointed with showers and slippers, adding a touch of home-like comfort. For a delightful surprise, guests are welcomed with fresh fruits, adding a personal touch to the experience. The villa ensures a seamless stay by providing essential amenities such as bed linen and towels in every unit.
 
 Situated at a convenient distance, the Ioannina Airport is 83 km away, making Martin Villa Gjirokaster an accessible escape for both local and international travelers seeking a blend of tranquility and comfort amidst nature's beauty.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

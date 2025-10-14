@@ -1,30 +1,7 @@
----
-title: Luxury Apartment 10
-description: This elegantly appointed apartment features a single bedroom, complemented by a fully equipped kitchen and a modern bathroom, ensuring a stay that combines luxu
-featuredImage: "/images/accommodation/461962387.jpg"
-language: en
-slug: luxury-apartment-10
-location: ""
-amenities: []
-images: []
----
-
-This elegantly appointed apartment features a single bedroom, complemented by a fully equipped kitchen and a modern bathroom, ensuring a stay that combines luxury with the comforts of home. Entertainment needs are well catered for with the inclusion of a flat-screen TV, and guests can enjoy the convenience of complimentary WiFi throughout their stay, keeping them connected and entertained.
+---\ntitle: "Luxury Apartment 10"\ndescription: "Luxury Apartment 10 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461962387.jpg?k=eeb92d900468eee6c3c3012f3d9f6afd31ee5cf138f7113cede7386e096cfe59&o=&hp=1"\nlanguage: en\nslug: luxury-apartment-10\naddress: "Rruga e Dibrës, 1010 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.34036124\n  lng: 19.82940437\nprice: "US$51"\npriceFrom: 51\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461962387.jpg?k=eeb92d900468eee6c3c3012f3d9f6afd31ee5cf138f7113cede7386e096cfe59&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461962493.jpg?k=337ffc5709ceeb812efdaf53a87a1303514d39f8c64e4bf4941fe8e9a576ffb4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461962508.jpg?k=4296ef443d81d5c8b55074050a066cf5d63163702b10c387c9893a4168ee6c18&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461962463.jpg?k=d362dd4d863806770a6538ab7182f42eb757c5e60281a6dbf14bbe376a010d4f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461962548.jpg?k=73e1d5d3d6cc889c9f0de3b4091ca285e89eea666be853d00013e2991a88d26a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461962539.jpg?k=c3d3affc01edbb9ee1add6ac503af917f0b610a5dd0ccf294efd331757a31d56&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461962487.jpg?k=974ae339409069245ce713e50a03f14fcb32b31adc20e75069723c64e5675165&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461962520.jpg?k=6c351fb92704f316de50850d9e52b6029ae04f77d18a9d8b7902f5e0c3c8c0eb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492140241.jpg?k=42cd0523ad58462cf47c8c883f35e39e2a34482761da368a2cf7f286af085e8d&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Skanderbeg Square 1.6 km"\n  - "National Gallery of Arts Tirana 1.7 km"\n  - "House of Leaves 1.9 km"\n  - "Rinia Park 2 km"\n  - "Former Residence of Enver Hoxha 2.4 km"\n  - "Bunk'Art 1 Museum 2.8 km"\n  - "Grand Park of Tirana 3.2 km"\nnearbyRestaurants:\n  - "Bon SE Sugar 50 m"\n  - "Bar Restorant Shoqeria 100 m"\nwhatsNearby:\n  - "Sheshi Jjosef Shtraus 850 m"\n  - "Sheshi Rekreativ Gjolek Kokona 1,000 m"\n  - "Sheshi Rekreativ Allias 1 km"\n  - "Amazing Nature 1.2 km"\n  - "Sheshi Rekreativ tek ish ATSh 1.4 km"\n  - "Sheshi Sulejman Pasha 1.5 km"\n  - "Tanners' Bridge 1.6 km"\n  - "National Museum of History Albania 1.6 km"\n  - "Clock Tower Tirana 1.6 km"\n  - "Sheshi Skënderbej 1.6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 78 km"\nbookingURL: "https://www.booking.com/hotel/al/deluxe-apartment-no-10.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis elegantly appointed apartment features a single bedroom, complemented by a fully equipped kitchen and a modern bathroom, ensuring a stay that combines luxury with the comforts of home. Entertainment needs are well catered for with the inclusion of a flat-screen TV, and guests can enjoy the convenience of complimentary WiFi throughout their stay, keeping them connected and entertained.
 
 For those who appreciate the finer aspects of city living, Luxury Apartment 10 is ideally located just 2 km from Tanners' Bridge and 1.9 km from the iconic Clock Tower of Tirana, making it easy for guests to immerse themselves in the local culture. The vibrant Skanderbeg Square, a hub of activity and history, is only 1.7 km away.
 
 Cultural enthusiasts will find the apartment's location advantageous, with the National Theatre of Opera and Ballet of Albania, the National Museum of History, and the Toptani Shopping Centre all within easy reach. These nearby attractions offer a blend of cultural experiences and retail therapy to suit all interests.
 
 For ease of travel, the Tirana International Mother Teresa Airport is located just 14 km from the apartment, making Luxury Apartment 10 an ideal choice for both short visits and longer stays in Albania's captivating capital.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

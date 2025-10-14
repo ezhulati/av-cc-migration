@@ -1,28 +1,5 @@
----
-title: Bujtinat Peci
-description: The apartment itself is a study in thoughtful accommodation, featuring a single bedroom that promises restful nights. The presence of a fully equipped kitchen a
-featuredImage: "/images/accommodation/498497220.jpg"
-language: en
-slug: bujtinat-peci
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a study in thoughtful accommodation, featuring a single bedroom that promises restful nights. The presence of a fully equipped kitchen allows guests the freedom to craft their meals, adding a touch of home. The convenience is complemented by a modern bathroom and the entertainment needs are well catered to with a flat-screen TV, all within a smoke-free environment.
+---\ntitle: "Bujtinat Peci"\ndescription: "Bujtinat Peci emerges as a serene retreat in the heart of Elbasan, offering guests a unique blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498497220.jpg?k=be1c3466b8f0114749ed6eef80c218b63e583c78a8ec43d7327345fc1800d83e&o=&hp=1"\nlanguage: en\nslug: bujtinat-peci\naddress: "Gjinar rruga gjinar, 3014 Elbasan, Albania"\ncity: "Elbasan"\nlocation: "Elbasan"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.02152584\n  lng: 20.1982918\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498497220.jpg?k=be1c3466b8f0114749ed6eef80c218b63e583c78a8ec43d7327345fc1800d83e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/498497176.jpg?k=191ac6e2f434e7af8551973b29390ddd151a8ceb7b1287c9079f99cd16e6f59f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/498497223.jpg?k=a3c02593917a3e436582438096709442be346f812fb1e055e5b1f5c49866dcb0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/498497228.jpg?k=cfa3bf6e44da301662dbb01bc9bd25eb6faa29c7e157ed48257544518057540a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/498497232.jpg?k=bdfacbf868237e1bcf4a2690c33279fc23d6f405ad3fa807fe95f51e740873a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/498497234.jpg?k=c6d4e889edd0a8e325edd862ee9351dcc9001f3179df05a24b08456841f6563d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/498497237.jpg?k=99d7fdd229c4cf813fe0a2ccc945f75c3a46bc4e1c3a022bee5969df8a08565b&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Bar Restorant Endrra 300 m"\n  - "Mema Resort 10 km"\nairports:\n  - "Ohrid Airport 48 km"\n  - "Tirana International Airport Mother Teresa 58 km"\nbookingURL: "https://www.booking.com/hotel/al/bujtinat-peci.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nThe apartment itself is a study in thoughtful accommodation, featuring a single bedroom that promises restful nights. The presence of a fully equipped kitchen allows guests the freedom to craft their meals, adding a touch of home. The convenience is complemented by a modern bathroom and the entertainment needs are well catered to with a flat-screen TV, all within a smoke-free environment.
 
 For moments of leisure, the garden invites guests to unwind in its peaceful embrace.
 
 Situated a manageable distance from the Tirana International Mother Teresa Airport, which is 74 km away, Bujtinat Peci stands as an ideal choice for travelers seeking a blend of relaxation and accessibility in Elbasan.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

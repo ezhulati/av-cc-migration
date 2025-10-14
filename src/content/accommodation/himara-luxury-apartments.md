@@ -1,30 +1,7 @@
----
-title: Himara luxury apartments
-description: It is positioned just a stone's throw away from the pristine Spille Beach and within easy reach of Maracit and Prinos Beaches. This non-smoking property offers
-featuredImage: "/images/accommodation/371798831.jpg"
-language: en
-slug: himara-luxury-apartments
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Himara luxury apartments"\ndescription: "Himara Luxury Apartments emerges as a prime choice for travelers seeking comfort and convenience in Himare."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798831.jpg?k=aaada8b1072f1244bc7f246da8d4e20c62bf284359f6a44e70adb549e5207105&o=&hp=1"\nlanguage: en\nslug: himara-luxury-apartments\naddress: "Rruga Jorgji Bollano, 1001 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.10286325\n  lng: 19.7444926\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798831.jpg?k=aaada8b1072f1244bc7f246da8d4e20c62bf284359f6a44e70adb549e5207105&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798858.jpg?k=b871eedeb04ccc1ebdd6bacd572b02ff12417a40d1b4ab7a7167c108cc252c9e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798854.jpg?k=026313359b0d8bb4354d051b83aee63f41b9f2626a0bf9b9f2051fce8fcdb331&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798894.jpg?k=896186e72097a21e3289a17648ccc61d9f8c396a845521e7acbd656737745b92&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798880.jpg?k=5db653bac9516f436b9e6141575e143affb32268be0ef46b4f5f2d1c986873a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371862341.jpg?k=9f3b37abe8d3e4cd8383bacba72311ca3c4107a0e40456f7421fe93f0430edeb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798863.jpg?k=03104c55ef1ec898b3b70b550304bc075e2f1592f83cdba4545f33e356b55cf2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798869.jpg?k=635291320583f9fc03849fbcaa0f1355ce24c82845300690711bfd2a03a689a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371862816.jpg?k=c8677751b099d52f093f3bce26574c09ba024763d788bc53fdb58c51abf74332&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\nnearbyRestaurants:\n  - "Sunren 30 m"\n  - "Restorant Piceri Mumbas 50 m"\nnearbyBeaches:\n  - "Spille Beach 200 m"\n  - "Maracit Beach 450 m"\n  - "Prinos Beach 700 m"\n  - "Potam Beach 1.1 km"\n  - "Livadhi Beach 1.2 km"\nwhatsNearby:\n  - "Llogora National Park 16 km"\nairports:\n  - "Corfu International Airport 56 km"\nbookingURL: "https://www.booking.com/hotel/al/himara-apartments-himare1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nIt is positioned just a stone's throw away from the pristine Spille Beach and within easy reach of Maracit and Prinos Beaches. 
 
-It is positioned just a stone's throw away from the pristine Spille Beach and within easy reach of Maracit and Prinos Beaches.
+This non-smoking property offers guests a serene retreat with its air-conditioned spaces, including a separate bedroom, a cozy living room, a fully equipped kitchen for those who love to cook, and a modern bathroom. 
 
-This non-smoking property offers guests a serene retreat with its air-conditioned spaces, including a separate bedroom, a cozy living room, a fully equipped kitchen for those who love to cook, and a modern bathroom.
-
-Entertainment is readily available with a flat-screen TV, ensuring guests have a relaxing stay.
+Entertainment is readily available with a flat-screen TV, ensuring guests have a relaxing stay. 
 
 For those coming from afar, Ioannina Airport is located 143 km away, making Himara Luxury Apartments an accessible haven for local and international visitors.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

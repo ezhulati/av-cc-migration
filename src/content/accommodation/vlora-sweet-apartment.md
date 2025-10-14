@@ -1,28 +1,5 @@
----
-title: Vlora sweet apartment
-description: The apartment itself is a testament to convenience and comfort, featuring a cozy bedroom, a flat-screen TV for entertainment, a well-equipped kitchenette for th
-featuredImage: "/images/accommodation/471602497.jpg"
-language: en
-slug: vlora-sweet-apartment
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Vlora sweet apartment"\ndescription: "Vlora Sweet Apartment emerges as a charming retreat in the heart of Vlorë, offering a serene escape less than a kilometer from the pristine Ri Beach and a short distance from the bustling Vlore Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471602497.jpg?k=0955a7ab156621a37537125ef9a69c3ade54882bbb28f8d5e6112885bc146d73&o=&hp=1"\nlanguage: en\nslug: vlora-sweet-apartment\naddress: "Rruga Petro Marko Ap1, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.42749529\n  lng: 19.49386034\nprice: "US$52"\npriceFrom: 52\nstarRating: 3\nrating: 8\nratingWords: "Very Good"\nnumberOfReviews: 3\nratings:\n  overall: 8\n  location: 5.8\n  cleanliness: 8.3\n  facilities: 8.3\n  value: 8.3\n  comfort: 9.2\n  staff: 8.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471602497.jpg?k=0955a7ab156621a37537125ef9a69c3ade54882bbb28f8d5e6112885bc146d73&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467626282.jpg?k=7543f9e5a2013f6eb9460022d7aa4fc2cdfdae475374bca900c5697589620fd6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467626275.jpg?k=a0828a4fc55ad2a90bb387aeda4fe1ee7ae05b7475bb58949c9f7018d27afd78&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467626279.jpg?k=f539d7429016d63587497e12566171192d41d97260cd8a25dcdf604128a1ce27&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469649346.jpg?k=f58f67db253c7cff6b9e99f6419aa8f90cf3ad907d2e649891eeea17a0505d6b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485063524.jpg?k=1e7c6a3c1a12eff7b34516a75da6289b4ae74c76fbcb4e507be3bce5b7e056ca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467626270.jpg?k=a504f08c0c10f82dd7fafef37866ccb981208ef0b29cd554221e8a1e709098dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467626277.jpg?k=b0ddeb1a3f627426aa596d1d011060a48caba261a4323a2fa693352b08427300&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485064849.jpg?k=744b5d7dfcca29fc836c47391ef1f75c0c2e4179cc66fef3ffb8504822db09e6&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Bar Restorant Piceri Xhokla 150 m"\n  - "Meteor Bar 200 m"\nnearbyBeaches:\n  - "Ri Beach 300 m"\n  - "Beach at Government Villas 1 km"\n  - "Vlore Beach 1.7 km"\n  - "Liro Beach 1.8 km"\n  - "Coco Bongo Beach 2.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1,000 m"\n  - "Kuzum Baba 4.5 km"\n  - "Independence Square 4.8 km"\nairports:\n  - "Corfu International Airport 97 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Rosana"\n    country: "North Macedonia"\n    text: "“The host is very kind. The apartment is small, but well organized and clean. I recommend it. 😁”"\nbookingURL: "https://www.booking.com/hotel/al/vlora-home-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe apartment itself is a testament to convenience and comfort, featuring a cozy bedroom, a flat-screen TV for entertainment, a well-equipped kitchenette for those who enjoy crafting their meals, and the added convenience of a washing machine. The bathroom, equipped with a shower, ensures guests have everything they need for a comfortable stay.
 
-The apartment itself is a testament to convenience and comfort, featuring a cozy bedroom, a flat-screen TV for entertainment, a well-equipped kitchenette for those who enjoy crafting their meals, and the added convenience of a washing machine. The bathroom, equipped with a shower, ensures guests have everything they need for a comfortable stay.
-
-For those who find solace in nature, the apartment's garden offers a tranquil setting to unwind and relax.
+For those who find solace in nature, the apartment's garden offers a tranquil setting to unwind and relax. 
 
 Situated a mere 5.5 km from the iconic Independence Square, Vlora Sweet Apartment positions guests perfectly to explore the rich history and vibrant life of Vlorë. For international travelers, the Tirana International Mother Teresa Airport is 155 km away, making this apartment a convenient choice for both short and extended stays in this captivating region.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

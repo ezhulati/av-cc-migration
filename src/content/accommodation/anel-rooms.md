@@ -1,28 +1,7 @@
----
-title: Anel Rooms
-description: "Designed with a modern traveler in mind, the apartment features a spacious bedroom and a well-appointed bathroom equipped with a shower, ensuring a co..."
-featuredImage: "/images/accommodation/468649956.jpg"
-language: en
-slug: anel-rooms
-location: ""
-amenities: []
-images: []
----
-
-Designed with a modern traveler in mind, the apartment features a spacious bedroom and a well-appointed bathroom equipped with a shower, ensuring a comfortable stay. Entertainment needs are catered to with the inclusion of a flat-screen TV, making it an ideal retreat for relaxation after a day of sun and sea.
+---\ntitle: "Anel Rooms"\ndescription: "Anel Rooms emerges as a prime choice for travelers seeking a serene beachfront escape in Himare, perfectly positioned just steps away from Maracit Beach and a brief stroll from Spille Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468649956.jpg?k=57c891b56b6fe9bb57cbabf0cda70bbb932c9e332807cf8dd112b682f63febf0&o=&hp=1"\nlanguage: en\nslug: anel-rooms\naddress: "3PXX+VH8 Himarë Albania, 9422 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.09964993\n  lng: 19.74894971\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 34\nratings:\n  overall: 9.3\n  location: 9.9\n  cleanliness: 9.9\n  facilities: 9.3\n  value: 9.3\n  comfort: 9.5\n  staff: 10\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468649956.jpg?k=57c891b56b6fe9bb57cbabf0cda70bbb932c9e332807cf8dd112b682f63febf0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468650006.jpg?k=6fa5ecf7a09015b277b3b4607e8ac2e7d46657b67f52b91d9b770ba84549da3f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463028356.jpg?k=558919d83d5e561d8cebe87859deebce37a85dae9874c86f27cd574a7f6a4e6b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450840023.jpg?k=05f8fe8d068068a118b6df8e63d95da061e7fdd5b330d77436717305a5a59357&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450840886.jpg?k=e524ebf07fccbecca43f350b109617fa8a5fd748d9320c17407a4aa69d6c6c69&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451335703.jpg?k=8bb6bfae8f4cba1927f357dec1e40421dbaa8d8a4f569e7ef53c33543d1f0916&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463030649.jpg?k=6d490a37d938c644d9cc7739b74d6f2f4b2b20dda08fe795fe223beba04ef339&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450839766.jpg?k=c1b0c1009f3f819c818a60c41be03be61a98dd09e8b08cd9523f6d67296ca9e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450840553.jpg?k=e1a497f34b5e623f6a963070ef763fbf1b7841d8a4bf1012aed1c5916ed743c8&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Beachfront"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Restorant Maistro 100 m"\n  - "Orzo 100 m"\nnearbyBeaches:\n  - "Maracit Beach 5 m"\n  - "Spille Beach 150 m"\n  - "Prinos Beach 200 m"\n  - "Potam Beach 600 m"\n  - "Gjiri i Filikurit Beach 1.5 km"\nwhatsNearby:\n  - "Llogora National Park 17 km"\nairports:\n  - "Corfu International Airport 56 km"\nreviews:\n  - name: "Glen"\n    country: "Australia"\n    text: "“You cannot fault the location or the clean rooms. The owners are the nicest people you could meet. And the breakfast perfect.”"\n  - name: "Leonie"\n    country: "Germany"\n    text: "“We stayed here for 1 Week. After one week wild camping it was heaven. But nonetheless, even without wild camping, never did we experience a place with so much hospitality. The whole family was so welcoming.
+Big thanks goes to the mother:)
+The room...”"\n  - name: "Farah"\n    country: "United Arab Emirates"\n    text: "“This place probably has the best seaviews in himare. Directly on the beach with free access to the sunbeds right infront of the apartments. The room is big with comfortable beds. The rooms also come with a balcony which has unintterupted views to...”"\nbookingURL: "https://www.booking.com/hotel/al/anel-rooms.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nDesigned with a modern traveler in mind, the apartment features a spacious bedroom and a well-appointed bathroom equipped with a shower, ensuring a comfortable stay. Entertainment needs are catered to with the inclusion of a flat-screen TV, making it an ideal retreat for relaxation after a day of sun and sea.
 
 For those venturing from afar, the proximity to Ioannina Airport, located 143 km away, adds an element of ease to travel plans. Anel Rooms stands out as a non-smoking establishment, promising a clean and fresh environment, and is notably situated within 400 metres of the tranquil Prinos Beach, offering an additional option for beach enthusiasts.
 
 In summary, Anel Rooms presents itself as a compelling choice for guests in search of a peaceful beachside accommodation that combines comfort, convenience, and stunning natural beauty.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

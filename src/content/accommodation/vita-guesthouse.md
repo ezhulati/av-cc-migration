@@ -1,26 +1,3 @@
----
-title: VITA Guesthouse
-description: Each room at VITA Guesthouse is thoughtfully equipped with fresh bed linen and towels, ensuring a comfortable stay. For those planning day trips or preferring t
-featuredImage: "/images/accommodation/420913736.jpg"
-language: en
-slug: vita-guesthouse
-location: ""
-amenities: []
-images: []
----
-
-Each room at VITA Guesthouse is thoughtfully equipped with fresh bed linen and towels, ensuring a comfortable stay. For those planning day trips or preferring to dine al fresco, the guesthouse offers the option of packed lunches, prepared upon request.
+---\ntitle: "VITA Guesthouse"\ndescription: "VITA Guesthouse, located in the serene Kukës County region of Bajram Curri, offers a tranquil retreat with its well-maintained garden and inviting picnic area."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420913736.jpg?k=c10f9c5d7cc7c5e767f4d05dec015ea54a52b4b259f7fdb470d7fb338f259824&o=&hp=1"\nlanguage: en\nslug: vita-guesthouse\naddress: "Çerem, 8701 Bajram Curri, Albania"\ncity: "Bajram"\nlocation: "Bajram"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 42.49516765\n  lng: 19.96213076\nprice: "US$49"\npriceFrom: 49\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 48\nratings:\n  overall: 9.2\n  location: 9.5\n  cleanliness: 9.2\n  facilities: 9\n  value: 8.5\n  comfort: 9.5\n  staff: 9.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420913736.jpg?k=c10f9c5d7cc7c5e767f4d05dec015ea54a52b4b259f7fdb470d7fb338f259824&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420913753.jpg?k=c1c1d41c22af0f56ed4bffa21211c06fbec84985575da5bce21cbde99670509e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420917832.jpg?k=88c78b786c4ad9051a900adc16cf042ffad886ddcdbc8acc036974de8196d334&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420913742.jpg?k=c93e7fafcba33db779459b225bb467c955a6801dccf8db291f41dae72d410ee7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420917778.jpg?k=8e4bbfa6dfaa4dd2915d764ef120f8ddef17a169c288c510c2a923cde200ef16&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420913748.jpg?k=5faaa7eed9976699ca01c849f50e6ad0ad3abe85eee2abf7039f7f70c64e9e4e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Mountain View"\n  - "Double Room with Mountain View"\n  - "Classic Triple Room"\n  - "Family Room with Mountain View"\nnearbyRestaurants:\n  - "Kafe 1.1 km"\n  - "Café - occasionaly open 7 km"\nwhatsNearby:\n  - "Valbona Valley National Park 0 m"\n  - "Prokletije National Park 1.7 km"\n  - "Nacionalni Park Prokletije 5 km"\n  - "Parku Kombëtar Lugina e Valbonës 6 km"\n  - "Prokletije National Park 6 km"\n  - "Nacionalni park Prokletije 8 km"\n  - "Theth National Park 11 km"\n  - "Theth National Park 17 km"\n  - "Valbona Valley National Park 19 km"\nairports:\n  - "Podgorica Airport 60 km"\n  - "Pristina International Airport 88 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Yaron"\n    country: "Israel"\n    text: "“The couple who hosted us were charming, hospitable and helped us in every possible way. They gave us a homely and warm feeling”"\n  - name: "Nelleke"\n    country: "Netherlands"\n    text: "“Tatiana is a wonderful host. She makes delicious food and is absolutely thriving when it comes down to making you feel welcome. Her husband is also very kind and a welcoming person. The fireplace became my favorite spot. And last but not...”"\n  - name: "Ingrid"\n    country: "Switzerland"\n    text: "“Incredibly beautiful spot and more than delicious food. The family takes care of you as if you are the first guests ever. The rooms are beautifully decorated with homemade beds and cushions. The hikes in the area are amazing. We absolutely...”"\nbookingURL: "https://www.booking.com/hotel/al/vita-guesthouse-bajram-curri.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach room at VITA Guesthouse is thoughtfully equipped with fresh bed linen and towels, ensuring a comfortable stay. For those planning day trips or preferring to dine al fresco, the guesthouse offers the option of packed lunches, prepared upon request.
 
 The lounge area provides a cozy space for guests to unwind after a day of exploring the surrounding beauty. Situated 139 km from Pristina International Airport, VITA Guesthouse is an accessible escape for those seeking a blend of relaxation and adventure in the heart of Kukës County.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,10 @@
----
-title: La Mirage Villa
-description: Positioned a mere 39 km from the historic Skanderbeg Square, La Mirage Villa presents a spacious retreat with a terrace that opens up to serene garden views. Th
-featuredImage: "/images/accommodation/365558007.jpg"
-language: en
-slug: la-mirage-villa
-location: ""
-amenities: []
-images: []
----
-
-Positioned a mere 39 km from the historic Skanderbeg Square, La Mirage Villa presents a spacious retreat with a terrace that opens up to serene garden views. The villa boasts an impressive layout with 8 bedrooms, a cozy living room equipped with a flat-screen TV, and a fully equipped kitchen that includes a dishwasher and an oven for those who enjoy preparing their meals. The presence of 4 bathrooms with walk-in showers adds to the convenience, while towels and bed linen are thoughtfully provided.
+---\ntitle: "La Mirage Villa"\ndescription: "La Mirage Villa emerges as a premier choice for travelers seeking a blend of comfort, privacy, and convenience in Rrushkull."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365558007.jpg?k=8ef670bf368fb66d3809b6b3162f2208c11eaca4bf7501a7a1fb4d6ca6283a80&o=&hp=1"\nlanguage: en\nslug: la-mirage-villa\naddress: "Vila e shefit, Rrushkull, Albania"\ncity: "Rrushkull"\nlocation: "Rrushkull"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.43457268\n  lng: 19.5033125\nprice: "US$479"\npriceFrom: 479\nstarRating: 3\nrating: 8.6\nratingWords: "Very Good"\nnumberOfReviews: 6\nratings:\n  overall: 8.6\n  location: 6.3\n  cleanliness: 8.3\n  facilities: 8.8\n  value: 9.2\n  comfort: 8.8\n  staff: 8.5\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365558007.jpg?k=8ef670bf368fb66d3809b6b3162f2208c11eaca4bf7501a7a1fb4d6ca6283a80&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365557996.jpg?k=0fab05a5e7b9bbf19da296cd422d28b11d2c35a93ce43d579925d37c3fb6411a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376835041.jpg?k=6a213e278c6a1c8909bc3f980b4de9072842b5e6dc4d36039468cf312131ffe4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365557990.jpg?k=c8d7f9408f3a5352c728d1036eb7b93d470db1b78faddf89d22d4dca4b9cc826&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365557998.jpg?k=0fcc435bb6f2a227b138ff847a069e133fcd6abe80375e7dda90ffb5b2ceb5c0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376834619.jpg?k=9548be63b937b907af4cf495c5975ad709ea07911392ca0b7c76e6a720a06bd1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365557997.jpg?k=de56ec30d85467d12e5e2c188a466a43e84c89f7941db8acdd981bda613285c4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376835274.jpg?k=6e47c729bbb15892ae7fa0eb9c46db9d79be4baa6604cbf8e8157710ab3dd17f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376834708.jpg?k=a5370b3cdc602d4e08beaa861ace683951c3e9f566cc3de71adf7e5edc8c9270&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Villa"\nnearbyRestaurants:\n  - "Bar Kulla 4.8 km"\n  - "Xhogu Complex 6 km"\nnearbyBeaches:\n  - "Lalëz Bay Beach 2.5 km"\n  - "Ohana Beach 9 km"\n  - "Portez Beach 9 km"\nwhatsNearby:\n  - "Bekimi 12 km"\n  - "Sotir Noka 14 km"\n  - "Sheshi Demokracia 14 km"\n  - "Yje Dhe Hena 14 km"\n  - "Wine Dhe Pooh 14 km"\n  - "Durres Amphiteatre 14 km"\n  - "1. Maj 15 km"\nairports:\n  - "Tirana International Airport Mother Teresa 18 km"\nreviews:\n  - name: "Cameron"\n    country: "Ireland"\n    text: "“It was a beautiful villa and a great place to stay with a big group. The pool was great and the sound system was perfect for a party. Plenty of room for 17 people. We had everything we needed and the hosts were quick to respond to any questions or...”"\n  - name: "Elda"\n    country: "Albania"\n    text: "“The most beautiful experience with these luxury villa like the name La Mirage
+Everything was like described here
+The area was amazing and the glass roof super
+We will return for long vacation in summer”"\nbookingURL: "https://www.booking.com/hotel/al/la-mirage-villa.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nPositioned a mere 39 km from the historic Skanderbeg Square, La Mirage Villa presents a spacious retreat with a terrace that opens up to serene garden views. The villa boasts an impressive layout with 8 bedrooms, a cozy living room equipped with a flat-screen TV, and a fully equipped kitchen that includes a dishwasher and an oven for those who enjoy preparing their meals. The presence of 4 bathrooms with walk-in showers adds to the convenience, while towels and bed linen are thoughtfully provided.
 
 For dining al fresco, an outdoor dining area is available, allowing guests to savor meals amidst the tranquility of the villa's garden. This non-smoking property ensures a clean and healthy environment for all guests.
 
 Exploration opportunities abound with the Dajti Ekspres Cable Car located 42 km away, offering breathtaking views and an unforgettable experience. Meanwhile, the Rock of Kavaje, a notable landmark, is just 25 km from the villa. For those traveling by air, the Tirana International Mother Teresa Airport is conveniently 30 km away, making La Mirage Villa an accessible and attractive option for both domestic and international travelers.
 
 In summary, La Mirage Villa stands out as a splendid choice for those in search of a spacious and private accommodation that does not compromise on modern amenities and connectivity, all while being in close proximity to some of the area's most sought-after attractions.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

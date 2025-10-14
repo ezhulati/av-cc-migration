@@ -1,28 +1,5 @@
----
-title: Mance Apartment
-description: "Each apartment at Mance Apartment is thoughtfully equipped to cater to the needs of modern travelers."
-featuredImage: "/images/accommodation/363529319.jpg"
-language: en
-slug: mance-apartment
-location: ""
-amenities: []
-images: []
----
-
-Each apartment at Mance Apartment is thoughtfully equipped to cater to the needs of modern travelers. From the essential air conditioning to the convenience of free WiFi, guests are treated to a seamless stay. The attention to detail extends to the provision of a private bathroom in every unit, complete with a bidet and hair dryer, ensuring that personal care routines are effortlessly maintained. For those who appreciate the joy of a morning coffee or an evening breeze, select rooms boast balconies that invite relaxation against a backdrop of scenic views.
+---\ntitle: "Mance Apartment"\ndescription: "Mance Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by stunning sea views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363529319.jpg?k=14826cb3973dd92e6f60015793ab50e2a1ab21535de58b7da340c9c3043cb127&o=&hp=1"\nlanguage: en\nslug: mance-apartment\naddress: "Rruga Anastas Durrsaku, 2000 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31273066\n  lng: 19.44320149\nprice: "US$17"\npriceFrom: 17\nstarRating: 3\nrating: 8.1\nratingWords: "Very Good"\nnumberOfReviews: 69\nratings:\n  overall: 8.1\n  location: 7.8\n  cleanliness: 7.7\n  facilities: 7\n  value: 8.2\n  comfort: 7.3\n  staff: 8.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363529319.jpg?k=14826cb3973dd92e6f60015793ab50e2a1ab21535de58b7da340c9c3043cb127&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491440535.jpg?k=a4cce68690c469799773194471cd077237aea10ea60a2531e7eebab21afab66e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491440533.jpg?k=3b87556641293a66ea893cfa388ebae56cf1228fc3aeec3d280fc5000f12ff05&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323029896.jpg?k=0313cc5e99298c71766aae780b080c73e3547a699f3fb8ef9608069fd6de5d68&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512607654.jpg?k=ad62d74179ff7f8f25a2644a1dfa8126212fa2a733c9fd50dfee7dfc78591bad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491440498.jpg?k=05c93d2530534915044a75a61fb51476b0d1e52b3a3d2f8f86bf6d713220c4ae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491440528.jpg?k=f359d8249df7e01a307489ab3d8b7274b523e52d362848442620f951d3b53747&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491440494.jpg?k=b42f49c090418a639773d6fc6213a7ac1911fd6d25d7a476b7f921a53fd9e6c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491440504.jpg?k=cfced7121fb6c8eef2c5bd4d4af17f06b321d9cb80d4b9ee6b11b92f9b21b871&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "Budget Twin Room"\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "My Way 50 m"\n  - "Antos 150 m"\nnearbyBeaches:\n  - "Currila Beach 300 m"\n  - "Kallmi Beach 1.1 km"\n  - "Durres Beach 2 km"\n  - "West End Beach 2.2 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nwhatsNearby:\n  - "1. Maj 100 m"\n  - "Durres Amphiteatre 150 m"\n  - "Yje Dhe Hena 500 m"\n  - "Wine Dhe Pooh 600 m"\n  - "Sheshi Demokracia 700 m"\n  - "Sotir Noka 950 m"\n  - "Bekimi 3.4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\nbookingURL: "https://www.booking.com/hotel/al/mance-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach apartment at Mance Apartment is thoughtfully equipped to cater to the needs of modern travelers. From the essential air conditioning to the convenience of free WiFi, guests are treated to a seamless stay. The attention to detail extends to the provision of a private bathroom in every unit, complete with a bidet and hair dryer, ensuring that personal care routines are effortlessly maintained. For those who appreciate the joy of a morning coffee or an evening breeze, select rooms boast balconies that invite relaxation against a backdrop of scenic views.
 
 Beyond the comfort of the apartments, the location serves as an ideal base for exploring. The Dajti Ekspres Cable Car offers an adventure 44 km away, presenting breathtaking views from above, while the Rock of Kavaje, located 12 km from the property, offers a glimpse into the natural beauty of the area. For guests arriving by air, the convenience of Tirana International Mother Teresa Airport being just 34 km away simplifies travel arrangements.
 
 Mance Apartment stands out not just for its prime location and comprehensive amenities but also for offering a tranquil retreat amidst the vibrant surroundings. It's a choice accommodation for those looking to immerse themselves in the local culture while enjoying the comforts of a home away from home.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

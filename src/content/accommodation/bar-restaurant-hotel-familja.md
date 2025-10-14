@@ -1,30 +1,12 @@
----
-title: Bar-Restaurant-Hotel-Familja
-description: "The hotel's accommodations are thoughtfully designed with guest comfort in mind."
-featuredImage: "/images/accommodation/466881473.jpg"
-language: en
-slug: bar-restaurant-hotel-familja
-location: ''
-amenities: []
-images: []
----
-
-The hotel's accommodations are thoughtfully designed with guest comfort in mind. Each room is equipped with air conditioning, a wardrobe, and a flat-screen TV, ensuring a restful stay. Select units also boast a balcony, offering guests a private outdoor space to relax. The inclusion of a seating area in all rooms adds an extra layer of comfort, inviting guests to unwind in their personal retreat after a day of exploration.
+---\ntitle: "Bar-Restaurant-Hotel-Familja"\ndescription: "Bar-Restaurant-Hotel-Familja emerges as a distinguished destination for travelers seeking a blend of comfort and convenience, located 41 km from the scenic Dajti Ekspres Cable Car in the serene town of Klos."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466881473.jpg?k=12bb4e06b28c3bbed2523258fe17a2e949ed3ca8dfd58c53f26cd82768c0a871&o=&hp=1"\nlanguage: en\nslug: bar-restaurant-hotel-familja\naddress: "Rruga Peshkopi-Maqellare Klos, 8002 Klos, Albania"\ncity: "Klos"\nlocation: "Klos"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.50473889\n  lng: 20.09094659\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 8.7\nratingWords: "Very Good"\nnumberOfReviews: 11\nratings:\n  overall: 8.7\n  location: 8.4\n  cleanliness: 8.6\n  facilities: 8.2\n  value: 8.2\n  comfort: 8.9\n  staff: 9.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466881473.jpg?k=12bb4e06b28c3bbed2523258fe17a2e949ed3ca8dfd58c53f26cd82768c0a871&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486739999.jpg?k=50907e534cb186bdbbe0522b5e4a48887326d1db98d0fc7dab410f669eddf3ad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486739159.jpg?k=3c847c1b8ef987182ed911d68e959fbc5a06568c910be6956cde80d9bdcb1997&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472135151.jpg?k=54c7e19e73a2d9e9aab0343876fedc4d78b8bbed2b33ea9a86178c694514833c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486739414.jpg?k=d5845b15b160ebc3e1f926885398935ad97c0aa0afad3f6be7cb6e19cb394859&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486756751.jpg?k=6f17c8b60190e1a8c7c7146080033f76da3f5e6aab3e1ce088c0063f38f8c581&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room"\n  - "Double Room"\n  - "Double Room"\n  - "Comfort Triple Room"\n  - "Quadruple Room with Balcony"\nnearbyRestaurants:\n  - "Oasis Bar-Restorant-Pizzeri 6 km"\n  - "Döner Center 8 km"\nwhatsNearby:\n  - "Dajti Mountain National Park 9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 32 km"\n  - "Ohrid Airport 65 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Alan"\n    country: "United Kingdom"\n    text: "“Good location to rest
+Hospitality it is on point
+Rooms are way bigger Clean beds and sheets
+Massive bathroom
+👍”"\n  - name: "Danny"\n    country: "United Kingdom"\n    text: "“Staff were so nice,even helped us to find a shop nearby where we bough some oil for our motorcycle
+Thank you,we will be back”"\n  - name: "Silke"\n    country: "Germany"\n    text: "“We felt very comfortable. We were welcomed in a friendly and very friendly manner. The daughter recommended us a local meal for the mother to cook for us. It was really delicious. Thanks again for that!!! We will gladly come again.”"\nbookingURL: "https://www.booking.com/hotel/al/bar-restaurant-familja.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe hotel's accommodations are thoughtfully designed with guest comfort in mind. Each room is equipped with air conditioning, a wardrobe, and a flat-screen TV, ensuring a restful stay. Select units also boast a balcony, offering guests a private outdoor space to relax. The inclusion of a seating area in all rooms adds an extra layer of comfort, inviting guests to unwind in their personal retreat after a day of exploration.
 
 The property is not just about comfortable lodging; it also hosts a garden, a restaurant, and a bar, providing guests with a variety of options for dining and leisure within the premises. The family rooms available make it a perfect choice for those traveling with loved ones, ensuring a memorable and hassle-free stay for all.
 
 Situated 44 km from the historic Skanderbeg Square and the Former Residence of Enver Hoxha, Bar-Restaurant-Hotel-Familja serves as a convenient base for guests looking to explore the rich cultural heritage of the area. Additionally, its proximity to Tirana International Mother Teresa Airport, located 61 km away, offers ease of travel for international guests.
 
 Bar-Restaurant-Hotel-Familja stands out as a premier choice for travelers who value a harmonious blend of top-notch amenities and a welcoming atmosphere, promising an unforgettable stay in the heart of Klos.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

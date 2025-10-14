@@ -1,30 +1,7 @@
----
-title: By Breeze Apartments
-description: The apartment itself is a testament to spacious living, featuring a well-appointed bedroom, a cozy living room, and a balcony that invites guests to bask in the
-featuredImage: "/images/accommodation/376129159.jpg"
-language: en
-slug: by-breeze-apartments
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to spacious living, featuring a well-appointed bedroom, a cozy living room, and a balcony that invites guests to bask in the tranquil garden views. The inclusion of a fully equipped kitchen, complete with an oven and fridge, alongside a bathroom outfitted with a bidet, elevates the comfort level, offering a home-away-from-home experience. The outdoor dining area, overlooking the inner courtyard, provides an idyllic setting for meals.
+---\ntitle: "By Breeze Apartments"\ndescription: "By Breeze Apartments emerges as a serene retreat in Durrës, a mere stone's throw from the pristine Lalëz Bay Beach and within a comfortable distance from the historic Skanderbeg Square."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376129159.jpg?k=3daabe6012e14d72ace870a5262f9b4fc3c557f650ae92768cef85a7490b3d6d&o=&hp=1"\nlanguage: en\nslug: by-breeze-apartments\naddress: "Plazhi San Pietro, Gjiri i Lalzit, Albania, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.51773333\n  lng: 19.5204808\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 11\nratings:\n  overall: 8.8\n  location: 9.3\n  cleanliness: 8.5\n  facilities: 8.5\n  value: 8.8\n  comfort: 8.8\n  staff: 9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376129159.jpg?k=3daabe6012e14d72ace870a5262f9b4fc3c557f650ae92768cef85a7490b3d6d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376129144.jpg?k=949a6a34a69cae03c0d690894f449a258caecce165c5b9cc6fbc5ae4cb1864ab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376129074.jpg?k=7d1cc8f39f43b68ebfc92a09939b15d46bda3d0219dd9f035cb1a21128ac161e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453518292.jpg?k=e3d669839d8c363862bd1505127868ad38327f2ff1ac2e3356ca1b80b3beffd7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487035584.jpg?k=0b30d8667d62d459bbf741c71b24384f78485d185f6fd5bb6d8d7925ea9d6250&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453518298.jpg?k=f25af71f6aa7864acd769864165cebae82e76ab633db1ff44fb7fafe1a370145&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376129128.jpg?k=6658f31e2477c2c0729e82df6142b709c1f3fbb0b7843595b04f5a1b00f77b74&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376129148.jpg?k=6203001e3a46f08f21d2f07893bc41c1b6215fd967bf62a85c9a8550bd2bb518&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376129134.jpg?k=6375f5e3e10922ff6fc98801c552229bb36bac7318c039ae84aad4820bb96619&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Cavalli Beach 250 m"\n  - "Alla Ristorante 450 m"\nnearbyBeaches:\n  - "Lalëz Bay Beach 400 m"\n  - "Rodoni Beach 9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 19 km"\n  - "Podgorica Airport 95 km"\nreviews:\n  - name: "Ornela"\n    country: "Albania"\n    text: "“Nje apartament i pajisur me gjithcka ju duhet qe te relaksoheni.”"\n  - name: "Zekaj"\n    country: "Belgium"\n    text: "“accommodatie was 👌 rustige omgeving en restaurant int straat.”"\n  - name: "Sadudin"\n    country: "Kosovo"\n    text: "“Perfect and new apartment, everything is excellent.”"\nbookingURL: "https://www.booking.com/hotel/al/san-pietro-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to spacious living, featuring a well-appointed bedroom, a cozy living room, and a balcony that invites guests to bask in the tranquil garden views. The inclusion of a fully equipped kitchen, complete with an oven and fridge, alongside a bathroom outfitted with a bidet, elevates the comfort level, offering a home-away-from-home experience. The outdoor dining area, overlooking the inner courtyard, provides an idyllic setting for meals.
 
 Dining at By Breeze Apartments is an experience in itself, with the family-friendly restaurant catering to a variety of tastes for dinner, lunch, brunch, and even cocktails. The establishment prides itself on its private entrance, ensuring an exclusive and undisturbed stay for all guests.
 
 For families, the apartment doesn't disappoint, boasting a children's playground and a terrace that promises leisure and relaxation. Situated 41 km from the Rock of Kavaje and a short drive from the Former Residence of Enver Hoxha, guests are perfectly positioned to explore the rich cultural tapestry of the area. Moreover, the proximity to Tirana International Mother Teresa Airport, just 29 km away, adds a layer of convenience for international travelers.
 
 By Breeze Apartments stands out as a distinguished choice for those seeking a blend of comfort, convenience, and a touch of luxury during their stay in Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

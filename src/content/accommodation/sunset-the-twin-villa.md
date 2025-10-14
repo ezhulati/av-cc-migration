@@ -1,30 +1,7 @@
----
-title: Sunset - The Twin Villa
-description: The villa's layout is thoughtfully designed, featuring four well-appointed bedrooms and four bathrooms, ensuring ample space for guests. Each room is equipped w
-featuredImage: "/images/accommodation/526347393.jpg"
-language: en
-slug: sunset-the-twin-villa
-location: ""
-amenities: []
-images: []
----
-
-The villa's layout is thoughtfully designed, featuring four well-appointed bedrooms and four bathrooms, ensuring ample space for guests. Each room is equipped with bed linen and towels, adding a touch of home-like comfort. Entertainment is readily available through a flat-screen TV with cable channels, perfect for relaxing evenings in. The fully equipped kitchen invites guests to prepare their meals just the way they like, while the terrace offers serene garden views, ideal for unwinding.
+---\ntitle: "Sunset - The Twin Villa"\ndescription: "Sunset - The Twin Villa stands out as a premier destination for travelers seeking a blend of comfort and convenience in Shirokë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526347393.jpg?k=334512c433e5f53eb98dc30361a7a1c4d86f929c9057f6a73ed12d176f18b990&o=&hp=1"\nlanguage: en\nslug: sunset-the-twin-villa\naddress: "Rruga e Selvijave, Shirokë, Albania"\ncity: "Shirokë"\nlocation: "Shirokë"\naccommodationType: "villa"\ncoordinates:\n  lat: 42.0591052\n  lng: 19.44937489\nprice: "US$355"\npriceFrom: 355\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526347393.jpg?k=334512c433e5f53eb98dc30361a7a1c4d86f929c9057f6a73ed12d176f18b990&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526347203.jpg?k=186b0ca9beb86a8305ac82cce95d74efb9c627b3ac0a74480f7b7ec03e7cbdf3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526347438.jpg?k=c828f6324f12dd13699c4e6b890ea123802aec6a114dfdabec38d5fa217f10ab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526347204.jpg?k=ebd57eea177a63beace0abd7a7f0accc4a6275390e9e78e817198dea39c71cf7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526347299.jpg?k=5cdfb5f032fb7952cdc492e27c13423ffa5c20b5545ae3a77f9ef8fd4a226535&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526347428.jpg?k=72fd8f9fd0ad2e52ec65c98c28a76341fc6dc859188bb8b241066804fc9f46c7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526347301.jpg?k=c9e12eb30053fbff00d2c9a187049d85fb0c04f6289cef60b3ea80a3f4185da4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526347463.jpg?k=886a4d7459718d555c961c2f5f93916a462754abab7f0b492bb1c0b420390e2d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526347430.jpg?k=ba9394c71bd22384e0238deee6f8001bec0ac9a9d24afaa8b14024d7e8ed283f&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Villa"\nnearbyRestaurants:\n  - "Blunote 200 m"\n  - "Lembus 300 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 3.9 km"\n  - "National Park Skadar Lake 5 km"\nairports:\n  - "Podgorica Airport 36 km"\n  - "Tivat Airport 70 km"\n  - "Tirana International Airport Mother Teresa 73 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\n  - "Discover"\n  - "JCB"\nreviews:\n  - name: "Franc"\n    country: "Albania"\n    text: "“The view was amazing and the villa was very clean and modern. Shiroke village is within walking distance and people are super friendly.”"\nbookingURL: "https://www.booking.com/hotel/al/modern-swimming-pool-villa-in-shiroka.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe villa's layout is thoughtfully designed, featuring four well-appointed bedrooms and four bathrooms, ensuring ample space for guests. Each room is equipped with bed linen and towels, adding a touch of home-like comfort. Entertainment is readily available through a flat-screen TV with cable channels, perfect for relaxing evenings in. The fully equipped kitchen invites guests to prepare their meals just the way they like, while the terrace offers serene garden views, ideal for unwinding.
 
 One of the villa's highlights is its cozy fireplace, providing a warm and inviting atmosphere for guests to gather around. The property's garden is another tranquil spot for relaxation, allowing visitors to soak in the natural beauty of the surroundings.
 
 Located 50 km from the Port of Bar, Sunset - The Twin Villa offers a peaceful retreat away from the hustle and bustle. For those traveling by air, Podgorica Airport is conveniently situated 67 km away, making the villa an accessible choice for both local and international guests.
 
 In summary, Sunset - The Twin Villa is a top pick for those in search of a spacious and comfortable accommodation in Shirokë, complete with modern amenities and a peaceful setting.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

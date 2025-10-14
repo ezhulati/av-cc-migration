@@ -1,15 +1,4 @@
----
-title: Hotel Vlora International
-description: Each room at Hotel Vlora International is a haven of relaxation, featuring air conditioning, LCD cable TVs, and, in select rooms, balconies that present breatht
-featuredImage: "/images/accommodation/213148418.jpg"
-language: en
-slug: hotel-vlora-international
-location: ""
-amenities: []
-images: []
----
-
-Each room at Hotel Vlora International is a haven of relaxation, featuring air conditioning, LCD cable TVs, and, in select rooms, balconies that present breathtaking views of the garden and the sea. The attention to detail extends to the private bathrooms, equipped with either a shower or bath and a hairdryer, ensuring a comfortable and convenient stay.
+---\ntitle: "Hotel Vlora International"\ndescription: "Discover the charm of Hotel Vlora International, a modern oasis located just a stone's throw away from the serene Vlora Bay."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213148418.jpg?k=c9e83fb9574c59369b5ae4e622cfefbe136ff044c5bd79e38649d0e4b59608c4&o=&hp=1"\nlanguage: en\nslug: hotel-vlora-international\naddress: "Rruga Ismail Qemali, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.45192327\n  lng: 19.4863987\nprice: "US$81"\npriceFrom: 81\nstarRating: 4\nrating: 7.6\nratingWords: "Good"\nnumberOfReviews: 250\nratings:\n  overall: 7.6\n  location: 8.5\n  cleanliness: 7.2\n  facilities: 6.7\n  value: 6.8\n  comfort: 7.1\n  staff: 8.1\n  wifi: 8.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213148418.jpg?k=c9e83fb9574c59369b5ae4e622cfefbe136ff044c5bd79e38649d0e4b59608c4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256565451.jpg?k=f0559876cd21343911b156a545812c678ab13a144ff22eb56cc6fa35dbfe4e51&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256508076.jpg?k=b2bf73eb831d58774a3692fc94c4e27110e1d5a17a1e2c4973f55c3d717a31f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213146690.jpg?k=733492ed513040ccea4eaf9e736d0395f1895fc11302ebe45cf2ea365fb6fd03&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256508070.jpg?k=d4a564ddadfd43591a128ff5c1f08d3c0e9776d2c706871fc9ea0b6fd4bb6628&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256591950.jpg?k=8c5951c0c90acfe0193ee28b9d4e641c9b28859cb8c8f03a806984448dace334&o=&hp=1"\namenities:\n  - "Indoor swimming pool"\n  - "Spa and wellness centre"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Facilities for disabled guests"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Bar"\n  - "Good breakfast"\nroomTypes:\n  - "Double Room"\n  - "Standard Triple Room"\n  - "Junior Suite"\n  - "Two-Bedroom Suite"\nnearbyRestaurants:\n  - "Arjoli 30 m"\n  - "New Station Beer 30 m"\nnearbyBeaches:\n  - "Vjetër Beach 400 m"\n  - "Vlore Beach 700 m"\n  - "Ri Beach 1.9 km"\n  - "Beach at Government Villas 3.5 km"\n  - "Liro Beach 4.1 km"\nwhatsNearby:\n  - "Kuzum Baba 1.8 km"\n  - "Scooby Doo Vlore 1.9 km"\n  - "Independence Square 2.1 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/vlora-international.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach room at Hotel Vlora International is a haven of relaxation, featuring air conditioning, LCD cable TVs, and, in select rooms, balconies that present breathtaking views of the garden and the sea. The attention to detail extends to the private bathrooms, equipped with either a shower or bath and a hairdryer, ensuring a comfortable and convenient stay.
 
 For those looking to unwind, the hotel boasts an indoor pool and a hot tub, perfect for a refreshing dip or a soothing soak. The convenience of guests is paramount, with complimentary Wi-Fi and parking provided, making stays hassle-free.
 
@@ -18,19 +7,3 @@ Culinary delights await at the hotel's à la carte restaurant, where internation
 Situated near the heart of the city, Hotel Vlora International is ideally located for exploring local landmarks such as the historic Kanina Castle and the breathtaking Llogara National Park. The city center, with its vibrant life and attractions, is just a kilometer away, making it an excellent base for guests looking to experience the best of Vlora.
 
 In summary, Hotel Vlora International is not just a place to stay; it's a gateway to a memorable experience, combining modern amenities, exceptional service, and a prime location to ensure an unforgettable visit.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

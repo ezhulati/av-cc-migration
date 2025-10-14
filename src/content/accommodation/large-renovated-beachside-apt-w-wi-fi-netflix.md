@@ -1,28 +1,5 @@
----
-title: Large Renovated Beachside Apt, w/ wi-fi & Netflix
-description: This air-conditioned haven boasts a generous layout with four well-appointed bedrooms, ensuring ample space for families or groups. The living area, adorned wit
-featuredImage: "/images/accommodation/494811749.jpg"
-language: en
-slug: large-renovated-beachside-apt-w-wi-fi-netflix
-location: ""
-amenities: []
-images: []
----
-
-This air-conditioned haven boasts a generous layout with four well-appointed bedrooms, ensuring ample space for families or groups. The living area, adorned with a flat-screen TV, becomes a hub of entertainment with complimentary Wi-Fi and Netflix access, making it an ideal retreat after a day of sun and sea. The fully equipped kitchen, featuring modern appliances such as an oven, microwave, washing machine, fridge, and stovetop, invites guests to prepare and enjoy their meals with ease. For added convenience, towels and bed linen are readily provided.
+---\ntitle: "Large Renovated Beachside Apt, w/ wi-fi & Netflix"\ndescription: "Discover the epitome of coastal living at the Large Renovated Beachside Apartment, a prime choice for travelers seeking the perfect blend of comfort and convenience in Golem."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494811749.jpg?k=c5bd928acfaa45152fce6c7d04259172ed046f91d7de14b8a408af4d461ee1d0&o=&hp=1"\nlanguage: en\nslug: large-renovated-beachside-apt-w-wi-fi-netflix\naddress: "Rruga Kristal, Adriatica Residence (6th Floor), Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.25995727\n  lng: 19.52186416\nprice: "US$215"\npriceFrom: 215\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494811749.jpg?k=c5bd928acfaa45152fce6c7d04259172ed046f91d7de14b8a408af4d461ee1d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494811833.jpg?k=ffb76cafb06a7887a0d0373f1432ea25d85d142544031f62bb7c38dbf5858c03&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494811828.jpg?k=11e0ab3b093d803d37428228fcb61e5577c5dedb2f67f1d48b1d1eeaaceff608&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494811816.jpg?k=ff665141bfe492cd11a45271ebc419bb1b637bcfcd8632978a139a4eed083d5c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494811809.jpg?k=4caa3b6410e9a3c7ec939a2f90341aff121e92bcc5af7d1628e7a83bae9bb729&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494811839.jpg?k=1ac4e4a60d8052001cf31724b93a0436b0eae34ef47cd19e0303dd5b41b5d64a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494811792.jpg?k=b344037e8d3a1aae17f809e2b39eb35b8d72a82f618282a3e14723cc9199b756&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494811812.jpg?k=80c72b1eb8e49bd81beb46946cb5938ba5d9a270decfb3467d5b4ab794e34834&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494811788.jpg?k=0607800451644b9ec1dd273f48b80c5985863873fd7a9e14615d116f28e703a9&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Apartment"\nnearbyRestaurants:\n  - "Furrë Buke Pashtriku 40 m"\n  - "Oaz Durres 350 m"\nnearbyBeaches:\n  - "Golem Beach 150 m"\n  - "Shkëmbi i Kavajës Beach 650 m"\n  - "Mali I Robit Beach 1.3 km"\n  - "Durres Beach 3.1 km"\n  - "Qerret Beach 3.4 km"\nwhatsNearby:\n  - "Bekimi 8 km"\n  - "Durres Amphiteatre 9 km"\n  - "Wine Dhe Pooh 9 km"\n  - "1. Maj 9 km"\n  - "Yje Dhe Hena 9 km"\n  - "Sheshi Demokracia 9 km"\n  - "Sotir Noka 9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/large-renovated-beachside-apt-w-wi-fi-amp-netflix.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis air-conditioned haven boasts a generous layout with four well-appointed bedrooms, ensuring ample space for families or groups. The living area, adorned with a flat-screen TV, becomes a hub of entertainment with complimentary Wi-Fi and Netflix access, making it an ideal retreat after a day of sun and sea. The fully equipped kitchen, featuring modern appliances such as an oven, microwave, washing machine, fridge, and stovetop, invites guests to prepare and enjoy their meals with ease. For added convenience, towels and bed linen are readily provided.
 
 Situated 48 km from the Dajti Ekspres Cable Car and just 6.2 km from the Rock of Kavaje, the apartment serves as a perfect base for exploring the local attractions. With the nearest airport, Tirana International Mother Teresa Airport, located 39 km away, guests will find their travel needs well accommodated.
 
 Elevated by its thoughtful amenities and prime location, the Large Renovated Beachside Apartment is a standout choice for those looking to immerse themselves in the beauty and vibrancy of Golem.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,3 @@
----
-title: Beachfront Apartments
-description: This apartment, designed for relaxation, features a well-appointed bedroom and a modern bathroom, complemented by a flat-screen TV for entertainment. Guests can
-featuredImage: "/images/accommodation/527152762.jpg"
-language: en
-slug: beachfront-apartments
-location: ""
-amenities: []
-images: []
----
-
-This apartment, designed for relaxation, features a well-appointed bedroom and a modern bathroom, complemented by a flat-screen TV for entertainment. Guests can also enjoy the convenience of an on-site bar, perfect for evening relaxation or a morning coffee.
+---\ntitle: "Beachfront Apartments"\ndescription: "Beachfront Apartments in Sarandë emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527152762.jpg?k=d8af975f11eb5cf9534b9fd7883bf479b66cf128b1824323f6845d8818228f83&o=&hp=1"\nlanguage: en\nslug: beachfront-apartments\naddress: "Rruga Lefter Talo, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87330641\n  lng: 20.01390665\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527152762.jpg?k=d8af975f11eb5cf9534b9fd7883bf479b66cf128b1824323f6845d8818228f83&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527152772.jpg?k=2f80cdaf2cf599c084c33dbe7a177904af5b12314aaf5c471d8b9e3e4ab15d86&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527152774.jpg?k=ba034f4b18c4bef7d96801596b650c0a8b4097375202e0d1f3cb0ecc98e2f44d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527152775.jpg?k=75f8bf2963ceeeceb6883a322720c92b13d85361a838ac6253d35ec1751b18d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527152777.jpg?k=18b79baf03be3468b4c4292ae5554e8c33f40477b6468117843e0fe491987481&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527152779.jpg?k=645aba13bbd62ab94c57870225684ca9507d5549065f0aabded4714420c5442b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527152781.jpg?k=3473be3684eb99ba90ac6a083e6f7e09bf8f9e4b4835986989995d0261319343&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527152782.jpg?k=702600a6aa4a2dff513bf5da2570f1636b96b13934b80ffb14712ed542ff6425&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Bar"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "La Brasseria da Franco 50 m"\n  - "Restorant Rustico 50 m"\nnearbyBeaches:\n  - "Saranda City Beach 100 m"\n  - "La Petite Beach 550 m"\n  - "Maestral Beach 700 m"\n  - "Sarande Main Beach 1.1 km"\n  - "VIP Beach 1.7 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.8 km"\n  - "Butrint National Park 2.7 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nbookingURL: "https://www.booking.com/hotel/al/beachfront-apartments-sarande1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment, designed for relaxation, features a well-appointed bedroom and a modern bathroom, complemented by a flat-screen TV for entertainment. Guests can also enjoy the convenience of an on-site bar, perfect for evening relaxation or a morning coffee.
 
 Located 700 meters from the inviting Maestral Beach and with Ioannina Airport 97 km away, Beachfront Apartments stands out as a top-tier choice for both leisure and exploration in Sarandë.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

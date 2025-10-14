@@ -4,9 +4,17 @@ description: The apartment boasts a serene garden view, complemented by the avai
 featuredImage: "/images/accommodation/469382540.jpg"
 language: en
 slug: estos-apartament-near-tirana-airport-1-self-checkin-netflix-free-parking
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 3
+rating: 3
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Air Conditioning"
+  - "Parking"
+  - "TV"
 ---
 
 The apartment boasts a serene garden view, complemented by the availability of a welcoming patio, perfect for guests looking to unwind in a tranquil setting. With its strategic location, approximately 12 km from the iconic Skanderbeg Square and a similar distance from the historical Former Residence of Enver Hoxha, guests have the unique opportunity to explore the rich cultural tapestry of Tirana with ease.
@@ -17,14 +25,3 @@ For those needing to pick up essentials or snacks, a minimarket on the premises 
 
 ESTO's Apartment near Tirana Airport 1 - Self CheckIN -Netflix - FREE Parking emerges as a top recommendation for travelers looking for a blend of convenience, comfort, and the chance to immerse themselves in the local culture and natural beauty of Tirana.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

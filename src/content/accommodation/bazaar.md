@@ -1,15 +1,4 @@
----
-title: "@Bazaar"
-description: This apartment is a stone's throw away from some of Tirana's most celebrated landmarks. The National Gallery of Arts Tirana is just 700 meters away, while the i
-featuredImage: "/images/accommodation/452496157.jpg"
-language: en
-slug: bazaar
-location: ""
-amenities: []
-images: []
----
-
-This apartment is a stone's throw away from some of Tirana's most celebrated landmarks. The National Gallery of Arts Tirana is just 700 meters away, while the iconic Clock Tower Tirana and the enchanting Et'hem Bey Mosque are both less than a kilometer's walk, making it an ideal base for cultural enthusiasts.
+---\ntitle: "@Bazaar"\ndescription: "@Bazaar stands out as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452496157.jpg?k=dce9e010c9a0d9d97538a4b9fe3e5be7a78c9d3da6f7dc217564ea5e94d92dac&o=&hp=1"\nlanguage: en\nslug: bazaar\naddress: "Rruga Qemal Stafa, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33037331\n  lng: 19.82464231\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 6\nratings:\n  overall: 9.7\n  location: 10\n  cleanliness: 9.6\n  facilities: 9.6\n  value: 9.6\n  comfort: 9.2\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452496157.jpg?k=dce9e010c9a0d9d97538a4b9fe3e5be7a78c9d3da6f7dc217564ea5e94d92dac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/441481592.jpg?k=b9edc8928eda7e21dbac76a34825c7f5393afa8567cd92eec70013250d60bd08&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/441480715.jpg?k=cfe7f136acf3560d2e5675bb0c1f2a2fc4dda04b0f44e205a68a739f4075c128&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452496675.jpg?k=89750e08db6d4ddf6f8f54e35dfe25710909d23af6052cade98177a250cd7dda&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437568927.jpg?k=844f43a2535720c0f80915b3e90579bf6f8f080dab352f89a53fd8c544e86e0a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437568907.jpg?k=4d38abf25668a7be50baaf1bc138f44648dfd521182d3bf80b31b8e0bb4025ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/441480353.jpg?k=4e02a37bdddb4f9fe0a21e992184767e8d9a6a99d692739285bedb4f0f722eaf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/441425536.jpg?k=e3df033f6a642b808aabbfc42fed8e0943858f5b9ca139006219fc1a09a2a8ef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509460927.jpg?k=c9b1576e9f92981189b3ce4c733707056ab34047b2f1c58763b136e02a3d8896&o=&hp=1"\namenities:\n  - "Fast free WiFi (94 Mbps)"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 800 m"\n  - "Rinia Park 800 m"\n  - "Former Residence of Enver Hoxha 1.2 km"\n  - "Grand Park of Tirana 2 km"\n  - "Bunk'Art 1 Museum 3.7 km"\nnearbyRestaurants:\n  - "Sambal 20 m"\n  - "Art & the City 30 m"\nwhatsNearby:\n  - "Sheshi Rekreativ tek ish ATSh 300 m"\n  - "Sheshi Sulejman Pasha 300 m"\n  - "Tanners' Bridge 450 m"\n  - "Clock Tower Tirana 500 m"\n  - "Skanderbeg Square 550 m"\n  - "Parku Europa 550 m"\n  - "National Gallery of Arts Tirana 550 m"\n  - "Amazing Nature 550 m"\n  - "Sheshi Skënderbej 600 m"\n  - "National Museum of History Albania 600 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 78 km"\nreviews:\n  - name: "Eugen"\n    country: "Romania"\n    text: "“The appartment is center located, very clean, spacious and well equipped. The view from the balcony is top. A lot of good restaurants in the area. Artani is a superhost.”"\n  - name: "Beolily"\n    country: "Serbia"\n    text: "“Location, view, comfortable bed, kitchen has everything you need. extremely friendly hosts.”"\nbookingURL: "https://www.booking.com/hotel/al/bazaar.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis apartment is a stone's throw away from some of Tirana's most celebrated landmarks. The National Gallery of Arts Tirana is just 700 meters away, while the iconic Clock Tower Tirana and the enchanting Et'hem Bey Mosque are both less than a kilometer's walk, making it an ideal base for cultural enthusiasts.
 
 Guests will appreciate the convenience of free WiFi accessible throughout the premises, ensuring that staying connected or planning the next day's adventures is hassle-free. Moreover, the proximity to Skanderbeg Square, a mere 700 meters away, places visitors at the pulsating heart of Tirana's vibrant public life.
 
@@ -18,15 +7,3 @@ The accommodation itself is a spacious apartment that boasts a well-appointed be
 For those interested in exploring beyond the immediate vicinity, @Bazaar is conveniently located near Tanners' Bridge, Toptani Shopping Centre, and the National Theatre of Opera and Ballet of Albania, offering a diverse mix of historical, shopping, and cultural experiences. Additionally, the Tirana International Mother Teresa Airport is just 15 km away, making arrivals and departures as smooth as possible.
 
 In summary, @Bazaar presents an inviting option for those looking to immerse themselves in the sights and sounds of Tirana, offering both the comforts of home and the excitement of the city right at your doorstep.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -4,9 +4,17 @@ description: Guests at Anja's Place are treated to the convenience of modern ame
 featuredImage: "/images/accommodation/482747892.jpg"
 language: en
 slug: anjas-place-himara
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 3
+rating: 3
+accommodationType: "apartment"
+location: "Lac"
+amenities:
+  - "WiFi"
+  - "Air Conditioning"
+  - "Parking"
+  - "TV"
 ---
 
 Guests at Anja's Place are treated to the convenience of modern amenities within a smoke-free environment, ensuring a comfortable and refreshing stay. Each room is equipped with a flat-screen TV, complemented by the inclusion of towels and bed linen for an added touch of home. The provision of air conditioning and heating systems in each accommodation guarantees a pleasant atmosphere, regardless of the season, while the private bathrooms enhance the sense of privacy and exclusivity.
@@ -15,14 +23,3 @@ Adding to the appeal is the ease of connectivity, with complimentary WiFi access
 
 Situated 144 km from Ioannina Airport, Anja's Place - Himara presents an accessible retreat for both domestic and international visitors, promising a blend of comfort, natural beauty, and convenience that makes it a standout destination for those exploring the charms of Himare.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

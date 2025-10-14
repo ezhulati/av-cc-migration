@@ -1,28 +1,6 @@
----
-title: Himara seaside apartment
-description: The apartment itself is a testament to modern living, featuring a cozy bedroom, a spacious living room with a flat-screen TV for entertainment, and a fully equi
-featuredImage: "/images/accommodation/photo-34.jpg"
-language: en
-slug: himara-seaside-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to modern living, featuring a cozy bedroom, a spacious living room with a flat-screen TV for entertainment, and a fully equipped kitchen complete with a dishwasher and an oven, ensuring guests feel right at home. The inclusion of a bathroom with a bidet adds a touch of luxury to the overall experience. Moreover, the property provides captivating city views, adding another layer of charm to this already appealing accommodation.
+---\ntitle: "Himara seaside apartment"\ndescription: "Himara Seaside Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience, located just a stone's throw away from the pristine shores of Prinos Beach and a short stroll from Potam Beach."\nfeaturedImage: "https://lh5.googleusercontent.com/-LImBWPf-QCY/AAAAAAAAAAI/AAAAAAAAABA/P0X-26ojs8Y/photo.jpg?sz=64"\nlanguage: en\nslug: himara-seaside-apartment\naddress: "Himare, Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.09631462\n  lng: 19.75449164\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://lh5.googleusercontent.com/-LImBWPf-QCY/AAAAAAAAAAI/AAAAAAAAABA/P0X-26ojs8Y/photo.jpg?sz=64"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://graph.facebook.com/v2.9/7102130956481582/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491114987.jpg?k=ae28418ddce7166fdd46e9d9f78129e048698c824ec90c06862e176b5685d750&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/474730727.jpg?k=0525316adc9393ff0c05f52043f658fbe2b9d8458b6fc99beb11a9548402f48a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/491116009.jpg?k=c8cf3de8cd32d621163641f55c499080b54cec6ace6ca260d18a11c4778b58c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/474730763.jpg?k=c526908c6a6f8cdcbbb6af811b685ed27a2a59cc84560bbba1f5e50fe76482eb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/474730766.jpg?k=ccdfa40311a197850fb61c9e318e2c17e7265802e5b5a499a759fe5fbec2b7e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/474730767.jpg?k=06db635b6438a11430c782a3314618605507f6327af5a3b4649a7a46da2e3b90&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/474730768.jpg?k=7e68b721e32fa9505975d150e100cbd57073df2c84979ec1c548bfa3079b380b&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyBeaches:\n  - "Prinos Beach 50 m"\n  - "Potam Beach 100 m"\n  - "Maracit Beach 450 m"\n  - "Spille Beach 700 m"\n  - "Gjiri i Filikurit Beach 1.1 km"\nreviews:\n  - name: "Mega"\n    country: "Italy"\n    text: "“Posizione ottima. Basta attraversare la strada e si arriva in spiaggia Sotto casa piccolo supermarket
+Parcheggio privato incluso Appartamento moderno dotato di tutti i confort inclusa lavastoviglie lavatrice e condizionatori”"\n  - name: "Jeanette"\n    country: "Germany"\n    text: "“Perfekte Lage, direkt am Strand. Schön eingerichtetes Appartement mit tollem Blick aufs Meer. Die Ausstattung ließ keine Wünsche offen und wir haben uns rundum wohlgefühlt. Die Gastgeberin war allzeit für uns erreichbar und super freundlich. Gerne...”"\nbookingURL: "https://www.booking.com/hotel/al/himara-seaside-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to modern living, featuring a cozy bedroom, a spacious living room with a flat-screen TV for entertainment, and a fully equipped kitchen complete with a dishwasher and an oven, ensuring guests feel right at home. The inclusion of a bathroom with a bidet adds a touch of luxury to the overall experience. Moreover, the property provides captivating city views, adding another layer of charm to this already appealing accommodation.
 
 Families visiting Himara Seaside Apartment will be pleased to find outdoor play equipment, making it an ideal choice for those traveling with children. Despite its serene location, the property remains within accessible distance from Maracit Beach, merely 700 meters away, offering guests an array of beachside activities.
 
 Situated 142 km from Ioannina Airport, the apartment represents an excellent option for both short and extended stays, promising a memorable getaway by the sea. Whether it's the allure of the nearby beaches or the comfort of a well-appointed apartment, Himara Seaside Apartment stands out as a top-tier accommodation for discerning travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,7 @@
----
-title: Lovely appartament, A
-description: "This exquisite property provides guests with the luxury of a balcony, complimentary private parking, and high-speed WiFi, ensuring a stay that is both..."
-featuredImage: "/images/accommodation/458119776.jpg"
-language: en
-slug: lovely-appartament-a
-location: ""
-amenities: []
-images: []
----
-
-This exquisite property provides guests with the luxury of a balcony, complimentary private parking, and high-speed WiFi, ensuring a stay that is both relaxing and connected. The smoke-free environment adds to the appeal, creating a clean and inviting atmosphere for all who visit.
+---\ntitle: "Lovely appartament, A"\ndescription: "Discover the charm of Tirana with a stay at Lovely Apartment A, a prime choice for travelers seeking comfort and convenience in Albania's vibrant capital."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458119776.jpg?k=454ac9c4de2fe90f8878f2527db90d9dfb118b5c51fa78671ce51496a18aeb8b&o=&hp=1"\nlanguage: en\nslug: lovely-appartament-a\naddress: "Rruga Gjon Mili, 1017 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3457822\n  lng: 19.8176044\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458119776.jpg?k=454ac9c4de2fe90f8878f2527db90d9dfb118b5c51fa78671ce51496a18aeb8b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/454374048.jpg?k=619701d71d9a347a1b553341078fd0e7bb1f41a676fd0de40bbd7735996cc06b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/454379395.jpg?k=13e02c65d78cd95f304086bd68ee89bc3395419691cf53727ebba8d46c997c8c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/454379384.jpg?k=325ef702cc8e81d9533dcaab4cf4234537a901465308a166d29ddcc35410f3e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/454379424.jpg?k=c9ef6dfd2f83dba5384a4f68b158467decf64af615fd45209b0450ea3ed626ba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/458119999.jpg?k=7cc1c8e1e730a1519b64f45ede4ccb7764a694ab5c46620db140ff276bee35e5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/458129727.jpg?k=3209a8bbe0a22e4ed35503cbc72ddf076b00144651c4105f1ef39a970db68e24&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Fast free WiFi (100 Mbps)"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Clock Tower Tirana 2 km"\n  - "House of Leaves 2.1 km"\n  - "National Gallery of Arts Tirana 2.2 km"\n  - "Tanners' Bridge 2.3 km"\n  - "Rinia Park 2.3 km"\n  - "Former Residence of Enver Hoxha 2.8 km"\n  - "Bunk'Art 1 Museum 3.6 km"\n  - "Grand Park of Tirana 3.8 km"\nnearbyRestaurants:\n  - "Birrari Ke Tori 250 m"\n  - "Blendi 350 m"\nwhatsNearby:\n  - "Amazing Nature 1.4 km"\n  - "Sheshi Rekreativ Don Bosko 1.4 km"\n  - "Sheshi Rekreativ Allias 1.5 km"\n  - "Sheshi Rekreativ Mine Peza 1.5 km"\n  - "National Museum of History Albania 1.8 km"\n  - "Sheshi Paris 1.8 km"\n  - "Sheshi Skënderbej 1.9 km"\n  - "Sheshi Sulejman Pasha 1.9 km"\n  - "Sheshi Jjosef Shtraus 2 km"\n  - "Skanderbeg Square 2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/lovly-apart-2.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis exquisite property provides guests with the luxury of a balcony, complimentary private parking, and high-speed WiFi, ensuring a stay that is both relaxing and connected. The smoke-free environment adds to the appeal, creating a clean and inviting atmosphere for all who visit.
 
 The apartment itself is a haven of modern living, featuring an air-conditioned space that includes a separate bedroom, a cozy living room, a fully equipped kitchen for those who love to cook, and a bathroom. Entertainment needs are well catered for with the inclusion of a flat-screen TV, making it easy to unwind after a day of sightseeing.
 
 For those interested in delving deeper into Albania's past, the National Museum of History Albania is just 2.4 km away, while the National Theatre of Opera and Ballet of Albania is a mere 2.6 km from the doorstep. Additionally, the convenience of being only 13 km from Tirana International Mother Teresa Airport makes Lovely Apartment A an excellent choice for both short and long-term stays.
 
 In summary, Lovely Apartment A stands out as a top-tier accommodation option for visitors to Tirana, offering a blend of comfort, convenience, and access to cultural hotspots, making it a must-stay for discerning travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

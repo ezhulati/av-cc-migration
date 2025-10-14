@@ -1,28 +1,6 @@
----
-title: Vila Muslli
-description: Guests at Vila Muslli are treated to rooms that redefine relaxation, each featuring a balcony that presents a tranquil garden view, perfect for those moments of
-featuredImage: "/images/accommodation/416213008.jpg"
-language: en
-slug: vila-muslli
-location: ""
-amenities: []
-images: []
----
-
-Guests at Vila Muslli are treated to rooms that redefine relaxation, each featuring a balcony that presents a tranquil garden view, perfect for those moments of reflection or a morning cup of coffee. The attention to detail in each room is evident, with amenities such as air conditioning, a flat-screen TV, and a private bathroom equipped with a bidet, hairdryer, and slippers, all contributing to an atmosphere of unparalleled comfort.
+---\ntitle: "Vila Muslli"\ndescription: "Vila Muslli stands as a distinguished 4-star haven in Korçë, merely 42 km away from the serene Ohrid Lake Springs and the historic Monastery Saint Naum."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416213008.jpg?k=6094816e8a37325c1f870cd7b041ef318e792027a1c6107e8c2659c026567edb&o=&hp=1"\nlanguage: en\nslug: vila-muslli\naddress: "Rruga Thanas Floqi Perballe \"Big Market\", Unaze, Korce, 7001 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.62483037\n  lng: 20.77365244\nprice: "US$86"\npriceFrom: 86\nstarRating: 4\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 7\nratings:\n  overall: 9.7\n  location: 9.6\n  cleanliness: 9.6\n  facilities: 10\n  value: 9.6\n  comfort: 10\n  staff: 9.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416213008.jpg?k=6094816e8a37325c1f870cd7b041ef318e792027a1c6107e8c2659c026567edb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518975326.jpg?k=d16c6b12f0e32eba88d22c564010e3bd6f58970b73c20ee61ddac5a34d7e7135&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518958661.jpg?k=7b71a86ab02b8e06404de81a993aadc8876ac18e59788e6cf7ade1d4f38297c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518979459.jpg?k=1f04456fbf5a3a4e0afb03121fa0b9459b85626b96a7a8bddca5aa6110e8da96&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518975335.jpg?k=861e9bdbfd93cf82d0bf493e8660cd51a4d6b9cf2b98466f904bdf8b50ca5e9f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518958649.jpg?k=db7e839a4031572e372e19b0002e9842245556d4cfddc1c70fb4658ac7be1885&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Family Suite"\nnearbyRestaurants:\n  - "Viktoria Coffee Winners 200 m"\n  - "Klajdi 350 m"\nwhatsNearby:\n  - "Parku Themistokli Gërmenji 1,000 m"\n  - "Field of Tears 1 km"\n  - "Parku Rinia 1.1 km"\n  - "Parku Vangjush Mio 1.1 km"\n  - "Parku Rinia 1.1 km"\n  - "Sheshi Patriku Joasaf 1.3 km"\n  - "Sheshi Panxhar 4.6 km"\n  - "Sheshi Penetori 11 km"\n  - "Sheshi Koço Plaku 12 km"\nairports:\n  - "Kastoria National Airport 46 km"\n  - "Ohrid Airport 60 km"\n  - "Kozani National Airport 97 km"\nreviews:\n  - name: "Hayley"\n    country: "United Kingdom"\n    text: "“Our room was lovely and clean and also nice and warm as we stayed in the winter months also the breakfast was amazing and staff were lovely”"\n  - name: "Hector"\n    country: "Spain"\n    text: "“Todas las comodidades que ofrecía la habitación.
+Cenamos en el hotel y la relación calidad-precio es buenísima.”"\n  - name: "Khw1958"\n    country: "Germany"\n    text: "“Ganz modern, super Lage, wenn man morgens um 6 Uhr mit dem Bus weiter fahren will”"\nbookingURL: "https://www.booking.com/hotel/al/vila-muslli-korce.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nGuests at Vila Muslli are treated to rooms that redefine relaxation, each featuring a balcony that presents a tranquil garden view, perfect for those moments of reflection or a morning cup of coffee. The attention to detail in each room is evident, with amenities such as air conditioning, a flat-screen TV, and a private bathroom equipped with a bidet, hairdryer, and slippers, all contributing to an atmosphere of unparalleled comfort.
 
 The commitment to guest satisfaction is further underscored by the provision of room service and the assurance of a 24-hour front desk, ready to attend to any need that may arise during the stay. For those traveling to or from the area, the proximity to Kastoria National Airport, just 70 km away, adds an extra layer of convenience to the experience at Vila Muslli.
 
 In summary, Vila Muslli emerges as a premier choice for travelers seeking a blend of comfort, convenience, and a touch of luxury during their visit to Korçë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Hostel Mateo
-description: Accommodations at Hostel Mateo are thoughtfully equipped to ensure a comfortable stay. Each guest room is furnished with air conditioning, a refrigerator, an ov
-featuredImage: "/images/accommodation/519604572.jpg"
-language: en
-slug: hostel-mateo
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Hostel Mateo"\ndescription: "Hostel Mateo stands out as a charming retreat in the heart of Gjirokastër, offering a unique blend of communal ambiance and private comfort."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519604572.jpg?k=146064945dcec36521e122d76d887e52b12bd87ccf5d89948e101fe19b0a9151&o=&hp=1"\nlanguage: en\nslug: hostel-mateo\naddress: "Rruga Rilindasve, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "hostel"\ncoordinates:\n  lat: 40.07824181\n  lng: 20.14624889\nprice: "US$22"\npriceFrom: 22\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519604572.jpg?k=146064945dcec36521e122d76d887e52b12bd87ccf5d89948e101fe19b0a9151&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519604674.jpg?k=672f83a9ae4ac8bcef9ca05a375066b7bb33b4faced368e9b4fcceaaa248609a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519604739.jpg?k=1012ddb163c455c80a51a1b7a58f692640837ed7ac61ec08a8f07dfebe9052eb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519604811.jpg?k=bb34fa9f1dd56ad69a9ffe3fb5725f3869c835f5b5e1d65b939a06f3d875feae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519604768.jpg?k=93b36f845d36735cd8f48e3a136642744eb3f2710c803ba315730e231997ddc1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519604730.jpg?k=654577bb1fd1eb9ff502652377048e6dd4a292183ded7b6b50c2e189fb4382ca&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Single Bed in 4-Bed Dormitory Room"\n  - "Single Bed in Dormitory Room"\n  - "Single Bed in Dormitory Room"\n  - "Single Bed in 4-Bed Dormitory Room"\n  - "Single Bed in 4-Bed Dormitory Room"\n  - "Single Bed in 4-Bed Dormitory Room"\n  - "Single Bed in Dormitory Room"\n  - "Double Room"\n  - "Triple Room"\nnearbyRestaurants:\n  - "Coyote 200 m"\n  - "Argjiro Patisserie 250 m"\nairports:\n  - "Corfu International Airport 56 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/hostel-mateo.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nAccommodations at Hostel Mateo are thoughtfully equipped to ensure a comfortable stay. Each guest room is furnished with air conditioning, a refrigerator, an oven, and a coffee machine, catering to the needs of modern travelers. The convenience of a private bathroom, complete with a shower, hairdryer, slippers, and fresh bed linen, adds to the comfort of the stay.
 
-Accommodations at Hostel Mateo are thoughtfully equipped to ensure a comfortable stay. Each guest room is furnished with air conditioning, a refrigerator, an oven, and a coffee machine, catering to the needs of modern travelers. The convenience of a private bathroom, complete with a shower, hairdryer, slippers, and fresh bed linen, adds to the comfort of the stay.
-
-Morning at Hostel Mateo begins with the option of an à la carte breakfast, allowing guests to start their day on a delightful note.
+Morning at Hostel Mateo begins with the option of an à la carte breakfast, allowing guests to start their day on a delightful note. 
 
 Located a mere 43 km from the tranquil Zaravina Lake and 82 km from Ioannina Airport, Hostel Mateo serves as an ideal base for exploring the enchanting surroundings of Gjirokastër or venturing further afield.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

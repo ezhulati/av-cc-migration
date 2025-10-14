@@ -4,9 +4,19 @@ description: Accommodations at Sar'Otel are a testament to modern elegance, with
 featuredImage: "/images/accommodation/46649316.jpg"
 language: en
 slug: sarotel-boutique-hotel
-location: ""
-amenities: []
 images: []
+category: "4-Star"
+starRating: 4
+rating: 4
+accommodationType: "hotel"
+location: "Tirana"
+amenities:
+  - "Air Conditioning"
+  - "Bar"
+  - "Spa"
+  - "Breakfast"
+  - "Balcony"
+  - "TV"
 ---
 
 Accommodations at Sar'Otel are a testament to modern elegance, with each room bathed in natural light, showcasing contemporary furnishings. Guests will find all the essentials for a relaxing stay, such as a flat-screen TV, air conditioning, a minibar, and a workspace. The private bathrooms are equipped with showers, and most rooms boast the added luxury of a balcony.
@@ -17,14 +27,3 @@ The hotel's prime location places guests in the vicinity of vibrant nightclubs a
 
 For those exploring the city, local bus stops are conveniently located 100 meters from the hotel, with the Main Train Station 600 meters away. Tirana Airport is situated 18 km from the hotel, making arrivals and departures a breeze. Sar'Otel Boutique Hotel emerges as a top choice for travelers seeking a blend of modern comfort, convenience, and access to Tirana's rich cultural landscape.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

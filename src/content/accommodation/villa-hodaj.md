@@ -1,30 +1,7 @@
----
-title: Villa Hodaj
-description: This property stands out with its expansive garden views, accessible from a private balcony that invites guests to unwind in the midst of nature. Convenience is
-featuredImage: "/images/accommodation/442390517.jpg"
-language: en
-slug: villa-hodaj
-location: ""
-amenities: []
-images: []
----
-
-This property stands out with its expansive garden views, accessible from a private balcony that invites guests to unwind in the midst of nature. Convenience is paramount, with complimentary private parking and WiFi enhancing the stay for every guest. Moreover, the option for outdoor dining adds a charming touch to meals, allowing guests to savor their dishes under the open sky.
+---\ntitle: "Villa Hodaj"\ndescription: "Villa Hodaj emerges as a serene retreat in Orikum, offering guests a unique blend of comfort and natural beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442390517.jpg?k=81fd8720dae20d2438f8bc16168d758b28945161c20bae5c08a1c5414125338d&o=&hp=1"\nlanguage: en\nslug: villa-hodaj\naddress: "Tahir hoxha, 9426 Orikum, Albania"\ncity: "Orikum"\nlocation: "Orikum"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.32787188\n  lng: 19.5090117\nprice: "US$82"\npriceFrom: 82\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 2\nratings:\n  overall: 7.9\n  location: 5\n  cleanliness: 8.8\n  facilities: 7.5\n  value: 7.5\n  comfort: 8.8\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442390517.jpg?k=81fd8720dae20d2438f8bc16168d758b28945161c20bae5c08a1c5414125338d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442390591.jpg?k=b25c2427d10b58a767b655b744eb05c70d9b55dd12fb33dd4c1c1a19a2514e62&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442390596.jpg?k=f9aff975ef7e9b5a0da0c2fbde5644e7b3677b495dacd9baa58d220ceb5d1fa9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442390539.jpg?k=dadc14a6a9a7e9608d88bc695ad5b2eb004c115ab918b1d4b86b5d82178c4323&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442390547.jpg?k=4c4da5abc6565ec412ccdc3c0886350335a3c2235fd39ef7079f661c04235c69&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442390605.jpg?k=19f09009fd88fcf49cc2d19f912dfbd5d64d39edd2da1553a41a327afcc2cbde&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442390593.jpg?k=b5c641de718f134b94de4aac05c16928a32496a067a6e96ffe293ab66660e7f4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442390586.jpg?k=e1ebdd76ab330bb5fce82383f0c6a35a93c7f22a869beaecd00c1b8331bfcdde&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442390530.jpg?k=4eda92dd55c039109d804144ced0f71efbde2b4d81fd2262701849f90c1cd657&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Villa"\nnearbyRestaurants:\n  - "Bar Restorant Rrepet E Izvorit 550 m"\n  - "Pastiçeri Epoca 2.6 km"\nnearbyBeaches:\n  - "Al Breeze Beach 2.9 km"\n  - "Baro Beach 2.9 km"\n  - "Radhimë Beach 3.4 km"\n  - "Nettuno Beach 3.5 km"\n  - "Orikum Beach 4.4 km"\nwhatsNearby:\n  - "Llogora National Park 12 km"\n  - "Scooby Doo Vlore 12 km"\n  - "Kuzum Baba 16 km"\n  - "Independence Square 16 km"\nairports:\n  - "Corfu International Airport 87 km"\nreviews:\n  - name: "Ermanno"\n    country: "Italy"\n    text: "“The house is large surrounded by greenery, a typical country house, the sea is beautiful 10 minutes away”"\nbookingURL: "https://www.booking.com/hotel/al/villa-hodaj-orikum.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThis property stands out with its expansive garden views, accessible from a private balcony that invites guests to unwind in the midst of nature. Convenience is paramount, with complimentary private parking and WiFi enhancing the stay for every guest. Moreover, the option for outdoor dining adds a charming touch to meals, allowing guests to savor their dishes under the open sky.
 
 Accommodation at Villa Hodaj is generously spacious, featuring a layout that includes 4 bedrooms, 2 living rooms, and a terrace that boasts breathtaking mountain views. The villa is equipped with modern amenities such as a flat-screen TV, an oven, and a fridge, ensuring a comfortable stay. The presence of 2 bathrooms equipped with a bidet underscores the villa's commitment to convenience and comfort.
 
 The design of the villa caters to a diverse range of guests, with soundproof rooms that feature tiled floors and a cozy fireplace, creating an inviting ambiance. Additionally, the property is allergy-free and maintains a non-smoking policy, prioritizing the well-being and comfort of all guests.
 
 For those traveling to or from the area, the proximity to Tirana International Mother Teresa Airport, located 171 km away, makes Villa Hodaj a practical choice for both short and extended stays. This villa not only promises a peaceful and comfortable lodging experience but also serves as a gateway to the rich cultural and natural attractions of Orikum.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

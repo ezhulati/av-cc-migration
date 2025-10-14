@@ -4,9 +4,17 @@ description: The apartment itself is a sanctuary of modern living, boasting a sp
 featuredImage: "/images/accommodation/519332788.jpg"
 language: en
 slug: alles-komuna-parisit-lux-apartment
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "hotel"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Spa"
+  - "Kitchen"
+  - "TV"
 ---
 
 The apartment itself is a sanctuary of modern living, boasting a spacious bedroom, a fully equipped kitchen for those who love to cook, and a sleek bathroom. Entertainment needs are well catered for with the inclusion of a flat-screen TV, ensuring guests have a comfortable stay. The entire space is a smoke-free environment, promoting a clean and healthy atmosphere.
@@ -17,14 +25,3 @@ Nature and history enthusiasts will appreciate the proximity to the Grand Park o
 
 For travelers arriving by air, the Tirana International Mother Teresa Airport is just 15 km away, making Alle's Komuna Parisit Lux Apartment an accessible haven for both short-term visits and longer stays. This apartment not only promises a stay filled with exploration and discovery but also offers a peaceful retreat after a day of adventures in Albania's captivating capital.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

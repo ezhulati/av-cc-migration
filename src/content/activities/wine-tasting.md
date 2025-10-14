@@ -5,6 +5,10 @@ category: Agrotourism
 featuredImage: /images/activities/wine-tasting.jpg
 language: en
 slug: wine-tasting
+seo:
+  metaTitle: "Albanian Wine - Discover The Next Big Thing in Viticulture"
+  metaDescription: " Discover the rich history and unique flavors of Albanian wine. Explore the country's diverse wine regions and indigenous grape varieties."
+  focusKeyword: "Albanian Wine"
 ---
 
 The History of Albanian Wine
@@ -121,10 +125,3 @@ With its unique terroir, indigenous grape varieties, and passionate winemakers, 
 
 So, why not take a sip and discover the rich flavors of Albanian wine?
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

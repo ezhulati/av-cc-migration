@@ -1,28 +1,5 @@
----
-title: Seaside Escape
-description: The apartment itself is a study in spaciousness and convenience, featuring a bedroom that invites relaxation, a flat-screen TV for entertainment, and a fully eq
-featuredImage: "/images/accommodation/472241999.jpg"
-language: en
-slug: seaside-escape
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a study in spaciousness and convenience, featuring a bedroom that invites relaxation, a flat-screen TV for entertainment, and a fully equipped kitchen. Here, every detail from the fridge to the kitchenware, and even a washing machine, is thoughtfully provided for. The highlight, however, is the outdoor dining area, where guests can savor their meals against the backdrop of stunning sea views, adding a touch of magic to every dining experience.
+---\ntitle: "Seaside Escape"\ndescription: "Seaside Escape, located in the vibrant heart of Sarandë, stands a mere 700 meters from Saranda City Beach and just a short stroll from La Petite Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472241999.jpg?k=e60db1bea73be624f0f5e1d80a311503402e8643fd8b428b019742d4ab6c05e5&o=&hp=1"\nlanguage: en\nslug: seaside-escape\naddress: "Rruga Gjergj Araniti, 9700 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87124379\n  lng: 20.01750891\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472241999.jpg?k=e60db1bea73be624f0f5e1d80a311503402e8643fd8b428b019742d4ab6c05e5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472242677.jpg?k=bc355c241a2f410b14f8e2649de8f241f06bc3ac729577a9e6bad0b460e1aeed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472242369.jpg?k=9c07e207454e4bac20ad5fcdea26aca6b3a20e5d2ff0544e66fb577905d790a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472243073.jpg?k=7fbd20c409ad23ccf329e72054811a00dfd20fc5a440662cae843f2e6b4845a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472242239.jpg?k=7802cf4d63886b214cbe74a727fcc39180418c82edd9fb849d0f77b468ccfdc4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472242502.jpg?k=427fdfb4c02a198ea0a3becad7dc58f2035521de0bbe75bcfe9877b73cf607c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472242345.jpg?k=bb4f71fffc8cd1433cf455a5065fb9e51e6250729465f3238fdb5c6a35f6ee7a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472242790.jpg?k=61934d007a24cfd96902e5a9ff21271047da934dc6ddb786e82f44a6421698a8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472242162.jpg?k=87ce456caa4f6d8f49fef055686b7771ae8f5ee80e265c3ecd90d4df8a900c88&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Terrace"\nnearbyRestaurants:\n  - "Bar Kafe \Enea\\"\" 150 m"\n  - "Restorant Kalija 150 m"\nnearbyBeaches:\n  - "Saranda City Beach 300 m"\n  - "La Petite Beach 400 m"\n  - "Maestral Beach 500 m"\n  - "Sarande Main Beach 1.3 km"\n  - "VIP Beach 1.4 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.5 km"\n  - "Butrint National Park 2.4 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/seaside-escape.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe apartment itself is a study in spaciousness and convenience, featuring a bedroom that invites relaxation, a flat-screen TV for entertainment, and a fully equipped kitchen. Here, every detail from the fridge to the kitchenware, and even a washing machine, is thoughtfully provided for. The highlight, however, is the outdoor dining area, where guests can savor their meals against the backdrop of stunning sea views, adding a touch of magic to every dining experience.
 
 Beyond the confines of Seaside Escape, Maestral Beach beckons at just 1.2 km away, offering a perfect spot for sun-seekers and water enthusiasts. For those inclined towards nature and history, the Butrint National Park, located 15 km away, offers a rich tapestry of cultural heritage amidst natural beauty. For international travelers, Ioannina Airport is the nearest gateway, situated 95 km from the apartment, making Seaside Escape an accessible haven of tranquility and convenience.
 
 In essence, Seaside Escape emerges as a premier choice for travelers seeking a blend of serenity, comfort, and scenic beauty in Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

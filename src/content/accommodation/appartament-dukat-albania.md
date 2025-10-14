@@ -1,26 +1,5 @@
----
-title: Appartament Dukat Albania
-description: The apartment boasts a spacious terrace that presents breathtaking mountain vistas, setting the stage for a tranquil escape or a morning coffee with nature. Ins
-featuredImage: "/images/accommodation/0e43c9b9a23d334b52510a328641c048847226bc.png"
-language: en
-slug: appartament-dukat-albania
-location: ""
-amenities: []
-images: []
----
-
-The apartment boasts a spacious terrace that presents breathtaking mountain vistas, setting the stage for a tranquil escape or a morning coffee with nature. Inside, guests are treated to modern comforts including a flat-screen TV and a fully equipped kitchen, complete with an oven, fridge, and stovetop, ensuring a home-away-from-home experience. The inclusion of a bathroom outfitted with a bidet and plush bathrobes adds a touch of luxury to the stay.
+---\ntitle: "Appartament Dukat Albania"\ndescription: "Appartament Dukat Albania emerges as a serene retreat, located in the quaint town of Dukat, a mere 36 km away from the historic Kuzum Baba and Independence Square."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"\nlanguage: en\nslug: appartament-dukat-albania\naddress: "rruga Dukat Himare 14, 9426 Dukat, Albania"\ncity: "Dukat"\nlocation: "Dukat"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.23499994\n  lng: 19.55487339\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 8.3\nratingWords: "Very Good"\nnumberOfReviews: 1\nratings:\n  overall: 8.3\n  location: 5\n  cleanliness: 7.5\n  facilities: 10\n  value: 7.5\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"\n  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495057407.jpg?k=6e5a9d6fbaab1a7a2e6c6f8ea68e52b7343b00c43a0f9c6e90eabc819fd136d6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/495056907.jpg?k=2f641d2ece4b2bd3161f0aa9c139eb8dae41789869202a1bc94eb616c12fb9ec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/493960155.jpg?k=593aa3ca82f874342a8c8c8dc6de167db5bb787898140fd37b96ade30df62516&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/493960168.jpg?k=62b3f5aaace9add8c672ec9291a69c38a3a6863e04563eba1baef0c999ec910d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/493960188.jpg?k=a84a98fe4b02f9781656327f18766e0e4037ace7b2c1993cc68d52dbec93efe5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/493960176.jpg?k=882bce8f67b3852e6cad2dd1dfc4480b287c52077ffcb70b1e33051e32d64337&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/493960181.jpg?k=7a2b0f6b329552965c59e62c667371898eb03df576e48b9cdf37c16443c66ba3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/493960165.jpg?k=12688480f0a5876578cb0472bb99c733e468cab8180a6ce7ddb2dd0084d26cad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/493960179.jpg?k=7868cd8a1fdbb77693a3243aef438c97eca8a811c9cb83aecd3704002d17980b&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Alegria 500 m"\n  - "Restorant \Petro\\"\" 2.1 km"\nnearbyBeaches:\n  - "Grama Bay Beach 7 km"\n  - "Nazar Beach 7 km"\n  - "Palasa Beach 9 km"\nwhatsNearby:\n  - "Llogora National Park 500 m"\nairports:\n  - "Corfu International Airport 76 km"\nreviews:\n  - name: "Marlen"\n    country: "Germany"\n    text: "“It's an own apartment next to the hosts house, but with a separate entry.
+There is a kitchen, a bathroom and a livingroom to sleep.
+The hosts are very friendly and generous people, who were always ready to help.”"\nbookingURL: "https://www.booking.com/hotel/al/appartamento-dukat-albania.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe apartment boasts a spacious terrace that presents breathtaking mountain vistas, setting the stage for a tranquil escape or a morning coffee with nature. Inside, guests are treated to modern comforts including a flat-screen TV and a fully equipped kitchen, complete with an oven, fridge, and stovetop, ensuring a home-away-from-home experience. The inclusion of a bathroom outfitted with a bidet and plush bathrobes adds a touch of luxury to the stay.
 
 For those looking to explore beyond the serene surroundings, Tirana International Mother Teresa Airport is located 185 km away, making Appartament Dukat Albania an accessible haven for both local and international travelers seeking tranquility and comfort.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

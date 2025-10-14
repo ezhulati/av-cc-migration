@@ -1,28 +1,5 @@
----
-title: Marsela
-description: This accommodation doesn't just offer a place to stay; it provides a spacious haven. Guests are welcomed into a generously sized apartment featuring a balcony t
-featuredImage: "/images/accommodation/405530632.jpg"
-language: en
-slug: marsela
-location: ""
-amenities: []
-images: []
----
-
-This accommodation doesn't just offer a place to stay; it provides a spacious haven. Guests are welcomed into a generously sized apartment featuring a balcony that invites relaxation, two cozy bedrooms for a restful night's sleep, a living room designed for leisure, and a well-equipped kitchen that caters to culinary needs. Entertainment is readily available with a flat-screen TV, ensuring guests have everything they need for a comfortable stay.
+---\ntitle: "Marsela"\ndescription: "Marsela emerges as a serene retreat in Shkodër, boasting garden views that promise a tranquil escape."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405530632.jpg?k=c8bb542208bc8adb4e3b24099aa1d3cf325e88d6058ee5885eb4bed4f209318c&o=&hp=1"\nlanguage: en\nslug: marsela\naddress: "grand’ resort Europa velipoje, Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.86597225\n  lng: 19.42304313\nprice: "US$50"\npriceFrom: 50\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405530632.jpg?k=c8bb542208bc8adb4e3b24099aa1d3cf325e88d6058ee5885eb4bed4f209318c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/405530639.jpg?k=774aa93cac7c76b6be2e436eed989d2570b0bcf3d75d444060fd2d6a75a7a438&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/405530640.jpg?k=593a6dad53997858fdcf10c2ab76d3db4a34bd2f87422aae4a06193b7d240123&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/405530642.jpg?k=e79bff1e95e141a5b81d96798753c07a4cfaf0babe92e3205c57d3adb13be863&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/405530644.jpg?k=aab87ef4d9f7dee378cccddfae17b609943abcd7183302cc2677f17fb92b7738&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/405530647.jpg?k=a53eec0bfc90ab75d9496c6dbec16c0e239359d64d6fa1fe1d6f44de65a64df4&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "Old Town Ulcinj 19 km"\nnearbyRestaurants:\n  - "Mondo Pizza al Mare 200 m"\n  - "Restorant Renti 200 m"\nnearbyBeaches:\n  - "Velipoja Beach 450 m"\n  - "Rana e Hedhun Beach 2.2 km"\n  - "Ada Bojana Beach 4.7 km"\n  - "Velika Plaza Beach 7 km"\nwhatsNearby:\n  - "Copacabana 10 km"\n  - "Cola Beach 11 km"\n  - "Imperiam Beach 12 km"\n  - "Msm Beach 13 km"\n  - "Tropicana 13 km"\n  - "Plaža Safari 14 km"\n  - "Bukurija Beach 14 km"\n  - "Saranda 15 km"\n  - "Plaža Toni 15 km"\n  - "Nudistička Plaža Albatros 18 km"\nairports:\n  - "Tirana International Airport Mother Teresa 54 km"\n  - "Podgorica Airport 55 km"\n  - "Tivat Airport 82 km"\npaymentMethods:\n  - "Mastercard"\nbookingURL: "https://www.booking.com/hotel/al/marsela-shkoder.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis accommodation doesn't just offer a place to stay; it provides a spacious haven. Guests are welcomed into a generously sized apartment featuring a balcony that invites relaxation, two cozy bedrooms for a restful night's sleep, a living room designed for leisure, and a well-equipped kitchen that caters to culinary needs. Entertainment is readily available with a flat-screen TV, ensuring guests have everything they need for a comfortable stay.
 
 Adding to the convenience, Marsela is proud to offer complimentary WiFi and private parking on site, ensuring that guests' connectivity and security needs are seamlessly met. The commitment to a smoke-free environment further enhances the quality of stay, making it a suitable choice for those who prioritize health and comfort.
 
 For travelers flying in, the Tirana International Mother Teresa Airport is located 83 km away, making Marsela an accessible choice for both local and international visitors seeking a peaceful retreat amidst the beauty of Shkodër.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

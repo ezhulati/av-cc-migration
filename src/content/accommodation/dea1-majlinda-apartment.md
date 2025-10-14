@@ -1,28 +1,5 @@
----
-title: Dea1 Majlinda Apartment
-description: Guests at Dea1 Majlinda can enjoy the luxury of free WiFi accessible throughout the apartment, ensuring connectivity and convenience are at their fingertips. Th
-featuredImage: "/images/accommodation/480145031.jpg"
-language: en
-slug: dea1-majlinda-apartment
-location: ""
-amenities: []
-images: []
----
-
-Guests at Dea1 Majlinda can enjoy the luxury of free WiFi accessible throughout the apartment, ensuring connectivity and convenience are at their fingertips. The proximity to Sarande Main Beach, just 400 meters away, positions this apartment as an ideal base for beach lovers and explorers alike.
+---\ntitle: "Dea1 Majlinda Apartment"\ndescription: "Dea1 Majlinda Apartment emerges as a standout choice for travelers seeking comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480145031.jpg?k=8fa25c42377b7daeeedf0af75066b26fbc216c69d76f346b8756ba0ae0792bee&o=&hp=1"\nlanguage: en\nslug: dea1-majlinda-apartment\naddress: "Rruga Ismail Qemali, Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87200647\n  lng: 19.99866475\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 8.7\nratingWords: "Very Good"\nnumberOfReviews: 4\nratings:\n  overall: 8.7\n  location: 8.8\n  cleanliness: 8.8\n  facilities: 8.1\n  value: 8.8\n  comfort: 8.8\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480145031.jpg?k=8fa25c42377b7daeeedf0af75066b26fbc216c69d76f346b8756ba0ae0792bee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480170395.jpg?k=c83bd1b102158f1964476c87bb731ecaaafc8672eda946aeb0c33498db695e1c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480170603.jpg?k=0ee6cb5a54e18a02090f440836ff2033ed8ee8bf97d7d41d44ce25eb476a858c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480172242.jpg?k=986ba70d02d7c47d05c0c53dd516b39c2761e64253d72d7b8cb65cb56b63fd70&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480144949.jpg?k=63a0e519355eb46c8dc12fde785f966a62408b99ca53773cf81751ace6a967aa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480169004.jpg?k=3793b9d9a5a476004b8f798277637707648361524e3fcadf8d4cce4cadf0cd7a&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Sunset 200 m"\n  - "Piccolino Beach 200 m"\nnearbyBeaches:\n  - "Sarande Main Beach 250 m"\n  - "Saranda City Beach 950 m"\n  - "La Petite Beach 1.4 km"\n  - "Maestral Beach 1.5 km"\n  - "Saranda Bay Beach 1.5 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.7 km"\n  - "Butrint National Park 3.3 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Angjelos"\n    country: "Greece"\n    text: "“Very clean house with fridge , stove and washing machine .”"\n  - name: "Athanasakis"\n    country: "Greece"\n    text: "“very close to everything. Walk away. Very kind hosts and kind-hearted. Clean room and we got watermelon.”"\n  - name: "Giulia"\n    country: "Italy"\n    text: "“The apartment is located near the port, so very convenient for luggage, without having to call a taxi (expensive) ! Clean and modernly furnished facility”"\nbookingURL: "https://www.booking.com/hotel/al/dea1-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Dea1 Majlinda can enjoy the luxury of free WiFi accessible throughout the apartment, ensuring connectivity and convenience are at their fingertips. The proximity to Sarande Main Beach, just 400 meters away, positions this apartment as an ideal base for beach lovers and explorers alike.
 
 Each air-conditioned unit within the apartment is thoughtfully equipped with a range of amenities designed for a comfortable stay. These include a private bathroom, a flat-screen TV for entertainment, a fully equipped kitchen for those who love to cook, and a balcony to enjoy the serene surroundings.
 
 For travelers flying in, Ioannina Airport is the nearest hub, located 97 km from the apartment, making Dea1 Majlinda Apartment a feasible and attractive option for both domestic and international visitors.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

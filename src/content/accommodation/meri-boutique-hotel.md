@@ -1,30 +1,7 @@
----
-title: Meri Boutique Hotel
-description: Guests at Meri Boutique Hotel are treated to unparalleled service, including room service and a 24-hour front desk, ensuring needs are met around the clock. The
-featuredImage: "/images/accommodation/312922711.jpg"
-language: en
-slug: meri-boutique-hotel
-location: ""
-amenities: []
-images: []
----
-
-Guests at Meri Boutique Hotel are treated to unparalleled service, including room service and a 24-hour front desk, ensuring needs are met around the clock. The entire hotel is equipped with complimentary WiFi, allowing guests to stay connected with ease. Select accommodations delight with a balcony, offering sweeping views of the cityscape.
+---\ntitle: "Meri Boutique Hotel"\ndescription: "Meri Boutique Hotel stands out as a charming retreat in Korçë, offering guests a unique blend of comfort and convenience with its array of amenities and services."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312922711.jpg?k=d77795100e42a9b9b344618197706b2dd89baa67c94d5367b174966552cdee36&o=&hp=1"\nlanguage: en\nslug: meri-boutique-hotel\naddress: "rruga 29 Nentori, Korce, 1001 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.61904504\n  lng: 20.78138899\nprice: "US$59"\npriceFrom: 59\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 139\nratings:\n  overall: 9.6\n  location: 9.5\n  cleanliness: 9.5\n  facilities: 9.4\n  value: 9.6\n  comfort: 9.7\n  staff: 9.5\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312922711.jpg?k=d77795100e42a9b9b344618197706b2dd89baa67c94d5367b174966552cdee36&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312921951.jpg?k=35a37c140f084b9b07e1f3f17eee619d3b35e22f9902f94067e829f3e6d9bc40&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325571720.jpg?k=8601835a5dbf7f0ffb36ace15e99c7f4b6fc0e2b8f1c5f35b4cb3e0e271e47be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312910133.jpg?k=44ca1afeb5172d644b2bd5d9da38a116be8eba30c626c06d33b9e053eac3504c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312922249.jpg?k=5093a93603b3a4cb722235a203310a151217935212fc0f14bcf316ea5ce2f6be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325533873.jpg?k=0c12490c35e2dbff4dd5a50a72b8a74a8c6458b8b80ebc16b7d6ebc98f6c23cf&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Triple Room with Balcony"\n  - "Penthouse Apartment"\n  - "Superior Triple Room"\nnearbyRestaurants:\n  - "Pishina Blue Eye 50 m"\n  - "Vila Korça 100 m"\nwhatsNearby:\n  - "Parku Themistokli Gërmenji 100 m"\n  - "Field of Tears 100 m"\n  - "Sheshi Patriku Joasaf 400 m"\n  - "Parku Rinia 500 m"\n  - "Parku Vangjush Mio 500 m"\n  - "Parku Rinia 900 m"\n  - "Sheshi Panxhar 6 km"\n  - "Sheshi Koço Plaku 11 km"\n  - "Sheshi Penetori 12 km"\nairports:\n  - "Kastoria National Airport 45 km"\n  - "Ohrid Airport 61 km"\n  - "Kozani National Airport 96 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Lena"\n    country: "Germany"\n    text: "“Very nice and big room, clean & comfy, breakfast was good, no buffet because of off season probably. Special kind of bathroom, you can look insinde the bathroom through windows from the room. Beatiful big balcony. Almost like a suite.”"\n  - name: "Deborah"\n    country: "United States"\n    text: "“Nice hotel. Great rooms. Staff was excellent. Great location.”"\n  - name: "Manila"\n    country: "Albania"\n    text: "“The room was really nice and comfy and the staff was very polite.”"\nbookingURL: "https://www.booking.com/hotel/al/meri-boutique.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nGuests at Meri Boutique Hotel are treated to unparalleled service, including room service and a 24-hour front desk, ensuring needs are met around the clock. The entire hotel is equipped with complimentary WiFi, allowing guests to stay connected with ease. Select accommodations delight with a balcony, offering sweeping views of the cityscape.
 
 Accommodations are thoughtfully designed with guest comfort in mind, featuring a cozy seating area, a flat-screen TV with cable channels, and a private bathroom stocked with complimentary toiletries and a bidet. For those desiring the comforts of home, certain rooms are equipped with a kitchen, complete with an oven and a stovetop, while all rooms include a fridge for convenience.
 
 Dining at the hotel is a pleasure, with options for a continental, American, or vegetarian breakfast each morning. For outdoor enthusiasts, Meri Boutique Hotel serves as the perfect base, offering barbecue facilities and proximity to popular hiking and skiing areas. Car hire services are also available, facilitating exploration of the surrounding region.
 
 Situated a mere 44 km from the enchanting Ohrid Lake Springs and 43 km from the historic Monastery Saint Naum, the hotel's location is ideal for those looking to explore the natural and cultural wonders of the area. Kastoria National Airport is conveniently located 71 km away, making Meri Boutique Hotel an accessible choice for travelers seeking both relaxation and adventure in Korçë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

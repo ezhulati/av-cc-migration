@@ -1,30 +1,8 @@
----
-title: Durres Apartment Panoramic Sea
-description: The apartment itself is a study in spaciousness and modern convenience, equipped with a bedroom, a bathroom, and comprehensive living essentials such as bed lin
-featuredImage: "/images/accommodation/AATXAJxBIH6-mZenPFS8cpP9DJFedg3O-uGi9XgVJjRWs96-c64"
-language: en
-slug: durres-apartment-panoramic-sea
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a study in spaciousness and modern convenience, equipped with a bedroom, a bathroom, and comprehensive living essentials such as bed linen, towels, and a flat-screen TV with streaming services. The fully equipped kitchen and outdoor dining area invite guests to savor home-cooked meals against the backdrop of the sea. Notably, the apartment features soundproofing, a bidet, and is designed to be allergy-free and non-smoking, ensuring a comfortable stay for all guests.
+---\ntitle: "Durres Apartment Panoramic Sea"\ndescription: "Durres Apartment Panoramic Sea emerges as a recently updated gem, offering a unique blend of comfort and excitement in Durrës."\nfeaturedImage: "https://lh3.googleusercontent.com/a/AATXAJxBIH6-mZenPFS8cpP9DJFedg3O-uGi9XgVJjRW=s96-c64"\nlanguage: en\nslug: durres-apartment-panoramic-sea\naddress: "Rruga Shkembi i Kavajes,8 Etage, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.2926557\n  lng: 19.5100427\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8\nratingWords: "Very Good"\nnumberOfReviews: 5\nratings:\n  overall: 8\n  location: 8.5\n  cleanliness: 7\n  facilities: 7.5\n  value: 9\n  comfort: 7.5\n  staff: 8.5\n  wifi: 0\nimages:\n  - "https://lh3.googleusercontent.com/a/AATXAJxBIH6-mZenPFS8cpP9DJFedg3O-uGi9XgVJjRW=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/hr/3060b4d7461996538481a68ac10ece5a9dcf4cf1.png"\n  - "https://lh3.googleusercontent.com/a/AATXAJxmDZt4JojGgrebxMzJiwcHdvqz72jlX59IfK3n=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/nl/7b4427cefda046f99f0efc11622be2e83b8ba511.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462056164.jpg?k=e2051af2ceda91c0657367e349dcec4c407a8313e831688549e19a2e2beabf7e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/310323586.jpg?k=c427b215ee1da8d47737a6564eafafeaef9ec89b0333304bb0b4cb491458e7bc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/467060703.jpg?k=389d067076ec49be36a8163b12dd0eddb93f2551c078408e38e59d9b44746558&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/486826065.jpg?k=b81fd9706ddf18750c583675976895b158e5a81e7e9b7963f4753a5cf34ef648&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/484806052.jpg?k=ddb3019230940e8aa041b35c052d217ac356de298656c0ac348ba0a24e0518ef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/485110212.jpg?k=595215107da457f61d342330d7162838cf8a2541d676ba5741c3841976ce8baa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/485110130.jpg?k=c037c9aad6fe79431046dcd0f9a960acb79fa59b31817b99d0513b66893dc7f0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/485015880.jpg?k=40d3dfbb883e17586e9b5bd5cd03a47df70f432ca9fc39a514f9c3dde1ae5868&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Shpatat Shqiptare 150 m"\n  - "Am-PM 250 m"\nnearbyBeaches:\n  - "Durres Beach 450 m"\n  - "Shkëmbi i Kavajës Beach 750 m"\n  - "Golem Beach 3.1 km"\n  - "Mali I Robit Beach 5 km"\n  - "Currila Beach 6 km"\nwhatsNearby:\n  - "Bekimi 4.8 km"\n  - "Wine Dhe Pooh 6 km"\n  - "Sheshi Demokracia 6 km"\n  - "Durres Amphiteatre 6 km"\n  - "Yje Dhe Hena 6 km"\n  - "1. Maj 6 km"\n  - "Sotir Noka 6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\nreviews:\n  - name: "Juraj"\n    country: "Croatia"\n    text: "“Felt like home..beatiful clean and cozy apartment..owners also beutiful people..sure will come back again”"\n  - name: "Sharina"\n    country: "Netherlands"\n    text: "“mensen waren heel vriendelijk, heel behulpzaam en goed te bereiken. mooi groot dakterras met een mega goed uitzicht,
+strand is heel dichtbij en restaurantjes, supermarkt is 1 minuut lopen.”"\nbookingURL: "https://www.booking.com/hotel/al/meerblick-durres-albanien.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a study in spaciousness and modern convenience, equipped with a bedroom, a bathroom, and comprehensive living essentials such as bed linen, towels, and a flat-screen TV with streaming services. The fully equipped kitchen and outdoor dining area invite guests to savor home-cooked meals against the backdrop of the sea. Notably, the apartment features soundproofing, a bidet, and is designed to be allergy-free and non-smoking, ensuring a comfortable stay for all guests.
 
 Adding to the convenience, the property includes a coffee shop and a minimarket, catering to guests' everyday needs. For those looking to immerse themselves in the local culture and landscape, Durres Apartment Panoramic Sea is perfectly positioned for cycling and walking tours around Durrës.
 
 Noteworthy nearby attractions include the Rock of Kavaje, located just 2.2 km away, and the Former Residence of Enver Hoxha, 40 km from the apartment. For travelers, the proximity to Tirana International Mother Teresa Airport, 34 km away, adds an extra layer of convenience to this appealing accommodation choice.
 
 Durres Apartment Panoramic Sea is not just a place to stay; it's a gateway to experiencing the vibrant life and beauty of Durrës, making it a top pick for travelers seeking both adventure and relaxation.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

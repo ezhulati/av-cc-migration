@@ -1,26 +1,3 @@
----
-title: Densi Apartament
-description: Guests will find themselves in a generously sized apartment that boasts a well-appointed bedroom, a cozy living room for relaxation, a kitchen equipped with all
-featuredImage: "/images/accommodation/482840863.jpg"
-language: en
-slug: densi-apartament
-location: ""
-amenities: []
-images: []
----
-
-Guests will find themselves in a generously sized apartment that boasts a well-appointed bedroom, a cozy living room for relaxation, a kitchen equipped with all the essentials for a home-cooked meal, and a modern bathroom. Entertainment needs are also catered to with the inclusion of a flat-screen TV.
+---\ntitle: "Densi Apartament"\ndescription: "Densi Apartament stands out as a prime choice for travelers seeking comfort and convenience in Shkodër."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482840863.jpg?k=b2da6571876862050f168d3f9ad8017684cec9aef7c774400049370efc18fa0f&o=&hp=1"\nlanguage: en\nslug: densi-apartament\naddress: "Bulevardi Bujar Bishanaku, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.07330238\n  lng: 19.50439684\nprice: "US$27"\npriceFrom: 27\nstarRating: 3\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 11\nratings:\n  overall: 8.2\n  location: 8.4\n  cleanliness: 8.2\n  facilities: 8\n  value: 7.5\n  comfort: 8\n  staff: 9.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482840863.jpg?k=b2da6571876862050f168d3f9ad8017684cec9aef7c774400049370efc18fa0f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482843842.jpg?k=10dcd45ee08e23aa26de79d97ee8dce6a3cd9164abadfc3282f42317784e3ded&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482843942.jpg?k=64f60e36572e9fe8a28e2799e53af3c1d2feeff21e32d3d568bf12e2ce8234e7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482843672.jpg?k=23a42d01bb7d0052f9651378e33c211c67011198aa044b00f2fc2d3ad3278646&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482843498.jpg?k=02c0e5377dbed7e5063db41478c9dde01c175f1c925eaedcf4665cd02ec02614&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482844189.jpg?k=7eba9748ece8bfd71c0fb517a8344ca363cfcefc99b0a73d7040ba72d987e670&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482843939.jpg?k=a8c4c347f1d2afd87cb9c69df0ab0096db4db352c3aba194aa149482f9b95764&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482843680.jpg?k=6c4d969eb9d485ff0a53a74c8432a28e80275f56997a40fdbe548149fc293d0e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482843521.jpg?k=797789a317fa175aa9543c2f65087d389d0a8f35a3209106afdebc0bef765b1c&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Good free WiFi (43 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "Apartment"\nnearbyRestaurants:\n  - "Internet - Bar Cafe 200 m"\n  - "Bar Kafe - SUPERBAST 250 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 3.1 km"\n  - "National Park Skadar Lake 9 km"\nairports:\n  - "Podgorica Airport 37 km"\n  - "Tivat Airport 73 km"\n  - "Tirana International Airport Mother Teresa 74 km"\nreviews:\n  - name: "Svea"\n    country: "Albania"\n    text: "“Zwar bisschen teuer für das, dass Albanien günstig sein soll, aber erfüllt alle Standards. Sehr sauber, sehr freundliche Gastgeber und gute Lage. Kann ich nur weiterempfehlen”"\n  - name: "Lisa"\n    country: "Germany"\n    text: "“Man hat alles was man braucht, Klimaanlage und WLAN vorhanden, bequemes Bett, sehr gute Lage.”"\n  - name: "Tatiana"\n    country: "Estonia"\n    text: "“Очень комфортная квартира в которой есть все необходимое. Очень контрактных хозяин. Мы заблудились. Он приехал к нам и помог доехать по адресу.”"\nbookingURL: "https://www.booking.com/hotel/al/densi-apartament.en-gb.html?aid=8035640"\nbestFor: "Best for Location"\nbestCategories: "Location"\ncategory: "Location"\n---\n\nGuests will find themselves in a generously sized apartment that boasts a well-appointed bedroom, a cozy living room for relaxation, a kitchen equipped with all the essentials for a home-cooked meal, and a modern bathroom. Entertainment needs are also catered to with the inclusion of a flat-screen TV.
 
 For those concerned about travel logistics, Podgorica Airport is conveniently located just 58 km away, making Densi Apartament an ideal base for exploring the region or for a comfortable stopover.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

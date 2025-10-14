@@ -5,11 +5,14 @@ region: ""
 featuredImage: /images/destinations/shengjin.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: shengjin
 highlights: []
+seo:
+  metaDescription: "Escape to the coastal town of Shëngjin and indulge in its sandy beaches, vibrant nightlife, and delicious seafood. Book your seaside getaway today!"
 ---
 
 Why Visit Shëngjin
@@ -48,10 +51,3 @@ Shëngjin is a destination that invites travelers to step back from the chaos of
 
 So, if you’re ready to discover a corner of Europe that has remained largely untouched by mass tourism, pack your bags and head to Shëngjin. This charming coastal town is prepared to welcome you with open arms and show you a side of Albania that few travelers experience.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

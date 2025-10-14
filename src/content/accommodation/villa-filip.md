@@ -1,30 +1,10 @@
----
-title: Villa Filip
-description: "Accommodations at Villa Filip are thoughtfully designed with guest comfort in mind."
-featuredImage: "/images/accommodation/149311986.jpg"
-language: en
-slug: villa-filip
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Villa Filip are thoughtfully designed with guest comfort in mind. Each room is equipped with air conditioning, ensuring a restful environment regardless of the weather. The convenience of complimentary private parking and WiFi access throughout the property adds to the hassle-free experience for every guest.
+---\ntitle: "Villa Filip"\ndescription: "Villa Filip, located in the charming village of Vuno, presents a serene retreat for travelers seeking both tranquility and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149311986.jpg?k=d651b71592ad85f3df637713c17c369e030a7360dae152fbeeb2654c360fb41b&o=&hp=1"\nlanguage: en\nslug: villa-filip\naddress: "Vuno, 9425 Vuno, Albania"\ncity: "Vuno"\nlocation: "Vuno"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.14167257\n  lng: 19.68931317\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 152\nratings:\n  overall: 9.1\n  location: 9.2\n  cleanliness: 9.5\n  facilities: 9.1\n  value: 9.4\n  comfort: 9.5\n  staff: 9.9\n  wifi: 7.1\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149311986.jpg?k=d651b71592ad85f3df637713c17c369e030a7360dae152fbeeb2654c360fb41b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149176452.jpg?k=26180a614aa009dfd2e9fe0168edc62c530a80b3515a6f25d8751d6198a4ba5b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149311497.jpg?k=adb9016a4e21982ebbef1c50c6119f11828092b136f054913718bc629c2c1ba6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149175823.jpg?k=80a8b8d46f06ff8d6193751bd2859a7e4b29addbade2edc0c465e4d7e845d9e8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149176560.jpg?k=c1559843b0939cc5d610c0f44636f4b0105a8165952b07f4525758b720c7f011&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/291055584.jpg?k=edf56e35fc7b8b6c8e4d7726e2aac6173859f3c8f27f3cac33d4658fec14f773&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Good free WiFi (33 Mbps)"\n  - "Restaurant"\n  - "Family rooms"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Deluxe Double Room with Extra Bed"\n  - "Studio with Balcony"\nnearbyRestaurants:\n  - "Marko Vuno 450 m"\n  - "Bar restorant 2.2 km"\nnearbyBeaches:\n  - "Beach Me Shpella 2.1 km"\n  - "Gjipe Beach 2.2 km"\n  - "Folie Marine Beach 2.3 km"\n  - "Jale Beach 2.5 km"\n  - "Akuariumit Beach 3.6 km"\nwhatsNearby:\n  - "Llogora National Park 10 km"\nairports:\n  - "Corfu International Airport 62 km"\nreviews:\n  - name: "Gal"\n    country: "Slovenia"\n    text: "“Filip is a great guy and we highly recommend staying in his villa. We also had breakfast and dinner there prepared by him and his wife. The view from the villa is beautiful
+Price/performance 11/10 (beyond excellent)”"\n  - name: "Gjoka"\n    country: "Albania"\n    text: "“Wonderful hospitality from the owners (Filip and Rita).
+We felt like at home. Amazing view and delicious food!
+100% recommended!”"\n  - name: "Leigh"\n    country: "Belgium"\n    text: "“Everything! The room was clean and comfortable, and the view was amazing. Filip was kind and attentive and cooked great meals. We loved every minute there. We will definitely be back!”"\nbookingURL: "https://www.booking.com/hotel/al/rooms-amp-studios-filip.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Villa Filip are thoughtfully designed with guest comfort in mind. Each room is equipped with air conditioning, ensuring a restful environment regardless of the weather. The convenience of complimentary private parking and WiFi access throughout the property adds to the hassle-free experience for every guest.
 
 The attention to detail extends to the guest rooms, each featuring ample storage with a wardrobe. Privacy and comfort are paramount, with every unit boasting a private bathroom fitted with a modern walk-in shower. Select rooms elevate the experience further with a terrace for personal enjoyment, while others offer the added delight of sea views, allowing guests to wake up to the breathtaking beauty of Vuno.
 
 Dining at Villa Filip is a culinary adventure, with a continental breakfast offering a variety of options including fresh juice and cheese. The on-site restaurant welcomes guests for meals throughout the day, from dinner and lunch to brunch and cocktails, in a family-friendly atmosphere that caters to all palates.
 
 Situated 153 km from Ioannina Airport, Villa Filip provides a perfect base for exploring the surrounding area or simply unwinding in a picturesque setting. This guest house is an ideal choice for travelers looking for a blend of comfort, convenience, and a touch of local charm.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

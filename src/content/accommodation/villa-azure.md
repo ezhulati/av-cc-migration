@@ -1,30 +1,7 @@
----
-title: Villa Azure
-description: The villa itself is a testament to thoughtful luxury, boasting a terrace that offers breathtaking sea views. Inside, guests will find a spacious living area, th
-featuredImage: "/images/accommodation/485561217.jpg"
-language: en
-slug: villa-azure
-location: ""
-amenities: []
-images: []
----
-
-The villa itself is a testament to thoughtful luxury, boasting a terrace that offers breathtaking sea views. Inside, guests will find a spacious living area, three well-appointed bedrooms, and a fully equipped kitchen complete with a dishwasher and an oven, ensuring all the comforts of home are at hand. The inclusion of two bathrooms with walk-in showers, air conditioning, a bidet, and a dressing room in the unit adds a layer of convenience and luxury. Moreover, the villa guarantees privacy and security with a private entrance and round-the-clock security.
+---\ntitle: "Villa Azure"\ndescription: "Villa Azure emerges as a modern oasis of tranquility and comfort, having undergone recent renovations to enhance its charm."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485561217.jpg?k=569f1e4400bb08c7c383a37a6f2b6f2ee42423a0b33b77dfd4d060aa83d82743&o=&hp=1"\nlanguage: en\nslug: villa-azure\naddress: "Rruga e plazhit të Palasës, 9422 Palasë, Albania"\ncity: "Palasë"\nlocation: "Palasë"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.17291228\n  lng: 19.58515112\nprice: "US$288"\npriceFrom: 288\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 9\nratings:\n  overall: 9.9\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 9.7\n  comfort: 10\n  staff: 9.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485561217.jpg?k=569f1e4400bb08c7c383a37a6f2b6f2ee42423a0b33b77dfd4d060aa83d82743&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432534195.jpg?k=f0552452be56160892054ee3d9c014db89d3ee8024b16527052af8196f47fb90&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432534188.jpg?k=d7dc11f56b1fe9017b6317a3738f194667ef0ad079db2521470ec9946a507b55&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432534177.jpg?k=70e0c24c8419af482e20fd48265448450b4248eba154190bd31f743193af44b0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432534233.jpg?k=00eeecf5717a9a494426b4affa73b47991309644cba9eacb849689f038d42b79&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432534198.jpg?k=31bd0acb203e41d2e8da086687bff850370cb404ac337bbc76cdcaa7171bc1f8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432534221.jpg?k=75ea1edb95445465b2b22f55e2c0155ea99d8336dc44ada0130b3b1c112f505e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432534213.jpg?k=5241045a8c405820dba943fef9375a120df6ada0a16faf4d18ce9b1de3876b41&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485560808.jpg?k=d4a4cc62d2fc9e5cf51774563f4436c936e9ed058aa42f5d223d3183680d9047&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Airport shuttle"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\nroomTypes:\n  - "Three-Bedroom Villa"\nnearbyRestaurants:\n  - "Fishop Coast 400 m"\n  - "Beachside Cafe 850 m"\nnearbyBeaches:\n  - "Nazar Beach 250 m"\n  - "Palasa Beach 1.5 km"\n  - "Dhermi Beach 5 km"\n  - "Gjipe Beach 9 km"\n  - "Beach Me Shpella 9 km"\nwhatsNearby:\n  - "Llogora National Park 2.5 km"\nairports:\n  - "Corfu International Airport 68 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\n  - "Discover"\nreviews:\n  - name: "Erta"\n    country: "Albania"\n    text: "“The hosts are nice and helpful. They allowed us to check in earlier as we were tired when arrived. The villa is so comfy, cozy and well equipped. I highly suggest staying in Villa Azure, you would definitely love it.”"\nbookingURL: "https://www.booking.com/hotel/al/villa-azure.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe villa itself is a testament to thoughtful luxury, boasting a terrace that offers breathtaking sea views. Inside, guests will find a spacious living area, three well-appointed bedrooms, and a fully equipped kitchen complete with a dishwasher and an oven, ensuring all the comforts of home are at hand. The inclusion of two bathrooms with walk-in showers, air conditioning, a bidet, and a dressing room in the unit adds a layer of convenience and luxury. Moreover, the villa guarantees privacy and security with a private entrance and round-the-clock security.
 
 Adding to the convenience, a minimarket on the premises ensures that essentials are always within reach. Families visiting Villa Azure will appreciate the children's playground, providing entertainment for younger guests.
 
 For those looking to explore beyond the villa, the nearest airport is Ioannina, located 168 km away, with the villa offering a paid shuttle service for a seamless travel experience.
 
 Villa Azure stands out as a premier choice for travelers seeking a blend of modern amenities, privacy, and easy access to some of the most beautiful beaches in Palasë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Centrum Apartment Durres
-description: "This two-bedroom haven doesn't just promise a place to rest; it delivers a home away from home with its array of amenities."
-featuredImage: "/images/accommodation/518411721.jpg"
-language: en
-slug: centrum-apartment-durres
-location: ''
-amenities: []
-images: []
----
-
-This two-bedroom haven doesn't just promise a place to rest; it delivers a home away from home with its array of amenities. Guests can enjoy the convenience of free WiFi, a flat-screen TV for entertainment, a washing machine for longer stays, and a fully equipped kitchen that even boasts a minibar, ensuring that every need is met with style and ease.
+---\ntitle: "Centrum Apartment Durres"\ndescription: "Centrum Apartment Durres emerges as a prime choice for travelers seeking the comfort of air-conditioned accommodations complemented by the charm of a private balcony."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518411721.jpg?k=204573db7023ec3dac4d67159f90268519f35d1c32e64957270975db0387f15b&o=&hp=1"\nlanguage: en\nslug: centrum-apartment-durres\naddress: "Rruga Doganes Third floor, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31341753\n  lng: 19.44974423\nprice: "US$86"\npriceFrom: 86\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518411721.jpg?k=204573db7023ec3dac4d67159f90268519f35d1c32e64957270975db0387f15b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/518411744.jpg?k=f6ffb95f131b5b4c6e10c46cec10f1bf3c998e84105089e7d70dbcaf8f841a50&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/518411748.jpg?k=b892835d212d9525bf54056665fd30871befca4b842f91ffcfb3a2a27996e682&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/518411751.jpg?k=b1382b421267ea21f8311dbf3dc44195e300b03b41124ded5a01f29b5ce59d78&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/518411753.jpg?k=c12b3ceef012b6d0067a11014cbbb6b504dfe53f79bda853f9b1460dc61d2758&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/landmark/600x400/182768.webp?k=c8d370d0c1408961b38048497e30be7a98ea4bfd51d1b088a5971646e1e2bc93&o="\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Ok 20 m"\n  - "Trattoria Pane e Pomodoro Durrës 50 m"\nnearbyBeaches:\n  - "Currila Beach 600 m"\n  - "Durres Beach 1.5 km"\n  - "Kallmi Beach 1.6 km"\n  - "West End Beach 2.6 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nwhatsNearby:\n  - "Wine Dhe Pooh 250 m"\n  - "Yje Dhe Hena 350 m"\n  - "Durres Amphiteatre 400 m"\n  - "Sheshi Demokracia 500 m"\n  - "1. Maj 600 m"\n  - "Sotir Noka 850 m"\n  - "Bekimi 2.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 24 km"\nbookingURL: "https://www.booking.com/hotel/al/centrum-apartment-durres.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis two-bedroom haven doesn't just promise a place to rest; it delivers a home away from home with its array of amenities. Guests can enjoy the convenience of free WiFi, a flat-screen TV for entertainment, a washing machine for longer stays, and a fully equipped kitchen that even boasts a minibar, ensuring that every need is met with style and ease.
 
 For those looking to explore beyond the beach, the apartment is not far from some of the area's notable attractions. The Dajti Ekspres Cable Car offers breathtaking views and is located 42 km away, while the Rock of Kavaje, a site of natural beauty, is just 11 km from the doorstep. Moreover, the historical Skanderbeg Square is within a manageable distance, offering a glimpse into the rich culture and history of the region.
 
 Accessibility is hardly an issue, with Tirana International Mother Teresa Airport only 33 km away, making Centrum Apartment Durres a convenient choice for international travelers. This non-smoking property does not just offer a place to stay; it provides an experience, ensuring that guests have both the comfort of modern amenities and the excitement of nearby attractions at their fingertips.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

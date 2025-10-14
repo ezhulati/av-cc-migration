@@ -1,26 +1,3 @@
----
-title: Halilaj apartament
-description: The apartment itself is a study in modern living, featuring a single bedroom that promises restful nights. The presence of a fully equipped kitchen allows guest
-featuredImage: "/images/accommodation/451598538.jpg"
-language: en
-slug: halilaj-apartament
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a study in modern living, featuring a single bedroom that promises restful nights. The presence of a fully equipped kitchen allows guests the freedom to craft their meals, adding a touch of home. Entertainment is readily available through a flat-screen TV, ensuring that guests have access to leisure at their fingertips. Emphasizing a healthy living environment, the accommodation maintains a strict non-smoking policy.
+---\ntitle: "Halilaj apartament"\ndescription: "Halilaj Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451598538.jpg?k=42d6a78d7df033c983d81bd8f81b58c0e7e7445b1be945312f6865bf31d5456c&o=&hp=1"\nlanguage: en\nslug: halilaj-apartament\naddress: "jonufer, 9404 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.39917825\n  lng: 19.47931793\nprice: "US$55"\npriceFrom: 55\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451598538.jpg?k=42d6a78d7df033c983d81bd8f81b58c0e7e7445b1be945312f6865bf31d5456c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/451598574.jpg?k=69fde873d8d95175a736528367b3f12c7b4e6cc3194e24d427d9dbf3dce84746&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/451598564.jpg?k=345a0f8d6d38c3e59ae19544405b64295d85f4c40d8ba6a20605b2f50318db13&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/451598545.jpg?k=903b745c8effede600f1a670d6c9e2eb77f6a628f0d984a7926e502a6b28cd0c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/451598560.jpg?k=291cc2369287965c3e0e83d9eb86baa89e60eb6a146424b9362523dd2417e587&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/451598554.jpg?k=c844fd18f9a35f336a5aa226917633129d8219e821c9ab65db4384d520c2f59c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/451598549.jpg?k=d92d211041b738ef054de6bd4caa5fbe96ced7db36011fdc2bbf0d7bbcba8924&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/451598462.jpg?k=12c7a57120f70cf46748866af11942f7dad69f944e64f637baba1bd539dbec55&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Abc-Rradhim 20 m"\n  - "RESTORANT DIONS 450 m"\nnearbyBeaches:\n  - "Sunny Beach 100 m"\n  - "La Playa Beach 250 m"\n  - "Coco Bongo Beach 350 m"\n  - "Vega Beach 550 m"\n  - "Vajana Beach 750 m"\nwhatsNearby:\n  - "Scooby Doo Vlore 4.3 km"\n  - "Kuzum Baba 8 km"\n  - "Independence Square 8 km"\n  - "Llogora National Park 20 km"\nairports:\n  - "Corfu International Airport 95 km"\nbookingURL: "https://www.booking.com/hotel/al/halilaj-apartament.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a study in modern living, featuring a single bedroom that promises restful nights. The presence of a fully equipped kitchen allows guests the freedom to craft their meals, adding a touch of home. Entertainment is readily available through a flat-screen TV, ensuring that guests have access to leisure at their fingertips. Emphasizing a healthy living environment, the accommodation maintains a strict non-smoking policy.
 
 Connectivity is never an issue, as free WiFi envelops the property, ensuring that guests remain linked to the world beyond. For those venturing from afar, the Tirana International Mother Teresa Airport stands at a distance of 158 km, making Halilaj Apartment a reachable haven of tranquility and convenience.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

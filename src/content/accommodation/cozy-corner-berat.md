@@ -1,30 +1,3 @@
----
-title: Cozy Corner Berat
-description: Accommodating guests in its two well-appointed bedrooms, the residence boasts a flat-screen TV and a kitchen equipped to the brim with a dishwasher, oven, washi
-featuredImage: "/images/accommodation/527300989.jpg"
-language: en
-slug: cozy-corner-berat
-location: ""
-amenities: []
-images: []
----
-
-Accommodating guests in its two well-appointed bedrooms, the residence boasts a flat-screen TV and a kitchen equipped to the brim with a dishwasher, oven, washing machine, microwave, and fridge. The attention to detail extends to the provision of towels and bed linen, ensuring a comfortable stay. From the windows, visitors are treated to tranquil garden views, adding to the home's peaceful ambiance.
+---\ntitle: "Cozy Corner Berat"\ndescription: "Cozy Corner Berat emerges as a charming retreat in the heart of Berat, providing guests with a serene garden setting and the convenience of modern amenities."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527300989.jpg?k=2219db3466960b7764339635207ef94bbeecc8ce52b5a1f2d8fe5274d239927a&o=&hp=1"\nlanguage: en\nslug: cozy-corner-berat\naddress: "Rruga Telegrafi, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.707793\n  lng: 19.9375937\nprice: "US$50"\npriceFrom: 50\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527300989.jpg?k=2219db3466960b7764339635207ef94bbeecc8ce52b5a1f2d8fe5274d239927a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527301042.jpg?k=9c9cb87f885fd2c40b68de687cea9d3424680e0366d1b1b5385bdacd7ef9dfe7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527301075.jpg?k=0c4e0db311a93f6d5591302206f2678cbff7fbd0481969a3ee5b770bd91a5b7f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527301061.jpg?k=6fd2f350f2fd338008cab0a50089af5744f9ea2397847dd0c9d5b7f8d3d90ce5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527301048.jpg?k=c4392db798c7d0e6ce2a7161f4b3ef9640c38ecf235f43e6a49054f1ca223c3e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527301045.jpg?k=08475a0745eae9cc80978f969c2e74bbb19c9306a1e7ab5d8567ff129572455f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527301058.jpg?k=c8e5263dc7d3bc38c811788873e60d1f7aacfa7f75869c17f2fb9ad90454a80a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527301052.jpg?k=a1c4ce9102b50ce1bfea8600002468c89d78e21a71dd82bf45e760c6fd12ad09&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527301054.jpg?k=b574fdabfa68f559ea8220fcacff9c672dc4ebde2e5f4bc1672c50d6db55f4b5&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom House"\nnearbyRestaurants:\n  - "Pasticeri Landi 200 m"\n  - "Sweet House 350 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 10 km"\n  - "Sheshi Tomorri 17 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 84 km"\nbookingURL: "https://www.booking.com/hotel/al/cozy-corner-berat-berat1.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodating guests in its two well-appointed bedrooms, the residence boasts a flat-screen TV and a kitchen equipped to the brim with a dishwasher, oven, washing machine, microwave, and fridge. The attention to detail extends to the provision of towels and bed linen, ensuring a comfortable stay. From the windows, visitors are treated to tranquil garden views, adding to the home's peaceful ambiance.
 
 For those venturing from afar, the property is situated 116 km from Tirana International Mother Teresa Airport, making it a manageable destination for international and domestic travelers alike. Cozy Corner Berat stands out as a prime choice for those seeking a blend of comfort, convenience, and a touch of home in Berat.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

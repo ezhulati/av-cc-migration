@@ -7,6 +7,9 @@ featuredImage: /images/attractions/llogara-pass-albanian-riviera.jpg
 images: []
 language: en
 slug: llogara-pass-albanian-riviera
+seo:
+  metaTitle: "The Llogara Pass Reveals Albania’s Best Kept Driving Secret"
+  metaDescription: "The Llogara Pass rewards intrepid travelers with 10 kilometers of cliffside Adriatic and Ionian views - easily ranking among Albania's most scenic drives."
 ---
 
 The Spellbinding Drive Up Albania’s Llogara Pass
@@ -53,10 +56,3 @@ Llogora National Park remains accessible year-round, but late spring through sum
 
 While a few lodging options like guesthouses exist locally, nearby coastal villages like Dhërmi offer far more amenities for longer stays, including resorts up against the sea. Be sure to capture your legendary shots from the saddle between two seas to commemorate forever conquering Albania’s most adrenaline-inducing roadway, promising panoramas around nearly all of its 188 awe-inspiring turns.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

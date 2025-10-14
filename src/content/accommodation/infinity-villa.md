@@ -1,15 +1,4 @@
----
-title: Infinity Villa
-description: The property doesn't just offer breathtaking outdoor spaces; it also provides a luxurious indoor experience. With nine bedrooms and six bathrooms, the villa acc
-featuredImage: "/images/accommodation/515334582.jpg"
-language: en
-slug: infinity-villa
-location: ""
-amenities: []
-images: []
----
-
-The property doesn't just offer breathtaking outdoor spaces; it also provides a luxurious indoor experience. With nine bedrooms and six bathrooms, the villa accommodates large groups without sacrificing comfort. Each room is thoughtfully furnished, including bed linen and towels, ensuring a comfortable stay. The living space is enhanced by a flat-screen TV with streaming services, a dining area for communal meals, and a fully equipped kitchen for those who love to cook. The terrace, offering pool views, and an outdoor dining area overlooking the garden, invite guests to dine al fresco in a picturesque setting.
+---\ntitle: "Infinity Villa"\ndescription: "Infinity Villa emerges as a recently revamped oasis in Rrushkull, boasting an array of amenities that cater to the discerning traveler seeking both relaxation and adventure."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515334582.jpg?k=b37cec904eca567508332ad25a52446a5a3e3610fb6610bf86ae8b8cd40fce64&o=&hp=1"\nlanguage: en\nslug: infinity-villa\naddress: "Vila e shefit, 1010 Rrushkull, Albania"\ncity: "Rrushkull"\nlocation: "Rrushkull"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.43535523\n  lng: 19.50571782\nprice: "US$583"\npriceFrom: 583\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515334582.jpg?k=b37cec904eca567508332ad25a52446a5a3e3610fb6610bf86ae8b8cd40fce64&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515544824.jpg?k=d8242f69e790be4794428d3eef91a68d8015cd6e3e6282f18366b382d0dd7ef6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515544866.jpg?k=24ff10986a68ebab4828df9f2bedfd797592dd7957ed669771d58030c289032c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516425330.jpg?k=8e00f09d1ffb743beb4313c239607bbb78a33473ad33475e608630d6d3444509&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515542775.jpg?k=6565be0a392a72dfbcafacc5f9145d0e5778cff7a5c5d92eb914d103831ebaea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515544864.jpg?k=ceee7c65c89ae211382d9acc9fcb5950aaa0e9dab1ef6b73823b8bf4bb8f40b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523689679.jpg?k=bc8e0d3722e871fd5596242b817c371513fdce6cf5377feea156251ba3b112b5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515542577.jpg?k=0bb4f271e41fa9168da7001e14218d1d497a3cf993e47346870ffcc3ea66461b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515542590.jpg?k=01162bd132e14278071c7fa902d3bc4d348be7ce333da3478fb1a648826d9cf2&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Private beach area"\nroomTypes:\n  - "Villa"\nnearbyRestaurants:\n  - "Bar Kulla 4.6 km"\n  - "Xhogu Complex 6 km"\nnearbyBeaches:\n  - "Lalëz Bay Beach 2.6 km"\n  - "Ohana Beach 9 km"\n  - "Portez Beach 9 km"\nwhatsNearby:\n  - "Bekimi 12 km"\n  - "Sotir Noka 14 km"\n  - "Sheshi Demokracia 14 km"\n  - "Yje Dhe Hena 14 km"\n  - "Wine Dhe Pooh 14 km"\n  - "Durres Amphiteatre 15 km"\n  - "1. Maj 15 km"\nairports:\n  - "Tirana International Airport Mother Teresa 17 km"\nreviews:\n  - name: "Antonela"\n    country: "Italy"\n    text: "“Siamo rimasti sorpresi quando siamo andati all'Infinity Villa. Molto moderno e lussuoso. La stanza della vasca idromassaggio era incredibile. La vista dal giardino e dalla terrazza sulla piscina con il ponte era spettacolare. Tutto è stato...”"\nbookingURL: "https://www.booking.com/hotel/al/infinity-villa.en-gb.html?aid=8035640"\nbestFor: "Best for Luxury"\nbestCategories: "Luxury"\ncategory: "Luxury"\n---\n\nThe property doesn't just offer breathtaking outdoor spaces; it also provides a luxurious indoor experience. With nine bedrooms and six bathrooms, the villa accommodates large groups without sacrificing comfort. Each room is thoughtfully furnished, including bed linen and towels, ensuring a comfortable stay. The living space is enhanced by a flat-screen TV with streaming services, a dining area for communal meals, and a fully equipped kitchen for those who love to cook. The terrace, offering pool views, and an outdoor dining area overlooking the garden, invite guests to dine al fresco in a picturesque setting.
 
 For those who value privacy and tranquility, Infinity Villa is designed with a private entrance and soundproofing. Adding to the luxury is a hot tub, perfect for unwinding after a day of exploring Rrushkull's natural beauty. The villa also boasts full-day security, ensuring peace of mind for guests throughout their stay.
 
@@ -18,15 +7,3 @@ Adventure seekers will find plenty to do, with cycling and hiking trails nearby.
 Located 39 km from Skanderbeg Square and 43 km from Dajti Ekspres Cable Car, Infinity Villa offers a peaceful retreat that's conveniently close to some of the area's top attractions. Tirana International Mother Teresa Airport is just 30 km away, making the villa easily accessible for international travelers.
 
 Infinity Villa is not just a place to stay; it's a destination that offers a blend of luxury, privacy, and natural beauty, promising an unforgettable experience for those who visit.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

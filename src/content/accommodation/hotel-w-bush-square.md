@@ -1,30 +1,7 @@
----
-title: Hotel W Bush Square
-description: Guests are welcomed into air-conditioned rooms that boast not only a private bathroom and complimentary WiFi but also feature terraces offering captivating city
-featuredImage: "/images/accommodation/465831126.jpg"
-language: en
-slug: hotel-w-bush-square
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into air-conditioned rooms that boast not only a private bathroom and complimentary WiFi but also feature terraces offering captivating city views. The thoughtful inclusion of a wardrobe in each room adds a touch of home, ensuring that guests can easily organize their belongings during their stay.
+---\ntitle: "Hotel W Bush Square"\ndescription: "Hotel W Bush Square emerges as a distinguished choice for travelers seeking comfort and convenience in Fushë-Krujë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465831126.jpg?k=4994d67fbd1ff51e465aced1dbffda6a7083e828102b7f10ce085a228be6f572&o=&hp=1"\nlanguage: en\nslug: hotel-w-bush-square\naddress: "Qender ,Fushe Kruje, 1502 Fushë-Krujë, Albania"\ncity: "Fushë-Krujë"\nlocation: "Fushë-Krujë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.47917\n  lng: 19.720897\nprice: "US$32"\npriceFrom: 32\nstarRating: 4\nrating: 7.1\nratingWords: "Good"\nnumberOfReviews: 23\nratings:\n  overall: 7.1\n  location: 7.5\n  cleanliness: 6.8\n  facilities: 6.4\n  value: 7.3\n  comfort: 6.8\n  staff: 7.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465831126.jpg?k=4994d67fbd1ff51e465aced1dbffda6a7083e828102b7f10ce085a228be6f572&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497975962.jpg?k=042f92802a1f6be471bde359c945155633b21f365c478992885f929dcecdac34&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497975904.jpg?k=c7237c2a3b0b7a3cb170a5a5fce873b4ff13af7f18164cc32e9f525272b85eae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497975864.jpg?k=b55e3cf4897b12a0a731d81941cb327d8ddf509091a5cae0c33671b35b2ba2e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497975819.jpg?k=430c2e1e3745706b8106d5235b35daed24575efc29b96f6941ba83560515bb8c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497975783.jpg?k=95d97979bf2521d7bdd4cd5005b37f7ab0a3256aef0bb5668c8c434b724c4bc7&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Restaurant"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Deluxe Double Room"\n  - "Standard Twin Room"\n  - "Family Room"\n  - "Standard Twin Room"\n  - "Queen Suite"\nnearbyAttractions:\n  - "National Museum of History Albania 19 km"\n  - "Bunk'Art 1 Museum 19 km"\n  - "Skanderbeg Square 19 km"\n  - "House of Leaves 19 km"\n  - "Clock Tower Tirana 19 km"\n  - "National Gallery of Arts Tirana 19 km"\n  - "Rinia Park 19 km"\n  - "Tanners' Bridge 19 km"\n  - "Former Residence of Enver Hoxha 19 km"\nnearbyRestaurants:\n  - "Caffé Delle Arti 20 m"\n  - "Fast Food te Nori 100 m"\nwhatsNearby:\n  - "Dajti Mountain National Park 10 km"\n  - "Sheshi Rekreativ Lord Bajron 17 km"\n  - "Shesh Rekreativ Yzberisht 17 km"\n  - "Park Lojrash 17 km"\n  - "Sheshi Rekreativ Allias 17 km"\n  - "Sheshi Rekreativ Don Bosko 17 km"\n  - "Sheshi Rekreativ Mine Peza 18 km"\n  - "Sheshi Rekreativ Parku 1Km 18 km"\n  - "Amazing Nature 18 km"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 18 km"\nairports:\n  - "Tirana International Airport Mother Teresa 6 km"\n  - "Ohrid Airport 92 km"\nbookingURL: "https://www.booking.com/hotel/al/w-bush-square-fushe-kruje2.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests are welcomed into air-conditioned rooms that boast not only a private bathroom and complimentary WiFi but also feature terraces offering captivating city views. The thoughtful inclusion of a wardrobe in each room adds a touch of home, ensuring that guests can easily organize their belongings during their stay.
 
 Culinary delights await at the hotel's restaurant, where a menu brimming with Greek, Italian, and local dishes caters to a variety of palates. Those with specific dietary preferences will appreciate the availability of vegetarian, halal, and vegan options, making dining a seamless and enjoyable experience for every guest.
 
-Beyond the comforts of its rooms and culinary offerings, Hotel W Bush Square is equipped with an array of facilities including an ATM, dry cleaning services, and currency exchange, underscoring its commitment to guest convenience.
+Beyond the comforts of its rooms and culinary offerings, Hotel W Bush Square is equipped with an array of facilities including an ATM, dry cleaning services, and currency exchange, underscoring its commitment to guest convenience. 
 
 Strategically positioned, the hotel offers easy access to notable attractions such as the Former Residence of Enver Hoxha and the Rock of Kavaje, located 21 km and 38 km away respectively. For travelers arriving by air, the proximity to Tirana International Mother Teresa Airport, just 8 km away, makes Hotel W Bush Square an ideal choice for both leisure and business visitors seeking a stress-free base from which to explore the vibrant surroundings.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

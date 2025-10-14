@@ -1,30 +1,8 @@
----
-title: Bel Conti Hotel
-description: Each room at Bel Conti Hotel is a blend of comfort and elegance, featuring carpeted floors for that soft underfoot feeling, a TV, and a minibar for your conveni
-featuredImage: "/images/accommodation/7519207.jpg"
-language: en
-slug: bel-conti-hotel
-location: ""
-amenities: []
-images: []
----
-
-Each room at Bel Conti Hotel is a blend of comfort and elegance, featuring carpeted floors for that soft underfoot feeling, a TV, and a minibar for your convenience. The inclusion of a private bathroom equipped with a shower and hairdryer, alongside a flat-screen TV with cable channels, ensures that guests have everything they need for a comfortable stay.
+---\ntitle: "Bel Conti Hotel"\ndescription: "Discover the charm of Durrës from the comfort of Bel Conti Hotel, a gem that stands out for its proximity to a serene private sandy beach and its tastefully decorated rooms, each boasting a balcony for that morning breath of fresh air or a tranquil evening gaze."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/7519207.jpg?k=160c6197961a0d34e588ab746923e15fe8fac4c5f1be127b235aa3b21df831bd&o=&hp=1"\nlanguage: en\nslug: bel-conti-hotel\naddress: "Shkëmbi i Kavajës L13, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.27546818\n  lng: 19.51618195\nprice: "US$38"\npriceFrom: 38\nstarRating: 4\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 216\nratings:\n  overall: 8.2\n  location: 8.6\n  cleanliness: 8\n  facilities: 7.6\n  value: 7.9\n  comfort: 8.1\n  staff: 8.5\n  wifi: 8.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/7519207.jpg?k=160c6197961a0d34e588ab746923e15fe8fac4c5f1be127b235aa3b21df831bd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/7522513.jpg?k=8589e71a1867e42e6c5a3d954ea3811b0a13dc9bfc49cdac94031c6bb05dd169&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/158239126.jpg?k=452aff9cc2ba41dfb1282cc8a2853e04bc715cb430f8a8570792963a0ff32303&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/7520323.jpg?k=727cc1ff393642f1b014b390228685a393baf77dab8ee521a849670cb99b22cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/7529012.jpg?k=ad08c5cca4980782928f02a67ef66ceba5361786a1b5df871fd1d814f9b739a8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/159969450.jpg?k=19940ee0c943d11a65415b1c1b4532c7a61aa29a9626d2f3fffee5fad1c2497a&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Facilities for disabled guests"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Bar"\n  - "Private beach area"\n  - "Good breakfast"\nroomTypes:\n  - "Single Room"\n  - "Double Room with Sea View"\n  - "Quadruple Room"\nnearbyRestaurants:\n  - "Restorant Orkide 50 m"\n  - "Gelateri Anonimo 150 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 40 m"\n  - "Golem Beach 1.1 km"\n  - "Durres Beach 1.3 km"\n  - "Mali I Robit Beach 3.1 km"\n  - "Qerret Beach 5 km"\nwhatsNearby:\n  - "Bekimi 7 km"\n  - "Wine Dhe Pooh 7 km"\n  - "Durres Amphiteatre 7 km"\n  - "Yje Dhe Hena 7 km"\n  - "1. Maj 7 km"\n  - "Sheshi Demokracia 7 km"\n  - "Sotir Noka 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Samuel"\n    country: "Italy"\n    text: "“The room and the terrace were really big.
+The hotel is right in front of the beach and directly connected to the promenade, where some restaurants and a supermarket are located.”"\n  - name: "Velimir"\n    country: "Serbia"\n    text: "“The location is very good, room was clean. Food was also good”"\n  - name: "Noura"\n    country: "Egypt"\n    text: "“Everything thing was perfect.i loved the hotel alot.”"\nbookingURL: "https://www.booking.com/hotel/al/bel-conti.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach room at Bel Conti Hotel is a blend of comfort and elegance, featuring carpeted floors for that soft underfoot feeling, a TV, and a minibar for your convenience. The inclusion of a private bathroom equipped with a shower and hairdryer, alongside a flat-screen TV with cable channels, ensures that guests have everything they need for a comfortable stay.
 
 The hotel's commitment to service is evident with a 24-hour front desk ready to assist with room service, including the option for breakfast in your room. For those looking to keep their attire crisp, dry cleaning and ironing services are available, along with currency exchange for international guests.
 
 For the adventurous at heart, jet-ski rental is just a 500-meter stroll away, while a swimming pool and an entertainment center lie within an 8 km journey, promising fun-filled days without the need to venture far. The heart of Durrës is only 12 km away, offering a deeper dive into the local culture and history, while Mother Theresa Airport is 25 km from the hotel, with an airport shuttle service available upon request for a seamless travel experience.
 
 Bel Conti Hotel is more than just a place to rest; it's a gateway to exploring the beauty of Durrës, offering comfort, convenience, and a touch of elegance to every guest.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

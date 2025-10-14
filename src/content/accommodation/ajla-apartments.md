@@ -1,30 +1,7 @@
----
-title: Ajla Apartments
-description: Guests at Ajla Apartments are treated to well-appointed accommodations, featuring a cozy 1-bedroom apartment equipped with modern amenities including a flat-scr
-featuredImage: "/images/accommodation/478494904.jpg"
-language: en
-slug: ajla-apartments
-location: ""
-amenities: []
-images: []
----
-
-Guests at Ajla Apartments are treated to well-appointed accommodations, featuring a cozy 1-bedroom apartment equipped with modern amenities including a flat-screen TV, air conditioning, and a welcoming living room. The inclusion of a kitchenette adds a touch of home, allowing visitors the flexibility to prepare their meals. Each apartment opens up to a private balcony, presenting serene garden views that promise a tranquil backdrop for morning coffees or evening relaxation.
+---\ntitle: "Ajla Apartments"\ndescription: "Ajla Apartments emerges as a prime choice for travelers seeking comfort and convenience in Ksamil, positioned just a short stroll from the pristine shores of Lori Beach and Ksamil Beach 9."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478494904.jpg?k=be6945dba8e1e87559183332d36471a13a29be259e3a91bcddc636556e68dc3c&o=&hp=1"\nlanguage: en\nslug: ajla-apartments\naddress: "Rruga Magdalen Ksamil, Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.76337558\n  lng: 19.99953177\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478494904.jpg?k=be6945dba8e1e87559183332d36471a13a29be259e3a91bcddc636556e68dc3c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478494865.jpg?k=a504684f4eca4101ecbf75af6d0ce0210fb40459ee06db303db631197038cb25&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478494907.jpg?k=be6e1c30782b77b58342ac6be08d1f00356e26200ea7e902e230e3d7e7d307a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478494908.jpg?k=924bfa5d99dd81de2a1e7fdcab6a217cc3734d94e094cf72e6472ca86d3dbae6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478494913.jpg?k=0ade758a5eff9351cdce6cb9fe42b6b5a3d9ff0d90d5db3167740cf20b874ef4&o=&hp=1"\namenities:\n  - "Free parking"\nnearbyAttractions:\n  - "Museum of Banknotes 17 km"\n  - "New Fortress 17 km"\n  - "Serbian Museum 17 km"\n  - "Theotoki G. Square 17 km"\n  - "Archaeological Museum 17 km"\n  - "Ntougkla Square 18 km"\n  - "Trion Martiron Park 18 km"\n  - "Mon Repos Palace 19 km"\n  - "Kapodistrias Museum 19 km"\nnearbyRestaurants:\n  - "Krenari Grill Station 200 m"\n  - "Miri Pizzeri 300 m"\nnearbyBeaches:\n  - "Paradise Beach 400 m"\n  - "Ksamil Beach 9 450 m"\n  - "Lori Beach 500 m"\n  - "Puerto Rico Beach 600 m"\n  - "Bora Bora Beach 850 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 500 m"\n  - "Butrint National Park 2.8 km"\n  - "Plazhi I Krorezes 4.1 km"\n  - "Parc National de Butrint 11 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 17 km"\n  - "Old Fortress 17 km"\nairports:\n  - "Corfu International Airport 18 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/ajla-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Ajla Apartments are treated to well-appointed accommodations, featuring a cozy 1-bedroom apartment equipped with modern amenities including a flat-screen TV, air conditioning, and a welcoming living room. The inclusion of a kitchenette adds a touch of home, allowing visitors the flexibility to prepare their meals. Each apartment opens up to a private balcony, presenting serene garden views that promise a tranquil backdrop for morning coffees or evening relaxation.
 
 The commitment to a smoke-free environment ensures a clean and healthy stay, catering to the well-being of all guests. For those arriving by car, the convenience of complimentary private parking removes any travel hassles, making Ajla Apartments an accessible haven for road trippers and international travelers alike.
 
 Situated a mere 2.9 km from the historical Butrint National Park, the property invites culture enthusiasts and nature lovers to explore the rich heritage and natural splendor of the region. Moreover, with Corfu International Airport located 92 km away, Ajla Apartments serves as a strategic base for exploring the wider area, including the enchanting Greek island of Corfu.
 
 Ajla Apartments stands as a testament to the allure of Ksamil, offering a blend of comfort, convenience, and natural beauty, making it a favored choice for discerning travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

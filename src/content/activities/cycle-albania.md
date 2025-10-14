@@ -128,10 +128,3 @@ But the effort is worth every drop of sweat. Because in Albania, you don’t jus
 
 So gear up and let this captivating country inspire you to pedal beyond the ordinary. Your dream bike tour awaits!
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

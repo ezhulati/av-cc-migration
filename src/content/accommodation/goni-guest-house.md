@@ -1,30 +1,5 @@
----
-title: Goni Guest House
-description: This guest house distinguishes itself with spacious, air-conditioned accommodations that boast not only a balcony for guests to enjoy the fresh air and scenic v
-featuredImage: "/images/accommodation/458374330.jpg"
-language: en
-slug: goni-guest-house
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Goni Guest House"\ndescription: "Goni Guest House stands out as a serene retreat in Tepelenë, offering guests an exclusive slice of paradise with its own private beach area, lush garden, and barbecue facilities complemented by a cozy shared lounge."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496908795.jpg?k=1a6faec90a8cf4749e7a541824ed92a3f4381def416697399bc34f3384ef3fb4&o=&hp=1"\nlanguage: en\nslug: goni-guest-house\naddress: "Street Qirko Done, Peshtan, 6301 Tepelenë, Albania"\ncity: "Tepelenë"\nlocation: "Tepelenë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.28961604\n  lng: 20.12341214\nprice: "US$19"\npriceFrom: 19\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 1\nratings:\n  overall: 8.8\n  location: 7.5\n  cleanliness: 10\n  facilities: 7.5\n  value: 10\n  comfort: 7.5\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496908795.jpg?k=1a6faec90a8cf4749e7a541824ed92a3f4381def416697399bc34f3384ef3fb4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497157685.jpg?k=da8f04109f2a635940536bbf0bc4c8206e7c215803c0b4970dc26715466a1670&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497157044.jpg?k=6f26a6ff7c1c2221bce04215f3fe2e61b1eaa45be670ecc4000de1af5becc4f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496908757.jpg?k=0377cdeb5e4ce7451d30469acd07afd3674d47d3f5308ac05b8afbab3fe773e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497156988.jpg?k=0cd33057da78f050680c84807bc30077e826d6543a4e577d8deb2e9346839238&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497157461.jpg?k=beb0414becd297ca05eb6033d21fa23cbdff24d9eb096622b41be5e680932912&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Family rooms"\n  - "Tea/coffee maker in all rooms"\n  - "Private beach area"\nroomTypes:\n  - "Double Room with Mountain View"\nnearbyRestaurants:\n  - "Sajmola 1.5 km"\n  - "Sajmola 3.7 km"\nairports:\n  - "Corfu International Airport 77 km"\n  - "Ioannina Airport 87 km"\nreviews:\n  - name: "Zofia"\n    country: "Poland"\n    text: "“Przemili i uczynni gospodarze. Nie znają angielskiego, ale można kontaktować się z ich synem lub wnukiem przez Whatsapp. Kuchnia wspólna z gospodarzami (podobnie jak łazienka), więc warto zamówić śniadanie, które jest bardzo smaczne: własnej...”"\nbookingURL: "https://www.booking.com/hotel/al/goni-guest-house-tepelene.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nAccommodations at Goni Guest House are thoughtfully equipped with modern conveniences including a refrigerator, kitchenware, and a kettle, alongside essentials such as a shower, hairdryer, and ample wardrobe space. Select rooms treat guests to breathtaking mountain views, with every unit opening onto a balcony for a private outdoor experience. The commitment to comfort is evident in the shared bathrooms, which are stocked with complimentary toiletries and fresh bed linen.
 
-This guest house distinguishes itself with spacious, air-conditioned accommodations that boast not only a balcony for guests to enjoy the fresh air and scenic views but also complimentary WiFi to keep them connected. The views from the property are a picturesque blend of mountain and garden scenes, providing a tranquil backdrop for a restful stay.
+For those keen on exploring the surrounding area, Goni Guest House facilitates adventure with its offer of packed lunches, perfect for day trips to nearby attractions. Families will find the guest house exceptionally welcoming, thanks to outdoor play equipment, a baby safety gate, and a variety of entertainment options including a water park and an indoor play area. The sun terrace invites guests to unwind and soak in the tranquil atmosphere.
 
-Each room is equipped with a flat-screen TV, ensuring entertainment is always within reach, and the inclusion of towels and bed linen adds a touch of home-like comfort. The outdoor dining area invites guests to enjoy their meals amidst the beauty of nature, enhancing the overall experience of their stay.
-
-For moments of relaxation, the garden offers a peaceful haven where one can unwind and reconnect with nature.
-
-Located 49 km from the ancient ruins of Fanoti, Goni Guest House also caters to the needs of history enthusiasts and cultural explorers. With Ioannina Airport 93 km away, the guest house remains accessible for international and domestic travelers alike, promising a memorable stay filled with discovery and relaxation.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}
+Situated 117 km from Ioannina Airport, Goni Guest House is an accessible escape for those looking to immerse themselves in the beauty and tranquility of Tepelenë, making it an ideal choice for travelers seeking both relaxation and adventure.

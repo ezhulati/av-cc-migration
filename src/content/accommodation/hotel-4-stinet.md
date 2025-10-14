@@ -1,15 +1,4 @@
----
-title: Hotel 4 Stinet
-description: Upon entering, visitors are greeted by a welcoming bar, setting the tone for a relaxing retreat. The hotel prides itself on its on-site restaurant, where guests
-featuredImage: "/images/accommodation/232726487.jpg"
-language: en
-slug: hotel-4-stinet
-location: ""
-amenities: []
-images: []
----
-
-Upon entering, visitors are greeted by a welcoming bar, setting the tone for a relaxing retreat. The hotel prides itself on its on-site restaurant, where guests can savor a variety of dishes in a cozy setting. Each room, designed for ultimate comfort, features air conditioning, complimentary WiFi, and a private bathroom, catering to the needs of the modern traveler.
+---\ntitle: "Hotel 4 Stinet"\ndescription: "Hotel 4 Stinet emerges as a distinguished choice for travelers seeking comfort and convenience in Vlorë, positioned just a short stroll from Independence Square and within easy reach of the iconic Kuzum Baba."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232726487.jpg?k=81475ea8e89c2d72b34e00ab99c949301b1c4348f4582b4325bc35480237dae2&o=&hp=1"\nlanguage: en\nslug: hotel-4-stinet\naddress: "Janaq Kilica, 9403 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.47459627\n  lng: 19.4882626\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 150\nratings:\n  overall: 9.1\n  location: 8.7\n  cleanliness: 9.1\n  facilities: 8.9\n  value: 9.3\n  comfort: 9\n  staff: 9.8\n  wifi: 9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232726487.jpg?k=81475ea8e89c2d72b34e00ab99c949301b1c4348f4582b4325bc35480237dae2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232717574.jpg?k=22aa6abc0901aec33ba68a5ac807882b0e228e2e90394b9c6e07cc54835e9fa6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/72366411.jpg?k=663e557509361f5a41ccc20f23fbdd6aa8473f55c905d0e5919548b255d0b78a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232724956.jpg?k=f07aa26edd7d483f89a84d29ad7efa32a437bb9d5048c9443bac005b495b8539&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232723088.jpg?k=feb34e2e22da4c6c77e4b76c8abb8ef263865aae09d80f6a99ca1ac9f2eccf28&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232726786.jpg?k=6bb619182f000ef40cf98dee258e45c60a654f7e6a026cec998e5da3ff53d7ef&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Budget Double Room"\n  - "Deluxe Family Room"\nnearbyBeaches:\n  - "Vjetër Beach 2.4 km"\n  - "Vlore Beach 3 km"\n  - "Ri Beach 4.4 km"\n  - "Narta Beach 4.8 km"\n  - "Beach at Government Villas 6 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Diego"\n    country: "Brazil"\n    text: "“friendly staff, the owner of the hotel, the breakfast and the location, I have nothing to complain about, I recommend the hotel”"\n  - name: "Danielle"\n    country: "Netherlands"\n    text: "“Cosy, clean, comfortable place. Really good breakfast. Very friendly staff.”"\n  - name: "Kenneth"\n    country: "United Kingdom"\n    text: "“I was really taken with this place. Great location, just few minutes walk from the old town and the buses for Tirana etc. City bus stop opposite hotel to get to the beaches easily. Very friendly staff especially in the restaurant.. talking of...”"\nbookingURL: "https://www.booking.com/hotel/al/4-stinet.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nUpon entering, visitors are greeted by a welcoming bar, setting the tone for a relaxing retreat. The hotel prides itself on its on-site restaurant, where guests can savor a variety of dishes in a cozy setting. Each room, designed for ultimate comfort, features air conditioning, complimentary WiFi, and a private bathroom, catering to the needs of the modern traveler.
 
 For those who value productivity or simply wish to unwind, rooms are equipped with a desk and a seating area, complemented by a flat-screen TV with satellite channels, making it easy to stay connected or enjoy some leisure time.
 
@@ -18,15 +7,3 @@ Understanding the needs of its guests, Hotel 4 Stinet offers room service, ensur
 For explorers looking to venture beyond, the hotel is conveniently located 148 km from Tirana International Mother Teresa Airport, with a paid shuttle service available to facilitate seamless travel arrangements.
 
 Hotel 4 Stinet stands out as a prime choice for those seeking a blend of comfort, convenience, and attentive service in the heart of Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

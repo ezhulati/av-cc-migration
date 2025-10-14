@@ -1,15 +1,4 @@
----
-title: Luca apartament
-description: With its prime location, Luca Apartment is merely 8.6 km away from the iconic Skanderbeg Square, making it an ideal base for explorers keen to immerse themselve
-featuredImage: "/images/accommodation/395852177.jpg"
-language: en
-slug: luca-apartament
-location: ""
-amenities: []
-images: []
----
-
-With its prime location, Luca Apartment is merely 8.6 km away from the iconic Skanderbeg Square, making it an ideal base for explorers keen to immerse themselves in the local culture. For those drawn to the allure of nature, the Dajti Ekspres Cable Car awaits at a distance of 11 km, promising breathtaking views of the surrounding landscapes.
+---\ntitle: "Luca apartament"\ndescription: "Luca Apartment emerges as a serene retreat in Kamëz, strategically positioned just a short drive from the heart of Albania's vibrant history and natural beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/395852177.jpg?k=ee3454c57a2c6075c8027d29602b27668ec53f7d0359db5f431b35cc644e4016&o=&hp=1"\nlanguage: en\nslug: luca-apartament\naddress: "Rruga Beselidhja, 1054 Kamëz, Albania"\ncity: "Kamëz"\nlocation: "Kamëz"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.37726076\n  lng: 19.78476181\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/395852177.jpg?k=ee3454c57a2c6075c8027d29602b27668ec53f7d0359db5f431b35cc644e4016&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/395852196.jpg?k=7036b17f46d958c8f3ad2ce850eb35a5c68c800ebf85606bebf5831cc0ca78da&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/395852199.jpg?k=29d7f5bca2ea906f303ffb524b9a72389fdc8e144983e8b537984efcf39af410&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/395852203.jpg?k=fcb6892a90b04ace4d4f4316aaf951e62ed8486ebe8bfdf475f0238c0e929f73&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/395852207.jpg?k=8089c90f97ac703f3eb55b7b816a43a74744683fea30b4a82822d2ac5784fbd5&o=&hp=1"\namenities:\n  - "Free parking"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "National Museum of History Albania 6 km"\n  - "Skanderbeg Square 6 km"\n  - "House of Leaves 6 km"\n  - "Clock Tower Tirana 6 km"\n  - "National Gallery of Arts Tirana 6 km"\n  - "Rinia Park 7 km"\n  - "Tanners' Bridge 7 km"\n  - "Former Residence of Enver Hoxha 7 km"\n  - "Bunk'Art 1 Museum 7 km"\n  - "Grand Park of Tirana 8 km"\nnearbyRestaurants:\n  - "Fast-Food 350 m"\n  - "Kaon Zgara 350 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Lord Bajron 4.4 km"\n  - "Sheshi Rekreativ Don Bosko 4.9 km"\n  - "Shesh Rekreativ Yzberisht 5 km"\n  - "Park Lojrash 5 km"\n  - "Sheshi Rekreativ Mine Peza 5 km"\n  - "Sheshi Rekreativ Allias 5 km"\n  - "Sheshi Rekreativ Parku 1Km 5 km"\n  - "Amazing Nature 6 km"\n  - "Sheshi Paris 6 km"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 5 km"\n  - "Ohrid Airport 83 km"\nbookingURL: "https://www.booking.com/hotel/al/luca-apartament.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nWith its prime location, Luca Apartment is merely 8.6 km away from the iconic Skanderbeg Square, making it an ideal base for explorers keen to immerse themselves in the local culture. For those drawn to the allure of nature, the Dajti Ekspres Cable Car awaits at a distance of 11 km, promising breathtaking views of the surrounding landscapes.
 
 This smoke-free property doesn't just boast a prime location; it also offers guests the luxury of space and privacy. The apartment features a cozy bedroom, a fully equipped kitchenette for those who love to prepare their meals, and a bathroom outfitted with all the essentials. The inclusion of air conditioning ensures a comfortable stay regardless of the weather outside.
 
@@ -20,15 +9,3 @@ For those interested in delving deeper into Albania's rich history, the National
 Luca Apartment is also conveniently located near Tirana International Mother Teresa Airport, just 7 km away, ensuring easy arrivals and departures for international guests. While the Rock of Kavaje, a notable landmark, is a bit further at 43 km, it presents an excellent opportunity for a day trip.
 
 In summary, Luca Apartment stands as a testament to the perfect blend of comfort, convenience, and the promise of adventure, making it an excellent choice for travelers seeking to experience the best of Kamëz and its surroundings.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

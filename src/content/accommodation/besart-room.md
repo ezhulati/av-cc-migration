@@ -1,28 +1,5 @@
----
-title: Besart room
-description: The accommodations at Besart Room are thoughtfully equipped with modern amenities, including a flat-screen TV, ensuring guests a stay that combines both comfort
-featuredImage: "/images/accommodation/484988316.jpg"
-language: en
-slug: besart-room
-location: ""
-amenities: []
-images: []
----
-
-The accommodations at Besart Room are thoughtfully equipped with modern amenities, including a flat-screen TV, ensuring guests a stay that combines both comfort and entertainment. The provision of fresh towels and bed linen further underscores the guest house's commitment to guest comfort.
+---\ntitle: "Besart room"\ndescription: "Besart Room emerges as a serene retreat for travelers seeking the perfect blend of comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484988316.jpg?k=a547130f5f1f254e7055148e5a03136779680dc47926037cff75956404191f09&o=&hp=1"\nlanguage: en\nslug: besart-room\naddress: "Rruga Orikum, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.32727394\n  lng: 19.47871928\nprice: "US$42"\npriceFrom: 42\nstarRating: 3\nrating: 6\nratingWords: "Average"\nnumberOfReviews: 3\nratings:\n  overall: 6\n  location: 5.8\n  cleanliness: 6.7\n  facilities: 5\n  value: 5.8\n  comfort: 5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484988316.jpg?k=a547130f5f1f254e7055148e5a03136779680dc47926037cff75956404191f09&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484988323.jpg?k=56d39bbfb2dfb768faf9266ce0bde841611ca086e0da474881d47aee5f2c684d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484988320.jpg?k=afd12b56ad4ea9a9ef071e2e3144882bfbb2ce693d9cd0f098366d1890413e8e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484988307.jpg?k=ef29c4dcc28cf847f6665ff9104a0e17fbabe639b735475382d2fa1f1dc6f0fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485008620.jpg?k=c80631984e0d2768fd962f314ac37f6ae5a3eb1ac09e9834d58918614ba1fc41&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484988314.jpg?k=498c973a39c34c3d1f1ad2e4f6c1f5a0af8477711b81f1bd26e6b335864e3c27&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484988306.jpg?k=5aebcffd66a1482e3fc25b9e77d6695158d760f238def67b827161417fb2c0fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485008421.jpg?k=18788ca804b52120b85720e4d2a13d3d6e5fb25f9e6980b7026d4738d8a24388&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490906255.jpg?k=45555911f1de9c4eee4f455119ca137e6c6f22600ffd16d47bcd20f4dff08d92&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Family Room with Private Bathroom"\nnearbyRestaurants:\n  - "Pastiçeri Epoca 20 m"\n  - "Pastarella Resort 250 m"\nnearbyBeaches:\n  - "Nettuno Beach 1.3 km"\n  - "Baro Beach 1.6 km"\n  - "Orikum Beach 1.8 km"\n  - "Al Breeze Beach 2.1 km"\n  - "Radhimë Beach 2.8 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 12 km"\n  - "Llogora National Park 13 km"\n  - "Kuzum Baba 16 km"\n  - "Independence Square 16 km"\nairports:\n  - "Corfu International Airport 88 km"\nbookingURL: "https://www.booking.com/hotel/al/besart-room-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodations at Besart Room are thoughtfully equipped with modern amenities, including a flat-screen TV, ensuring guests a stay that combines both comfort and entertainment. The provision of fresh towels and bed linen further underscores the guest house's commitment to guest comfort.
 
 For those looking to explore the local culture and landmarks, Besart Room serves as an ideal base. The historic Kuzum Baba is located just 23 km away, offering a glimpse into the area's rich heritage, while Independence Square is a mere 24 km from the property, inviting guests to immerse themselves in the local community and festivities. Additionally, the convenience of being 167 km from Tirana International Mother Teresa Airport facilitates ease of travel for international guests.
 
 With its strategic location, comprehensive amenities, and commitment to guest satisfaction, Besart Room stands out as a top choice for travelers visiting Vlorë, promising an unforgettable stay marked by comfort and convenience.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,8 @@
----
-title: Lalzit Bay Apartment Mirai at Lura 3
-description: The apartment itself is a haven of modern amenities, featuring two well-appointed bedrooms, a fully equipped kitchen complete with a dishwasher and an oven, and
-featuredImage: "/images/accommodation/426933367.jpg"
-language: en
-slug: lalzit-bay-apartment-mirai-at-lura-3
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Lalzit Bay Apartment Mirai at Lura 3"\ndescription: "Lalzit Bay Apartment Mirai at Lura 3 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Mullini i Danit."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426933367.jpg?k=9199d08e8e62564ec6e3629256d898851cf3aa75df46a0c60cdbf6e08a7063c8&o=&hp=1"\nlanguage: en\nslug: lalzit-bay-apartment-mirai-at-lura-3\naddress: "Lalëzit Bay, Mullini i Danit, Albania"\ncity: "Mullini i Danit"\nlocation: "Mullini i Danit"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.5041924\n  lng: 19.51976535\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 8\nratings:\n  overall: 8.9\n  location: 9.1\n  cleanliness: 8.4\n  facilities: 8.4\n  value: 9.1\n  comfort: 9.6\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426933367.jpg?k=9199d08e8e62564ec6e3629256d898851cf3aa75df46a0c60cdbf6e08a7063c8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472757600.jpg?k=12b4d12a3e633ae982034cf4001f126723d0dc9165f2e695c7dcb7e52bf7c352&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472757458.jpg?k=c5e5eb248e5423aab700e43a972b5e295c6df5c4105f3394d57f626814ed4c4c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461944517.jpg?k=ad0bf0b3ad8e3ec27092ffeb011ddf69ad793cc7fdd1e7090a668fd6cb76b048&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462738734.jpg?k=11eb63bd132fa1b5d4930d7034eba1ee435e83041d229a69f986591942376b9a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426933340.jpg?k=a6fc3e52a5f0fd990fdbdfb0d13244b8736c19be52920f04cbe9341d771a2235&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426933389.jpg?k=289f78d44938ea7eaeb340f8d600ea29ebe36928a9df09f914126ac852870d2f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426933387.jpg?k=b771992abe263c6696f3d320efa249bcad433db63b48a37a23dce76fd4184742&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426933356.jpg?k=6e1b14f1ec0f86421d18a91968b2e6dcefa5ba74d111dceca38c04c0726e8daa&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Airport shuttle"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Triumf 2 400 m"\n  - "Bar Restorant Oasis 450 m"\nnearbyBeaches:\n  - "Lalëz Bay Beach 450 m"\n  - "Rodoni Beach 10 km"\nwhatsNearby:\n  - "Bekimi 20 km"\nairports:\n  - "Tirana International Airport Mother Teresa 18 km"\n  - "Podgorica Airport 96 km"\nreviews:\n  - name: "Imena"\n    country: "Albania"\n    text: "“Jua rekomandoj 100%.
+Arredimi i shtepise ishte bashkekohor dhe shum komode per familjar.”"\nbookingURL: "https://www.booking.com/hotel/al/lalzit-bay-apartment-mirai-at-lura-3.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of modern amenities, featuring two well-appointed bedrooms, a fully equipped kitchen complete with a dishwasher and an oven, and a cozy seating area for relaxation. The inclusion of a flat-screen TV ensures entertainment is always at hand, while the convenience of a bathroom equipped with a shower, along with provided towels and bed linen, adds to the comfort of the stay. For those who enjoy dining al fresco, an outdoor dining area is available, enhancing the experience of meals with a view.
 
-The apartment itself is a haven of modern amenities, featuring two well-appointed bedrooms, a fully equipped kitchen complete with a dishwasher and an oven, and a cozy seating area for relaxation. The inclusion of a flat-screen TV ensures entertainment is always at hand, while the convenience of a bathroom equipped with a shower, along with provided towels and bed linen, adds to the comfort of the stay. For those who enjoy dining al fresco, an outdoor dining area is available, enhancing the experience of meals with a view.
-
-For everyday needs, a minimarket on the premises offers ease and convenience. The property doesn't stop at providing a comfortable stay; it also caters to the adventurous spirit of its guests. With sightseeing tours readily accessible, explorers can easily venture out to discover the local area. Additionally, outdoor play equipment and a garden offer leisurely pastimes for guests of all ages.
+For everyday needs, a minimarket on the premises offers ease and convenience. The property doesn’t stop at providing a comfortable stay; it also caters to the adventurous spirit of its guests. With sightseeing tours readily accessible, explorers can easily venture out to discover the local area. Additionally, outdoor play equipment and a garden offer leisurely pastimes for guests of all ages.
 
 Located a manageable distance from notable landmarks, Lalzit Bay Apartment Mirai at Lura 3 is 43 km from Skanderbeg Square and 47 km from the Dajti Ekspres Cable Car, making it a strategic base for those looking to explore the broader region. For travelers, the proximity to Tirana International Mother Teresa Airport, just 28 km away, means less time commuting and more time enjoying the vacation.
 
-In summary, Lalzit Bay Apartment Mirai at Lura 3 presents an appealing package for those in search of a beachfront retreat that doesn't compromise on modern comforts or convenience.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}
+In summary, Lalzit Bay Apartment Mirai at Lura 3 presents an appealing package for those in search of a beachfront retreat that doesn’t compromise on modern comforts or convenience.

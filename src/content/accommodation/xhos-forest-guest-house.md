@@ -4,9 +4,22 @@ description: Each room is equipped with modern amenities such as air conditionin
 featuredImage: "/images/accommodation/379967306.jpg"
 language: en
 slug: xhos-forest-guest-house
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Air Conditioning"
+  - "Parking"
+  - "Restaurant"
+  - "Bar"
+  - "Spa"
+  - "Breakfast"
+  - "Balcony"
+  - "TV"
 ---
 
 Each room is equipped with modern amenities such as air conditioning, a flat-screen TV with satellite channels, a dishwasher, and a kettle, catering to the needs of the contemporary traveler. The attention to detail extends to the provision of slippers and a desk in every room, enhancing the overall guest experience. Private bathrooms come standard with a hair dryer, and the availability of free WiFi in the rooms adds an extra layer of convenience, with select rooms also boasting a balcony for those who appreciate outdoor relaxation.
@@ -17,14 +30,3 @@ The property's thoughtful amenities extend to its outdoor spaces, where a garden
 
 Situated 118 km from Tirana International Mother Teresa Airport, Xho's Forest Guest House offers a tranquil escape in the heart of Berat, making it an ideal choice for families and solo travelers alike.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

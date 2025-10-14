@@ -1,28 +1,5 @@
----
-title: Hostel Split Rock
-description: The hostel distinguishes itself with a welcoming shared lounge, perfect for guests to relax and mingle after a day of sightseeing. The commitment to guest satis
-featuredImage: "/images/accommodation/456279132.jpg"
-language: en
-slug: hostel-split-rock
-location: ""
-amenities: []
-images: []
----
-
-The hostel distinguishes itself with a welcoming shared lounge, perfect for guests to relax and mingle after a day of sightseeing. The commitment to guest satisfaction is evident through the provision of a 24-hour front desk, efficient airport transfer services, a communal kitchen for those who enjoy preparing their meals, and the essential convenience of complimentary WiFi throughout the property.
+---\ntitle: "Hostel Split Rock"\ndescription: "Hostel Split Rock emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456279132.jpg?k=5631476a46ebdb85194c8a42f3ef0dad179da879ad7ef742679bcabaeaa42104&o=&hp=1"\nlanguage: en\nslug: hostel-split-rock\naddress: "4 Street HIM KOLLIIN STREET KAVAJA 4, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hostel"\ncoordinates:\n  lat: 41.32592812\n  lng: 19.81121044\nprice: "US$17"\npriceFrom: 17\nstarRating: 3\nrating: 6.9\nratingWords: "Average"\nnumberOfReviews: 111\nratings:\n  overall: 6.9\n  location: 7.8\n  cleanliness: 5.5\n  facilities: 5.5\n  value: 6.6\n  comfort: 5.7\n  staff: 7\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456279132.jpg?k=5631476a46ebdb85194c8a42f3ef0dad179da879ad7ef742679bcabaeaa42104&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456279108.jpg?k=021cd7d03f1b95e150281104ae907250d364dcf6c79b3c9947c9b706b54ebe0e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456279184.jpg?k=b25496d91190a92e722f9076f4b9022ac8d2a0fa6601e92d7a27d840283dc2dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456279125.jpg?k=fd548d41596dd9b995cc7232d78e6ca5fae7e41dc1e455a568b1f94e181ff0e6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456279127.jpg?k=66e9cfddd1e6f66a651a7d9f64afe0732b142c529f962b9c245bdc95b0499430&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456279130.jpg?k=b3d71e945b05443d7f394fc1a02ded1b16d6f715b2dfbef616c5171d403c8841&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free WiFi"\n  - "24-hour front desk"\n  - "Tea/coffee maker in all rooms"\nroomTypes:\n  - "Twin Room with Balcony"\n  - "Twin Room with City View"\n  - "Triple Room with Balcony"\n  - "Quadruple Room"\n  - "Family Room"\n  - "8-Bed Mixed Dormitory Room"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 800 m"\n  - "Tanners' Bridge 1.2 km"\n  - "Grand Park of Tirana 2 km"\n  - "Bunk'Art 1 Museum 4.9 km"\nnearbyRestaurants:\n  - "Pasticeri Luara 100 m"\n  - "Pizza Seni 100 m"\nwhatsNearby:\n  - "House of Leaves 450 m"\n  - "Sheshi Paris 500 m"\n  - "Rinia Park 600 m"\n  - "Sheshi Skënderbej 650 m"\n  - "National Museum of History Albania 650 m"\n  - "Parku Rinia 650 m"\n  - "Parku Europa 700 m"\n  - "Skanderbeg Square 700 m"\n  - "Clock Tower Tirana 750 m"\n  - "Former Residence of Enver Hoxha 750 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/hostel-split-rock-tirana1.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nThe hostel distinguishes itself with a welcoming shared lounge, perfect for guests to relax and mingle after a day of sightseeing. The commitment to guest satisfaction is evident through the provision of a 24-hour front desk, efficient airport transfer services, a communal kitchen for those who enjoy preparing their meals, and the essential convenience of complimentary WiFi throughout the property.
 
 Accommodations at Hostel Split Rock are thoughtfully designed with guest comfort in mind. Each room is a haven of rest, equipped with air conditioning for those warm Tirana days, a wardrobe for personal belongings, and a flat-screen TV for entertainment. Select rooms boast the added luxury of a balcony, offering a private outdoor space to unwind. The inclusion of bed linen in every room ensures a restful night's sleep.
 
 For those eager to delve into the local culture, the hostel is a stone's throw away from Rinia Park, the Clock Tower of Tirana, and the Et'hem Bey Mosque, making it an ideal base for exploring the city's architectural marvels and green spaces. With Tirana International Mother Teresa Airport just 14 km away, Hostel Split Rock offers both convenience and comfort for travelers looking to experience the vibrant life of Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

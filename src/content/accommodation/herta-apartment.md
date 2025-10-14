@@ -1,28 +1,7 @@
----
-title: Herta Apartment
-description: Guests are welcomed into a generously sized apartment featuring a separate bedroom, a bathroom, and a living room equipped with a flat-screen TV, ensuring a sta
-featuredImage: "/images/accommodation/866dca38dcc31cb6fa2e9b4c475bd32e681b0080.png"
-language: en
-slug: herta-apartment
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into a generously sized apartment featuring a separate bedroom, a bathroom, and a living room equipped with a flat-screen TV, ensuring a stay that combines relaxation with the comforts of home. The kitchen, fully equipped with modern appliances including an oven, alongside a dining area, invites guests to prepare and enjoy their meals with ease. Attention to detail is evident with the provision of towels and bed linen, enhancing the overall experience.
+---\ntitle: "Herta Apartment"\ndescription: "Herta Apartment emerges as a distinguished choice for travelers seeking comfort and convenience in Berat."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-p/866dca38dcc31cb6fa2e9b4c475bd32e681b0080.png"\nlanguage: en\nslug: herta-apartment\naddress: "Rruga Mihal Komnena, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.70567458\n  lng: 19.95151963\nprice: "US$59"\npriceFrom: 59\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 11\nratings:\n  overall: 9\n  location: 9.3\n  cleanliness: 9.3\n  facilities: 8.4\n  value: 9.3\n  comfort: 8.6\n  staff: 8.9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-p/866dca38dcc31cb6fa2e9b4c475bd32e681b0080.png"\n  - "https://cf.bstatic.com/static/img/flags/12/nz/81fce32e8c3f57b990beee67e8e397f76889a63e.png"\n  - "https://lh3.googleusercontent.com/a/AItbvmnNZb65mzpzTmrJ6hoSQnRgBv7AA7ISrW66orGo=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/il/3e2a36b9082a9f7102d81a389cdc76b3750ccc1e.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"\n  - "https://cf.bstatic.com/static/img/flags/12/fr/80667cd1f58bba217c1ec87dea9ccd1335ed8dba.png"\n  - "https://graph.facebook.com/v2.9/1878183135552855/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/nl/7b4427cefda046f99f0efc11622be2e83b8ba511.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"\n  - "https://cf.bstatic.com/static/img/flags/12/co/c8463b3edb6205fc0f0a729823fbc8ffddc2b900.png"\n  - "https://cf.bstatic.com/xdata/images/xphoto/square64/159913831.webp?k=28e29a152b00579223ba16ffb31156341766e4dbbe63a5c9f919f9c7f10033db&o=?t=1656191369"\n  - "https://cf.bstatic.com/static/img/flags/12/tr/249dbed2afb3f285153258fc96506565b3e74090.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461915953.jpg?k=19337e4e8f5cc850d86f2a445d07fc5aa13af7a650714a864a7e2fdf51fe4b2f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/461915969.jpg?k=1e1f5fbffcde57d9c542c305a019a8b90e20b85d99d22f2468ae46ddbc211ad6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/312899534.jpg?k=fcc9482c7427d6961cac2bf08fa29384b6679dbaed147c5a8f9c7615220eb20e&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Street Food Imam Yousuf 10 m"\n  - "Zgara Kaon / Kaon Grill 40 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 84 km"\nreviews:\n  - name: "Paige"\n    country: "New Zealand"\n    text: "“Great location to be able to get to the Old Town, tour guide venues, the supermarket, restaurants and the local bridges. Tucked away from the street so very quiet. Reasonably set up kitchen to allow cooking at home. The host kindly gave us a few...”"\n  - name: "Ian"\n    country: "Israel"\n    text: "“Right next to main walking strip. Really sweet owners. Lovely little apartment. Highly recommend.”"\n  - name: "Béatrice"\n    country: "France"\n    text: "“Emplacement parfait.
+Appartement bien équipé.
+Literies confortables.”"\nbookingURL: "https://www.booking.com/hotel/al/herta-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests are welcomed into a generously sized apartment featuring a separate bedroom, a bathroom, and a living room equipped with a flat-screen TV, ensuring a stay that combines relaxation with the comforts of home. The kitchen, fully equipped with modern appliances including an oven, alongside a dining area, invites guests to prepare and enjoy their meals with ease. Attention to detail is evident with the provision of towels and bed linen, enhancing the overall experience.
 
 For those concerned with privacy and tranquility, the apartment addresses these needs with a private entrance and soundproofing, ensuring a serene and uninterrupted stay. Although situated 118 km from Tirana International Mother Teresa Airport, the convenience of a paid airport shuttle service is offered, facilitating seamless travel arrangements.
 
 Herta Apartment stands out as a prime selection for those desiring a blend of privacy, comfort, and attentive services during their visit to Berat.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

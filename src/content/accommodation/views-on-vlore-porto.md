@@ -1,28 +1,5 @@
----
-title: Views on Vlore - Porto
-description: The apartment itself is a study in spacious, modern living, featuring a well-appointed bedroom, a kitchen equipped with all the essentials including a dining ar
-featuredImage: "/images/accommodation/AGNmyxYOlYxiaju5lVmE03pHRFlFevvOSrrSf6BDQVR2s96-c64"
-language: en
-slug: views-on-vlore-porto
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a study in spacious, modern living, featuring a well-appointed bedroom, a kitchen equipped with all the essentials including a dining area and fridge, and not one, but two bathrooms for added convenience. Special attention to detail is evident in the inclusion of a bidet and a dedicated dressing room, ensuring a comfortable and luxurious stay.
+---\ntitle: "Views on Vlore - Porto"\ndescription: "Views on Vlore - Porto emerges as a prime choice for travelers seeking a serene seaside escape in Vlorë, perfectly positioned just a short stroll from Vjetër Beach and within easy reach of Vlore Beach."\nfeaturedImage: "https://lh3.googleusercontent.com/a/AGNmyxYOlYxiaju5lVmE03pHRFlFevvOSrrSf6BDQVR2=s96-c64"\nlanguage: en\nslug: views-on-vlore-porto\naddress: "Rruga Kosova, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45573579\n  lng: 19.4829948\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://lh3.googleusercontent.com/a/AGNmyxYOlYxiaju5lVmE03pHRFlFevvOSrrSf6BDQVR2=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/nl/7b4427cefda046f99f0efc11622be2e83b8ba511.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433888436.jpg?k=d6dfcaf00f64f1fd3f0160f0b481807eaa6e891a8693fa6c6affb3110755b3a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/433888441.jpg?k=944c8fa0915435d2930d01909b88a35a3a505887e9cdac0d6fe25f941a0db086&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/433888454.jpg?k=e35cd0adca0af0978667804807c06b58a5305defafd9af88c7abb70519deb776&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/433888402.jpg?k=5b555f13eb21bd29b68fe8e00daf619210c9f167c26eff9c69f6360f28e53640&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/433888409.jpg?k=fd9f6eb541bda0b117a9abe62849c52c00a520a5abc10c24aed07045a2f85ddf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/433888450.jpg?k=6b018df86239fbe9bc082c07aa1e048f1c3e466c81504f812ec087301d6cf7dd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/433888419.jpg?k=ec9857b0bffa05ec4c2879daa125775c20fc971da0aa6ffdac773cc3716b2f44&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/433888302.jpg?k=b5e3f6fb20e73bff3ac36567256890a8e0244c93a15c7224c377b44302344636&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/433888430.jpg?k=97b56be8379dd4fd323a96186c1828cddec11da288e31d29663496a9432d8485&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Piceri Hera 50 m"\n  - "Teos Bistro and Bb 50 m"\nnearbyBeaches:\n  - "Vjetër Beach 400 m"\n  - "Vlore Beach 1.2 km"\n  - "Ri Beach 2.4 km"\n  - "Beach at Government Villas 4 km"\n  - "Liro Beach 4.5 km"\nwhatsNearby:\n  - "Kuzum Baba 1.6 km"\n  - "Independence Square 1.8 km"\n  - "Scooby Doo Vlore 2.4 km"\nreviews:\n  - name: "Laurence"\n    country: "Netherlands"\n    text: "“The apartment was very clean, you have a good view to the city and the sea, the apartment was very big and nice, we enjoyed it, the owner was very nice. The apartment is located very good”"\nbookingURL: "https://www.booking.com/hotel/al/views-on-vlore-porto.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a study in spacious, modern living, featuring a well-appointed bedroom, a kitchen equipped with all the essentials including a dining area and fridge, and not one, but two bathrooms for added convenience. Special attention to detail is evident in the inclusion of a bidet and a dedicated dressing room, ensuring a comfortable and luxurious stay.
 
 Beyond the confines of this exquisite apartment, guests will find themselves mere kilometers away from key attractions such as Independence Square and the historic Kuzum Baba, making it an ideal base for exploring the rich cultural tapestry of Vlorë. For those arriving from afar, the Tirana International Mother Teresa Airport is located 150 km away, making Views on Vlore - Porto a compelling choice for both domestic and international travelers.
 
 In a city celebrated for its stunning coastal scenery and vibrant history, Views on Vlore - Porto stands out as a beacon of comfort, convenience, and unforgettable experiences.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

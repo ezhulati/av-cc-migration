@@ -1,26 +1,3 @@
----
-title: Laguna e re
-description: Each room at Laguna e re is thoughtfully designed to maximize guest comfort, featuring balconies that present stunning lake vistas. The attention to detail exte
-featuredImage: "/images/accommodation/514751566.jpg"
-language: en
-slug: laguna-e-re
-location: ""
-amenities: []
-images: []
----
-
-Each room at Laguna e re is thoughtfully designed to maximize guest comfort, featuring balconies that present stunning lake vistas. The attention to detail extends to the private bathrooms, which are well-appointed with bidets and slippers, adding a touch of luxury to the experience. Moreover, guests can enjoy the picturesque mountain scenery that complements the room's modern amenities, such as ample wardrobe space and a flat-screen TV.
+---\ntitle: "Laguna e re"\ndescription: "Laguna e re emerges as a serene oasis in Fushëkuqe, offering a tranquil retreat just 47 km away from the bustling Skanderbeg Square."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514751566.jpg?k=2c429e3a7f85ccd0b8b8f86aeaee4aa906f6e07ff91ed50f6b32816850155c32&o=&hp=1"\nlanguage: en\nslug: laguna-e-re\naddress: "JHQR+8P7,Patoku Lagoon,Patok, 4706 Fushëkuqe, Albania"\ncity: "Fushëkuqe"\nlocation: "Fushëkuqe"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.6382875\n  lng: 19.5917969\nprice: "US$39"\npriceFrom: 39\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514751566.jpg?k=2c429e3a7f85ccd0b8b8f86aeaee4aa906f6e07ff91ed50f6b32816850155c32&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514751476.jpg?k=c752be986429be81757b6a1e773bad05d0c23822e12e68dac43aa3c4ff902bca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514751519.jpg?k=bcaf8abf7ff03e9aba1bac8f8e32eba4d4a6c04b03082ab683dbec24f114a1b0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514751520.jpg?k=f582617cd9978bee64fc14d9c351cf5b105a4484be20398a334630c0311dd2d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514751525.jpg?k=61a15107ae8fa6263b4a705348c28bbf653e37441b9770901fd68e6c710d1d44&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514751537.jpg?k=f00f1dd6508e8145d9b163e3697383e2f4f4874b50b26e1e7b3a264d43af68b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514751547.jpg?k=ef9308f621200ecf13ff187817cd010674d8ab9b069277bcc3a55ba4803a9056&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514751590.jpg?k=55094fbfc0e51b1f937c3e7362df4a2076ce3dbdff98f92b06a34b3a87c9fe3f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514751566.jpg?k=2c429e3a7f85ccd0b8b8f86aeaee4aa906f6e07ff91ed50f6b32816850155c32&o=&hp=1"\namenities:\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Bar"\nroomTypes:\n  - "Double Room with Balcony"\nnearbyRestaurants:\n  - "Laguna e Re 30 m"\n  - "Perla e Patokut 200 m"\nnearbyBeaches:\n  - "Tale Beach 3.8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 26 km"\n  - "Podgorica Airport 83 km"\nbookingURL: "https://www.booking.com/hotel/al/laguna-e-re.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nEach room at Laguna e re is thoughtfully designed to maximize guest comfort, featuring balconies that present stunning lake vistas. The attention to detail extends to the private bathrooms, which are well-appointed with bidets and slippers, adding a touch of luxury to the experience. Moreover, guests can enjoy the picturesque mountain scenery that complements the room's modern amenities, such as ample wardrobe space and a flat-screen TV.
 
 Strategically located, Laguna e re offers easy access to notable landmarks, including the Former Residence of Enver Hoxha and the National Museum of History Albania, both situated 47 km from the hotel. For travelers arriving by air, the Tirana International Mother Teresa Airport is conveniently located just 34 km away, making Laguna e re an ideal choice for both leisure and business visitors seeking a peaceful haven amidst the natural beauty of Fushëkuqe.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

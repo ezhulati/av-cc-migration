@@ -1,30 +1,7 @@
----
-title: Florida 519
-description: The highlight of Florida 519 is undoubtedly its well-appointed apartment. Guests can enjoy breathtaking sea views from a private terrace, making it an ideal ret
-featuredImage: "/images/accommodation/427111431.jpg"
-language: en
-slug: florida-519
-location: ""
-amenities: []
-images: []
----
-
-The highlight of Florida 519 is undoubtedly its well-appointed apartment. Guests can enjoy breathtaking sea views from a private terrace, making it an ideal retreat for those seeking tranquility and beauty. The apartment boasts a spacious bedroom, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen featuring an oven and a fridge, catering to all culinary needs. Additionally, the modern bathroom with a shower enhances the comfort of the stay. It's worth noting that Florida 519 is committed to providing a smoke-free environment, ensuring a clean and healthy atmosphere for all guests.
+---\ntitle: "Florida 519"\ndescription: "Florida 519 emerges as a prime beachfront gem in Durrës, offering guests an exceptional stay mere steps from the pristine Durres Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427111431.jpg?k=f0de48bd9be2ee15ef17e5e6c756408b375a1ac821c8b95bc48ac279229060d8&o=&hp=1"\nlanguage: en\nslug: florida-519\naddress: "8F3W+Q3C 7th floor with elevator, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30359269\n  lng: 19.49656392\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 5\nratings:\n  overall: 8.9\n  location: 9.5\n  cleanliness: 9\n  facilities: 9\n  value: 9\n  comfort: 8.5\n  staff: 8.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427111431.jpg?k=f0de48bd9be2ee15ef17e5e6c756408b375a1ac821c8b95bc48ac279229060d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427111443.jpg?k=a76bf95dcc040cad72d0d588f9b0f7d85ac157cb3d8fdd8855efc1f15352956e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427111417.jpg?k=993fc4586023bef8044f536aefc0f3f432f3471253b481bbb03abe8eb593e8f4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427111403.jpg?k=4ae1db971b7dd64b7cfbf0e920ef5bc2c373edb5d431257647a1182fee57424a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427111395.jpg?k=dfddc61d2fdf261512934dfa006c7d84928ccee263e0c00e9dcc4a0ce99f0b0d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427111425.jpg?k=e980f0473f556f4f12ac5b1a190eb49e3098270dea0d430189f34757e717cddf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427111238.jpg?k=0e775673b5542836845420b5b7bcf9cd4bc84899d83180ecbc86d893e1371a5f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427111438.jpg?k=bf2a71332e454e7e01d4b2f4092cd59adf3d925f3583884685d7c1b7fafd3ee9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427111314.jpg?k=f880658152c2f5fda2ba2c117b95d61eb01fbfe24e5e9954eb327ab8c98f280b&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\nnearbyBeaches:\n  - "Durres Beach 250 m"\n  - "Shkëmbi i Kavajës Beach 2.2 km"\n  - "Currila Beach 4.1 km"\n  - "Golem Beach 4.6 km"\n  - "Kallmi Beach 6 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/1-bedroom-apartment-519.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe highlight of Florida 519 is undoubtedly its well-appointed apartment. Guests can enjoy breathtaking sea views from a private terrace, making it an ideal retreat for those seeking tranquility and beauty. The apartment boasts a spacious bedroom, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen featuring an oven and a fridge, catering to all culinary needs. Additionally, the modern bathroom with a shower enhances the comfort of the stay. It's worth noting that Florida 519 is committed to providing a smoke-free environment, ensuring a clean and healthy atmosphere for all guests.
 
 For those looking to explore beyond the beach, Florida 519 does not disappoint. The property offers convenient airport transfer services and car rental options, making it easy for guests to venture out to local attractions. Skanderbeg Square and the Dajti Ekspres Cable Car are within accessible distances, offering unique experiences and breathtaking views of the area.
 
 Moreover, the on-site coffee shop presents a delightful spot for guests to relax and enjoy a cup of coffee, adding to the overall charm of the stay.
 
 Located just a short drive from Tirana International Mother Teresa Airport, Florida 519 presents an ideal choice for travelers seeking a blend of relaxation, convenience, and exploration in the heart of Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

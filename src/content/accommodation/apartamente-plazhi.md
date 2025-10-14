@@ -1,26 +1,3 @@
----
-title: Apartamente plazhi
-description: The apartment itself is a spacious retreat, featuring three well-appointed bedrooms, a cozy living room for relaxation, satellite TV for entertainment, and an e
-featuredImage: "/images/accommodation/104065285.jpg"
-language: en
-slug: apartamente-plazhi
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a spacious retreat, featuring three well-appointed bedrooms, a cozy living room for relaxation, satellite TV for entertainment, and an equipped kitchen that caters to all your culinary needs. The inclusion of a bathroom with a shower adds to the convenience, ensuring a comfortable stay. Guests can also enjoy the luxury of a terrace, perfect for soaking in the breathtaking sea views that Sarandë has to offer.
+---\ntitle: "Apartamente plazhi"\ndescription: "Discover the charm of Sarandë with a stay at Apartamente Plazhi, a gem in the Vlorë County region that boasts not only a prime location but also panoramic city views from its inviting balcony."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/104065285.jpg?k=9f6efe9f6500d761468cb2f39736be670eb5df638f09e276a431715510184662&o=&hp=1"\nlanguage: en\nslug: apartamente-plazhi\naddress: "Rruga Qazim Demi building 7, 1001 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87700069\n  lng: 20.00654369\nprice: "US$108"\npriceFrom: 108\nstarRating: 2\nrating: 7.1\nratingWords: "Good"\nnumberOfReviews: 26\nratings:\n  overall: 7.1\n  location: 7.3\n  cleanliness: 6.8\n  facilities: 6.5\n  value: 7.1\n  comfort: 7.3\n  staff: 7.3\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/104065285.jpg?k=9f6efe9f6500d761468cb2f39736be670eb5df638f09e276a431715510184662&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476140973.jpg?k=6b877d06b84d8830fd20fb16f91175151f87fab3aa59670617b5a2c0b966b48b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/104065277.jpg?k=c68bf4d588102e98772f9da7e06bdc59da9d37f842f9b967d96096d84932627c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476137506.jpg?k=85f041deac2fd85402e47730b4ed5f5cefb06c688b3429c5287964a45258e084&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476139474.jpg?k=b7c1f96a05dee84bf25242cdeeec11104116841d799c0c265e20096f8bb1983d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476135287.jpg?k=cbefaebd7fa1d097b8dbb305d52c0b30891fab67ab95a7db87bec4cecf61a771&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476134794.jpg?k=6fb6c736f5610b2a7f87903ca1357cb176639b6a7d33d1ceb1cac6213ab9ecdb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/104065291.jpg?k=d96ad45356977f02ccf32bf9beec6dd3a7ff6ab324c92cbf4a4da6d26038a599&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/104704949.jpg?k=2f01f8133aac9e02a80ddfac852cbe15356a364c17db18ab213b444c7ccf2576&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\nroomTypes:\n  - "Apartment with Sea View"\nnearbyRestaurants:\n  - "Maliq coffee shop 100 m"\n  - "Zum Cafe 200 m"\nnearbyBeaches:\n  - "Saranda City Beach 450 m"\n  - "Sarande Main Beach 950 m"\n  - "La Petite Beach 1.2 km"\n  - "Maestral Beach 1.3 km"\n  - "Saranda Bay Beach 2.1 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.5 km"\n  - "Butrint National Park 3.4 km"\n  - "Plazhi I Krorezes 9 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 31 km"\n  - "Ioannina Airport 71 km"\nbookingURL: "https://www.booking.com/hotel/al/apartamente-plazhi.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a spacious retreat, featuring three well-appointed bedrooms, a cozy living room for relaxation, satellite TV for entertainment, and an equipped kitchen that caters to all your culinary needs. The inclusion of a bathroom with a shower adds to the convenience, ensuring a comfortable stay. Guests can also enjoy the luxury of a terrace, perfect for soaking in the breathtaking sea views that Sarandë has to offer.
 
 Location is key, and Apartamente Plazhi does not disappoint. Positioned just 1.1 km from Sarande Main Beach and a short 1.3 km from the quaint La Petite Beach, guests have easy access to some of the area's most beautiful coastlines. For those looking to explore beyond the local area, Ioannina Airport is 97 km away, making this apartment an ideal choice for both local and international travelers seeking a memorable escape in Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

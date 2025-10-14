@@ -1,26 +1,4 @@
----
-title: Guest House Trojani
-description: Select rooms at Guest House Trojani enhance the experience with either a terrace or balcony, inviting guests to soak in the picturesque surroundings in privacy.
-featuredImage: "/images/accommodation/450918658.jpg"
-language: en
-slug: guest-house-trojani
-location: ""
-amenities: []
-images: []
----
-
-Select rooms at Guest House Trojani enhance the experience with either a terrace or balcony, inviting guests to soak in the picturesque surroundings in privacy. Comfort is paramount, with each unit thoughtfully equipped with quality bed linen and towels, ensuring a restful night's sleep.
+---\ntitle: "Guest House Trojani"\ndescription: "Discover the serene beauty of Lëpushë at Guest House Trojani, a charming retreat that stands a mere 26 km away from the tranquil Plav Lake."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450918658.jpg?k=f7cd7836b1ad714226b19306a8a4dc0f6aa0726851613d14f4f831765aee6bdb&o=&hp=1"\nlanguage: en\nslug: guest-house-trojani\naddress: "Rruga Lepushe, 4304 Lëpushë, Albania ∙ 0.8 miles from downtown/center, 4304 Lëpushë, Albania"\ncity: "Lëpushë"\nlocation: "Lëpushë"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 42.53693172\n  lng: 19.72678807\nprice: "US$20"\npriceFrom: 20\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 29\nratings:\n  overall: 9.1\n  location: 8.8\n  cleanliness: 8.7\n  facilities: 8.6\n  value: 9.2\n  comfort: 9.3\n  staff: 9.4\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450918658.jpg?k=f7cd7836b1ad714226b19306a8a4dc0f6aa0726851613d14f4f831765aee6bdb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450918747.jpg?k=4ab36edd44fdde51eb8efcd0dd34d30cddabb3d74b76f3cd77bfcfef781570d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450918745.jpg?k=6dbf09f89e8ccfe0a59fb91083ee25640d2a7c22ed511f9a8aec223063abcb3c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450918755.jpg?k=f23e39b889f67b740168bd38578f305716aa2d7cec8431dccd80cd9aca5ee228&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450918748.jpg?k=7bf65a4a34b7dca2d7e1e3cf27394040ae4773529f470d69bf35d5caf6935ee2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450918736.jpg?k=d714feb60fbbcb860fd7debe34ca6f23f2d99dd2b77e02856d974a1d8d63d9a8&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Basic free WiFi (8 Mbps)"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "Family Room"\n  - "Quadruple Room"\n  - "Double Room"\n  - "Quadruple Room"\nnearbyRestaurants:\n  - "Bar Tonini 850 m"\n  - "Sebastiani 900 m"\nwhatsNearby:\n  - "Prokletije National Park 2.2 km"\n  - "Theth National Park 8 km"\n  - "Valbona Valley National Park 11 km"\n  - "Theth National Park 15 km"\n  - "Prokletije National Park 16 km"\n  - "Nacionalni Park Prokletije 16 km"\n  - "Parku Kombëtar Lugina e Valbonës 18 km"\n  - "Nacionalni park Prokletije 18 km"\nairports:\n  - "Podgorica Airport 43 km"\n  - "Tivat Airport 83 km"\nreviews:\n  - name: "Xhuljano"\n    country: "Albania"\n    text: "“Lovely people, clean and comfortable house.
+Will come back again!”"\n  - name: "Alex"\n    country: "Switzerland"\n    text: "“great. smart daughter organizes everything. helpful. funny animals and nice location.”"\n  - name: "Jan213"\n    country: "Czech Republic"\n    text: "“Very nice location (no problem to drive to the guesthouse with civil SUV), kids enjoyed all the animals around. We have strongly appreciated how the hosts took care about us when we broke a tyre (took them almost full day to manage it) - thank...”"\nbookingURL: "https://www.booking.com/hotel/al/guest-house-trojani-lepushe2.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nSelect rooms at Guest House Trojani enhance the experience with either a terrace or balcony, inviting guests to soak in the picturesque surroundings in privacy. Comfort is paramount, with each unit thoughtfully equipped with quality bed linen and towels, ensuring a restful night's sleep.
 
 For travelers arriving by air, Podgorica Airport is conveniently located 62 km away, making Guest House Trojani an accessible haven for both adventure and relaxation.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

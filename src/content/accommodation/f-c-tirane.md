@@ -4,9 +4,18 @@ description: The apartment itself boasts an impressive array of amenities. Guest
 featuredImage: "/images/accommodation/501168734.jpg"
 language: en
 slug: f-c-tirane
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "Bar"
+  - "Spa"
+  - "Kitchen"
+  - "Balcony"
+  - "TV"
 ---
 
 The apartment itself boasts an impressive array of amenities. Guests are treated to spacious, air-conditioned living quarters complete with a balcony that offers sweeping views of the city. The interior is thoughtfully designed for comfort and utility, featuring two well-appointed bedrooms, a fully equipped kitchen with modern appliances such as a microwave and fridge, and a cozy seating area perfect for unwinding. Entertainment and relaxation are further enhanced by the inclusion of a flat-screen TV and two bathrooms, one of which is equipped with a luxurious hot tub. The provision of towels and bed linen adds a touch of home.
@@ -17,14 +26,3 @@ Convenience is key at F C Tiranë, with an on-site bar offering a selection of d
 
 F C Tiranë stands out as a top-tier accommodation option, blending the comforts of home with the excitement of Tirana's urban landscape.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

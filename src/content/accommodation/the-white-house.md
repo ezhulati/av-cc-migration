@@ -1,28 +1,5 @@
----
-title: The White House
-description: Each apartment at The White House is thoughtfully equipped with air conditioning, ensuring comfort no matter the weather. The inclusion of a private bathroom, f
-featuredImage: "/images/accommodation/359181139.jpg"
-language: en
-slug: the-white-house
-location: ""
-amenities: []
-images: []
----
-
-Each apartment at The White House is thoughtfully equipped with air conditioning, ensuring comfort no matter the weather. The inclusion of a private bathroom, flat-screen TV, and a fully equipped kitchen in every unit adds a touch of home, making it an ideal choice for both short and extended stays.
+---\ntitle: "The White House"\ndescription: "The White House in Kryekuq stands out as a serene retreat, situated a mere 44 km from the iconic Rock of Kavaje."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359181139.jpg?k=d463363569d0a58113515b73c9f4968b220c70d671b2dfab55d534505858dcd3&o=&hp=1"\nlanguage: en\nslug: the-white-house\naddress: "Rruga e Divjake, Kryekuq, Albania"\ncity: "Kryekuq"\nlocation: "Kryekuq"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.99206532\n  lng: 19.53125695\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 17\nratings:\n  overall: 9.9\n  location: 9.3\n  cleanliness: 10\n  facilities: 9.9\n  value: 9.9\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359181139.jpg?k=d463363569d0a58113515b73c9f4968b220c70d671b2dfab55d534505858dcd3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451057316.jpg?k=4deb15291da6b0e43950103e502742c29a91f7cc2124832c16fcd80a2c8acb98&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447761518.jpg?k=1ceb45ef84ec86eaafa6d53da87bc5e9fa6763fa88c61e2bb7edd1af04a1641f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359181128.jpg?k=3a625b086fdc9f73598e978e870fc67d97d39a5c18a7c6bef79569a9c33d9d56&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447761531.jpg?k=c7328ce75a46278dac8488e4f18b0e8b6c2a0f30cdaf644306758b0bceeb6ed0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467137601.jpg?k=7c3123c79ae64ea3dff89c341af804814d1937d3d687a3a37c83ebabea8101c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447761544.jpg?k=9ae598d12e9d6d256c9b05273a243118bc889ee974b152a508443307bfe4bdc2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367126458.jpg?k=a6850488e76b27932e23e206bbcd17ae527c4faf60a1451c4789afab3963aff9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447761547.jpg?k=a048a67630f8d5487309cdb1e802ee53e880fa93020285732ea39bf33f760709&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Zhuka 200 m"\n  - "Gjini 300 m"\nnearbyBeaches:\n  - "Spille Beach 10 km"\nwhatsNearby:\n  - "Divjake-Karavasta National Park 0 m"\n  - "Sheshi I Bashkise 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 48 km"\nreviews:\n  - name: "Alison"\n    country: "United Kingdom"\n    text: "“Really lovely host - super friendly, didn't speak English sp we had an entertaining conversation via Google translate. Studio was lovely, clean and well equipped, very comfy bed. Breakfast was absolutely delicious.”"\n  - name: "Paul"\n    country: "Netherlands"\n    text: "“Very friendly staff, excellent breakfast, great shower”"\n  - name: "Susian"\n    country: "Italy"\n    text: "“La disponibilità di Elena e Victor, l'abbondante colazione con prodotti cucinati e serviti su una bella tovaglia fuori nel giardino, e un grazie a Victor che ci ha aiutato a lavare l'auto. Posto consigliato anche se distante dal parco ma con un...”"\nbookingURL: "https://www.booking.com/hotel/al/the-white-house-kryekuq12345678910111213141516171819.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nEach apartment at The White House is thoughtfully equipped with air conditioning, ensuring comfort no matter the weather. The inclusion of a private bathroom, flat-screen TV, and a fully equipped kitchen in every unit adds a touch of home, making it an ideal choice for both short and extended stays.
 
 Morning delights at The White House include the option of a continental or vegetarian breakfast, catering to a variety of dietary preferences and ensuring a pleasant start to the day.
 
 For travelers flying in, the convenience of being located just 79 km from Tirana International Mother Teresa Airport makes The White House an accessible haven for both international and domestic visitors seeking tranquility and comfort.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

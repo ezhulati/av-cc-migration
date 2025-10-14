@@ -1,28 +1,5 @@
----
-title: Vila 30
-description: Accommodations at Vila 30 are thoughtfully designed with guest comfort in mind. Each unit is well-appointed with essential amenities including a wardrobe, a pri
-featuredImage: "/images/accommodation/367204979.jpg"
-language: en
-slug: vila-30
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Vila 30"\ndescription: "Vila 30 stands as a prime beachfront gem in Pogradec, offering guests an exceptional stay with its breathtaking lake and city views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367204979.jpg?k=f8218f2b4e5a05bc08037601466686e5996b50a7f4d31c280fb137bab493fdc1&o=&hp=1"\nlanguage: en\nslug: vila-30\naddress: "Rruga Reshit Çollaku, 7301 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.90458722\n  lng: 20.65426636\nprice: "US$37"\npriceFrom: 37\nstarRating: 3\nrating: 8.1\nratingWords: "Very Good"\nnumberOfReviews: 34\nratings:\n  overall: 8.1\n  location: 9.1\n  cleanliness: 7.7\n  facilities: 7.3\n  value: 8.4\n  comfort: 8\n  staff: 8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367204979.jpg?k=f8218f2b4e5a05bc08037601466686e5996b50a7f4d31c280fb137bab493fdc1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/391802272.jpg?k=6aae80a32591c4fa66d6ece27621f21d1f7681fe4548f6a511cfcda1964fabe2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367206440.jpg?k=e3d927ccb7649f7fa19af6ef2b834b2f2bbe77c00579410cec2e47edaf0d87ae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476605958.jpg?k=50f0cfcd9ad3da5fdcb428ef9357c9537f1627f4c836d915595b117a8be91eae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/391803116.jpg?k=bfc42eebc8b52a6e7aa7f7df6c43ef5f239e6d4751f515ccd2130e98e6a71a7a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/391804709.jpg?k=921fcd611e0dabeb86dc9b9cab79d57ce4f0efb2ccf240854c39141330ef98df&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Beachfront"\n  - "Breakfast"\nroomTypes:\n  - "Double Room"\n  - "Triple Room with Lake View"\n  - "Quadruple Room with Lake View"\nnearbyRestaurants:\n  - "Zgara Pogradecare 40 m"\n  - "Bakery Kosovari 300 m"\nwhatsNearby:\n  - "Driloni National Park 1.4 km"\n  - "National Park Galicica 8 km"\n  - "National Park Galicica 14 km"\n  - "Bay of Bones 16 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 72 km"\n  - "Tirana International Airport Mother Teresa 95 km"\nreviews:\n  - name: "Julia"\n    country: "Ukraine"\n    text: "“Чудовий номер з видом на озеро. Добра локація. Плюсом було те що на першому поверсі була піцерія де був великий вибір як самої піци так і інших страв в адекватних цінах.”"\n  - name: "Eneritz"\n    country: "Spain"\n    text: "“Habitación espaciosa y cómoda, el personal muy amable, el restaurante de abajo también es del hostel. El balcón es amplio.”"\n  - name: "Clovis"\n    country: "Cambodia"\n    text: "“L'hôtel est très propre et très agréable avec une belle vue sur la lac”"\nbookingURL: "https://www.booking.com/hotel/al/vila-30.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Vila 30 are thoughtfully designed with guest comfort in mind. Each unit is well-appointed with essential amenities including a wardrobe, a private bathroom with a shower and slippers, a flat-screen TV, and air conditioning. For an elevated experience, select rooms boast a balcony, offering guests a private outdoor space to soak in the serene surroundings. Additionally, every room is equipped with a fridge, adding an extra layer of convenience for guests.
 
-Accommodations at Vila 30 are thoughtfully designed with guest comfort in mind. Each unit is well-appointed with essential amenities including a wardrobe, a private bathroom with a shower and slippers, a flat-screen TV, and air conditioning. For an elevated experience, select rooms boast a balcony, offering guests a private outdoor space to soak in the serene surroundings. Additionally, every room is equipped with a fridge, adding an extra layer of convenience for guests.
-
-Beyond the comfort of the rooms, Vila 30 invites guests to unwind in its tranquil garden, a perfect spot for relaxation after a day of exploration.
+Beyond the comfort of the rooms, Vila 30 invites guests to unwind in its tranquil garden, a perfect spot for relaxation after a day of exploration. 
 
 Located 40 km from both the Early Christian Basilica and Port Ohrid, and with Ohrid Airport just 47 km away, Vila 30 ensures ease of access for travelers seeking both adventure and serenity in the heart of Pogradec.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

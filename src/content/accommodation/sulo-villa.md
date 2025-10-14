@@ -1,15 +1,4 @@
----
-title: Sulo Villa
-description: The villa is strategically located, with the enchanting Radhimë Beach merely 700 meters away and the picturesque Kevi Beach less than a kilometer's journey. For
-featuredImage: "/images/accommodation/428061609.jpg"
-language: en
-slug: sulo-villa
-location: ""
-amenities: []
-images: []
----
-
-The villa is strategically located, with the enchanting Radhimë Beach merely 700 meters away and the picturesque Kevi Beach less than a kilometer's journey. For those who appreciate the tranquility of nature, the property's garden provides a peaceful retreat.
+---\ntitle: "Sulo Villa"\ndescription: "Sulo Villa emerges as a prime choice for travelers seeking a serene getaway, perfectly positioned just a short 400-meter stroll from the pristine Radhimë Beach in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428061609.jpg?k=58fbbe2f854c20ef4028f949dcc2769684b9dd19a82a6373a526d2e48d82b14a&o=&hp=1"\nlanguage: en\nslug: sulo-villa\naddress: "Radhime, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.37284518\n  lng: 19.48350367\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.3\nratingWords: "Very Good"\nnumberOfReviews: 22\nratings:\n  overall: 8.3\n  location: 8.5\n  cleanliness: 9.1\n  facilities: 8.3\n  value: 8.6\n  comfort: 8.3\n  staff: 8.8\n  wifi: 6.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428061609.jpg?k=58fbbe2f854c20ef4028f949dcc2769684b9dd19a82a6373a526d2e48d82b14a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428061742.jpg?k=6fd707c81f5f12c84f1c32bd9e1ca7ea63cbb478f7c64cf0ad95300e0ab5bb08&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428058833.jpg?k=86f5ec1df781a6bfcb08283e4feb8d244b3d66d3220d0590e4f2d831a1cc9f25&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428059525.jpg?k=2d9b2e47604790ce6d9064036c696ef07fd43b02df5eeb2ddd18cec182a690c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428060163.jpg?k=e1875cd8141c2f505c4548ff82f6e0fe4c3812fb8207f39723f1a6624ddee15c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428060902.jpg?k=6335f08186ad99c1f1928b6bfe758a42660dd4a586205818abf22a3efd19fa8b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428061245.jpg?k=cc6913736d87ec52fbf833bf5506b5669c57dd6572f4e3935b03e44d8b532f06&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428061124.jpg?k=4a2db8e4779677b6a6cd13a9cce6925e1dd75d7944569a79e867cb813ba2adce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428060750.jpg?k=d9776eee15a19b1b2ce7e49c18be628c17078b3858b339dd8496873e28129739&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Fast free WiFi (63 Mbps)"\nnearbyRestaurants:\n  - "Hotel Royal 150 m"\n  - "La Cloche Mediterranean Cuisine 250 m"\nnearbyBeaches:\n  - "Radhimë Beach 300 m"\n  - "Kevi Beach 350 m"\n  - "Radhimë Beach 700 m"\n  - "Pitushi's Beach 1.6 km"\n  - "Bora Bora Beach 1.7 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 7 km"\n  - "Kuzum Baba 11 km"\n  - "Independence Square 11 km"\n  - "Llogora National Park 17 km"\nairports:\n  - "Corfu International Airport 92 km"\nreviews:\n  - name: "Nasteska"\n    country: "North Macedonia"\n    text: "“This villa is amazing!! The location and the cleanliness was superb. The staff went above and beyond, and was so friendly and welcoming. Can't wait to go back! Would definitely recommend this place!”"\n  - name: "Gabriella"\n    country: "Italy"\n    text: "“Mi è piaciuto tutto ma quello che rende il posto unico è il proprietario di casa. Sulo è una persona eccezionale, sempre disponibile, ci ha fatto sentire come se fossimo a casa nostra. Grazie di tutto.”"\n  - name: "Emanuela"\n    country: "Italy"\n    text: "“Stanza pulita e fresca. Gestori molto disponibili e accoglienti. Posizione buona, parcheggio esterno e zona tranquilla.”"\nbookingURL: "https://www.booking.com/hotel/al/sulos-vila.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe villa is strategically located, with the enchanting Radhimë Beach merely 700 meters away and the picturesque Kevi Beach less than a kilometer's journey. For those who appreciate the tranquility of nature, the property's garden provides a peaceful retreat.
 
 Accommodations at Sulo Villa are thoughtfully designed to cater to various needs and preferences. Select units feature a terrace and are equipped with air conditioning, offering guests a comfortable dining and seating area complemented by a satellite flat-screen TV. The convenience of a private bathroom is standard across all units, with select rooms enhancing the living experience by including a fully equipped kitchen complete with a fridge.
 
@@ -18,15 +7,3 @@ For added convenience, a minimarket on the premises ensures that guests have eas
 Explorers looking to venture beyond the villa will find Kuzum Baba and Independence Square within a 12 and 13 km radius, respectively, making for easy day trips. For those traveling from afar, Tirana International Mother Teresa Airport is located 162 km from Sulo Villa, connecting guests to and from their destination with ease.
 
 Sulo Villa stands out as an idyllic escape, offering both the beauty of Albania's coastline and the comforts of home, making it an excellent choice for travelers in search of relaxation and convenience.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,7 @@
----
-title: Apartments Amar
-description: Guests are greeted with the luxury of a private entrance, ensuring a seamless and exclusive experience from the moment of arrival. The promise of tranquility an
-featuredImage: "/images/accommodation/466361697.jpg"
-language: en
-slug: apartments-amar
-location: ""
-amenities: []
-images: []
----
-
-Guests are greeted with the luxury of a private entrance, ensuring a seamless and exclusive experience from the moment of arrival. The promise of tranquility and ease continues within, as each apartment boasts air conditioning, complimentary private parking, and access to free WiFi, catering to the modern traveler's needs.
+---\ntitle: "Apartments Amar"\ndescription: "Apartments Amar emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Ksamil."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466361697.jpg?k=22479f4f4be25b9ab7c950e94b25045be730b98c23bf5fd57a3f9039c059a639&o=&hp=1"\nlanguage: en\nslug: apartments-amar\naddress: "Rruga Butrinti, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.77683157\n  lng: 20.00660208\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466361697.jpg?k=22479f4f4be25b9ab7c950e94b25045be730b98c23bf5fd57a3f9039c059a639&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434849911.jpg?k=7b48de3cb163294472024a04b6df33aeb795f0b11562f8969e750914be47a2ea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434852456.jpg?k=ac8485805276f10a9b41507dfd0ecc51d1a836b248633d5a6454a78fd2606ef7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434849805.jpg?k=d6a8b9b764c616817443ad52d3586b7596135904a46011b2daff3b4a6a35ade3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434851663.jpg?k=1c91d7665438c30bd88207f9d23c70c75d447865e61249276bab0ee1758bd234&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434849906.jpg?k=8b28e05a7196b5f9fd558e2cf6dbe4ad3c322dc73cdd1f51cdd395717b81f0b4&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Economy Triple Room"\n  - "Apartment with Garden View"\nnearbyAttractions:\n  - "Museum of Banknotes 18 km"\n  - "New Fortress 19 km"\n  - "Serbian Museum 19 km"\n  - "Theotoki G. Square 19 km"\n  - "Archaeological Museum 19 km"\n  - "Ntougkla Square 20 km"\n  - "Trion Martiron Park 20 km"\nnearbyRestaurants:\n  - "marikseli 50 m"\n  - "Pizza Malasi 100 m"\nnearbyBeaches:\n  - "Sunset Beach 250 m"\n  - "Coco Beach 450 m"\n  - "Ksamil Beach 450 m"\n  - "Ksamil Beach 7 800 m"\n  - "Bora Bora Beach 900 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 1.1 km"\n  - "Plazhi I Krorezes 2.6 km"\n  - "Butrint National Park 2.7 km"\n  - "Parc National de Butrint 9 km"\n  - "Byzantine Museum 18 km"\n  - "Public Garden 18 km"\n  - "Solomos Museum 18 km"\n  - "Asian Art Museum 18 km"\n  - "Old Fortress 18 km"\nairports:\n  - "Corfu International Airport 20 km"\n  - "Ioannina Airport 69 km"\nbookingURL: "https://www.booking.com/hotel/al/apartments-amar.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are greeted with the luxury of a private entrance, ensuring a seamless and exclusive experience from the moment of arrival. The promise of tranquility and ease continues within, as each apartment boasts air conditioning, complimentary private parking, and access to free WiFi, catering to the modern traveler's needs.
 
 The living spaces are thoughtfully designed, featuring balconies that present serene garden views, perfect for unwinding after a day of exploration. Entertainment and comfort are guaranteed with cable flat-screen TVs and cozy dining areas. The kitchens are well-equipped, inviting guests to feel at home, while private bathrooms come complete with bidets and complimentary toiletries, adding a touch of elegance to the daily routine. Soundproofing in all units ensures a peaceful retreat, further enhanced by the provision of quality bed linen and towels.
 
 For those drawn to natural wonders, the proximity to Butrint National Park, just 3.7 km away, offers an easy escape to one of Albania's most treasured landscapes. Moreover, the convenience of being 93 km from Corfu International Airport positions Apartments Amar as an ideal base for both local and international travelers.
 
 In summary, Apartments Amar stands as a testament to thoughtful hospitality, where every detail is crafted to enhance the guest experience, making it a premier choice for those visiting Ksamil.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

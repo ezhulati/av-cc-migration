@@ -1,30 +1,7 @@
----
-title: Designer Villa Voskopoje
-description: Each room in the villa is meticulously designed with air conditioning to provide a comfortable escape from the day's heat. The convenience of complimentary priv
-featuredImage: "/images/accommodation/442700420.jpg"
-language: en
-slug: designer-villa-voskopoje
-location: ""
-amenities: []
-images: []
----
-
-Each room in the villa is meticulously designed with air conditioning to provide a comfortable escape from the day's heat. The convenience of complimentary private parking and WiFi access throughout the property further enhances the guest experience, allowing for both ease and connectivity during their stay.
+---\ntitle: "Designer Villa Voskopoje"\ndescription: "Designer Villa Voskopoje emerges as a standout accommodation choice for travelers seeking a blend of comfort and luxury in the heart of Korçë County."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442700420.jpg?k=a69c1e9a6ca202dfb8a44503b0205ff6717f779fcd429cc61d6e8f318664f8ff&o=&hp=1"\nlanguage: en\nslug: designer-villa-voskopoje\naddress: "Rruga Rilindja Voskopojare, Voskopojë, Albania"\ncity: "Voskopojë"\nlocation: "Voskopojë"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.63257935\n  lng: 20.58990269\nprice: "US$393"\npriceFrom: 393\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 15\nratings:\n  overall: 9.8\n  location: 9.7\n  cleanliness: 9.8\n  facilities: 10\n  value: 9.5\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442700420.jpg?k=a69c1e9a6ca202dfb8a44503b0205ff6717f779fcd429cc61d6e8f318664f8ff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424386576.jpg?k=d3cffd99ea14c7d1ec4074532e510e054ccba3fe1e8c451af93ad76f65e6059d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424389305.jpg?k=2a863df450256b7633fec98283a54f6da5c6f00c38a0190c814c496db18f085d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442702212.jpg?k=94577135b3cf390baa8de824c1e829400bbbcdcfe56aa16d9e74c3f1abad9483&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433938787.jpg?k=8e79554f470aabd3a78855c74759342fc61f2ea2ff36403e25f33cb5b509d0ef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433942215.jpg?k=57480d30041630a3214547cbf4ce21488c09e07e6f397768552f22e0fe09af99&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Deluxe Villa"\nnearbyRestaurants:\n  - "Restorant \Ambassador\\" 9 m"\n  - "Vila Falo 100 m"\nwhatsNearby:\n  - "Sheshi Panxhar 11 km"\n  - "Sheshi Penetori 13 km"\n  - "Parku Vangjush Mio 16 km"\n  - "Parku Rinia 16 km"\n  - "Parku Themistokli Gërmenji 16 km"\n  - "Field of Tears 16 km"\n  - "Sheshi Patriku Joasaf 16 km"\n  - "Parku Rinia 17 km"\nairports:\n  - "Ohrid Airport 61 km"\n  - "Kastoria National Airport 61 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Dalina"\n    country: "Albania"\n    text: "“Best location right in the center of everything! Beautiful interior design, very clean. The hosts were really nice. Everything was great.”"\n  - name: "Lloha"\n    country: "Albania"\n    text: "“The villa was very comfortable, suitable for a big family. We really enjoyed our stay! The staff is really friendly and helpful!”"\n  - name: "Thijs"\n    country: "Netherlands"\n    text: "“Zeer mooie luxe accommodatie en super schoon! Een aanrader om te verblijven.”"\nbookingURL: "https://www.booking.com/hotel/al/designer-luxury-villa-voskopoje.en-gb.html?aid=8035640"\nbestFor: "Best for Wellness & Spa"\nbestCategories: "Wellness & Spa"\ncategory: "Wellness & Spa"\n---\n\nEach room in the villa is meticulously designed with air conditioning to provide a comfortable escape from the day's heat. The convenience of complimentary private parking and WiFi access throughout the property further enhances the guest experience, allowing for both ease and connectivity during their stay.
 
 The living spaces are thoughtfully arranged, featuring a cozy seating area with a sofa, a dining area for intimate meals, and a fully equipped kitchen. The kitchen comes complete with modern appliances such as a dishwasher, an oven, a microwave, and a fridge, catering to every culinary need. Additionally, each unit opens up to a terrace that offers an outdoor dining area where guests can enjoy meals with a backdrop of breathtaking mountain views. The provision of bed linen and towels in every unit adds a touch of home comfort to the luxurious setting.
 
 For those looking to unwind, the villa's garden presents a tranquil retreat where one can relax and soak in the natural beauty of the surroundings.
 
 Located 90 km from Kastoria National Airport, Designer Villa Voskopoje presents an ideal getaway for those in search of a peaceful yet luxurious retreat in the picturesque landscape of Voskopojë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

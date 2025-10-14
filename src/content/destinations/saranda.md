@@ -5,6 +5,7 @@ region: Albanian Riviera
 featuredImage: /images/destinations/saranda.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
@@ -187,10 +188,3 @@ Come with realistic expectations and time your visit well, and Saranda offers an
 
 It’s not the French Riviera or a hidden gem anymore, but it is uniquely itself – a city in transition where you can still find plenty of magic if you know where to look.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

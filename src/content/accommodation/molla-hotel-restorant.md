@@ -1,30 +1,7 @@
----
-title: Molla Hotel Restorant
-description: The hotel's accommodations are thoughtfully designed, with each room featuring a balcony that presents captivating city views. Guests can stay connected and ent
-featuredImage: "/images/accommodation/459686684.jpg"
-language: en
-slug: molla-hotel-restorant
-location: ""
-amenities: []
-images: []
----
-
-The hotel's accommodations are thoughtfully designed, with each room featuring a balcony that presents captivating city views. Guests can stay connected and entertained with free WiFi and flat-screen TVs in every room. The comfort is further enhanced by air conditioning, and for those seeking additional space, select rooms offer a cozy seating area. The convenience of having a fridge in the room adds a touch of home, making it easier for guests to store snacks and beverages.
+---\ntitle: "Molla Hotel Restorant"\ndescription: "Molla Hotel Restorant emerges as a prime choice for travelers seeking a blend of comfort and convenience in Shëngjin."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459686684.jpg?k=8ea02071073009ce00967d96cb20e54559f14f217d410d0c26eb8b32d5b33759&o=&hp=1"\nlanguage: en\nslug: molla-hotel-restorant\naddress: "lagjja fran ivanaj zona kadastrale nr.1986, 4501 Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.793991\n  lng: 19.602742\nprice: "US$23"\npriceFrom: 23\nstarRating: 3\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 140\nratings:\n  overall: 8.2\n  location: 9.1\n  cleanliness: 7.9\n  facilities: 7.7\n  value: 8.4\n  comfort: 8\n  staff: 8.7\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459686684.jpg?k=8ea02071073009ce00967d96cb20e54559f14f217d410d0c26eb8b32d5b33759&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399602234.jpg?k=ed7960381f0d4908a70e9e35941e5802ef261554d12453b670480a387f20f7fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/339978789.jpg?k=3d4a08a7425b9e870f422c38b6dc5dc4d90b846b4b6bd13ede47c583bf0ae88a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/394732396.jpg?k=245351239d6462b7a65c9f0b576a168c8b071dd483717650ed4feb4d698c42e6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/290147773.jpg?k=1dbfc1ce39a8addb158452134c96fd852914c970a09d0d11b8c54b0dc6289278&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298323014.jpg?k=bd3b3cea6f0eee9d8644c1b94d7f20324ef17fc5a76aa032f8cf814ece7c81b1&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Very good breakfast"\nroomTypes:\n  - "Quadruple Room with Balcony and Sea View"\n  - "Triple Room"\nnearbyRestaurants:\n  - "Hotel Restorant Molla 30 m"\n  - "Soleil 450 m"\nnearbyBeaches:\n  - "Ylberi Beach 50 m"\n  - "Shëngjin Beach 650 m"\n  - "Laguna Park Beach 2.8 km"\n  - "Kune Beach 3 km"\n  - "Rana e Hedhun Beach 4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 42 km"\n  - "Podgorica Airport 68 km"\nreviews:\n  - name: "Murat"\n    country: "Switzerland"\n    text: "“Despite winter season it has been a sweet stay, including nice breakfast right at the sea coast. People are very sweet and tolerating ( my late checkin time)”"\n  - name: "Tracey"\n    country: "Spain"\n    text: "“great restaurant, very friendly, amazing location at the beach”"\n  - name: "Granit"\n    country: "Kosovo"\n    text: "“it was nice and comfy, an old type hotel which gives you a different vibe in the positive way!”"\nbookingURL: "https://www.booking.com/hotel/al/restorant-molla.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe hotel's accommodations are thoughtfully designed, with each room featuring a balcony that presents captivating city views. Guests can stay connected and entertained with free WiFi and flat-screen TVs in every room. The comfort is further enhanced by air conditioning, and for those seeking additional space, select rooms offer a cozy seating area. The convenience of having a fridge in the room adds a touch of home, making it easier for guests to store snacks and beverages.
 
 Beyond the comfort of the rooms, Molla Hotel Restorant extends its hospitality to the outdoors with a private beach area, perfect for guests who prefer a more exclusive seaside experience. The addition of a bar elevates the leisure options available on-site.
 
 For those interested in exploring the local culture and history, Rozafa Castle Shkodra and Lake Skadar are within a manageable distance, 41 km and 43 km away, respectively. The hotel's proximity to these landmarks makes it an ideal base for day trips and excursions. Furthermore, for guests arriving by air, the convenience of a paid airport shuttle service from Tirana International Mother Teresa Airport, located 48 km away, ensures a hassle-free transfer to and from the hotel.
 
 Molla Hotel Restorant is more than just a place to stay; it's a gateway to experiencing the beauty and charm of Shëngjin, offering a blend of comfort, convenience, and access to natural and cultural attractions.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

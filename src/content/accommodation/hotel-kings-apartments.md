@@ -1,28 +1,12 @@
----
-title: Hotel Kings Apartments
-description: Each apartment is thoughtfully equipped with air conditioning, ensuring a comfortable retreat from the city's hustle and bustle. The inclusion of a fully equipp
-featuredImage: "/images/accommodation/202242327.jpg"
-language: en
-slug: hotel-kings-apartments
-location: ""
-amenities: []
-images: []
----
-
-Each apartment is thoughtfully equipped with air conditioning, ensuring a comfortable retreat from the city's hustle and bustle. The inclusion of a fully equipped kitchen allows guests the freedom to craft their meals, adding a touch of home to their stay. Entertainment and connectivity are guaranteed with the provision of a flat-screen TV and complimentary WiFi, catering to both leisure and business needs.
+---\ntitle: "Hotel Kings Apartments"\ndescription: "Hotel Kings Apartments emerges as a distinguished choice for travelers seeking comfort and convenience, located just 45 km from the historic Visoki Dečani Monastery."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202242327.jpg?k=30443da0373d528ff42210712ded124143d536cf2de01f138301d660f9f32652&o=&hp=1"\nlanguage: en\nslug: hotel-kings-apartments\naddress: "Rruga Sylejman Vokshi 2nd Floor, 8702 Bajram Curri, Albania"\ncity: "Bajram"\nlocation: "Bajram"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.35739238\n  lng: 20.07374346\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 138\nratings:\n  overall: 9.5\n  location: 9.3\n  cleanliness: 9.5\n  facilities: 9.2\n  value: 9.4\n  comfort: 9.4\n  staff: 9.4\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202242327.jpg?k=30443da0373d528ff42210712ded124143d536cf2de01f138301d660f9f32652&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202242031.jpg?k=6147378156d246eb8e3eb687c22918621d5ef670bb63d1b773b6ccd4b55c4b3a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218561139.jpg?k=d85eeb4d17bf0cbfde8374914b499d01c85018906bc7d8f43f7b5efa6c48a8cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218560217.jpg?k=a552ec24837724cd55bc5caf460c3baa5471929eecf740ae1771a2c965254e72&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218565826.jpg?k=941250ddee41e2635f3ddf657c54c98a4cdddc213939e06e8156676060ba3077&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218565844.jpg?k=9031ddfd6d140a4840622a0265b009ec1cb3f045714b881b90c3af847fe9ea8d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218565814.jpg?k=0245bed8627388a4b84f41d228ccd271af23bdddf4219b4ae8dab39a7e7db60e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218565841.jpg?k=4924987c6fb3d7d4afeda7801b68e8f7cf856b361d647766e29ca6b2954758ea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218564042.jpg?k=c25c3621a00a94179e653e935f79951f43b61a7bfea0879f69e98ea2bb9f7bc5&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "One-Bedroom Apartment"\n  - "Two-Bedroom Apartment"\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Fisniku 7 m"\n  - "Caka 40 m"\nwhatsNearby:\n  - "Valbona Valley National Park 900 m"\n  - "Valbona Valley National Park 3.3 km"\n  - "Parku Kombëtar Lugina e Valbonës 17 km"\n  - "Prokletije National Park 18 km"\nairports:\n  - "Podgorica Airport 67 km"\n  - "Pristina International Airport 82 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Colin"\n    country: "New Zealand"\n    text: "“Good location. Spacious. Heating and plenty of blankets on the bed”"\n  - name: "Charmaine"\n    country: "United Kingdom"\n    text: "“Great apartment, very modern.
+The apartment has everything you needed.
+Very spacious, exceptionally clean.
+Nice view to the main square.
+In the main area, close to all the amenities.
+Would recommend to family and friends.”"\n  - name: "Florin"\n    country: "Albania"\n    text: "“The apartment had everything and it was clean
+The administrator went beyond and bought a new baby bathtub when we requested it.
+I would recommend this place”"\nbookingURL: "https://www.booking.com/hotel/al/kings-apartment-5.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach apartment is thoughtfully equipped with air conditioning, ensuring a comfortable retreat from the city's hustle and bustle. The inclusion of a fully equipped kitchen allows guests the freedom to craft their meals, adding a touch of home to their stay. Entertainment and connectivity are guaranteed with the provision of a flat-screen TV and complimentary WiFi, catering to both leisure and business needs.
 
 The attention to detail extends to the private bathrooms, which are outfitted with a bidet, hairdryer, and complimentary toiletries, ensuring a seamless and comfortable stay. For those visiting in the cooler months, the warmth of an in-room fireplace provides a cozy and inviting atmosphere, perfect for unwinding after a day of exploration.
 
 Practicality is also a hallmark of Hotel Kings Apartments, with each unit featuring a wardrobe for personal storage. The proximity to Pristina International Airport, located 122 km away, underscores the property's appeal to international travelers, making it a compelling choice for those seeking a blend of convenience, comfort, and local charm.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

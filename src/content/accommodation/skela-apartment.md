@@ -1,28 +1,5 @@
----
-title: Skela Apartment
-description: The apartment itself is a haven of modern amenities, boasting air conditioning for those warm Mediterranean days. It includes a separate bedroom, ensuring priva
-featuredImage: "/images/accommodation/425175807.jpg"
-language: en
-slug: skela-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of modern amenities, boasting air conditioning for those warm Mediterranean days. It includes a separate bedroom, ensuring privacy and tranquility for guests. The kitchen comes fully equipped, catering to those who enjoy the comfort of a home-cooked meal while traveling. Additionally, the presence of a flat-screen TV ensures entertainment is never far away. Emphasizing a healthy living environment, the accommodation maintains a strict non-smoking policy.
+---\ntitle: "Skela Apartment"\ndescription: "Skela Apartment emerges as a prime choice for travelers seeking a serene getaway in Vlorë, offering a unique blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425175807.jpg?k=3ac3ced872d3beab144d47759a27cf6e278f33285a17348470510dbd8182eead&o=&hp=1"\nlanguage: en\nslug: skela-apartment\naddress: "Lagja Pavaresua Skele, 9404 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45265585\n  lng: 19.48446143\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.3\nratingWords: "Very Good"\nnumberOfReviews: 1\nratings:\n  overall: 8.3\n  location: 10\n  cleanliness: 10\n  facilities: 7.5\n  value: 7.5\n  comfort: 7.5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425175807.jpg?k=3ac3ced872d3beab144d47759a27cf6e278f33285a17348470510dbd8182eead&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/425175750.jpg?k=423acca6acb2babb2419d9cdb767366c82436de882724f5b90f2f5507b3a2c26&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/425175818.jpg?k=b97e4bbf980549e96ae07e32daa77204ef2c6755af03c55f2a488e059cdeef12&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/425175832.jpg?k=f19f8a610a2cba6bcd6ec0ed28155ff5035b74042ab89b05188fec92c151ac62&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/425175845.jpg?k=dc1a04db31748a7004e7b94578bbf8d3a5bb76acd18d8d2716b610fdc5ffbd37&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "The Dodo Bar & 50 m"\n  - "Taushani 100 m"\nnearbyBeaches:\n  - "Vjetër Beach 250 m"\n  - "Vlore Beach 900 m"\n  - "Ri Beach 2.1 km"\n  - "Beach at Government Villas 3.6 km"\n  - "Liro Beach 4.2 km"\nwhatsNearby:\n  - "Kuzum Baba 1.8 km"\n  - "Scooby Doo Vlore 2 km"\n  - "Independence Square 2.1 km"\nbookingURL: "https://www.booking.com/hotel/al/skela-apartment-vlora.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of modern amenities, boasting air conditioning for those warm Mediterranean days. It includes a separate bedroom, ensuring privacy and tranquility for guests. The kitchen comes fully equipped, catering to those who enjoy the comfort of a home-cooked meal while traveling. Additionally, the presence of a flat-screen TV ensures entertainment is never far away. Emphasizing a healthy living environment, the accommodation maintains a strict non-smoking policy.
 
 For beach enthusiasts, Vjetër Beach is conveniently located just 500 meters from the doorstep, offering an intimate setting for sunbathing or a leisurely stroll along the shore. For those looking to explore further, Kuzum Baba is a mere 2.8 km away, promising an intriguing visit.
 
 Travelers will also appreciate the ease of access to Tirana International Mother Teresa Airport, located 150 km from Skela Apartment, making arrivals and departures as smooth as possible. With free WiFi available throughout the property, guests can stay connected and share their memorable experiences with loved ones. Skela Apartment stands out as an exemplary choice for those seeking a blend of leisure, culture, and convenience in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

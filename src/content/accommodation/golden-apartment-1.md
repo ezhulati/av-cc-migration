@@ -1,26 +1,3 @@
----
-title: Golden apartment 1
-description: "This non-smoking apartment boasts a spacious layout, complete with air conditioning for those warm Mediterranean days."
-featuredImage: "/images/accommodation/523316023.jpg"
-language: en
-slug: golden-apartment-1
-location: ""
-amenities: []
-images: []
----
-
-This non-smoking apartment boasts a spacious layout, complete with air conditioning for those warm Mediterranean days. Guests will find themselves at home with a fully equipped kitchen, a cozy bedroom, and a modern bathroom, all designed with comfort and convenience in mind. The inclusion of a balcony adds a touch of luxury, providing the perfect spot for morning coffees or evening relaxation. Entertainment is readily available with a flat-screen TV, complemented by free WiFi to keep guests connected and entertained throughout their stay.
+---\ntitle: "Golden apartment 1"\ndescription: "Golden Apartment 1 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523316023.jpg?k=9f909aa22b0c6139cbda86e47591d821d54c2e7a0c79bb026f183dc5c13e1302&o=&hp=1"\nlanguage: en\nslug: golden-apartment-1\naddress: "38 Rruga Butrinti, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.8665715\n  lng: 20.0162706\nprice: "US$54"\npriceFrom: 54\nstarRating: 4\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523316023.jpg?k=9f909aa22b0c6139cbda86e47591d821d54c2e7a0c79bb026f183dc5c13e1302&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523316097.jpg?k=7e92c44b614e6cd11625a9c2dccab10c8e31443e1058a518b29a275579bd21c2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523316095.jpg?k=935286dde51623bd740c5a511e0510a5be54ec4c65dfc7a36b8e3252f7079d16&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523316078.jpg?k=00f5ce9d657c4a1623f9a815878477c15fe78970a00a8c99b4dfdf360a464f0c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523316123.jpg?k=e455bcf0733a92e4d0e3138e4635bee862d1ae221a8b00f12277719b018c133a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523316071.jpg?k=314a242c633820e0ea0abd5264b97e566d09189d41d111cbfc71b1b88e22a7a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523316070.jpg?k=fc34995a2e7aa349fee0b583ca5337ab0d6ff214098e637f65e46f4c79551eed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523316101.jpg?k=5600ba0a57d04028a53bc0186fc3b22f4976c6518ec59d19f516cf33029e42a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523316055.jpg?k=08cff47aac3e2886e1d3911631f22f966f80d42e1786fe1c82a3ab163451e946&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Fast Food Mario 40 m"\n  - "Tanis Resturant 100 m"\nnearbyBeaches:\n  - "Maestral Beach 0 m"\n  - "La Petite Beach 200 m"\n  - "Saranda City Beach 600 m"\n  - "VIP Beach 900 m"\n  - "Santa Quaranta Beach 950 m"\nwhatsNearby:\n  - "Parc National de Butrint 1.1 km"\n  - "Butrint National Park 2 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/golden-apartment-1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis non-smoking apartment boasts a spacious layout, complete with air conditioning for those warm Mediterranean days. Guests will find themselves at home with a fully equipped kitchen, a cozy bedroom, and a modern bathroom, all designed with comfort and convenience in mind. The inclusion of a balcony adds a touch of luxury, providing the perfect spot for morning coffees or evening relaxation. Entertainment is readily available with a flat-screen TV, complemented by free WiFi to keep guests connected and entertained throughout their stay.
 
 For those traveling to or from Ioannina, the nearest airport is conveniently located 96 km away, making Golden Apartment 1 an accessible retreat for international and domestic travelers alike.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

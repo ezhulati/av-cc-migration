@@ -1,15 +1,4 @@
----
-title: Hotel Floga
-description: Accommodations at Hotel Floga are designed with comfort in mind, featuring air-conditioned rooms equipped with flat-screen TVs for a touch of modernity. The pri
-featuredImage: "/images/accommodation/202989573.jpg"
-language: en
-slug: hotel-floga
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Hotel Floga are designed with comfort in mind, featuring air-conditioned rooms equipped with flat-screen TVs for a touch of modernity. The private bathrooms are well-appointed with showers, hairdryers, and complimentary toiletries, ensuring a refreshing stay. Select rooms also boast balconies, offering a private outdoor space for guests to enjoy.
+---\ntitle: "Hotel Floga"\ndescription: "Hotel Floga, a gem in the heart of Shkodër, is a mere 700 meters from the bustling city center, offering guests a blend of local charm and international flair."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202989573.jpg?k=72a16bf7cc52173b0fae3bed4189eda3113e6d4f14aef1bc0cbac6b910396982&o=&hp=1"\nlanguage: en\nslug: hotel-floga\naddress: "Str. Ded Gjon Luli, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.05985596\n  lng: 19.52142468\nprice: "US$27"\npriceFrom: 27\nstarRating: 3\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 328\nratings:\n  overall: 8.4\n  location: 7.9\n  cleanliness: 8.4\n  facilities: 8\n  value: 8.6\n  comfort: 8.3\n  staff: 8.6\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202989573.jpg?k=72a16bf7cc52173b0fae3bed4189eda3113e6d4f14aef1bc0cbac6b910396982&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/77604464.jpg?k=46ad67590a69af1dca37088c828017afbebb9d4e34d51c5731ce2901e6cedec6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202989619.jpg?k=419e4858cd36a3f0e7876ec527bbc8aa74aa10ef8cf49fd7da7be0fc0b5d0628&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/77604285.jpg?k=3788f6e583bb823e8dedc4b11b971bf9736908f02db640017997dfaf41998ae1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/77604473.jpg?k=f47bb62469ca6741683724a0654186f1d87f5ecf55d8e353265d72656daf32e0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/77604445.jpg?k=028f77cfcd8c1410868f1d393c1e507cc4159da587e45ab270c4459f205c56dd&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Fabulous breakfast"\nroomTypes:\n  - "Single Room"\n  - "Double Room with Balcony"\n  - "Comfort Twin Room"\n  - "Double Room"\n  - "Triple Room"\n  - "Quadruple Room"\nreviews:\n  - name: "Carla"\n    country: "Germany"\n    text: "“Room was very clean and big enough for 4 people. Location is perfect: quiet street, 10min walking from the city Center, close to restaurants and supermarkets. Breakfast is very good and portions are big. It is prepared fresh every morning. Really...”"\n  - name: "Beghin"\n    country: "Belgium"\n    text: "“Very nice hotel, everything was more than ok! The owner is super friendly and really helpful. I would surely recommend it!”"\n  - name: "Matiopoulou"\n    country: "Greece"\n    text: "“The room was very clean.The breakfast was good. Dogs are welcome.”"\nbookingURL: "https://www.booking.com/hotel/al/floga.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nAccommodations at Hotel Floga are designed with comfort in mind, featuring air-conditioned rooms equipped with flat-screen TVs for a touch of modernity. The private bathrooms are well-appointed with showers, hairdryers, and complimentary toiletries, ensuring a refreshing stay. Select rooms also boast balconies, offering a private outdoor space for guests to enjoy.
 
 Beyond the rooms, Hotel Floga extends its hospitality with a variety of amenities. The on-site bar is a cozy spot for guests to unwind, while the 24-hour front desk ensures assistance is always at hand. The shared lounge and dry cleaning services add to the convenience factor, making for a hassle-free stay.
 
@@ -18,15 +7,3 @@ For those looking to explore, Hotel Floga is ideally situated. The hotel not onl
 Located 77 km from Thethi National Park and with Tirana Airport 90 km away, the hotel's location is both scenic and accessible. Guests arriving by car will appreciate the complimentary private parking, and for those in need of transportation, shuttle services are available at a surcharge.
 
 In summary, Hotel Floga represents a harmonious blend of convenience, comfort, and exploration, making it an ideal choice for travelers seeking to experience the best of Shkodër and its surroundings.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

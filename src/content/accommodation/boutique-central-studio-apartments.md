@@ -1,30 +1,8 @@
----
-title: Boutique Central Studio Apartments
-description: Each apartment in this complex is designed with the guest's comfort in mind, featuring air-conditioned units equipped with essential amenities such as a wardrob
-featuredImage: "/images/accommodation/506789812.jpg"
-language: en
-slug: boutique-central-studio-apartments
-location: ""
-amenities: []
-images: []
----
-
-Each apartment in this complex is designed with the guest's comfort in mind, featuring air-conditioned units equipped with essential amenities such as a wardrobe, kettle, oven, fridge, and safety deposit box. The inclusion of a flat-screen TV, balcony, and a private bathroom with a walk-in shower adds a touch of luxury to the stay. For those concerned with privacy and noise, the soundproofing of all units ensures a peaceful retreat amidst the bustling city.
+---\ntitle: "Boutique Central Studio Apartments"\ndescription: "Boutique Central Studio Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506789812.jpg?k=4182586acb07e34acb1de609aa3bb53689909145d62552714592a96092289db7&o=&hp=1"\nlanguage: en\nslug: boutique-central-studio-apartments\naddress: "Rruga Skenderbeu, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32990489\n  lng: 19.82162391\nprice: "US$46"\npriceFrom: 46\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 41\nratings:\n  overall: 9.3\n  location: 9.8\n  cleanliness: 9\n  facilities: 8.7\n  value: 9.1\n  comfort: 9.4\n  staff: 9.4\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506789812.jpg?k=4182586acb07e34acb1de609aa3bb53689909145d62552714592a96092289db7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506789839.jpg?k=1b698d474d9b5c20cbf32acd5ea6f7323681e15cc15b0e8a69fbae18b621c2a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399855262.jpg?k=4191b7ef455d427911851c0a136271bf30316e829c8c46c3b8b592c1288f030a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399855264.jpg?k=a2e6bec50f554c8f9d49df21d69fc93a0c0396f340d17c2919689307899e257f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506789749.jpg?k=1e67b1d5d0f0f4eb397a6f5d2dd29c6e3271dfb176531b1555c126e9924a3913&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399855244.jpg?k=58bc8eb070fa65e8733a6433853c1ab8bae13b7d4bcd5e8f8c533165eb321820&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\nroomTypes:\n  - "Studio"\n  - "Deluxe Studio"\nnearbyAttractions:\n  - "House of Leaves 550 m"\n  - "Rinia Park 650 m"\n  - "Former Residence of Enver Hoxha 1.1 km"\n  - "Grand Park of Tirana 2 km"\n  - "Bunk'Art 1 Museum 3.9 km"\nnearbyRestaurants:\n  - "Opa - Greek Street Food (9 Katëshet) 40 m"\n  - "Pizaa 100 m"\nwhatsNearby:\n  - "Sheshi Sulejman Pasha 150 m"\n  - "Clock Tower Tirana 300 m"\n  - "Skanderbeg Square 300 m"\n  - "Parku Europa 350 m"\n  - "Sheshi Skënderbej 350 m"\n  - "National Museum of History Albania 350 m"\n  - "National Gallery of Arts Tirana 400 m"\n  - "Sheshi Rekreativ tek ish ATSh 450 m"\n  - "Amazing Nature 450 m"\n  - "Tanners' Bridge 550 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Jesus"\n    country: "Spain"\n    text: "“Staff is really friendly and kind. Location is excellent, next to everything”"\n  - name: "Richard"\n    country: "Switzerland"\n    text: "“great location a few minutes walk from the Skanderbeg square away. many food options around. safe neighbourhood.
+easy check-in with the host via whatsapp and the keys were quickly delivered. Easy to get to from the airport, as the airport bus...”"\n  - name: "Philip"\n    country: "United Arab Emirates"\n    text: "“The location was superb right in the middle of Tirana. The amenities provided were simple yet functional.”"\nbookingURL: "https://www.booking.com/hotel/al/boutique-central-studio-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach apartment in this complex is designed with the guest's comfort in mind, featuring air-conditioned units equipped with essential amenities such as a wardrobe, kettle, oven, fridge, and safety deposit box. The inclusion of a flat-screen TV, balcony, and a private bathroom with a walk-in shower adds a touch of luxury to the stay. For those concerned with privacy and noise, the soundproofing of all units ensures a peaceful retreat amidst the bustling city.
 
 The convenience extends beyond the apartments themselves, with each unit boasting a private entrance, free WiFi, and the option for private parking at a nominal fee. For guests looking to explore the vibrant surroundings, the area is renowned for its hiking trails, and the property facilitates adventure seekers with car hire services.
 
 Cultural enthusiasts will appreciate the proximity to notable landmarks such as the Former Residence of Enver Hoxha, Toptani Shopping Centre, and the National Theatre of Opera and Ballet of Albania. Moreover, for those traveling to or from Tirana International Mother Teresa Airport, located 14 km away, the property offers a paid shuttle service, ensuring a seamless travel experience.
 
 Boutique Central Studio Apartments stands out as an ideal accommodation choice for those looking to immerse themselves in the cultural tapestry of Tirana while enjoying the comforts of a thoughtfully designed living space.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

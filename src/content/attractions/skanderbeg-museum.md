@@ -75,10 +75,3 @@ Accommodation choices include hotels and apartment rentals nestled in the windin
 
 [![Hotel PANORAMA Kruje view on the castle and the old town](/images/accommodation/526275878.jpg)](https://albaniavisit.com/accommodation/hotel-panorama-kruje-view-on-the-castle-and-the-old-town/)[Hotel PANORAMA Kruje view on the castle and the old town](https://albaniavisit.com/accommodation/hotel-panorama-kruje-view-on-the-castle-and-the-old-town/)Discover the charm of Krujë from a prime location at Hotel PANORAMA Kruje, where modern comforts meet the rich history of this captivating town.View Details
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

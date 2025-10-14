@@ -7,6 +7,9 @@ featuredImage: /images/attractions/opera-and-ballet-theater.jpg
 images: []
 language: en
 slug: opera-and-ballet-theater
+seo:
+  metaTitle: "Tirana Opera House - Tickets, Schedule &amp; Visitor Guide"
+  metaDescription: "Plan your visit to Tirana’s National Theatre of Opera and Ballet. Learn how to buy tickets, what to expect at performances, and practical visitor tips."
 ---
 
 Albania’s National Theatre of Opera and Ballet
@@ -76,10 +79,3 @@ The Tirana Opera House offers something increasingly rare in Europe today: profe
 
 **Key takeaway for visitors:** Arrive early, bring cash, check the program on Facebook, and don’t expect polished Western-style amenities. Do expect passionate performances, a local audience, and a memorable evening of culture in the heart of Tirana.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

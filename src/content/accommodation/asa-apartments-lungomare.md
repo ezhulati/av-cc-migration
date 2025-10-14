@@ -1,28 +1,6 @@
----
-title: Asa Apartments Lungomare
-description: The apartment itself is a haven of relaxation, presenting a spacious layout that includes two bedrooms, a cozy living room equipped with a flat-screen TV, a ful
-featuredImage: "/images/accommodation/470601529.jpg"
-language: en
-slug: asa-apartments-lungomare
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of relaxation, presenting a spacious layout that includes two bedrooms, a cozy living room equipped with a flat-screen TV, a fully equipped kitchen for those who enjoy preparing their own meals, and a bathroom complete with a bidet and shower. The addition of a terrace offering serene garden views further enhances the living experience, providing a perfect backdrop for morning coffees or evening relaxation.
+---\ntitle: "Asa Apartments Lungomare"\ndescription: "Asa Apartments Lungomare emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470601529.jpg?k=84468e30c37b0af2892d92f86863bf4e7ee4907b1ea69959261d7805e59b183c&o=&hp=1"\nlanguage: en\nslug: asa-apartments-lungomare\naddress: "Rruga Murat Tërbaçi, 9402 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.43866364\n  lng: 19.49581173\nprice: "US$31"\npriceFrom: 31\nstarRating: 3\nrating: 8.7\nratingWords: "Very Good"\nnumberOfReviews: 3\nratings:\n  overall: 8.7\n  location: 10\n  cleanliness: 8.3\n  facilities: 7.5\n  value: 8.8\n  comfort: 8.3\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470601529.jpg?k=84468e30c37b0af2892d92f86863bf4e7ee4907b1ea69959261d7805e59b183c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470601555.jpg?k=01a704bf6bd049390d21e847882dd7f08bc3a7ca1b54db21c47fc5211dc5f139&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474808464.jpg?k=3594300b2e128719aec652d06ca7cbd7adeebd910a795a82732b6c8507c554fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476708505.jpg?k=5748e423a8dcfc57721c602a32f87a642c97e727417ffbd5b10b681a8902aaa7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470601535.jpg?k=aa8b4cfce2ece14a7e2bb0375d633aeb76bbde094549dc0c75e2c3aacaa63cd2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470601502.jpg?k=250697205a39e735a853aae70f39b14871d784216375c3dcf4e5e4c8ebde5528&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476708619.jpg?k=aa060c8c011b97b93298073b52f961f81e17f85a9ff3faaafd4b51778df4ae0f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474808917.jpg?k=518a2ac204a07aab8230801ef9d6caa0511960fcc85762183d8cee49e583860b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470601522.jpg?k=ae17863261e57d4fa2e3aacc42cbd561bee131fc01f23b2e947c6161488503e7&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "City lounge 40 m"\n  - "Art Guzhine Luan Memaj 50 m"\nnearbyBeaches:\n  - "Ri Beach 350 m"\n  - "Vlore Beach 450 m"\n  - "Vjetër Beach 1.9 km"\n  - "Beach at Government Villas 2.2 km"\n  - "Liro Beach 2.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 250 m"\n  - "Kuzum Baba 3.2 km"\n  - "Independence Square 3.6 km"\nreviews:\n  - name: "Lorenc"\n    country: "United Kingdom"\n    text: "“Location of the apartament is right next to the beach. Apartament does not face the lungomare busy street.”"\n  - name: "Agata"\n    country: "Poland"\n    text: "“very good location close to the beach, the main promenade, close to shops and restaurants good contact with the owner of the apartment parking under the block
+There is a terrace overlooking the mountains”"\nbookingURL: "https://www.booking.com/hotel/al/asa-apartments-lungomare.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of relaxation, presenting a spacious layout that includes two bedrooms, a cozy living room equipped with a flat-screen TV, a fully equipped kitchen for those who enjoy preparing their own meals, and a bathroom complete with a bidet and shower. The addition of a terrace offering serene garden views further enhances the living experience, providing a perfect backdrop for morning coffees or evening relaxation.
 
 Strategically located, Asa Apartments Lungomare is just a short stroll away from Ri Beach, with Vlore Beach also within easy reach at 600 meters away. For those willing to explore a bit further, Vjetër Beach is located 2.9 km from the property, offering a different coastal vibe. For international travelers, the convenience of Tirana International Mother Teresa Airport being 153 km away makes this apartment an accessible getaway.
 
-Asa Apartments Lungomare stands out as an ideal accommodation choice for those looking to explore the beauty of Vlorë, offering comfort, security, and a prime location close to some of the city's most beautiful beaches.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}
+Asa Apartments Lungomare stands out as an ideal accommodation choice for those looking to explore the beauty of Vlorë, offering comfort, security, and a prime location close to some of the city’s most beautiful beaches.

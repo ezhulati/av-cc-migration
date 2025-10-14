@@ -1,28 +1,5 @@
----
-title: Blue Heaven Hotel
-description: "Guests of Blue Heaven Hotel are greeted with the convenience of modern amenities in every room."
-featuredImage: "/images/accommodation/264220474.jpg"
-language: en
-slug: blue-heaven-hotel
-location: ""
-amenities: []
-images: []
----
-
-Guests of Blue Heaven Hotel are greeted with the convenience of modern amenities in every room. A balcony offers a personal outdoor space for relaxation, while essentials such as a desk and TV cater to both leisure and business needs. Beyond the privacy of their rooms, visitors can explore the lush garden or unwind on the terrace, adding a touch of tranquility to their stay.
+---\ntitle: "Blue Heaven Hotel"\ndescription: "Blue Heaven Hotel emerges as a serene oasis in the vibrant city of Sarandë, offering guests a harmonious blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/264220474.jpg?k=6de244eed88326ec72c73c90b4029c65f3a5c22b68bd2c820a59a17017ab35f7&o=&hp=1"\nlanguage: en\nslug: blue-heaven-hotel\naddress: "Rruga Bilal Golemi, 9703 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.86484977\n  lng: 20.0178118\nprice: "US$83"\npriceFrom: 83\nstarRating: 3\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 173\nratings:\n  overall: 7.5\n  location: 7.6\n  cleanliness: 7.4\n  facilities: 6.9\n  value: 7.7\n  comfort: 7.4\n  staff: 8\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/264220474.jpg?k=6de244eed88326ec72c73c90b4029c65f3a5c22b68bd2c820a59a17017ab35f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189531188.jpg?k=f3dc741aa2428f1d6a0d81042a99746207709a534013bfb7406c2d0ec667f7d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/264220464.jpg?k=86dc898f698c139fcf515d5744cf9765e56c58224d1c320e235cb358efcf9350&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189531222.jpg?k=8c4151d518b18ad05045be1391c242ecff2a00c45358f46aa43010e845b1f8e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189531025.jpg?k=7e69ce1d5ef24829155b4d3e4195badede577b9940a7e5fecd47677cd861a763&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/264220483.jpg?k=a3b60e3d728d929cb42ec0be3d9552a28e31b84f5a2911798b5d3c76af7e49e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/264220469.jpg?k=4977a364e5a380437640236a37800fbc8cea6c7ba769670b94c5cd7e277e0843&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189531034.jpg?k=d2894b92cec7f881972898ac5eafcaf5a34880a7707362ec91d2805a9ca0c013&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/264220539.jpg?k=3bbd4274a0cdf1ec062626fdd025045ea44fcf48ed0919acdd12e0851dcffffc&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Terrace"\n  - "Bar"\n  - "Good breakfast"\nroomTypes:\n  - "Triple Room with Balcony and Sea View"\nnearbyRestaurants:\n  - "Pizza di Gusto 50 m"\n  - "Grand Saranda 100 m"\nnearbyBeaches:\n  - "Maestral Beach 200 m"\n  - "La Petite Beach 450 m"\n  - "VIP Beach 650 m"\n  - "Santa Quaranta Beach 700 m"\n  - "Saranda City Beach 850 m"\nwhatsNearby:\n  - "Parc National de Butrint 900 m"\n  - "Butrint National Park 1.7 km"\n  - "Plazhi I Krorezes 7 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 11 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/saranda-blue.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests of Blue Heaven Hotel are greeted with the convenience of modern amenities in every room. A balcony offers a personal outdoor space for relaxation, while essentials such as a desk and TV cater to both leisure and business needs. Beyond the privacy of their rooms, visitors can explore the lush garden or unwind on the terrace, adding a touch of tranquility to their stay.
 
 For those with practical needs, the hotel offers luggage storage space and currency exchange services, ensuring a hassle-free experience from arrival to departure. Situated a mere 37 km from Corfu Town and 50 km from Glyfada, Blue Heaven Hotel serves as an ideal base for exploring the surrounding area's attractions.
 
 With its blend of essential amenities and thoughtful extras, Blue Heaven Hotel stands out as a top choice for travelers seeking a comfortable and convenient stay in Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

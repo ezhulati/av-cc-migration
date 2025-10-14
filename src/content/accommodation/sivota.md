@@ -1,28 +1,5 @@
----
-title: SIVOTA
-description: This garden-adorned property not only offers a peaceful setting but also caters to guests' needs with amenities such as private parking on-site and complimentar
-featuredImage: "/images/accommodation/465387573.jpg"
-language: en
-slug: sivota
-location: ""
-amenities: []
-images: []
----
-
-This garden-adorned property not only offers a peaceful setting but also caters to guests' needs with amenities such as private parking on-site and complimentary WiFi, ensuring a hassle-free stay. The commitment to a non-smoking environment further enhances the air of purity and wellness that pervades the premises.
+---\ntitle: "SIVOTA"\ndescription: "SIVOTA stands out as a serene retreat in the vibrant city of Vlorë, offering guests a unique blend of convenience and tranquility."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465387573.jpg?k=eb073fa2c0a6efd452c98c9157ff638699fcb4a22b8b3db07b82bec313dc683e&o=&hp=1"\nlanguage: en\nslug: sivota\naddress: "Rruga Shyqyri Ali Merka, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45109532\n  lng: 19.48988051\nprice: "US$52"\npriceFrom: 52\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 9\nratings:\n  overall: 9.1\n  location: 10\n  cleanliness: 9.2\n  facilities: 8.6\n  value: 9.4\n  comfort: 8.9\n  staff: 8.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465387573.jpg?k=eb073fa2c0a6efd452c98c9157ff638699fcb4a22b8b3db07b82bec313dc683e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465036462.jpg?k=f7821be63f5ce6f49576c657449238c29e4db6d28e211b279dfa11020727d140&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465036354.jpg?k=b61abe4f606bf0c1835cfbb126066015e1460ffbebdb1dc34372bd4fad74e2f0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465036511.jpg?k=e2dc08a0d35685d7d2c9910f84f14b355a81d00850e7689ce6da4c2186cd10b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465036410.jpg?k=d0663f349565ff7c73dfe490b909d4a54ac17297217adc1d74dd175a88cd1ba7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465036314.jpg?k=620532fa7c6c266ec2f5a2e4bbeee52f4b035e0993c38671308ce3406da9f4e8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465036426.jpg?k=dd0105076a0fd156763811d890f123d729aa0a6e3c87dcd7c14fd73c979ee50b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465036289.jpg?k=c66f16bbb40dd4241c59888879fd25f6036b1912fef9a83602fdb6609448deaa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465036232.jpg?k=7accfdfbe3282f3db0b6b227fa3f226c07b0d691b9364ceeae675a483f3f2960&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Carraro 10 m"\n  - "Brooklyn 100 m"\nnearbyBeaches:\n  - "Vlore Beach 450 m"\n  - "Vjetër Beach 750 m"\n  - "Ri Beach 1.8 km"\n  - "Beach at Government Villas 3.4 km"\n  - "Liro Beach 4.1 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.7 km"\n  - "Kuzum Baba 1.9 km"\n  - "Independence Square 2.2 km"\nreviews:\n  - name: "Claire"\n    country: "Ireland"\n    text: "“Apartment is in an amazing location, right on the seafront, only a 10-15 minute walk from the beach.”"\n  - name: "Davide"\n    country: "Italy"\n    text: "“Colombo very helpful ooh and energy saving attentive all new and clean, comfortable mattresses, excellent location.”"\n  - name: "Ines"\n    country: "Albania"\n    text: "“Excellent location, welcoming owner available to ensure parking, clean and comfortable room, satisfied with the value for money.”"\nbookingURL: "https://www.booking.com/hotel/al/sivota-vlore1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis garden-adorned property not only offers a peaceful setting but also caters to guests' needs with amenities such as private parking on-site and complimentary WiFi, ensuring a hassle-free stay. The commitment to a non-smoking environment further enhances the air of purity and wellness that pervades the premises.
 
 Accommodation at SIVOTA is thoughtfully designed, featuring a one-bedroom apartment that is both spacious and elegantly furnished. The inclusion of air conditioning, along with a flat-screen TV, ensures that guests enjoy comfort and entertainment in equal measure.
 
 For those traveling to or from the area, the proximity to Tirana International Mother Teresa Airport, located 151 km away, adds an element of convenience, making SIVOTA an ideal choice for both short and extended stays in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -4,9 +4,17 @@ description: The hotel goes above and beyond to ensure a seamless stay, offering
 featuredImage: "/images/accommodation/378984189.jpg"
 language: en
 slug: mazarine-hotel-vlore-albania
-location: ""
-amenities: []
 images: []
+category: "4-Star"
+starRating: 4
+rating: 4
+accommodationType: "hotel"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Bar"
+  - "Balcony"
+  - "TV"
 ---
 
 The hotel goes above and beyond to ensure a seamless stay, offering free WiFi throughout the property and a coveted private beach area for those looking to soak up the sun in a more secluded setting. The 24-hour front desk and additional services such as airport transfers and car rental options underscore the hotel's commitment to guest satisfaction.
@@ -17,14 +25,3 @@ For those eager to explore, the hotel's proximity to popular beaches like Kevi B
 
 Mazarine Hotel in Vlorë, Albania, is not just a place to rest; it's a gateway to a memorable Albanian adventure, combining the comforts of modern amenities with the natural beauty of the surrounding area.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Vila Tahiri 2
-description: The apartment itself is generously sized, featuring two well-appointed bedrooms, a cozy living room, a bathroom, and a kitchen equipped with everything needed f
-featuredImage: "/images/accommodation/478627223.jpg"
-language: en
-slug: vila-tahiri-2
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is generously sized, featuring two well-appointed bedrooms, a cozy living room, a bathroom, and a kitchen equipped with everything needed for a self-sufficient stay. Guests can enjoy their favorite shows on the flat-screen TV while taking in the tranquil garden views that the property affords.
+---\ntitle: "Vila Tahiri 2"\ndescription: "Vila Tahiri 2 emerges as a prime choice for travelers seeking comfort and convenience in Golem, positioned just a short distance from the serene Mali I Robit Beach (1."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478627223.jpg?k=84a5c2e3baeb709793e61dd713e033053ee5b8b0575c80a28d4706288dff00cc&o=&hp=1"\nlanguage: en\nslug: vila-tahiri-2\naddress: "Bulevardi i Palmave, Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.24932345\n  lng: 19.53116273\nprice: "US$81"\npriceFrom: 81\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478627223.jpg?k=84a5c2e3baeb709793e61dd713e033053ee5b8b0575c80a28d4706288dff00cc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478627301.jpg?k=6a9b6a54544a8abc6b6ecbc8e390a0d01d30d1e463b3fb890f1692a543ef0787&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478627309.jpg?k=0138d4ff004d3f2e0ed9725e6bc620502d6a25aa2425664772ffdff4df5caedf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478627316.jpg?k=4ff5cd0777aab5a0fed9c1dd9a4724adfac04ec0a675ce3f224c67cd2781e9a0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478627325.jpg?k=e6f339eb97b4d0c15cc62591de0ba95a90bdb86beb9da658e8a319e695fa97e1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478627329.jpg?k=f4b32d405978a437f4896f22b6d1c1faa5270af91a92ca54dfa9fbb39156177b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478627338.jpg?k=7af67fd6e58c5e1febb85079b5a9a8ff446520086cc4cca7876cc56e37f6b2d6&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Bar Armando 200 m"\n  - "Furrë Buke Drini 300 m"\nnearbyBeaches:\n  - "Golem Beach 900 m"\n  - "Mali I Robit Beach 950 m"\n  - "Shkëmbi i Kavajës Beach 2.1 km"\n  - "Qerret Beach 2.6 km"\n  - "Durres Beach 4.4 km"\nwhatsNearby:\n  - "Bekimi 10 km"\n  - "Durres Amphiteatre 10 km"\n  - "Wine Dhe Pooh 10 km"\n  - "1. Maj 10 km"\n  - "Yje Dhe Hena 10 km"\n  - "Sheshi Demokracia 10 km"\n  - "Sotir Noka 11 km"\nairports:\n  - "Tirana International Airport Mother Teresa 23 km"\nbookingURL: "https://www.booking.com/hotel/al/vila-tahiri-2.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is generously sized, featuring two well-appointed bedrooms, a cozy living room, a bathroom, and a kitchen equipped with everything needed for a self-sufficient stay. Guests can enjoy their favorite shows on the flat-screen TV while taking in the tranquil garden views that the property affords.
 
 For those looking to explore beyond the immediate area, Vila Tahiri 2 serves as an excellent base, with Skanderbeg Square located 46 km away, and the Dajti Ekspres Cable Car offering scenic rides 50 km from the apartment. Additionally, the convenience of being 40 km from Tirana International Mother Teresa Airport makes it a compelling choice for both domestic and international travelers.
 
 In summary, Vila Tahiri 2 stands out as a welcoming haven for guests who value both the peace of a seaside getaway and the accessibility to local attractions.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

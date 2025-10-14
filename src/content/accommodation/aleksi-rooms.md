@@ -1,30 +1,7 @@
----
-title: Aleksi rooms
-description: Accommodations at Aleksi Rooms are thoughtfully designed to cater to the needs of every guest. Each room is equipped with essential amenities such as a wardrobe
-featuredImage: "/images/accommodation/153166191.jpg"
-language: en
-slug: aleksi-rooms
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Aleksi Rooms are thoughtfully designed to cater to the needs of every guest. Each room is equipped with essential amenities such as a wardrobe, a flat-screen TV, and air conditioning, promising a stay that combines comfort with convenience. The presence of a private bathroom with a shower in every room adds to the ease of the stay, while select rooms boast the added luxury of a balcony, offering a private space to unwind. Additionally, the convenience of a fridge in every room enhances the overall guest experience, allowing for refreshments to be kept close at hand.
+---\ntitle: "Aleksi rooms"\ndescription: "Aleksi Rooms emerges as a charming choice for travelers seeking comfort and convenience in Shëngjin, positioned less than a kilometer from the pristine Shëngjin Beach and a brief 2."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/153166191.jpg?k=36c1b853e885c31bd9700d90049d094c98da0eaeb9ec61bc96413cda046bd44c&o=&hp=1"\nlanguage: en\nslug: aleksi-rooms\naddress: "Bulevardi Nënë Tereza Pallati 87, 4503 Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.81341164\n  lng: 19.58888054\nprice: "US$56"\npriceFrom: 56\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 26\nratings:\n  overall: 9.2\n  location: 9.4\n  cleanliness: 9.3\n  facilities: 9\n  value: 8.9\n  comfort: 8.9\n  staff: 9.4\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/153166191.jpg?k=36c1b853e885c31bd9700d90049d094c98da0eaeb9ec61bc96413cda046bd44c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448190803.jpg?k=4a10e2c51eda22606e8428c4db740de5a0590403677e7120309234d4a2388cd2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262879068.jpg?k=55f5aedb9e69917bb014509d37ca91b77fd8e31f872a85a051ff59b8a32a30d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448167470.jpg?k=623b7175c9bba224f4da247158586835fa0c8157a3c533c4e3e0496d9fd2b4eb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262878930.jpg?k=8f33064ffcfb151a9cd2a238cd548f3e20800a8cd2d697ad0bc3ad5dad5ae3f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448190256.jpg?k=637675b6074fed85ff1bfb5bcabc5068812db953157db10a9de8beb208dbfada&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free WiFi"\nroomTypes:\n  - "Deluxe Double Room"\n  - "Deluxe Double Room (2 Adults + 1 Child)"\n  - "Deluxe Double Room with Balcony"\n  - "Double Room with Balcony"\n  - "Deluxe Double Room with Balcony"\nnearbyRestaurants:\n  - "Sarda 250 m"\n  - "Café Ondine 350 m"\nnearbyBeaches:\n  - "Shëngjin Beach 250 m"\n  - "Ylberi Beach 1.8 km"\n  - "Rana e Hedhun Beach 2 km"\n  - "Kune Beach 4.9 km"\n  - "Laguna Park Beach 5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 44 km"\n  - "Podgorica Airport 65 km"\n  - "Tivat Airport 96 km"\nreviews:\n  - name: "Stefan"\n    country: "North Macedonia"\n    text: "“i liked how nice the owner is. He helped us with so many things and was always there to support our needs. We recommend everyone to visit this location , it's in the middle of the town and it's a great spot!”"\n  - name: "Ninalina"\n    country: "Netherlands"\n    text: "“Very happy with everything. The room is well equipped and very clean. Everyone at the market downstairs is super friendly and beyond helpful.”"\n  - name: "Artan"\n    country: "United Kingdom"\n    text: "“Great location! Friendly and very welcoming people!”"\nbookingURL: "https://www.booking.com/hotel/al/aleksi-rooms.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Aleksi Rooms are thoughtfully designed to cater to the needs of every guest. Each room is equipped with essential amenities such as a wardrobe, a flat-screen TV, and air conditioning, promising a stay that combines comfort with convenience. The presence of a private bathroom with a shower in every room adds to the ease of the stay, while select rooms boast the added luxury of a balcony, offering a private space to unwind. Additionally, the convenience of a fridge in every room enhances the overall guest experience, allowing for refreshments to be kept close at hand.
 
 The hotel prides itself on its multilingual staff, proficient in English, Spanish, and Italian, who are available around the clock at the 24-hour front desk. Their readiness to assist ensures that every guest's needs and inquiries are promptly addressed, adding a personal touch to the service.
 
 For those intrigued by local attractions, Aleksi Rooms serves as an ideal base for exploration. The historic Rozafa Castle Shkodra lies 43 km away, offering a glimpse into the region's rich past, while the natural beauty of Lake Skadar is just 44 km from the hotel, presenting opportunities for scenic outings.
 
 In summary, Aleksi Rooms stands out as a preferred option for visitors to Shëngjin, offering a blend of comfort, convenience, and attentive service, all set against the backdrop of some of Albania's most captivating landscapes.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

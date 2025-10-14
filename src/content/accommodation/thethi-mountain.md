@@ -1,30 +1,8 @@
----
-title: Thethi Mountain
-description: Guests can expect to find thoughtfully designed family rooms, some of which offer the added luxury of a private entrance, ensuring a sense of exclusivity and pr
-featuredImage: "/images/accommodation/388874249.jpg"
-language: en
-slug: thethi-mountain
-location: ""
-amenities: []
-images: []
----
-
-Guests can expect to find thoughtfully designed family rooms, some of which offer the added luxury of a private entrance, ensuring a sense of exclusivity and privacy. Each room is well-appointed with essential amenities such as a desk and wardrobe, catering to the needs of modern travelers. For those who value connectivity, complimentary WiFi is available throughout the property, keeping guests connected with the world, should they choose to be.
+---\ntitle: "Thethi Mountain"\ndescription: "Thethi Mountain Guest House stands as a serene retreat amidst the breathtaking landscapes of Theth, offering guests a unique blend of natural beauty and comfort."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388874249.jpg?k=b72b00ef4820de26528c86b986b175792ffa918a1e541997838647d911f89ea3&o=&hp=1"\nlanguage: en\nslug: thethi-mountain\naddress: "Rruga Fushe, Theth, Albania"\ncity: "Theth"\nlocation: "Theth"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 42.38842028\n  lng: 19.78455427\nprice: "US$47"\npriceFrom: 47\nstarRating: 3\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 82\nratings:\n  overall: 8.4\n  location: 8.6\n  cleanliness: 8.5\n  facilities: 7.7\n  value: 8.1\n  comfort: 8.4\n  staff: 9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388874249.jpg?k=b72b00ef4820de26528c86b986b175792ffa918a1e541997838647d911f89ea3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489538660.jpg?k=588495c60d3ab926a7058839be73900c8df7590e54e098d229e93d0629c36878&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385232451.jpg?k=a4682797ddbdb790ce0f9d39ae6458ade4a403c09e3268ea8e9a183f55fc38ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475499268.jpg?k=063dee8338a4b528f2dba1c880c9e3a29f036554b4a302449be8f8b30b27c445&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461983325.jpg?k=ef94ae2aa5b547f950a1448e8f9d7146c5ca7ad13ec9f4b54fb656a3aefcb014&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469871985.jpg?k=f16bba121d7ee796cc0d6b59aaeff612352210d824d07da623b343bc2f1c92a1&o=&hp=1"\namenities:\n  - "Fast free WiFi (62 Mbps)"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Double Room"\n  - "Double or Twin Room"\nnearbyRestaurants:\n  - "Shpella Thethi Garden 300 m"\n  - "'Gurra Family' Guesthouse 1 km"\nwhatsNearby:\n  - "Theth National Park 0 m"\n  - "Valbona Valley National Park 2.8 km"\n  - "Theth National Park 2.8 km"\n  - "Prokletije National Park 10 km"\n  - "Parku Kombëtar Lugina e Valbonës 13 km"\n  - "Nacionalni Park Prokletije 20 km"\nairports:\n  - "Podgorica Airport 44 km"\n  - "Tivat Airport 86 km"\nreviews:\n  - name: "Aroha"\n    country: "New Zealand"\n    text: "“The whole family was friendly and welcoming, and we enjoyed the home cooked breakfast and dinner at an extra cost. The accomodation is a short walk from the main shops, but this was a good area to stay to get an insight into local life. Room was...”"\n  - name: "Slava"\n    country: "Denmark"\n    text: "“The breakfast was really tasty which was made from their mother everything was done at home
+The beds very comfortable It has good wifi”"\n  - name: "Ludek"\n    country: "France"\n    text: "“Amazing guesthouse New accommodation just 5 minutes from the church Great hospitality”"\nbookingURL: "https://www.booking.com/hotel/al/thethi-mountain.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nGuests can expect to find thoughtfully designed family rooms, some of which offer the added luxury of a private entrance, ensuring a sense of exclusivity and privacy. Each room is well-appointed with essential amenities such as a desk and wardrobe, catering to the needs of modern travelers. For those who value connectivity, complimentary WiFi is available throughout the property, keeping guests connected with the world, should they choose to be.
 
 For a touch of indulgence, select rooms are enhanced with their own terraces, inviting guests to unwind in their personal outdoor space while soaking in the majestic views. Moreover, the guest house takes pleasure in offering units equipped with a coffee machine and even wine or champagne, adding a sophisticated flair to the stay.
 
 The presence of a garden and a bar on-site provides additional spaces for relaxation and socializing, allowing guests to fully immerse themselves in the peaceful ambiance of Thethi Mountain Guest House.
 
 Situated 90 km from Podgorica Airport, the guest house remains conveniently accessible, making it an ideal choice for both domestic and international travelers seeking a serene getaway amidst the natural splendor of Theth.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

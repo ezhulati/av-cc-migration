@@ -1,30 +1,7 @@
----
-title: Rexhina Apartments
-description: Guests at Rexhina Apartments are treated to well-appointed accommodations, each featuring modern amenities such as air conditioning, a cable flat-screen TV, and
-featuredImage: "/images/accommodation/472137992.jpg"
-language: en
-slug: rexhina-apartments
-location: ""
-amenities: []
-images: []
----
-
-Guests at Rexhina Apartments are treated to well-appointed accommodations, each featuring modern amenities such as air conditioning, a cable flat-screen TV, and complimentary WiFi. The attention to detail extends to the private bathrooms, equipped with a bidet and free toiletries, ensuring a comfortable stay. Select rooms elevate the experience further with the addition of a balcony, offering guests a private outdoor space to enjoy the serene sea views.
+---\ntitle: "Rexhina Apartments"\ndescription: "Rexhina Apartments emerges as a prime choice for travelers seeking comfort and convenience in Durrës, located just a stone's throw away from the pristine Durres Beach and within easy reach of the city's most notable attractions."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472137992.jpg?k=625bbeb0690a1bbf5c19b4aa1793df56e6f561957ab28ef4590a1e462969fbb8&o=&hp=1"\nlanguage: en\nslug: rexhina-apartments\naddress: "Rruga Leoni dhe Koja, 2000 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30410384\n  lng: 19.49383501\nprice: "US$27"\npriceFrom: 27\nstarRating: 3\nrating: 7\nratingWords: "Good"\nnumberOfReviews: 21\nratings:\n  overall: 7\n  location: 7.6\n  cleanliness: 6.4\n  facilities: 6.3\n  value: 7.4\n  comfort: 6.5\n  staff: 7.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472137992.jpg?k=625bbeb0690a1bbf5c19b4aa1793df56e6f561957ab28ef4590a1e462969fbb8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472138061.jpg?k=d8fac23e81a31c748df42460b55ab565e4c951955f36edf5b5c9529620f7acb1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472138067.jpg?k=181f536e762dab967d016abfe83020e7d2fb4b413fa6d43ba007686eb4a5d9ca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472138045.jpg?k=596b77fc76f4bc6e49c0b3a02dde6072493a4fe969266910c7910f7de936af80&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472138051.jpg?k=8cd102bc6b644107857dd9a527abc519e878284a80fecce950bb077e1c88bccc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472138053.jpg?k=be126b28acd98283739bca4d20db4be7dc76af1a7ba183fe0b4848f3c3017d28&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Gostivari 50 m"\n  - "Bar Pasticeri Rigelsi 50 m"\nnearbyBeaches:\n  - "Durres Beach 100 m"\n  - "Shkëmbi i Kavajës Beach 2.4 km"\n  - "Currila Beach 3.9 km"\n  - "Golem Beach 4.8 km"\n  - "Kallmi Beach 5 km"\nwhatsNearby:\n  - "Bekimi 3 km"\n  - "Wine Dhe Pooh 4 km"\n  - "Sheshi Demokracia 4.1 km"\n  - "Yje Dhe Hena 4.1 km"\n  - "Durres Amphiteatre 4.2 km"\n  - "1. Maj 4.4 km"\n  - "Sotir Noka 4.4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nbookingURL: "https://www.booking.com/hotel/al/apartament-durres9.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Rexhina Apartments are treated to well-appointed accommodations, each featuring modern amenities such as air conditioning, a cable flat-screen TV, and complimentary WiFi. The attention to detail extends to the private bathrooms, equipped with a bidet and free toiletries, ensuring a comfortable stay. Select rooms elevate the experience further with the addition of a balcony, offering guests a private outdoor space to enjoy the serene sea views.
 
 The family-friendly nature of Rexhina Apartments is underscored by its offering of family rooms, making it an ideal choice for those traveling with loved ones. The property also boasts a terrace, providing a perfect setting for guests to unwind and soak in the breathtaking sea vistas.
 
 Strategically positioned, Rexhina Apartments serves as an excellent base for exploring the wider Durrës area. The ancient Durres Amphitheatre and the intriguing House of Leaves are within accessible distances, promising enriching day trips. Moreover, the proximity to Tirana International Mother Teresa Airport, just 33 km away, adds to the convenience for international travelers.
 
 In summary, Rexhina Apartments presents a compelling option for guests in search of a harmonious blend of comfort, location, and thoughtful amenities in Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

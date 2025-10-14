@@ -1,30 +1,7 @@
----
-title: Claudia Seaside Apartment Shengjin
-description: The apartment itself is a haven of comfort, featuring two well-appointed bedrooms, a fully equipped kitchen for those who enjoy preparing their own meals, and a
-featuredImage: "/images/accommodation/467301793.jpg"
-language: en
-slug: claudia-seaside-apartment-shengjin
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of comfort, featuring two well-appointed bedrooms, a fully equipped kitchen for those who enjoy preparing their own meals, and a bathroom. Modern amenities such as air conditioning and a flat-screen TV ensure a stay that combines the comforts of home with the luxury of a holiday. Guests can also enjoy the added bonus of a balcony, perfect for sipping morning coffee while gazing at the ocean.
+---\ntitle: "Claudia Seaside Apartment Shengjin"\ndescription: "Claudia Seaside Apartment Shengjin emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience right on the shores of Shëngjin."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467301793.jpg?k=dbb5c5f9bd3529fe668e33d14c3b13818488af8c3364f7c82e6a3dcd1e0443b5&o=&hp=1"\nlanguage: en\nslug: claudia-seaside-apartment-shengjin\naddress: "4503 Bulevardi Nënë Tereza, 4500 Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.80936283\n  lng: 19.59723281\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.1\nratingWords: "Very Good"\nnumberOfReviews: 12\nratings:\n  overall: 8.1\n  location: 9.2\n  cleanliness: 7.5\n  facilities: 7.3\n  value: 8.1\n  comfort: 7.9\n  staff: 8.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467301793.jpg?k=dbb5c5f9bd3529fe668e33d14c3b13818488af8c3364f7c82e6a3dcd1e0443b5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467301842.jpg?k=7bf2f4ef5576fce3f55df3afb57f0229dd9a029097c829a81f1cb033a0e85384&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452673748.jpg?k=952b50b8ad0fb8f5fbcde861124b9b5b8b1c4c8dda50a12f466e91833cdbb4a4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452673777.jpg?k=9bf09ba6fc8c72890c3e10f2001223255913509f6da9d359ca2768e5bd67e4cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452673796.jpg?k=120433aa7780969dd85768f380e0b8c4874e424c13c12068d9e3d6a87ad31c04&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452673788.jpg?k=dea8381c6fbaff34219c5a139db4d0fdadc6b5491b61fbedb7878f21ca4b5e17&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452673763.jpg?k=039ed72df4d9f47963187f2dcc65adf3e462acb0d2391b132f24f6e5e88312a0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452673790.jpg?k=67dcfddd60483f37c1e4fbc62cfc9e4c5d615bf457842a1bb256fa0e9b719a57&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452673783.jpg?k=5ed24ff75e1b22227048786a6f83de17871d81bf3577cd9011562a57ded47d5d&o=&hp=1"\namenities:\n  - "Private parking"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Kolonat Shengjin 100 m"\n  - "Restorant Pizeri Mari 150 m"\nnearbyBeaches:\n  - "Shëngjin Beach 10 m"\n  - "Ylberi Beach 1.1 km"\n  - "Rana e Hedhun Beach 2.8 km"\n  - "Kune Beach 4.5 km"\n  - "Laguna Park Beach 4.5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 43 km"\n  - "Podgorica Airport 66 km"\n  - "Tivat Airport 96 km"\nreviews:\n  - name: "Fatlume"\n    country: "United Kingdom"\n    text: "“Amazing location by the beach. clean and convenient accessible shops, restaurants etc”"\n  - name: "Tanush"\n    country: "Albania"\n    text: "“Excellent and panoramic location, with balcony overlooking the sea and the garden. Good and cozy apartment with a supermarket, f Food and personal area under the house. Recommended.”"\nbookingURL: "https://www.booking.com/hotel/al/claudia-seaside-apartment-shengjin.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of comfort, featuring two well-appointed bedrooms, a fully equipped kitchen for those who enjoy preparing their own meals, and a bathroom. Modern amenities such as air conditioning and a flat-screen TV ensure a stay that combines the comforts of home with the luxury of a holiday. Guests can also enjoy the added bonus of a balcony, perfect for sipping morning coffee while gazing at the ocean.
 
 For those arriving by car, the convenience of private parking is available, albeit for an additional fee. The commitment to a non-smoking environment throughout the accommodation underscores a dedication to providing a clean and healthy stay for all guests.
 
 Beyond the immediate comforts of the apartment, the location serves as an ideal base for exploring the wider area. The historic Rozafa Castle Shkodra lies 42 km away, offering a glimpse into the region's rich past, while the natural beauty of Lake Skadar is just a bit further at 43 km. For those traveling to and from the area, Tirana International Mother Teresa Airport is conveniently located 48 km from Claudia Seaside Apartment Shengjin, making arrivals and departures as smooth as possible.
 
 In summary, Claudia Seaside Apartment Shengjin presents a compelling option for those in search of a serene beachfront retreat that does not compromise on the comforts of modern living.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

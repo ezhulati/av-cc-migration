@@ -1,30 +1,7 @@
----
-title: Sunrise house
-description: Upon entering the spacious apartment, guests are greeted with a thoughtfully arranged living space that includes one bedroom, a bathroom, and a living area that
-featuredImage: "/images/accommodation/390993402.jpg"
-language: en
-slug: sunrise-house
-location: ""
-amenities: []
-images: []
----
-
-Upon entering the spacious apartment, guests are greeted with a thoughtfully arranged living space that includes one bedroom, a bathroom, and a living area that extends onto a balcony offering panoramic sea views. The provision of modern comforts such as air conditioning, a flat-screen TV, and complimentary WiFi ensures a stay that combines relaxation with the comforts of home. The fully equipped kitchen and outdoor dining area invite guests to prepare and enjoy meals against the backdrop of the city's captivating views, all within a smoke-free environment.
+---\ntitle: "Sunrise house"\ndescription: "Sunrise House emerges as a prime choice for travelers seeking a blend of comfort and convenience in Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390993402.jpg?k=8c86a7869345665d4c2b6a5143ad17c5aeaa17271ff8ba58f9c141091bffdbe4&o=&hp=1"\nlanguage: en\nslug: sunrise-house\naddress: "Rruga Butrinti, 9402 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86427863\n  lng: 20.01872945\nprice: "US$23"\npriceFrom: 23\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390993402.jpg?k=8c86a7869345665d4c2b6a5143ad17c5aeaa17271ff8ba58f9c141091bffdbe4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390993397.jpg?k=69648c328788c3375cf27f7fbe8745fd93f10bb0714d961c20f5e24bc61dc214&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390993445.jpg?k=e5f7c1e2aeea81bc503d24a05684cb288432294a603bc3e20ced6e6adbfd1045&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390993466.jpg?k=926e20b73fc0f686157a1420c0d1f761ec34cc7a0e992c7307cb42cf98275da6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390993458.jpg?k=b4a6166a282a00c419f2ae92a32376dc7060b4800816a58909e444787b6005c4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397696007.jpg?k=add1763de05c3c90ae0e5b09fd6b9289d7fd84502e3968b115ff61e80ed9a1d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390993454.jpg?k=8008a31289ebbfdf5609b7b5955b4f183ca819ef060dbd573d04c4d0f9f8527b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390993462.jpg?k=867b9f43ba7dedb796a04757c5d0affd2fc27634e11a327dd0cd30e6ffdacc6a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397697578.jpg?k=d88ee2086f53881b708ae62dd67e8e59036ab5fc0ac2d04f7b09561d8f9aa3be&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Terrace"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Cataleya 50 m"\n  - "Rixhi 100 m"\nnearbyBeaches:\n  - "Maestral Beach 300 m"\n  - "La Petite Beach 550 m"\n  - "VIP Beach 600 m"\n  - "Santa Quaranta Beach 650 m"\n  - "Flamingo Beach 900 m"\nwhatsNearby:\n  - "Parc National de Butrint 800 m"\n  - "Butrint National Park 1.7 km"\n  - "Plazhi I Krorezes 7 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 11 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/sunrise-house-sarande.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nUpon entering the spacious apartment, guests are greeted with a thoughtfully arranged living space that includes one bedroom, a bathroom, and a living area that extends onto a balcony offering panoramic sea views. The provision of modern comforts such as air conditioning, a flat-screen TV, and complimentary WiFi ensures a stay that combines relaxation with the comforts of home. The fully equipped kitchen and outdoor dining area invite guests to prepare and enjoy meals against the backdrop of the city's captivating views, all within a smoke-free environment.
 
 For those looking to explore, Sunrise House does not disappoint. The property is conveniently located within reach of engaging sightseeing tours, and for the more independently spirited, both bicycle and car rental services are readily available. Essentials are easily taken care of with a minimarket on the premises, ensuring a hassle-free stay.
 
 Further afield, the allure of VIP Beach awaits just 1 km away, while the historic Butrint National Park, a treasure trove of ancient ruins, is a mere 15 km from the doorstep. For guests arriving from afar, Ioannina Airport is the nearest gateway, located 96 km away.
 
 With its 24-hour front desk, ATM, and currency exchange services, Sunrise House stands out as a beacon of hospitality, promising a memorable stay in Sarandë for every guest.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

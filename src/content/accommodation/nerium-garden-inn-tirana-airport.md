@@ -1,30 +1,12 @@
----
-title: Nerium Garden Inn Tirana Airport
-description: Guests at Nerium Garden Inn are greeted with a plethora of amenities designed to ensure a seamless stay. The inn boasts a verdant garden, ample free private par
-featuredImage: "/images/accommodation/496043726.jpg"
-language: en
-slug: nerium-garden-inn-tirana-airport
-location: ""
-amenities: []
-images: []
----
-
-Guests at Nerium Garden Inn are greeted with a plethora of amenities designed to ensure a seamless stay. The inn boasts a verdant garden, ample free private parking, and a welcoming shared lounge, setting the stage for relaxation and social interaction. The commitment to guest convenience is further underscored by the complimentary shuttle service, ensuring smooth transitions to and from the airport, and the availability of free WiFi throughout the premises, keeping guests connected with the world.
+---\ntitle: "Nerium Garden Inn Tirana Airport"\ndescription: "Nerium Garden Inn Tirana Airport emerges as a serene oasis for travelers seeking convenience and comfort close to the heart of Albania's vibrant capital."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496043726.jpg?k=6b60ab1b3aac0d9cba73a77abe3bb24608c2735500e76082c9093ca748293955&o=&hp=1"\nlanguage: en\nslug: nerium-garden-inn-tirana-airport\naddress: "Rruga e Aeroportit, 1504 Rinas, Albania"\ncity: "Rinas"\nlocation: "Rinas"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.43177133\n  lng: 19.70758153\nprice: "US$53"\npriceFrom: 53\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 160\nratings:\n  overall: 9.7\n  location: 9.6\n  cleanliness: 9.9\n  facilities: 9.6\n  value: 9.7\n  comfort: 9.8\n  staff: 9.9\n  wifi: 9.7\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496043726.jpg?k=6b60ab1b3aac0d9cba73a77abe3bb24608c2735500e76082c9093ca748293955&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489337002.jpg?k=57d3b016594605b88650eb8cde34e115f7111b23f218069adccb48041d861cac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489336378.jpg?k=42b9c930bf32e5d003512de830a4c9e14aea46c2bb194b2328ceba0c81b0176c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496899462.jpg?k=6d1ff4e45a1504209811b44f24024c6b9c32cf4a260545c1597f21a129c386f8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496890207.jpg?k=abc1e9ef6030ed8f0bb007b7a375defd2e49d7ab029d410184c4e9e7bdb01179&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478034178.jpg?k=71b5fdfd07b1d27fc89d5438f4fa75662d1ca90a875dbec6c66961af1ad07764&o=&hp=1"\namenities:\n  - "Airport shuttle (free)"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Double Room with Garden View"\n  - "Double Room with Mountain View"\n  - "Double or Twin Room with Garden View"\n  - "Superior Double Room"\nnearbyAttractions:\n  - "National Museum of History Albania 15 km"\n  - "House of Leaves 15 km"\n  - "Skanderbeg Square 15 km"\n  - "Clock Tower Tirana 15 km"\n  - "National Gallery of Arts Tirana 15 km"\n  - "Rinia Park 15 km"\n  - "Tanners' Bridge 15 km"\n  - "Former Residence of Enver Hoxha 15 km"\n  - "Bunk'Art 1 Museum 16 km"\n  - "Grand Park of Tirana 17 km"\nnearbyRestaurants:\n  - "Shija 150 m"\n  - "Colis 1.5 km"\nwhatsNearby:\n  - "Dajti Mountain National Park 11 km"\n  - "Sheshi Rekreativ Lord Bajron 13 km"\n  - "Shesh Rekreativ Yzberisht 13 km"\n  - "Park Lojrash 13 km"\n  - "Sheshi Rekreativ Don Bosko 13 km"\n  - "Sheshi Rekreativ Parku 1Km 14 km"\n  - "Sheshi Rekreativ Mine Peza 14 km"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 14 km"\n  - "Sheshi Xhuzepe Garibaldi 14 km"\n  - "Sheshi Rekreativ Allias 14 km"\nairports:\n  - "Tirana International Airport Mother Teresa 600 m"\n  - "Ohrid Airport 91 km"\nreviews:\n  - name: "Colin"\n    country: "United Kingdom"\n    text: "“The room is simple but clean and the aircon works perfectly. I had a great view out of the window seeing the mountains. Wifi was strong and stable. Huge bonuses were the offer of a free shuttle from the airport and the friendliness of owner Genti...”"\n  - name: "Ella"\n    country: "United Kingdom"\n    text: "“Great stop for an early flight.
+Wonderful welcoming host.
+New building.”"\n  - name: "Hakan"\n    country: "Netherlands"\n    text: "“+ Hospitality was great.
++ Clean room.
++ Quiet place.
++ Hotel arranged a taxi for me to go to the airport.”"\nbookingURL: "https://www.booking.com/hotel/al/nerium-garden-inn-tirana-airport.en-gb.html?aid=8035640"\nbestFor: "Best for Airport Access"\nbestCategories: "Airport Access"\ncategory: "Airport Access"\n---\n\nGuests at Nerium Garden Inn are greeted with a plethora of amenities designed to ensure a seamless stay. The inn boasts a verdant garden, ample free private parking, and a welcoming shared lounge, setting the stage for relaxation and social interaction. The commitment to guest convenience is further underscored by the complimentary shuttle service, ensuring smooth transitions to and from the airport, and the availability of free WiFi throughout the premises, keeping guests connected with the world.
 
 Accommodations at Nerium Garden Inn are thoughtfully appointed to cater to the modern traveler's needs. Each room serves as a private retreat, featuring a desk, air conditioning, and a flat-screen TV for entertainment. The inclusion of a private bathroom, equipped with a shower and complimentary toiletries, adds to the comfort, while select rooms boast balconies, offering guests their own slice of serenity. The attention to detail extends to the provision of quality bed linen and towels, enhancing the overall experience.
 
 The inn's location not only provides easy access to Tirana's main attractions, such as the Former Residence of Enver Hoxha and the scenic Dajti Ekspres Cable Car, but also places guests within reach of natural wonders like the Rock of Kavaje. This strategic positioning makes Nerium Garden Inn an ideal base for exploring the rich cultural tapestry and natural beauty of the region.
 
 Nerium Garden Inn Tirana Airport stands out as a preferred choice for travelers in search of a peaceful, well-connected, and comfortable stay near Albania's capital, offering a blend of convenience, comfort, and connectivity.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

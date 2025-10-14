@@ -1,26 +1,3 @@
----
-title: NoMad House
-description: The apartment itself is a testament to thoughtful living spaces, featuring air conditioning for those warm Berat days, two well-appointed bedrooms for restful n
-featuredImage: "/images/accommodation/459551566.jpg"
-language: en
-slug: nomad-house
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to thoughtful living spaces, featuring air conditioning for those warm Berat days, two well-appointed bedrooms for restful nights, and a flat-screen TV for entertainment. The kitchen is fully equipped, catering to guests' culinary needs, whether they're whipping up a quick breakfast or a full meal. The added benefit of a private entrance enhances the sense of exclusivity and privacy.
+---\ntitle: "NoMad House"\ndescription: "NoMad House in Berat stands out as a prime choice for travelers seeking comfort and convenience in their accommodation."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459551566.jpg?k=e8eb056b79045d3c5515e5203161dc3f7c7337c9477c90b598793a39c30cf51b&o=&hp=1"\nlanguage: en\nslug: nomad-house\naddress: "Rruga Dr. Lluka, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.70618002\n  lng: 19.95139659\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 20\nratings:\n  overall: 9.8\n  location: 9.9\n  cleanliness: 9.9\n  facilities: 9.4\n  value: 9.8\n  comfort: 9.6\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459551566.jpg?k=e8eb056b79045d3c5515e5203161dc3f7c7337c9477c90b598793a39c30cf51b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477359033.jpg?k=fd6152d18738fd92b08efcf2ae602c09dad3b466b3c045a8caa761f2f51facc5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469878269.jpg?k=161b292a8c57362197f1a68cea19af95f2e2904f678535e7d97472c345b8df05&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469878335.jpg?k=649866dd8506887029b7482817b75519e7bce4817bb9d4783303ebffc2b81b88&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469878635.jpg?k=3aeb8fb0e3979ca397364fc3410f67ad941cd32b8503e95b0eca0ac344262da7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469877814.jpg?k=457a16a1d8ca35bf02ecb4304de50139b7b5ec73b910b948ef7ef2c1fab005bb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469878368.jpg?k=7cf51a8b4c41fbb701fdfbdef65b20c49a9f12a30313a58ba384fad618486d64&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469878698.jpg?k=11bc3e96810278cd92e378d54b2b80ba492af01e9bd79ed0b9ef92ad247c8dee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469878227.jpg?k=173811e46d41a5815bd7b6cef0a6037eeeed740a56d72e440cfe3f5ce47696ee&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Mangalemi 40 m"\n  - "Solidarity Shop Berat 40 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 84 km"\nreviews:\n  - name: "Bettina"\n    country: "Hungary"\n    text: "“Lovely host, big living room, good internet connection, free water and soft drinks in the fridge, great location, flexible check out and in, free parking with camera in front of the house, good communication, clean house”"\n  - name: "Celine"\n    country: "France"\n    text: "“We had the pleasure to stay 3 nights at NoMad House and can only recommend it. It is a well equiped and located house :) thank you for your hospitality!”"\n  - name: "Janaki"\n    country: "Kuwait"\n    text: "“The house was clean and hygienic. The location was absolutely much near to the castle.”"\nbookingURL: "https://www.booking.com/hotel/al/nomad-house.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nThe apartment itself is a testament to thoughtful living spaces, featuring air conditioning for those warm Berat days, two well-appointed bedrooms for restful nights, and a flat-screen TV for entertainment. The kitchen is fully equipped, catering to guests' culinary needs, whether they're whipping up a quick breakfast or a full meal. The added benefit of a private entrance enhances the sense of exclusivity and privacy.
 
 Located a considerable distance from the hustle and bustle, the property is 118 km from Tirana International Mother Teresa Airport, making it a peaceful retreat yet reasonably accessible for international travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

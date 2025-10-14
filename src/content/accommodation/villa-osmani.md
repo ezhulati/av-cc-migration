@@ -1,30 +1,5 @@
----
-title: Villa Osmani
-description: Accommodations at Villa Osmani are thoughtfully designed with guest convenience in mind. Each unit boasts a fully equipped kitchenette, complete with a dining a
-featuredImage: "/images/accommodation/358591812.jpg"
-language: en
-slug: villa-osmani
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Villa Osmani"\ndescription: "Villa Osmani emerges as a serene retreat in Durrës, boasting a coveted private beach area and breathtaking lake views, merely 700 meters from Durres Beach and a scenic 38 km drive from Skanderbeg Square."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522459091.jpg?k=696b131743f0d0de2129778110dd2eb450533f9371564f61723538c3a8ab885c&o=&hp=1"\nlanguage: en\nslug: villa-osmani\naddress: "Rruga Daunia 54, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.3071666\n  lng: 19.4948753\nprice: "US$528"\npriceFrom: 528\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522459091.jpg?k=696b131743f0d0de2129778110dd2eb450533f9371564f61723538c3a8ab885c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522458770.jpg?k=b7d1a26281d4232cfd07e2bea17a86ff655cabe9a1a71f2050a91ff6fc725610&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522459031.jpg?k=1f7391fea2181206faaab9eee822de220ef0061a36181928f4db73006214b63f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522459168.jpg?k=6454ac4568c3338ed166afa19edda87197fd732ca7abd41d5af914bb11da7ded&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522458769.jpg?k=651c4720cbb44a3f7e788cbe744166cb63acbe8368b2e8428365b792e656b483&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522459489.jpg?k=48c7c371658e6288458e4469d3f0151854e9371ce24b7f3c75ba168b5b2a71ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522459174.jpg?k=b87de8f90d551f3497b03af9ac622ab946981f70bf4da5cf8c2f2649e79ec63f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522459033.jpg?k=9513edac30735b32daaa3a727123ffb7265121ac56c06bd5d721a3f449f56993&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491404343.jpg?k=47467394e310fa3012d5bb77d131d2a455f966cf1cffa8df94a677be03153a46&o=&hp=1"\namenities:\n  - "Airport shuttle (free)"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Private beach area"\nroomTypes:\n  - "One-Bedroom House"\nnearbyRestaurants:\n  - "2a 200 m"\n  - "Tasty 200 m"\nnearbyBeaches:\n  - "Durres Beach 400 m"\n  - "Shkëmbi i Kavajës Beach 2.7 km"\n  - "Currila Beach 4 km"\n  - "Golem Beach 5 km"\n  - "Kallmi Beach 5 km"\nwhatsNearby:\n  - "Bekimi 2.7 km"\n  - "Wine Dhe Pooh 4 km"\n  - "Sheshi Demokracia 4 km"\n  - "Yje Dhe Hena 4.1 km"\n  - "Durres Amphiteatre 4.2 km"\n  - "Sotir Noka 4.3 km"\n  - "1. Maj 4.4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\nbookingURL: "https://www.booking.com/hotel/al/villa-domi-durres2.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe holiday home reveals itself as a spacious haven, featuring air-conditioned interiors and a bedroom that promises restful nights. The presence of a well-appointed kitchen equipped with a fridge, a minibar, and kitchenware, alongside a hairdryer, underscores the property's attention to detail. Guests can savor meals in the fresh air, thanks to the outdoor dining area that complements the home's amenities.
 
-Accommodations at Villa Osmani are thoughtfully designed with guest convenience in mind. Each unit boasts a fully equipped kitchenette, complete with a dining area, refrigerator, and all necessary kitchenware. The provision of a kettle, private bathroom, and complimentary WiFi in every room adds to the comfort, while select accommodations enhance the experience with a terrace and views of the lush garden. The attention to detail is evident in the provision of bed linen and towels, ensuring a comfortable stay.
+For those who wish to explore the vicinity or require essentials, a minimarket on the premises adds to the convenience. Villa Osmani extends its hospitality further by offering both bicycle and car rental services, facilitating easy exploration of the surrounding area.
 
-Families will appreciate the thoughtful addition of a baby safety gate, making it a suitable option for guests of all ages. The garden invites guests to unwind in a tranquil setting, further enriching the stay at Villa Osmani.
-
-For those looking to explore beyond the property, the Dajti Ekspres Cable Car is located 42 km away, offering an adventure for nature enthusiasts, while the Rock of Kavaje, just 5.6 km from the property, presents an opportunity for exploration. Conveniently, Tirana International Mother Teresa Airport is a mere 32 km away, facilitating easy travel arrangements.
-
-Villa Osmani thus presents itself as an ideal lodging choice for those in search of comfort, security, and the beauty of nature, all within close proximity to major attractions and conveniences.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}
+Situated 42 km from the Dajti Ekspres Cable Car and a mere 5 km from the Rock of Kavaje, the property positions itself as an ideal base for adventurers. Additionally, the proximity to Tirana International Mother Teresa Airport, located 32 km away, makes Villa Osmani a compelling choice for travelers seeking both tranquility and accessibility.

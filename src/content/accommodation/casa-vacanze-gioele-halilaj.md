@@ -1,28 +1,5 @@
----
-title: Casa vacanze GIOELE HALILAJ
-description: "The accommodation boasts a well-appointed apartment that is a haven of comfort and convenience."
-featuredImage: "/images/accommodation/479903009.jpg"
-language: en
-slug: casa-vacanze-gioele-halilaj
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Casa vacanze GIOELE HALILAJ"\ndescription: "Casa vacanze GIOELE HALILAJ stands as a prime beachfront gem in Vlorë, offering guests an exceptional stay a stone's throw away from Vlore Beach and a leisurely stroll from Vjetër Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479903009.jpg?k=a2eb06620924624c4a96e3f46e649f0952e74a39de8fd07b0d889f8c98cea9fa&o=&hp=1"\nlanguage: en\nslug: casa-vacanze-gioele-halilaj\naddress: "Rruga Aristill Kokoshi Piano terra, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4527108\n  lng: 19.4910308\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 1\nratings:\n  overall: 9.2\n  location: 10\n  cleanliness: 10\n  facilities: 7.5\n  value: 10\n  comfort: 10\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479903009.jpg?k=a2eb06620924624c4a96e3f46e649f0952e74a39de8fd07b0d889f8c98cea9fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478400194.jpg?k=7563a726450ac02991957084784f2047245a13a97c42bc39701280b527e4b47f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478400234.jpg?k=2c318c625e906eb927c94214acf5eaf03f3bfe48639ae1177d503af05b412b0b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478400203.jpg?k=d0221e6e51b894a87ca766540360cae49cca8b39a9ca99acab1beee923316128&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478400130.jpg?k=dadb255b4a7497fcf83a89b22ca6c892202fde330d20e59487233780ca38c42f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478400211.jpg?k=abad93bdf7a5f46e4e185eeabf4ae542730c46101cae6ef895d789ea494b23af&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478400239.jpg?k=37ce78e23b9537f946246b66caee73a802ba9597125ba853c7501caf01ef526f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478400243.jpg?k=181a2e7ae80d42b43b06cb0db6527125e977a339235deaf380500a399cda599a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479903182.jpg?k=6954de8c602379c864d9152c7e923c321d0434154c5773cfa5662cea90a967d2&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\nnearbyRestaurants:\n  - "Carraro 200 m"\n  - "Pizzeria Damiano lItaliano 250 m"\nnearbyBeaches:\n  - "Vlore Beach 550 m"\n  - "Vjetër Beach 800 m"\n  - "Ri Beach 1.9 km"\n  - "Beach at Government Villas 3.6 km"\n  - "Liro Beach 4.3 km"\nwhatsNearby:\n  - "Kuzum Baba 1.7 km"\n  - "Scooby Doo Vlore 1.9 km"\n  - "Independence Square 2 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\nbookingURL: "https://www.booking.com/hotel/al/casa-vacanze-gioele-halilaj.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodation boasts a well-appointed apartment that is a haven of comfort and convenience. Guests will find themselves enveloped in the cozy ambiance of a bedroom paired with a living area, all enhanced by the modernity of a flat-screen TV. The apartment is equipped with a kitchen and dining area, ready for any culinary adventure, alongside a bathroom complete with a bidet and washing machine. The air-conditioned space further indulges guests with a bath and a dedicated dressing room, ensuring privacy with its own separate entrance.
 
-The accommodation boasts a well-appointed apartment that is a haven of comfort and convenience. Guests will find themselves enveloped in the cozy ambiance of a bedroom paired with a living area, all enhanced by the modernity of a flat-screen TV. The apartment is equipped with a kitchen and dining area, ready for any culinary adventure, alongside a bathroom complete with a bidet and washing machine. The air-conditioned space further indulges guests with a bath and a dedicated dressing room, ensuring privacy with its own separate entrance.
-
-For moments of relaxation, the property offers a welcoming bar and lounge area, inviting guests to unwind and socialize.
+For moments of relaxation, the property offers a welcoming bar and lounge area, inviting guests to unwind and socialize. 
 
 Situated a mere 2.4 km from Independence Square and 2.9 km from the historic Kuzum Baba, Casa vacanze GIOELE HALILAJ serves as an ideal base for exploring the rich culture and attractions of Vlorë. For those traveling further afield, Tirana International Mother Teresa Airport is 151 km away, making it a convenient choice for both local and international travelers seeking a memorable stay by the Albanian coast.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

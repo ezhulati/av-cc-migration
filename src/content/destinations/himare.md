@@ -5,11 +5,14 @@ region: Southern Albania
 featuredImage: /images/destinations/himare.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: himare
 highlights: []
+seo:
+  metaDescription: "Discover the best Himare products and services. Find everything you need for Himare at our category listing page."
 ---
 
 Why Visit Himarë
@@ -132,10 +135,3 @@ Himarë doesn’t put on airs. It’s not trying to be the next big thing, and t
 
 It’s a place that has survived millennia without changing too much. It’s a little rough and untamed, but if you’re looking for something real—without the tourist trap gloss—Himarë might be the place you’ve been looking for.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

@@ -1,30 +1,7 @@
----
-title: Mimoza Appartament
-description: The accommodation stands out for its array of family rooms, complemented by an outdoor fireplace, creating an inviting atmosphere for guests of all ages. Each u
-featuredImage: "/images/accommodation/437647030.jpg"
-language: en
-slug: mimoza-appartament
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Mimoza Appartament"\ndescription: "Mimoza Appartament emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in Golem."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437647030.jpg?k=a2f9f1cc2a1a9f624deb0729690cdb3e569bd202791de5b265ead852544514d9&o=&hp=1"\nlanguage: en\nslug: mimoza-appartament\naddress: "Golem, 9012 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.25006773\n  lng: 19.52167362\nprice: "US$26"\npriceFrom: 26\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 49\nratings:\n  overall: 9.1\n  location: 8.8\n  cleanliness: 9.3\n  facilities: 9\n  value: 9.1\n  comfort: 9.1\n  staff: 9.1\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437647030.jpg?k=a2f9f1cc2a1a9f624deb0729690cdb3e569bd202791de5b265ead852544514d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437646876.jpg?k=bb9c9e1040a175d3af028fded7aea17b9995c3aa5bf041d3ebdcbddf1964cd6a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372119381.jpg?k=d263cb685648ca6f3f5acf4da881ce8b1c9976a61de16964db43440364171dd7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473443421.jpg?k=8985bf537db1ee3667fe244cc26c83bcdfe33d374cf688162b2b9233f79c277b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375576732.jpg?k=55978e88fa7e1f4d92f91e8485a53353c6a012ef817f4dda56e906b390089da4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372119383.jpg?k=4fa44685a30c3da5a5b1ec43d80f14caac0a649b2419189bfb50bda2eef3a503&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "King Studio"\nnearbyRestaurants:\n  - "Perla 100 m"\n  - "Kleant 150 m"\nnearbyBeaches:\n  - "Golem Beach 150 m"\n  - "Mali I Robit Beach 300 m"\n  - "Shkëmbi i Kavajës Beach 1.7 km"\n  - "Qerret Beach 2.3 km"\n  - "Durres Beach 4.1 km"\nwhatsNearby:\n  - "Bekimi 9 km"\n  - "Durres Amphiteatre 9 km"\n  - "Wine Dhe Pooh 10 km"\n  - "1. Maj 10 km"\n  - "Yje Dhe Hena 10 km"\n  - "Sheshi Demokracia 10 km"\n  - "Sotir Noka 10 km"\nairports:\n  - "Tirana International Airport Mother Teresa 23 km"\nreviews:\n  - name: "Marina"\n    country: "South Africa"\n    text: "“It is a very well-equipped apartment with nice bedding and very clean. It is also very close to the sea, close to shops and the center of the town. It is also pet friendly.”"\n  - name: "Amber"\n    country: "Germany"\n    text: "“Great location! Super easy walk across the street to a great beach!”"\n  - name: "Agnieszka"\n    country: "Poland"\n    text: "“The apartment is just right for two, well-equipped, comfortable bed, a washing machine in the bathroom, an air-conditioner in the kitchen, which is enough to cool the entire apartment during hot weather. Wifi was unfortunately not working but it...”"\nbookingURL: "https://www.booking.com/hotel/al/mimoza-appartament.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodation stands out for its array of family rooms, complemented by an outdoor fireplace, creating an inviting atmosphere for guests of all ages. Each unit within Mimoza Appartament is thoughtfully equipped with modern amenities including air conditioning, a flat-screen TV, and a washing machine, with select apartments offering the added luxury of a fully equipped kitchen, a coffee machine, and even a selection of wine or champagne for a touch of elegance.
 
-The accommodation stands out for its array of family rooms, complemented by an outdoor fireplace, creating an inviting atmosphere for guests of all ages. Each unit within Mimoza Appartament is thoughtfully equipped with modern amenities including air conditioning, a flat-screen TV, and a washing machine, with select apartments offering the added luxury of a fully equipped kitchen, a coffee machine, and even a selection of wine or champagne for a touch of elegance.
+For those looking to savor local flavors or simply enjoy a quick snack, the property boasts an on-site restaurant and snack bar, alongside the convenience of a grocery delivery service and a minimarket. 
 
-For those looking to savor local flavors or simply enjoy a quick snack, the property boasts an on-site restaurant and snack bar, alongside the convenience of a grocery delivery service and a minimarket.
-
-Exploration is made easy with both bicycle and car rental services available directly from the apartment, inviting guests to discover nearby attractions such as the Rock of Kavaje, located 5 km away, or delve into history at the Former Residence of Enver Hoxha, 47 km from the property.
+Exploration is made easy with both bicycle and car rental services available directly from the apartment, inviting guests to discover nearby attractions such as the Rock of Kavaje, located 5 km away, or delve into history at the Former Residence of Enver Hoxha, 47 km from the property. 
 
 Situated 46 km from the historic Skanderbeg Square and with the Tirana International Mother Teresa Airport just 41 km away, Mimoza Appartament also offers a paid airport shuttle service, ensuring a seamless travel experience. This property not only serves as a gateway to the beautiful beaches and local sights of Golem but also as a haven of comfort and convenience for travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

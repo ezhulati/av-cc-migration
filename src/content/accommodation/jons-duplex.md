@@ -4,9 +4,18 @@ description: This air-conditioned 1-bedroom apartment is a haven of tranquility,
 featuredImage: "/images/accommodation/420968406.jpg"
 language: en
 slug: jons-duplex
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Parking"
+  - "Spa"
+  - "Kitchen"
+  - "TV"
 ---
 
 This air-conditioned 1-bedroom apartment is a haven of tranquility, boasting a garden view that invites guests to unwind in a peaceful setting. The availability of private parking and complimentary WiFi enhances the stay, ensuring that guests enjoy both ease and connectivity throughout their visit. The commitment to a non-smoking environment further underscores the property's dedication to providing a clean and healthy atmosphere.
@@ -21,14 +30,3 @@ Accessibility is a key feature of Jon's Duplex, with Tirana International Mother
 
 In summary, Jon's Duplex stands out as a prime choice for travelers seeking a blend of comfort, convenience, and cultural immersion in Tirana.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

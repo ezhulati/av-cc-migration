@@ -1,32 +1,9 @@
----
-title: Vila Golem
-description: Upon entering the villa, guests are greeted with a spacious layout that includes three well-appointed bedrooms, a fully equipped kitchen for those who enjoy pre
-featuredImage: "/images/accommodation/476117523.jpg"
-language: en
-slug: vila-golem
-location: ""
-amenities: []
-images: []
----
-
-Upon entering the villa, guests are greeted with a spacious layout that includes three well-appointed bedrooms, a fully equipped kitchen for those who enjoy preparing their meals, and a bathroom designed with comfort in mind. Entertainment is readily available through the inclusion of a flat-screen TV, ensuring that guests have access to leisure activities during their stay.
+---\ntitle: "Vila Golem"\ndescription: "Vila Golem emerges as a serene retreat in the heart of Golem, perfectly positioned just a short distance from the pristine shores of Mali I Robit Beach and Golem Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476117523.jpg?k=ef892ac4052a3e8046f6c35544774f2e0e18d9663d38cfe4ef2c6b41e92f1d78&o=&hp=1"\nlanguage: en\nslug: vila-golem\naddress: "Rruga Deti Jon, Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.25118786\n  lng: 19.52871369\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476117523.jpg?k=ef892ac4052a3e8046f6c35544774f2e0e18d9663d38cfe4ef2c6b41e92f1d78&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476117591.jpg?k=96090e5bfe93302a206146f986c6be8615c2bca3aaa6a4b4d1f8cd2f8dc4b5a8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476117650.jpg?k=f61ee96cdd87822788518e97eadc086dfefb3853366af8bc47270b72eaed153f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476117626.jpg?k=ff3593bd8bfae62d6a05e775a8d455b710a349087456006f81b27699d8711574&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476117585.jpg?k=c9affedb5fb2619d701599d637506c72af09cdc3f3baeb62ba08c3761426e908&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476117582.jpg?k=7390f950e4169b6f175a25bef9cf00a468dfa24348eb7f327bd33397ec17a6e0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476117588.jpg?k=cc076606fbd4c0e6fa54bfe9652623111cabe921949ccaca744e209f149f2d88&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476117648.jpg?k=31ceb649ceb6ca4863622b47ab20c39d685e779acbcd833bb4d243705f3e7968&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476117581.jpg?k=6a01aeb1e69678c8bef6741c65df00489524103185f15f4e97c67a2d3f67e997&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Bar Armando 500 m"\n  - "Ulpiana 500 m"\nnearbyBeaches:\n  - "Golem Beach 700 m"\n  - "Mali I Robit Beach 850 m"\n  - "Shkëmbi i Kavajës Beach 1.8 km"\n  - "Qerret Beach 2.7 km"\n  - "Durres Beach 4.2 km"\nwhatsNearby:\n  - "Bekimi 10 km"\n  - "Durres Amphiteatre 10 km"\n  - "Wine Dhe Pooh 10 km"\n  - "1. Maj 10 km"\n  - "Yje Dhe Hena 10 km"\n  - "Sheshi Demokracia 10 km"\n  - "Sotir Noka 10 km"\nairports:\n  - "Tirana International Airport Mother Teresa 23 km"\nbookingURL: "https://www.booking.com/hotel/al/vila-golem.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nUpon entering the villa, guests are greeted with a spacious layout that includes three well-appointed bedrooms, a fully equipped kitchen for those who enjoy preparing their meals, and a bathroom designed with comfort in mind. Entertainment is readily available through the inclusion of a flat-screen TV, ensuring that guests have access to leisure activities during their stay.
 
 One of the standout features of Vila Golem is its commitment to providing a smoke-free environment, ensuring a clean and healthy atmosphere for all guests. The addition of a balcony opens up the space, allowing visitors to bask in the natural beauty of the surrounding area or enjoy a quiet moment under the stars.
 
-For those arriving by car, the convenience of complimentary private parking removes any worries about vehicle security, while free WiFi keeps guests connected to the world beyond this peaceful haven.
+For those arriving by car, the convenience of complimentary private parking removes any worries about vehicle security, while free WiFi keeps guests connected to the world beyond this peaceful haven. 
 
 Situated 45 km from the historic Skanderbeg Square and 49 km from the adventure that awaits at Dajti Ekspres Cable Car, Vila Golem serves as an ideal base for exploring the rich cultural tapestry and natural wonders of the region. Moreover, the proximity to Tirana International Mother Teresa Airport, located just 39 km away, adds to the villa's appeal for international travelers seeking a seamless travel experience.
 
 Vila Golem stands out as a distinguished choice for those in search of a peaceful getaway, combining the comforts of home with the beauty and tranquility of Golem's coastal landscape.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Sweet dreams duplex 1
-description: Situated merely 500 meters from the inviting sands of Saranda City Beach, the property maintains a strict non-smoking policy, ensuring a clean and fresh environ
-featuredImage: "/images/accommodation/368249248.jpg"
-language: en
-slug: sweet-dreams-duplex-1
-location: ""
-amenities: []
-images: []
----
-
-Situated merely 500 meters from the inviting sands of Saranda City Beach, the property maintains a strict non-smoking policy, ensuring a clean and fresh environment for all guests. The apartment features a cozy 1-bedroom layout, complemented by a living room equipped with a flat-screen TV offering a variety of cable channels. The inclusion of a fully equipped kitchen, complete with a toaster and fridge, allows guests the freedom to prepare their own meals, adding a touch of home. The convenience of a private bathroom, stocked with slippers, enhances the comfort of the stay.
+---\ntitle: "Sweet dreams duplex 1"\ndescription: "Sweet Dreams Duplex 1 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368249248.jpg?k=83b9f273a85e57928ee6916c79d39058a3ce75f027868be257d6e4122e9a4dc3&o=&hp=1"\nlanguage: en\nslug: sweet-dreams-duplex-1\naddress: "Rruga Qazim Demi, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87148006\n  lng: 20.01698863\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.1\nratingWords: "Good"\nnumberOfReviews: 1\nratings:\n  overall: 7.1\n  location: 7.5\n  cleanliness: 7.5\n  facilities: 5\n  value: 7.5\n  comfort: 5\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368249248.jpg?k=83b9f273a85e57928ee6916c79d39058a3ce75f027868be257d6e4122e9a4dc3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368249220.jpg?k=6a6e88febb261c37097ac5323d6da4c99e26003b57bf10aa239745e585646a3b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368249229.jpg?k=98c6f705d0cc6bbb4af26ef24f4eefcde4af552753c24e339957d3b9b7ceb122&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368249231.jpg?k=263be4226147df8e59cb5a1c3dadb767243c463d2fccfd3532fd295506b89444&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368249222.jpg?k=0441d22a65107a1948a0dedf540fc1692b551106baac95fd11735b0934f17088&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368249237.jpg?k=2e49c628c771e7f4ac1b0f2d399344876aca698c66e0f9e84b471e1938bde3a0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368249227.jpg?k=1135f6b276ed519c3295fce4669af18f982665739cb9832e86f3d9ad03827f30&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368249246.jpg?k=6a8bc64f6e5d91dbdadeb3968bc3d109373f30daf371ea9e9222b218d8834323&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372218213.jpg?k=e286bf62e6c0fe7249c9d54a3f8eafe854a1d366b11b7eaa3e0e44f6a7cce41c&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Terrace"\nnearbyRestaurants:\n  - "Bar Kafe \Enea\\"\" 100 m"\n  - "Restorant Kalija 150 m"\nnearbyBeaches:\n  - "Saranda City Beach 250 m"\n  - "La Petite Beach 400 m"\n  - "Maestral Beach 500 m"\n  - "Sarande Main Beach 1.2 km"\n  - "VIP Beach 1.4 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.5 km"\n  - "Butrint National Park 2.5 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/sweet-dreams-duplex-1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nSituated merely 500 meters from the inviting sands of Saranda City Beach, the property maintains a strict non-smoking policy, ensuring a clean and fresh environment for all guests. The apartment features a cozy 1-bedroom layout, complemented by a living room equipped with a flat-screen TV offering a variety of cable channels. The inclusion of a fully equipped kitchen, complete with a toaster and fridge, allows guests the freedom to prepare their own meals, adding a touch of home. The convenience of a private bathroom, stocked with slippers, enhances the comfort of the stay.
 
 For those looking to explore the local coastline, La Petite Beach is easily accessible, located less than 1 km away, while Maestral Beach is just a 14-minute stroll from the doorstep. For travelers venturing from afar, Ioannina Airport is the nearest air link, positioned 95 km from Sweet Dreams Duplex 1.
 
 This property stands out for its blend of privacy, comfort, and location, making it an attractive option for those wishing to experience Sarandë's charm without compromising on the comforts of home.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Apartment in Mali i Robit Golem
-description: The apartment itself is a haven of modern amenities, boasting air conditioning for those warm summer days, a flat-screen TV for entertainment, and a dining area
-featuredImage: "/images/accommodation/435251965.jpg"
-language: en
-slug: apartment-in-mali-i-robit-golem
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of modern amenities, boasting air conditioning for those warm summer days, a flat-screen TV for entertainment, and a dining area perfect for enjoying meals prepared in the fully equipped kitchen. The inclusion of an oven and a comprehensive set of kitchenware ensures that guests can easily cater to their culinary needs, making it feel like a home away from home. Comfort is further enhanced with the provision of soft towels and crisp bed linen, promising a restful night's sleep in the cozy bedroom.
+---\ntitle: "Apartment in Mali i Robit Golem"\ndescription: "Apartment in Mali i Robit Golem emerges as a serene retreat for travelers seeking the perfect blend of comfort and convenience in Golem."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435251965.jpg?k=f9e21b134cc84e4ee77b41d5941c46900705d0c92113141166a32958888094f4&o=&hp=1"\nlanguage: en\nslug: apartment-in-mali-i-robit-golem\naddress: "Mali i Robit , Golem / Number of apartment 13, Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.23572988\n  lng: 19.5176698\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435251965.jpg?k=f9e21b134cc84e4ee77b41d5941c46900705d0c92113141166a32958888094f4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/435249296.jpg?k=c061b1fd6942ac8b7b234ef69220098c4acd007f5859277babafb8b8ffe0134c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/435250828.jpg?k=746f873358a52e846c26ed23e67a69a48e8a2cee1d09c4422f1a745fbd4ba4c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/435250919.jpg?k=ba6a1d8c69002a4b1c1881c91f41ec35df7f87e3ab5f3598525bd40c63830bc5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/435251411.jpg?k=9c12f0f56ba9bf67a81d37c51238326be7cd7f37c50afff74692450365f20a0d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/435251495.jpg?k=dcb3a70d124d2d333470e26e206eb6ea5cc9e1970904e1f1e8f8e40a306aaa09&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Free parking"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Ujvara Hotel & Bar Restorant Piceri 100 m"\n  - "Te Berti Golem 150 m"\nnearbyBeaches:\n  - "Mali I Robit Beach 150 m"\n  - "Qerret Beach 700 m"\n  - "Golem Beach 1.4 km"\n  - "Shkëmbi i Kavajës Beach 3.3 km"\n  - "Durres Beach 6 km"\nwhatsNearby:\n  - "Durres Amphiteatre 10 km"\n  - "1. Maj 11 km"\n  - "Wine Dhe Pooh 11 km"\n  - "Yje Dhe Hena 11 km"\n  - "Bekimi 11 km"\n  - "Sheshi Demokracia 11 km"\n  - "Sotir Noka 11 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/apartment-in-mali-i-robit-golem.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of modern amenities, boasting air conditioning for those warm summer days, a flat-screen TV for entertainment, and a dining area perfect for enjoying meals prepared in the fully equipped kitchen. The inclusion of an oven and a comprehensive set of kitchenware ensures that guests can easily cater to their culinary needs, making it feel like a home away from home. Comfort is further enhanced with the provision of soft towels and crisp bed linen, promising a restful night's sleep in the cozy bedroom.
 
 For those looking to explore beyond the immediate comforts of their accommodation, the apartment's location serves as an ideal base. The historic Skanderbeg Square lies just 48 km away, offering a glimpse into the rich cultural tapestry of the area, while the Rock of Kavaje, located 6.1 km from the property, presents an opportunity for an adventurous day out. Additionally, the convenience of having Tirana International Mother Teresa Airport only 42 km away ensures a hassle-free travel experience to and from the apartment.
 
 With its combination of strategic location, thoughtful amenities, and a smoke-free environment, Apartment in Mali i Robit Golem is a compelling choice for travelers looking to experience the best of Golem in a comfortable, self-contained setting.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

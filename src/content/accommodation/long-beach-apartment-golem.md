@@ -1,30 +1,7 @@
----
-title: Long Beach Apartment Golem
-description: Guests are welcomed into a spacious apartment that promises not just a place to stay, but a home away from home. The apartment features a well-appointed bedroom
-featuredImage: "/images/accommodation/508606132.jpg"
-language: en
-slug: long-beach-apartment-golem
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into a spacious apartment that promises not just a place to stay, but a home away from home. The apartment features a well-appointed bedroom, a cozy living room for relaxation, and a balcony that offers tranquil garden views. Modern conveniences are at hand, including a flat-screen TV, a fully equipped kitchen with an oven and fridge, and a bathroom complete with a bidet. The addition of towels and bed linen ensures a comfortable and hassle-free experience. For those valuing their privacy and peace, the apartment's private entrance and soundproofing are thoughtful touches.
+---\ntitle: "Long Beach Apartment Golem"\ndescription: "Long Beach Apartment Golem emerges as a prime choice for travelers seeking a blend of comfort and convenience in Golem, positioned just moments away from the serene Mali I Robit Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508606132.jpg?k=1905e54a0720adf1e03fd821a0c0e378b3bade8b3f4934686f8a219b432a2f8a&o=&hp=1"\nlanguage: en\nslug: long-beach-apartment-golem\naddress: "Rruga Kryemedhenj, Golem 1, Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.2466527\n  lng: 19.5198708\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508606132.jpg?k=1905e54a0720adf1e03fd821a0c0e378b3bade8b3f4934686f8a219b432a2f8a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508606154.jpg?k=9f2215def5ed362d473714ab393c0294e4a69e610281ea4dcdd7cc5f58eae5b8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519132905.jpg?k=913345fa683bb4e65d8ffcd79f76b6144c6bb20bad0563ad3dcfe726546e7266&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508606159.jpg?k=e71c90947648aefb0642416f0dfb9dce8a2f8fb53a62c6149a6acb9780f5248e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519131996.jpg?k=cbc7d230a6859abd3d189a7848ae8341592557bc7c1c4e7b52c3f2466eb69aa7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519122727.jpg?k=11e61e4ac158254660492156c58e60396b85ea02cc355523adb4411d1d52f608&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519131363.jpg?k=90e25e5c48aae7018a8e28382ace3d1ba4abc10ccc49bd06de5afc69730cf077&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508606156.jpg?k=ac44bf3f7f462b97e99c2d8a375a619acd6e53b8ef92c9103b9ed681a52c9ca9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508606161.jpg?k=98a6d6efc9368f17d99b5b0ec499a1ee13c19cad9c7541e7c1b501906ec7cef8&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Alto Mare 200 m"\n  - "Pizza Valledoria 300 m"\nnearbyBeaches:\n  - "Mali I Robit Beach 20 m"\n  - "Golem Beach 150 m"\n  - "Qerret Beach 1.9 km"\n  - "Shkëmbi i Kavajës Beach 2.1 km"\n  - "Durres Beach 4.4 km"\nwhatsNearby:\n  - "Durres Amphiteatre 10 km"\n  - "1. Maj 10 km"\n  - "Bekimi 10 km"\n  - "Wine Dhe Pooh 10 km"\n  - "Yje Dhe Hena 10 km"\n  - "Sheshi Demokracia 10 km"\n  - "Sotir Noka 10 km"\nairports:\n  - "Tirana International Airport Mother Teresa 24 km"\nbookingURL: "https://www.booking.com/hotel/al/long-beach-apartment-golem.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into a spacious apartment that promises not just a place to stay, but a home away from home. The apartment features a well-appointed bedroom, a cozy living room for relaxation, and a balcony that offers tranquil garden views. Modern conveniences are at hand, including a flat-screen TV, a fully equipped kitchen with an oven and fridge, and a bathroom complete with a bidet. The addition of towels and bed linen ensures a comfortable and hassle-free experience. For those valuing their privacy and peace, the apartment's private entrance and soundproofing are thoughtful touches.
 
 The convenience extends beyond the apartment's walls. A minimarket on the premises caters to guests' everyday needs, adding an extra layer of ease to their stay. For explorations further afield, the apartment facilitates memorable adventures with its bicycle and car rental services, inviting guests to discover the local area at their own pace.
 
 Situated 2.4 km from the picturesque Qerret Beach and 46 km from the historic Skanderbeg Square, Long Beach Apartment Golem serves as an ideal base for both beach lovers and culture enthusiasts. The property is also conveniently located 40 km from Tirana International Mother Teresa Airport, making it an accessible retreat for international travelers.
 
 Long Beach Apartment Golem stands out as a compelling choice for those seeking a blend of serenity, convenience, and a touch of home in the heart of Golem.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

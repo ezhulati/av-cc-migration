@@ -1,26 +1,3 @@
----
-title: Odeon Residence Apartment Ardian
-description: Guests are welcomed into a meticulously designed apartment that boasts a single bedroom, a bathroom, and a kitchen equipped with everything needed for a self-su
-featuredImage: "/images/accommodation/482670780.jpg"
-language: en
-slug: odeon-residence-apartment-ardian
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into a meticulously designed apartment that boasts a single bedroom, a bathroom, and a kitchen equipped with everything needed for a self-sufficient stay. Entertainment needs are well catered to with the inclusion of a flat-screen TV, ensuring relaxation is always at hand. Unique to this property is the private entrance to each apartment, ensuring that privacy and exclusivity are guaranteed for every guest.
+---\ntitle: "Odeon Residence Apartment Ardian"\ndescription: "Odeon Residence Apartment Ardian emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, positioned within easy reach of both Ri Beach and Vlore Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482670780.jpg?k=57e6663bfa1152888293a76671515e6cbbaa97ebedc1b1572580b9e6a60cafea&o=&hp=1"\nlanguage: en\nslug: odeon-residence-apartment-ardian\naddress: "Rruga Amali Andoni, 9405 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4373204\n  lng: 19.49685599\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482670780.jpg?k=57e6663bfa1152888293a76671515e6cbbaa97ebedc1b1572580b9e6a60cafea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/482670754.jpg?k=719890175dfb7bbb5d3eb56330de9f8aa54aec7ef4f80de59dadbdabd4a2ceb4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/482670776.jpg?k=3725a475b91cece4fcb69d0de53bf256a542624dddafd1ba1e464c78562e3dcc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/482670786.jpg?k=0c24fdced244f92c0c93d304da14356ddd86c329e7f7938a99bd45fc77c684f9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/482670772.jpg?k=e1785d7a6b6747d41cd20852c3f1ac5a1e296bee5c2b6a77fb1cdd5207a6f681&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/482671226.jpg?k=a83964440d7b8090cf7afc86ad26cfdab61e0bdf6a0e731c54d7a289f1a8af22&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/482671201.jpg?k=841cc7a02c29f470ca86e87b40837a4cc7bf534cb4777130dba39c7e5bdab892&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Te Fabio 50 m"\n  - "Aurora Real 100 m"\nnearbyBeaches:\n  - "Ri Beach 250 m"\n  - "Vlore Beach 600 m"\n  - "Vjetër Beach 2.1 km"\n  - "Beach at Government Villas 2.1 km"\n  - "Liro Beach 2.8 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 150 m"\n  - "Kuzum Baba 3.4 km"\n  - "Independence Square 3.8 km"\nbookingURL: "https://www.booking.com/hotel/al/odeon-residence-apartment-ardian.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into a meticulously designed apartment that boasts a single bedroom, a bathroom, and a kitchen equipped with everything needed for a self-sufficient stay. Entertainment needs are well catered to with the inclusion of a flat-screen TV, ensuring relaxation is always at hand. Unique to this property is the private entrance to each apartment, ensuring that privacy and exclusivity are guaranteed for every guest.
 
 For those traveling to or from the capital, the Tirana International Mother Teresa Airport is located 153 km away, making Odeon Residence Apartment Ardian a convenient gateway or concluding stop on any Albanian adventure.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

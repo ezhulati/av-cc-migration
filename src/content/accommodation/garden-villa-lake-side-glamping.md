@@ -1,30 +1,7 @@
----
-title: Garden Villa Lake Side & Glamping
-description: Upon arrival, visitors are greeted by the sight of well-appointed rooms, each equipped with air conditioning, a flat-screen TV with cable channels, and complime
-featuredImage: "/images/accommodation/477838400.jpg"
-language: en
-slug: garden-villa-lake-side-glamping
-location: ""
-amenities: []
-images: []
----
-
-Upon arrival, visitors are greeted by the sight of well-appointed rooms, each equipped with air conditioning, a flat-screen TV with cable channels, and complimentary WiFi, ensuring comfort and connectivity throughout their stay. Select units elevate the experience further, boasting balconies or patios that offer breathtaking lake views and outdoor dining areas, perfect for those who appreciate nature's tranquility.
+---\ntitle: "Garden Villa Lake Side & Glamping"\ndescription: "Garden Villa Lake Side & Glamping emerges as a serene oasis in Ksamil, merely a stone's throw away from the pristine Ksamil Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477838400.jpg?k=8366978cae4fbbc896d7ed959bb89b79381d306a31fc79c7c5f3d36f1825c6d0&o=&hp=1"\nlanguage: en\nslug: garden-villa-lake-side-glamping\naddress: "Rruga Peshkatari, 6600 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "villa"\ncoordinates:\n  lat: 39.76848688\n  lng: 20.00592256\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 41\nratings:\n  overall: 7.9\n  location: 8.8\n  cleanliness: 6.9\n  facilities: 6.9\n  value: 7.3\n  comfort: 7\n  staff: 8.5\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477838400.jpg?k=8366978cae4fbbc896d7ed959bb89b79381d306a31fc79c7c5f3d36f1825c6d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/477838375.jpg?k=2ab2c3f825e4eb90517972c6bc320000bcd5323ca2ed16db63841a78d513d9f0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/477838220.jpg?k=ecc6357f3d7d8bf23de36c42fc20a1907f444881733e3eb96b3d54ca92593ec1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/477838195.jpg?k=d72aac9ac55d746a11514e744cbea109da5a103c641c8243ce0697db01fb7466&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/477838401.jpg?k=35a86dae7d0b315452b229352fb83a9c17eb198673159fe917d13ed5d8e1bbe3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/477838249.jpg?k=467d28f93fbbb42bf04a675affab7ce4649f195186d19702233c6bd73fa12287&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/477838163.jpg?k=f92ab97e6bce705a0e2e84d54c5ad680a6368b2c1c986c8eed21920cd881ec83&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nnearbyAttractions:\n  - "Museum of Banknotes 18 km"\n  - "New Fortress 18 km"\n  - "Serbian Museum 18 km"\n  - "Theotoki G. Square 18 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 19 km"\n  - "Trion Martiron Park 19 km"\n  - "Mon Repos Palace 19 km"\nnearbyRestaurants:\n  - "Grill House Gyros 200 m"\n  - "Momento Pizza 250 m"\nnearbyBeaches:\n  - "Ksamil Beach 550 m"\n  - "Ksamil Beach 9 600 m"\n  - "Bora Bora Beach 700 m"\n  - "Ksamil Beach 7 750 m"\n  - "Paradise Beach 850 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 300 m"\n  - "Butrint National Park 2.4 km"\n  - "Plazhi I Krorezes 3.5 km"\n  - "Parc National de Butrint 10 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 17 km"\n  - "Old Fortress 17 km"\nairports:\n  - "Corfu International Airport 19 km"\n  - "Ioannina Airport 69 km"\nbookingURL: "https://www.booking.com/hotel/al/garden-villa-lake-side.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nUpon arrival, visitors are greeted by the sight of well-appointed rooms, each equipped with air conditioning, a flat-screen TV with cable channels, and complimentary WiFi, ensuring comfort and connectivity throughout their stay. Select units elevate the experience further, boasting balconies or patios that offer breathtaking lake views and outdoor dining areas, perfect for those who appreciate nature's tranquility.
 
 Security is paramount at Garden Villa Lake Side & Glamping, with full-day monitoring paired with an outdoor fireplace, adding an extra layer of safety and ambiance. The convenience of free private parking is a boon for travelers arriving by car.
 
 For those keen on exploring the outdoors, the property is ideally situated. It serves as a gateway to a variety of activities, from hiking trails that invite adventure to the tranquil waters ideal for snorkeling and fishing, all within easy reach. The sun terrace and barbecue facilities provide perfect settings for unwinding after a day of exploration or simply soaking up the sun.
 
 Located just 600 meters from both Bora Bora Beach and Ksamil Beach 9, and with Corfu International Airport 93 km away, Garden Villa Lake Side & Glamping offers an accessible retreat for those looking to immerse themselves in the beauty of Ksamil while enjoying the comforts of a home away from home.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

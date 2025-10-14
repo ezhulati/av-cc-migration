@@ -1,26 +1,3 @@
----
-title: The Coastal Apartment
-description: Accommodating guests with two cozy bedrooms, the apartment is well-appointed with a fully equipped kitchen and a bathroom, making it an ideal home away from hom
-featuredImage: "/images/accommodation/483906752.jpg"
-language: en
-slug: the-coastal-apartment
-location: ""
-amenities: []
-images: []
----
-
-Accommodating guests with two cozy bedrooms, the apartment is well-appointed with a fully equipped kitchen and a bathroom, making it an ideal home away from home. The inclusion of towels and bed linen adds a touch of thoughtfulness to the overall experience.
+---\ntitle: "The Coastal Apartment"\ndescription: "The Coastal Apartment in Vlorë stands out as a prime choice for travelers seeking comfort and convenience, located just a short stroll from the serene Beach at Government Villas and the picturesque Liro Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483906752.jpg?k=79cc5fafa7e1b769a1658461f304b77ad3b829c5d318998e41386e277f37a472&o=&hp=1"\nlanguage: en\nslug: the-coastal-apartment\naddress: "Rruga Petro Marko, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.41606333\n  lng: 19.48583076\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 2\nratings:\n  overall: 9.4\n  location: 8.8\n  cleanliness: 8.8\n  facilities: 10\n  value: 8.8\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483906752.jpg?k=79cc5fafa7e1b769a1658461f304b77ad3b829c5d318998e41386e277f37a472&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483906853.jpg?k=5b4f7e906b873553f394f91679438eda38ac1b564bfbde6a26ace87de0ff43ad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483906877.jpg?k=a225f8b6fe2f0c00a2be239a43204c4c9d182b078c68191382880d5bb6a7282d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483906884.jpg?k=c6896b069d3c93ab3a350315e04e9663d66d42571899a0b6708a49a75c13da18&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483906822.jpg?k=c663671cc116e636bc289fa5c1c92742ba8d2d744c556ec799b91ecd66f5cc7b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483906847.jpg?k=490cd2b63006532d78f8f830ef8739d11913ad75f410f61ecc0e23ed23aef044&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483906840.jpg?k=172db178b863a991ce147f896f479082136dfd4f89e6f082d51f39ac2f9cca99&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483906818.jpg?k=fe28006fbabdb6f0c2e4b7b981942dc299b6eb7c128313da24877d2d96da481d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483906880.jpg?k=db1878ad598954a298c9be8a3afaee85c74a9298d8dcc6fac97bd7312caa351c&o=&hp=1"\namenities:\n  - "Swimming Pool"\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Perla E Jonit 30 m"\n  - "Movida 100 m"\nnearbyBeaches:\n  - "Beach at Government Villas 200 m"\n  - "Liro Beach 450 m"\n  - "Coco Bongo Beach 1.4 km"\n  - "Sunny Beach 1.6 km"\n  - "Ri Beach 1.7 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 2.4 km"\n  - "Kuzum Baba 6 km"\n  - "Independence Square 6 km"\nairports:\n  - "Corfu International Airport 96 km"\nreviews:\n  - name: "Anonymous"\n    country: "Romania"\n    text: "“The apartment was very clean and confortable. We had access to the pool(inside the residence) and the location is easy to find. The personal was nice and available in case you need something.”"\nbookingURL: "https://www.booking.com/hotel/al/the-coastal-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodating guests with two cozy bedrooms, the apartment is well-appointed with a fully equipped kitchen and a bathroom, making it an ideal home away from home. The inclusion of towels and bed linen adds a touch of thoughtfulness to the overall experience.
 
 Situated a mere 2.2 km from the vibrant Coco Bongo Beach, The Coastal Apartment also provides easy access to local landmarks such as Kuzum Baba and Independence Square, located 6.7 km and 6.9 km away, respectively. For international travelers, the convenience of Tirana International Mother Teresa Airport, positioned 156 km from the property, ensures a hassle-free connection to and from this charming coastal retreat.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

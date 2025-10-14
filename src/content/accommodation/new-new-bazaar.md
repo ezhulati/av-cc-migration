@@ -1,30 +1,9 @@
----
-title: New New Bazaar
-description: This air-conditioned 1-bedroom apartment is a haven of comfort, featuring a cozy living room equipped with a flat-screen TV offering cable channels, a fully equ
-featuredImage: "/images/accommodation/362469509.jpg"
-language: en
-slug: new-new-bazaar
-location: ""
-amenities: []
-images: []
----
-
-This air-conditioned 1-bedroom apartment is a haven of comfort, featuring a cozy living room equipped with a flat-screen TV offering cable channels, a fully equipped kitchen ready for your culinary exploits, and a bathroom complete with a hair dryer. For added convenience, towels and bed linen are thoughtfully provided, ensuring a comfortable stay.
+---\ntitle: "New New Bazaar"\ndescription: "Discover the charm of Tirana with a stay at New New Bazaar, a prime accommodation choice that boasts views of the serene inner courtyard."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362469509.jpg?k=945c938806ef513ae182ab80f944d6b0f2fd9c4b1fdad5594f71de0b52bd791a&o=&hp=1"\nlanguage: en\nslug: new-new-bazaar\naddress: "Rruga Qemal Stafa, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33042168\n  lng: 19.82345951\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 32\nratings:\n  overall: 9.4\n  location: 9.8\n  cleanliness: 9.2\n  facilities: 8.9\n  value: 9.2\n  comfort: 9.5\n  staff: 9.5\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362469509.jpg?k=945c938806ef513ae182ab80f944d6b0f2fd9c4b1fdad5594f71de0b52bd791a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362470385.jpg?k=dafed6f46b0650d398ae50ef19f431606614f7d92579c70232e1d0aabc910260&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362468365.jpg?k=7b4d10d5d665b13ba6e3513a6ee2c58761dff88b3807a20920ff798f31c0e72f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362467875.jpg?k=0c59fb3208feb06602cbab6518cc09f00493d9f44be9c9b6f070308c4c746c10&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362467948.jpg?k=ee45267b325debb196e8d2f7aae28c1985f55a6947e2a40844d643289b334dc6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362472060.jpg?k=078c77a2e8089101ba8176291094a5066423830b7b219d8e0c236db8cce59e8c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362467992.jpg?k=b6415bffd036f43ec86c3cf3d9dca12ea4b128f84dd7ac63830be5d38a367ad1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362470821.jpg?k=eae4744a90cd8c3e3eefb946c84ebc90cb8c96875510d9d62020221314eaeb8b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362472132.jpg?k=20864110a7b9346bed76e97006f20e899a9a143c29c3c5be31dbdc4a09a022f2&o=&hp=1"\namenities:\n  - "Private parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 700 m"\n  - "Rinia Park 750 m"\n  - "Former Residence of Enver Hoxha 1.2 km"\n  - "Grand Park of Tirana 2.1 km"\n  - "Bunk'Art 1 Museum 3.8 km"\nreviews:\n  - name: "Kayleigh"\n    country: "United Kingdom"\n    text: "“Everything was perfect, the host was really communicative and clear. The location is right in the bazar and the property was much bigger than pictured. I had to work and the WiFi was perfect. I would absolutely stay again.”"\n  - name: "Annalisa"\n    country: "United Kingdom"\n    text: "“The location was unbearable
+The apartment was super clean
+The hostess was exceptional”"\n  - name: "Aydin"\n    country: "Turkey"\n    text: "“Very good location clean and comfortable house.Super good host.Friendly and helpfull thanks for everything 🙏”"\nbookingURL: "https://www.booking.com/hotel/al/new-new-bazaar.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis air-conditioned 1-bedroom apartment is a haven of comfort, featuring a cozy living room equipped with a flat-screen TV offering cable channels, a fully equipped kitchen ready for your culinary exploits, and a bathroom complete with a hair dryer. For added convenience, towels and bed linen are thoughtfully provided, ensuring a comfortable stay.
 
 Beyond the confines of this inviting apartment, guests will find an array of facilities designed to enhance their stay. With private parking on site, free WiFi to keep you connected, an ATM, and a minimarket, every need is catered to with ease.
 
 For those keen to delve into the local culture, New New Bazaar is conveniently located near several of Tirana's most sought-after attractions. Take a leisurely stroll to Tanners' Bridge, shop to your heart's content at Toptani Shopping Centre, or enjoy an evening of exquisite performance at the National Theatre of Opera and Ballet of Albania. Moreover, with Tirana International Mother Teresa Airport just 15 km away, arriving and departing could not be simpler.
 
 New New Bazaar emerges as a top choice for travelers seeking a blend of convenience, comfort, and access to the rich tapestry of Tirana's offerings.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

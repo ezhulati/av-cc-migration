@@ -1,30 +1,8 @@
----
-title: Hotel Kanione
-description: Culinary enthusiasts will be delighted to find a restaurant on-site, specializing in Mediterranean cuisine, promising a gastronomic adventure with every meal. M
-featuredImage: "/images/accommodation/171469801.jpg"
-language: en
-slug: hotel-kanione
-location: ""
-amenities: []
-images: []
----
-
-Culinary enthusiasts will be delighted to find a restaurant on-site, specializing in Mediterranean cuisine, promising a gastronomic adventure with every meal. Moreover, guests arriving by car will appreciate the availability of free private parking, a thoughtful amenity that enhances the overall experience.
+---\ntitle: "Hotel Kanione"\ndescription: "Hotel Kanione, located in the serene town of Çerenisht, stands out as a beacon of comfort and elegance."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/171469801.jpg?k=2c17eaafe8a38ac88361a8d41524923722eee59dd1330a419577e1dace955e83&o=&hp=1"\nlanguage: en\nslug: hotel-kanione\naddress: "Rruga Hysen Zaloshnja, 5401 Çerenisht, Albania"\ncity: "Çerenisht"\nlocation: "Çerenisht"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.49304557\n  lng: 20.23210108\nprice: "US$58"\npriceFrom: 58\nstarRating: 4\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 327\nratings:\n  overall: 9.1\n  location: 9.2\n  cleanliness: 9.2\n  facilities: 8.7\n  value: 9.2\n  comfort: 9\n  staff: 9.4\n  wifi: 9.1\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/171469801.jpg?k=2c17eaafe8a38ac88361a8d41524923722eee59dd1330a419577e1dace955e83&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303083263.jpg?k=a0bff63a9ee6d5ae1f2511dffc38e789749f09ddce01b944b50795ca3063aa59&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303083262.jpg?k=92eb9784dcef3a706fd438f0f0c2ce48245b755b0981b0d276a44aaa5ba41cf8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303084524.jpg?k=6454cc36bd62b5ec276561a4862d7c9e6c9ae7337af086d85acbbefbd0f13841&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303083271.jpg?k=ab7202cf09004cd885d705baebe2247e18df43be15cfe81b37db0bc3257b9776&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303083270.jpg?k=40828fc07e2c6dcd90e95425f96950ce60a5014f39985c135b1a824b6823e981&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Standard Double Room"\n  - "Double or Twin Room"\n  - "Deluxe Double Room with Balcony"\n  - "Standard Suite"\n  - "Family Suite"\n  - "Suite with Mountain View"\n  - "Triple Room"\nnearbyRestaurants:\n  - "Kanione 20 m"\n  - "Bar Kafe \Turhani\\"\" 1.4 km"\nwhatsNearby:\n  - "Tomorr Mountain National Park 4.8 km"\n  - "Sheshi Tomorri 17 km"\nairports:\n  - "Ohrid Airport 86 km"\n  - "Kastoria National Airport 88 km"\nreviews:\n  - name: "Anne"\n    country: "United Kingdom"\n    text: "“Beautiful views, absolutely wonderful staff who made us feel at home.
+Comfy beds and nice balcony.”"\n  - name: "Klimoska"\n    country: "North Macedonia"\n    text: "“Great hotel, very clean, friendly staff, delicious breakfast. The prices for the drinks are very reasonable”"\n  - name: "Zoltán"\n    country: "Hungary"\n    text: "“The hotel is located outside the city, in a quiet environment, but easily accessible by car. Parking is free. The staff is nice, helpful and friendly. The equipment and cleanliness of the rooms are excellent. The refrigerator is clean and cools...”"\nbookingURL: "https://www.booking.com/hotel/al/kanione.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nCulinary enthusiasts will be delighted to find a restaurant on-site, specializing in Mediterranean cuisine, promising a gastronomic adventure with every meal. Moreover, guests arriving by car will appreciate the availability of free private parking, a thoughtful amenity that enhances the overall experience.
 
 Accommodations at Hotel Kanione are thoughtfully designed, featuring a wardrobe, a flat-screen TV, and, for select units, a balcony that offers a breath of fresh air and a glimpse of Çerenisht's beauty. The inclusion of a seating area in each room underscores the hotel's commitment to guest comfort, providing a cozy nook for relaxation and reflection.
 
 The hotel prides itself on its hospitable staff, available around the clock at the front desk, proficient in both English and Albanian, ensuring a seamless and welcoming experience for international and local guests alike.
 
 Situated 135 km from Ioannina Airport, Hotel Kanione presents itself as an accessible retreat, promising a memorable stay for those venturing to or through Çerenisht. Whether it's the allure of Mediterranean flavors, the promise of restful nights, or the convenience of modern amenities, this hotel caters to a wide array of preferences and needs, making it a standout choice for discerning travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

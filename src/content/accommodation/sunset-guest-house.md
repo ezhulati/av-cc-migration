@@ -1,30 +1,7 @@
----
-title: Sunset Guest house
-description: With its strategic location, guests are treated to the ease of exploring the local area, where the allure of the sea is just a short walk away. The property pri
-featuredImage: "/images/accommodation/137557945.jpg"
-language: en
-slug: sunset-guest-house
-location: ""
-amenities: []
-images: []
----
-
-With its strategic location, guests are treated to the ease of exploring the local area, where the allure of the sea is just a short walk away. The property prides itself on offering a range of facilities designed to enhance the stay of every guest. From a shared kitchen that caters to those who love to cook, to luggage storage space for ease of travel, and the essential free WiFi available throughout, Sunset Guest House ensures a seamless experience.
+---\ntitle: "Sunset Guest house"\ndescription: "Sunset Guest House emerges as a serene haven for travelers seeking both tranquility and convenience in the heart of Himare."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137557945.jpg?k=ea41c2d9919b6ab9801800ff8adb1f0df51a022494a2ef2250ef4387644a957a&o=&hp=1"\nlanguage: en\nslug: sunset-guest-house\naddress: "Rr. Shen Marina 12, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.10327514\n  lng: 19.74712603\nprice: "US$28"\npriceFrom: 28\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 274\nratings:\n  overall: 9.6\n  location: 9.7\n  cleanliness: 9.5\n  facilities: 9.2\n  value: 9.5\n  comfort: 9.5\n  staff: 9.9\n  wifi: 9.7\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137557945.jpg?k=ea41c2d9919b6ab9801800ff8adb1f0df51a022494a2ef2250ef4387644a957a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506592244.jpg?k=ec8fd24e550117173a1c10057604942cda4aaace73c73d3000033e1378dc1398&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507381085.jpg?k=10e0dc972e007e214856c137753dcff48fbbd1746d2b6d1314832d7773b42fb2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137887161.jpg?k=2e5ff050787e393fff2aa93cea72035bdcd8fa829bd494bd237b73321c6cb268&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/138967373.jpg?k=ed105011274d15fa57ce4a798f91f32254f3f5069bdf2bf03f6c81b7515a62ff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/188081501.jpg?k=8cb3bfd045641e69b421e8208867f6f6c3c333186f31311772241db099cc2258&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Studio"\nnearbyRestaurants:\n  - "Taverna Viron 150 m"\n  - "Pasticeri Delight 150 m"\nnearbyBeaches:\n  - "Spille Beach 300 m"\n  - "Maracit Beach 400 m"\n  - "Prinos Beach 600 m"\n  - "Potam Beach 1 km"\n  - "Livadhi Beach 1.4 km"\nwhatsNearby:\n  - "Llogora National Park 16 km"\nairports:\n  - "Corfu International Airport 56 km"\nreviews:\n  - name: "Myriam"\n    country: "Switzerland"\n    text: "“The owners are so nice ! the room was just like on the picture you have everything you need and close to bus and Spille beach”"\n  - name: "Mike"\n    country: "Netherlands"\n    text: "“The owners really did an effort to make us feel home. They gave us a welcome drink of home made raki. Really loved the room. Had everything you need.”"\n  - name: "John"\n    country: "United Kingdom"\n    text: "“Friendly. Quiet, peaceful location and still very close to town facilities. Nice view towards the mountains.”"\nbookingURL: "https://www.booking.com/hotel/al/sunset-guest-house.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nWith its strategic location, guests are treated to the ease of exploring the local area, where the allure of the sea is just a short walk away. The property prides itself on offering a range of facilities designed to enhance the stay of every guest. From a shared kitchen that caters to those who love to cook, to luggage storage space for ease of travel, and the essential free WiFi available throughout, Sunset Guest House ensures a seamless experience.
 
 The accommodations at Sunset Guest House are meticulously designed for comfort and privacy. Each unit boasts a private entrance and is soundproofed, guaranteeing a restful night's sleep. The charm of the place is further elevated by terraces that offer views of the inner courtyard, inviting guests to unwind in a serene setting. The presence of a fully equipped kitchen, an outdoor dining area, and private bathrooms with showers in every unit adds a touch of home. Moreover, the provision of bed linen and towels underscores the guest house's attention to detail.
 
-For those who relish outdoor living, the guest house's barbecue facilities provide the perfect excuse to enjoy the balmy weather and dine al fresco.
+For those who relish outdoor living, the guest house's barbecue facilities provide the perfect excuse to enjoy the balmy weather and dine al fresco. 
 
 Located less than 1 km from the captivating Prinos Beach and 143 km from Ioannina Airport, Sunset Guest House is not just a place to stay but a gateway to the enchanting landscapes and rich culture of Himare.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

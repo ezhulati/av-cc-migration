@@ -1,30 +1,7 @@
----
-title: Vila Sita
-description: Guests are welcomed into a space where every detail is catered to ensure a memorable stay. The property features a spacious balcony and a terrace, perfect for m
-featuredImage: "/images/accommodation/03bc324ed9f9cff39f9ab9be952f41f848d515e2.png"
-language: en
-slug: vila-sita
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into a space where every detail is catered to ensure a memorable stay. The property features a spacious balcony and a terrace, perfect for morning coffees or evening relaxation, amidst the backdrop of a well-manicured garden. Convenience is paramount at Vila Sita, with complimentary private parking and WiFi enhancing the guest experience.
+---\ntitle: "Vila Sita"\ndescription: "Vila Sita emerges as a serene retreat for travelers seeking a blend of comfort and convenience, complemented by a picturesque garden view."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-z/03bc324ed9f9cff39f9ab9be952f41f848d515e2.png"\nlanguage: en\nslug: vila-sita\naddress: "Rruga Muco Delo Apartament 55, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.466213\n  lng: 19.4685674\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 18\nratings:\n  overall: 9.2\n  location: 7.5\n  cleanliness: 9.6\n  facilities: 9.4\n  value: 9.4\n  comfort: 9.6\n  staff: 9.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-z/03bc324ed9f9cff39f9ab9be952f41f848d515e2.png"\n  - "https://cf.bstatic.com/static/img/flags/12/be/0ba6c3d43988f099040bcddb874fbd5434389efa.png"\n  - "https://graph.facebook.com/v2.9/10153977066479022/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"\n  - "https://cf.bstatic.com/static/img/flags/12/es/0bcb9025339e650f3fbbcfb64ac38edd46efe4f6.png"\n  - "https://lh3.googleusercontent.com/a-/AOh14GitMnd5egqapilXud61WUB0j79bkrWywlnza-QP=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"\n  - "https://graph.facebook.com/v2.9/2552289508114511/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/es/0bcb9025339e650f3fbbcfb64ac38edd46efe4f6.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-z/03bc324ed9f9cff39f9ab9be952f41f848d515e2.png"\n  - "https://cf.bstatic.com/static/img/flags/12/rs/f2eab0e7a8259fc3db34eb38096cb24d7c7e8f9b.png"\n  - "https://lh3.googleusercontent.com/a/AAcHTtdlh4acazscraJRzKn7B9rjluPp5Q2o_1ylzKQKAWQusAc=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/gr/da7e6131cc83f867d8f44137a902afce81580e57.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom House"\nnearbyRestaurants:\n  - "Love Beach 900 m"\n  - "Bar Restorant F. Feimi 950 m"\nnearbyBeaches:\n  - "Vjetër Beach 750 m"\n  - "Vlore Beach 2.9 km"\n  - "Narta Beach 3.7 km"\n  - "Ri Beach 4 km"\n  - "Beach at Government Villas 5 km"\nwhatsNearby:\n  - "Independence Square 2 km"\n  - "Kuzum Baba 2.1 km"\n  - "Scooby Doo Vlore 4 km"\nreviews:\n  - name: "Zubain"\n    country: "Belgium"\n    text: "“Very friendly and helpful staff, went above and beyond to help us and make us feel welcome. Studio very modern and very clean. Locationwise it would be best if you have a car and then it is ideally situated to explore the coast.”"\n  - name: "Michele"\n    country: "Italy"\n    text: "“Pulizia, cordialità dei proprietari, posto auto/moto privato, tranquillità, a dieci minuti dal centro in auto”"\n  - name: "Antonio"\n    country: "Spain"\n    text: "“Nuevo y muy agradable. La anfitriona muy amable, al verme llegar muy acalorado me invitó a una cerveza bien fría. Muy de agradecer. El sitio está muy bien, ideal si te mueves en coche.”"\nbookingURL: "https://www.booking.com/hotel/al/vila-sita.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into a space where every detail is catered to ensure a memorable stay. The property features a spacious balcony and a terrace, perfect for morning coffees or evening relaxation, amidst the backdrop of a well-manicured garden. Convenience is paramount at Vila Sita, with complimentary private parking and WiFi enhancing the guest experience.
 
 The holiday home itself is a testament to modern living, boasting air-conditioning for those warm summer days. It houses a separate bedroom, a bathroom, and a fully equipped kitchen, ensuring guests feel right at home. Entertainment needs are also met with the provision of a flat-screen TV.
 
 Located a mere 2.6 km from the historic Independence Square and 3.6 km from the iconic Kuzum Baba, Vila Sita serves as an ideal base for explorers keen to uncover the local sights. For those traveling further afield, Tirana International Mother Teresa Airport is conveniently 150 km away, making both arrivals and departures a breeze.
 
 Vila Sita stands out as a prime choice for those in pursuit of tranquility, comfort, and a touch of home, all wrapped up in the charm of its scenic surroundings.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

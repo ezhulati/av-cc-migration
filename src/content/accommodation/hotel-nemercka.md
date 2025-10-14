@@ -1,30 +1,7 @@
----
-title: Hotel Nemercka
-description: Accommodations at Hotel Nemercka are designed with guest comfort in mind, featuring air conditioning and flat-screen TVs in every room. Select accommodations al
-featuredImage: "/images/accommodation/476599140.jpg"
-language: en
-slug: hotel-nemercka
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Hotel Nemercka are designed with guest comfort in mind, featuring air conditioning and flat-screen TVs in every room. Select accommodations also offer breathtaking mountain views, allowing guests to wake up to the beauty of nature every morning.
+---\ntitle: "Hotel Nemercka"\ndescription: "Hotel Nemercka emerges as a serene oasis in Përmet, offering a harmonious blend of comfort and convenience with its well-appointed amenities."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476599140.jpg?k=c6b39cade559f0eac1392b3009cff5d51c72082b3a78e1385cfcc9c836329852&o=&hp=1"\nlanguage: en\nslug: hotel-nemercka\naddress: "695Q+7F5, SH75, Albania"\ncity: "Përmet"\nlocation: "Përmet"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.20818631\n  lng: 20.38866386\nprice: "US$37"\npriceFrom: 37\nstarRating: 3\nrating: 8.3\nratingWords: "Very Good"\nnumberOfReviews: 112\nratings:\n  overall: 8.3\n  location: 8.8\n  cleanliness: 9\n  facilities: 8.3\n  value: 8.7\n  comfort: 8.6\n  staff: 8.5\n  wifi: 6.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476599140.jpg?k=c6b39cade559f0eac1392b3009cff5d51c72082b3a78e1385cfcc9c836329852&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476597644.jpg?k=eaa98ba2c0d496cea47340a8361a04005356b4c20584f405622cf357973cd5e7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476551407.jpg?k=e56fe0445b5b4850da799bc61e98b8680c4e429e9cfdd0597239f224918c285c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475450852.jpg?k=3146be1ba1204a560f5bd7058edfe75059216c7277fcefcd58b96766d1e3720c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473939578.jpg?k=88c7a6ab98dec18777edd8f89bb295154b99e19b5224c60c87b06d3e4c1ba71a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475450868.jpg?k=3cc7293981265aee1f42c7d71012c24397e3495500c22c64928313039a41ca76&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Standard Triple Room"\n  - "Family Room with Mountain View"\n  - "Standard Twin Room"\n  - "King Room with Mountain View"\n  - "Triple Room"\n  - "Triple Room with Mountain View"\n  - "Deluxe Family Suite"\nnearbyRestaurants:\n  - "3diamonds 1.4 km"\n  - "Bar Kafe Relax 3.6 km"\nwhatsNearby:\n  - "Fir of Hotova National Park 18 km"\nairports:\n  - "Ioannina Airport 66 km"\n  - "Corfu International Airport 78 km"\n  - "Kastoria National Airport 79 km"\nreviews:\n  - name: "Beta"\n    country: "Albania"\n    text: "“Everything, the bed is so comfortable, the window view in the morning is really stunning 😍, staff is friendly and helpful ( we forgot our wallet and a guy brought it quickly to the car for us) very delicious breakfast, also the dinner, everything...”"\n  - name: "Edjon"\n    country: "Albania"\n    text: "“Everything was perfect, the staff, the rooms and the food also. It was very clean on every aspect and also very comfortable. The food was delicious and very well cooked. The portions were enough either for breakfast or dinner. I was happy with...”"\n  - name: "Kocjan"\n    country: "Slovenia"\n    text: "“Rooms, food ala carte and hotel outside ambiet were excellent.”"\nbookingURL: "https://www.booking.com/hotel/al/nemercka-permet1.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Hotel Nemercka are designed with guest comfort in mind, featuring air conditioning and flat-screen TVs in every room. Select accommodations also offer breathtaking mountain views, allowing guests to wake up to the beauty of nature every morning.
 
 The hotel prides itself on exceptional service, with a multilingual reception team available around the clock to assist guests with any needs or inquiries. Whether it's providing local recommendations or ensuring a smooth stay, the staff's dedication to guest satisfaction is evident.
 
 For those traveling with family, the children's playground is a welcome addition, ensuring entertainment for the younger guests.
 
 Located 85 km from Ioannina Airport, Hotel Nemercka serves as a convenient base for exploring the enchanting surroundings of Përmet or as a tranquil retreat for those seeking a peaceful getaway. With complimentary WiFi and private parking, guests can enjoy a hassle-free stay, making Hotel Nemercka a top choice for travelers seeking both leisure and adventure in the heart of Albania.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

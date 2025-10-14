@@ -1,30 +1,7 @@
----
-title: Lodges Shen Nikolla
-description: "With a commitment to convenience, Lodges Shen Nikolla ensures a hassle-free stay by providing complimentary private parking and WiFi, alongside a 24-h..."
-featuredImage: "/images/accommodation/259714300.jpg"
-language: en
-slug: lodges-shen-nikolla
-location: ""
-amenities: []
-images: []
----
-
-With a commitment to convenience, Lodges Shen Nikolla ensures a hassle-free stay by providing complimentary private parking and WiFi, alongside a 24-hour front desk ready to assist with luggage storage and currency exchange needs. The accommodation itself, a picturesque campground with captivating sea views, features a cozy bedroom and a well-appointed bathroom equipped with a shower, towels, and bed linen, promising a home away from home experience.
+---\ntitle: "Lodges Shen Nikolla"\ndescription: "Lodges Shen Nikolla emerges as a serene retreat in the vibrant heart of Dhërmi, merely a stone's throw away from the pristine Dhermi Beach and a short journey from the tranquil Palasa Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259714300.jpg?k=3e77e091bbce516fad8b4b0a1d8276bc3b6735efe3a8f119ec783af222eacf4c&o=&hp=1"\nlanguage: en\nslug: lodges-shen-nikolla\naddress: "Dhermi Beach, 9422 Dhërmi, Albania"\ncity: "Dhërmi"\nlocation: "Dhërmi"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.14505787\n  lng: 19.63083297\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 292\nratings:\n  overall: 7.5\n  location: 8.8\n  cleanliness: 7\n  facilities: 6.6\n  value: 7.1\n  comfort: 7\n  staff: 8.1\n  wifi: 7.7\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259714300.jpg?k=3e77e091bbce516fad8b4b0a1d8276bc3b6735efe3a8f119ec783af222eacf4c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259735395.jpg?k=3540c74365f0ccbb2563f70bab23f026bc11299de636423cdfe22d4400989a0f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259735471.jpg?k=9fb325865469ef2cd92ce8f5496e20592ef5f07a932684e1e8c439576233d645&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259714343.jpg?k=293ede551d5c362d67d79fd2e6c10a9b31b29a724c6b209a35e91988d0f50410&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259735358.jpg?k=4d58e0dc12462acc4fbe681793f1ea440ca0134f15883eb2a14028fff815c081&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259735453.jpg?k=0b5d725cb180cf5226090424484e2ff374d7e2fef780a91d036e18fed2b4298e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259714350.jpg?k=872df7533ce35620cad30f19b200ec2b9778075553946267dfca6d1df86629e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259735409.jpg?k=9e9a4c33a3db4a166831abdc57d4b8b973dfb033763264fe1991b3c798fabc63&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259735387.jpg?k=d11690a70da746d76105c3510f71a21e66b0d3091d560b386a4326a104176413&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Hotel 2000 , Bar Restorant , Piceri 100 m"\n  - "Splendor 200 m"\nnearbyBeaches:\n  - "Dhermi Beach 300 m"\n  - "Palasa Beach 1.1 km"\n  - "Gjipe Beach 3.8 km"\n  - "Nazar Beach 4.1 km"\n  - "Beach Me Shpella 4.5 km"\nwhatsNearby:\n  - "Llogora National Park 6 km"\nairports:\n  - "Corfu International Airport 64 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/camsite-shen-nikolla.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nWith a commitment to convenience, Lodges Shen Nikolla ensures a hassle-free stay by providing complimentary private parking and WiFi, alongside a 24-hour front desk ready to assist with luggage storage and currency exchange needs. The accommodation itself, a picturesque campground with captivating sea views, features a cozy bedroom and a well-appointed bathroom equipped with a shower, towels, and bed linen, promising a home away from home experience.
 
 Dining at the campground is a culinary journey, with a family-friendly restaurant that prides itself on its Mediterranean cuisine, available for both lunch and dinner. Guests can enjoy their meals in the outdoor dining area, making the most of the balmy Mediterranean climate.
 
 For those looking to explore beyond the serene confines of Lodges Shen Nikolla, the property's proximity to Ioannina airport, 162 km away, is complemented by the convenience of a paid airport shuttle service, ensuring seamless travel arrangements.
 
 Lodges Shen Nikolla stands out as a beacon of tranquility and comfort, offering an idyllic escape for those seeking a blend of relaxation and adventure by the sea.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

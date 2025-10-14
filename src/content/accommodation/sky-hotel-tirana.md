@@ -1,32 +1,7 @@
----
-title: Sky Hotel Tirana
-description: "Guests can enjoy the comfort of air-conditioned rooms, each adorned with plush carpets that add a touch of luxury underfoot."
-featuredImage: "/images/accommodation/118433439.jpg"
-language: en
-slug: sky-hotel-tirana
-location: ""
-amenities: []
-images: []
----
-
-Guests can enjoy the comfort of air-conditioned rooms, each adorned with plush carpets that add a touch of luxury underfoot. Entertainment is readily available through flat-screen TVs that provide a wide range of cable and satellite channels, ensuring that there's always something to watch. The attention to detail extends to the bathrooms, which are well-appointed with bathrobes and slippers, adding an extra layer of comfort to your stay.
+---\ntitle: "Sky Hotel Tirana"\ndescription: "Discover the elegance and convenience of Sky Hotel Tirana, a distinguished 4-star accommodation situated just a 10-minute stroll from the heart of the city's governmental district and the iconic Skanderberg Square."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/118433439.jpg?k=4a92289cca350ef4ddd8baf6250b821056c10d21c179e76235bf233207e8b071&o=&hp=1"\nlanguage: en\nslug: sky-hotel-tirana\naddress: "Street Ibrahim Rrugova, Building Sky Tower, nr 5, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.32234299\n  lng: 19.81780708\nprice: "US$97"\npriceFrom: 97\nstarRating: 4\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 327\nratings:\n  overall: 8.5\n  location: 9.4\n  cleanliness: 8.4\n  facilities: 7.8\n  value: 7.8\n  comfort: 8.6\n  staff: 8.5\n  wifi: 8.7\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/118433439.jpg?k=4a92289cca350ef4ddd8baf6250b821056c10d21c179e76235bf233207e8b071&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/119153011.jpg?k=25cce92cd1d4747d37ae998b8f4648c58c1a3ff59f135daa6ab6bb8d7936a20d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/118433491.jpg?k=b54a541837ced0d0265ff8e7526c75d702d2344165a06c766a193c66a761c066&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501558389.jpg?k=e4b57ec4d6d1d3bba57e3751ea43e0a55c892334626a6691185b4ec7d230c0ea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/118433430.jpg?k=9d7cc8f03a21eeb4840ac10cdb77075b68a49c50b1d2b6e33b89da4c0378f508&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/119156878.jpg?k=d5d297d25a620200107f494172d0058e31b4d2fa116144569560d37d06222a94&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Single Room"\n  - "Double Room"\n  - "Twin Room"\n  - "Deluxe Double Room"\n  - "One-Bedroom Suite"\n  - "Family Suite"\nnearbyAttractions:\n  - "National Museum of History Albania 800 m"\n  - "Tanners' Bridge 850 m"\n  - "Grand Park of Tirana 1.3 km"\n  - "Bunk'Art 1 Museum 4.7 km"\nnearbyRestaurants:\n  - "The Panoramic Bar & 3 m"\n  - "Abi Lounge 10 m"\nwhatsNearby:\n  - "Former Residence of Enver Hoxha 150 m"\n  - "Rinia Park 250 m"\n  - "Sheshi Rekreativ Piramida 300 m"\n  - "Shesh Rekreativ 350 m"\n  - "Parku Rinia 350 m"\n  - "National Gallery of Arts Tirana 500 m"\n  - "House of Leaves 500 m"\n  - "Parku Europa 600 m"\n  - "Skanderbeg Square 600 m"\n  - "Clock Tower Tirana 600 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Valmire"\n    country: "United States"\n    text: "“Room cleaning on a daily basis, staff was easy going and attentive. Big room for comfort and quiet for a goodnight sleep which felt very homey.”"\n  - name: "Andreas"\n    country: "France"\n    text: "“Large rooms
+Great location at the heart of the city nightlife
+Very convenient for sightseeing”"\n  - name: "Traboin"\n    country: "Bosnia and Herzegovina"\n    text: "“They remodeled the Hotel,they did great job,I liked it very much!!!”"\nbookingURL: "https://www.booking.com/hotel/al/sky.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests can enjoy the comfort of air-conditioned rooms, each adorned with plush carpets that add a touch of luxury underfoot. Entertainment is readily available through flat-screen TVs that provide a wide range of cable and satellite channels, ensuring that there's always something to watch. The attention to detail extends to the bathrooms, which are well-appointed with bathrobes and slippers, adding an extra layer of comfort to your stay.
 
 Connectivity is seamless throughout the hotel, with complimentary Wi-Fi ensuring that guests can stay connected with ease, whether it's for work or keeping in touch with loved ones. Additionally, the convenience of free parking on-site is a notable perk, removing any worries about finding a secure spot for your vehicle.
 
 Sky Hotel Tirana offers a blend of comfort, convenience, and luxury, making it an ideal choice for travelers seeking a memorable stay in the heart of Tirana.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

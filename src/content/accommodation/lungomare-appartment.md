@@ -1,26 +1,3 @@
----
-title: Lungomare appartment
-description: The apartment itself is a spacious retreat, accommodating guests with two well-appointed bedrooms, a flat-screen TV for entertainment, and a kitchen equipped wi
-featuredImage: "/images/accommodation/491829208.jpg"
-language: en
-slug: lungomare-appartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a spacious retreat, accommodating guests with two well-appointed bedrooms, a flat-screen TV for entertainment, and a kitchen equipped with modern amenities including an oven, microwave, washing machine, fridge, and stovetop. The outdoor dining area invites guests to savor their meals against the backdrop of captivating sea views, while cityscapes can be admired from the comfort of the apartment, adding to the property's appeal.
+---\ntitle: "Lungomare appartment"\ndescription: "Lungomare Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, positioned just a short 300-meter stroll from the pristine Vlore Beach and within easy reach of Ri Beach at 1."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491829208.jpg?k=a9fdd9f77049cecc596260635b99addc33290009ced4dd8a3f1984b141668aec&o=&hp=1"\nlanguage: en\nslug: lungomare-appartment\naddress: "Rruga Leka Gjiknuri, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44770076\n  lng: 19.49619443\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491829208.jpg?k=a9fdd9f77049cecc596260635b99addc33290009ced4dd8a3f1984b141668aec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489703922.jpg?k=27bd0b81eb23db4ad9a13e5a29b9887432fae2a4e5069f9c6578f407be8ab94c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491829450.jpg?k=83b8a75f0a3e497c478036877a2a5c3eb78625aa0eb9c0368d1c20436701214e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491829533.jpg?k=c3c558b350d228c7955bbd8c0e48c5c72045f5e8018a8814b4d65d11b62ad65c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475731314.jpg?k=db7e5f0f3c81aa25160af8b5036be7793b0fcda39b78ee4bea3f9747f8cbd561&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489703343.jpg?k=eab05f6e882bc036b23f4fa962f45223cba1e61be2c447e292b99db5f7067a44&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475731320.jpg?k=c96844a8ba550f97454621274946033ec49587177e0daa879fa2c61f5761c199&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491829557.jpg?k=db708d0a2b355c66ed13d75cebcfcc30bcb7f6b3a3a2061249aba13f25746af1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494670236.jpg?k=07b95bd6c6a2f448c950df363d8234ae9f72c5a18594b3f1aceb685c73207367&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nnearbyRestaurants:\n  - "Patio 150 m"\n  - "Tradicional Zgara 200 m"\nnearbyBeaches:\n  - "Vlore Beach 200 m"\n  - "Vjetër Beach 1.3 km"\n  - "Ri Beach 1.4 km"\n  - "Beach at Government Villas 3.2 km"\n  - "Liro Beach 3.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.3 km"\n  - "Kuzum Baba 2.2 km"\n  - "Independence Square 2.6 km"\nbookingURL: "https://www.booking.com/hotel/al/lungomare-appartment-vlore2.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a spacious retreat, accommodating guests with two well-appointed bedrooms, a flat-screen TV for entertainment, and a kitchen equipped with modern amenities including an oven, microwave, washing machine, fridge, and stovetop. The outdoor dining area invites guests to savor their meals against the backdrop of captivating sea views, while cityscapes can be admired from the comfort of the apartment, adding to the property's appeal.
 
 For those who enjoy a good drink, the convenience of an on-site bar enhances the stay, providing a spot to unwind after a day of exploration. Situated 2.9 km from Independence Square, Lungomare Apartment also offers ease of access to further local attractions. For international travelers, the Tirana International Mother Teresa Airport is located 152 km away, making the apartment a feasible option for both domestic and overseas visitors looking for a memorable stay in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

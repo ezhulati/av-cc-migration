@@ -1,30 +1,7 @@
----
-title: Ayden 2
-description: Guests of Ayden 2 are treated to the luxury of a private balcony, where the soothing sounds of the sea can be enjoyed without leaving the comfort of the apartme
-featuredImage: "/images/accommodation/460037662.jpg"
-language: en
-slug: ayden-2
-location: ""
-amenities: []
-images: []
----
-
-Guests of Ayden 2 are treated to the luxury of a private balcony, where the soothing sounds of the sea can be enjoyed without leaving the comfort of the apartment. The inclusion of complimentary private parking and WiFi adds to the seamless experience, making it an effortless choice for both short and extended stays.
+---\ntitle: "Ayden 2"\ndescription: "Ayden 2 emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë, positioned just 200 meters from the pristine Vlore Beach and a short distance from the vibrant Ri Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460037662.jpg?k=643075c7cc1bc5920ec21e54bc80d44e2e87096b98bb3badf64e53ab7703a44d&o=&hp=1"\nlanguage: en\nslug: ayden-2\naddress: "Rruga Shaban Demiraj, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4485207\n  lng: 19.4944889\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nrating: 5\nratingWords: "Below Average"\nnumberOfReviews: 2\nratings:\n  overall: 5\n  location: 6.3\n  cleanliness: 5\n  facilities: 5\n  value: 5\n  comfort: 3.8\n  staff: 5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460037662.jpg?k=643075c7cc1bc5920ec21e54bc80d44e2e87096b98bb3badf64e53ab7703a44d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/460037797.jpg?k=c63ea2adfa41bd4bbe0705cebe042dff8d0f32fbc5a0df0bfab46dee178b5eba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/460037801.jpg?k=de067978d47e41565d863e5d51efa2997ed3f08dde24600d076f58ea6521ef9a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/460037755.jpg?k=eae2e8ee6aca8466cf30bee626abce19f6706a3fccbacc3c620c0df97d3025e1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/460037767.jpg?k=ac9d5ebb6ca43f541eeafe3977424d6305bb73b7119d2833980a077a347b2971&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/460037779.jpg?k=89881c2cb0747be2a0c88f93dbe03c1150018e8cfe00f2ef37f1dc63d559de7d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/460037789.jpg?k=d29c09537357bcf2aad696ed13e1df73fe2de2e43b4310a7076f8f76154cc69b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/460037808.jpg?k=b8610db5d7a13cf4f181ecf2437ff41287e321cf8c6d993585384250656b474a&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Tradicional Zgara 50 m"\n  - "Patio 150 m"\nnearbyBeaches:\n  - "Vlore Beach 150 m"\n  - "Vjetër Beach 1.2 km"\n  - "Ri Beach 1.4 km"\n  - "Beach at Government Villas 3.2 km"\n  - "Liro Beach 3.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.4 km"\n  - "Kuzum Baba 2.1 km"\n  - "Independence Square 2.5 km"\nbookingURL: "https://www.booking.com/hotel/al/ayden-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests of Ayden 2 are treated to the luxury of a private balcony, where the soothing sounds of the sea can be enjoyed without leaving the comfort of the apartment. The inclusion of complimentary private parking and WiFi adds to the seamless experience, making it an effortless choice for both short and extended stays.
 
 The apartment itself is a study in comfort and convenience, featuring a spacious living room, air conditioning for those warm Mediterranean days, and a flat-screen TV for entertainment. With one bedroom, it presents an ideal retreat for couples or solo travelers looking for a peaceful getaway.
 
 Situated a mere 1.8 km from the scenic Vjetër Beach and 2.7 km from the historic Kuzum Baba, Ayden 2 offers guests the opportunity to explore the rich cultural tapestry and natural beauty of Vlorë. For those traveling from afar, the Tirana International Mother Teresa Airport is 151 km away, making Ayden 2 an accessible haven for international and domestic visitors alike.
 
 In summary, Ayden 2 stands out as a top-tier accommodation choice for those desiring a blend of comfort, convenience, and the beauty of Albania's coastal landscape.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

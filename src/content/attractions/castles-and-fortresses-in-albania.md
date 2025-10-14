@@ -7,6 +7,9 @@ featuredImage: /images/attractions/castles-and-fortresses-in-albania.jpg
 images: []
 language: en
 slug: castles-and-fortresses-in-albania
+seo:
+  metaTitle: "Discover %title% "
+  metaDescription: "Discover the epic and storied castles and fortresses of Albania. Explore the history and significance of 20+ fortifications and what you need to know to visit."
 ---
 
 Historic Architecture
@@ -311,10 +314,3 @@ Albania’s castles and fortresses now serve as conduits to the past, allowing v
 
 They provide both scenic beauty and cultural enlightenment.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

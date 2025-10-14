@@ -41,10 +41,3 @@ Can you visit the Onufri Iconographic Museum?
 
 Yes, the Onufri Iconographic Museum is open to the public and is a popular tourist destination in Albania.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

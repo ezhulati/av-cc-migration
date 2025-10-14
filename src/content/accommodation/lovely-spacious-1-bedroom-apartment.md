@@ -1,34 +1,7 @@
----
-title: Lovely spacious 1-Bedroom Apartment
-description: The apartment stands out for its thoughtful amenities, including air conditioning, ensuring a comfortable stay regardless of the weather. Guests will appreciate
-featuredImage: "/images/accommodation/527834845.jpg"
-language: en
-slug: lovely-spacious-1-bedroom-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment stands out for its thoughtful amenities, including air conditioning, ensuring a comfortable stay regardless of the weather. Guests will appreciate the convenience of free WiFi, a necessity for both leisure and business travelers. The living space is equipped with a cable flat-screen TV, perfect for unwinding after a day of exploration. Additionally, the presence of a washing machine adds a touch of home comfort, while the fully equipped kitchen, complete with an oven and fridge, invites guests to prepare their meals, making it an excellent choice for longer stays.
+---\ntitle: "Lovely spacious 1-Bedroom Apartment"\ndescription: "Discover the charm of Kashar with a stay at the 2# Lovely Spacious 1-Bedroom Apartment, a prime choice for travelers seeking comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527834845.jpg?k=647e9700401bf26db726d417fdce437618764336c24a99a2cb0dd01771b1090a&o=&hp=1"\nlanguage: en\nslug: lovely-spacious-1-bedroom-apartment\naddress: "Rruga 3 Deshmoret, 1001 Kashar, Albania"\ncity: "Kashar"\nlocation: "Kashar"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32545134\n  lng: 19.77689204\nprice: "US$23"\npriceFrom: 23\nstarRating: 4\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527834845.jpg?k=647e9700401bf26db726d417fdce437618764336c24a99a2cb0dd01771b1090a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/527834986.jpg?k=742c06b969eadf5275ada68f8237d7929597e518fa0bd182151bee026836c5f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/527834993.jpg?k=d0b97bf7f1d9d3f11b08f8d29d6de98a175f1ae9329c9b5b3c87b207a771bebd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/527834998.jpg?k=4d651460ec6ed9933627c33b7f54da274fbae59be04ae8aee582c7b2cc9d7ce9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/527835003.jpg?k=469a7ab51a8163fe68834f547a971b8e9c14efcc631e4024a1dd077e709b6a17&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/527835009.jpg?k=86289057c8f83bf31d99b1785402ec924b51f7e9081b38f50e1336efde1d62d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/527835013.jpg?k=04df3fa83b114b6fd37021e39b3c48fbc38aca1ef9a6e6dee2423adb063920d5&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 3.3 km"\n  - "National Museum of History Albania 3.4 km"\n  - "Former Residence of Enver Hoxha 3.4 km"\n  - "Rinia Park 3.5 km"\n  - "Skanderbeg Square 3.6 km"\n  - "Clock Tower Tirana 3.6 km"\n  - "National Gallery of Arts Tirana 3.7 km"\n  - "Tanners' Bridge 4.1 km"\n  - "Grand Park of Tirana 4.3 km"\n  - "Bunk'Art 1 Museum 8 km"\nnearbyRestaurants:\n  - "Coffee Toffee 100 m"\n  - "Pizza Italia Yzb 200 m"\nwhatsNearby:\n  - "Shesh Rekreativ Yzberisht 750 m"\n  - "Park Lojrash 800 m"\n  - "Sheshi Rekreativ Pallati me Shigjeta 1.3 km"\n  - "Sheshi Xhuzepe Garibaldi 1.5 km"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 1.6 km"\n  - "Sheshi Rekreativ Kombinat 1.6 km"\n  - "Sheshi Rekreativ Parku 1Km 1.7 km"\n  - "Sheshi Rekreativ Bajram Curri 1.8 km"\n  - "Sheshi Rekreativ Sali Butka 1.9 km"\n  - "Sheshi Rekreativ Lord Bajron 1.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 9 km"\n  - "Ohrid Airport 82 km"\nbookingURL: "https://www.booking.com/hotel/al/2-lovely-spacious-1-bedroom-apart.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nThe apartment stands out for its thoughtful amenities, including air conditioning, ensuring a comfortable stay regardless of the weather. Guests will appreciate the convenience of free WiFi, a necessity for both leisure and business travelers. The living space is equipped with a cable flat-screen TV, perfect for unwinding after a day of exploration. Additionally, the presence of a washing machine adds a touch of home comfort, while the fully equipped kitchen, complete with an oven and fridge, invites guests to prepare their meals, making it an excellent choice for longer stays.
 
 Attention to detail is evident in the provision of towels and bed linen, highlighting the apartment's commitment to guest comfort. Although the property maintains a non-smoking policy, ensuring a fresh environment for all guests, it also offers the convenience of a lift, making it accessible to everyone.
 
 Situated 41 km from the Rock of Kavaje, the apartment is also conveniently close to other attractions, including the Former Residence of Enver Hoxha, 6.1 km away. For those interested in history, the House of Leaves is just 4.2 km from the property, while Rinia Park, 4.4 km away, offers a serene escape into nature.
 
 Travelers will find the Tirana International Mother Teresa Airport to be conveniently located 12 km from the apartment, facilitating easy arrivals and departures. The 2# Lovely Spacious 1-Bedroom Apartment emerges as a top selection for those seeking a blend of comfort, convenience, and the opportunity to immerse themselves in the local culture of Kashar.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

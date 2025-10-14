@@ -5,11 +5,14 @@ region: Southern Albania
 featuredImage: /images/destinations/ksamil.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: ksamil
 highlights: []
+seo:
+  metaDescription: "Experience the breathtaking beauty of Ksamil with our diverse category listing. Find the best attractions and activities here."
 ---
 
 A Growing Beach Destination
@@ -275,10 +278,3 @@ Ksamil offers an engaging mix of beach life, history, and a glimpse into Albania
 
 While it’s no longer an undiscovered gem, it provides a unique blend of natural beauty, developed infrastructure, and a taste of Albanian culture, all at a reasonable price by Mediterranean standards.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

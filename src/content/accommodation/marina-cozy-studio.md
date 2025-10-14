@@ -1,30 +1,3 @@
----
-title: Marina Cozy Studio
-description: "Guests of Marina Cozy Studio are treated to the luxury of modern amenities in a soundproof setting, ensuring a peaceful stay amidst the city's buzz."
-featuredImage: "/images/accommodation/527525872.jpg"
-language: en
-slug: marina-cozy-studio
-location: ''
-amenities: []
-images: []
----
-
-Guests of Marina Cozy Studio are treated to the luxury of modern amenities in a soundproof setting, ensuring a peaceful stay amidst the city's buzz. The studio is well-appointed with a flat-screen TV equipped with streaming services, a fully equipped kitchen that includes a fridge and stovetop, and a bathroom complete with a bidet. The provision of towels and bed linen adds a touch of home comfort to the space. Notably, the apartment prides itself on being allergy-free and strictly non-smoking, catering to the well-being of all guests.
+---\ntitle: "Marina Cozy Studio"\ndescription: "Marina Cozy Studio emerges as a serene retreat in the vibrant city of Vlorë, strategically positioned to offer both tranquility and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527525872.jpg?k=b22b14f3a8f91d22018c46504b32189f2ba1e161b69219735dba37218a1445ae&o=&hp=1"\nlanguage: en\nslug: marina-cozy-studio\naddress: "Rruga Aleksandër Moisiu, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.41558428\n  lng: 19.48474626\nprice: "US$15"\npriceFrom: 15\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527525872.jpg?k=b22b14f3a8f91d22018c46504b32189f2ba1e161b69219735dba37218a1445ae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527525887.jpg?k=b6c81844a7d75aed76b090d39b9b36c9482ffeece052cfcd154ef2be8e465510&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527525837.jpg?k=38edd2ebb0ee10aaaa28189d39103b11a1a14281e236fee8ebe5a8a344d7a2e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527525884.jpg?k=a9e747b538ded6f7aea1b66936818e0a4362b0a1533f8b2509363eb7cba9883a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527528318.jpg?k=0a5b354ebd73028d71705f6bc0dfdfc9826b9fcc54c86f263c8606f31eb444cb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527525882.jpg?k=77daa9eed518fca7d242a4cfb905d76f679e1aa545290dc577593dfddfba30c2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527525871.jpg?k=fce8e99216934b759b05c5a4ad739c5a49b9b00033578bc7ed1a814a5294ea29&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527525854.jpg?k=2adb06adb786bd523efeb3e94d71dbf2ecf6788f8973cffad5636e07be6b7799&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527525876.jpg?k=d80e1b94f84a9c57fc334f4cfc111e9734dab8cde92d9a4e234b1318e84c0f99&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Taverna Djepi 20 m"\n  - "Mandarine 100 m"\nnearbyBeaches:\n  - "Beach at Government Villas 250 m"\n  - "Liro Beach 350 m"\n  - "Coco Bongo Beach 1.3 km"\n  - "Sunny Beach 1.5 km"\n  - "Ri Beach 1.8 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 2.5 km"\n  - "Kuzum Baba 6 km"\n  - "Independence Square 6 km"\nairports:\n  - "Corfu International Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/marina-cozy-studio.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests of Marina Cozy Studio are treated to the luxury of modern amenities in a soundproof setting, ensuring a peaceful stay amidst the city's buzz. The studio is well-appointed with a flat-screen TV equipped with streaming services, a fully equipped kitchen that includes a fridge and stovetop, and a bathroom complete with a bidet. The provision of towels and bed linen adds a touch of home comfort to the space. Notably, the apartment prides itself on being allergy-free and strictly non-smoking, catering to the well-being of all guests.
 
 The convenience extends beyond the apartment's walls, with complimentary WiFi and private parking on site, removing any worries about connectivity and vehicle security. For those looking to explore beyond the local area, Tirana International Mother Teresa Airport is accessible, located 156 km away, making Marina Cozy Studio an ideal base for both short and extended stays in Vlorë. Whether it's for leisure or a peaceful escape, this studio promises a stay that combines comfort with the charm of coastal Albania.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

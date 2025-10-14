@@ -1,28 +1,6 @@
----
-title: JB Hotel
-description: Accommodations at JB Hotel are thoughtfully designed, featuring cable TV, a balcony, and a refrigerator in each room. The en-suite bathrooms are equipped with s
-featuredImage: "/images/accommodation/68677502.jpg"
-language: en
-slug: jb-hotel
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at JB Hotel are thoughtfully designed, featuring cable TV, a balcony, and a refrigerator in each room. The en-suite bathrooms are equipped with showers, complimentary toiletries, and slippers, enhancing the comfort of your stay. Guests are treated to breathtaking views of the sea and mountains, adding a picturesque backdrop to their accommodation.
+---\ntitle: "JB Hotel"\ndescription: "JB Hotel emerges as a charming retreat in the vibrant tourist town of Sarandë, offering guests a blend of comfort and convenience with its outdoor pool and on-site restaurant."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/68677502.jpg?k=da19b8733c8d6b4a973ad90ce298c19e744a340aa9a6c091ec90635754a087f1&o=&hp=1"\nlanguage: en\nslug: jb-hotel\naddress: "Rr.Skenderbeu L.Nr.1, 9700 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.869358\n  lng: 20.019254\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 331\nratings:\n  overall: 8.2\n  location: 7.9\n  cleanliness: 8.6\n  facilities: 8.1\n  value: 8.6\n  comfort: 8.4\n  staff: 9\n  wifi: 7.1\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/68677502.jpg?k=da19b8733c8d6b4a973ad90ce298c19e744a340aa9a6c091ec90635754a087f1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201701659.jpg?k=d6e3e5a237e29971c4c34a3408d3d98ee9b8893592ad83f923171c688be54875&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/116026110.jpg?k=b59e326d1eed0786a46fa8d246bbed1509c79a161b3c167e82750917ac5725d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201701689.jpg?k=526defb426ba93c9a5abdbfa3d1c0f5ab314fa6a62e8877aeb51c31613cfa5a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/128151577.jpg?k=75b802a097fc0e21fd0a81f0fc9abbbd58d8d6e8dd133326a71e2d6a783408a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/34614189.jpg?k=a405a38960164552371e3383aa29bd7d806c0cb5d06102783c90489cf0bba21e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/128151175.jpg?k=456a603f941f0fe1b3baf09709818c1c6b368f63a9aac3de6f5deddbb8d6654d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/70025388.jpg?k=706da0f062b58815fa92011ff08f407d52abd98d92359e5e39540fc7575e5222&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466054758.jpg?k=bb32069c75d2b9b58cd2c144e0e1e8cee24597314b135092d5b2046486e11ac8&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\n  - "Bar"\n  - "Good breakfast"\nnearbyRestaurants:\n  - "Kafe Bar Joana 100 m"\n  - "Pizzeri Mejdani 250 m"\nnearbyBeaches:\n  - "Maestral Beach 400 m"\n  - "La Petite Beach 400 m"\n  - "Saranda City Beach 550 m"\n  - "VIP Beach 1.1 km"\n  - "Santa Quaranta Beach 1.2 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.2 km"\n  - "Butrint National Park 2.2 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Lenka"\n    country: "United Kingdom"\n    text: "“Everything was great at this hotel.. amazing staff that is friendly and makes customers feel welcome.”"\n  - name: "Naoufal"\n    country: "Spain"\n    text: "“Everything , the family is so cute , everything was perfect”"\n  - name: "Darko"\n    country: "Bosnia and Herzegovina"\n    text: "“Excellent location, clean rooms, hospitable hosts, good prices !
+I strongly recommend this hotel”"\nbookingURL: "https://www.booking.com/hotel/al/jb.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at JB Hotel are thoughtfully designed, featuring cable TV, a balcony, and a refrigerator in each room. The en-suite bathrooms are equipped with showers, complimentary toiletries, and slippers, enhancing the comfort of your stay. Guests are treated to breathtaking views of the sea and mountains, adding a picturesque backdrop to their accommodation.
 
 Beyond the comfort of the rooms, JB Hotel boasts a garden and terrace for relaxation, alongside a shared lounge area, perfect for socializing or unwinding. For those intrigued by history and nature, the UNESCO-protected Butrint National Park is a short journey away, offering a glimpse into ancient Roman ruins set against a dramatic landscape, just 26 km from the hotel.
 
 For international travelers, Corfu International Airport is accessible, located 117 km away, with ferry connections available from the coastal city of Igoumenitsa. JB Hotel stands out as an ideal choice for travelers seeking a blend of leisure and exploration in Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,10 @@
----
-title: Vila Bali
-description: The interior of Vila Bali is designed to cater to the needs of modern travelers. Air-conditioned rooms, complimentary private parking, and seamless WiFi connect
-featuredImage: "/images/accommodation/451655901.jpg"
-language: en
-slug: vila-bali
-location: ""
-amenities: []
-images: []
----
-
-The interior of Vila Bali is designed to cater to the needs of modern travelers. Air-conditioned rooms, complimentary private parking, and seamless WiFi connectivity are standard across all units. The living spaces are thoughtfully arranged with a cozy seating area, ample storage in the form of a wardrobe, and the privacy of an en-suite bathroom, making it an ideal retreat for both short and extended stays.
+---\ntitle: "Vila Bali"\ndescription: "Vila Bali emerges as a distinguished choice for travelers seeking comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451655901.jpg?k=21b69c3b38c352ae15b810ceeb204448bb6370448da6a981b9499d052a136805&o=&hp=1"\nlanguage: en\nslug: vila-bali\naddress: "Kongresi i lushnjes 38, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31915027\n  lng: 19.4995945\nprice: "US$42"\npriceFrom: 42\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 47\nratings:\n  overall: 9.2\n  location: 8\n  cleanliness: 9.8\n  facilities: 9.1\n  value: 9.7\n  comfort: 9.3\n  staff: 9.9\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451655901.jpg?k=21b69c3b38c352ae15b810ceeb204448bb6370448da6a981b9499d052a136805&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451650867.jpg?k=d12673f1b35b27904906faf31ed67eab991685e43de3e0f9f454d3dca006935b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449164114.jpg?k=f8eb3ce8300a75fd90b7331d70a40c7b41f0af01fb30aa4f430c17292b158720&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451650854.jpg?k=cb4d5d7532f626157a0176466640f926f74277a4259d2698e20c0b6b8f411153&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451650856.jpg?k=2bbd740cd4386df2690f401781384f71ee1bd8eb117228e79ec23aa3286fa15b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449164131.jpg?k=126110486498bdfb5a07b8679ef032e8b09af92f45ef81ca420c4e89dabcdd00&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Milano Caffe 700 m"\n  - "Rexhi 1.2 km"\nnearbyBeaches:\n  - "Durres Beach 1.6 km"\n  - "Shkëmbi i Kavajës Beach 3.8 km"\n  - "Currila Beach 4.6 km"\n  - "Kallmi Beach 6 km"\n  - "Golem Beach 6 km"\nwhatsNearby:\n  - "Bekimi 2 km"\n  - "Sheshi Demokracia 4.3 km"\n  - "Wine Dhe Pooh 4.3 km"\n  - "Yje Dhe Hena 4.4 km"\n  - "Sotir Noka 4.4 km"\n  - "Durres Amphiteatre 4.6 km"\n  - "1. Maj 4.8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 20 km"\nreviews:\n  - name: "Christos"\n    country: "Greece"\n    text: "“Very warm welcoming people, made us feel like home and helped with everything.
+Very fast communication through instant text app.
+Clean and comfortable beds for 7 people
+Very quiet in the night”"\n  - name: "Tatjana"\n    country: "Slovenia"\n    text: "“Lovely flat, not too far from the beach, close to the shops, very nice owners. We only stayed one night.”"\n  - name: "Filip"\n    country: "Poland"\n    text: "“good location, fresh house and so helpful host, best in Durres🤝🤝🤝”"\nbookingURL: "https://www.booking.com/hotel/al/vila-bali.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe interior of Vila Bali is designed to cater to the needs of modern travelers. Air-conditioned rooms, complimentary private parking, and seamless WiFi connectivity are standard across all units. The living spaces are thoughtfully arranged with a cozy seating area, ample storage in the form of a wardrobe, and the privacy of an en-suite bathroom, making it an ideal retreat for both short and extended stays.
 
 For moments of tranquility, guests are invited to unwind in the serene garden, a perfect spot for relaxation after a day of exploration.
 
 Located just a short drive from the vibrant Durres Beach and within manageable distance from the historic Skanderbeg Square, Vila Bali offers a strategic base for guests looking to explore the local sights. Moreover, its proximity to Tirana International Mother Teresa Airport, situated 31 km away, adds to its appeal for international travelers.
 
 Vila Bali is not just an accommodation; it's a gateway to experiencing the charm and history of Durrës, making it a top recommendation for those planning a visit to this captivating city.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

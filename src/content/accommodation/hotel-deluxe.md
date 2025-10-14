@@ -1,15 +1,5 @@
----
-title: Hotel Deluxe
-description: Each room at Hotel Deluxe is thoughtfully designed with guest comfort in mind, featuring air conditioning, a private bathroom, and complimentary WiFi. The inclu
-featuredImage: "/images/accommodation/122791634.jpg"
-language: en
-slug: hotel-deluxe
-location: ""
-amenities: []
-images: []
----
-
-Each room at Hotel Deluxe is thoughtfully designed with guest comfort in mind, featuring air conditioning, a private bathroom, and complimentary WiFi. The inclusion of a seating area and a flat-screen TV in every room adds a touch of luxury, making it easy for guests to unwind after a day of exploring the city. Moreover, the convenience of having a desk in the room caters to the needs of business travelers or those who wish to document their adventures.
+---\ntitle: "Hotel Deluxe"\ndescription: "Hotel Deluxe emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/122791634.jpg?k=25acbc14cb381fcb8cb099abca2e073f3097d132287f9a1df878fdb187bb9988&o=&hp=1"\nlanguage: en\nslug: hotel-deluxe\naddress: "Rruga Teodor Keko, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.323278\n  lng: 19.788208\nprice: "US$64"\npriceFrom: 64\nstarRating: 4\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 1174\nratings:\n  overall: 8.4\n  location: 7.3\n  cleanliness: 8.7\n  facilities: 8.3\n  value: 8.6\n  comfort: 8.6\n  staff: 9.4\n  wifi: 8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/122791634.jpg?k=25acbc14cb381fcb8cb099abca2e073f3097d132287f9a1df878fdb187bb9988&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445224334.jpg?k=9a08b24f55b1107b7ebe89bae78ba80e4fc7ef848bcaaa452e61b3e52933fd91&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149807253.jpg?k=622c599c21b687630e12b7880fd5199adcde7c980d2e2206520c02c48af730ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149807251.jpg?k=3d54b8698a1541b476dff8a7364829d8eb53420ab67e5a1b9254c884a5b28bf6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/122791502.jpg?k=cef536a7a56706be6bfab04fdb0e8674b14630a91148509b1957c549105589f2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149807245.jpg?k=1c51d0f74e692d69ed400b47121e48797bd34fe22c8597e847fb78fd5fc64dd2&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Facilities for disabled guests"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Fabulous breakfast"\nroomTypes:\n  - "Standard Double Room"\n  - "Twin Room"\n  - "Comfort Double Room"\n  - "Suite"\n  - "Family Room"\nnearbyAttractions:\n  - "House of Leaves 2.4 km"\n  - "Former Residence of Enver Hoxha 2.5 km"\n  - "Rinia Park 2.5 km"\n  - "National Museum of History Albania 2.5 km"\n  - "Skanderbeg Square 2.6 km"\n  - "Clock Tower Tirana 2.7 km"\n  - "National Gallery of Arts Tirana 2.7 km"\n  - "Tanners' Bridge 3.2 km"\n  - "Grand Park of Tirana 3.4 km"\n  - "Bunk'Art 1 Museum 7 km"\nnearbyRestaurants:\n  - "Bar Restorant Vëllezërit Gjana 50 m"\n  - "Bar Restorant Albesa 150 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Pallati me Shigjeta 300 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 600 m"\n  - "Sheshi Rekreativ Bajram Curri 800 m"\n  - "Sheshi Rekreativ Sali Butka 900 m"\n  - "Shesh Rekreativ Yzberisht 1 km"\n  - "Sheshi Rekreativ Parku 1Km 1.1 km"\n  - "Park Lojrash 1.1 km"\n  - "Sheshi Rekreativ Shefqet Musaraj 1.1 km"\n  - "Sheshi Rekreativ Blloku 1 Maji 1.5 km"\n  - "Sheshi Rekreativ Lord Bajron 1.6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 81 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Netto"\n    country: "Poland"\n    text: "“Breakfast and the staff … they are really good and very helpful and very friendly and professional.”"\n  - name: "Brian"\n    country: "United Kingdom"\n    text: "“Exceptional customer service in the hotel
+Thank you so much lovely people”"\n  - name: "Peca"\n    country: "United Kingdom"\n    text: "“Very clean place,the staff was lovely and helpful,the breakfast was very fresh .”"\nbookingURL: "https://www.booking.com/hotel/al/deluxe.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach room at Hotel Deluxe is thoughtfully designed with guest comfort in mind, featuring air conditioning, a private bathroom, and complimentary WiFi. The inclusion of a seating area and a flat-screen TV in every room adds a touch of luxury, making it easy for guests to unwind after a day of exploring the city. Moreover, the convenience of having a desk in the room caters to the needs of business travelers or those who wish to document their adventures.
 
 The culinary experience at Hotel Deluxe is not to be overlooked, with a continental breakfast available every morning. This offering provides an excellent start to the day, allowing guests to savor a variety of dishes prepared with care.
 
@@ -18,15 +8,3 @@ For those seeking guidance or recommendations, the hotel's 24-hour front desk is
 Situated a short distance from notable landmarks such as the Sky Tower and the National Arts Gallery, both 2.5 km away, Hotel Deluxe serves as an ideal base for exploring the cultural richness of the city. Additionally, the proximity to Tirana Airport, just 16 km away, adds a layer of convenience for international travelers.
 
 In summary, Hotel Deluxe stands out as a premier destination for those visiting Tirana, offering a harmonious blend of comfort, convenience, and attentive service. Whether in town for business or leisure, guests are sure to find this hotel a welcoming and enriching home away from home.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

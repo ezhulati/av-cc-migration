@@ -1,32 +1,5 @@
----
-title: Town Square Apartment Tirana 2
-description: This apartment distinguishes itself with its spacious, air-conditioned interiors, featuring two well-appointed bedrooms, a balcony for leisurely evenings, and c
-featuredImage: "/images/accommodation/526104628.jpg"
-language: en
-slug: town-square-apartment-tirana-2
-location: ""
-amenities: []
-images: []
----
-
-This apartment distinguishes itself with its spacious, air-conditioned interiors, featuring two well-appointed bedrooms, a balcony for leisurely evenings, and complimentary WiFi to keep guests connected. The inclusion of a fully equipped kitchen and two modern bathrooms ensures a home-away-from-home experience, complemented by the convenience of a flat-screen TV for entertainment.
+---\ntitle: "Town Square Apartment Tirana 2"\ndescription: "Town Square Apartment Tirana 2 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526104616.jpg?k=b2b717b1771a913a3b35f64eaa05372b4e84d43ff2783004a147f0f202ba38fa&o=&hp=1"\nlanguage: en\nslug: town-square-apartment-tirana-2\naddress: "Rruga Kostandin Kristoforidhi, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32963342\n  lng: 19.82222268\nprice: "US$58"\npriceFrom: 58\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526104616.jpg?k=b2b717b1771a913a3b35f64eaa05372b4e84d43ff2783004a147f0f202ba38fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/526104601.jpg?k=cc31378bf24c6dadfff193d6f175b0ca6ae11eb215889b9f192055ca2696a5c8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/526104634.jpg?k=1c65d66e0ca41eb83a11feff686b6f3a1498a17a3d7b3229c0b2cc786609791b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/526104628.jpg?k=9519b3d03c8109a2d345e0827da8d8a47d9b10a64474a5ce635fadadcb2e8a58&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/526104635.jpg?k=6ac66b1a63172b72c3b497a0e88ef10e1983dae5b51bb39b35e87286d4a74f11&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/526104554.jpg?k=d3c8cda9787e398ad7faf992c512e360fb038a945e108cedcbac2be58a622abe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/526104631.jpg?k=f6c9545aad8cf02bff04d5e9d8a35c7e7dd54c500039cee5ceb2d9fe6550797c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/landmark/square150/239906.webp?k=76b9b642c213c0999b8848bc297363f85f2d2b97e61a03a25ed5e03f5d90803a&o="\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 600 m"\n  - "Rinia Park 650 m"\n  - "Former Residence of Enver Hoxha 1 km"\n  - "Grand Park of Tirana 2 km"\n  - "Bunk'Art 1 Museum 3.9 km"\nnearbyRestaurants:\n  - "Happy Times 40 m"\n  - "Europa Caffe 50 m"\nwhatsNearby:\n  - "Sheshi Sulejman Pasha 100 m"\n  - "Clock Tower Tirana 300 m"\n  - "Skanderbeg Square 350 m"\n  - "Parku Europa 350 m"\n  - "Sheshi Rekreativ tek ish ATSh 350 m"\n  - "Sheshi Skënderbej 400 m"\n  - "National Gallery of Arts Tirana 400 m"\n  - "National Museum of History Albania 400 m"\n  - "Tanners' Bridge 450 m"\n  - "Amazing Nature 500 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/town-square-apartment-tirana-2-tirane.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis apartment distinguishes itself with its spacious, air-conditioned interiors, featuring two well-appointed bedrooms, a balcony for leisurely evenings, and complimentary WiFi to keep guests connected. The inclusion of a fully equipped kitchen and two modern bathrooms ensures a home-away-from-home experience, complemented by the convenience of a flat-screen TV for entertainment.
 
 For those inclined towards shopping and cultural activities, Town Square Apartment Tirana 2 is ideally positioned near Toptani Shopping Centre and within walking distance to the National Theatre of Opera and Ballet of Albania and the National Gallery of Arts Tirana. Its strategic location guarantees an effortless exploration of Tirana's vibrant arts scene and shopping districts.
 
 Accessibility is further enhanced by its proximity to Tirana International Mother Teresa Airport, located just 14 km away, making it a hassle-free option for both international and domestic travelers. Town Square Apartment Tirana 2 stands out as a compelling accommodation choice, promising an immersive and comfortable stay in Albania's bustling capital.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

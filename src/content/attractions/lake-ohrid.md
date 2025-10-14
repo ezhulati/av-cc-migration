@@ -7,6 +7,9 @@ featuredImage: /images/attractions/lake-ohrid.jpg
 images: []
 language: en
 slug: lake-ohrid
+seo:
+  metaTitle: "Discover Albania's Storied Shores of Ancient Lake Ohrid"
+  metaDescription: "Lake Ohrid’s crystal waters captivated Alexander the Great and persist luring religious pilgrims and Ottoman rulers as Europe’s oldest inhabited refuge."
 ---
 
 Immerse Yourself in Albania’s Historic Lake Ohrid Region
@@ -65,10 +68,3 @@ Luminaries like Roman philosopher Diogenes have wandered Lake Ohrid contemplatin
 
 Lake Ohrid’s coastal tracks and hillside ridges ensure hiking opportunities suit all levels for unrivaled vantage points over sprawling scenery that still hasn’t gotten old. But more profound are the cultural connections, walking even shorter distances to kitchens cooking freshwater delights, like in the 5th century BC, and sleeping where great thinkers, warriors, and saints rested only a few eras earlier. In Ohrid, the past resides fluidly with the present, urging travelers not to visit casually in passing but to sink in deeply to soak up the healing powers infused for millennia.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

@@ -7,6 +7,11 @@ featuredImage: /images/attractions/drisht-castle.jpg
 images: []
 language: en
 slug: drisht-castle
+seo:
+  metaTitle: "Drisht Castle - Albania's Timeless Citadel Spanning Empires"
+  metaDescription: "Step into the past and explore the historical Drisht Castle in Albania. Discover its ancient origins, historical significance, and the stories it holds."
+  focusKeyword: "drisht castle"
+  robots: "index"
 ---
 
 Why Visit Drisht Castle
@@ -41,10 +46,3 @@ Cafes line restored curtain walls serving visitors local fare as they admire vie
 
 From these very same crenelations, one comprehends empires imaging themselves as invincible. Even their highest defensive citadels proved no match for history’s unrelenting twists. Only silent stones remain, telling their faded story.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

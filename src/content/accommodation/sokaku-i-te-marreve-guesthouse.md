@@ -1,28 +1,8 @@
----
-title: Sokaku i te Marreve GuestHouse
-description: The accommodations at Sokaku i te Marreve are thoughtfully appointed with essential amenities to ensure a comfortable stay. Each room is equipped with a wardrob
-featuredImage: "/images/accommodation/475981211.jpg"
-language: en
-slug: sokaku-i-te-marreve-guesthouse
-location: ""
-amenities: []
-images: []
----
-
-The accommodations at Sokaku i te Marreve are thoughtfully appointed with essential amenities to ensure a comfortable stay. Each room is equipped with a wardrobe, air conditioning, and a television, catering to the needs of modern travelers. Guests can start their day with a delightful continental breakfast, a complimentary feature that adds value to their stay.
+---\ntitle: "Sokaku i te Marreve GuestHouse"\ndescription: "Sokaku i te Marreve GuestHouse emerges as a charming retreat in the historic heart of Gjirokastër, a city renowned for its rich heritage and architectural marvels."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475981211.jpg?k=86af2892cf749f86383959dc204ac8d8bd4f331bee3943e80f8812ab40fd4c7f&o=&hp=1"\nlanguage: en\nslug: sokaku-i-te-marreve-guesthouse\naddress: "Rruga Sokaku i te Mareve, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.07610427\n  lng: 20.13577062\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 426\nratings:\n  overall: 9.7\n  location: 9.7\n  cleanliness: 9.7\n  facilities: 9.4\n  value: 9.8\n  comfort: 9.6\n  staff: 9.9\n  wifi: 9.7\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475981211.jpg?k=86af2892cf749f86383959dc204ac8d8bd4f331bee3943e80f8812ab40fd4c7f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446249896.jpg?k=5807d6c47f3ee92b4db685a1e81885aaba08dd277bbdda084726d5704cb3a5e5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351427324.jpg?k=684cfbee9b5c0863a270dfe76663f4b241440a115b89a927ff5b7e175891d265&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475981051.jpg?k=226492b475508714448a87e9fe4d241dd28d9cc8e0600fc0ee5b85e69d0626f1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209707677.jpg?k=0ebde0d4fb074aaf64e62285cc9ad20e3fb92455dab5b2d605da5e000441e49e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446251116.jpg?k=d7297a83946f4d6b23c614c5740663a356b258a8e67ba41010a3360b67d1c0d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351428316.jpg?k=099e43bccc0f66d22a64cfd332dea583ffbe032b73773ebd0db80db6b5d12287&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351427442.jpg?k=32281eb73c73248bc57f641205cf9794af73e9352698f3ab8140f852f48d498e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446251112.jpg?k=3d2b396f70e9a0775e4b81e2e89b7af641d4329a65e1f48ab871bce9b46344ef&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Tea/coffee maker in all rooms"\n  - "Superb breakfast"\nnearbyRestaurants:\n  - "Etno 50 m"\n  - "Bake 200 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Chloe"\n    country: "United Kingdom"\n    text: "“We had a lovely stay at the guesthouse. We were met by the host and shown how to park in the city (which can be tricky given the streets were very narrow). The accommodation was very comfortable and had a lovely view of the surrounding area. To...”"\n  - name: "Carlijn"\n    country: "Netherlands"\n    text: "“Really nice location, totally loved the city, great that everything is possible by foot, the swimming pool was nice and the hosts are really nice and kind. We loved Bokaku, the cat.”"\n  - name: "Kristie"\n    country: "Australia"\n    text: "“such lovely hosts mother and son.
+we felt like family and stayed 2 nights instead of one.
+we were served a beautiful traditional and home made breakfast each morning. amazing views.
+so close to the old city and castle we didn’t need the...”"\nbookingURL: "https://www.booking.com/hotel/al/sokaku-i-te-marreve-guesthouse.en-gb.html?aid=8035640"\nbestFor: "Best for Cultural Experience"\nbestCategories: "Cultural Experience"\ncategory: "Cultural Experience"\n---\n\nThe accommodations at Sokaku i te Marreve are thoughtfully appointed with essential amenities to ensure a comfortable stay. Each room is equipped with a wardrobe, air conditioning, and a television, catering to the needs of modern travelers. Guests can start their day with a delightful continental breakfast, a complimentary feature that adds value to their stay.
 
 Although the guesthouse boasts a modestly sized swimming pool, it serves as a perfect oasis for guests looking to cool off after a day of exploration in Gjirokastër. The proximity of Sokaku i te Marreve GuestHouse to several of the city's most famous museums allows guests to immerse themselves in the local culture and history with ease.
 
 Located just 25 km from Sarandë and 49 km from Aristi, the guesthouse offers a strategic base for guests planning to explore the wider region. Whether it's the allure of nearby beaches or the call of the mountains, Sokaku i te Marreve GuestHouse provides a cozy and convenient starting point for all kinds of adventures.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,7 @@
----
-title: ARIS APARTAMENT GOLEM
-description: This recently renovated one-bedroom apartment doesn't just promise a place to stay; it offers a home away from home. Guests are treated to a fully equipped kitc
-featuredImage: "/images/accommodation/460471881.jpg"
-language: en
-slug: aris-apartament-golem
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "ARIS APARTAMENT GOLEM"\ndescription: "ARIS APARTAMENT GOLEM stands out as a prime choice for travelers seeking the perfect blend of comfort and convenience in Golem."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460471881.jpg?k=00b7d8abfe11d220fdbbc968f06531851f55a597dbfd86214f7472b931ed8b43&o=&hp=1"\nlanguage: en\nslug: aris-apartament-golem\naddress: "BLV.Pishat e Buta Mali i Robit,2504 Aris Apartament On Second floor, Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.23509756\n  lng: 19.51656879\nprice: "US$47"\npriceFrom: 47\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 9.8\n  location: 10\n  cleanliness: 10\n  facilities: 8.8\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460471881.jpg?k=00b7d8abfe11d220fdbbc968f06531851f55a597dbfd86214f7472b931ed8b43&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460472014.jpg?k=f740930d94f50d876b559dfc8962bda53eb6e847ccce847d6a6de2910246f588&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460471982.jpg?k=27c552c9230b55bcacbf7712fd741e6abf74a1fef2dabbd81b2dd236f228d32e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460471969.jpg?k=367353f32d3dd0fb7ba46926b3bf66ddd4b91bc767c92f98131dc3c821b50df3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460472027.jpg?k=b54bffba65753932f89255049304d2620e5137b96ef5e1848d52dd839d92276e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460472021.jpg?k=836bd590989bac55ebba2006b2c878b97706d4036a41fb1adc30c8c580695d50&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460472006.jpg?k=c4c693335e45905fc79ec02727050bafb031ed6f3fc61c37956b15b9e1f754a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460471962.jpg?k=eee2e722b1eed510e0b5f41bc3c4ba826298d9367de8216b9dadf0fd1b40f597&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460471940.jpg?k=dce742a24411772410568cb6409e4005ff990b7544e367950cc5d8a3db5bc3bf&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Good free WiFi (40 Mbps)"\n  - "Family rooms"\n  - "Private beach area"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Ujvara Hotel & Bar Restorant Piceri 50 m"\n  - "Pizza Hallall 200 m"\nnearbyBeaches:\n  - "Mali I Robit Beach 100 m"\n  - "Qerret Beach 600 m"\n  - "Golem Beach 1.4 km"\n  - "Shkëmbi i Kavajës Beach 3.4 km"\n  - "Durres Beach 6 km"\nwhatsNearby:\n  - "Durres Amphiteatre 10 km"\n  - "1. Maj 11 km"\n  - "Wine Dhe Pooh 11 km"\n  - "Yje Dhe Hena 11 km"\n  - "Sheshi Demokracia 11 km"\n  - "Bekimi 11 km"\n  - "Sotir Noka 11 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\nreviews:\n  - name: "M_denis"\n    country: "Albania"\n    text: "“Great location for the price value, near the beach and surrounded by pine trees. The owner/manager is very communicative and helps you with other requests you may have.”"\nbookingURL: "https://www.booking.com/hotel/al/aris-apartament-golem.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis recently renovated one-bedroom apartment doesn't just promise a place to stay; it offers a home away from home. Guests are treated to a fully equipped kitchen, ensuring that meals can be prepared with ease, just the way one likes. The inclusion of air conditioning, complimentary WiFi, and private parking on-site adds layers of comfort and convenience to the guest experience.
 
-This recently renovated one-bedroom apartment doesn't just promise a place to stay; it offers a home away from home. Guests are treated to a fully equipped kitchen, ensuring that meals can be prepared with ease, just the way one likes. The inclusion of air conditioning, complimentary WiFi, and private parking on-site adds layers of comfort and convenience to the guest experience.
-
-The living space is thoughtfully designed, featuring a balcony that invites guests to unwind with a view. Entertainment needs are well catered to with a flat-screen TV, making it easy to relax after a day of exploration.
+The living space is thoughtfully designed, featuring a balcony that invites guests to unwind with a view. Entertainment needs are well catered to with a flat-screen TV, making it easy to relax after a day of exploration. 
 
 For those interested in exploring the local culture and history, the apartment is conveniently located within reach of notable landmarks. The former Residence of Enver Hoxha and the Durres Amphitheatre are both accessible, located 48 km and 17 km away, respectively. Additionally, the Rock of Kavaje is a mere 6.1 km from the property, offering a unique local excursion.
 
 Travelers will find ARIS APARTAMENT GOLEM not only a comfortable place to stay but a convenient launchpad for exploring the wider Golem area. With the nearest airport, Tirana International Mother Teresa Airport, only 42 km away, guests will find their travel to and from the property a breeze. This apartment is a top recommendation for those looking to enjoy the coastal beauty of Golem while having easy access to local attractions.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

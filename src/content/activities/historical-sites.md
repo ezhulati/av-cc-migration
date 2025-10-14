@@ -5,6 +5,9 @@ category: ""
 featuredImage: /images/activities/historical-sites.jpg
 language: en
 slug: historical-sites
+seo:
+  metaTitle: "Explore %term% &amp; Discover Albania's Rich Heritage"
+  focusKeyword: "Historical Sites"
 ---
 
 Albania’s Captivating Ancient Ruins
@@ -151,10 +154,3 @@ Exploring its ruins provides a deeper understanding of how these civilizations i
 
 Yes. Albania offers a combination of rich historical sites and dramatic natural landscapes, ideal for travelers who wish to explore ancient ruins while enjoying outdoor activities like hiking and exploring off-the-beaten-path destinations.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

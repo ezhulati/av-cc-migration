@@ -1,30 +1,7 @@
----
-title: Seaside Gersi Apartments
-description: Seaside Gersi Apartments stands out for its modern accommodations, each equipped with air conditioning, a private bathroom, and complimentary WiFi. The added co
-featuredImage: "/images/accommodation/523728828.jpg"
-language: en
-slug: seaside-gersi-apartments
-location: ""
-amenities: []
-images: []
----
-
-Seaside Gersi Apartments stands out for its modern accommodations, each equipped with air conditioning, a private bathroom, and complimentary WiFi. The added convenience of in-room washing machines and flat-screen TVs ensures a home-away-from-home experience that is both relaxing and practical.
+---\ntitle: "Seaside Gersi Apartments"\ndescription: "Discover the charm of Durrës with a stay at Seaside Gersi Apartments, a prime choice for travelers seeking comfort and convenience mere steps from the Adriatic Sea."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523728828.jpg?k=8d759c1ae8888b87c6d192c41eea76eedbb25d333bd54520f764e1802b08036d&o=&hp=1"\nlanguage: en\nslug: seaside-gersi-apartments\naddress: "Rr.Poseidon 00820177 Apartment nr.12,building nr.9,floor 1,, 2021 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.28469233\n  lng: 19.51194233\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523728828.jpg?k=8d759c1ae8888b87c6d192c41eea76eedbb25d333bd54520f764e1802b08036d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523728861.jpg?k=6825f2f1cb29da90fa64ba15b881fec8e3cab9268c2a4e62277dda7722cde440&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523728819.jpg?k=732017754f0abda5b4c068c52ab25d2f7f2545103bc4dc04b29c35438b88cd0a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523728797.jpg?k=3165961e4b344b2017e9e334ab6c1798ae0506c1fefd1d140f40a9e5e3360928&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523728801.jpg?k=a4f6059f7b33ef3d729b31f9813dfeea6a831765b86ef02472ecdf3bb703bc14&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523728858.jpg?k=e27627a081be41c7aa6e7baaa22687b68bee4ec9609042734e2ec0638e52fa3c&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "King Studio with Sofa Bed"\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Restorant 4 Stinet Plazh 50 m"\n  - "Restorant Riviera 100 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 150 m"\n  - "Durres Beach 250 m"\n  - "Golem Beach 2.2 km"\n  - "Mali I Robit Beach 4.1 km"\n  - "Currila Beach 6 km"\nwhatsNearby:\n  - "Bekimi 6 km"\n  - "Wine Dhe Pooh 6 km"\n  - "Durres Amphiteatre 6 km"\n  - "Yje Dhe Hena 6 km"\n  - "Sheshi Demokracia 6 km"\n  - "1. Maj 7 km"\n  - "Sotir Noka 7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/seaside-gersi-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nSeaside Gersi Apartments stands out for its modern accommodations, each equipped with air conditioning, a private bathroom, and complimentary WiFi. The added convenience of in-room washing machines and flat-screen TVs ensures a home-away-from-home experience that is both relaxing and practical.
 
 For guests who prefer the coziness of a home-cooked meal, the apartments offer fully equipped kitchens, providing an excellent alternative to dining out. This feature is particularly appealing for longer stays or those who enjoy the art of cooking.
 
 Situated just 2.4 km from the serene Golem Beach, and within easy reach of significant landmarks such as the historic Durres Amphitheatre 11 km away, Seaside Gersi Apartments serves as a perfect base to explore the rich history and natural beauty of the area. Cultural enthusiasts will appreciate the proximity to Skanderbeg Square and the House of Leaves, both located 41 km from the property, while adventure seekers can venture a little further to the Dajti Ekspres Cable Car, 45 km away.
 
 Accessibility is a breeze, with Tirana International Mother Teresa Airport only 35 km from the apartments, making arrivals and departures as smooth as the nearby sea. Whether it's the allure of the beach, the comfort of the accommodations, or the convenience of the location, Seaside Gersi Apartments promises a memorable stay in the heart of Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

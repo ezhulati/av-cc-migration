@@ -1,15 +1,4 @@
----
-title: Amarilis Luxury Apartments
-description: Each apartment in Amarilis Luxury Apartments is a testament to thoughtful design and comfort, featuring air conditioning, a fully equipped kitchen, and a cozy s
-featuredImage: "/images/accommodation/477442042.jpg"
-language: en
-slug: amarilis-luxury-apartments
-location: ""
-amenities: []
-images: []
----
-
-Each apartment in Amarilis Luxury Apartments is a testament to thoughtful design and comfort, featuring air conditioning, a fully equipped kitchen, and a cozy seating area. The inclusion of a desk, kettle, toaster, fridge, safety deposit box, flat-screen TV, and a private bathroom with a shower ensures that guests have everything they need for a relaxing stay. The added luxury of a private balcony or terrace in every unit allows guests to enjoy serene moments with a view.
+---\ntitle: "Amarilis Luxury Apartments"\ndescription: "Amarilis Luxury Apartments stands out as a prime choice for travelers seeking comfort and convenience in Saranda."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477442042.jpg?k=9d22f85694ff204a0d3b1ed1b066705ef3a5b9da765c1d16f256206a7a1d7ce0&o=&hp=1"\nlanguage: en\nslug: amarilis-luxury-apartments\naddress: "Rruga Telat Noga, 9703 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87567166\n  lng: 20.00746925\nprice: "US$269"\npriceFrom: 269\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 16\nratings:\n  overall: 9.4\n  location: 9.7\n  cleanliness: 9.5\n  facilities: 9.1\n  value: 9.2\n  comfort: 9.7\n  staff: 9.4\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477442042.jpg?k=9d22f85694ff204a0d3b1ed1b066705ef3a5b9da765c1d16f256206a7a1d7ce0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478985736.jpg?k=db055ca15b063d9fd0a39d4d2bf4f90f3aba222cde38b4f2618eb30c0a6bedee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478076284.jpg?k=5d4545da22dd5cceb1417720ed4f76fc3f1675500a303abb8ddae5c5f809a858&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479477065.jpg?k=98812b2a9463d29977e7ae00881c7a0ad8761b3b8f4ec01b010f228572caf067&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478076289.jpg?k=8f431c974550f67ffe66f3bd7078ccb1b44eb3eec010639fae8f00f691fdf90b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480633317.jpg?k=6c76a732fb0ac3eb89be0c7b449e700ed0f84caed3334336aa396a21bddcf87c&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Fitness centre"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\nroomTypes:\n  - "Deluxe Apartment"\nnearbyRestaurants:\n  - "Zum Cafe 40 m"\n  - "Taverna Lamce 100 m"\nnearbyBeaches:\n  - "Saranda City Beach 250 m"\n  - "Sarande Main Beach 850 m"\n  - "La Petite Beach 1,000 m"\n  - "Maestral Beach 1.2 km"\n  - "VIP Beach 2.1 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.4 km"\n  - "Butrint National Park 3.2 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Nerjada"\n    country: "Albania"\n    text: "“Nice location, great view . It was a very nice apartment !”"\n  - name: "Facundo"\n    country: "Spain"\n    text: "“Muy buena ubicación proxima al centro y en una zona tranquila. Amplio departamento con muy buenas vistas y muy comodo.”"\n  - name: "Magdalena"\n    country: "Poland"\n    text: "“Świetna lokalizacja apartamentów, bardzo blisko do plaży, deptaku, sklepów i restauracji. Przed domem znajdował się zielony park, co zapewniło widok z balkonu na morze. Właścielka bardzo miła i pomocna, zapewniła parking dla dużego samochodu...”"\nbookingURL: "https://www.booking.com/hotel/al/amarilis-luxury-apartment-sarande.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach apartment in Amarilis Luxury Apartments is a testament to thoughtful design and comfort, featuring air conditioning, a fully equipped kitchen, and a cozy seating area. The inclusion of a desk, kettle, toaster, fridge, safety deposit box, flat-screen TV, and a private bathroom with a shower ensures that guests have everything they need for a relaxing stay. The added luxury of a private balcony or terrace in every unit allows guests to enjoy serene moments with a view.
 
 For those who arrive by car, the convenience of complimentary private parking is a welcome feature, along with the availability of a lift, making accessibility a non-issue. The complex is also family-friendly, offering spacious family rooms that cater to the needs of guests traveling with loved ones.
 
@@ -18,15 +7,3 @@ A unique addition to Amarilis Luxury Apartments is the on-site minimarket, provi
 Located just a short distance from La Petite Beach and the historic Butrint National Park, Amarilis Luxury Apartments serves as an ideal base for exploring the natural and cultural wonders of the region. With Ioannina Airport 97 km away, the complex remains conveniently accessible for international and domestic travelers alike.
 
 In summary, Amarilis Luxury Apartments emerges as a top-tier accommodation choice, blending modern comforts with the charm of Saranda's scenic surroundings, making it a perfect retreat for those looking to experience the best of this enchanting coastal city.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

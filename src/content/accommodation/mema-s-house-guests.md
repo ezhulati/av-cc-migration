@@ -1,28 +1,5 @@
----
-title: Mema s house guests
-description: Each air-conditioned unit in this apartment complex is thoughtfully equipped with a fully functional kitchen, empowering guests with the choice to whip up their
-featuredImage: "/images/accommodation/460774872.jpg"
-language: en
-slug: mema-s-house-guests
-location: ""
-amenities: []
-images: []
----
-
-Each air-conditioned unit in this apartment complex is thoughtfully equipped with a fully functional kitchen, empowering guests with the choice to whip up their own meals, adding a touch of home. The inclusion of private bathrooms and complimentary WiFi in every apartment ensures that comfort and connectivity are never compromised.
+---\ntitle: "Mema s house guests"\ndescription: "Mema's House stands as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460774872.jpg?k=5f4411ccba8841ef762c315afd6304bc7ee58d9f670512bb5b7bbf626d19788b&o=&hp=1"\nlanguage: en\nslug: mema-s-house-guests\naddress: "Rruga Shkembi i Kavajes, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.28418493\n  lng: 19.51347014\nprice: "US$81"\npriceFrom: 81\nstarRating: 3\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 1\nratings:\n  overall: 7.5\n  location: 7.5\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 7.5\n  comfort: 7.5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460774872.jpg?k=5f4411ccba8841ef762c315afd6304bc7ee58d9f670512bb5b7bbf626d19788b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460774937.jpg?k=97e9f27c991660e4c02d15a3bc67464bf9364d119441065f48635a556ed8e8fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460774861.jpg?k=a26159c661332551199ad45f8ccb516eae036748ccb89b465d6321bddf8c312d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460775001.jpg?k=c57c10eb1f9b7df980615294e3a8c8ff26e3d8d706ad42d804216970182a5d34&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460774964.jpg?k=349c6892670683b4144d6201ceef05786b9c139cdb64b2cab5637527d0d3b7d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460775023.jpg?k=864a81519a7611a54539c0f055cbf1c7c3f7b7a102a25f44a042589899a71edb&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "One-Bedroom Apartment"\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Kosova 100 m"\n  - "Restorant Riviera 150 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 250 m"\n  - "Durres Beach 400 m"\n  - "Golem Beach 2.1 km"\n  - "Mali I Robit Beach 4 km"\n  - "Qerret Beach 6 km"\nwhatsNearby:\n  - "Bekimi 6 km"\n  - "Wine Dhe Pooh 6 km"\n  - "Durres Amphiteatre 7 km"\n  - "Yje Dhe Hena 7 km"\n  - "Sheshi Demokracia 7 km"\n  - "1. Maj 7 km"\n  - "Sotir Noka 7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\nbookingURL: "https://www.booking.com/hotel/al/mema-s-house-guests.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach air-conditioned unit in this apartment complex is thoughtfully equipped with a fully functional kitchen, empowering guests with the choice to whip up their own meals, adding a touch of home. The inclusion of private bathrooms and complimentary WiFi in every apartment ensures that comfort and connectivity are never compromised.
 
 For those intrigued by history, the proximity to the Former Residence of Enver Hoxha and the Durres Amphitheatre offers a glimpse into Albania's rich past. Moreover, the convenience of being just 36 km away from Tirana International Mother Teresa Airport adds to the appeal, making Mema's House a compelling choice for both domestic and international travelers.
 
 In essence, Mema's House not only promises a stay that is comfortable and convenient but also immerses its guests in the vibrant tapestry of Durrës' beaches, history, and culture.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

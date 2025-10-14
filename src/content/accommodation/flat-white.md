@@ -1,26 +1,3 @@
----
-title: Flat White
-description: The apartment itself is a testament to thoughtful living spaces, featuring two cozy bedrooms and a living room designed for relaxation. The kitchen doesn't disa
-featuredImage: "/images/accommodation/404018282.jpg"
-language: en
-slug: flat-white
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to thoughtful living spaces, featuring two cozy bedrooms and a living room designed for relaxation. The kitchen doesn't disappoint, being fully equipped with an oven and kettle, catering to the culinary needs of its occupants. The bathroom, complete with a bidet and hairdryer, underscores the property's attention to detail and guest comfort.
+---\ntitle: "Flat White"\ndescription: "Flat White emerges as a modern gem in Krujë, offering a refreshing retreat for travelers seeking both comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404018282.jpg?k=574b7101e5f6c9aefc068f35434c6dd6abc45e1b5222c64a6d7bd5615726bd0f&o=&hp=1"\nlanguage: en\nslug: flat-white\naddress: "Rruga Vrana Konti, 2nd floor, 08, 1501 Krujë, Albania"\ncity: "Krujë"\nlocation: "Krujë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.50955639\n  lng: 19.79131157\nprice: "US$47"\npriceFrom: 47\nstarRating: 3\nrating: 7.8\nratingWords: "Good"\nnumberOfReviews: 15\nratings:\n  overall: 7.8\n  location: 8\n  cleanliness: 7.5\n  facilities: 7.2\n  value: 7.8\n  comfort: 7.3\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404018282.jpg?k=574b7101e5f6c9aefc068f35434c6dd6abc45e1b5222c64a6d7bd5615726bd0f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/404018350.jpg?k=71f2f18b7e0624603c9e0b7d043d8d6dc9f50f06a81f8900f764b08bc5cd0650&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/404018355.jpg?k=5476e149ed7044bf86fb22c00db4e42310f10697565a359aa4ed75bf7e4ffdbd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/404018363.jpg?k=49f593644b246c4f045d533655ffad03ffcad5dda2c834b5ca4de5ac6dd34b94&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/404018367.jpg?k=cf7f5462efbf33d431aad8755f41c5a8686dd19ba5a6f987efec620a13706fe7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/404018347.jpg?k=a77823dd8731929d8fffda807564416c11b3d0ed6339fa17a89110b30dd5ef2c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/404018348.jpg?k=773750953f9be1c8591f244ee0fffc0abfe451a2a48fc40998877b78ad071aa7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/404018332.jpg?k=7f457e76be77e8bdd83bdc19bca259f96c961638d05f9d09c9aef4eb47d9db4b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/404018343.jpg?k=20cffc89930975e073619bcf93b016e0d2509e38424f55c54c0cdc5ae4db1c90&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/404018379.jpg?k=c140a63b848a9f42ea06dd0db015b9354eb21c90d401802cbf04a1e50205e1da&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Creperi 150 m"\n  - "Tamli 150 m"\nwhatsNearby:\n  - "Dajti Mountain National Park 3.3 km"\n  - "Sheshi Rekreativ Allias 18 km"\n  - "Bunk'Art 1 Museum 19 km"\n  - "Sheshi Rekreativ Lord Bajron 19 km"\n  - "Sheshi Rekreativ Gjolek Kokona 19 km"\n  - "Sheshi Rekreativ Don Bosko 19 km"\n  - "Sheshi Rekreativ Mine Peza 20 km"\n  - "Amazing Nature 20 km"\n  - "Shesh Rekreativ Yzberisht 20 km"\n  - "Sheshi Jjosef Shtraus 20 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 87 km"\nbookingURL: "https://www.booking.com/hotel/al/flat-white-kruje.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe apartment itself is a testament to thoughtful living spaces, featuring two cozy bedrooms and a living room designed for relaxation. The kitchen doesn’t disappoint, being fully equipped with an oven and kettle, catering to the culinary needs of its occupants. The bathroom, complete with a bidet and hairdryer, underscores the property's attention to detail and guest comfort.
 
 For those looking to explore the cultural heartbeat of the area, the Clock Tower Tirana and the Et'hem Bey Mosque are both located 31 km away, offering a glimpse into the rich history and architectural beauty of the region. Convenience is further enhanced by the proximity to Tirana International Mother Teresa Airport, just 17 km away, making Flat White an ideal choice for travelers in search of a seamless and enriching stay in Krujë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

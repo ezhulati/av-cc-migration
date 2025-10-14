@@ -1,28 +1,5 @@
----
-title: Stay More
-description: This non-smoking apartment is a haven of tranquility and modernity, featuring two elegantly appointed bedrooms, a fully equipped kitchen for those who love to p
-featuredImage: "/images/accommodation/498660167.jpg"
-language: en
-slug: stay-more
-location: ""
-amenities: []
-images: []
----
-
-This non-smoking apartment is a haven of tranquility and modernity, featuring two elegantly appointed bedrooms, a fully equipped kitchen for those who love to prepare their meals, and two pristine bathrooms, ensuring a comfortable stay for all guests. The inclusion of air conditioning and a flat-screen TV adds a touch of luxury to the living space, making it a cozy retreat after a day of exploring the city.
+---\ntitle: "Stay More"\ndescription: "Discover the charm of Tirana with a stay at Stay More, a prime accommodation choice that offers guests a perfect blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498660167.jpg?k=03c1dd9271dde2a820ce0ddbab152110a082dabcffb6028d223b57ea725cf5da&o=&hp=1"\nlanguage: en\nslug: stay-more\naddress: "Rruga Qemal Stafa, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3311486\n  lng: 19.82516236\nprice: "US$74"\npriceFrom: 74\nstarRating: 3\nrating: 2.5\nratingWords: "Needs Improvement"\nnumberOfReviews: 1\nratings:\n  overall: 2.5\n  location: 2.5\n  cleanliness: 2.5\n  facilities: 2.5\n  value: 2.5\n  comfort: 2.5\n  staff: 2.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498660167.jpg?k=03c1dd9271dde2a820ce0ddbab152110a082dabcffb6028d223b57ea725cf5da&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498660216.jpg?k=58b94516194db43121ffbe40a73d0bca1a3ff0447f13fb663b04634f905433d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498660173.jpg?k=dd5b5f336b46137846c399ad72d3792f2eee3e546d8a4dbde862b9fe50119c9b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498660196.jpg?k=ef330b1af16355d68b9563312f24430696276bd1c2fe1216415d56eaa881ae44&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498660144.jpg?k=5b4adc1db9de6d480064f4931a0b203c31aceec45359271f9697952682d9db0f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498660211.jpg?k=28ab5afed0efd9e8289d79806038545ff404bcec0d456bacf2fd6af45597f660&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498660153.jpg?k=642356e91048edea99c5ce5103b9ad863d726c6e51580af2a4764b04e5e2e9f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498660134.jpg?k=ae52c0b5323d60ce2b0397fe921b85c6383d3c0d56688c57bf5d01b24bce8a8c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498660232.jpg?k=b46be1037e0ac54075827390032304e404c6971199783c4864bdf8ca16fa4c16&o=&hp=1"\namenities:\n  - "Private parking"\n  - "Free WiFi"\nroomTypes:\n  - "Apartment"\nnearbyAttractions:\n  - "House of Leaves 900 m"\n  - "Rinia Park 900 m"\n  - "Former Residence of Enver Hoxha 1.3 km"\n  - "Grand Park of Tirana 2.1 km"\n  - "Bunk'Art 1 Museum 3.6 km"\nnearbyRestaurants:\n  - "Ylli Hidri Soni Fish 20 m"\n  - "Old Bazaar 50 m"\nwhatsNearby:\n  - "Sheshi Rekreativ tek ish ATSh 350 m"\n  - "Sheshi Sulejman Pasha 400 m"\n  - "Tanners' Bridge 500 m"\n  - "Amazing Nature 550 m"\n  - "Clock Tower Tirana 600 m"\n  - "Skanderbeg Square 600 m"\n  - "Parku Europa 650 m"\n  - "National Gallery of Arts Tirana 650 m"\n  - "Sheshi Skënderbej 650 m"\n  - "National Museum of History Albania 700 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 78 km"\nbookingURL: "https://www.booking.com/hotel/al/stay-more-tirane2.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis non-smoking apartment is a haven of tranquility and modernity, featuring two elegantly appointed bedrooms, a fully equipped kitchen for those who love to prepare their meals, and two pristine bathrooms, ensuring a comfortable stay for all guests. The inclusion of air conditioning and a flat-screen TV adds a touch of luxury to the living space, making it a cozy retreat after a day of exploring the city.
 
 For those who prefer dining out, a variety of dining options await just steps from the apartment, offering a taste of local and international cuisine. Stay More is also ideally situated for guests looking to immerse themselves in Tirana's cultural scene, with the Toptani Shopping Centre, National Theatre of Opera and Ballet of Albania, and National Gallery of Arts Tirana all within easy reach.
 
 Connectivity is never an issue, as guests can enjoy complimentary WiFi throughout the property. Additionally, the convenience of private parking on site is a notable perk for those traveling by car. For international travelers, the Tirana International Mother Teresa Airport is just 15 km away, making Stay More an excellent choice for both short and long-term stays in Albania's captivating capital.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

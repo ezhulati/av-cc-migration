@@ -1,26 +1,4 @@
----
-title: Hoja Apartments
-description: For entertainment, guests can enjoy a selection of rooms equipped with a TV, cable channels, and a game console, with the added benefit of soundproofing in sele
-featuredImage: "/images/accommodation/438399463.jpg"
-language: en
-slug: hoja-apartments
-location: ""
-amenities: []
-images: []
----
-
-For entertainment, guests can enjoy a selection of rooms equipped with a TV, cable channels, and a game console, with the added benefit of soundproofing in select units to ensure a peaceful stay.
+---\ntitle: "Hoja Apartments"\ndescription: "Hoja Apartments in Tirana presents a refined choice for travelers seeking both comfort and convenience in the heart of the city."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438399463.jpg?k=6ebde4d330a676fe8f9c88f3d5da6aea6a03de9e8447f5ce299e728fde64318d&o=&hp=1"\nlanguage: en\nslug: hoja-apartments\naddress: "Rruga Dede Gjo Luli Pallati, 1 / Shkalla, 1 / Apartamenti, 2, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3294057\n  lng: 19.8161173\nprice: "US$48"\npriceFrom: 48\nstarRating: 4\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 19\nratings:\n  overall: 8.5\n  location: 8.9\n  cleanliness: 8.1\n  facilities: 8.2\n  value: 8.6\n  comfort: 8.3\n  staff: 9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438399463.jpg?k=6ebde4d330a676fe8f9c88f3d5da6aea6a03de9e8447f5ce299e728fde64318d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438400600.jpg?k=bf2fa4c2d1237a9c2822cf954781651610abb96fe46a251dd20c6fb993617d95&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438402121.jpg?k=17d92da7e0d443c4f5ec75e53091a05fb95bf17cb8b4c3bef515162e4a934a54&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438401412.jpg?k=43a7998ee89bbef3b9dec484f457738bd44a755aa3a096d8425f5a2579a690ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438399817.jpg?k=04834b259c81adb472944d917fee2d7e3f1db4946a7c513d533e2a809fee4660&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438402265.jpg?k=e1204f76039be0fce08392f1a1ec1388cadbb49a4b97ac99dbc06d3ee2891003&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 500 m"\n  - "Rinia Park 550 m"\n  - "Tanners' Bridge 900 m"\n  - "Former Residence of Enver Hoxha 950 m"\n  - "Grand Park of Tirana 2.1 km"\n  - "Bunk'Art 1 Museum 4.4 km"\nnearbyRestaurants:\n  - "Te Muzeu 2 m"\n  - "Tfc Tirana Fried Chicken 30 m"\nwhatsNearby:\n  - "Sheshi Paris 100 m"\n  - "National Museum of History Albania 100 m"\n  - "Sheshi Skënderbej 200 m"\n  - "House of Leaves 300 m"\n  - "Skanderbeg Square 300 m"\n  - "Parku Europa 350 m"\n  - "Clock Tower Tirana 350 m"\n  - "Sheshi Sulejman Pasha 500 m"\n  - "Parku Rinia 500 m"\n  - "Amazing Nature 500 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Mastercard"\nreviews:\n  - name: "Tasha"\n    country: "Trinidad and Tobago"\n    text: "“Loved the space that had everything you needed for a long or short stay, even a microwave, which we were happy to see.”"\n  - name: "Peter"\n    country: "Sweden"\n    text: "“Very good location. The apartment has everything you need. The hostess was extremely helpful and kind.”"\n  - name: "Anton"\n    country: "United States"\n    text: "“Excellent location at the very heart of Tirana, 2 minutes from Skenderbej Square and 10 minutes from the Bllok area where is the flow of Tirana’s night life. Next to very good bars and restaurants but in the meantime quiet and cozy
+The...”"\nbookingURL: "https://www.booking.com/hotel/al/apartament-tek-quot-piazza-quot.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nFor entertainment, guests can enjoy a selection of rooms equipped with a TV, cable channels, and a game console, with the added benefit of soundproofing in select units to ensure a peaceful stay. 
 
 Strategically located, Hoja Apartments is within easy reach of Tirana's must-see attractions, including the historic Skanderbeg Square, the intriguing Former Residence of Enver Hoxha, and the enlightening House of Leaves. For those traveling by air, the convenience is unparalleled, with Tirana International Mother Teresa Airport just 13 km away, making Hoja Apartments an ideal base for exploring the vibrant city of Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

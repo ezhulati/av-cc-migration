@@ -1,28 +1,5 @@
----
-title: Vila Zaho
-description: Each apartment at Vila Zaho is a testament to comfort and elegance, equipped with air conditioning for those warm summer days, a fully equipped kitchen for a ho
-featuredImage: "/images/accommodation/424375393.jpg"
-language: en
-slug: vila-zaho
-location: ""
-amenities: []
-images: []
----
-
-Each apartment at Vila Zaho is a testament to comfort and elegance, equipped with air conditioning for those warm summer days, a fully equipped kitchen for a home-cooked meal away from home, and a flat-screen TV for entertainment evenings. The private bathrooms add a touch of luxury with bidets, plush bathrobes, and hair dryers, ensuring a pampered experience.
+---\ntitle: "Vila Zaho"\ndescription: "Vila Zaho emerges as a prime choice for travelers seeking a serene beachfront escape, merely 400 meters from the pristine shores of Liro Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424375393.jpg?k=0045ca16153edf5a65d0a45d9cb1fd6fc6624b63ebc8f21971b722dedf081cc3&o=&hp=1"\nlanguage: en\nslug: vila-zaho\naddress: "Rruga Uji i Ftohte, 9405 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.41267931\n  lng: 19.48193765\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 20\nratings:\n  overall: 9.4\n  location: 8.8\n  cleanliness: 9.6\n  facilities: 9.6\n  value: 9.3\n  comfort: 9.5\n  staff: 9.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424375393.jpg?k=0045ca16153edf5a65d0a45d9cb1fd6fc6624b63ebc8f21971b722dedf081cc3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382477900.jpg?k=e6db84b19c9e0f0451d8972fba9c4ca874298c58977198fbcebb3a57acacf146&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382477946.jpg?k=4963b458339cab0577e06048c1911b7b1200f74d8658ec5d28441d22000a1744&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382477879.jpg?k=0dae93fff018daa8ff3ad967133a9bca25eb6b69db2934fc5ae9ceabac590ac6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382477983.jpg?k=c3e85080735f0a9aa4c4bcd20b2c44d71e06a2708cac16c4c5024897ee267c65&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382477763.jpg?k=c805713e273e309fad0d2f5714b93f864eb978d43f3b38f5ee3ac77255c55a9e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382477976.jpg?k=6134f3799d6b246ff99b391123111b7562b94f3a3fbbb40ba9ebbd6bef5fb4dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382477863.jpg?k=46a823cc60b26ec193cb8fa968dedbc0ffaf1828f595f807720b452e20c57ce4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382478007.jpg?k=a22a04daf58193556713af9c62880fe6ecd05688925469a87e8491b8ac8d16b3&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Kalaja 150 m"\n  - "Riviera Blu 200 m"\nnearbyBeaches:\n  - "Liro Beach 250 m"\n  - "Beach at Government Villas 600 m"\n  - "Coco Bongo Beach 950 m"\n  - "Sunny Beach 1.2 km"\n  - "La Playa Beach 1.8 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 2.9 km"\n  - "Kuzum Baba 6 km"\n  - "Independence Square 7 km"\nairports:\n  - "Corfu International Airport 96 km"\nreviews:\n  - name: "Kerstin"\n    country: "Germany"\n    text: "“The room is beautiful with an amazing balcony and view! Everything was clean and comfortable. The hosts were specially welcoming and caring about us! The place is a bit outside of the town, so it is calm and relaxing. Perfect time to calm down...”"\n  - name: "Mihail"\n    country: "United Kingdom"\n    text: "“The views, the location is close to some of the best beaches in Vlore, quiet and romantic, friendly and welcoming hosts”"\n  - name: "Anonymous"\n    country: "Albania"\n    text: "“Amazing view. Amazing hospitality. Very comfortable, fully equipped rooms. Everything was perfect.”"\nbookingURL: "https://www.booking.com/hotel/al/vila-zaho-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach apartment at Vila Zaho is a testament to comfort and elegance, equipped with air conditioning for those warm summer days, a fully equipped kitchen for a home-cooked meal away from home, and a flat-screen TV for entertainment evenings. The private bathrooms add a touch of luxury with bidets, plush bathrobes, and hair dryers, ensuring a pampered experience.
 
 For those keen to explore, Vila Zaho is strategically located near several popular attractions. Guests can easily access the serene Beach at Government Villas, the vibrant Sunny Beach, and the lively Coco Bongo Beach, making it an ideal base for both relaxation and adventure. Furthermore, the property is conveniently situated 157 km from Tirana International Mother Teresa Airport, making it accessible for international travelers.
 
 Vila Zaho stands out as a distinguished destination for families and individuals alike, offering a blend of comfort, convenience, and proximity to natural beauty.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

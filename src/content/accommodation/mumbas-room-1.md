@@ -1,28 +1,5 @@
----
-title: Mumbas Room 1
-description: This exclusive apartment boasts a private beach area, a lush garden, and a welcoming bar, ensuring a stay that combines relaxation with convenience. Guests will
-featuredImage: "/images/accommodation/474119215.jpg"
-language: en
-slug: mumbas-room-1
-location: ""
-amenities: []
-images: []
----
-
-This exclusive apartment boasts a private beach area, a lush garden, and a welcoming bar, ensuring a stay that combines relaxation with convenience. Guests will appreciate the added luxury of a balcony that opens up to breathtaking sea views, along with complimentary amenities such as private parking and WiFi, making it an ideal retreat for those looking to disconnect and rejuvenate.
+---\ntitle: "Mumbas Room 1"\ndescription: "Mumbas Room 1 emerges as a standout choice for travelers seeking a serene beachfront escape in Himare."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474119215.jpg?k=63c99be47d7dbbea31a73cf01c66144fe85c300b92904403eba2e7833050e101&o=&hp=1"\nlanguage: en\nslug: mumbas-room-1\naddress: "Himare, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.09667635\n  lng: 19.75427244\nprice: "US$181"\npriceFrom: 181\nstarRating: 3\nrating: 7.6\nratingWords: "Good"\nnumberOfReviews: 3\nratings:\n  overall: 7.6\n  location: 8.3\n  cleanliness: 8.3\n  facilities: 8.3\n  value: 5\n  comfort: 9.2\n  staff: 6.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474119215.jpg?k=63c99be47d7dbbea31a73cf01c66144fe85c300b92904403eba2e7833050e101&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474119226.jpg?k=937c2adebb061590ec1a6259f75b0a81adede3b0f1a6b4ca2986a3163618a5f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474119227.jpg?k=c9ee7c946f8cd7a0b19d234dfdad8cc3bdf5641a6510469939a533c7c23a9452&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474119228.jpg?k=2167ef7903d89b93236145aa96c46e17daee392c7bf0fa856754160e822a58e8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474119229.jpg?k=54dc45bda6b58aca6db21acae07998b64513fecbbf2d013b9814c3d361bceaa4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474119231.jpg?k=67a31a308b3b22be711544173454a08c432ef018bdd7fa1b38adcfc174cf85fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474119232.jpg?k=314b3906c43f9134de377748fdeb9249b8b0aa6ab6ac7391e6ebe9b98067ac83&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474119233.jpg?k=335da41868e9ec380a872fe1b4bc100847423c225c602ee0ed696b465b7aaaf6&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Breakfast"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Taverna Stolis 50 m"\n  - "Chill Marine 50 m"\nnearbyBeaches:\n  - "Prinos Beach 50 m"\n  - "Potam Beach 100 m"\n  - "Maracit Beach 450 m"\n  - "Spille Beach 700 m"\n  - "Gjiri i Filikurit Beach 1.2 km"\nwhatsNearby:\n  - "Llogora National Park 17 km"\nairports:\n  - "Corfu International Airport 55 km"\nbookingURL: "https://www.booking.com/hotel/al/mumbas-rooms.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis exclusive apartment boasts a private beach area, a lush garden, and a welcoming bar, ensuring a stay that combines relaxation with convenience. Guests will appreciate the added luxury of a balcony that opens up to breathtaking sea views, along with complimentary amenities such as private parking and WiFi, making it an ideal retreat for those looking to disconnect and rejuvenate.
 
 Designed with comfort in mind, the air-conditioned apartment features a separate bedroom, a modern bathroom, and a cozy living room, all furnished to provide a home away from home experience. The inclusion of a flat-screen TV caters to the entertainment needs of guests, ensuring leisure moments are well spent in this non-smoking accommodation.
 
 Situated 142 km from Ioannina Airport, Mumbas Room 1 offers a tranquil haven that promises a memorable stay for beach lovers and peace seekers alike, making it a top recommendation for an unforgettable coastal getaway.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

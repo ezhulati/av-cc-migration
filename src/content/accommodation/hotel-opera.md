@@ -1,28 +1,5 @@
----
-title: Hotel Opera
-description: Accommodations at Hotel Opera are designed with guest comfort in mind, featuring air conditioning, flat-screen TVs, and select rooms that offer a cozy seating a
-featuredImage: "/images/accommodation/67749281.jpg"
-language: en
-slug: hotel-opera
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Hotel Opera are designed with guest comfort in mind, featuring air conditioning, flat-screen TVs, and select rooms that offer a cozy seating area for relaxation. Each room is outfitted with a private bathroom, complete with a shower, slippers, and complimentary toiletries, adding a touch of luxury to the stay.
+---\ntitle: "Hotel Opera"\ndescription: "Hotel Opera emerges as a distinguished choice for travelers seeking elegance and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67749281.jpg?k=f2898d92b5aa977de60d03dd59638d14f1e09dab5458a029ed4d987ad30a10dc&o=&hp=1"\nlanguage: en\nslug: hotel-opera\naddress: "Rruga Urani Pano, 1016 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.33057796\n  lng: 19.81837172\nprice: "US$97"\npriceFrom: 97\nstarRating: 4\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 1691\nratings:\n  overall: 9.1\n  location: 9.6\n  cleanliness: 9.2\n  facilities: 8.8\n  value: 8.8\n  comfort: 9.2\n  staff: 9.1\n  wifi: 8.9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67749281.jpg?k=f2898d92b5aa977de60d03dd59638d14f1e09dab5458a029ed4d987ad30a10dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/62408728.jpg?k=30a60429ca672f77d71c53e9ca5851d2bd434b80c94b47d9a58b31785ed71721&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67749293.jpg?k=425b6781a8b002c4a26dac108a6ccce05de3512a92a044526fbceba0604e95bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/68187575.jpg?k=a4ed1cc7cbacb3dd76940711736c75d8c952fd4683a6bbb6d53a6034ae8802ef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67749268.jpg?k=bf1fd04ebbab380b80171f94d5e60a88778b23d1e4cfb8cfee1f5524ea8b3e93&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/84567463.jpg?k=43db2513b4ea019102f9f9ac82bde4762a4eaf1606035e17f43fe8d061a5eabb&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Fabulous breakfast"\nroomTypes:\n  - "Superior Single Room"\n  - "Junior Suite"\nnearbyAttractions:\n  - "Rinia Park 650 m"\n  - "Tanners' Bridge 800 m"\n  - "Former Residence of Enver Hoxha 1.1 km"\n  - "Grand Park of Tirana 2.1 km"\n  - "Bunk'Art 1 Museum 4.1 km"\nnearbyRestaurants:\n  - "Pastaria 3 - Qendër 20 m"\n  - "Ferrari 20 m"\nwhatsNearby:\n  - "National Museum of History Albania 150 m"\n  - "Sheshi Skënderbej 250 m"\n  - "Sheshi Paris 300 m"\n  - "Skanderbeg Square 300 m"\n  - "Amazing Nature 300 m"\n  - "Clock Tower Tirana 350 m"\n  - "Parku Europa 350 m"\n  - "Sheshi Sulejman Pasha 350 m"\n  - "House of Leaves 450 m"\n  - "National Gallery of Arts Tirana 500 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "James"\n    country: "United Kingdom"\n    text: "“Everything. Lovely, friendly, accommodating staff. Beautiful, spotless room. Super location, very central and convenient for airbus bus. Delicious breakfast. Just fantastic.”"\n  - name: "Fynn-morten"\n    country: "Germany"\n    text: "“Everything was very good. Nice and clean rooms, great location and excellent breakfast!”"\n  - name: "Katarina"\n    country: "Serbia"\n    text: "“Perfect location, friendly staff and vary good breakfast 👍☕”"\nbookingURL: "https://www.booking.com/hotel/al/opera.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nAccommodations at Hotel Opera are designed with guest comfort in mind, featuring air conditioning, flat-screen TVs, and select rooms that offer a cozy seating area for relaxation. Each room is outfitted with a private bathroom, complete with a shower, slippers, and complimentary toiletries, adding a touch of luxury to the stay.
 
 Guests can also benefit from the convenience of a 24-hour front desk, ensuring assistance is always available, no matter the hour. For those visiting on business, Hotel Opera provides a meeting and conference room equipped with the latest technology, facilitating seamless events and gatherings.
 
 The hotel's strategic location also offers easy access to the Tirana Municipal Hall, Ministries Square, and various business centers, catering to both leisure and business travelers. With Tirana Airport just 13 km away, Hotel Opera stands as an accessible and inviting option for those visiting the vibrant city of Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

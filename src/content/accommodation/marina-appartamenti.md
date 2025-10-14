@@ -1,30 +1,7 @@
----
-title: Marina Appartamenti
-description: "The property boasts a well-appointed air-conditioned holiday home featuring a separate bedroom, a cozy living room, a fully equipped kitchen for those..."
-featuredImage: "/images/accommodation/470128301.jpg"
-language: en
-slug: marina-appartamenti
-location: ""
-amenities: []
-images: []
----
-
-The property boasts a well-appointed air-conditioned holiday home featuring a separate bedroom, a cozy living room, a fully equipped kitchen for those who love to prepare their meals, and a modern bathroom. Entertainment needs are catered to with a flat-screen TV, making it a perfect retreat for relaxation after a day of exploration.
+---\ntitle: "Marina Appartamenti"\ndescription: "Marina Appartamenti emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470128301.jpg?k=43504be57971e30a5127e436c04f73ff46e51c42d95ea24a04334edd89191ea1&o=&hp=1"\nlanguage: en\nslug: marina-appartamenti\naddress: "Rruga Kasao Petoshari, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4456469\n  lng: 19.4981529\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 5\nratings:\n  overall: 9.3\n  location: 8\n  cleanliness: 9.5\n  facilities: 9.5\n  value: 9.5\n  comfort: 9.5\n  staff: 9.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470128301.jpg?k=43504be57971e30a5127e436c04f73ff46e51c42d95ea24a04334edd89191ea1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470128369.jpg?k=3538bd4e66b4585a0b655cd06fda199ef47d0fd42e401bd7cbff923d2a54c5ec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470128360.jpg?k=bd6b1f2ce1422010fe45cdeff2640761d60819089261516fb9e547520ea924cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470128365.jpg?k=dec556ae2838de28e89fb917634a8ca1ebc754eaf10c4aaee44d06777014418d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470128382.jpg?k=7c60aafde0846a0c738056faa9ffe50071b93d9cb8e0c642c5b9fa7455154471&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470128373.jpg?k=65983d578184db8c643bb5fc7604fcbb90fa80a014a47bf4df4ef7bf04895758&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489799470.jpg?k=e97019af19a51e31b3fabf891163dc9754ee7563b12eeff88711cb428132654f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489799405.jpg?k=8aae2431069bc65f5be7b5de8fb8c606e6db615fec959c4833aac69efabfd4b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489799541.jpg?k=883cbe8f5beb5e64d10e21bdaa32e27d579f59dfabadc582a6dd77b64fbba925&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Good free WiFi (21 Mbps)"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Grill House J&E Restorant 200 m"\n  - "Marinero Pizzeria 300 m"\nnearbyBeaches:\n  - "Vlore Beach 300 m"\n  - "Ri Beach 1.2 km"\n  - "Vjetër Beach 1.6 km"\n  - "Beach at Government Villas 3 km"\n  - "Liro Beach 3.7 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.1 km"\n  - "Kuzum Baba 2.5 km"\n  - "Independence Square 2.9 km"\nreviews:\n  - name: "Donia"\n    country: "France"\n    text: "“the owner is very very very VERY nice, she was like our mom. It’s rare to come across such caring people <3”"\n  - name: "Randjelovic"\n    country: "Serbia"\n    text: "“Love the house and landlords, very quiet and very nice people. They speak only Italian so we had to use our phones, faces and hands a lot!”"\n  - name: "Mario"\n    country: "Croatia"\n    text: "“Svidio nam se ambijent u kojem smo boravili. Sve je izuzetno čisto i uredno. GAZDIRICI sve pohvale .”"\nbookingURL: "https://www.booking.com/hotel/al/marina-appartamenti.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe property boasts a well-appointed air-conditioned holiday home featuring a separate bedroom, a cozy living room, a fully equipped kitchen for those who love to prepare their meals, and a modern bathroom. Entertainment needs are catered to with a flat-screen TV, making it a perfect retreat for relaxation after a day of exploration.
 
 For outdoor enthusiasts or those simply looking to unwind, Marina Appartamenti offers a charming garden and barbecue facilities, available for guest use when the weather is inviting. The addition of a terrace provides an ideal spot for morning coffees or evening relaxation, overlooking the serene surroundings.
 
 Accessibility is a highlight, with Vjetër Beach located just 2.4 km away, and the historic Kuzum Baba viewpoint a mere 2.9 km from the doorstep. For international travelers, the Tirana International Mother Teresa Airport is 152 km away, making Marina Appartamenti a convenient base for both local and international visitors.
 
 The property also prioritizes guest convenience with a 24-hour front desk and bicycle parking, ensuring a comfortable and worry-free stay. Marina Appartamenti stands out as a top recommendation for those seeking a memorable stay in Vlorë, combining the comforts of home with the accessibility and beauty of the Albanian coast.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

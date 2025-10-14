@@ -1,26 +1,3 @@
----
-title: Hostel K13
-description: "Guests at Hostel K13 are treated to an array of evening entertainment options, alongside the convenience of a shared kitchen, making it an ideal spot..."
-featuredImage: "/images/accommodation/464945209.jpg"
-language: en
-slug: hostel-k13
-location: ""
-amenities: []
-images: []
----
-
-Guests at Hostel K13 are treated to an array of evening entertainment options, alongside the convenience of a shared kitchen, making it an ideal spot for those looking to connect with fellow travelers. Positioned merely 500 meters from the serene Maestral Beach and a scenic drive from the historic Butrint National Park, 15 km away, the hostel serves as a perfect base for explorers keen to uncover the natural and cultural treasures of the region.
+---\ntitle: "Hostel K13"\ndescription: "Hostel K13 emerges as a vibrant haven for travelers in the heart of Sarandë, offering a unique blend of communal ambiance and modern amenities."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464945209.jpg?k=b5fa6b54d1b5b29ee18deeee77a6171f9ab6f64096239c5141173378128433a2&o=&hp=1"\nlanguage: en\nslug: hostel-k13\naddress: "Rruga Butrinti, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hostel"\ncoordinates:\n  lat: 39.87023275\n  lng: 20.01528917\nprice: "US$11"\npriceFrom: 11\nstarRating: 3\nrating: 8.1\nratingWords: "Very Good"\nnumberOfReviews: 73\nratings:\n  overall: 8.1\n  location: 8.9\n  cleanliness: 7.7\n  facilities: 7.5\n  value: 8.3\n  comfort: 7.7\n  staff: 8.2\n  wifi: 8.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464945209.jpg?k=b5fa6b54d1b5b29ee18deeee77a6171f9ab6f64096239c5141173378128433a2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470128693.jpg?k=0d54833252244d109f8313475287b3ff28b009a3689cf9d9470ac88bb2066151&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471957146.jpg?k=be823f8ac6b0d0d443a016bddee52f85f56f95cbefaf13772f2cd19f9ac320ea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471957436.jpg?k=a3f7d99f6bd143d4f18e4c9af14f72ecc5174896010895feaa9cfde0e0b163d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482362232.jpg?k=42d32fd07a216cdb5bd3e59b438505c95b0994250f202bff35885f798abe01df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470126385.jpg?k=6312fdd1dd589a85d7eada32d2f35115c098445a221598b429ac52a5a30c80a4&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Bar"\nroomTypes:\n  - "Single Bed in Male Dormitory Room"\n  - "Single Bed in Female Dormitory Room"\n  - "4-Bed Mixed Dormitory Room"\n  - "Economy Double Room"\nnearbyRestaurants:\n  - "Sweet Liberty 50 m"\n  - "Restorant Piceri Abi 100 m"\nnearbyBeaches:\n  - "La Petite Beach 200 m"\n  - "Saranda City Beach 200 m"\n  - "Maestral Beach 350 m"\n  - "Sarande Main Beach 1.1 km"\n  - "VIP Beach 1.3 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.5 km"\n  - "Butrint National Park 2.4 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Kapllani"\n    country: "Albania"\n    text: "“The place was great. The owner was very friendly and helpful”"\n  - name: "Jana"\n    country: "Czech Republic"\n    text: "“I booked at the very last moment, but everything was still arranged. Daniel was amazingly kind and made me feel very welcome. Thank you!”"\n  - name: "Jil"\n    country: "Germany"\n    text: "“The hostel manager Daniel is amazing. he made me feel so welcome and cared for throughout my whole stay. he’s always happy to help everyone out and goes out of his way for you to have a good stay. He also brought me to nice places around the city...”"\nbookingURL: "https://www.booking.com/hotel/al/hostel-k13.en-gb.html?aid=8035640"\nbestFor: "Best for Hostel Experience"\nbestCategories: "Hostel Experience"\ncategory: "Hostel Experience"\n---\n\nGuests at Hostel K13 are treated to an array of evening entertainment options, alongside the convenience of a shared kitchen, making it an ideal spot for those looking to connect with fellow travelers. Positioned merely 500 meters from the serene Maestral Beach and a scenic drive from the historic Butrint National Park, 15 km away, the hostel serves as a perfect base for explorers keen to uncover the natural and cultural treasures of the region.
 
 For those arriving from afar, Ioannina Airport is located 96 km from the hostel, making Hostel K13 an accessible retreat for international visitors seeking a blend of adventure and relaxation in Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,26 +1,3 @@
----
-title: Villa home Astir
-description: This non-smoking establishment prides itself on offering guests the convenience of free private parking, ensuring a hassle-free stay from start to finish. Cultu
-featuredImage: "/images/accommodation/480239176.jpg"
-language: en
-slug: villa-home-astir
-location: ""
-amenities: []
-images: []
----
-
-This non-smoking establishment prides itself on offering guests the convenience of free private parking, ensuring a hassle-free stay from start to finish. Cultural enthusiasts will appreciate the property's location, just a short drive from the Former Residence of Enver Hoxha, a significant historical site situated 5.3 km away.
+---\ntitle: "Villa home Astir"\ndescription: "Villa Home Astir emerges as a prime choice for travelers seeking a serene yet conveniently located accommodation in Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480239176.jpg?k=d1f617339da2c92d51d25ea5efab65802c55adedfa1c5a367a58fce57fef2780&o=&hp=1"\nlanguage: en\nslug: villa-home-astir\naddress: "Rruga Hito Cako, Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.32759739\n  lng: 19.78227977\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480239176.jpg?k=d1f617339da2c92d51d25ea5efab65802c55adedfa1c5a367a58fce57fef2780&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/480239221.jpg?k=b49d2fc6eb631f470e4613d9bd94611b7972dcddf6ef492cb5a00cad46069fa2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/480239233.jpg?k=e155ece561cdbfcf52d321964be1ddce825a6bcefef7a51c0363ee1002c34e0b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/480239229.jpg?k=628a4786b263e59f305938f9d535bf56a2fca6aaba7f6438008acaea7707a0b4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/480239230.jpg?k=950bc660121027ea6627927d197c54cb56a18fcf4a02a08c0c1bac6db37288d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/480239236.jpg?k=f454f40d7cb2466d1f9ec4210bd8f6ef3312a51d4cce24441289483a46d4641e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/480239240.jpg?k=187abf366ef19c741d6711583c81e1dc176042c371e8b00db8d8d8b415f02a72&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/480239243.jpg?k=1fa96dce76fc26e73a1d18a9436c202b3a45f5ccce9362f10ce74ba6ac5e0a63&o=&hp=1"\namenities:\n  - "Free parking"\nnearbyAttractions:\n  - "House of Leaves 2.9 km"\n  - "National Museum of History Albania 2.9 km"\n  - "Former Residence of Enver Hoxha 3 km"\n  - "Rinia Park 3 km"\n  - "Skanderbeg Square 3.1 km"\n  - "Clock Tower Tirana 3.1 km"\n  - "National Gallery of Arts Tirana 3.2 km"\n  - "Tanners' Bridge 3.7 km"\n  - "Grand Park of Tirana 4 km"\n  - "Bunk'Art 1 Museum 7 km"\nnearbyRestaurants:\n  - "My Cherry Coffee 150 m"\n  - "The Public House Food and Drinks 200 m"\nwhatsNearby:\n  - "Shesh Rekreativ Yzberisht 400 m"\n  - "Park Lojrash 450 m"\n  - "Sheshi Rekreativ Pallati me Shigjeta 1,000 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 1.1 km"\n  - "Sheshi Rekreativ Parku 1Km 1.2 km"\n  - "Sheshi Rekreativ Lord Bajron 1.4 km"\n  - "Sheshi Rekreativ Bajram Curri 1.5 km"\n  - "Sheshi Rekreativ Sali Butka 1.5 km"\n  - "Sheshi Rekreativ Shefqet Musaraj 1.7 km"\n  - "Sheshi Xhuzepe Garibaldi 2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 9 km"\n  - "Ohrid Airport 82 km"\nbookingURL: "https://www.booking.com/hotel/al/villa-home-astir.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis non-smoking establishment prides itself on offering guests the convenience of free private parking, ensuring a hassle-free stay from start to finish. Cultural enthusiasts will appreciate the property's location, just a short drive from the Former Residence of Enver Hoxha, a significant historical site situated 5.3 km away.
 
 For visitors keen on exploring Tirana's architectural marvels, the Clock Tower and Et'hem Bey Mosque are both located 4.3 km from Villa Home Astir, offering a glimpse into the city's rich heritage. Moreover, the proximity to Tirana International Mother Teresa Airport, only 12 km away, makes Villa Home Astir an ideal choice for both international travelers and those looking to explore the vibrant city of Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

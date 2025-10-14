@@ -1,30 +1,8 @@
----
-title: Vila Viktori
-description: Each apartment at Vila Viktori is thoughtfully designed to ensure a comfortable stay, featuring air conditioning for those warm summer days, complimentary priva
-featuredImage: "/images/accommodation/412172706.jpg"
-language: en
-slug: vila-viktori
-location: ""
-amenities: []
-images: []
----
-
-Each apartment at Vila Viktori is thoughtfully designed to ensure a comfortable stay, featuring air conditioning for those warm summer days, complimentary private parking, and free WiFi to keep guests connected. The interiors are equipped with a terrace for enjoying the tranquil surroundings, a well-appointed kitchen for home-cooked meals, and a flat-screen TV for entertainment. A desk in each unit adds a convenient touch for those who may need to attend to work or personal projects during their stay.
+---\ntitle: "Vila Viktori"\ndescription: "Vila Viktori emerges as a serene retreat for travelers seeking the perfect blend of comfort and natural beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412172706.jpg?k=077f481c8bb2113fe34b541d23dbf2bc3da5581bdfe276e3cbb90106c53b66a7&o=&hp=1"\nlanguage: en\nslug: vila-viktori\naddress: "Rr. Liqeni Ksamil, Albania, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.77420906\n  lng: 20.01122305\nprice: "US$30"\npriceFrom: 30\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 43\nratings:\n  overall: 9\n  location: 8.2\n  cleanliness: 9\n  facilities: 8.5\n  value: 9.1\n  comfort: 8.9\n  staff: 9.5\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412172706.jpg?k=077f481c8bb2113fe34b541d23dbf2bc3da5581bdfe276e3cbb90106c53b66a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412174643.jpg?k=58ccbbc60b5c3bd02e779450e94ca009c764361acbd33e85f86dc1e9c4216416&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412174692.jpg?k=9ac894b69e736366045154ec78bb83d697ae8510b7b4020031a15d1e787b1200&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412174644.jpg?k=79d72588fdc027bba740e520ce893419633e8c5739d97846b6005e55b20ba52c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412174541.jpg?k=da63992a943c5baf961468d982c1ac1af073e686c03c374dbc591adf9ec32805&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412172707.jpg?k=b721f91841e4fecd42abe5212aea9174136a892b8f6c5ecf4ff9dbc6725bbfef&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Free parking"\n  - "Family rooms"\nroomTypes:\n  - "Studio with Terrace"\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "Museum of Banknotes 18 km"\n  - "New Fortress 18 km"\n  - "Serbian Museum 19 km"\n  - "Theotoki G. Square 19 km"\n  - "Archaeological Museum 19 km"\n  - "Ntougkla Square 19 km"\n  - "Trion Martiron Park 20 km"\nnearbyRestaurants:\n  - "Taverna Beshiku 200 m"\n  - "Restaraunt Aleksander 250 m"\nnearbyBeaches:\n  - "Sunset Beach 650 m"\n  - "Ksamil Beach 750 m"\n  - "Coco Beach 850 m"\n  - "Ksamil Beach 7 1.1 km"\n  - "Bora Bora Beach 1.1 km"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 1.1 km"\n  - "Butrint National Park 2.2 km"\n  - "Plazhi I Krorezes 3 km"\n  - "Parc National de Butrint 10 km"\n  - "Byzantine Museum 18 km"\n  - "Public Garden 18 km"\n  - "Solomos Museum 18 km"\n  - "Asian Art Museum 18 km"\n  - "Old Fortress 18 km"\nairports:\n  - "Corfu International Airport 20 km"\n  - "Ioannina Airport 69 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Irena"\n    country: "Portugal"\n    text: "“Very friendly staff and amazing conditions! Very close to the center of the city.”"\n  - name: "Kristina"\n    country: "North Macedonia"\n    text: "“Our stay was very nice and the vila was very clean. Also they cleaned every two days or so and changed towels and bed linens. The room was exactly like the photos. The owners were very nice and friendly and we did not have any issue.
+The vila...”"\n  - name: "Santusa"\n    country: "Albania"\n    text: "“The hosts are amazing so kind and so much welcoming. We always have a great stay there :)”"\nbookingURL: "https://www.booking.com/hotel/al/vila-viktori.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach apartment at Vila Viktori is thoughtfully designed to ensure a comfortable stay, featuring air conditioning for those warm summer days, complimentary private parking, and free WiFi to keep guests connected. The interiors are equipped with a terrace for enjoying the tranquil surroundings, a well-appointed kitchen for home-cooked meals, and a flat-screen TV for entertainment. A desk in each unit adds a convenient touch for those who may need to attend to work or personal projects during their stay.
 
 Beyond the comfort of the apartments, Vila Viktori invites guests to make the most of the outdoor amenities, including a barbecue area perfect for social gatherings and a lush garden that offers a peaceful escape.
 
 For those looking to explore the rich history and natural beauty of the area, Butrint National Park is just 3.5 km away, offering a glimpse into the ancient past amidst stunning landscapes. Additionally, the property is conveniently located 93 km from Corfu International Airport, making it an accessible choice for international travelers.
 
 Vila Viktori stands out as an idyllic choice for those in search of a tranquil getaway, where the beauty of nature meets the comfort of home.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

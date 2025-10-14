@@ -1,26 +1,3 @@
----
-title: Herner rooms
-description: Guests are treated to a modern living experience within the air-conditioned, one-bedroom holiday home. It is equipped with amenities designed for the contempora
-featuredImage: "/images/accommodation/524318025.jpg"
-language: en
-slug: herner-rooms
-location: ""
-amenities: []
-images: []
----
-
-Guests are treated to a modern living experience within the air-conditioned, one-bedroom holiday home. It is equipped with amenities designed for the contemporary traveler, including free WiFi, a flat-screen TV, and a washing machine. The kitchen doesn't just meet the eye but caters to convenience with a fully equipped setup and a minibar, perfect for those who enjoy crafting their meals. Moreover, the property boasts garden views that add a touch of tranquility to the stay.
+---\ntitle: "Herner rooms"\ndescription: "Herner Rooms emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, situated a stone's throw away from the iconic Independence Square."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522085567.jpg?k=7060d260f1b70166c385c6d844685eaf1cabd79fa4e4ec74561d4e957a09c23b&o=&hp=1"\nlanguage: en\nslug: herner-rooms\naddress: "Rruga Sokrat Leka, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.4725957\n  lng: 19.4739372\nprice: "US$41"\npriceFrom: 41\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522085567.jpg?k=7060d260f1b70166c385c6d844685eaf1cabd79fa4e4ec74561d4e957a09c23b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524318025.jpg?k=37ce7c26936f916046163f6b0972da18fdd94b77dc5e88e329eeb6d35ca56d6b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524318032.jpg?k=792dfe4c3ef3eadc6a664abf3388af758b48314e87154efdf3be733b9dd21d5c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522085660.jpg?k=ca863334a6807e17bf0a1b650d97107630a6cf4059056224b59ebf9aed61c42a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524318035.jpg?k=566e9d490c1894e8d6a47da96f5ea9476a291c61724c1a639aa852b017f50106&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522085632.jpg?k=c922278177fb2e5f160b24db7d6367fb760bfb04c58396864fb9564c1b9dd459&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522085653.jpg?k=c7cbbfcff8cf72f0e530b34a6bc6f97e5198098f6eb6411b9ba847a211f4abf6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522085645.jpg?k=fb36af55d3b1b88bc8f7b4166d4332fb2dfc198c560dd224d2c42b3892e934ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522085627.jpg?k=dcbf531a8b757650a654146bc8f39c70fc07a0d49262fdcac9f0bd4405252ccf&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom House"\nnearbyRestaurants:\n  - "Kej Caffe 850 m"\n  - "Bar Bufe 900 m"\nnearbyBeaches:\n  - "Vjetër Beach 1.6 km"\n  - "Vlore Beach 3.2 km"\n  - "Narta Beach 3.7 km"\n  - "Ri Beach 4.5 km"\n  - "Beach at Government Villas 6 km"\nwhatsNearby:\n  - "Independence Square 1.4 km"\n  - "Kuzum Baba 1.7 km"\n  - "Scooby Doo Vlore 4.4 km"\nbookingURL: "https://www.booking.com/hotel/al/herner-rooms.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are treated to a modern living experience within the air-conditioned, one-bedroom holiday home. It is equipped with amenities designed for the contemporary traveler, including free WiFi, a flat-screen TV, and a washing machine. The kitchen doesn't just meet the eye but caters to convenience with a fully equipped setup and a minibar, perfect for those who enjoy crafting their meals. Moreover, the property boasts garden views that add a touch of tranquility to the stay.
 
 For those looking to explore the local culture and landmarks, Kuzum Baba is just 3.1 km away, making it an easy excursion. Additionally, for guests traveling from afar, the Tirana International Mother Teresa Airport is located 148 km from Herner Rooms, making it accessible for international visitors. This holiday home not only offers a comfortable stay but also positions itself as a gateway to exploring the rich heritage and natural beauty of Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

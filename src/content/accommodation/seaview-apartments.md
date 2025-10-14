@@ -1,32 +1,9 @@
----
-title: Seaview Apartments
-description: This property boasts a prime location close to Santa Quaranta Beach, Butrint National Park, and the historical site of Ancient Fanoti. It offers guests the lux
-featuredImage: "/images/accommodation/525112223.jpg"
-language: en
-slug: seaview-apartments
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Seaview Apartments"\ndescription: "Seaview Apartments in Sarandë stands out as a prime choice for travelers seeking comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525112223.jpg?k=ec33d836294f9331ca54b9b4423d2fa81e6ca798f6d4ca7c8fb08132b31dbd00&o=&hp=1"\nlanguage: en\nslug: seaview-apartments\naddress: "Rruga Butrinti, 2542 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.85417803\n  lng: 20.02180919\nprice: "US$75"\npriceFrom: 75\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525112223.jpg?k=ec33d836294f9331ca54b9b4423d2fa81e6ca798f6d4ca7c8fb08132b31dbd00&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524057292.jpg?k=e6b603450a79434db1de0ff8031a64156039abf1205afba4355994d9106ba910&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525112265.jpg?k=ad40e3ef2a27fc6315def43042789383511ae99bf6404f102562c515e1f8d7b8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525120144.jpg?k=b0980f7db9c603c0e815e97073a20db693c80d4ab00d67b01b0f228b2202a100&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524057332.jpg?k=7312849ffa696b4eaedbecebe0406eb36328e07c37eece37e6ec90c5d1079015&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524057339.jpg?k=adf6d3527f3e170ce8cb7abaa8eef536b37e3d63dad1c23afe737be2734a35d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525112240.jpg?k=0c2ee340bc1f7099c718655adda2fe7a3fda16529c60ba41b8142dff4c5999a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525112419.jpg?k=363e7073a65a59c0cfa163dfa0f31e6014a51702853f4a5ea465bb5eb944acb2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524057349.jpg?k=34b4693f54d8dd80a5b210b1c046075e4f814b958d5224a599c4a9c8dc04d5be&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Fish House 20 m"\n  - "Atlantis Lounge 50 m"\nnearbyBeaches:\n  - "Mango Beach 150 m"\n  - "Flamingo Beach 150 m"\n  - "Santa Quaranta Beach 400 m"\n  - "VIP Beach 500 m"\n  - "Maestral Beach 1.4 km"\nwhatsNearby:\n  - "Butrint National Park 550 m"\n  - "Parc National de Butrint 600 m"\n  - "Plazhi I Krorezes 6 km"\n  - "Parku Kombetar I Butrintit 10 km"\n  - "Butrint National Park 10 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/seaview-apartments-sarande1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis property boasts a prime location close to Santa Quaranta Beach, Butrint National Park, and the historical site of Ancient Fanoti. 
 
-This property boasts a prime location close to Santa Quaranta Beach, Butrint National Park, and the historical site of Ancient Fanoti.
+It offers guests the luxury of space with its spacious, air-conditioned accommodations. 
 
-It offers guests the luxury of space with its spacious, air-conditioned accommodations.
+Each apartment features a welcoming balcony and free WiFi and is thoughtfully equipped with a modern kitchen and a bathroom, ensuring a stay that combines the comforts of home with the excitement of travel. 
 
-Each apartment features a welcoming balcony and free WiFi and is thoughtfully equipped with a modern kitchen and a bathroom, ensuring a stay that combines the comforts of home with the excitement of travel.
-
-Entertainment needs are also met by including a flat-screen TV in the apartment's amenities.
+Entertainment needs are also met by including a flat-screen TV in the apartment's amenities. 
 
 For those concerned about travel logistics, the nearest airport, Ioannina Airport, is located 97 km away, making Seaview Apartments an accessible retreat for local and international visitors.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

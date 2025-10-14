@@ -1,30 +1,7 @@
----
-title: Fox Apartments
-description: The accommodations at Fox Apartments are designed with the modern traveler in mind, featuring air-conditioned spaces that boast panoramic city views and complim
-featuredImage: "/images/accommodation/480023820.jpg"
-language: en
-slug: fox-apartments
-location: ""
-amenities: []
-images: []
----
-
-The accommodations at Fox Apartments are designed with the modern traveler in mind, featuring air-conditioned spaces that boast panoramic city views and complimentary WiFi access. Guests will appreciate the added privacy of a separate entrance, making these family-friendly rooms feel like a home away from home.
+---\ntitle: "Fox Apartments"\ndescription: "Fox Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480023820.jpg?k=73903bf6135a8cbbd101363c5c93c652341b64904c7c3267f82d881941df2899&o=&hp=1"\nlanguage: en\nslug: fox-apartments\naddress: "Bulevardi Zogu I 2, Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33250212\n  lng: 19.81775217\nprice: "US$45"\npriceFrom: 45\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 37\nratings:\n  overall: 9.6\n  location: 9.6\n  cleanliness: 9.7\n  facilities: 9.7\n  value: 9.5\n  comfort: 9.6\n  staff: 9.4\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480023820.jpg?k=73903bf6135a8cbbd101363c5c93c652341b64904c7c3267f82d881941df2899&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480023802.jpg?k=41d98f6a7a738bc007dca16541797696b53f1c6cd55b1449f66f3bca89333096&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480023781.jpg?k=4dd308c3276e1445a546973468c4a7c627f585b50bcec3b75645f44b3863f848&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480023830.jpg?k=b60451ae550c150bcd11c1d39af434f8c6b07ccf7a1a6adc4339ab6b12e61868&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480023812.jpg?k=8e7a86ca300f5f456bdbdd1d336ae3956755e4a48b1f82fa6e50e31155a93557&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480023842.jpg?k=54f37cfe39f07dab727bc6a6d4d63720b188f470af27b2920a807777cd0ea04f&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Rinia Park 850 m"\n  - "Tanners' Bridge 950 m"\n  - "Former Residence of Enver Hoxha 1.3 km"\n  - "Grand Park of Tirana 2.4 km"\n  - "Bunk'Art 1 Museum 4.1 km"\nnearbyRestaurants:\n  - "Mon Cheri Coffee Shop 20 m"\n  - "Fast Food Magic Hand 100 m"\nwhatsNearby:\n  - "Amazing Nature 150 m"\n  - "National Museum of History Albania 350 m"\n  - "Sheshi Paris 400 m"\n  - "Sheshi Skënderbej 450 m"\n  - "Skanderbeg Square 550 m"\n  - "Sheshi Sulejman Pasha 550 m"\n  - "Clock Tower Tirana 550 m"\n  - "Parku Europa 550 m"\n  - "House of Leaves 650 m"\n  - "National Gallery of Arts Tirana 750 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Tasha"\n    country: "Trinidad and Tobago"\n    text: "“We liked everything about this apartment. It was compact with everything that you need for your stay without being jumbled. Bonuses were those heated floors in the bathroom that felt like heaven. The apartment even comes with Netflix, which was...”"\n  - name: "Hannah"\n    country: "United Kingdom"\n    text: "“Everything was great. Spacious, modern, clean apartment in central location. Very comfortable bed, well equipped kitchen and bathroom. Great host, very helpful. Highly recommend.”"\n  - name: "Anika"\n    country: "Germany"\n    text: "“It was a great apartment. Great facilities, beautiful design. Everything was just wonderful. Thank you for the great stay.I can only recommend this apartment.”"\nbookingURL: "https://www.booking.com/hotel/al/fox-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe accommodations at Fox Apartments are designed with the modern traveler in mind, featuring air-conditioned spaces that boast panoramic city views and complimentary WiFi access. Guests will appreciate the added privacy of a separate entrance, making these family-friendly rooms feel like a home away from home.
 
 Each apartment is thoughtfully outfitted with a fully equipped kitchen, including an oven, microwave, fridge, and stovetop, complemented by a cozy seating area, flat-screen TV, and a washing machine for added convenience. The attention to detail extends to the private bathrooms, which come with a bidet and plush bathrobes, ensuring a comfortable stay. Moreover, every unit is stocked with fresh bed linen and towels, underscoring the property's commitment to guest comfort.
 
-For those looking to unwind, the on-site bar offers a relaxed setting to enjoy a drink and socialize.
+For those looking to unwind, the on-site bar offers a relaxed setting to enjoy a drink and socialize. 
 
 Fox Apartments is ideally located within walking distance of several of Tirana's most notable attractions, including the Former Residence of Enver Hoxha, the National Museum of History Albania, and the National Theatre of Opera and Ballet of Albania. For guests arriving by air, the Tirana International Mother Teresa Airport is conveniently located just 14 km away, making Fox Apartments an excellent choice for both short visits and extended stays in Albania's vibrant capital.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

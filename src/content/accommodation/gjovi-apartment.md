@@ -1,26 +1,6 @@
----
-title: Gjovi Apartment
-description: The accommodation itself is a testament to modern living, boasting a spacious bedroom, a cozy living room equipped with a flat-screen TV, and a fully equipped k
-featuredImage: "/images/accommodation/468741526.jpg"
-language: en
-slug: gjovi-apartment
-location: ""
-amenities: []
-images: []
----
-
-The accommodation itself is a testament to modern living, boasting a spacious bedroom, a cozy living room equipped with a flat-screen TV, and a fully equipped kitchen that includes a dishwasher and an oven. The highlight, however, is the terrace that offers breathtaking mountain views, providing an ideal backdrop for meals in the outdoor dining area, with the added bonus of river views that promise to enchant every guest. The apartment ensures a smoke-free environment, catering to the comfort and well-being of all guests.
+---\ntitle: "Gjovi Apartment"\ndescription: "Gjovi Apartment stands as a serene retreat in the heart of Shkodër, a mere 47 km away from the bustling Port of Bar."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468741526.jpg?k=d6d179afe671a7f2d14e710f9f8a86ef05a62e699bd9938493d0910811255113&o=&hp=1"\nlanguage: en\nslug: gjovi-apartment\naddress: "Rruga 9 Nuset, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.0489371\n  lng: 19.50357585\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 16\nratings:\n  overall: 9.4\n  location: 9.4\n  cleanliness: 9.5\n  facilities: 9.2\n  value: 9.4\n  comfort: 8.9\n  staff: 9.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468741526.jpg?k=d6d179afe671a7f2d14e710f9f8a86ef05a62e699bd9938493d0910811255113&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468741573.jpg?k=f9e1e8974994c979ea3e90ce8a78ba6c6438db30177d3d9e495aad0cdbedb2cd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468741586.jpg?k=077b6a5496288f39da2d1b556d7b1f55fb89543b038f5006ccc1d8883573a520&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468741554.jpg?k=968af80be83ec19c3df8589c84c99aee2f01e00933ba484a4f9ce8859044f1f9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468741553.jpg?k=b01ed758aecd933edadc285fc949f81a2550d64abb251b36fe6f341172955a1f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468741622.jpg?k=e22ad7e964055c067ec6a69ac0437c6d9be2044fb862383acb3fdb6adae4239f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468741628.jpg?k=719868ea833df40f26df47c85f5a4261afc98563e4fe86e11e0e63f44d63b4c9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468741627.jpg?k=859151d45ae9eccb8410bfca1837f34e3c06c69394f34f419cf06eb1a25dba24&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468741536.jpg?k=9a7ee72295123d87a82965d36522d39dd126a7bea650aa3f6fc2557fc8c6ef89&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Fast free WiFi (145 Mbps)"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Pizzeri Murati 700 m"\n  - "Kafe 750 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 850 m"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 39 km"\n  - "Tirana International Airport Mother Teresa 71 km"\n  - "Tivat Airport 74 km"\nreviews:\n  - name: "Monika"\n    country: "Slovakia"\n    text: "“A beautiful, quiet place with an amazing view of the river.
+We had a great rest after a whole day on motorbikes and enjoyed the beauty of the surroundings with a coffee in hand.”"\n  - name: "Marco"\n    country: "Netherlands"\n    text: "“Great and spacious appartment near Shkoder castle and the city centre.”"\n  - name: "Norberto"\n    country: "Argentina"\n    text: "“Beautiful views in a well equipped house.
+The 3 pax slept on an armchair that was not very comfortable.
+The environment around the house is neglected.”"\nbookingURL: "https://www.booking.com/hotel/al/gjovi-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe accommodation itself is a testament to modern living, boasting a spacious bedroom, a cozy living room equipped with a flat-screen TV, and a fully equipped kitchen that includes a dishwasher and an oven. The highlight, however, is the terrace that offers breathtaking mountain views, providing an ideal backdrop for meals in the outdoor dining area, with the added bonus of river views that promise to enchant every guest. The apartment ensures a smoke-free environment, catering to the comfort and well-being of all guests.
 
 For travelers concerned with accessibility, Podgorica Airport is conveniently located just 61 km away, making Gjovi Apartment an accessible haven for both short and long-term stays. This property does not just offer a place to stay; it promises an experience that combines the comforts of home with the beauty of Shkodër.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

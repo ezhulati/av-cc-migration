@@ -1,26 +1,3 @@
----
-title: Cozy apartment 50m from the beach
-description: The apartment itself is a haven of comfort, featuring air conditioning for those warm summer days. It houses a bedroom that promises restful nights, a living ro
-featuredImage: "/images/accommodation/437979710.jpg"
-language: en
-slug: cozy-apartment-50m-from-the-beach
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of comfort, featuring air conditioning for those warm summer days. It houses a bedroom that promises restful nights, a living room designed for relaxation, a dining area perfect for intimate meals, and a fully equipped kitchen, complete with an oven, ready for culinary adventures. The inclusion of towels and bed linen adds a touch of home, while the private entrance ensures guests' privacy and ease of access.
+---\ntitle: "Cozy apartment 50m from the beach"\ndescription: "Cozy Apartment, a mere stone's throw from Prinos Beach and just a short stroll from Maracit Beach, emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Himare."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437979710.jpg?k=3feb8846ef433b0b4c7a1c285644e8044315b42c0d3597f3e6746ef812fe0907&o=&hp=1"\nlanguage: en\nslug: cozy-apartment-50m-from-the-beach\naddress: "Himare Apartment in front of sea, second floor, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.09548873\n  lng: 19.75548663\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437979710.jpg?k=3feb8846ef433b0b4c7a1c285644e8044315b42c0d3597f3e6746ef812fe0907&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437979698.jpg?k=26faf029d737e6fdbe6b78d5cccfe716068630ca474505a789689f4a6fb86c2f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483266382.jpg?k=2fb5e5319606f389aa6f9852d1ec249a4fec6b7fcf745ba9d8e04debd7abb02a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437979712.jpg?k=037f0072c029544a5882b422e379105b7989763afdf4bf8d735cb2ea9f1e8b84&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437979663.jpg?k=7a67ce04233ad513353b047acff58e9afee283e67e6d783163878954490e1c76&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483256155.jpg?k=3a3c973f6d804218b10ed63b8c54d948a04ce5021b6aaa88df418037da16238f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483262387.jpg?k=d65e628c92854f075bbf98026439b9050bfee8a599f98a6f5230ea583a477c24&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437979728.jpg?k=11ba95ab79d979c571ca353332bf35cb9466b133aeb05cab1f361a3e9dc9e324&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483238799.jpg?k=957b8b58d67e5d75d4c187d46ab3d2c243b42fe9c20b298e29bf4ff58118e67e&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Iceland 100 m"\n  - "Potami Himarë 150 m"\nnearbyBeaches:\n  - "Potam Beach 100 m"\n  - "Prinos Beach 150 m"\n  - "Maracit Beach 600 m"\n  - "Spille Beach 850 m"\n  - "Gjiri i Filikurit Beach 1.1 km"\nwhatsNearby:\n  - "Llogora National Park 17 km"\nairports:\n  - "Corfu International Airport 55 km"\nreviews:\n  - name: "Anonymous"\n    country: "Albania"\n    text: "“The location was perfect, with a sea view and less than 10min walk from the center. It was the best opportunity to enjoy the quietness of the sea and the dynimac of the city. It was very close to the beach with many restaurants nearby and the host...”"\nbookingURL: "https://www.booking.com/hotel/al/lovely-cozy-apartment-100-meters-from-the-beach-potam.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of comfort, featuring air conditioning for those warm summer days. It houses a bedroom that promises restful nights, a living room designed for relaxation, a dining area perfect for intimate meals, and a fully equipped kitchen, complete with an oven, ready for culinary adventures. The inclusion of towels and bed linen adds a touch of home, while the private entrance ensures guests' privacy and ease of access.
 
 Situated 142 km from Ioannina Airport, Cozy Apartment presents an ideal base for exploring the enchanting surroundings of Himare or simply enjoying a peaceful beach getaway.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

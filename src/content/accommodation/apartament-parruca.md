@@ -1,26 +1,3 @@
----
-title: Apartament Parruca
-description: Boasting a generous layout, the apartment features one bedroom, a living area equipped with a flat-screen TV and cable channels for entertainment, and a fully e
-featuredImage: "/images/accommodation/478103990.jpg"
-language: en
-slug: apartament-parruca
-location: ""
-amenities: []
-images: []
----
-
-Boasting a generous layout, the apartment features one bedroom, a living area equipped with a flat-screen TV and cable channels for entertainment, and a fully equipped kitchen that includes a dishwasher and a fridge for those who love to cook. Additionally, the convenience of a washing machine and the modernity of a bathroom equipped with a bidet highlight the thoughtful amenities provided. Emphasizing a smoke-free environment, Apartament Parruca caters to the health and well-being of all guests.
+---\ntitle: "Apartament Parruca"\ndescription: "Discover the charm of Shkodër from the comfort of Apartament Parruca, a prime destination for travelers seeking a blend of convenience and comfort."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478103990.jpg?k=cb6bac00442cfd1634b5ba80514eefb9ef79d6c66266ddb60c6303adf1d843fc&o=&hp=1"\nlanguage: en\nslug: apartament-parruca\naddress: "Parruce, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.06323327\n  lng: 19.50682363\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478103990.jpg?k=cb6bac00442cfd1634b5ba80514eefb9ef79d6c66266ddb60c6303adf1d843fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478103987.jpg?k=10efab23a898ce22788aa03104783b23fbf8f95f8fdec4816f22c35b1f0599e1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478103974.jpg?k=6eb78ee2c88ed8d2dc535727459e1db00692d2a4b41693682dad62ee331e9959&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478103973.jpg?k=8e94d6d016aed92ab3511fd274ff894fa77c93795a5c6c9432a673a2fe3aee2d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478103971.jpg?k=99511f2f789e96332cb1175f15e8e827208f8fda0614a3409a42198e64426f27&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478103937.jpg?k=d9466803338453aed7051b5729cb929224ae5075965291cb3242c98dc3d61f8f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478103980.jpg?k=e8f1e2ca9aa0a0acfd05b551bb272f082b8e9d98555b3e5f672a4d77ba1c2878&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478103992.jpg?k=e3173ccefc994897da6d1a099a120866542fee6448a029db60f015caae20cd09&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478103984.jpg?k=dd0ca8822fed0609800f0697e319355a577129c2b857b11f0b3e2f9c7b67d57f&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "ZonaZ 20 m"\n  - "Rostiçeri Parruca 40 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 2.2 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 73 km"\n  - "Tivat Airport 73 km"\nbookingURL: "https://www.booking.com/hotel/al/apartament-parruca.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nBoasting a generous layout, the apartment features one bedroom, a living area equipped with a flat-screen TV and cable channels for entertainment, and a fully equipped kitchen that includes a dishwasher and a fridge for those who love to cook. Additionally, the convenience of a washing machine and the modernity of a bathroom equipped with a bidet highlight the thoughtful amenities provided. Emphasizing a smoke-free environment, Apartament Parruca caters to the health and well-being of all guests.
 
 For those looking to explore beyond the city, Podgorica Airport is conveniently located 58 km away, making travel plans seamless. Whether it's the spacious interiors or the strategic location, Apartament Parruca stands out as a top choice for visitors to Shkodër.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

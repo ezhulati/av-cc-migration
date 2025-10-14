@@ -1,28 +1,5 @@
----
-title: Marina Beach Apartaments
-description: The apartment itself is a testament to modern living, featuring a single bedroom that promises a restful night's sleep, a fully equipped kitchen for those who e
-featuredImage: "/images/accommodation/474585749.jpg"
-language: en
-slug: marina-beach-apartaments
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to modern living, featuring a single bedroom that promises a restful night's sleep, a fully equipped kitchen for those who enjoy crafting their meals, and a bathroom that caters to the essentials of daily refreshment. Entertainment is readily available through the inclusion of a flat-screen TV, ensuring that guests have access to leisure at their fingertips.
+---\ntitle: "Marina Beach Apartaments"\ndescription: "Marina Beach Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474585749.jpg?k=5f94b6eec8f43aafb7f9542a18d12c06969a71519c826fd7318b9a985c049ccd&o=&hp=1"\nlanguage: en\nslug: marina-beach-apartaments\naddress: "Rruga Haziz Xhyherri, 9406 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44480546\n  lng: 19.49624163\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 2.5\nratingWords: "Needs Improvement"\nnumberOfReviews: 3\nratings:\n  overall: 2.5\n  location: 2.5\n  cleanliness: 2.5\n  facilities: 2.5\n  value: 2.5\n  comfort: 2.5\n  staff: 2.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474585749.jpg?k=5f94b6eec8f43aafb7f9542a18d12c06969a71519c826fd7318b9a985c049ccd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/474585815.jpg?k=4a2a1185973a873f3698ca07c462054221eca99a2a43171174f4c0ac88a2954d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/474585819.jpg?k=aaa74e96535a47ac19cf1582e6a98416e8526cc559713f4ba7e015e4bcae24d7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/474585826.jpg?k=f52e4566870653b24940067280b017507766cc3ad129528a8a80c1a4557ca882&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/474585834.jpg?k=ee153b9d98d196c1f5423065d869281fa3f4b9d96c3556e231b942f4cb23beea&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Amo Pizza 100 m"\n  - "Marinero Pizzeria 100 m"\nnearbyBeaches:\n  - "Vlore Beach 150 m"\n  - "Ri Beach 1 km"\n  - "Vjetër Beach 1.5 km"\n  - "Beach at Government Villas 2.9 km"\n  - "Liro Beach 3.6 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 950 m"\n  - "Kuzum Baba 2.5 km"\n  - "Independence Square 2.9 km"\npaymentMethods:\n  - "Mastercard"\nbookingURL: "https://www.booking.com/hotel/al/marina-beach-apartaments-vlore1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to modern living, featuring a single bedroom that promises a restful night's sleep, a fully equipped kitchen for those who enjoy crafting their meals, and a bathroom that caters to the essentials of daily refreshment. Entertainment is readily available through the inclusion of a flat-screen TV, ensuring that guests have access to leisure at their fingertips.
 
 Connectivity is never an issue, as free WiFi envelops the property, allowing guests to stay connected with the world or plan their next day's adventures in Vlorë. For those looking to venture further, Independence Square awaits at a distance of 3.2 km, offering a glimpse into the city's vibrant culture and history.
 
 Situated 152 km from Tirana International Mother Teresa Airport, Marina Beach Apartments not only offers a serene getaway but also ensures that arrivals and departures are as smooth as possible for international travelers. This property stands out as an ideal spot for those eager to experience the coastal beauty and cultural richness of Vlorë, all from the comfort of a home-like setting.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

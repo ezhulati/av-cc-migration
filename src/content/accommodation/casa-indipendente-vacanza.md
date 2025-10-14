@@ -1,30 +1,7 @@
----
-title: Casa indipendente vacanza
-description: The apartment itself is a haven of comfort, featuring air conditioning for those warm Mediterranean days. It houses two cozy bedrooms, a living room designed fo
-featuredImage: "/images/accommodation/485383479.jpg"
-language: en
-slug: casa-indipendente-vacanza
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Casa indipendente vacanza"\ndescription: "Casa Indipendente Vacanza emerges as a serene retreat in Vlorë, a mere stone's throw away from the pristine Ri Beach at just 1."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485383479.jpg?k=255bb937a542e9b225321c68f340a23b0f979e01b1996149613356ed123705d0&o=&hp=1"\nlanguage: en\nslug: casa-indipendente-vacanza\naddress: "Rruga Petro Marko, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.42990913\n  lng: 19.50054702\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485383479.jpg?k=255bb937a542e9b225321c68f340a23b0f979e01b1996149613356ed123705d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485383546.jpg?k=c5869219b26b67e3cda0d396b75deceaa7dac3bf4e5fc264d41260955f8199ef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485383557.jpg?k=99420841426b3f9c304ca0f40e9ad8b77ffab13d6b438340b54fc0801c76b5a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527624462.jpg?k=caab162287ceb2261bb61e77d785ca46ab73a947ebb28557d257d7004e1e6113&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527626492.jpg?k=8f48cb270c78c4f8ee7ca75913d868a30a50a46d584835b434d5f966735e656c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485383560.jpg?k=3af2787d4ae064e039cdf95d88ca4dfbdb523d4d20600edb043b94906be029de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485383545.jpg?k=de18a86478653777213828ed10f0fea93626380096319bbbe3e86b4f4f65d73b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485383541.jpg?k=15e7e6043bf112e74c29e8abc29d21f75224e93f7618cc324aaa451e195f88d1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527624496.jpg?k=63cbf62f103072271069688165d6e14d056ef4f850b26056b1ed153d36e4ad6a&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "The Yacht 550 m"\n  - "Mareluna 600 m"\nnearbyBeaches:\n  - "Ri Beach 600 m"\n  - "Vlore Beach 1.5 km"\n  - "Beach at Government Villas 1.6 km"\n  - "Liro Beach 2.4 km"\n  - "Vjetër Beach 2.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 850 m"\n  - "Kuzum Baba 4.2 km"\n  - "Independence Square 4.6 km"\nairports:\n  - "Corfu International Airport 97 km"\nbookingURL: "https://www.booking.com/hotel/al/casa-indipendente-vacanza.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of comfort, featuring air conditioning for those warm Mediterranean days. It houses two cozy bedrooms, a living room designed for relaxation, and a dining area perfect for enjoying meals prepared in the fully equipped kitchen, complete with an oven. The attention to detail is evident in the inclusion of a bidet and a dressing room, enhancing the overall guest experience. Moreover, the apartment offers captivating city views, adding to its charm.
 
-The apartment itself is a haven of comfort, featuring air conditioning for those warm Mediterranean days. It houses two cozy bedrooms, a living room designed for relaxation, and a dining area perfect for enjoying meals prepared in the fully equipped kitchen, complete with an oven. The attention to detail is evident in the inclusion of a bidet and a dressing room, enhancing the overall guest experience. Moreover, the apartment offers captivating city views, adding to its charm.
-
-For those seeking moments of peace, the garden provides an idyllic setting to relax and rejuvenate.
+For those seeking moments of peace, the garden provides an idyllic setting to relax and rejuvenate. 
 
 Strategically located, Casa Indipendente Vacanza is a short drive from the vibrant Vlore Beach, approximately 3 km away. For the culturally inclined, the historic Kuzum Baba and Independence Square are within easy reach, located 6.1 km and 6.4 km from the apartment, respectively. For international travelers, the Tirana International Mother Teresa Airport is the nearest gateway, situated 155 km from the property.
 
 Casa Indipendente Vacanza stands out as an ideal choice for travelers seeking a blend of tranquility, comfort, and convenience in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

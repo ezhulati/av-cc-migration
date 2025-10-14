@@ -1,28 +1,13 @@
----
-title: Sunny Home
-description: Each apartment at Sunny Home is designed with guest privacy in mind, featuring a private entrance that leads to a world of comfort. The living spaces are well-a
-featuredImage: "/images/accommodation/377057754.jpg"
-language: en
-slug: sunny-home
-location: ""
-amenities: []
-images: []
----
-
-Each apartment at Sunny Home is designed with guest privacy in mind, featuring a private entrance that leads to a world of comfort. The living spaces are well-appointed with a fully equipped kitchen, allowing guests the freedom to prepare their meals, and a flat-screen TV for entertainment. The added convenience of free WiFi throughout the property ensures that guests stay connected during their visit.
+---\ntitle: "Sunny Home"\ndescription: "Sunny Home emerges as a prime choice for travelers seeking comfort and convenience in Golem, located just a short stroll from Mali I Robit Beach and within easy reach of Qerret Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377057754.jpg?k=bda413658bb65c428f4d883ba5a41591a831cf644aa9d664b698ae0e26db3941&o=&hp=1"\nlanguage: en\nslug: sunny-home\naddress: "Rruga Dardania, 2501 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.23493609\n  lng: 19.51766478\nprice: "US$36"\npriceFrom: 36\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 14\nratings:\n  overall: 9.2\n  location: 8.6\n  cleanliness: 8.8\n  facilities: 9.1\n  value: 9.5\n  comfort: 8.9\n  staff: 9.3\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377057754.jpg?k=bda413658bb65c428f4d883ba5a41591a831cf644aa9d664b698ae0e26db3941&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377059602.jpg?k=edac5730c414c3ae20b22f75d16afb8ccc5b6123b56c666ded30b4587bd111cc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374208132.jpg?k=56870ddc7eaee890f85fc3b0c3648bf89e6cd77f766df707691eac46654b3822&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377063598.jpg?k=936bf93eccd4f6619875dbab8f9594c355ddb039004b2ffea00042aab1115062&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377057799.jpg?k=a77e2408dcb414262410f508bf1ab5d8497ac18c69eebe64889bc1445a68d060&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376932430.jpg?k=223423c85d2e68dbd16c099394ef41978fa409b55006b7829bc2e78cc9c43506&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377063136.jpg?k=a00171201bb2ede5fa145a4f7da837a243b0f06c4ad7d8f6ac6e9b20b685a82c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377057828.jpg?k=42926b38242c314f36dd3e54dcb86a69f36f35854772738d5051ea44e94e1482&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374208079.jpg?k=d24754be366a61e3ea7522e1b3e3a0768a4d77447c7a13408f732ca2d957a155&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nroomTypes:\n  - "Family Suite with Balcony"\nnearbyRestaurants:\n  - "Ujvara Hotel & Bar Restorant Piceri 30 m"\n  - "Pizza Hallall 200 m"\nnearbyBeaches:\n  - "Mali I Robit Beach 200 m"\n  - "Qerret Beach 650 m"\n  - "Golem Beach 1.4 km"\n  - "Shkëmbi i Kavajës Beach 3.4 km"\n  - "Durres Beach 6 km"\nwhatsNearby:\n  - "Durres Amphiteatre 11 km"\n  - "1. Maj 11 km"\n  - "Wine Dhe Pooh 11 km"\n  - "Yje Dhe Hena 11 km"\n  - "Sheshi Demokracia 11 km"\n  - "Bekimi 11 km"\n  - "Sotir Noka 11 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\nreviews:\n  - name: "Leon"\n    country: "Germany"\n    text: "“Organisation through chat (english) was easy and pleasant. The people on site were really nice and helpful, even tho they speak little english. Overall a great experience :)”"\n  - name: "Iva"\n    country: "Albania"\n    text: "“- friendly and helpful host
+- close to the beach
+- clean and comfortable apartment
+- new furniture - water pressure is good, water is warm too
+- fast internet connection
+- fly screen
+-great view”"\n  - name: "Giovanni"\n    country: "Italy"\n    text: "“Accoglienza eccezionale ottimo staff sempre disponibile su tutto.
+Struttura nuova e accogliente peccato per la scala....
+Tutto sommato ottima qualità prezzo.”"\nbookingURL: "https://www.booking.com/hotel/al/sunny-home-mali-i-robit-golem.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach apartment at Sunny Home is designed with guest privacy in mind, featuring a private entrance that leads to a world of comfort. The living spaces are well-appointed with a fully equipped kitchen, allowing guests the freedom to prepare their meals, and a flat-screen TV for entertainment. The added convenience of free WiFi throughout the property ensures that guests stay connected during their visit.
 
 Beyond the comforts of the accommodation, Sunny Home serves as an ideal base for exploring the local area. The property is conveniently located 17 km from the historic Durres Amphitheatre and 48 km from both the Former Residence of Enver Hoxha and the vibrant Skanderbeg Square, offering a glimpse into Albania's rich history and culture. For those traveling by air, Tirana International Mother Teresa Airport is a manageable 42 km away, making Sunny Home an accessible retreat for both domestic and international travelers.
 
 In summary, Sunny Home presents a compelling option for those in search of a peaceful getaway in Golem, combining the comforts of home with the beauty of the Albanian coast.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

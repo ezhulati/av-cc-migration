@@ -1,30 +1,9 @@
----
-title: Grace
-description: Accommodations at Grace are thoughtfully designed with guest comfort in mind. Each apartment boasts a balcony that invites guests to breathe in the fresh sea ai
-featuredImage: "/images/accommodation/457008397.jpg"
-language: en
-slug: grace
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Grace are thoughtfully designed with guest comfort in mind. Each apartment boasts a balcony that invites guests to breathe in the fresh sea air, a fully equipped kitchen complete with a toaster for those leisurely breakfasts, and a dining area perfect for a cozy meal. Entertainment and connectivity are guaranteed with the inclusion of a flat-screen TV in the living space. The private bathrooms are well-appointed with showers and hair dryers, ensuring a refreshing start or end to the day.
+---\ntitle: "Grace"\ndescription: "Grace emerges as a standout choice for travelers seeking a serene seafront experience in Vlorë, just a stone's throw away from the pristine Vjetër Beach and a short drive from the bustling Vlore Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457008397.jpg?k=ec5f7f73a344ae430504bfe2cc4cb08607fa1936b337cf5daf1b89f6b4ad7a4b&o=&hp=1"\nlanguage: en\nslug: grace\naddress: "Lagja 1 Maji, rruga sazani, Prane Pyllit te Sodes, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4586026\n  lng: 19.46728442\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 44\nratings:\n  overall: 9.2\n  location: 8.6\n  cleanliness: 9.5\n  facilities: 8.9\n  value: 9.3\n  comfort: 9.5\n  staff: 9.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457008397.jpg?k=ec5f7f73a344ae430504bfe2cc4cb08607fa1936b337cf5daf1b89f6b4ad7a4b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397077242.jpg?k=66be33d31be4d878ec8cd647fd6e45b34a0781bd5da6e3a89cc43e848be7c66a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454919230.jpg?k=93a24379a2be5b7607bec773ee60b0066a65959321e5daafae72690afd063569&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397077174.jpg?k=d5cece8635a37a67580944520e767d8a84a384c5f54a225ba5a1e7b3f9420d64&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472529274.jpg?k=a7d5c418cb3091a69f038ea44f6498c1884e04b26066e5b7c6d99289260b9593&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473942871.jpg?k=a9658a13e6bc3d1e0797e93f497e8004547e6e995f282cef3af50932875bbb2e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473942840.jpg?k=67c1291d76a7e78d691d170dcf0c1cf138441ef5ebdb4f010ee5c9d11f9a8b34&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473942746.jpg?k=15ca3a3dfd8d15a185ad4a4be06e1dc32674a36a2502ef8b55dd85e61da36189&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473942648.jpg?k=8106ceebe9027732db2ee2a8cc1127e4d767d72dee6bda93c90ae31e85ac06d0&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fast free WiFi (126 Mbps)"\n  - "Family rooms"\n  - "Beachfront"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Love Beach 50 m"\n  - "Bar Restorant F. Feimi 250 m"\nnearbyBeaches:\n  - "Vjetër Beach 40 m"\n  - "Vlore Beach 2.5 km"\n  - "Ri Beach 3.4 km"\n  - "Narta Beach 4.2 km"\n  - "Beach at Government Villas 4.6 km"\nwhatsNearby:\n  - "Independence Square 2.4 km"\n  - "Kuzum Baba 2.4 km"\n  - "Scooby Doo Vlore 3.4 km"\nreviews:\n  - name: "László"\n    country: "Hungary"\n    text: "“Very nice apartment, very helpful and friendly host, recommend!”"\n  - name: "Aldo"\n    country: "Italy"\n    text: "“Outstanding location right in front of the sea.
+Very clean, the host was very kind and helpfull.
+Flat design and furniture was amazing.”"\n  - name: "Valerii"\n    country: "Serbia"\n    text: "“Very cosy apartment just on the beautiful beach. All the necessary things are present, the view from the terrace is nice. The host was very welcoming. It was an extremely pleasant stay, thank you!”"\nbookingURL: "https://www.booking.com/hotel/al/grace.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Grace are thoughtfully designed with guest comfort in mind. Each apartment boasts a balcony that invites guests to breathe in the fresh sea air, a fully equipped kitchen complete with a toaster for those leisurely breakfasts, and a dining area perfect for a cozy meal. Entertainment and connectivity are guaranteed with the inclusion of a flat-screen TV in the living space. The private bathrooms are well-appointed with showers and hair dryers, ensuring a refreshing start or end to the day.
 
 For those who appreciate a view, select units offer breathtaking vistas of the sea, enhancing the stay with picturesque scenes right from the window. The convenience of a coffee machine in each unit adds a touch of home, allowing guests to savor their favorite brews at any time. The provision of air conditioning and a wardrobe in all units underscores Grace's commitment to guest comfort and satisfaction.
 
 Located a mere 3.6 km from Independence Square and 4.1 km from the historic Kuzum Baba, Grace serves as an ideal base for exploring the rich cultural tapestry of Vlorë. For international travelers, the Tirana International Mother Teresa Airport is 151 km away, making Grace an accessible retreat for both local and global visitors.
 
 In summary, Grace offers a harmonious blend of convenience, comfort, and captivating views, making it a preferred choice for families and solo travelers alike seeking a memorable stay in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

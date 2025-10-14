@@ -1,26 +1,4 @@
----
-title: Guest House Xhaferaj
-description: Each apartment at Guest House Xhaferaj is thoughtfully designed with a private bathroom, catering to families and ensuring privacy and comfort. The dining exper
-featuredImage: "/images/accommodation/515743833.jpg"
-language: en
-slug: guest-house-xhaferaj
-location: ""
-amenities: []
-images: []
----
-
-Each apartment at Guest House Xhaferaj is thoughtfully designed with a private bathroom, catering to families and ensuring privacy and comfort. The dining experience is elevated with a variety of breakfast options served daily, ranging from buffet to continental styles, featuring warm dishes, local specialties, and freshly baked pastries, promising a delightful start to the day.
+---\ntitle: "Guest House Xhaferaj"\ndescription: "Guest House Xhaferaj stands out as a prime choice for travelers seeking comfort and convenience in Berat."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515743833.jpg?k=d2bf7ab5653ead2cdd3982a7a10a875bf68025490d2ac87cbd4d6eb6b9041253&o=&hp=1"\nlanguage: en\nslug: guest-house-xhaferaj\naddress: "Rruga Antipatrea, 5005 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.69276664\n  lng: 20.00370984\nprice: "US$27"\npriceFrom: 27\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 16\nratings:\n  overall: 9.3\n  location: 9.4\n  cleanliness: 8.8\n  facilities: 8.6\n  value: 9.8\n  comfort: 8.9\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515743833.jpg?k=d2bf7ab5653ead2cdd3982a7a10a875bf68025490d2ac87cbd4d6eb6b9041253&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523882742.jpg?k=db18714a8e5d329cdd6b6305053188de5d1b340e600a87917dc519077999ea4b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515731275.jpg?k=88b029c0256ebb59acbaff4f1a03e5c2ce52687a58a4672e996c26354ec0126f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515709060.jpg?k=5330c801964523cc9b5ada8a94d4dd9f2cba9731a0bb0461ad5ae8ded10c7ddc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515709054.jpg?k=88ae0114c14d6610748e585440f589219bafa4b5799e4db4193c2be436f78bee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515709055.jpg?k=47400fd7fabeb7914b6601035cbf767f221b26c8ca67ec9cf2b6f1ad065204c6&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "Quadruple Room with Balcony"\nnearbyRestaurants:\n  - "Taverna Ago 250 m"\n  - "Andi 400 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 4.6 km"\n  - "Sheshi Tomorri 12 km"\nairports:\n  - "Ohrid Airport 81 km"\n  - "Tirana International Airport Mother Teresa 82 km"\nreviews:\n  - name: "Sacha"\n    country: "Australia"\n    text: "“What a sweet couple of days staying at Vila Xhaferaj! A little outside Berat (short drive), I had the whole, very spacious apartment/floor to myself. The terrace was huge with a great view over the countryside. It felt like home. The hosts were...”"\n  - name: "Aleksandra"\n    country: "Poland"\n    text: "“I totally recommend the place. Amazing hosts that make you feel like home! Home made breakfast was amazing surprise for us!”"\n  - name: "Kayo"\n    country: "Belgium"\n    text: "“Alles was perfect! Super vriendelijke eigenaars!
+We kregen fruit van hun tuin, lekkere ontbijt. Ik raad iedereen aan! Bedankt voor de gezellige en leuke ervaring! 10/10”"\nbookingURL: "https://www.booking.com/hotel/al/vila-xhaferaj-berat.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nEach apartment at Guest House Xhaferaj is thoughtfully designed with a private bathroom, catering to families and ensuring privacy and comfort. The dining experience is elevated with a variety of breakfast options served daily, ranging from buffet to continental styles, featuring warm dishes, local specialties, and freshly baked pastries, promising a delightful start to the day.
 
 For those looking to explore the surrounding area, the guest house provides a convenient car rental service, making local excursions hassle-free. Situated 123 km from Tirana International Mother Teresa Airport, Guest House Xhaferaj is an accessible retreat for both domestic and international travelers, offering a blend of traditional hospitality and modern amenities.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

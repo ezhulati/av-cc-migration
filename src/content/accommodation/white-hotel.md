@@ -1,30 +1,8 @@
----
-title: White Hotel
-description: The property is distinguished not only by its prime location but also by its thoughtful amenities, including a lush garden, ample free private parking, and a we
-featuredImage: "/images/accommodation/367159032.jpg"
-language: en
-slug: white-hotel
-location: ""
-amenities: []
-images: []
----
-
-The property is distinguished not only by its prime location but also by its thoughtful amenities, including a lush garden, ample free private parking, and a welcoming terrace. Families find a special haven here, with spacious family rooms designed to cater to the needs of guests of all ages.
+---\ntitle: "White Hotel"\ndescription: "White Hotel emerges as a serene oasis in Borsh, just a stone's throw away from the pristine Borsh Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367159032.jpg?k=6ae46b8fe557a750c590aa149293d74898f65c1c58904e4aeb1be2b8cbaa7f02&o=&hp=1"\nlanguage: en\nslug: white-hotel\naddress: "Road Plazhi, 9714 Borsh, Albania"\ncity: "Borsh"\nlocation: "Borsh"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.03647231\n  lng: 19.86665173\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 51\nratings:\n  overall: 9.5\n  location: 9.4\n  cleanliness: 9.6\n  facilities: 9\n  value: 9.7\n  comfort: 9.4\n  staff: 9.6\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367159032.jpg?k=6ae46b8fe557a750c590aa149293d74898f65c1c58904e4aeb1be2b8cbaa7f02&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367159846.jpg?k=c371c69adecdd01448057c22c7f993b3385acc67804f09c9d45b303fd57cb2eb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367160241.jpg?k=26ad9a21781f3da9ea0c3d61900d28ad208bd9022904e1b4672a6e524170aad2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367160227.jpg?k=901bc6ba68917b91320731a4a054db0ffc3bc80ee36df47e9290ba25e71a3e0d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367160856.jpg?k=430df250efad5f466199e3cb482661856e481f80d1cfb96b365f6a590aa46238&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367160243.jpg?k=ee474b4e24d949ce8c8538c43109b04c8e324baf5c9902572e1c063728ba919e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367159025.jpg?k=dcd4e4b11175608eaecd5a12c6d07ef2ddd469123a02c234737cb934cff4b534&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367160678.jpg?k=318a0e2288d84a7d814c04234049d39c5e1d621359916623ee38c3d9823476fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303282595.jpg?k=6ae005f2f85dadea0f9ee56ba13801352cda5ef4f42a9d7459650a9e452374cd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303282652.jpg?k=c69c63fe83a604b4236f856b6cd42cea0a47efe1e555005bd9ac51a023141615&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367158963.jpg?k=a4e232adb55f18e519f6c809522f43962a412390e58289846703f245eae36d59&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367159001.jpg?k=f83f001e78e51519c2f47e377b1fa4cc7e386a48688c6f158538bc990c4f1192&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Menadria Beach 100 m"\n  - "Ciao Borshi 150 m"\nnearbyBeaches:\n  - "Borsh Beach 100 m"\n  - "Qeparo Beach 3.4 km"\n  - "Buneci Beach 3.8 km"\n  - "Porto Palermo Beach 3 6 km"\n  - "Porto Palermo Beach 6 km"\nairports:\n  - "Corfu International Airport 47 km"\n  - "Ioannina Airport 89 km"\nreviews:\n  - name: "Diana"\n    country: "Bulgaria"\n    text: "“What a view: waking up in front of the sea and enjoying the perfect sunset from the top in the evening! Being just 1 minute away from the water was so convenient! It was super clean and spacious, extremely conformable, the huge terrace was my...”"\n  - name: "Tomas"\n    country: "Germany"\n    text: "“Really excellent location, sea view. Very friendly owners, make everything possible, organizing food, drinks, driver. Thank you Toni & your mom for the pleasant stay!”"\n  - name: "David"\n    country: "United Kingdom"\n    text: "“Close to the beach, shop and restaurants.
+Well equipped. Perfect sunsets off the balcony. Would definitely stay again.”"\nbookingURL: "https://www.booking.com/hotel/al/white.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe property is distinguished not only by its prime location but also by its thoughtful amenities, including a lush garden, ample free private parking, and a welcoming terrace. Families find a special haven here, with spacious family rooms designed to cater to the needs of guests of all ages.
 
 Service at White Hotel is both personal and attentive, with a multilingual staff proficient in Greek and English, ensuring that assistance is readily available at any hour. Whether it's local recommendations or practical information, the reception team stands ready to enhance your stay.
 
 For those looking to explore beyond the hotel's tranquil confines, Butrint National Park offers a rich tapestry of history and nature just 47 km away. Additionally, the hotel's accessibility is underscored by its proximity to Ioannina Airport, located 124 km away, making it a convenient choice for both domestic and international travelers.
 
 White Hotel thus presents itself as an ideal retreat for those seeking a blend of relaxation, convenience, and attentive service, all set against the backdrop of one of Borsh's most beautiful locales.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

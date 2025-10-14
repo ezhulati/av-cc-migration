@@ -1,26 +1,3 @@
----
-title: Luxurious Seaview Apartment with Jacuzzi
-description: The apartment boasts a generous layout, featuring a sun-drenched terrace, three tastefully decorated bedrooms, a cozy living room, and a kitchen equipped with e
-featuredImage: "/images/accommodation/518651523.jpg"
-language: en
-slug: luxurious-seaview-apartment-with-jacuzzi
-location: ""
-amenities: []
-images: []
----
-
-The apartment boasts a generous layout, featuring a sun-drenched terrace, three tastefully decorated bedrooms, a cozy living room, and a kitchen equipped with everything needed for a home-away-from-home experience, including a minibar. Entertainment is readily available with a flat-screen TV, complementing the relaxing ambiance of the space.
+---\ntitle: "Luxurious Seaview Apartment with Jacuzzi"\ndescription: "Discover the epitome of coastal living at the Luxurious Seaview Apartment with Jacuzzi, a prime choice for travelers seeking comfort and elegance in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518651523.jpg?k=f974e21d8cae41d6d28a7ec8c4e47cc93315f5c1294ba1ece675f2c16a067ba2&o=&hp=1"\nlanguage: en\nslug: luxurious-seaview-apartment-with-jacuzzi\naddress: "Rruga Taulantia, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31094045\n  lng: 19.44105606\nprice: "US$158"\npriceFrom: 158\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518651523.jpg?k=f974e21d8cae41d6d28a7ec8c4e47cc93315f5c1294ba1ece675f2c16a067ba2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518651772.jpg?k=1d97953871786c607455ccad688864043a4e8a074a50855de6ae97011bf9142d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518651662.jpg?k=82c583480eff6c121db6f948198e94380e67324d7c9f17373c53c8b67dce9b1a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518651799.jpg?k=f52b9d981bca08516908ebcca975838e9d6b19318069bddbb256b2e731079b4d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518651804.jpg?k=76a9d06742f2d074f815ca2b5a22951e184f15c4adefed89c790d1119509db6e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518651618.jpg?k=e07f902252d7cb6c86750ea4402c4a0de01ddf9f9c60d96b9b43a539e15e742e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518651622.jpg?k=b6a815d352d7f84e89e40a48abdfe4807c2ef7f111b7d880f7264e1c167e9f9a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518651628.jpg?k=6314a85deb2c0f6967262753bf79ba69969bd5074d8eb14921ffd8d720c362b5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518651634.jpg?k=ecfc37b1e608ac1cc92729ddb7f2801beaee5f73cd3bfa3b10e96097fc89a851&o=&hp=1"\namenities:\n  - "Swimming Pool"\n  - "Free WiFi"\nroomTypes:\n  - "Three-Bedroom Apartment"\nnearbyRestaurants:\n  - "Brryli Tim Turku 10 m"\n  - "Kreperia Hen1 20 m"\nnearbyBeaches:\n  - "Currila Beach 50 m"\n  - "Kallmi Beach 1.1 km"\n  - "West End Beach 2.2 km"\n  - "Durres Beach 2.2 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nwhatsNearby:\n  - "1. Maj 150 m"\n  - "Durres Amphiteatre 350 m"\n  - "Yje Dhe Hena 800 m"\n  - "Wine Dhe Pooh 850 m"\n  - "Sheshi Demokracia 950 m"\n  - "Sotir Noka 1.2 km"\n  - "Bekimi 3.7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\nbookingURL: "https://www.booking.com/hotel/al/luxurious-seaview-apartment-with-jacuzzi-durres.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment boasts a generous layout, featuring a sun-drenched terrace, three tastefully decorated bedrooms, a cozy living room, and a kitchen equipped with everything needed for a home-away-from-home experience, including a minibar. Entertainment is readily available with a flat-screen TV, complementing the relaxing ambiance of the space.
 
 Located a mere 2.8 km from West End Beach, guests have the luxury of choosing between various nearby sandy retreats for their seaside adventures. For those looking to explore beyond the beach, Skanderbeg Square and the Dajti Ekspres Cable Car offer cultural and scenic excursions, located 39 km and 43 km away, respectively. Additionally, the convenience of Tirana International Mother Teresa Airport being just 34 km away makes the Luxurious Seaview Apartment with Jacuzzi an ideal base for both international travelers and those looking to explore the rich heritage and natural beauty of Albania.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

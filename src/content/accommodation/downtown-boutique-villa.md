@@ -1,28 +1,5 @@
----
-title: Downtown Boutique Villa
-description: Guests are welcomed into a tastefully appointed apartment that boasts a cozy bedroom, a pristine bathroom stocked with fresh linens and towels, and a living are
-featuredImage: "/images/accommodation/463989204.jpg"
-language: en
-slug: downtown-boutique-villa
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into a tastefully appointed apartment that boasts a cozy bedroom, a pristine bathroom stocked with fresh linens and towels, and a living area that opens up to a balcony offering serene garden views. The inclusion of a flat-screen TV with cable channels, a dining area, and a fully equipped kitchen ensures a home-away-from-home experience. The highlight of the apartment is its private terrace, where one can unwind and soak in the city's ambiance.
+---\ntitle: "Downtown Boutique Villa"\ndescription: "Downtown Boutique Villa emerges as a charming retreat in the heart of Sarandë, located just a short stroll from Saranda City Beach and within easy reach of the main beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463989204.jpg?k=4b78daa41f3ffc257fe0b0de8c68c34391f4d8d8152a026556d1c5ae10cc2c7d&o=&hp=1"\nlanguage: en\nslug: downtown-boutique-villa\naddress: "Rruga Pandeli Bocari, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87824646\n  lng: 20.00528239\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 3\nratings:\n  overall: 9.3\n  location: 8.3\n  cleanliness: 10\n  facilities: 10\n  value: 8.3\n  comfort: 10\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463989204.jpg?k=4b78daa41f3ffc257fe0b0de8c68c34391f4d8d8152a026556d1c5ae10cc2c7d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463989106.jpg?k=8dc21aa01fd193ebb7360ba7813e5f54d10443b46f24a1e40ad0560ef714aa92&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463989200.jpg?k=c3a1160fd72a078406123698590fb0b3a745894dffd588932a5e8d43001cc590&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463989100.jpg?k=a2f180f0adc25acd2e4c4976a2e1f0f15f2a39555b3d3dcd336972af64c6d9cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463989210.jpg?k=82ac9aa5a00c4e114594ce6057142b659cf96b6cf30d337d0ddadd0ee8622460&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463989123.jpg?k=bddcc07069c8ab600a130df0770e0b315370e48f02b9c2d276eee6b4d8b2e0fe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463989198.jpg?k=b20e80787faf4700dbe9ff0b8935901d653cf18fac804a64c33f18c61d1da9ae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463989199.jpg?k=073da4ff5942c86d663ce228959774c093811da5412bfa5d80b8f92e202aff7b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463989131.jpg?k=a09b9471fe75ae8f8d9fe09fb83195a5e294a0545262b607855b20e3456bdb38&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Maliq coffee shop 100 m"\n  - "Coffee House 200 m"\nnearbyBeaches:\n  - "Saranda City Beach 600 m"\n  - "Sarande Main Beach 1 km"\n  - "La Petite Beach 1.3 km"\n  - "Maestral Beach 1.5 km"\n  - "Saranda Bay Beach 2 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.7 km"\n  - "Butrint National Park 3.6 km"\n  - "Plazhi I Krorezes 9 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 31 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Ivan"\n    country: "Ukraine"\n    text: "“It is important that there is private parking in a private yard with a gate that also closes”"\n  - name: "Vlad"\n    country: "Ukraine"\n    text: "“Cozy accommodation, has everything for a comfortable stay. Center, but quiet. Everything is within walking distance.”"\nbookingURL: "https://www.booking.com/hotel/al/downtown-boutique-villa.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests are welcomed into a tastefully appointed apartment that boasts a cozy bedroom, a pristine bathroom stocked with fresh linens and towels, and a living area that opens up to a balcony offering serene garden views. The inclusion of a flat-screen TV with cable channels, a dining area, and a fully equipped kitchen ensures a home-away-from-home experience. The highlight of the apartment is its private terrace, where one can unwind and soak in the city's ambiance.
 
 The villa's commitment to a smoke-free environment adds to the comfort of the stay. For those looking to explore beyond the city's charm, Butrint National Park offers a natural escape just 17 km away, while Ioannina Airport is the nearest gateway, located 97 km from the villa.
 
 Downtown Boutique Villa presents an ideal choice for travelers seeking a blend of convenience, comfort, and a touch of luxury in Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

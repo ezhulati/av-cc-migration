@@ -1,15 +1,4 @@
----
-title: The Elevated Abode Luxe Loft
-description: "The apartment itself is a testament to spacious living, featuring a terrace that boasts breathtaking sea views."
-featuredImage: "/images/accommodation/512137757.jpg"
-language: en
-slug: the-elevated-abode-luxe-loft
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to spacious living, featuring a terrace that boasts breathtaking sea views. With a layout that includes a bedroom, a living room equipped with a flat-screen TV, and a kitchen outfitted with modern appliances such as an oven and a toaster, guests have everything they need at their fingertips. The inclusion of a bathroom with a walk-in shower and a patio that serves as an outdoor dining area further enhances the living experience, offering both convenience and luxury.
+---\ntitle: "The Elevated Abode Luxe Loft"\ndescription: "The Elevated Abode Luxe Loft emerges as a premier choice for travelers seeking a blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512137757.jpg?k=b56d63b4f7135f6fa873c629aeaa5d35fed5f88f9249474f6fb87b31c20d3c96&o=&hp=1"\nlanguage: en\nslug: the-elevated-abode-luxe-loft\naddress: "Rruga Lule Bore, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30658105\n  lng: 19.48997945\nprice: "US$108"\npriceFrom: 108\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512137757.jpg?k=b56d63b4f7135f6fa873c629aeaa5d35fed5f88f9249474f6fb87b31c20d3c96&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512137799.jpg?k=24149e66815a8e3fd6474d780ea7c2373b6797014409f7a00f275c7873ddfe41&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512137647.jpg?k=c0d2c078dbd593a98e870f29266d7d88f5a5ac1f89827c26fb666b4249f4f786&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512137751.jpg?k=8ebe38fc464b1a5bf77061d11e72cbcfdb43a9132b5493ce5b927624da5afead&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512137723.jpg?k=59fe9a1176cf5a12326a0983a35923241b833aca5abcd051e15046d3b53cc04b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512137679.jpg?k=bbe8e20011c5fe593e5149d4a7fbabfa851a78fb64c716d7450250460a844752&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512137762.jpg?k=6649d0b694f11ba4204360a07af49b478c6559724310a396d624b8c32080016f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512137690.jpg?k=f2f80e4fa0f98ea3f9c0e151d43de8bbda6763f10bdfa957f084059205d42650&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512137622.jpg?k=0f53f5a9ef0e716b5211b6b38b9331807933420194fe940353b3294858cd4ae9&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Ferra 50 m"\n  - "Keols 100 m"\nnearbyBeaches:\n  - "Durres Beach 100 m"\n  - "Shkëmbi i Kavajës Beach 2.8 km"\n  - "Currila Beach 3.6 km"\n  - "Kallmi Beach 5 km"\n  - "Golem Beach 5 km"\nwhatsNearby:\n  - "Bekimi 2.6 km"\n  - "Wine Dhe Pooh 3.6 km"\n  - "Sheshi Demokracia 3.7 km"\n  - "Yje Dhe Hena 3.7 km"\n  - "Durres Amphiteatre 3.8 km"\n  - "Sotir Noka 4 km"\n  - "1. Maj 4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/the-elevated-abode-luxe-loft.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to spacious living, featuring a terrace that boasts breathtaking sea views. With a layout that includes a bedroom, a living room equipped with a flat-screen TV, and a kitchen outfitted with modern appliances such as an oven and a toaster, guests have everything they need at their fingertips. The inclusion of a bathroom with a walk-in shower and a patio that serves as an outdoor dining area further enhances the living experience, offering both convenience and luxury.
 
 Beyond the confines of the apartment, guests can enjoy the added perks of free WiFi throughout the property, ensuring connectivity is never an issue. The property prides itself on being non-smoking, catering to the comfort and health of all guests. Additionally, the convenience of a lift and housekeeping service underscores the property's commitment to guest satisfaction.
 
@@ -18,15 +7,3 @@ For those looking to unwind, the on-site bar presents an ideal setting for relax
 While the allure of The Elevated Abode Luxe Loft is undeniable, its location also places guests within reach of notable attractions. Skanderbeg Square and the Dajti Ekspres Cable Car are within a manageable distance, offering opportunities for exploration and adventure. For travelers arriving by air, the Tirana International Mother Teresa Airport is conveniently located 33 km away, making the journey to and from the property a breeze.
 
 In summary, The Elevated Abode Luxe Loft stands out as a sophisticated haven for those seeking to explore Durrës in style. With its strategic location, comprehensive amenities, and commitment to guest comfort, it's a top-tier choice for discerning travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

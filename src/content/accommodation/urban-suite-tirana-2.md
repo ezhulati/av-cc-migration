@@ -1,30 +1,7 @@
----
-title: Urban Suite Tirana 2
-description: Strategically positioned, the property is a stone's throw away from some of Tirana's most sought-after attractions, including the evocative House of Leaves, the
-featuredImage: "/images/accommodation/522191424.jpg"
-language: en
-slug: urban-suite-tirana-2
-location: ""
-amenities: []
-images: []
----
-
-Strategically positioned, the property is a stone's throw away from some of Tirana's most sought-after attractions, including the evocative House of Leaves, the verdant Rinia Park, and the prestigious National Theatre of Opera and Ballet of Albania. This makes Urban Suite Tirana 2 an ideal base for exploring the cultural heartbeat of the city.
+---\ntitle: "Urban Suite Tirana 2"\ndescription: "Urban Suite Tirana 2 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522191424.jpg?k=b75a96d2a327debed1311c4c1832202d3cbf751e50a71d62251d9a478130ab45&o=&hp=1"\nlanguage: en\nslug: urban-suite-tirana-2\naddress: "Rruga Haxhi Hysen Dalliu Nd.50 Kati 1 Apt.2, 1012 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33326554\n  lng: 19.81112986\nprice: "US$56"\npriceFrom: 56\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522191424.jpg?k=b75a96d2a327debed1311c4c1832202d3cbf751e50a71d62251d9a478130ab45&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/522191399.jpg?k=19f229e58aa5215859cc0934893534ff329ec82af120c049d227459d189e60da&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/522191414.jpg?k=c13d148ae20c86d79ab80bda9000d9b42224a22d15258f90e2ac5ff46901852b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/522191416.jpg?k=14c1580f96428efbbb04ffe8efd2485b33e1b302b9dd6a427b57c7f2d6d249e1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/522191418.jpg?k=144e65e3db47be320cdd752d4cb778bd5469a352455c602cf78ebf6eae213e62&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/522191420.jpg?k=9d436ebdc4bca450da386e114355096c7db94235ebd2a492afeb994faaf38d5f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/522191422.jpg?k=7a02b84e41c14d0f6b54f2762eaebf515d124433ffb5e104dbdbdd10aaeca92d&o=&hp=1"\namenities:\n  - "Private parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Shelter 50 m"\n  - "Te Eda 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Mine Peza 300 m"\n  - "Sheshi Rekreativ Don Bosko 500 m"\n  - "Sheshi Paris 550 m"\n  - "National Museum of History Albania 650 m"\n  - "Amazing Nature 650 m"\n  - "Sheshi Skënderbej 800 m"\n  - "House of Leaves 850 m"\n  - "Skanderbeg Square 900 m"\n  - "Parku Europa 950 m"\n  - "Clock Tower Tirana 950 m"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 80 km"\nbookingURL: "https://www.booking.com/hotel/al/urban-suite-tirana-2.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nStrategically positioned, the property is a stone's throw away from some of Tirana's most sought-after attractions, including the evocative House of Leaves, the verdant Rinia Park, and the prestigious National Theatre of Opera and Ballet of Albania. This makes Urban Suite Tirana 2 an ideal base for exploring the cultural heartbeat of the city.
 
 The apartment itself is a study in modern living, featuring a bedroom that promises restful nights, a fully equipped kitchen for culinary adventures, and a bathroom that caters to the essentials. Entertainment needs are not overlooked, with a flat-screen TV available for guests' enjoyment.
 
 For those keen to delve deeper into Tirana's rich history and vibrant social scene, Urban Suite Tirana 2 is conveniently located near landmarks such as Skanderbeg Square, the Former Residence of Enver Hoxha, and the National Museum of History Albania. Moreover, the proximity to Tirana International Mother Teresa Airport, just 13 km away, adds to the appeal for international travelers.
 
 In summary, Urban Suite Tirana 2 stands out as a sophisticated retreat that offers both the serenity of a private apartment and the excitement of city exploration right at its doorstep.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

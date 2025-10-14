@@ -1,28 +1,5 @@
----
-title: Del Mar Center Apartment
-description: "The apartment itself is a testament to spacious living, boasting a balcony that invites guests to enjoy their morning coffee or evening relaxation outdoors."
-featuredImage: "/images/accommodation/392358239.jpg"
-language: en
-slug: del-mar-center-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to spacious living, boasting a balcony that invites guests to enjoy their morning coffee or evening relaxation outdoors. It features a generously sized bedroom, a cozy living room for unwinding after a day of exploration, and a well-equipped kitchen complete with a fridge, catering to those who prefer to prepare their meals. The inclusion of towels and bed linen adds a touch of home comfort to the experience.
+---\ntitle: "Del Mar Center Apartment"\ndescription: "Del Mar Center Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, located just a short stroll from the pristine Vlore Beach and within easy reach of Vjetër Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/392358239.jpg?k=6d9d05e28e67b9420ee3af7ca67165c1bc83728e80c8bd83fce81dbcc2c241f5&o=&hp=1"\nlanguage: en\nslug: del-mar-center-apartment\naddress: "Rruga Çamëria, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45206392\n  lng: 19.48743344\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/392358239.jpg?k=6d9d05e28e67b9420ee3af7ca67165c1bc83728e80c8bd83fce81dbcc2c241f5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/392358462.jpg?k=4be64b8d3b2070ce8b078506fc0fc8badf0d7c28bea5734b9e6454b243a94904&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/392358495.jpg?k=05bcec91028a1e2419fdcc81a5dae268a1340154f41f748845900d0441a79685&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/392358527.jpg?k=2a645fe3d37c70af8a8f43c32a49c6e6984ad2ffcc2e87e214e0a39f13fc0723&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/392358398.jpg?k=65912445809738a8bb7efea4bfa8f858b782f620a8db83091c7e8fcd43e63668&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/392358521.jpg?k=4dd23cf6d48f19382df12d1cf1dfb1b31ea028789cefdfadd2e8146d9b49fbec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/392358444.jpg?k=080f9ba69b36706f045428ba3dc99f2c4928e5f02836240b665b801a9e9b4d71&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/392358481.jpg?k=9576e5e27ac6282b1fc64450382e0f8412b5853edef5d496b21d053d04950044&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/392358373.jpg?k=d0c6a130279b636d24fb341a68f795d29674c5d19aa4c22020545da241ea38f2&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Abi 20 m"\n  - "Café del Mar 20 m"\nnearbyBeaches:\n  - "Vjetër Beach 500 m"\n  - "Vlore Beach 650 m"\n  - "Ri Beach 1.9 km"\n  - "Beach at Government Villas 3.5 km"\n  - "Liro Beach 4.2 km"\nwhatsNearby:\n  - "Kuzum Baba 1.8 km"\n  - "Scooby Doo Vlore 1.9 km"\n  - "Independence Square 2.1 km"\nreviews:\n  - name: "Stefano"\n    country: "Italy"\n    text: "“Ottimo appartamento a Valona, posizione comoda, pulito e accessoriato, molto meglio della media della citta' per quando riguarda l' arredamento. Lui gentile e disponibile. Consigliatissimo, ritornero'”"\n  - name: "Svetlana"\n    country: "Germany"\n    text: "“Tolle Lage im Zentrum und direkt an der Promenade am Meer. Eine sehr schöne Wohnung, alles neu, sauber, eine sehr gut ausgestattete Küche. Sehr netter Host. Wir haben unsere Zeit da sehr genossen.”"\nbookingURL: "https://www.booking.com/hotel/al/del-mar-center-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to spacious living, boasting a balcony that invites guests to enjoy their morning coffee or evening relaxation outdoors. It features a generously sized bedroom, a cozy living room for unwinding after a day of exploration, and a well-equipped kitchen complete with a fridge, catering to those who prefer to prepare their meals. The inclusion of towels and bed linen adds a touch of home comfort to the experience.
 
 Situated a mere 2.3 km from the serene Ri Beach, Del Mar Center Apartment also offers easy access to local landmarks such as Independence Square and Kuzum Baba, located 2.6 km and 3.1 km away, respectively. For guests arriving from afar, the Tirana International Mother Teresa Airport is 151 km from the accommodation, making it a manageable distance for both short and extended stays.
 
 Del Mar Center Apartment presents an ideal blend of location, convenience, and comfort, making it a top recommendation for those planning a visit to Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

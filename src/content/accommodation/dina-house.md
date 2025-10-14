@@ -1,28 +1,5 @@
----
-title: Dina House
-description: The property's highlight is undoubtedly its balconies, offering breathtaking sea views and equipped with outdoor furniture for an intimate connection with natur
-featuredImage: "/images/accommodation/374810799.jpg"
-language: en
-slug: dina-house
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Dina House"\ndescription: "Dina House emerges as a prime choice for travelers seeking air-conditioned comfort with a touch of the outdoors, located in the picturesque town of Himare."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374810799.jpg?k=c2d64135dd5e694ed5628f778c56aaf53ede79ff1d7a7606929127f6147da329&o=&hp=1"\nlanguage: en\nslug: dina-house\naddress: "Lagjia Stefanel , Rruga Jorgji Bollano Himare Albania, Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.100705\n  lng: 19.74877508\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 33\nratings:\n  overall: 9.1\n  location: 9\n  cleanliness: 9\n  facilities: 8.2\n  value: 8.8\n  comfort: 8.9\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374810799.jpg?k=c2d64135dd5e694ed5628f778c56aaf53ede79ff1d7a7606929127f6147da329&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374810806.jpg?k=2df84963badf65e08410e52ada7a4ecfe2aec2236af2a09304dc758e9fc4c300&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476610926.jpg?k=4556f46b47193d32930bc67cd7564c58d032a0e5a103a2232dd717e6e4d144ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375376732.jpg?k=5de6d68612d417fcf7ea141caa23ae7b921bb73c4aaba2c3ffc1241a84b44951&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374810939.jpg?k=c6e7451f2a0558f7f8dd7ea0a8fed43cb3c98a4e3e0d15cb52304df1f635152f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374810842.jpg?k=95b1261f1dbc7806aa1aab1faace8bbc4a9e27bca974f14f032e145545383894&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374810851.jpg?k=51b7f1348a96633ec4f0ad34b3c7df63c4732418c64471a72a64f2c09475931a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374810966.jpg?k=10adbe5ff679c7e1f494bc53d463f5af6fce19cd0da9049c7c94dcba27475934&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476611212.jpg?k=ec3a6dd19a1824228bbac7600fa53aac6b60a3f05547ecabb37a76973bfe29af&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Restorant Maistro 100 m"\n  - "Valentino 150 m"\nnearbyBeaches:\n  - "Maracit Beach 100 m"\n  - "Spille Beach 150 m"\n  - "Prinos Beach 300 m"\n  - "Potam Beach 700 m"\n  - "Livadhi Beach 1.6 km"\nwhatsNearby:\n  - "Llogora National Park 17 km"\nairports:\n  - "Corfu International Airport 56 km"\nreviews:\n  - name: "Batteo"\n    country: "Italy"\n    text: "“great location, environment and very warm hospitality!!”"\n  - name: "Noémi"\n    country: "Hungary"\n    text: "“It was brilliant! The accomodation is nice and clean and it’s super close to the beach. The view is perfect and Toli the owner was very kind to us.”"\n  - name: "Savannah"\n    country: "Australia"\n    text: "“The hospitality was incredible. Dina & Tolis are really beautiful people, they welcomed me in with open arms and I felt right at home. Memories I’ll hold in my heart forever.”"\nbookingURL: "https://www.booking.com/hotel/al/dina-house-himare1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe property's highlight is undoubtedly its balconies, offering breathtaking sea views and equipped with outdoor furniture for an intimate connection with nature. Privacy is paramount at Dina House, with accommodations designed to include private entrances, ensuring a secluded and personal experience.
 
-The property's highlight is undoubtedly its balconies, offering breathtaking sea views and equipped with outdoor furniture for an intimate connection with nature. Privacy is paramount at Dina House, with accommodations designed to include private entrances, ensuring a secluded and personal experience.
-
-For those looking to unwind, the garden on the premises serves as a tranquil retreat.
+For those looking to unwind, the garden on the premises serves as a tranquil retreat. 
 
 Situated within proximity to sought-after beaches such as Maracit, Spille, and Prinos, Dina House positions itself as an ideal base for beach enthusiasts. Despite its serene location, the property remains accessible, with Ioannina Airport located 143 km away, making it a convenient option for both domestic and international travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

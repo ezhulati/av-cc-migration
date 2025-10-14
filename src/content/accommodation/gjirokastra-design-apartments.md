@@ -1,26 +1,3 @@
----
-title: Gjirokastra Design Apartments
-description: Each apartment is a testament to thoughtful design, boasting balconies that frame the breathtaking mountain scenery. The interiors are equipped with flat-screen
-featuredImage: "/images/accommodation/516422456.jpg"
-language: en
-slug: gjirokastra-design-apartments
-location: ""
-amenities: []
-images: []
----
-
-Each apartment is a testament to thoughtful design, boasting balconies that frame the breathtaking mountain scenery. The interiors are equipped with flat-screen TVs, dining areas, and kitchens that don't skimp on appliances - dishwashers, ovens, microwaves, and kettles are all part of the package. The attention to detail extends to the private bathrooms, where guests can enjoy walk-in showers, plush bathrobes, and a selection of complimentary toiletries. Comfort is further enhanced with the provision of quality bed linen and towels in every unit, ensuring a stay that combines the essence of home with the luxury of hotel living.
+---\ntitle: "Gjirokastra Design Apartments"\ndescription: "Gjirokastra Design Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Gjirokastër."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516422456.jpg?k=eeb3afb19ecd682da98e301d6081669757bbd25f7b44b97ad84365740bf64738&o=&hp=1"\nlanguage: en\nslug: gjirokastra-design-apartments\naddress: "Bulevardi 18 Shtatori, Nd Nr.30, Floor 3, near Hospital, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.0832686\n  lng: 20.14195715\nprice: "US$55"\npriceFrom: 55\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516422456.jpg?k=eeb3afb19ecd682da98e301d6081669757bbd25f7b44b97ad84365740bf64738&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516422562.jpg?k=689c39cc8a2ecd1697be4941d0398bc4f1bced0e7f776592a13daece96f6c507&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516422646.jpg?k=5bc8556b3e304dd0edf5a349280a3c319957623c117248f6f628593d01c4a109&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516422855.jpg?k=6c6825fbc5959565796de3936edcb6e7ec159c6edf5a83cec7abbb71fa917e2c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516422792.jpg?k=7748a90218b24926ceb3d518a45fe2de289158c4edeae894df9d6388256e43bd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516422623.jpg?k=dd73337d515c11948e730aabb3561170e2d112c50e8bc421ea03b9f1087a12db&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Modus 50 m"\n  - "Pizza Edi 200 m"\nairports:\n  - "Corfu International Airport 56 km"\n  - "Ioannina Airport 71 km"\nbookingURL: "https://www.booking.com/hotel/al/gjirokastra-design-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach apartment is a testament to thoughtful design, boasting balconies that frame the breathtaking mountain scenery. The interiors are equipped with flat-screen TVs, dining areas, and kitchens that don’t skimp on appliances - dishwashers, ovens, microwaves, and kettles are all part of the package. The attention to detail extends to the private bathrooms, where guests can enjoy walk-in showers, plush bathrobes, and a selection of complimentary toiletries. Comfort is further enhanced with the provision of quality bed linen and towels in every unit, ensuring a stay that combines the essence of home with the luxury of hotel living.
 
 For those concerned about accessibility, Ioannina Airport is located 83 km away, making Gjirokastra Design Apartments a convenient base for exploring the rich heritage and natural beauty of Gjirokastër and beyond. Whether it's a family getaway or a solo adventure, this property promises an experience that marries the tranquility of its surroundings with the ease of modern living.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,7 @@
----
-title: Tomor Shehu Guest House
-description: This guest house provides select rooms with cozy seating areas, perfect for unwinding after a day of exploration. Guests are treated to added comforts such as
-featuredImage: "/images/accommodation/363538319.jpg"
-language: en
-slug: tomor-shehu-guest-house
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Tomor Shehu Guest House"\ndescription: "Tomor Shehu Guest House is a charming choice for travelers seeking a comfortable stay in Berat."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363538319.jpg?k=830b2a7d715b1daefe44192a5abf7e97d52e62ad1062c55acccf7b7d2f6eb8fb&o=&hp=1"\nlanguage: en\nslug: tomor-shehu-guest-house\naddress: "Rruga Antipatrea N/A, Mangalem, 1001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.70460119\n  lng: 19.94992733\nprice: "US$26"\npriceFrom: 26\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 274\nratings:\n  overall: 9.5\n  location: 9.9\n  cleanliness: 9.3\n  facilities: 8.9\n  value: 9.6\n  comfort: 9.3\n  staff: 9.8\n  wifi: 9.6\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363538319.jpg?k=830b2a7d715b1daefe44192a5abf7e97d52e62ad1062c55acccf7b7d2f6eb8fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254968182.jpg?k=73498927a816d3978b45e726bccbfe6a92e22f89591b068c2a7a8115e12613c0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213304529.jpg?k=44512ab4fa0ab69cb6191cd94dd07b4de9533ae11bf553aa9fca5c9bc5ecace1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364619199.jpg?k=84a30a312332c4c1a7f9547eecadf828065cc773089b04d8ce5a3206c8484cb3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208019160.jpg?k=7e5ffe0342101039ced34544befffacc8f61b4bad8d05c8c7a2e990cafe34ee2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/47671009.jpg?k=b28825d251d1c36cc19ceeb94014ade4d4456eb88abaac085324c2d5ee7c0cbb&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Superb breakfast"\nroomTypes:\n  - "Triple Room"\n  - "Triple Room"\nnearbyRestaurants:\n  - "Heavens Kitchen 10 m"\n  - "Wildor 20 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 84 km"\nreviews:\n  - name: "Clem"\n    country: "Canada"\n    text: "“The host and family were so so nice and welcoming, he knows everything about the city and will send you anything you need, the breakfast was really great and a lot of stuff too so totally worth it, I highly recommend it, our stay was amazing and...”"\n  - name: "Michał"\n    country: "Poland"\n    text: "“The apartment was outstanding. The spirit of this place is unforgettable. Tamor (the owner) is a very kind and open person, speaks many languages and is willing to help and show the story of Berat. The breakfast was very tasty. We have all the...”"\n  - name: "Nia"\n    country: "Australia"\n    text: "“Great location close to all the attractions in Berat. Really lovely host, we had breakfast one day which was very generous and delicious.”"\nbookingURL: "https://www.booking.com/hotel/al/tomor-shehu-guest-house-berat.en-gb.html?aid=8035640"\nbestFor: "Best for Cultural Experience"\nbestCategories: "Cultural Experience"\ncategory: "Cultural Experience"\n---\n\nThis guest house provides select rooms with cozy seating areas, perfect for unwinding after a day of exploration. 
 
-This guest house provides select rooms with cozy seating areas, perfect for unwinding after a day of exploration.
+Guests are treated to added comforts such as bathrobes and hair dryers, ensuring a home-away-from-home experience. 
 
-Guests are treated to added comforts such as bathrobes and hair dryers, ensuring a home-away-from-home experience.
-
-Additionally, the convenience of on-site dry cleaning services adds to the ease of your stay.
+Additionally, the convenience of on-site dry cleaning services adds to the ease of your stay. 
 
 Located a manageable distance of 82 km from Tirana Airport, Tomor Shehu Guest House positions itself as an accessible retreat for both local and international visitors.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

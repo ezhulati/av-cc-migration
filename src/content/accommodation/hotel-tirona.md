@@ -1,30 +1,7 @@
----
-title: Hotel Tirona
-description: The establishment prides itself on its commitment to guest satisfaction, providing room service and a 24-hour front desk to address any needs or inquiries. Conn
-featuredImage: "/images/accommodation/518448977.jpg"
-language: en
-slug: hotel-tirona
-location: ""
-amenities: []
-images: []
----
-
-The establishment prides itself on its commitment to guest satisfaction, providing room service and a 24-hour front desk to address any needs or inquiries. Connectivity is never an issue, as free WiFi is available throughout the premises, ensuring that guests stay connected with the world or plan their next adventure in the city.
+---\ntitle: "Hotel Tirona"\ndescription: "Hotel Tirona emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518448977.jpg?k=592765e7409ddde0fc21ed23685f0b3659fe3aa3a267b7e6222dcffb24f8c63d&o=&hp=1"\nlanguage: en\nslug: hotel-tirona\naddress: "Rruga e Kavajës, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.32814005\n  lng: 19.81045726\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518448977.jpg?k=592765e7409ddde0fc21ed23685f0b3659fe3aa3a267b7e6222dcffb24f8c63d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518617417.jpg?k=095d2273b6d773b59a674638d7f1c844f0c8330b987a9a0cefd0171e5f933ab6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518613596.jpg?k=fe8a7ed617b0d05d034efbe1722db669ae7419cc2ee874e196c96f87b34af628&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518623836.jpg?k=aed0a659f90a0379dae915986129aa9172a7e8139188d49fab355e9e2388147a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518621143.jpg?k=5ad0a0fa3e8accdbad9f7f014cd2bc1419808932432474bcaba5c8b04c8d66a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518616898.jpg?k=7e9e152168f30f3cd8af291ad8d9850a4fab8796fb37ceb67fed1aba7e153bba&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "24-hour front desk"\n  - "Bar"\nroomTypes:\n  - "Twin Room"\n  - "Deluxe Double Room"\n  - "Deluxe Double Room with Balcony"\n  - "Standard Triple Room"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 900 m"\n  - "Former Residence of Enver Hoxha 1,000 m"\n  - "Tanners' Bridge 1.3 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 4.8 km"\nnearbyRestaurants:\n  - "Siar 30 m"\n  - "My Coffee 30 m"\nwhatsNearby:\n  - "Sheshi Paris 400 m"\n  - "House of Leaves 550 m"\n  - "National Museum of History Albania 600 m"\n  - "Sheshi Skënderbej 650 m"\n  - "Sheshi Rekreativ Mine Peza 700 m"\n  - "Parku Europa 750 m"\n  - "Skanderbeg Square 750 m"\n  - "Rinia Park 750 m"\n  - "Clock Tower Tirana 800 m"\n  - "Parku Rinia 800 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 80 km"\nbookingURL: "https://www.booking.com/hotel/al/tirona-tirane2.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe establishment prides itself on its commitment to guest satisfaction, providing room service and a 24-hour front desk to address any needs or inquiries. Connectivity is never an issue, as free WiFi is available throughout the premises, ensuring that guests stay connected with the world or plan their next adventure in the city.
 
 Accommodations at Hotel Tirona are thoughtfully designed with guest comfort in mind. Each room is equipped with a desk, air conditioning, and a flat-screen TV for a touch of home comfort. The private bathrooms are well-appointed with a bidet and hairdryer, while select rooms also feature a balcony, offering a private outdoor space to unwind. Storage is ample, with wardrobes provided in all guest rooms.
 
 Strategically positioned, Hotel Tirona is a stone's throw away from several of Tirana's must-see attractions, including the Former Residence of Enver Hoxha, House of Leaves, and Rinia Park. For those looking to explore beyond the city, the Dajti Ekspres Cable Car is just 6.4 km away, offering breathtaking views of the area. Additionally, the Tirana International Mother Teresa Airport is conveniently located 14 km from the hotel, making arrivals and departures a breeze.
 
 In summary, Hotel Tirona stands out as a top-tier accommodation choice for visitors to Tirana, offering a blend of comfort, convenience, and proximity to local attractions, all wrapped up in a package of excellent service and hospitality.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

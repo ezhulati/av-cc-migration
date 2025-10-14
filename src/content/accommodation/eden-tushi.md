@@ -1,26 +1,3 @@
----
-title: Eden Tushi
-description: Guests are treated to an expansive apartment that boasts a private balcony, providing a perfect setting for morning coffees or evening relaxation. The accommoda
-featuredImage: "/images/accommodation/516966230.jpg"
-language: en
-slug: eden-tushi
-location: ""
-amenities: []
-images: []
----
-
-Guests are treated to an expansive apartment that boasts a private balcony, providing a perfect setting for morning coffees or evening relaxation. The accommodation includes a separate bedroom and a living room, designed for both short and long stays. The kitchen is notably well-equipped, featuring a minibar, catering to guests' culinary needs or midnight snack cravings. Entertainment is readily available with the inclusion of a flat-screen TV, making downtime enjoyable.
+---\ntitle: "Eden Tushi"\ndescription: "Eden Tushi emerges as a prime choice for travelers seeking comfort and convenience in Berat."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516966230.jpg?k=07b7b0ca187274603877c7afcb4c77beb66c33e43c40899edc6e3faf848644b9&o=&hp=1"\nlanguage: en\nslug: eden-tushi\naddress: "Rruga Mjeshter Sinani, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.70472104\n  lng: 19.95363007\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516966230.jpg?k=07b7b0ca187274603877c7afcb4c77beb66c33e43c40899edc6e3faf848644b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/516966246.jpg?k=1923e5b7114069e3eb16d033f9dba5fe4aa08ef8cb964d1d307365e35d89a393&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/516966248.jpg?k=4feff83348b5c093b7aa388f2d800134ea303ecc020866259b5a5c1a905e1721&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/516966249.jpg?k=24b918828b4b7357e7c739c341e2e9555f2d29baf248d4988ab22d6ddd5690b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/516966251.jpg?k=4f1e08361778900d963440bc99a1ae545f6dc4fab86996e10909f875e5c971f8&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Pizza Hallall Medine 50 m"\n  - "Shtëpia e kafes Gimi 100 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 83 km"\nbookingURL: "https://www.booking.com/hotel/al/eden-tushi.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nGuests are treated to an expansive apartment that boasts a private balcony, providing a perfect setting for morning coffees or evening relaxation. The accommodation includes a separate bedroom and a living room, designed for both short and long stays. The kitchen is notably well-equipped, featuring a minibar, catering to guests' culinary needs or midnight snack cravings. Entertainment is readily available with the inclusion of a flat-screen TV, making downtime enjoyable.
 
 For those venturing from afar, the proximity to Tirana International Mother Teresa Airport, located 118 km away, makes Eden Tushi a strategic base for exploring Berat and beyond.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

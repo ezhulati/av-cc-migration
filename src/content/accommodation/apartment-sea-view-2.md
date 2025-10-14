@@ -1,30 +1,7 @@
----
-title: Apartment sea view 2
-description: The property is distinguished by its thoughtful amenities, including family rooms that cater to guests traveling with loved ones. Select units elevate the exper
-featuredImage: "/images/accommodation/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"
-language: en
-slug: apartment-sea-view-2
-location: ""
-amenities: []
-images: []
----
-
-The property is distinguished by its thoughtful amenities, including family rooms that cater to guests traveling with loved ones. Select units elevate the experience further, boasting balconies that present breathtaking sea views, alongside modern conveniences such as satellite flat-screen TVs equipped with Nintendo Wii and air conditioning, ensuring a stay that is both entertaining and comfortable.
+---\ntitle: "Apartment sea view 2"\ndescription: "Apartment Sea View 2 stands as a prime choice for travelers seeking a blend of comfort and scenic beauty in Shëngjin."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"\nlanguage: en\nslug: apartment-sea-view-2\naddress: "Shetitorja Willson Apartment, Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.80796578\n  lng: 19.59893516\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"\n  - "https://cf.bstatic.com/static/img/flags/12/mk/ce384359e8a520450122357078887345161335e2.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260743625.jpg?k=856b04f6e5ddd1e5f716032eb3fea67950dab47209bfaa511542ab1af1fdeb48&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/467292725.jpg?k=5e025f909dfd50be47b21d9db6f0ac526e0a876a2418bd53ec758271e2b7cd87&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/467292814.jpg?k=783487f91296e5bf5d26b96261253400e51eacc85fb47601edfbe38d0e6f07a1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/260754786.jpg?k=8d954ad9ea0f69461b155c2145a767f82c171f83b7534be0117509d57f2ae369&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/467292027.jpg?k=7827148cd65ba3c50cd7345f7105659f5057136c200a580fc6f79e8ea4ead9dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/260755098.jpg?k=159d56233bb94975433c186fe54431a110767a2ea3e85a8281c55cd395936e80&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/468361120.jpg?k=6bfabcc02322ab96583291a8cfc0e38bc0fb948ae02afd1eda0b8247a1712890&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Family rooms"\n  - "Bar"\nnearbyRestaurants:\n  - "Ermiri Palace 100 m"\n  - "Kolonat Shengjin 150 m"\nnearbyBeaches:\n  - "Shëngjin Beach 100 m"\n  - "Ylberi Beach 900 m"\n  - "Rana e Hedhun Beach 2.9 km"\n  - "Laguna Park Beach 4.3 km"\n  - "Kune Beach 4.3 km"\nairports:\n  - "Tirana International Airport Mother Teresa 43 km"\n  - "Podgorica Airport 66 km"\n  - "Tivat Airport 97 km"\nreviews:\n  - name: "Dritan"\n    country: "North Macedonia"\n    text: "“The house ,the view , free parking , free wifi and very clean, host very friendly .”"\nbookingURL: "https://www.booking.com/hotel/al/beautiful-apartment-see-view.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe property is distinguished by its thoughtful amenities, including family rooms that cater to guests traveling with loved ones. Select units elevate the experience further, boasting balconies that present breathtaking sea views, alongside modern conveniences such as satellite flat-screen TVs equipped with Nintendo Wii and air conditioning, ensuring a stay that is both entertaining and comfortable.
 
 Guests have the luxury of enjoying the on-site garden and bar, providing a perfect setting for relaxation after a day of exploration. The inclusion of a lift ensures easy access to all the apartment complex's facilities, highlighting the property's commitment to convenience and accessibility.
 
 For those intrigued by historical and natural sites, Apartment Sea View 2 serves as an ideal base. The majestic Rozafa Castle Shkodra lies 42 km away, offering a glimpse into the region's rich history, while Lake Skadar, located 43 km from the property, invites nature enthusiasts with its stunning landscapes. Furthermore, the proximity to Tirana International Mother Teresa Airport, just 48 km away, adds to the appeal for international travelers.
 
 Apartment Sea View 2 emerges as a compelling choice for those in pursuit of a serene getaway that does not compromise on accessibility to natural and cultural attractions.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

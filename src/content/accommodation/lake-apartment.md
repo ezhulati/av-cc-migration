@@ -1,28 +1,5 @@
----
-title: Lake Apartment
-description: "The apartment itself is thoughtfully equipped with two bedrooms, ensuring ample space for guests."
-featuredImage: "/images/accommodation/494394391.jpg"
-language: en
-slug: lake-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is thoughtfully equipped with two bedrooms, ensuring ample space for guests. The kitchen is fully furnished with modern appliances such as an oven and a toaster, catering to those who prefer home-cooked meals. The living area is designed for relaxation, featuring a flat-screen TV and comfortable seating, complemented by a bathroom that includes a contemporary walk-in shower for ultimate convenience.
+---\ntitle: "Lake Apartment"\ndescription: "Lake Apartment, located in the scenic Korçë County region of Pogradec, offers guests a serene retreat with breathtaking lake views right from its balcony."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494394391.jpg?k=871c5dc90f71aba2ca951c431ef1287c6a367d4be904e71dda2b88f69fd1a287&o=&hp=1"\nlanguage: en\nslug: lake-apartment\naddress: "Rruga Dëshmorët e Pojskës Door 24 on the 6th floor, Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.9015984\n  lng: 20.66492736\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494394391.jpg?k=871c5dc90f71aba2ca951c431ef1287c6a367d4be904e71dda2b88f69fd1a287&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/494394417.jpg?k=3cfa4b2ac0b9e3373afafe2a7e3ef608af0db066295b2fbe2099197692da6347&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/494394421.jpg?k=c6884c156ef45b061d7eb5ffdb729df1df87f4d62a574e37b7dfde3d5fae1cd8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/494394424.jpg?k=7572334b916827ee42c90f52d887b44057fb3671971cf6c6d435652b218c0e5d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/494394426.jpg?k=1723034432f02146f3bf8737f9fdc26f8b3099389ffe6a5bd15b12274d6343ee&o=&hp=1"\namenities:\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Bar Kafe \Select\\"\" 10 m"\n  - "Select 50 m"\nwhatsNearby:\n  - "Driloni National Park 450 m"\n  - "National Park Galicica 7 km"\n  - "National Park Galicica 14 km"\n  - "Bay of Bones 15 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 71 km"\n  - "Tirana International Airport Mother Teresa 96 km"\nbookingURL: "https://www.booking.com/hotel/al/lake-apartment-pogradec.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nThe apartment itself is thoughtfully equipped with two bedrooms, ensuring ample space for guests. The kitchen is fully furnished with modern appliances such as an oven and a toaster, catering to those who prefer home-cooked meals. The living area is designed for relaxation, featuring a flat-screen TV and comfortable seating, complemented by a bathroom that includes a contemporary walk-in shower for ultimate convenience.
 
 Cultural enthusiasts will appreciate the apartment's location, with the Church of St. John at Kaneo and the Cave Church Archangel Michael located 39 km and 41 km away, respectively. For those traveling by air, Ohrid Airport is the nearest, situated 45 km from Lake Apartment, making it accessible for international and domestic visitors.
 
 With its combination of modern amenities, strategic location, and stunning lake views, Lake Apartment emerges as a top choice for travelers seeking a peaceful getaway amidst the natural and historical riches of Pogradec.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -7,6 +7,13 @@ featuredImage: /images/attractions/bunkart1.jpg
 images: []
 language: en
 slug: bunkart1
+seo:
+  metaTitle: "BUNK'ART 1 Tirana - Explore Albania's Communist Past"
+  metaDescription: "Discover BUNK'ART, a unique historical and art center in Tirana, Albania. Explore the underground bunker turned museum and experience Albania's communist past.
+
+"
+  focusKeyword: "bunk'art1, bunkart, bunkart1"
+  robots: "index"
 ---
 
 The History of BUNK’ART
@@ -86,10 +93,3 @@ BUNK’ART 1 is a unique tourist attraction because it immerses Albania’s past
 
 The bunker’s transformation from a symbol of oppression to a center for education and art is a testament to Albania’s resilience and commitment to acknowledging its past while looking toward the future.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

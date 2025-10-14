@@ -4,9 +4,19 @@ description: "Guest accommodations boast balconies that open up to serene garden
 featuredImage: "/images/accommodation/468290245.jpg"
 language: en
 slug: villa-edilinda
-location: ""
-amenities: []
 images: []
+category: "3-Star"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Ksamil"
+amenities:
+  - "WiFi"
+  - "Air Conditioning"
+  - "Restaurant"
+  - "Bar"
+  - "Spa"
+  - "TV"
 ---
 
 Guest accommodations boast balconies that open up to serene garden views, creating a tranquil backdrop for relaxation. Each room is thoughtfully appointed with modern comforts including air conditioning, a flat-screen TV with cable channels, a refrigerator, and a kettle, alongside essentials like a shower, complimentary toiletries, and ample wardrobe space. The convenience of free WiFi in every room adds to the seamless experience of staying at Villa Edi&Linda.
@@ -19,14 +29,3 @@ For travelers arriving from afar, the proximity to Corfu International Airport, 
 
 Villa Edi&Linda stands out as a prime choice for those seeking a peaceful getaway with the comforts of home, coupled with the ease of access to some of Ksamil's most beautiful beaches.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

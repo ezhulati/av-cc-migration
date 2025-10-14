@@ -1,30 +1,7 @@
----
-title: Fantastic Sea View Apartment
-description: The apartment itself is a haven of space and light, boasting air-conditioned interiors that open up to a serene terrace. Guests are treated to the luxury of a b
-featuredImage: "/images/accommodation/478963265.jpg"
-language: en
-slug: fantastic-sea-view-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of space and light, boasting air-conditioned interiors that open up to a serene terrace. Guests are treated to the luxury of a balcony where the beauty of Sarandë's coastline can be enjoyed in private. The living space is thoughtfully designed with modern travelers in mind, featuring a fully equipped kitchen with a dishwasher and an oven, ensuring that every meal feels like home. The living area, complete with a flat-screen TV and comfortable seating, is perfect for unwinding after a day of exploration. The convenience of a private entrance and the comfort of soundproofing add an extra layer of privacy and peace to the stay.
+---\ntitle: "Fantastic Sea View Apartment"\ndescription: "Discover the charm of Sarandë from the comfort of the Fantastic Sea View Apartment, a prime choice for travelers seeking both convenience and tranquility."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478963265.jpg?k=9de029e59e6cf334a330ec5daa17f418153c24f56e1b4bf600263960df7b5008&o=&hp=1"\nlanguage: en\nslug: fantastic-sea-view-apartment\naddress: "Rruga Qazim Demi 15, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87307869\n  lng: 20.01482307\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478963265.jpg?k=9de029e59e6cf334a330ec5daa17f418153c24f56e1b4bf600263960df7b5008&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478963228.jpg?k=029113a9c85d3c5e173604bf4347269ead755ce30635b2f80363dbc1df9eb21b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478963179.jpg?k=e599a736fc2b6efca818d9c94fc6164bbb51e2bde98bc52c84280df7a6d18fba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478963222.jpg?k=362480e86e7e9cb37371ab5dc1840f2a630c35217ac738a5ec7b61bc4da3990e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478963324.jpg?k=b1b7edb801af0921beb776733cbe090ef48ce83205ec93363203a57bca47383b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478963193.jpg?k=af9abfb618efe0af8df2979284a7f939c6f902e489931ce5c2d1ffb30fa635b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478963142.jpg?k=6612290ddef2dd45833f03f5a24d84a943b89d2cd0b3f6377333cde70e33ed93&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478963153.jpg?k=627d1e8978ea30bc813875347a4951631a895d8fc4278043c314d2737c04b543&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478963196.jpg?k=e7a9a3f27d867bd796debeda2c606b37c1e849dd51acb5628e5d9d111237aab3&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\nnearbyRestaurants:\n  - "TUNELI RESTAURANT 40 m"\n  - "Tunnel Bar and 50 m"\nnearbyBeaches:\n  - "Saranda City Beach 150 m"\n  - "La Petite Beach 500 m"\n  - "Maestral Beach 650 m"\n  - "Sarande Main Beach 1.1 km"\n  - "VIP Beach 1.6 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.8 km"\n  - "Butrint National Park 2.7 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nbookingURL: "https://www.booking.com/hotel/al/fantastic-sea-view-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of space and light, boasting air-conditioned interiors that open up to a serene terrace. Guests are treated to the luxury of a balcony where the beauty of Sarandë's coastline can be enjoyed in private. The living space is thoughtfully designed with modern travelers in mind, featuring a fully equipped kitchen with a dishwasher and an oven, ensuring that every meal feels like home. The living area, complete with a flat-screen TV and comfortable seating, is perfect for unwinding after a day of exploration. The convenience of a private entrance and the comfort of soundproofing add an extra layer of privacy and peace to the stay.
 
 Accommodation in this apartment includes one bedroom and a bathroom equipped with a shower, with towels and bed linen provided for a hassle-free stay. The non-smoking policy ensures a clean and healthy environment for all guests.
 
 For those looking to venture beyond the city, Butrint National Park offers a glimpse into the area's rich history and natural beauty, located just 16 km away. Furthermore, the apartment's proximity to Ioannina Airport, 96 km away, makes it a practical choice for international travelers.
 
 Fantastic Sea View Apartment is more than just a place to stay; it's a gateway to experiencing the best of Sarandë, combining the comforts of home with the excitement of travel.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

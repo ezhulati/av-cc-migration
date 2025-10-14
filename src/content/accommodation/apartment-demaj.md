@@ -1,15 +1,4 @@
----
-title: Apartment Demaj
-description: Guests at Apartment Demaj are treated to a seamless stay experience, starting with the ease of connectivity, thanks to complimentary WiFi, and the charm of a pr
-featuredImage: "/images/accommodation/211028151.jpg"
-language: en
-slug: apartment-demaj
-location: ""
-amenities: []
-images: []
----
-
-Guests at Apartment Demaj are treated to a seamless stay experience, starting with the ease of connectivity, thanks to complimentary WiFi, and the charm of a private balcony complemented by an outdoor fireplace. The provision of a tour desk, secure bicycle parking, and currency exchange services further enhances the convenience for guests exploring the city or planning local excursions.
+---\ntitle: "Apartment Demaj"\ndescription: "Apartment Demaj emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/211028151.jpg?k=2908939af578cd4e6e0e3fe571f39585beda536f7384d741bfc3c3d804cff872&o=&hp=1"\nlanguage: en\nslug: apartment-demaj\naddress: "Rruga Miro Torbaci 23, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.47873686\n  lng: 19.48523712\nprice: "US$27"\npriceFrom: 27\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 70\nratings:\n  overall: 9.3\n  location: 8\n  cleanliness: 9.5\n  facilities: 9.4\n  value: 9.5\n  comfort: 9.5\n  staff: 9.6\n  wifi: 9.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/211028151.jpg?k=2908939af578cd4e6e0e3fe571f39585beda536f7384d741bfc3c3d804cff872&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110164083.jpg?k=e88fdecc938a9a13ca97d827da314543a008a7e920a1085cb5aa9426e825deef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262449090.jpg?k=9ece9123275f328103b81a502c1e1df011f81b980d0e03eca2213ba148f82007&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262449055.jpg?k=ab223040164c9518da865f29f2e6b5d514563353b87b098d3867df37c65e34e1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262449013.jpg?k=cad256588bd48e538526b052fd024cb515928c262bf7009dce2883d6ec33cd7f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262450159.jpg?k=e3437d3759bf8549243df2722a47636c0fe85317be08e8dd65eaecad3fa6ad18&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/211025530.jpg?k=4c3bf5a082e478cfc2e84957b327b5b371b993bcd6088073ef19c2e714fefe75&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110164061.jpg?k=f37558f34db202a50dacb7327273c37ae30004f105a37ae1cdc07d691a729dc4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262448995.jpg?k=0a1e774b84d875b80c31ad5180e5b589ac2d7d578d907bc0c83dfbad7fb33ec0&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "Apartment with Balcony"\nnearbyBeaches:\n  - "Vjetër Beach 2.7 km"\n  - "Vlore Beach 3.5 km"\n  - "Narta Beach 4.4 km"\n  - "Ri Beach 4.9 km"\n  - "Beach at Government Villas 7 km"\nreviews:\n  - name: "Tatiana"\n    country: "Canada"\n    text: "“Modern apartment with balcony and laundry machine, close to the public transportation and to intercity bus.”"\n  - name: "Gregorio"\n    country: "Italy"\n    text: "“The host is very kind and the house is perfect for a couple”"\n  - name: "Colin"\n    country: "United Kingdom"\n    text: "“The hosts are very friendly and helpful. The apartment is very clean and spacious. Large equipped kitchen area. Lovely comfortable bed with plenty of extra fluffy blankets. Beautiful garden setting around the building. Very quiet neighborhood. It...”"\nbookingURL: "https://www.booking.com/hotel/al/apartment-demaj.en-gb.html?aid=8035640"\nbestFor: "Best for Couples"\nbestCategories: "Couples"\ncategory: "Couples"\n---\n\nGuests at Apartment Demaj are treated to a seamless stay experience, starting with the ease of connectivity, thanks to complimentary WiFi, and the charm of a private balcony complemented by an outdoor fireplace. The provision of a tour desk, secure bicycle parking, and currency exchange services further enhances the convenience for guests exploring the city or planning local excursions.
 
 The apartment itself is a sanctuary of comfort, featuring air conditioning for those warm Vlorë days. It houses a bedroom, a cozy living room, and a fully equipped kitchen boasting an oven and a coffee machine, perfect for those who enjoy the art of cooking even while traveling. The bathroom is well-appointed with a bidet and plush bathrobes, ensuring a luxurious bath experience. Upon arrival, guests are welcomed into their private retreat with the option to unwind with some wine or champagne and fresh fruits, setting the tone for a relaxing stay.
 
@@ -18,15 +7,3 @@ Mornings at Apartment Demaj promise a delightful start with a choice of continen
 For those who appreciate the outdoors, the apartment offers a barbecue and a garden area, providing an ideal setting for relaxation or social gatherings, weather permitting.
 
 Situated 148 km from Tirana International Mother Teresa Airport, Apartment Demaj represents an excellent accommodation choice for those looking to explore the beauty and culture of Vlorë while enjoying the comforts of a home-like setting.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: VIVA Golem 3
-description: This spacious apartment is designed to cater to the needs of modern travelers, featuring one bedroom, one bathroom, and a host of amenities including air condit
-featuredImage: "/images/accommodation/377614993.jpg"
-language: en
-slug: viva-golem-3
-location: ""
-amenities: []
-images: []
----
-
-This spacious apartment is designed to cater to the needs of modern travelers, featuring one bedroom, one bathroom, and a host of amenities including air conditioning, complimentary WiFi, and a fully equipped kitchen. The inclusion of bed linen, towels, and a TV ensures a stay that combines the comforts of home with the luxury of a holiday retreat. Perhaps most captivating is the apartment's terrace, offering breathtaking sea views that promise to enchant guests from dawn till dusk.
+---\ntitle: "VIVA Golem 3"\ndescription: "VIVA Golem 3 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience along the Albanian coast."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377614993.jpg?k=7f2dc68bdc8442ef016017173134bd90cf62e5013cb4e4343455b4052d1b8be0&o=&hp=1"\nlanguage: en\nslug: viva-golem-3\naddress: "Rruga Skënderbeu, kompleksi Dibra Agza, 92, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.26794367\n  lng: 19.51880251\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 3\nratings:\n  overall: 9\n  location: 10\n  cleanliness: 8.8\n  facilities: 7.5\n  value: 8.8\n  comfort: 8.8\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377614993.jpg?k=7f2dc68bdc8442ef016017173134bd90cf62e5013cb4e4343455b4052d1b8be0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377615205.jpg?k=86908a67ac663c11c47b31afe8f23557e75f1ab110121e7c3964e1372ccd85a4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377615094.jpg?k=2c695b9fe9cd4b1a437325e22b60a982dadaeacb2a82d875dd7903c0c69fe5df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377615165.jpg?k=15d530d2484430d1959a360660f76702f6e61938bbf8ea881b8c90e50293bfcd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377615185.jpg?k=a5eb906dd12f7fb841980077622659bd852d7cf5421284806dee15d1bfa6a504&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377615136.jpg?k=1b894b5465529af9249daf3013602774ecbcf06255cc050d8f8a2e064c2c5996&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377615105.jpg?k=b572a7959a3c4e728951fee927109c52566b35241abf93e5178488f5453efe15&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377615141.jpg?k=6947a568d9f1884bf585ef9807e951e64fc262fe6ee210ca5519ed15786c1634&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377615114.jpg?k=b84c010691da1863a2534667005764a6a65aa3847e7dddc89409eaf43c83477e&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Grill & Pizza Peja 100 m"\n  - "Fresh Fish 250 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 40 m"\n  - "Golem Beach 300 m"\n  - "Durres Beach 2.1 km"\n  - "Mali I Robit Beach 2.2 km"\n  - "Qerret Beach 4.2 km"\nwhatsNearby:\n  - "Bekimi 8 km"\n  - "Durres Amphiteatre 8 km"\n  - "Wine Dhe Pooh 8 km"\n  - "1. Maj 8 km"\n  - "Yje Dhe Hena 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "Sotir Noka 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/viva-golem-3.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis spacious apartment is designed to cater to the needs of modern travelers, featuring one bedroom, one bathroom, and a host of amenities including air conditioning, complimentary WiFi, and a fully equipped kitchen. The inclusion of bed linen, towels, and a TV ensures a stay that combines the comforts of home with the luxury of a holiday retreat. Perhaps most captivating is the apartment's terrace, offering breathtaking sea views that promise to enchant guests from dawn till dusk.
 
 For those looking to explore beyond the beach, VIVA Golem 3 is conveniently positioned within reach of notable attractions. Skanderbeg Square, the heart of Tirana's cultural and historical landscape, is 43 km away, while the adventure of the Dajti Ekspres Cable Car awaits 47 km from the doorstep. Additionally, the property is located 37 km from Tirana International Mother Teresa Airport, with a paid airport shuttle service available to ensure seamless travel arrangements.
 
 VIVA Golem 3 distinguishes itself not only through its prime location and comprehensive amenities but also as a non-smoking property, appealing to those who prioritize a clean and healthy living environment. This apartment is an ideal choice for travelers seeking a blend of relaxation, convenience, and the opportunity to immerse themselves in the natural beauty and cultural richness of the Albanian coastline.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

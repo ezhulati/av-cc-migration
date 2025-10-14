@@ -1,30 +1,7 @@
----
-title: Hotel Drinos
-description: Accommodations at Hotel Drinos are thoughtfully designed, featuring work desks, flat-screen TVs, and private bathrooms. Select rooms elevate the guest experienc
-featuredImage: "/images/accommodation/363265403.jpg"
-language: en
-slug: hotel-drinos
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Hotel Drinos are thoughtfully designed, featuring work desks, flat-screen TVs, and private bathrooms. Select rooms elevate the guest experience further with the addition of terraces, offering a serene retreat. The convenience of in-room wardrobes underscores the hotel's commitment to guest comfort.
+---\ntitle: "Hotel Drinos"\ndescription: "Hotel Drinos emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana, merely a kilometer away from the iconic Skenderberg Square."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363265403.jpg?k=7973c08c2d00828a0a3fbb3654a4d192c6bf65bcb80cf3296f7fe6be2a39ef82&o=&hp=1"\nlanguage: en\nslug: hotel-drinos\naddress: "Rruga Mustafa Lleshi, 1234 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.323939\n  lng: 19.826303\nprice: "US$58"\npriceFrom: 58\nstarRating: 3\nrating: 7.3\nratingWords: "Good"\nnumberOfReviews: 10\nratings:\n  overall: 7.3\n  location: 8.8\n  cleanliness: 6.3\n  facilities: 6.8\n  value: 6.5\n  comfort: 7.3\n  staff: 7.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363265403.jpg?k=7973c08c2d00828a0a3fbb3654a4d192c6bf65bcb80cf3296f7fe6be2a39ef82&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/287372238.jpg?k=abcd491b8c772c265032a829e218387cad29393b29cb80b5e5a49b5db523ceec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306649801.jpg?k=e2226911cb1dbdb567acc30d6eaffb994b6e5737b7837ed09ba1d3530f600d59&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/287372347.jpg?k=3458ef46d9e6d1c918eea6b5a3d69f11a66ce88792482d7d24697f129af365c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363264530.jpg?k=77ef93c53a8e5c738234ed4fd64076ba147dc817cd00c8baee632f114fe789d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363263609.jpg?k=3071bd3e0f53b039d271d806eb2bb53d041f644dfa97853236f3b817f7f0946a&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Private parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Room (2 Adults + 1 Child)"\n  - "Deluxe Double Room with Balcony"\n  - "Deluxe Double Room"\nnearbyAttractions:\n  - "Clock Tower Tirana 700 m"\n  - "Skanderbeg Square 750 m"\n  - "Former Residence of Enver Hoxha 800 m"\n  - "House of Leaves 900 m"\n  - "National Museum of History Albania 950 m"\n  - "Grand Park of Tirana 1.3 km"\n  - "Bunk'Art 1 Museum 4.1 km"\nnearbyRestaurants:\n  - "Trattoria Buonocore 5 m"\n  - "Ristorante Italiano a Tirana - a Casa di Michele 40 m"\nwhatsNearby:\n  - "Tanners' Bridge 300 m"\n  - "Sheshi Rekreativ Piramida 350 m"\n  - "Shesh Rekreativ 400 m"\n  - "Sheshi Rekreativ tek ish ATSh 450 m"\n  - "Sheshi Rekreativ tek Arena Kombëtare 500 m"\n  - "National Gallery of Arts Tirana 550 m"\n  - "Parku Rinia 600 m"\n  - "Sheshi Sulejman Pasha 650 m"\n  - "Shesh Rekreativ 700 m"\n  - "Rinia Park 700 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\nbookingURL: "https://www.booking.com/hotel/al/drinos.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nAccommodations at Hotel Drinos are thoughtfully designed, featuring work desks, flat-screen TVs, and private bathrooms. Select rooms elevate the guest experience further with the addition of terraces, offering a serene retreat. The convenience of in-room wardrobes underscores the hotel's commitment to guest comfort.
 
 Morning starts on a high note with a choice of continental or Italian breakfast, setting the stage for a day of exploration or relaxation. The on-site restaurant, renowned for its European culinary delights, promises an immersive dining experience without the need to step outside the hotel.
 
 The attentive staff at Hotel Drinos stand ready to assist, ensuring that every query is met with a helpful response, enhancing the overall stay experience.
 
 Located a short drive from the National Sport Park and 18 km from Tirana International Mother Teresa Airport, Hotel Drinos not only offers a gateway to the city's attractions but also ensures a seamless journey for international travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

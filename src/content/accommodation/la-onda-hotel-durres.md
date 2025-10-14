@@ -1,30 +1,7 @@
----
-title: La Onda Hotel Durres
-description: Guests are welcomed into a world where every room is a haven of comfort, equipped with essential modern amenities such as air conditioning, a flat-screen TV, an
-featuredImage: "/images/accommodation/481193160.jpg"
-language: en
-slug: la-onda-hotel-durres
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into a world where every room is a haven of comfort, equipped with essential modern amenities such as air conditioning, a flat-screen TV, and complimentary toiletries in a private bathroom. Select accommodations further enhance the stay with the addition of balconies, offering serene views that promise to elevate the guest experience.
+---\ntitle: "La Onda Hotel Durres"\ndescription: "La Onda Hotel Durres emerges as a prime choice for travelers seeking a blend of comfort and convenience, just a stone's throw away from the pristine Shkëmbi i Kavajës Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481193160.jpg?k=2ea638454a598c1609b9da7d34579130436cada953cfcdc74b744792a47309be&o=&hp=1"\nlanguage: en\nslug: la-onda-hotel-durres\naddress: "Durres Perballe Shkembit te Kavajes, 1000 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.28361417\n  lng: 19.51302077\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 133\nratings:\n  overall: 9.6\n  location: 9.6\n  cleanliness: 9.8\n  facilities: 9.8\n  value: 9.6\n  comfort: 9.8\n  staff: 9.9\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481193160.jpg?k=2ea638454a598c1609b9da7d34579130436cada953cfcdc74b744792a47309be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481193198.jpg?k=b7f501c18d027a720e2d1717187f5f131afbf5f1b51f5674fcf2d754369444e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481193251.jpg?k=acdd8bb97a9260fa801b50f6bcba5b69f48d076108386c059a4ef50d2853f478&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481193330.jpg?k=b368aaa438e6f621a5161a1cb69c0b8079a05c562a5a26521444a6c0ca6192bd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510647423.jpg?k=af5424e86c9d1873794a7b247b6d046d8b7560f8a4ad8b9d8bb99980d8b0586b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485987099.jpg?k=70aa9383e1e412e36ce0d464dc78621648bb5c25e3284a53c35d5c2b5ef66b74&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Restaurant"\n  - "Free WiFi"\n  - "24-hour front desk"\n  - "Bar"\n  - "Private beach area"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Double Room"\n  - "Double Room"\n  - "Deluxe Double Room with Sea View"\n  - "Standard Triple Room"\n  - "Junior Suite"\nnearbyRestaurants:\n  - "Kosova 30 m"\n  - "Restorant Peja 100 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 150 m"\n  - "Durres Beach 400 m"\n  - "Golem Beach 2.1 km"\n  - "Mali I Robit Beach 4 km"\n  - "Qerret Beach 6 km"\nwhatsNearby:\n  - "Bekimi 6 km"\n  - "Wine Dhe Pooh 7 km"\n  - "Durres Amphiteatre 7 km"\n  - "Yje Dhe Hena 7 km"\n  - "Sheshi Demokracia 7 km"\n  - "1. Maj 7 km"\n  - "Sotir Noka 7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Klea"\n    country: "Albania"\n    text: "“The room was very clean and modern. The staff was really helpful for any request.”"\n  - name: "Odri"\n    country: "Albania"\n    text: "“The location. The rooms were super clean and the staff were very nice”"\n  - name: "Taylor"\n    country: "United Kingdom"\n    text: "“La Onda Hotel in Durres is amazing! The staff is friendly, rooms are cozy, and the breakfast is delicious. Highly recommend! 😊🌟”"\nbookingURL: "https://www.booking.com/hotel/al/la-onda-durres-durres1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into a world where every room is a haven of comfort, equipped with essential modern amenities such as air conditioning, a flat-screen TV, and complimentary toiletries in a private bathroom. Select accommodations further enhance the stay with the addition of balconies, offering serene views that promise to elevate the guest experience.
 
 Morning rituals at La Onda Hotel Durres are redefined with a choice between a buffet or à la carte breakfast, catering to diverse palates and preferences. The on-site restaurant and bar add to the allure, providing delightful dining options and the chance to unwind in a relaxed setting.
 
 The hotel prides itself on a multilingual staff proficient in English, Italian, and Albanian, ready to offer insightful advice about the local area and ensure a seamless stay for international guests.
 
 Beyond its immediate comforts, the hotel's location serves as a gateway to explore further, with the Rock of Kavaje and the intriguing Former Residence of Enver Hoxha within proximity. For those arriving by air, the convenience is unmatched, with Tirana International Mother Teresa Airport merely 36 km away, making La Onda Hotel Durres an ideal choice for both leisure and exploration in this vibrant region.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

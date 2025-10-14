@@ -1,28 +1,5 @@
----
-title: Hotel Jali
-description: The hotel doesn't just stop at comfortable lodging; it also features an on-site restaurant and bar, where guests can savor delicious meals and refreshing drinks
-featuredImage: "/images/accommodation/397616906.jpg"
-language: en
-slug: hotel-jali
-location: ""
-amenities: []
-images: []
----
-
-The hotel doesn't just stop at comfortable lodging; it also features an on-site restaurant and bar, where guests can savor delicious meals and refreshing drinks without having to venture far. For those looking to immerse themselves in outdoor adventures, Hotel Jali is perfectly positioned. The area is a haven for windsurfing, cycling, and fishing enthusiasts, offering ample opportunities to engage in these activities amidst stunning natural scenery.
+---\ntitle: "Hotel Jali"\ndescription: "Hotel Jali stands as a prime destination for travelers seeking a serene beachfront escape on Jali Beach, Himare."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397616906.jpg?k=a7a7a748afd9deccd6298c1e253b3b465e51577895be929b5e4803b5519b390c&o=&hp=1"\nlanguage: en\nslug: hotel-jali\naddress: "Jale Beach, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.11894027\n  lng: 19.70276445\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 35\nratings:\n  overall: 8.2\n  location: 9.1\n  cleanliness: 8\n  facilities: 7.4\n  value: 7.6\n  comfort: 8.1\n  staff: 8.4\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397616906.jpg?k=a7a7a748afd9deccd6298c1e253b3b465e51577895be929b5e4803b5519b390c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397613122.jpg?k=0f8decb33ed8b9f60c45dd660ca7d386cbf8005696346cd273c050ed97ea6af2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397613935.jpg?k=775407ab8d2fa7b83bf12f308e3925588ac0c8631bcc026cacff1f24d10b66da&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397611179.jpg?k=42d1fa1421f16bb78939e971df15d73087f43efd8eb4a5cf8af71b26e13e07a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397612672.jpg?k=eed853d3756001451e3eeb15a57831ff227226639935978a7ccaf596af8aadb9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397611136.jpg?k=f086fb011728943cad0f4c443f87c88d3f446c9e9c595689ce1191bc5427e0b5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397612669.jpg?k=6554426081da025dd1e551c9c84414373b645ba05edc4e59fe16ae6217b0ec3e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397613147.jpg?k=bd512761ea7fc112d955f6236b316e2d9894cab2b86e42deeafffeda65968dff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397613118.jpg?k=a4a30e09e0f3bff45635316aa1fe3a9bedacb102eda004d735c0a801a901e107&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Hotel Jali & Taverna Peshkatari 30 m"\n  - "Kapiteni 40 m"\nnearbyBeaches:\n  - "Jale Beach 40 m"\n  - "Folie Marine Beach 350 m"\n  - "Akuariumit Beach 900 m"\n  - "Livadhi Beach 1.7 km"\n  - "Beach Me Shpella 2.2 km"\nwhatsNearby:\n  - "Llogora National Park 12 km"\nairports:\n  - "Corfu International Airport 59 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nbookingURL: "https://www.booking.com/hotel/al/jali.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe hotel doesn't just stop at comfortable lodging; it also features an on-site restaurant and bar, where guests can savor delicious meals and refreshing drinks without having to venture far. For those looking to immerse themselves in outdoor adventures, Hotel Jali is perfectly positioned. The area is a haven for windsurfing, cycling, and fishing enthusiasts, offering ample opportunities to engage in these activities amidst stunning natural scenery.
 
 Situated just 13 km from the heart of Himare and 70 km from Vlore, the hotel's location combines the tranquility of a beachside retreat with the convenience of being within easy reach of local attractions. Additionally, guests benefit from the availability of free public parking nearby, adding an extra layer of ease to their stay.
 
 Hotel Jali emerges as a compelling choice for travelers who desire both relaxation and adventure, set against the backdrop of one of Himare's most beautiful beaches.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

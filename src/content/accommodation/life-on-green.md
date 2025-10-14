@@ -1,15 +1,4 @@
----
-title: Life on Green
-description: "The accommodations at Life on Green are thoughtfully designed with comfort in mind, featuring seating areas in every unit for relaxation."
-featuredImage: "/images/accommodation/417030776.jpg"
-language: en
-slug: life-on-green
-location: ""
-amenities: []
-images: []
----
-
-The accommodations at Life on Green are thoughtfully designed with comfort in mind, featuring seating areas in every unit for relaxation. The private bathrooms are modern and fully equipped, including walk-in showers and complimentary toiletries, ensuring a comfortable stay. Additionally, each unit is fitted with air conditioning and a wardrobe, catering to all the essentials of modern living.
+---\ntitle: "Life on Green"\ndescription: "Life on Green emerges as a recently renovated gem in Himare, boasting a prime location just 500 meters from the serene Spille Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/417030776.jpg?k=955578053fe3c5201ee7b5946868d722e648960b2695b47d0e2c979a51c895a7&o=&hp=1"\nlanguage: en\nslug: life-on-green\naddress: "Rr.Hali, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.09946783\n  lng: 19.73973011\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 57\nratings:\n  overall: 9.2\n  location: 9.7\n  cleanliness: 9.6\n  facilities: 9\n  value: 9\n  comfort: 9.7\n  staff: 9.9\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/417030776.jpg?k=955578053fe3c5201ee7b5946868d722e648960b2695b47d0e2c979a51c895a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466162986.jpg?k=cec93e617291b999f1da5636c78bdbb5308038b0454f9ab732233337fa123cbc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466163046.jpg?k=0cd2ad65c5b8521e335e5056d20a77d29331f311c67d5ad07fae12db46027e09&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466162925.jpg?k=4d83c77332a1521bca992ae4678f39de4c82de76ab4994dd8754448eff098912&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/417030816.jpg?k=a6704ae364bcc01fc30f2bf83a777196ab2642ad8872eb14baa0e7dba75519b8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466162964.jpg?k=0ee1d66b494dd957757f6ccf575fb8e0d38bc2ba99d633332efc9706fac660a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466163052.jpg?k=a7545a0b279671979a32010a499ef0e7b97ab89a435e6517d9ccdcba9043a622&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466162930.jpg?k=b32e9c1656beb4b5545032e3444cc15fef365fcfdd75ff011e7c770e6f757a36&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466163078.jpg?k=214b409ddf521b8b2272d136d57a7719045397f20c5e341528c3b38b9d57abe1&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Esperia 200 m"\n  - "Manolo's 400 m"\nnearbyBeaches:\n  - "Spille Beach 150 m"\n  - "Maracit Beach 750 m"\n  - "Livadhi Beach 850 m"\n  - "Prinos Beach 950 m"\n  - "Potam Beach 1.3 km"\nwhatsNearby:\n  - "Llogora National Park 16 km"\nairports:\n  - "Corfu International Airport 56 km"\npaymentMethods:\n  - "Visa"\nreviews:\n  - name: "Janna"\n    country: "Netherlands"\n    text: "“This was one of the most amazing places I’ve ever stayed. You can hear the ocean waves from the front door and the animals everywhere are so cute and sweet. Blue followed us on our walk around himare. The family who owns the place is 1000000% the...”"\n  - name: "Julian"\n    country: "Austria"\n    text: "“Stunning location, great hospitality, very clean and modern rooms. Everything just perfect!”"\n  - name: "Sofia"\n    country: "United Kingdom"\n    text: "“This was the best place we stayed in Albania and we are so glad we found it! The rooms are newly renovated and very spacious, and our favourite thing about staying here was being able to jump into the sea everyday from the bottom of the campsite....”"\nbookingURL: "https://www.booking.com/hotel/al/the-life-on-green.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodations at Life on Green are thoughtfully designed with comfort in mind, featuring seating areas in every unit for relaxation. The private bathrooms are modern and fully equipped, including walk-in showers and complimentary toiletries, ensuring a comfortable stay. Additionally, each unit is fitted with air conditioning and a wardrobe, catering to all the essentials of modern living.
 
 For those who relish outdoor living, the property doesn't disappoint. An outdoor fireplace sets the scene for memorable evenings under the stars, while the availability of barbecue facilities invites guests to enjoy al fresco dining on their private balconies during the warmer months.
 
@@ -18,15 +7,3 @@ Adventure seekers and nature enthusiasts will find plenty to do, with snorkeling
 Life on Green is ideally situated for beach lovers, with Maracit Beach only 1.1 km away and the picturesque Livadhi Beach within a 2 km reach. For travelers exploring the region, Ioannina Airport is the nearest gateway, located 144 km from the property.
 
 This apartment complex stands out as a perfect blend of modern amenities and natural beauty, making it an ideal choice for families and travelers seeking a peaceful beachfront escape in Himare.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

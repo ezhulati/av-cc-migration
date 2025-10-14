@@ -1,30 +1,8 @@
----
-title: Modern apartment Fishta Q5 22
-description: This air-conditioned apartment doesn't just boast a prime location; it offers a haven of space and comfort. Guests will find themselves enveloped in the spaciou
-featuredImage: "/images/accommodation/AATXAJy0mT0Y2eJL9FqDzj5PM2Xo1_8m4b4E1k0NDcNrs96-c64"
-language: en
-slug: modern-apartment-fishta-q5-22
-location: ""
-amenities: []
-images: []
----
-
-This air-conditioned apartment doesn't just boast a prime location; it offers a haven of space and comfort. Guests will find themselves enveloped in the spaciousness of three well-appointed bedrooms, a cozy living room perfect for relaxation, and a fully equipped kitchen that caters to all culinary needs. The inclusion of a flat-screen TV ensures entertainment is always at hand, while the convenience of free WiFi throughout the property keeps everyone connected.
+---\ntitle: "Modern apartment Fishta Q5 22"\ndescription: "Discover the charm of Velipojë with a stay at the Modern Apartment Fishta Q5 22, a prime choice for travelers seeking comfort and convenience."\nfeaturedImage: "https://lh3.googleusercontent.com/a/AATXAJy0mT0Y2eJL9FqDzj5PM2Xo1_8m4b4E1k0NDcNr=s96-c64"\nlanguage: en\nslug: modern-apartment-fishta-q5-22\naddress: "Rruga Shtepia e Peshkatareve, 4020 Velipojë, Albania"\ncity: "Velipojë"\nlocation: "Velipojë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.86346001\n  lng: 19.42609607\nprice: "US$108"\npriceFrom: 108\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://lh3.googleusercontent.com/a/AATXAJy0mT0Y2eJL9FqDzj5PM2Xo1_8m4b4E1k0NDcNr=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-o/ecc2e23c1dd875ae18fc261d4a08d35f71db9440.png"\n  - "https://cf.bstatic.com/static/img/flags/12/md/4da604f5774c6c7d1f1fe18cbd58886071f53416.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466757419.jpg?k=45b0c26936d3fc317c5130538d101789ba8477b6128fdd29527412991dd76073&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/466757506.jpg?k=f30cbef9ed64d17618c04fd0dadde57ce4b49700ee6b500e61c8c026572e3f5d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/466757513.jpg?k=68a05cb5f1e79f0ede8b22ffdb588d8ec47ce963668a3708c4887447ee4cc26e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/466757507.jpg?k=4e358d43a06184ea2bd14ab082181ff4fdb2efe797c6c5ab89204708ab1240b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/466757516.jpg?k=88efb118e9bbac08daf50be0e6d30aba006b1ca1131898e36baf05a72e242187&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/466757512.jpg?k=0cdf92d7717b571280f80134cd77150db0c0593cb170c05aaaf2188763ecb525&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/466757518.jpg?k=6f8060dcfbdc625343ac8ebc306c99848da93ef922b9e946da3a8b1d905a9264&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/466757500.jpg?k=dc130f643bad5a7e5dea1e3f08b999b5f25398d6f0e86985b822bbf3db186886&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/480018789.jpg?k=635374f9a5e5df1737d78ca3ab54560577a2258715986bea2feace937f46a91a&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "Three-Bedroom Apartment"\nnearbyAttractions:\n  - "Old Town Ulcinj 20 km"\nnearbyRestaurants:\n  - "Aroma E Gostivarit 50 m"\n  - "Hojza Bakery 100 m"\nnearbyBeaches:\n  - "Velipoja Beach 200 m"\n  - "Rana e Hedhun Beach 1.8 km"\n  - "Ada Bojana Beach 4.9 km"\n  - "Velika Plaza Beach 7 km"\nwhatsNearby:\n  - "Copacabana 10 km"\n  - "Cola Beach 11 km"\n  - "Imperiam Beach 13 km"\n  - "Msm Beach 13 km"\n  - "Tropicana 14 km"\n  - "Plaža Safari 14 km"\n  - "Bukurija Beach 15 km"\n  - "Saranda 15 km"\n  - "Plaža Toni 16 km"\n  - "Nudistička Plaža Albatros 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 54 km"\n  - "Podgorica Airport 55 km"\n  - "Tivat Airport 82 km"\nreviews:\n  - name: "Vyzaj"\n    country: "Italy"\n    text: "“Just perfect.
+From the kitchen to the bedrooms, the bathroom. Nothing is missing...”"\n  - name: "Olesea"\n    country: "Moldova"\n    text: "“Ok location, great hosts, close to the sea. We will come back with great pleasure”"\nbookingURL: "https://www.booking.com/hotel/al/modern-apartment-fishta-q5-22.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis air-conditioned apartment doesn't just boast a prime location; it offers a haven of space and comfort. Guests will find themselves enveloped in the spaciousness of three well-appointed bedrooms, a cozy living room perfect for relaxation, and a fully equipped kitchen that caters to all culinary needs. The inclusion of a flat-screen TV ensures entertainment is always at hand, while the convenience of free WiFi throughout the property keeps everyone connected.
 
 Adding to the appeal is the apartment's commitment to a smoke-free environment, ensuring a fresh and healthy stay for all guests. The presence of a balcony opens up opportunities to enjoy the gentle breezes and perhaps a morning coffee or an evening glass of wine in privacy.
 
 For those flying in, the Tirana International Mother Teresa Airport is located 83 km away, making the apartment readily accessible for international and domestic travelers alike.
 
 Modern Apartment Fishta Q5 22 represents a blend of comfort, convenience, and location, making it a compelling choice for those looking to experience Velipojë in a homely and welcoming setting.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,13 @@
----
-title: Hotel Zverneci
-description: This property doesn't just boast a stunning garden and terrace for guests to unwind in; it also features a private beach area, ensuring an exclusive seaside esc
-featuredImage: "/images/accommodation/220245800.jpg"
-language: en
-slug: hotel-zverneci
-location: ""
-amenities: []
-images: []
----
-
-This property doesn't just boast a stunning garden and terrace for guests to unwind in; it also features a private beach area, ensuring an exclusive seaside escape. The on-site restaurant and bar elevate the experience, allowing guests to savor delicious meals and refreshing drinks without having to leave the comfort of the hotel. For those needing to stay connected or plan further travels, complimentary WiFi is available throughout the premises, and a paid airport shuttle service is offered for convenience.
+---\ntitle: "Hotel Zverneci"\ndescription: "Hotel Zverneci stands as a beacon of comfort and convenience, offering guests a unique 3-star beachfront experience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/220245800.jpg?k=dcfeb928be84dc51f2e228a6bf550ab49c415461aa6caf7a5a3a0632c35fd811&o=&hp=1"\nlanguage: en\nslug: hotel-zverneci\naddress: "Rruga shehaj ,Zvernec, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.50143084\n  lng: 19.40696508\nprice: "US$39"\npriceFrom: 39\nstarRating: 3\nrating: 8.3\nratingWords: "Very Good"\nnumberOfReviews: 51\nratings:\n  overall: 8.3\n  location: 8.6\n  cleanliness: 8.4\n  facilities: 7.6\n  value: 8.5\n  comfort: 8.1\n  staff: 8.5\n  wifi: 8.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/220245800.jpg?k=dcfeb928be84dc51f2e228a6bf550ab49c415461aa6caf7a5a3a0632c35fd811&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454427132.jpg?k=55b010493e6de1908786db75af75420ce871649f8bbac1c4c850514cd96c021e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387458217.jpg?k=3ccfc312303e88f579c3598bba8c06b326c33710b803777e9ee04e3cc56b6d3a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454427632.jpg?k=66363b16a482e789468f11fb28662bab68d2821b9dcf72f3c69145276bdb594b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/220245880.jpg?k=5d20905528779ec8a2b0d1b27f589c98ae938859850eead8cef8481a4dde98a0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/220245750.jpg?k=b0fad13b244eb33efce4cb5bf3ec052eab68451b8f243720a352f9d0614bb911&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Breakfast"\nroomTypes:\n  - "Triple Room"\nnearbyRestaurants:\n  - "Natyra 750 m"\n  - "Oazi 950 m"\nnearbyBeaches:\n  - "Narta Beach 1.1 km"\n  - "Vjetër Beach 6 km"\n  - "Vlore Beach 9 km"\nwhatsNearby:\n  - "Independence Square 8 km"\n  - "Kuzum Baba 8 km"\n  - "Scooby Doo Vlore 10 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Dr"\n    country: "Kosovo"\n    text: "“Place is wonderful, quite and beach is very clean, everything is good for money what we pay”"\n  - name: "Irena"\n    country: "Albania"\n    text: "“Great location just near the beach.
+Very quiet and relaxing place.
+The staff is friendly and helpful.
+The room is cleaned daily and well equipped.
+Plenty of tasty food served for breakfast
+Good value of money.
+I highly recommend it and will...”"\n  - name: "Joanna"\n    country: "Poland"\n    text: "“View from the balcony is amazing, workers were so kind and helpful, rooms were cleaned:)”"\nbookingURL: "https://www.booking.com/hotel/al/zverneci.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis property doesn't just boast a stunning garden and terrace for guests to unwind in; it also features a private beach area, ensuring an exclusive seaside escape. The on-site restaurant and bar elevate the experience, allowing guests to savor delicious meals and refreshing drinks without having to leave the comfort of the hotel. For those needing to stay connected or plan further travels, complimentary WiFi is available throughout the premises, and a paid airport shuttle service is offered for convenience.
 
 Accommodations at Hotel Zverneci are thoughtfully designed with guest comfort in mind. Each room is well-appointed with essential amenities such as a wardrobe, a flat-screen TV, and a private bathroom stocked with fresh bed linen and towels. Select rooms also boast breathtaking sea views and come with a balcony, providing the perfect backdrop for a morning coffee or an evening wind-down. A fridge in every room adds an extra layer of convenience for guests.
 
 The hotel ensures a good start to the day with a continental breakfast, catering to a variety of tastes and preferences. Families visiting Hotel Zverneci will be pleased to find a children's playground on-site, making it a family-friendly option that caters to the needs of its youngest guests.
 
 Situated 12 km from the iconic Kuzum Baba and 155 km from Tirana International Mother Teresa Airport, Hotel Zverneci represents a harmonious blend of accessibility and secluded tranquility, promising a memorable stay for all who visit.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

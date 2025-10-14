@@ -1,28 +1,5 @@
----
-title: Comfort Apartament 27
-description: This apartment doesn't just offer a place to stay; it provides a spacious haven equipped with modern amenities to ensure a stay that combines the comforts of ho
-featuredImage: "/images/accommodation/476748235.jpg"
-language: en
-slug: comfort-apartament-27
-location: ""
-amenities: []
-images: []
----
-
-This apartment doesn't just offer a place to stay; it provides a spacious haven equipped with modern amenities to ensure a stay that combines the comforts of home with the luxury of a getaway. The inclusion of a fully equipped kitchen, complete with an oven, microwave, washing machine, and fridge, allows guests the freedom to prepare their meals on their terms. The provision of towels and bed linen adds an extra layer of convenience, ensuring a comfortable and worry-free stay.
+---\ntitle: "Comfort Apartament 27"\ndescription: "Comfort Apartament 27 emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476748235.jpg?k=bb192abd1f6aed7abdf0c981b3615131d5feb9787e40b363aa6f6ff4c9bf53b5&o=&hp=1"\nlanguage: en\nslug: comfort-apartament-27\naddress: "Comfort Apartament durres, 2005 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30504314\n  lng: 19.49504235\nprice: "US$61"\npriceFrom: 61\nstarRating: 3\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 4\nratings:\n  overall: 8.5\n  location: 8.3\n  cleanliness: 8.3\n  facilities: 8.3\n  value: 9.2\n  comfort: 7.5\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476748235.jpg?k=bb192abd1f6aed7abdf0c981b3615131d5feb9787e40b363aa6f6ff4c9bf53b5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479594020.jpg?k=65f84e1acc2dc420a3b4b2c74196697694585a24e997aca42c1162c49312eeff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479595945.jpg?k=3bd8af57d8bbbf26ac88a0c17c7542abdea72010759d22c9bba0be11f34fd139&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479595520.jpg?k=76ad35f06ea08d9a1529fbc96171373d14047189ebddc82c4903a31b057ce737&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479594487.jpg?k=be20298cc8d38d2b500a31ecb9aff1c9e6c7b202a119854b26e0b48f65b07c3c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479594878.jpg?k=7a926a521c814b1cd5d61311930e7002a23f4c5f721758999e2aee6d74473984&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479596046.jpg?k=4f502fbd1c93167e464c48e7f635ec73a2597a4a4e758cb22ae5783a3ff30b5f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479593818.jpg?k=9b8067ac1594e1a94b00b9d861e264385b8901eb667d26a412daa44c6999ecc6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479595647.jpg?k=94aed705a9d22a5bc7834355658b3df4617e5e2fdbb2e38a47e83be25428a7e5&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Saccaria 50 m"\n  - "Fast Food Shijet 50 m"\nnearbyBeaches:\n  - "Durres Beach 250 m"\n  - "Shkëmbi i Kavajës Beach 2.4 km"\n  - "Currila Beach 4 km"\n  - "Golem Beach 4.8 km"\n  - "Kallmi Beach 5 km"\nwhatsNearby:\n  - "Bekimi 2.9 km"\n  - "Wine Dhe Pooh 4 km"\n  - "Sheshi Demokracia 4.1 km"\n  - "Yje Dhe Hena 4.2 km"\n  - "Durres Amphiteatre 4.3 km"\n  - "Sotir Noka 4.4 km"\n  - "1. Maj 4.4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\nreviews:\n  - name: "Katrin"\n    country: "Germany"\n    text: "“Check in/out unkompliziert über eine Schlüsselbox.”"\nbookingURL: "https://www.booking.com/hotel/al/comfort-apartament-27.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment doesn't just offer a place to stay; it provides a spacious haven equipped with modern amenities to ensure a stay that combines the comforts of home with the luxury of a getaway. The inclusion of a fully equipped kitchen, complete with an oven, microwave, washing machine, and fridge, allows guests the freedom to prepare their meals on their terms. The provision of towels and bed linen adds an extra layer of convenience, ensuring a comfortable and worry-free stay.
 
 Situated a mere 4.9 km from the Rock of Kavaje and in close proximity to the Former Residence of Enver Hoxha, Comfort Apartament 27 serves as an ideal base for explorers keen to delve into the rich tapestry of the area's history and culture. For those traveling further afield, the Tirana International Mother Teresa Airport is conveniently located just 33 km away, making arrivals and departures as smooth as possible.
 
 In essence, Comfort Apartament 27 is not just an accommodation; it's a gateway to exploring the vibrant city of Durrës and its surroundings, offering guests a seamless blend of comfort, convenience, and cultural immersion.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

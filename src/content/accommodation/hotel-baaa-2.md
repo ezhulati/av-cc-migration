@@ -1,28 +1,5 @@
----
-title: Hotel BAAA 2
-description: Positioned merely 300 meters from the bustling Saranda City Beach, Hotel BAAA 2 boasts a serene garden and an inviting terrace, perfect for guests looking to un
-featuredImage: "/images/accommodation/picture-391.jpeg"
-language: en
-slug: hotel-baaa-2
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Hotel BAAA 2"\ndescription: "Discover the charm of Hotel BAAA 2, a standout property located in the heart of Sarandë, offering guests a unique blend of comfort and convenience."\nfeaturedImage: "https://graph.facebook.com/v2.9/10214411470667185/picture?type=square&height=64&width=64"\nlanguage: en\nslug: hotel-baaa-2\naddress: "Rruga Onhezmi, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87553054\n  lng: 20.00805093\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 2\nratings:\n  overall: 9\n  location: 8.8\n  cleanliness: 10\n  facilities: 7.5\n  value: 10\n  comfort: 7.5\n  staff: 10\n  wifi: 0\nimages:\n  - "https://graph.facebook.com/v2.9/10214411470667185/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515643260.jpg?k=7a7ce46896e777fd95f7890ff712281bde5120b02dc4b4c2000dce573d6ef9d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/471499465.jpg?k=46dd910b64dc58f01e1de8232dcbfa808272a4de68308d7456b3b3146871f8d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515643201.jpg?k=5fcd4d88fcc6a942934a2ff906922f3b99c08cf65c3d702bef21f448bc889d54&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515643127.jpg?k=8e414a85b72a55016ce5f784809f777a322c9a424dc5ec52697363e02a5f378c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515643086.jpg?k=d5b999f87acb2955cba3ae83d22a94f1beafe39ca8f4d15f9e3ed27a747f4b26&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515643028.jpg?k=f42fa58daafe3f22e3c6f6c23c947c751fcfe9392d3f3338fa330e3387b2c947&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515642972.jpg?k=3d87e0c74b9b8acdd428be4e95fe8f9ee017224e08632a539ae97ad2d1092204&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Beachfront"\n  - "Terrace"\nnearbyRestaurants:\n  - "Zum Cafe 40 m"\n  - "Herman - the Iconic Slice From Milan 50 m"\nnearbyBeaches:\n  - "Saranda City Beach 250 m"\n  - "Sarande Main Beach 850 m"\n  - "La Petite Beach 950 m"\n  - "Maestral Beach 1.1 km"\n  - "VIP Beach 2.1 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.3 km"\n  - "Butrint National Park 3.2 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Francesco"\n    country: "Italy"\n    text: "“Stanza molto confortevole, vista piacevole, personale accogliente. Consiglio la struttura. Letto comodissimo”"\nbookingURL: "https://www.booking.com/hotel/al/apartament-baaa-2.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nPositioned merely 300 meters from the bustling Saranda City Beach, Hotel BAAA 2 boasts a serene garden and an inviting terrace, perfect for guests looking to unwind in a tranquil setting. The highlight of this beachfront gem is undoubtedly its easy access to a private balcony, where guests can soak up the breathtaking sea views, all while enjoying the convenience of complimentary WiFi. The commitment to a non-smoking environment ensures a clean and healthy stay for all guests.
 
-Positioned merely 300 meters from the bustling Saranda City Beach, Hotel BAAA 2 boasts a serene garden and an inviting terrace, perfect for guests looking to unwind in a tranquil setting. The highlight of this beachfront gem is undoubtedly its easy access to a private balcony, where guests can soak up the breathtaking sea views, all while enjoying the convenience of complimentary WiFi. The commitment to a non-smoking environment ensures a clean and healthy stay for all guests.
-
-Accommodation at Hotel BAAA 2 is thoughtfully designed with guest comfort in mind. Each apartment features a cozy bedroom, equipped with a flat-screen TV for entertainment and air conditioning to ensure a comfortable stay regardless of the weather.
+Accommodation at Hotel BAAA 2 is thoughtfully designed with guest comfort in mind. Each apartment features a cozy bedroom, equipped with a flat-screen TV for entertainment and air conditioning to ensure a comfortable stay regardless of the weather. 
 
 For travelers flying in, the Ioannina Airport is located 97 km away, making Hotel BAAA 2 an accessible choice for both domestic and international visitors. This property stands out as a prime choice for those seeking a blend of relaxation, convenience, and a touch of adventure during their stay in Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -5,11 +5,15 @@ region: Beaches
 featuredImage: /images/destinations/pema-e-thate.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: pema-e-thate
 highlights: []
+seo:
+  metaTitle: "%title% - Discover Albania's Historic Beach "
+  metaDescription: "Discover Pema e Thatë, once a restricted military zone, now a stunning beach offering lush landscapes, rich history, and views of Greece across the strait."
 ---
 
 Where the Tides of History Meet Paradise
@@ -132,10 +136,3 @@ The beach is generally less crowded than more popular beaches in the area.
 
 Pema e Thatë offers good swimming, relaxation, and a hint of history. If you’re near, it’s worth visiting for a day by the sea.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

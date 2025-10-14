@@ -1,26 +1,3 @@
----
-title: Apartamente Boci
-description: Each apartment at Apartamente Boci is thoughtfully designed with a bedroom, a fully equipped kitchen for those who enjoy preparing their meals, and a modern bat
-featuredImage: "/images/accommodation/447134414.jpg"
-language: en
-slug: apartamente-boci
-location: ""
-amenities: []
-images: []
----
-
-Each apartment at Apartamente Boci is thoughtfully designed with a bedroom, a fully equipped kitchen for those who enjoy preparing their meals, and a modern bathroom. Entertainment is readily available with a flat-screen TV in each unit, making it a perfect retreat after a day of exploration.
+---\ntitle: "Apartamente Boci"\ndescription: "Apartamente Boci emerges as a prime choice for travelers seeking comfort and convenience in Shëngjin, just a stone's throw away from the pristine Shëngjin Beach and a short stroll from the tranquil Ylberi Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447134414.jpg?k=bcedb33889d8c0b7c4cca0b2f749e3d51478458519c625b7b60b652884d9441c&o=&hp=1"\nlanguage: en\nslug: apartamente-boci\naddress: "Shëtitorja Wilson, 4503 Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.81037682\n  lng: 19.59643741\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447134414.jpg?k=bcedb33889d8c0b7c4cca0b2f749e3d51478458519c625b7b60b652884d9441c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/447134426.jpg?k=24cec1fd4b00b2c8ceb3a8f5fec3b3fde2f6b423f33f824ee1abc30d2c6f88a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/447134428.jpg?k=57b3e892d6c00862a50ca7bc3f3016e32f3ebc66d50d58a881fd07ad3c5a80fd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/447134429.jpg?k=068c9a4c71d14c471713022709b1e481cbf857de0ee051c9e292427a12c86017&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/447134436.jpg?k=27aec53b9d4a3f13a298ed1860d24d1ee08895effd8411b0177ee5e24a6350cb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/447134439.jpg?k=6dd15dfd3514a4955aa1fa69fcae22283d349ea9e8617a0dcb49ce34dcc0e41d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/447134441.jpg?k=fb0b5511635600c0474e11a85d84d9a4077546868339872c8c8969abceaa6dce&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Restorant Pizeri Mari 40 m"\n  - "Plaza 150 m"\nnearbyBeaches:\n  - "Shëngjin Beach 40 m"\n  - "Ylberi Beach 1.2 km"\n  - "Rana e Hedhun Beach 2.7 km"\n  - "Kune Beach 4.6 km"\n  - "Laguna Park Beach 4.6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 44 km"\n  - "Podgorica Airport 66 km"\n  - "Tivat Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/apartamente-boci.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach apartment at Apartamente Boci is thoughtfully designed with a bedroom, a fully equipped kitchen for those who enjoy preparing their meals, and a modern bathroom. Entertainment is readily available with a flat-screen TV in each unit, making it a perfect retreat after a day of exploration.
 
 Situated 42 km from the historic Rozafa Castle Shkodra and 43 km from the scenic Lake Skadar, the location serves as an ideal base for guests looking to immerse themselves in the local culture and natural beauty. For those traveling by air, the convenience is unparalleled, with Tirana International Mother Teresa Airport located just 49 km away, making Apartamente Boci an excellent choice for both short and extended stays in Shëngjin.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

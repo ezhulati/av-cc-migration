@@ -9,6 +9,10 @@ tags: []
 featuredImage: "/images/posts/Albanian-Hospitality.jpg"
 language: en
 slug: hospitality
+seo:
+  focusKeyword: "hospitality"
+  metaDescription: "Beyond the stereotypes and travel myths, discover what Albanian hospitality means today - from mountain villages to city cafes. An honest guide by a local."
+  focusKeyword: "hospitality"
 ---
 
 Loading the [Elevenlabs Text to Speech](https://elevenlabs.io/text-to-speech){rel="noopener" target="_blank"} AudioNative Player...
@@ -162,14 +166,3 @@ Website
 
 Δdocument.getElementById( "ak\_js\_2" ).setAttribute( "value", ( new Date() ).getTime() );
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

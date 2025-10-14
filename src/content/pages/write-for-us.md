@@ -5,9 +5,9 @@ featuredImage: "/images/pages/Write-For-Us.jpg"
 language: en
 slug: write-for-us
 seo:
-  metaTitle: Write For Us
-  metaDescription: ""
   canonicalURL: https://albaniavisit.com/write-for-us/
+  metaTitle: "Write for AlbaniaVisit.com – Contributor Guidelines"
+  metaDescription: "Submit your story to AlbaniaVisit.com. We welcome authentic, personal narratives, photo essays, and travel insights that reflect real Albanian experiences."
 ---
 
 # Write For Us

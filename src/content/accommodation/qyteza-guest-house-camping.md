@@ -1,32 +1,5 @@
----
-title: Qyteza Guest House & Camping
-description: Accommodations at Qyteza Guest House & Camping are thoughtfully designed to cater to diverse needs and preferences. Select rooms feature the luxury of a private
-featuredImage: "/images/accommodation/527846741.jpg"
-language: en
-slug: qyteza-guest-house-camping
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Qyteza Guest House & Camping"\ndescription: "Qyteza Guest House & Camping emerges as a serene retreat offering breathtaking mountain views for those seeking a blend of comfort and nature in Renc."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527846741.jpg?k=5767f3fce84e3a41274f1c5f4ea85a885189442aa6a73bce82625e1df366608f&o=&hp=1"\nlanguage: en\nslug: qyteza-guest-house-camping\naddress: "Renc 200, 4001 Renc, Albania"\ncity: "Renc"\nlocation: "Renc"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.06023109\n  lng: 19.5652757\nprice: "US$39"\npriceFrom: 39\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527846741.jpg?k=5767f3fce84e3a41274f1c5f4ea85a885189442aa6a73bce82625e1df366608f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527877857.jpg?k=b63e80b2f5d61e5e4e6ac18043d9fe36f6dd9790eb25009e77199995cbbcc0e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527894233.jpg?k=6af1caa765e3456f435838e1e3c18be1b9430793d829b9929f1568ceddb50ff3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527895043.jpg?k=2cf8b77d42fd681ab76963574cdfb3d661dbee4e60cdded58bf4bea4ffbba2c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527894780.jpg?k=40a6b1d8ad8c94917cfdc6f10243f7f657d32d8edf518e9d7519a707a840ccb8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528454671.jpg?k=e3b3ba503388f758c0439469ebdc1180783479fa42d27647425ecf09318929a8&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Balcony"\nnearbyRestaurants:\n  - "Jozefi 850 m"\n  - "Bar Kafe 2.2 km"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 6 km"\n  - "National Park Skadar Lake 14 km"\nairports:\n  - "Podgorica Airport 41 km"\n  - "Tirana International Airport Mother Teresa 71 km"\n  - "Tivat Airport 78 km"\nbookingURL: "https://www.booking.com/hotel/al/qyteza-guest-house-amp-camping.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Qyteza Guest House & Camping are thoughtfully designed to cater to diverse needs and preferences. Select rooms feature the luxury of a private entrance, enhancing the sense of exclusivity and privacy. Each unit is well-appointed with modern amenities including a desk, outdoor furniture for those moments of reflection or casual conversation, and a private bathroom equipped with a bath and hair dryer. For connectivity and entertainment, guests enjoy access to free WiFi and a flat-screen TV in every room, with the added comfort of air conditioning to ensure a pleasant stay regardless of the season.
 
-Accommodations at Qyteza Guest House & Camping are thoughtfully designed to cater to diverse needs and preferences. Select rooms feature the luxury of a private entrance, enhancing the sense of exclusivity and privacy. Each unit is well-appointed with modern amenities including a desk, outdoor furniture for those moments of reflection or casual conversation, and a private bathroom equipped with a bath and hair dryer. For connectivity and entertainment, guests enjoy access to free WiFi and a flat-screen TV in every room, with the added comfort of air conditioning to ensure a pleasant stay regardless of the season.
-
-The guest house takes pride in starting each day with a delightful buffet breakfast, setting the tone for a day of exploration or relaxation.
+The guest house takes pride in starting each day with a delightful buffet breakfast, setting the tone for a day of exploration or relaxation. 
 
 Located a mere 64 km from Podgorica Airport, Qyteza Guest House & Camping offers an accessible escape into tranquility, making it an ideal choice for travelers seeking a harmonious blend of natural beauty and comfort.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

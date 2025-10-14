@@ -1,28 +1,5 @@
----
-title: Vila 1926 Hostel
-description: Accommodations at Vila 1926 are thoughtfully designed with guest comfort in mind, featuring shared bathrooms equipped with slippers and fresh bed linen to ensur
-featuredImage: "/images/accommodation/356088421.jpg"
-language: en
-slug: vila-1926-hostel
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Vila 1926 are thoughtfully designed with guest comfort in mind, featuring shared bathrooms equipped with slippers and fresh bed linen to ensure a restful night. The hostel goes above and beyond by offering a shared kitchen, allowing guests the freedom to prepare their own meals, a convenience especially appreciated by those who enjoy the comforts of home while traveling.
+---\ntitle: "Vila 1926 Hostel"\ndescription: "Vila 1926 Hostel, located in the charming city of Korçë, stands out as a prime choice for travelers seeking both comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356088421.jpg?k=f4a1bf71714c99477b8bf38e557958ddf1107969a17b8c02d4116da50732f161&o=&hp=1"\nlanguage: en\nslug: vila-1926-hostel\naddress: "Rruga 28 Nëntori, 1000 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "hostel"\ncoordinates:\n  lat: 40.612352\n  lng: 20.77553294\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.7\nratingWords: "Good"\nnumberOfReviews: 46\nratings:\n  overall: 7.7\n  location: 8.1\n  cleanliness: 6.8\n  facilities: 6.3\n  value: 7.7\n  comfort: 6.8\n  staff: 8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356088421.jpg?k=f4a1bf71714c99477b8bf38e557958ddf1107969a17b8c02d4116da50732f161&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368523287.jpg?k=ab2601d5d2c13177570ae03c8e17b97a1da869e820dd618a58c15b0559f319ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379948495.jpg?k=49b342705d4aa3c75bd36280b15ead8fd9cfaff66ab8dbc818d1f7cb4613333e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368518789.jpg?k=2f9e6e6874f361acbbf1b023d33bec5dd9f0c09b7041a7f524147a3d4422b05d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356088479.jpg?k=f90612a43b3cba57d7400fc3ac444bf770f3951118a3a6eaf8c5391b2ec0dbc2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364856558.jpg?k=4a89e9937ecb6d149593fef1fb3eecc7bd11c4b81d28efb084d414477350cde9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356088586.jpg?k=83aa53db8673803240121d3ec068bf27c3b8bbb7fee9e7c74eda10c305123b8e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379948188.jpg?k=a1a5cb6481c51c3f13b5f7c7b63b612e5102ebd7e1b3a23090d724d957814642&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379949424.jpg?k=bb43f6227196633a28b37d1cb08d62ad7a1582e3c4d6569adcaf539bf0edfc5e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nnearbyRestaurants:\n  - "Benvenuti in Calabria 150 m"\n  - "Xh & M 200 m"\nwhatsNearby:\n  - "Parku Vangjush Mio 400 m"\n  - "Parku Rinia 400 m"\n  - "Sheshi Patriku Joasaf 700 m"\n  - "Parku Themistokli Gërmenji 900 m"\n  - "Field of Tears 950 m"\n  - "Parku Rinia 1.8 km"\n  - "Sheshi Panxhar 5 km"\n  - "Sheshi Koço Plaku 12 km"\n  - "Sheshi Penetori 13 km"\nairports:\n  - "Kastoria National Airport 45 km"\n  - "Ohrid Airport 62 km"\n  - "Kozani National Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/vila-1926-korce1.en-gb.html?aid=8035640"\nbestFor: "Best for Hostel Experience"\nbestCategories: "Hostel Experience"\ncategory: "Hostel Experience"\n---\n\nAccommodations at Vila 1926 are thoughtfully designed with guest comfort in mind, featuring shared bathrooms equipped with slippers and fresh bed linen to ensure a restful night. The hostel goes above and beyond by offering a shared kitchen, allowing guests the freedom to prepare their own meals, a convenience especially appreciated by those who enjoy the comforts of home while traveling.
 
 The 24-hour front desk and currency exchange services underscore the hostel's commitment to guest satisfaction, ensuring a hassle-free stay from check-in to departure. For those looking to explore the spiritual and historical side of the region, the Monastery Saint Naum is a mere 43 km away, making for an easy day trip.
 
 Situated 72 km from Kastoria National Airport, Vila 1926 Hostel is not only accessible but stands as a beacon of hospitality and comfort in Korçë. Whether it's the strategic location, the array of on-site amenities, or the warm, inviting atmosphere, this hostel is a top pick for travelers venturing into this picturesque part of the world.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

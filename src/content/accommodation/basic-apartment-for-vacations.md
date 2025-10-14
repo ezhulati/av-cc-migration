@@ -1,30 +1,7 @@
----
-title: Basic Apartment for vacations
-description: Boasting a generous layout, the apartment features one bedroom, a fully equipped kitchen for all culinary needs, and a bathroom, ensuring a comfortable stay for
-featuredImage: "/images/accommodation/480115077.jpg"
-language: en
-slug: basic-apartment-for-vacations
-location: ""
-amenities: []
-images: []
----
-
-Boasting a generous layout, the apartment features one bedroom, a fully equipped kitchen for all culinary needs, and a bathroom, ensuring a comfortable stay for all guests. The inclusion of air conditioning and complimentary WiFi enhances the experience, providing a cool and connected retreat from the warm Mediterranean climate.
+---\ntitle: "Basic Apartment for vacations"\ndescription: "Discover the charm of Durrës with a stay at Basic Apartment for Vacations, a prime choice for travelers seeking both comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480115077.jpg?k=9f1a6629bc4178a3dfe761ab2e14126e3f3fa5e1aaf8591cbf18f769c46feea5&o=&hp=1"\nlanguage: en\nslug: basic-apartment-for-vacations\naddress: "Plazhi i Shkembit te Kavajes Apartment 1 Floor number 0, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.2837502\n  lng: 19.51377279\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 6.4\nratingWords: "Average"\nnumberOfReviews: 3\nratings:\n  overall: 6.4\n  location: 8.3\n  cleanliness: 5\n  facilities: 4.2\n  value: 5.8\n  comfort: 5.8\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480115077.jpg?k=9f1a6629bc4178a3dfe761ab2e14126e3f3fa5e1aaf8591cbf18f769c46feea5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/480114970.jpg?k=f11497a5c29d62743d82e22726fbf94914d02ae2a0682b5217270297c00a516c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/480115060.jpg?k=82358a357c74a9cf83a3cce984c43068ec03df20e5a2fb4d3c3fa0839a192f02&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/480115066.jpg?k=b65fdf693e2fbf10640afa4f92930efc21865b3c3ee4b804bceca295e4aac468&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/480115073.jpg?k=7eabb5c96eb2b93a018e1d3020cab36d99256442fc98325a4ab72d89d22a9c88&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/480115081.jpg?k=d5560756806d56404f338bf27a71d40d4606d3b3bc7c204489abbc1536d60d34&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/480115084.jpg?k=c686469902865d3653493619412fa73218c42ca07fa06ae202dd36c63e75b7bb&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Boss Tetova 100 m"\n  - "Restorant ANXHELSON 150 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 250 m"\n  - "Durres Beach 450 m"\n  - "Golem Beach 2.1 km"\n  - "Mali I Robit Beach 4 km"\n  - "Qerret Beach 6 km"\nwhatsNearby:\n  - "Bekimi 6 km"\n  - "Wine Dhe Pooh 7 km"\n  - "Durres Amphiteatre 7 km"\n  - "Yje Dhe Hena 7 km"\n  - "Sheshi Demokracia 7 km"\n  - "1. Maj 7 km"\n  - "Sotir Noka 7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\nbookingURL: "https://www.booking.com/hotel/al/basic-apartment-for-vacations.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nBoasting a generous layout, the apartment features one bedroom, a fully equipped kitchen for all culinary needs, and a bathroom, ensuring a comfortable stay for all guests. The inclusion of air conditioning and complimentary WiFi enhances the experience, providing a cool and connected retreat from the warm Mediterranean climate.
 
 Situated within easy reach of the area's must-visit destinations, guests will find themselves only a brief drive from the enchanting Golem Beach, the historic Durres Amphitheatre, and the captivating House of Leaves. For those eager to explore further, the apartment is conveniently located 41 km from the bustling Skanderbeg Square and the scenic Dajti Ekspres Cable Car, offering a glimpse into Albania's rich culture and breathtaking landscapes.
 
 Adding to the appeal, the Rock of Kavaje is merely 1.3 km away, presenting an opportunity for an unforgettable day trip. For international travelers, the Tirana International Mother Teresa Airport is 35 km from the property, ensuring a hassle-free arrival and departure.
 
 Basic Apartment for Vacations stands out as a stellar choice for those desiring a blend of serenity, accessibility, and a touch of adventure during their visit to Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

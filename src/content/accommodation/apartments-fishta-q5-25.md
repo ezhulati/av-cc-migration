@@ -1,34 +1,7 @@
----
-title: Apartments Fishta Q5/25
-description: The apartment itself is a study in spaciousness and comfort, featuring a bedroom, a living room, a fully equipped kitchen, and a bathroom, all designed to cater
-featuredImage: "/images/accommodation/527475058.jpg"
-language: en
-slug: apartments-fishta-q5-25
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a study in spaciousness and comfort, featuring a bedroom, a living room, a fully equipped kitchen, and a bathroom, all designed to cater to the needs of the modern traveler. Entertainment is readily available through the inclusion of a flat-screen TV, perfect for unwinding after a day of exploration.
+---\ntitle: "Apartments Fishta Q5/25"\ndescription: "Apartments Fishta Q5/25 emerges as a prime choice for travelers seeking a serene beachfront escape in Shkodër."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527475058.jpg?k=937117ee0320e395ada466e93c9c4dbb2124aee8a46040e7f5629efc68cced09&o=&hp=1"\nlanguage: en\nslug: apartments-fishta-q5-25\naddress: "Rruga Velipoje, 4020 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.86339187\n  lng: 19.4262884\nprice: "US$50"\npriceFrom: 50\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527475058.jpg?k=937117ee0320e395ada466e93c9c4dbb2124aee8a46040e7f5629efc68cced09&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527691189.jpg?k=c6f1d54ef0464192ec7a5c3a14c787d2f9b07d6465401f8dc035d937831acd9e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527690168.jpg?k=fbb858c0441a13ca644c65a280a34b0710ee01c4f45b6216cc75a0d11cf4ef91&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527690118.jpg?k=919db01b0193858cc2713aac4b1162e5539e814ee319eaf13758e48858f0b070&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527690561.jpg?k=65846110640d1ae55da0c3bcb5a4aea0fe23b18be806a08c71f00129098a7110&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527475042.jpg?k=95ba990e1e979bf4735d2f57a35b4e3cf60147e3b737e7bb7d39a935fc91c3eb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527691118.jpg?k=7aa41b97655e3356f133eaeb92fc5d698e15ce3369e8a6ca8e4db5cb39e641a1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527690283.jpg?k=ca8929b74f29975a79cf76d554716b5eba32a809d9c9ae8cf0630a996fb7ebb7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527475052.jpg?k=43e9e1fda5a8c30dff2ce741c71c72a98cf43d069de847c551f549991a449ab3&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Good free WiFi (39 Mbps)"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Old Town Ulcinj 20 km"\nnearbyRestaurants:\n  - "Aroma E Gostivarit 50 m"\n  - "Hojza Bakery 100 m"\nnearbyBeaches:\n  - "Velipoja Beach 200 m"\n  - "Rana e Hedhun Beach 1.8 km"\n  - "Ada Bojana Beach 4.9 km"\n  - "Velika Plaza Beach 7 km"\nwhatsNearby:\n  - "Copacabana 10 km"\n  - "Cola Beach 11 km"\n  - "Imperiam Beach 13 km"\n  - "Msm Beach 13 km"\n  - "Tropicana 14 km"\n  - "Plaža Safari 14 km"\n  - "Bukurija Beach 15 km"\n  - "Saranda 15 km"\n  - "Plaža Toni 16 km"\n  - "Nudistička Plaža Albatros 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 54 km"\n  - "Podgorica Airport 55 km"\n  - "Tivat Airport 82 km"\nbookingURL: "https://www.booking.com/hotel/al/apartments-fishta-q5-25.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a study in spaciousness and comfort, featuring a bedroom, a living room, a fully equipped kitchen, and a bathroom, all designed to cater to the needs of the modern traveler. Entertainment is readily available through the inclusion of a flat-screen TV, perfect for unwinding after a day of exploration.
 
 For those who enjoy the simple pleasures, an on-site bar provides a cozy spot for evening relaxation. Additionally, the property's garden offers a peaceful retreat, inviting guests to immerse themselves in the natural beauty that surrounds them.
 
 Strategically located, Apartments Fishta Q5/25 serves as an ideal base for exploring the region's landmarks. The historic Rozafa Castle Shkodra is a mere 30 km away, while the natural beauty of Lake Skadar can be discovered at a distance of 32 km. For guests traveling by air, the convenience of Tirana International Mother Teresa Airport, located 83 km away, adds to the appeal of this charming property.
 
 In summary, Apartments Fishta Q5/25 stands out as a beacon of comfort and convenience for those wishing to experience the best of Shkodër's coastal charm.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

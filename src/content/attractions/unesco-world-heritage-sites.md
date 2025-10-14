@@ -7,6 +7,11 @@ featuredImage: ""
 images: []
 language: en
 slug: unesco-world-heritage-sites
+seo:
+  metaTitle: "Discover Albania's Captivating UNESCO World Heritage Sites"
+  metaDescription: "Discover Albania's UNESCO World Heritage sites of Butrint, Ottoman-era Berat and Gjirokastra, the natural beauty of Lake Ohrid, and the primeval beech forests."
+  focusKeyword: "unesco world heritage sites"
+  robots: "index"
 ---
 
 Journey Into the Past
@@ -183,10 +188,3 @@ It’s an engaging experience that provides a window into Albania’s role as a 
 
 From Albania’s ancient roots to its abundance of natural gifts, experiencing its World Heritage sites creates moments of insight to last a lifetime.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

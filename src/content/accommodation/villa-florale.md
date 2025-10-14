@@ -1,28 +1,5 @@
----
-title: Villa Florale
-description: Positioned a mere 50 km from the Port of Bar, Villa Florale stands out with its expansive layout, featuring four elegantly appointed bedrooms, two cozy living r
-featuredImage: "/images/accommodation/518910297.jpg"
-language: en
-slug: villa-florale
-location: ""
-amenities: []
-images: []
----
-
-Positioned a mere 50 km from the Port of Bar, Villa Florale stands out with its expansive layout, featuring four elegantly appointed bedrooms, two cozy living rooms, and a terrace that presents breathtaking mountain vistas. The villa is equipped with modern amenities including a flat-screen TV, a fully equipped kitchen with a dishwasher and an oven, and five well-appointed bathrooms with a bidet, ensuring a comfortable stay. The provision of towels and bed linen adds a touch of home.
+---\ntitle: "Villa Florale"\ndescription: "Villa Florale emerges as a distinguished choice for travelers seeking a blend of comfort and privacy in Shkodër."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518910297.jpg?k=cc91302612a344342789e128c044e17cbc95ad322a5fddb77d53cca4cf782a1d&o=&hp=1"\nlanguage: en\nslug: villa-florale\naddress: "Rruga Shirokes, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "villa"\ncoordinates:\n  lat: 42.06043468\n  lng: 19.44646657\nprice: "US$215"\npriceFrom: 215\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518910297.jpg?k=cc91302612a344342789e128c044e17cbc95ad322a5fddb77d53cca4cf782a1d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518910496.jpg?k=a7d18fd40107c7a7f72dc8a8ea943272c0c0229b1b5fbdf45e41e9cc6957f53c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518910436.jpg?k=d3ebbc0ae67ae3b3dba2ffc84439b06ee4841b8f5532f8c45a1f7ec02dce0a5b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518910793.jpg?k=82ad27a4bccf7c39634aa2890bd2fb7026e76c12bb06f1818c1e5e7a62d884f6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518910420.jpg?k=586dd9de63bc785e12cc96d85b118110bac91508e6703d844f6fb00af0a65fd8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518910506.jpg?k=b904406c9ee887c02ef387b068b37d17634412f7d74c0588f500b6b4edbcda0b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518910429.jpg?k=a89c46b914f2f5d2df1cd768566e174dcfb04c75bd1ff50687c0445246c1f876&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518910444.jpg?k=7c93f81c4da5fc516d94a1e90c670e197f85d9ac326a73a16d0c90c58fdc6860&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518910453.jpg?k=e5ea782539c7a4bc2f49aa630d97241649a1edaf7a58ce1a8c7bb3faaffb5ae4&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Villa with Private Pool"\nnearbyRestaurants:\n  - "Shiroka 96 50 m"\n  - "Lembus 550 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 4.2 km"\n  - "National Park Skadar Lake 5 km"\nairports:\n  - "Podgorica Airport 35 km"\n  - "Tivat Airport 69 km"\n  - "Tirana International Airport Mother Teresa 74 km"\nbookingURL: "https://www.booking.com/hotel/al/villa-florale-shkoder.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nPositioned a mere 50 km from the Port of Bar, Villa Florale stands out with its expansive layout, featuring four elegantly appointed bedrooms, two cozy living rooms, and a terrace that presents breathtaking mountain vistas. The villa is equipped with modern amenities including a flat-screen TV, a fully equipped kitchen with a dishwasher and an oven, and five well-appointed bathrooms with a bidet, ensuring a comfortable stay. The provision of towels and bed linen adds a touch of home.
 
 Designed with privacy in mind, the villa offers a private entrance and is soundproofed, creating a tranquil retreat for guests. The outdoor picnic area within the villa complex presents an ideal setting for guests to unwind and enjoy the natural beauty of the surroundings.
 
 For those traveling to or from the area, Podgorica Airport is conveniently located 67 km away, making Villa Florale an accessible and attractive option for both short and long-term stays.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

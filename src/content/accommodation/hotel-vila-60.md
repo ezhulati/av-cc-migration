@@ -1,30 +1,9 @@
----
-title: Hotel Vila 60
-description: Each room at Hotel Vila 60 is a bright oasis of modern design, accented with tasteful wooden touches. Guests can enjoy the convenience of a flat-screen satellit
-featuredImage: "/images/accommodation/15506626.jpg"
-language: en
-slug: hotel-vila-60
-location: ""
-amenities: []
-images: []
----
-
-Each room at Hotel Vila 60 is a bright oasis of modern design, accented with tasteful wooden touches. Guests can enjoy the convenience of a flat-screen satellite TV, a well-stocked minibar, and a desk in every room. The en-suite bathrooms are equipped with showers, hairdryers, and complimentary toiletries, ensuring a seamless experience.
+---\ntitle: "Hotel Vila 60"\ndescription: "Discover the charm of Hotel Vila 60, a gem just a short walk from the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15506626.jpg?k=266a14cf66709d132b45ba9ff5f467efcf3159397ea85dcb89c1ebc681b6c054&o=&hp=1"\nlanguage: en\nslug: hotel-vila-60\naddress: "Fadil Rada Street, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.32731625\n  lng: 19.8268488\nprice: "US$84"\npriceFrom: 84\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 43\nratings:\n  overall: 9\n  location: 9.1\n  cleanliness: 9.1\n  facilities: 8.7\n  value: 8.8\n  comfort: 8.8\n  staff: 9.6\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15506626.jpg?k=266a14cf66709d132b45ba9ff5f467efcf3159397ea85dcb89c1ebc681b6c054&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/93496846.jpg?k=1c7654592b627f3139cc071a33dd1078861244962c02c50970d30f3eb0827b33&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303531687.jpg?k=980f459ceceaec2a10d1fb264646ff64a61c009c4ec976d8bf0d30c3b0e8a2a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/16083963.jpg?k=b5a42a90f8c815e91d1b9c8555cd3b31a766aa2b1985c1b2c10cbe0f27e3f702&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303531690.jpg?k=def1c531556b090bc7e17c399c208af16c2dbb63040148827b96feccb7e770f5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15520356.jpg?k=2368d7736d9e9f212c306deeb7b99d59924af492ff94b0e8c294f98539842cf9&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Fabulous breakfast"\nroomTypes:\n  - "Double Room"\nnearbyAttractions:\n  - "Rinia Park 750 m"\n  - "National Museum of History Albania 850 m"\n  - "House of Leaves 850 m"\n  - "Former Residence of Enver Hoxha 1.1 km"\n  - "Grand Park of Tirana 1.7 km"\n  - "Bunk'Art 1 Museum 3.8 km"\nnearbyRestaurants:\n  - "Vila 60 10 m"\n  - "VOGUE Caffe 150 m"\nwhatsNearby:\n  - "Sheshi Rekreativ tek ish ATSh 100 m"\n  - "Tanners' Bridge 100 m"\n  - "Sheshi Sulejman Pasha 450 m"\n  - "National Gallery of Arts Tirana 550 m"\n  - "Sheshi Rekreativ Piramida 550 m"\n  - "Clock Tower Tirana 600 m"\n  - "Skanderbeg Square 650 m"\n  - "Parku Europa 650 m"\n  - "Parku Rinia 650 m"\n  - "Sheshi Skënderbej 750 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\npaymentMethods:\n  - "Visa"\nreviews:\n  - name: "Dian"\n    country: "Netherlands"\n    text: "“Really nice hotel in a central but quiet location. Bathroom was big and clean and the room was very comfortable with aircon and a nice bed. Great value for money”"\n  - name: "Michal"\n    country: "Czech Republic"\n    text: "“Very very kind staff (fell in love with young receptionist haha), free parking in front of hotel, tasty breakfast, clean room and close to the city centre ❤️”"\n  - name: "Teresa"\n    country: "Portugal"\n    text: "“Great location! while being close to important must do’s, it’s in a narrow and very calm street, with no noise, which is a plus in Tirana!
+free private parking is another plus!
+Simple breakfast, but one of the best we had in Albania! Good quality...”"\nbookingURL: "https://www.booking.com/hotel/al/vila-60.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach room at Hotel Vila 60 is a bright oasis of modern design, accented with tasteful wooden touches. Guests can enjoy the convenience of a flat-screen satellite TV, a well-stocked minibar, and a desk in every room. The en-suite bathrooms are equipped with showers, hairdryers, and complimentary toiletries, ensuring a seamless experience.
 
 Around-the-clock service is a hallmark of this establishment, with a reception ready to cater to guests' needs at any hour. Whether it's laundry or ironing, the staff is there to assist. The dining experience is equally impressive, with a buffet-style breakfast and a restaurant menu that showcases a blend of international flavors and local culinary delights. The courtyard garden offers a tranquil spot for guests to unwind.
 
 The hotel's location is perfect for explorers and business travelers alike, with an array of restaurants, bars, and a gym just steps away. For those looking to venture further, a local bus stop provides easy access to the city's attractions. Tirana International Airport is conveniently located 11 km from the hotel, with pick-up services available upon request, making arrivals and departures as smooth as possible.
 
 Hotel Vila 60 is not just a place to stay; it's a gateway to experiencing the vibrant culture and hospitality of Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

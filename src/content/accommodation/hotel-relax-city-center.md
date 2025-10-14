@@ -1,30 +1,7 @@
----
-title: Hotel Relax City Center
-description: Each room within the hotel is a haven of relaxation, featuring air-conditioning for those warm Albanian days. Entertainment and connectivity are ensured with th
-featuredImage: "/images/accommodation/304953100.jpg"
-language: en
-slug: hotel-relax-city-center
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Hotel Relax City Center"\ndescription: "Hotel Relax City Center emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304953100.jpg?k=579830e23ebe7187841018e34b1c71163a28a9b1f285e747c1d7deae65561c67&o=&hp=1"\nlanguage: en\nslug: hotel-relax-city-center\naddress: "Rr. George W. Bush , 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.32653744\n  lng: 19.82501015\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 293\nratings:\n  overall: 7.5\n  location: 9.3\n  cleanliness: 6.9\n  facilities: 6.8\n  value: 7.5\n  comfort: 7.1\n  staff: 7.6\n  wifi: 7.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304953100.jpg?k=579830e23ebe7187841018e34b1c71163a28a9b1f285e747c1d7deae65561c67&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306103954.jpg?k=ec64ee614323f206aad02288d3aef55d9959b101f4272bc003bfa9e63677d971&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/33979832.jpg?k=fad61a7d1ad0c7d9979cf7e4a361770f6566b3c90252cb6b2f479f1e188b3d69&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304953012.jpg?k=a2c3ef89e7c84cc104c003c17f8c6276012ca9aa5dfd7276ff69dcccca87364f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/33979885.jpg?k=22b336e0507a3a011b6ad830632863df15f78c6257a36915c6eea785608ebf1a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/33979906.jpg?k=a0a453b2bebd6c91b421a8f10e01fba449e391e77a2fab1ffd7f435ed2095e02&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "24-hour front desk"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Single Room"\n  - "Double Room"\n  - "Triple Room"\nnearbyAttractions:\n  - "National Museum of History Albania 700 m"\n  - "House of Leaves 700 m"\n  - "Former Residence of Enver Hoxha 900 m"\n  - "Grand Park of Tirana 1.6 km"\n  - "Bunk'Art 1 Museum 4 km"\nnearbyRestaurants:\n  - "Taverna Zoto 30 m"\n  - "Golden Taste 30 m"\nwhatsNearby:\n  - "Tanners' Bridge 100 m"\n  - "Sheshi Rekreativ tek ish ATSh 200 m"\n  - "Sheshi Sulejman Pasha 350 m"\n  - "National Gallery of Arts Tirana 350 m"\n  - "Sheshi Rekreativ Piramida 400 m"\n  - "Clock Tower Tirana 450 m"\n  - "Parku Rinia 500 m"\n  - "Parku Europa 500 m"\n  - "Skanderbeg Square 500 m"\n  - "Rinia Park 600 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/relax-city-center.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach room within the hotel is a haven of relaxation, featuring air-conditioning for those warm Albanian days. Entertainment and connectivity are ensured with the inclusion of flat-screen TVs, offering both cable and satellite channels, alongside complimentary WiFi access. The attention to detail extends to the private bathrooms, where guests will find modern amenities including showers, bidets, and hairdryers, complemented by the thoughtful addition of free toiletries and slippers. Moreover, the garden views from the rooms add a refreshing touch of nature to the urban lodging experience.
 
-Each room within the hotel is a haven of relaxation, featuring air-conditioning for those warm Albanian days. Entertainment and connectivity are ensured with the inclusion of flat-screen TVs, offering both cable and satellite channels, alongside complimentary WiFi access. The attention to detail extends to the private bathrooms, where guests will find modern amenities including showers, bidets, and hairdryers, complemented by the thoughtful addition of free toiletries and slippers. Moreover, the garden views from the rooms add a refreshing touch of nature to the urban lodging experience.
-
-Dining is made convenient with the hotel's restaurant, situated just a short 30-meter walk from the main building, where guests can savor a variety of dishes. For relaxation or casual meetings, the on-site bar and garden provide perfect settings, enhancing the overall stay with a blend of leisure and tranquility.
+Dining is made convenient with the hotel’s restaurant, situated just a short 30-meter walk from the main building, where guests can savor a variety of dishes. For relaxation or casual meetings, the on-site bar and garden provide perfect settings, enhancing the overall stay with a blend of leisure and tranquility.
 
 For those looking to explore, the National Arts Gallery awaits just 500 meters away, offering a deep dive into the country's rich cultural heritage. The expansive Tirana Big Park, located 2 km from the hotel, presents an ideal escape into nature. Additionally, the proximity to Tirana Airport, 16 km away, makes Hotel Relax City Center an excellent choice for both international visitors and those on short stays.
 
 With its strategic location, comprehensive amenities, and commitment to guest comfort, Hotel Relax City Center stands out as a top accommodation choice for travelers to Tirana, promising an experience that combines the best of urban convenience with serene hospitality.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

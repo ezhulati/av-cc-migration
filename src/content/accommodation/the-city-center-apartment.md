@@ -1,28 +1,5 @@
----
-title: The City-Center Apartment
-description: Guests at The City-Center Apartment are treated to modern amenities in a spacious 2-bedroom layout. The apartment is equipped with high-speed WiFi, ensuring con
-featuredImage: "/images/accommodation/482451915.jpg"
-language: en
-slug: the-city-center-apartment
-location: ""
-amenities: []
-images: []
----
-
-Guests at The City-Center Apartment are treated to modern amenities in a spacious 2-bedroom layout. The apartment is equipped with high-speed WiFi, ensuring connectivity throughout the stay. Entertainment and relaxation are guaranteed with a cable flat-screen TV, while the inclusion of a washing machine adds a touch of home comfort. The kitchen, fully equipped with an oven and fridge, invites guests to prepare their meals just the way they like them. Complementing the apartment's thoughtful amenities, towels and bed linen are meticulously provided, ensuring a hassle-free experience.
+---\ntitle: "The City-Center Apartment"\ndescription: "Discover the charm of Shkodër from the comfort of The City-Center Apartment, a prime choice for travelers seeking both convenience and tranquility."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482451915.jpg?k=29fd3a0810de7018dfbc695bb9e01e7bfd5f56a50b1719985b3a7b2e74fb9581&o=&hp=1"\nlanguage: en\nslug: the-city-center-apartment\naddress: "Rruga G'juhadol, 1000 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.06620781\n  lng: 19.5180923\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482451915.jpg?k=29fd3a0810de7018dfbc695bb9e01e7bfd5f56a50b1719985b3a7b2e74fb9581&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482451988.jpg?k=baa152aa94460996a3185f9513074e69ffd3c79807bd5f7643775ae9035b39be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482451974.jpg?k=ee6165d7eaa5f48545f0a3827a2bd7c85f7de52c795206b9775340692c8de13e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482452076.jpg?k=1948eb3fd13963c9456e0515cf979138f11540eb69a69e175584ccb385fb0f4c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482451966.jpg?k=6e26b63cad57721f24ec49c8284e5017f627b34a5c11d977aad8cb6bf01fe147&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482451958.jpg?k=24f20368eeeb7a303d8552b44829c60aa5e4170030964426575bf3eaa88b481d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482452059.jpg?k=a9fe022251ffc81187c22cfcd23e5aee4e7f3ee4f86f25f20df83dda6d0503d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482451997.jpg?k=43bd16d8fc68b1393e62c9ac1ba1416c4c84348db6ea3b471b379c4766aea56b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482451932.jpg?k=e1eb78366eaa0be6d1458109cf0269444351f8f5ffdbe97e3f3ecc8a6f266e4c&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "MShijon Wine Bar&Tapas 10 m"\n  - "ArtiZanave 30 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 3 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 73 km"\n  - "Tivat Airport 74 km"\nbookingURL: "https://www.booking.com/hotel/al/the-city-center-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests at The City-Center Apartment are treated to modern amenities in a spacious 2-bedroom layout. The apartment is equipped with high-speed WiFi, ensuring connectivity throughout the stay. Entertainment and relaxation are guaranteed with a cable flat-screen TV, while the inclusion of a washing machine adds a touch of home comfort. The kitchen, fully equipped with an oven and fridge, invites guests to prepare their meals just the way they like them. Complementing the apartment's thoughtful amenities, towels and bed linen are meticulously provided, ensuring a hassle-free experience.
 
 Privacy is paramount at The City-Center Apartment, underscored by the exclusive private entrance that sets the accommodation apart. For those looking to explore beyond the city's confines, Podgorica Airport is conveniently located just 58 km away, making arrivals and departures as smooth as possible.
 
 The City-Center Apartment is not just a place to stay; it's a gateway to experiencing Shkodër's unique blend of culture and comfort.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

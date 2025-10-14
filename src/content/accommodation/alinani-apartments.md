@@ -1,28 +1,9 @@
----
-title: Alinani Apartments
-description: The accommodations at Alinani Apartments are thoughtfully designed with the modern traveler in mind. Each air-conditioned unit is equipped with a private bathro
-featuredImage: "/images/accommodation/129642596.jpg"
-language: en
-slug: alinani-apartments
-location: ""
-amenities: []
-images: []
----
-
-The accommodations at Alinani Apartments are thoughtfully designed with the modern traveler in mind. Each air-conditioned unit is equipped with a private bathroom, a flat-screen TV for entertainment, and a fully equipped kitchen, catering to families and groups seeking a comfortable and self-sufficient stay.
+---\ntitle: "Alinani Apartments"\ndescription: "Alinani Apartments emerges as a serene retreat in the heart of Ksamil, boasting an enviable location mere steps away from the pristine shores of Ksamil Beach 9 and Bora Bora Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/129642596.jpg?k=e0b6ed820d4dcbe2ff64650a37f9da727a2e700b776f2fe572837806bd3d8823&o=&hp=1"\nlanguage: en\nslug: alinani-apartments\naddress: "Isadora Dunkan Building, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.7707\n  lng: 20.001335\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 39\nratings:\n  overall: 9.2\n  location: 9.5\n  cleanliness: 9.2\n  facilities: 8.9\n  value: 9.1\n  comfort: 8.8\n  staff: 9.1\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/129642596.jpg?k=e0b6ed820d4dcbe2ff64650a37f9da727a2e700b776f2fe572837806bd3d8823&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375740516.jpg?k=12378804e9c15c78092a4db33be10cf9393738b59b7be878c73fe2f86477e641&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375740585.jpg?k=eb84e02838c9e9f4f1078c3467bce3d9332ed5ebf4ec295722c6d358b31caca2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375740683.jpg?k=63e3de4bb13aea3e812c9f6bae6397350fd2120b34adf351bc420291d26b6455&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155314954.jpg?k=a2bc0c1faf858a236791b0dfbd0b3e75bda281eb8ad2f1e0507e7c7a6f97ba99&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375739929.jpg?k=6cc88efbdc53089339d867eddd7a71b13bbaa6025126349dbc85af45ae722637&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375739988.jpg?k=c6e75e44f188d39cdc583c0225a70e1d5ef0b98138efadc4ed16607e5736fe2a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375740008.jpg?k=dea99b2bb48fbc37ba148d0d108c8d567b318a2431ed211991e983405804cf3a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375740755.jpg?k=44724eb40b144242708cbafbe441f01a6f21b2b060d691010434324eebe85966&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyAttractions:\n  - "Museum of Banknotes 18 km"\n  - "New Fortress 18 km"\n  - "Serbian Museum 18 km"\n  - "Theotoki G. Square 18 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 19 km"\n  - "Trion Martiron Park 19 km"\n  - "Mon Repos Palace 19 km"\nnearbyRestaurants:\n  - "Colosseum Hotel Bar 50 m"\n  - "Pizza Rei & Rai 100 m"\nnearbyBeaches:\n  - "Ksamil Beach 200 m"\n  - "Bora Bora Beach 250 m"\n  - "Ksamil Beach 7 250 m"\n  - "Ksamil Beach 9 350 m"\n  - "Coco Beach 550 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 350 m"\n  - "Butrint National Park 2.8 km"\n  - "Plazhi I Krorezes 3.3 km"\n  - "Parc National de Butrint 10 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 17 km"\n  - "Old Fortress 18 km"\nairports:\n  - "Corfu International Airport 19 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Andreea"\n    country: "United Kingdom"\n    text: "“The property was 2 min away from the beach.
+Every 3 days we had our room cleaned and sheets changed and towels, place to dry our clotes and beach towels.
+There os also availability for washing machine.
+Amazing people taking care of their guests.”"\n  - name: "Molly"\n    country: "Austria"\n    text: "“Lovely family run hotel in an amazing location. I did not meet the owner as she was away, but the owner's mother was an absolutely lovely person. Only 3 min walk to the beaches, but set back in a quiet spot. Good sized room!”"\n  - name: "Petranka"\n    country: "North Macedonia"\n    text: "“Miss Juli was the best host. Everything was amazing, the room was really clean, beaches were really close to the apartment.
+🤍”"\nbookingURL: "https://www.booking.com/hotel/al/alinani-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodations at Alinani Apartments are thoughtfully designed with the modern traveler in mind. Each air-conditioned unit is equipped with a private bathroom, a flat-screen TV for entertainment, and a fully equipped kitchen, catering to families and groups seeking a comfortable and self-sufficient stay.
 
 Situated just a short stroll from the vibrant Ksamil Beach and the tranquil Ksamil Beach 7, guests are perfectly positioned to soak up the sun and immerse themselves in the local beach scene. For those looking to explore beyond the immediate area, Corfu International Airport is located 93 km away, making Alinani Apartments an accessible choice for international travelers.
 
 With its blend of convenience, comfort, and location, Alinani Apartments stands out as a top choice for visitors to Ksamil, offering an idyllic base from which to explore the natural beauty and cultural richness of the region.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

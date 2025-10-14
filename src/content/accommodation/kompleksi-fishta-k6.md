@@ -1,28 +1,5 @@
----
-title: Kompleksi Fishta K6
-description: Guests are treated to the luxury of a private balcony, where the gentle sea breeze complements stunning views, making every moment memorable. The provision of f
-featuredImage: "/images/accommodation/486781602.jpg"
-language: en
-slug: kompleksi-fishta-k6
-location: ""
-amenities: []
-images: []
----
-
-Guests are treated to the luxury of a private balcony, where the gentle sea breeze complements stunning views, making every moment memorable. The provision of free WiFi and the option for private parking, albeit at a nominal fee, add to the convenience factor, ensuring a hassle-free stay.
+---\ntitle: "Kompleksi Fishta K6"\ndescription: "Kompleksi Fishta K6 emerges as a standout choice for travelers seeking the perfect blend of comfort and convenience in Velipojë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486781602.jpg?k=635e208c01a15e22aae53def7f16d85caed04caa34a1120bf581c5c6a34576da&o=&hp=1"\nlanguage: en\nslug: kompleksi-fishta-k6\naddress: "Rruga Shtepia e Peshkatareve, 4001 Velipojë, Albania"\ncity: "Velipojë"\nlocation: "Velipojë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.86236836\n  lng: 19.42852333\nprice: "US$81"\npriceFrom: 81\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486781602.jpg?k=635e208c01a15e22aae53def7f16d85caed04caa34a1120bf581c5c6a34576da&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486783396.jpg?k=f969b69f40711beb957ba0f1ac38a5a12171cde02954fb86c99ae24eac64d7c7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486783610.jpg?k=aac3953f76b9a18744810881a07d177e5139d2911ab39bdafde5a7c8039efb4d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486783428.jpg?k=ef2f809161d12915c7cb06ca237fde6c26b923c8c8a7833fe0568debc14885cb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486783399.jpg?k=d255b74872989f6f43856f372883149955cb58ac8052038cfd8127729a295bf9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486783402.jpg?k=68c782ece7918c6a66cc8073bec4144537a7b4ae0618eb5bb2c6657da2933c37&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486783416.jpg?k=39320b7e9272cc732853ec5c4f58b9aedf43cc12c4aa6532b75e501b79fa56b4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486783566.jpg?k=a8cb904d150b89688049b1ccbf0646e673e61d3d5fd017fa913559cbf08cc0c2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488832322.jpg?k=e3f90d92ee0005c68b8ac7b1498a1be5feafaae471057b71a4f89067ff584ec7&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\n  - "Beachfront"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "Old Town Ulcinj 20 km"\nnearbyRestaurants:\n  - "Arishta 40 m"\n  - "Bar & Tradita Pejane 100 m"\nnearbyBeaches:\n  - "Velipoja Beach 100 m"\n  - "Rana e Hedhun Beach 1.6 km"\n  - "Ada Bojana Beach 5 km"\n  - "Velika Plaza Beach 8 km"\nwhatsNearby:\n  - "Copacabana 10 km"\n  - "Cola Beach 12 km"\n  - "Imperiam Beach 13 km"\n  - "Msm Beach 13 km"\n  - "Tropicana 14 km"\n  - "Plaža Safari 14 km"\n  - "Bukurija Beach 15 km"\n  - "Saranda 15 km"\n  - "Plaža Toni 16 km"\n  - "Nudistička Plaža Albatros 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 54 km"\n  - "Podgorica Airport 56 km"\n  - "Tivat Airport 82 km"\nbookingURL: "https://www.booking.com/hotel/al/apartment-kompleksi-fishta.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are treated to the luxury of a private balcony, where the gentle sea breeze complements stunning views, making every moment memorable. The provision of free WiFi and the option for private parking, albeit at a nominal fee, add to the convenience factor, ensuring a hassle-free stay.
 
 The apartment itself is a haven of modern living, featuring air conditioning for those warm summer days, a flat-screen TV for entertainment, and a fully equipped kitchen that caters to all culinary needs. With two spacious bedrooms, it comfortably accommodates families or groups looking to explore the beauty of Velipojë and its surroundings.
 
 For those flying in, the Tirana International Mother Teresa Airport is located 84 km away, making Kompleksi Fishta K6 an accessible retreat for both local and international visitors. This property doesn't just promise a stay; it offers an experience that combines the comforts of home with the excitement of travel.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

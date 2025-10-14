@@ -7,6 +7,9 @@ featuredImage: /images/attractions/saint-theodores-monastery.jpg
 images: []
 language: en
 slug: saint-theodores-monastery
+seo:
+  metaTitle: "%title% - History Above Gjipe Beach"
+  metaDescription: "Discover Saint Theodore’s Monastery above Gjipe Beach—once a temple, monastery, Soviet resort, and army base, now under restoration with epic views."
 ---
 
 Explore Five Centuries of History
@@ -81,10 +84,3 @@ For visitors, it adds serious historical depth to what could otherwise be just a
 
 The monastery isn’t going anywhere. It survived 500 years of construction, Ottoman rule, communist persecution, and Soviet occupation. A little ongoing restoration work won’t stop it now.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

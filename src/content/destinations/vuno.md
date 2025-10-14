@@ -5,11 +5,14 @@ region: Albanian Riviera
 featuredImage: /images/destinations/vuno.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: vuno
 highlights: []
+seo:
+  metaDescription: "Discover the hidden gem of Vuno. From its picturesque beaches to its charming village life, Vuno offers a unique and unforgettable experience. Start your journey today!"
 ---
 
 What to Expect
@@ -152,10 +155,3 @@ Recent developments worth knowing:
 
 The village is changing, but slowly. For now, it’s still a place where you’ll hear more Albanian than English, and that’s part of what makes it special.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

@@ -1,30 +1,7 @@
----
-title: Hotel Restaurant Dreri
-description: "Culinary enthusiasts will delight in the hotel's dining options, which span from traditional Albanian flavors to Italian and international cuisine, promising a tantalizing journey for your taste buds."
-featuredImage: "/images/accommodation/216852893.jpg"
-language: en
-slug: hotel-restaurant-dreri
-location: ''
-amenities: []
-images: []
----
-
-Culinary enthusiasts will delight in the hotel's dining options, which span from traditional Albanian flavors to Italian and international cuisine, promising a tantalizing journey for your taste buds.
+---\ntitle: "Hotel Restaurant Dreri"\ndescription: "Discover the charm of Hotel Restaurant Dreri, a hidden gem where modern amenities meet serene landscapes."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216852893.jpg?k=23d63a88cb8c927e630154d14bddcdefc15c6e6e7cebdc539a718612eb8696d9&o=&hp=1"\nlanguage: en\nslug: hotel-restaurant-dreri\naddress: "Street Gjeneral Nikols Number 24. Entrance1., 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.31438781\n  lng: 19.83068973\nprice: "US$70"\npriceFrom: 70\nstarRating: 4\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 312\nratings:\n  overall: 9.2\n  location: 9.6\n  cleanliness: 9.2\n  facilities: 8.9\n  value: 9.1\n  comfort: 9.2\n  staff: 9.3\n  wifi: 9.1\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216852893.jpg?k=23d63a88cb8c927e630154d14bddcdefc15c6e6e7cebdc539a718612eb8696d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216852888.jpg?k=388f5fdc26d7d995269b66a47435c2eb27510e06d2a8bd474c5d12a289e5f9ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/17893830.jpg?k=4831c93566a6b1a650861b6a71b551f6b40c1cde236384bdc7bbbf1687fef1af&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216852842.jpg?k=2d2edacc3a2abd511da07e247030d8a4851aae917070ca3186e54884358a2e49&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216852846.jpg?k=c1a63f4eb12fd38b471b16402e4cd94a67b6c377bba4959e191e9b1462b9e3b4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216852849.jpg?k=bc0885bb8518d2c923c95fd2b53a12e529ff43d405fa6030328012ac69eb098d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "24-hour front desk"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Double Room with Forest View"\n  - "Deluxe Double Room"\nnearbyAttractions:\n  - "Rinia Park 1.6 km"\n  - "National Gallery of Arts Tirana 1.6 km"\n  - "Clock Tower Tirana 1.7 km"\n  - "Skanderbeg Square 1.8 km"\n  - "House of Leaves 1.8 km"\n  - "National Museum of History Albania 2 km"\n  - "Bunk'Art 1 Museum 4.7 km"\nnearbyRestaurants:\n  - "Garage Tirana 150 m"\n  - "Sofra e Ariut 250 m"\nwhatsNearby:\n  - "Parku I Madh 150 m"\n  - "Grand Park of Tirana 500 m"\n  - "Sheshi Rekreativ tek Arena Kombëtare 600 m"\n  - "Shesh Rekreativ 700 m"\n  - "Shesh Rekreativ 1 km"\n  - "Sheshi Rekreativ Tika 1.1 km"\n  - "Parku I Madh I Tiranës (Grand Park) 1.2 km"\n  - "Sheshi Rekreativ Piramida 1.2 km"\n  - "Former Residence of Enver Hoxha 1.3 km"\n  - "Tanners' Bridge 1.4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 13 km"\n  - "Ohrid Airport 78 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Michel"\n    country: "United States"\n    text: "“Location is fantastic. The park around it is incredible for walking, running exercising, or having fun with the kids if they were with me. Breakfast was pretty good too. The staff was exceptionally friendly and helpful. Have I said their location...”"\n  - name: "Paul"\n    country: "Norway"\n    text: "“Very nice location for people who wants to visit Tirana town, and places around. It is in the forest / park, that is very quiet and the same time in the middle of city. Recommend to choose that location / hotel if you want to have quiet...”"\n  - name: "Paul"\n    country: "United Kingdom"\n    text: "“Great location, nice clean rooms, friendly staff, good value.”"\nbookingURL: "https://www.booking.com/hotel/al/restaurant-dreri.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nCulinary enthusiasts will delight in the hotel's dining options, which span from traditional Albanian flavors to Italian and international cuisine, promising a tantalizing journey for your taste buds.
 
 For those looking to unwind, the hotel terrace offers a perfect spot to enjoy a refreshing drink while soaking in the peaceful surroundings. Additionally, convenience is just a step away with a grocery shop located right next door.
 
 A mere seven-minute drive will take you to the heart of Tirana, where cultural treasures await. Explore the National History Museum and the Archeological Museum, immerse yourself in the local art scene with numerous galleries, and step back in time with visits to the historic fortresses of Petrela and Preza.
 
 Hotel Restaurant Dreri stands out as an ideal choice for travelers seeking a blend of comfort, convenience, and a touch of culture.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

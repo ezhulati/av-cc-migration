@@ -1,28 +1,8 @@
----
-title: Vlore , Lungomare
-description: The apartment itself is a haven of modern living, boasting an air-conditioned space that includes a cozy bedroom, a welcoming living room complete with a flat-s
-featuredImage: "/images/accommodation/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
-language: en
-slug: vlore-lungomare
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of modern living, boasting an air-conditioned space that includes a cozy bedroom, a welcoming living room complete with a flat-screen TV, a fully equipped kitchen with a dining area, and a bathroom outfitted with a bidet and washing machine. The commitment to a non-smoking environment ensures a pleasant stay for all guests.
+---\ntitle: "Vlore , Lungomare"\ndescription: "Vlore, Lungomare emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"\nlanguage: en\nslug: vlore-lungomare\naddress: "Rruga Shyqyri Ali Merka, 9402 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45142284\n  lng: 19.48939223\nprice: "US$52"\npriceFrom: 52\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 19\nratings:\n  overall: 9.6\n  location: 9.5\n  cleanliness: 9.7\n  facilities: 9.5\n  value: 9.5\n  comfort: 9.7\n  staff: 9.6\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"\n  - "https://cf.bstatic.com/static/img/flags/12/mk/ce384359e8a520450122357078887345161335e2.png"\n  - "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=64"\n  - "https://cf.bstatic.com/static/img/flags/12/si/e5950ab4590b7d05b0ce1b1bf7603d1235436005.png"\n  - "https://lh3.googleusercontent.com/a/AAcHTtdbRaib14NSgZs5lzZnxX3S-2RX5RfzvG2BO5tCOI3Yklo=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://lh3.googleusercontent.com/a-/AOh14GisFkkYAzauG4SrhoSS-1QTDpULl_0i07tOP8ph6A=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://graph.facebook.com/v2.9/3622582387807671/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/ua/da35c421a013b5d14c01763bcde8aa42d474eff0.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-p/866dca38dcc31cb6fa2e9b4c475bd32e681b0080.png"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://graph.facebook.com/v2.9/1362259587202992/picture?type=square&height=64&width=64"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Holiday Home"\nnearbyRestaurants:\n  - "Carraro 50 m"\n  - "Brooklyn 50 m"\nnearbyBeaches:\n  - "Vlore Beach 500 m"\n  - "Vjetër Beach 700 m"\n  - "Ri Beach 1.8 km"\n  - "Beach at Government Villas 3.5 km"\n  - "Liro Beach 4.1 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.8 km"\n  - "Kuzum Baba 1.8 km"\n  - "Independence Square 2.2 km"\nreviews:\n  - name: "Emilija"\n    country: "North Macedonia"\n    text: "“The location is perfect. The appartment is equipped with apsolutelly everything needed for a
+holiday, just like home. Private parking.
+The girl that welcomed us, Ledia, was so kind, offering to call her any time during the stay if we need anything.”"\n  - name: "Dejan3432"\n    country: "Slovenia"\n    text: "“Very nice apartment very close to city centre and sea. Well equiped. Host was so kind and sweet, also speaks Italian.
+Recomend for stay if visiting Vlore.”"\n  - name: "Klarissa"\n    country: "Italy"\n    text: "“The host was very friendly, the apartment has all kind of facilities that you need for a vacation”"\nbookingURL: "https://www.booking.com/hotel/al/casa-vacanza-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a haven of modern living, boasting an air-conditioned space that includes a cozy bedroom, a welcoming living room complete with a flat-screen TV, a fully equipped kitchen with a dining area, and a bathroom outfitted with a bidet and washing machine. The commitment to a non-smoking environment ensures a pleasant stay for all guests.
 
 Adding to the appeal is the convenience of private parking on site and complimentary WiFi, allowing guests to stay connected and plan their explorations with ease. For those venturing from afar, the Tirana International Mother Teresa Airport is located 151 km away, making Vlore, Lungomare an accessible retreat for international and domestic travelers alike.
 
 Positioned just over a kilometer from the serene Vjetër Beach, this property promises a memorable stay for those looking to experience the beauty and vibrancy of Vlorë. Whether it's lounging on the beach or exploring the city's rich cultural tapestry, Vlore, Lungomare serves as an ideal base for all kinds of adventures.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

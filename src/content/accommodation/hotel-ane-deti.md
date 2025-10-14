@@ -1,28 +1,5 @@
----
-title: Hotel Ane Deti
-description: Each room, designed with the modern traveler in mind, comes equipped with a flat-screen TV, a balcony for those units with sea vistas, and a fridge, ensuring bo
-featuredImage: "/images/accommodation/464149550.jpg"
-language: en
-slug: hotel-ane-deti
-location: ""
-amenities: []
-images: []
----
-
-Each room, designed with the modern traveler in mind, comes equipped with a flat-screen TV, a balcony for those units with sea vistas, and a fridge, ensuring both convenience and comfort during your stay.
+---\ntitle: "Hotel Ane Deti"\ndescription: "Hotel Ane Deti emerges as a charming retreat in Golem, merely a stone's throw away from the serene Mali I Robit Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464149550.jpg?k=cce02282dd03e1b978b7925254e2b57ae5f7d40e7cce78780dd536b71a0edadd&o=&hp=1"\nlanguage: en\nslug: hotel-ane-deti\naddress: "Rruga Plazhit, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.24797154\n  lng: 19.5216239\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nrating: 6.4\nratingWords: "Average"\nnumberOfReviews: 6\nratings:\n  overall: 6.4\n  location: 7.9\n  cleanliness: 5.4\n  facilities: 5.8\n  value: 6.3\n  comfort: 5.8\n  staff: 7.1\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464149550.jpg?k=cce02282dd03e1b978b7925254e2b57ae5f7d40e7cce78780dd536b71a0edadd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464149600.jpg?k=27a526fc589c45482e8350abdc868d019e79b795429046929bc6b6b6d5b74078&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464149604.jpg?k=e5746a413eeabf67cfeb800019be2fdc78224cefd439ef3ed6f6f8dd15faf61c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464149608.jpg?k=bf2cb1f2fc554e461547404fa6a903ab70f5925c55ffdc71842c22ba95301f70&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464149613.jpg?k=3804cd4eda8b9a026c15ccd597aad77c21a4e3a080a4ea6289b2eeea8a2f9d8b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464149587.jpg?k=53cb5c8e4a3f2a081c6943d51e345ac8eecee32c9d26509edea7e3bcaef81d60&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Basic Triple Room"\nnearbyRestaurants:\n  - "Alto Mare 100 m"\n  - "Brutal Steakhouse 200 m"\nnearbyBeaches:\n  - "Golem Beach 150 m"\n  - "Mali I Robit Beach 150 m"\n  - "Shkëmbi i Kavajës Beach 1.9 km"\n  - "Qerret Beach 2.1 km"\n  - "Durres Beach 4.3 km"\nwhatsNearby:\n  - "Durres Amphiteatre 10 km"\n  - "Bekimi 10 km"\n  - "1. Maj 10 km"\n  - "Wine Dhe Pooh 10 km"\n  - "Yje Dhe Hena 10 km"\n  - "Sheshi Demokracia 10 km"\n  - "Sotir Noka 10 km"\nairports:\n  - "Tirana International Airport Mother Teresa 23 km"\nbookingURL: "https://www.booking.com/hotel/al/ane-deti.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach room, designed with the modern traveler in mind, comes equipped with a flat-screen TV, a balcony for those units with sea vistas, and a fridge, ensuring both convenience and comfort during your stay.
 
 Situated just 300 meters from the inviting sands of Golem Beach and a short 2.4 km journey from the picturesque Shkëmbi i Kavajës Beach, Hotel Ane Deti positions itself as an ideal base for beach enthusiasts. Moreover, the proximity to Tirana International Mother Teresa Airport, located 40 km away, adds to the appeal for international travelers seeking a seamless experience.
 
 Beyond the rooms, guests can unwind in the tranquil garden or enjoy a refreshing drink at the bar, making Hotel Ane Deti not just a place to stay, but a memorable part of their travel experience.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

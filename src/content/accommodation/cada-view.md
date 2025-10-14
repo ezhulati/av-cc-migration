@@ -1,26 +1,3 @@
----
-title: Cada View
-description: Beyond the confines of Cada View, the surrounding area offers a diverse selection of dining options. A highlight is the property's rooftop, which features a mod
-featuredImage: "/images/accommodation/371365218.jpg"
-language: en
-slug: cada-view
-location: ""
-amenities: []
-images: []
----
-
-Beyond the confines of Cada View, the surrounding area offers a diverse selection of dining options. A highlight is the property's rooftop, which features a modern café set against a backdrop of contemporary music, creating the perfect ambiance for memorable evenings.
+---\ntitle: "Cada View"\ndescription: "Cada View emerges as a serene oasis for family getaways, perfectly positioned in a vibrant tourist locale that boasts an enviable combination of sun-drenched beaches and lush pine forests."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371365218.jpg?k=9d6a79c568000faa5f084095d2a91848bdd5bf310e7926e4f7fc877244bbe09c&o=&hp=1"\nlanguage: en\nslug: cada-view\naddress: "Rruga Skenderbeu, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.23639018\n  lng: 19.5211992\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nrating: 8.3\nratingWords: "Very Good"\nnumberOfReviews: 4\nratings:\n  overall: 8.3\n  location: 9.2\n  cleanliness: 7.5\n  facilities: 8.3\n  value: 8.3\n  comfort: 8.3\n  staff: 8.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371365218.jpg?k=9d6a79c568000faa5f084095d2a91848bdd5bf310e7926e4f7fc877244bbe09c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361976543.jpg?k=3ed13a8d90c46ea7c9b34bb990c492efc95218d967a53e1521c894ae41e26839&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/24054836.jpg?k=ce2ff216d34b50eb2ef354a38d1e3373e627831d030f61b67e6b23074c686169&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/24054762.jpg?k=647a5f2f018ff5f11392ed39ec9838b05673be8d289f6d536efd17e67189ba19&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/22807496.jpg?k=519c3516d30401db638cdb20443d09c3edb72ff2fc3a596cfb59708d721387d6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364797577.jpg?k=a9f5710402814ede78747061c975fd405d398dee6321edcbe5c39d6a81bce515&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Free parking"\n  - "Family rooms"\n  - "Private beach area"\n  - "Breakfast"\nroomTypes:\n  - "Double Room"\n  - "Double Room with Garden View"\n  - "Three-Bedroom House"\nnearbyBeaches:\n  - "Mali I Robit Beach 450 m"\n  - "Qerret Beach 950 m"\n  - "Golem Beach 1.3 km"\n  - "Shkëmbi i Kavajës Beach 3.2 km"\n  - "Durres Beach 6 km"\nbookingURL: "https://www.booking.com/hotel/al/villa-albion.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nBeyond the confines of Cada View, the surrounding area offers a diverse selection of dining options. A highlight is the property's rooftop, which features a modern café set against a backdrop of contemporary music, creating the perfect ambiance for memorable evenings.
 
 For those keen to explore, the heart of Kavaja is just 7 km away, offering a glimpse into local life. Meanwhile, the historic city of Durrës, with its UNESCO-protected castle and amphitheater, awaits just 13 km from the hotel, promising a fascinating excursion into Albania's rich past. For travelers, the convenience is unparalleled, with Tirana Airport situated a mere 35 km away, making Cada View an accessible retreat for both domestic and international visitors seeking a blend of leisure and exploration.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

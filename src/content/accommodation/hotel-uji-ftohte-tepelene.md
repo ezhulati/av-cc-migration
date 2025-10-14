@@ -1,28 +1,7 @@
----
-title: Hotel Uji Ftohte Tepelene
-description: Accommodations at Hotel Uji Ftohte Tepelene are thoughtfully designed to ensure maximum comfort. Each room boasts essential furnishings such as a wardrobe, alon
-featuredImage: "/images/accommodation/487612918.jpg"
-language: en
-slug: hotel-uji-ftohte-tepelene
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Hotel Uji Ftohte Tepelene are thoughtfully designed to ensure maximum comfort. Each room boasts essential furnishings such as a wardrobe, alongside the luxury of a private bathroom fitted with a bidet and hairdryer for personal convenience. The presence of a flat-screen TV and air conditioning in every room guarantees a relaxing stay, while select rooms offer the added bonus of a balcony, providing guests with their own private vista of the surrounding landscape.
+---\ntitle: "Hotel Uji Ftohte Tepelene"\ndescription: "Hotel Uji Ftohte Tepelene stands out as a beacon of comfort and convenience in the heart of Tepelenë, offering guests a blend of modern amenities and serene mountain views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487612918.jpg?k=04865ba2a7569ba1bd181c1b933112581c169eabc7ee463a38763e48533e5d84&o=&hp=1"\nlanguage: en\nslug: hotel-uji-ftohte-tepelene\naddress: "Uji i Ftohte, Tepelene, 6301 Tepelenë, Albania"\ncity: "Tepelenë"\nlocation: "Tepelenë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.25042091\n  lng: 20.06590443\nprice: "US$107"\npriceFrom: 107\nstarRating: 4\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 113\nratings:\n  overall: 9.5\n  location: 9.6\n  cleanliness: 9.9\n  facilities: 9.7\n  value: 9.1\n  comfort: 9.9\n  staff: 9.3\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487612918.jpg?k=04865ba2a7569ba1bd181c1b933112581c169eabc7ee463a38763e48533e5d84&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507295582.jpg?k=1546927de54ed1f109a8262015b3b2217eb31f90dd00d719049defe60d9f637e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507295561.jpg?k=297b9ebe305352755cce8c10c108e5d422fb17aa822f6002aad278d57d6c5d84&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497827048.jpg?k=72a2601c86fa211dbdd728df435eb71f1c1a0791c56ada8c5109244d1cc2a9af&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507295470.jpg?k=a38c44becf9cb0327240af7d7a9bdb8d410d4b30f8ea260ea1c98c04d30c98f6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507295618.jpg?k=137276657b7b8173d6963b855c843186e8279d10994f89159901f1024e83dae9&o=&hp=1"\namenities:\n  - "Fitness centre"\n  - "Room service"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Twin Room"\n  - "Deluxe Double Room"\n  - "Junior Suite"\nnearbyRestaurants:\n  - "Uji I Ftohte Tepelene 100 m"\n  - "Autogrill Roberti 4 km"\nairports:\n  - "Corfu International Airport 72 km"\n  - "Ioannina Airport 88 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "イリスラン"\n    country: "Japan"\n    text: "“Amazing location!!! Great bed, room.
+Free parking.
+Good breakfast”"\n  - name: "Elisa"\n    country: "Malta"\n    text: "“The hotel over looks the river Vjosa, so it's very relaxing and beautiful...the hotel is excellent and up to standard.”"\n  - name: "Altjona"\n    country: "Albania"\n    text: "“Luxury hotel with a stunning view of the river, polite staff, clean and comfortable room, and a wonderful food☺️”"\nbookingURL: "https://www.booking.com/hotel/al/uji-ftohte-tepelene.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Hotel Uji Ftohte Tepelene are thoughtfully designed to ensure maximum comfort. Each room boasts essential furnishings such as a wardrobe, alongside the luxury of a private bathroom fitted with a bidet and hairdryer for personal convenience. The presence of a flat-screen TV and air conditioning in every room guarantees a relaxing stay, while select rooms offer the added bonus of a balcony, providing guests with their own private vista of the surrounding landscape.
 
 The hotel ensures a good start to the day with a buffet breakfast available each morning, featuring a variety of options to cater to all tastes. Additionally, the promise of room service, a 24-hour front desk, and complimentary WiFi throughout the property underscores the hotel's commitment to guest satisfaction and connectivity.
 
 Situated 104 km from Ioannina Airport, Hotel Uji Ftohte Tepelene presents an ideal choice for travelers seeking a blend of leisure and adventure in Tepelenë. Whether visiting for business or pleasure, guests are sure to find this hotel a perfect base for exploring the natural beauty and cultural richness of the region.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

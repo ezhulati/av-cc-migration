@@ -1,28 +1,9 @@
----
-title: HOTEL MEGNIAR
-description: The guest rooms at HOTEL MEGNIAR are designed with comfort and convenience in mind. Each room is equipped with a wardrobe, air conditioning, and a flat-screen T
-featuredImage: "/images/accommodation/369667280.jpg"
-language: en
-slug: hotel-megniar
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "HOTEL MEGNIAR"\ndescription: "HOTEL MEGNIAR emerges as a charming retreat in Lushnjë, located a mere 46 km from the iconic Rock of Kavaje."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369667280.jpg?k=2ca59b22d2e2f9bbe0e2e1ca88255e9f3dcc33c714d3ae7ea3e7c6e10ef67f48&o=&hp=1"\nlanguage: en\nslug: hotel-megniar\naddress: "LAGJA 18 TETORI, 9001 Lushnjë, Albania"\ncity: "Lushnjë"\nlocation: "Lushnjë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.92915762\n  lng: 19.70882594\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 41\nratings:\n  overall: 9.2\n  location: 8.7\n  cleanliness: 9.3\n  facilities: 8.8\n  value: 9.4\n  comfort: 9.5\n  staff: 9.4\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369667280.jpg?k=2ca59b22d2e2f9bbe0e2e1ca88255e9f3dcc33c714d3ae7ea3e7c6e10ef67f48&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370775353.jpg?k=e46e627e203709ed58f1813bc97328871342b4113e0e91430d536f13e00027e0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370775350.jpg?k=e995391c1229dcc2182a45406b3a079a81982c9f391b01371e38d69136669680&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407893555.jpg?k=09759f19fe35fe8dc6fd7101d71037505b720f98f8b40f871decfb8728711816&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388286508.jpg?k=d93bc686b6d0caa599bab4ce0ffcbe640773b2a38331f7053f48dc0f267ecdbe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370848749.jpg?k=3be3b3e46d91fd0fe67f7c5f091adc7b8c87aa796d344d8027df4f6e55a497e4&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Room service"\n  - "Restaurant"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Budget Double Room"\n  - "Deluxe Room"\n  - "Budget Double Room"\n  - "Budget Double Room"\nnearbyRestaurants:\n  - "House of Fish Joni 40 m"\n  - "Five lounge bar 1.3 km"\nwhatsNearby:\n  - "Sheshi I Bashkise 1.5 km"\n  - "Divjake-Karavasta National Park 12 km"\nairports:\n  - "Tirana International Airport Mother Teresa 52 km"\n  - "Ohrid Airport 90 km"\nreviews:\n  - name: "Παναγιώτα"\n    country: "Albania"\n    text: "“Very good stuff!! The room was very peaceful and calm..it’s on the road but you don’t hear any cars or something from outside..It’s new and clean!!”"\n  - name: "Arie"\n    country: "Netherlands"\n    text: "“The staff was very nice and helpful. The room was big and very clean. Nice breakfast in the morning in the restaurant. Lushnje is a good place to stay for a few days.”"\n  - name: "Boçi"\n    country: "Belgium"\n    text: "“Very kind people,nice, friendly, very clean.
+I suggest this hotel to everyone who wants to visit the city of Lushnje.
+You will hone find relax and very comfortable place at this hotel.
+Everyone was nice and friendly ☺️
+Muito bom, muito limpo é...”"\nbookingURL: "https://www.booking.com/hotel/al/megniar.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nThe guest rooms at HOTEL MEGNIAR are designed with comfort and convenience in mind. Each room is equipped with a wardrobe, air conditioning, and a flat-screen TV for a homely feel. The private bathrooms are well-appointed with a bidet and complimentary toiletries, ensuring a refreshing stay. Select rooms also feature a cozy seating area, offering guests a little extra space to unwind. To further enhance the guest experience, all rooms are supplied with fresh bed linen and towels.
 
-The guest rooms at HOTEL MEGNIAR are designed with comfort and convenience in mind. Each room is equipped with a wardrobe, air conditioning, and a flat-screen TV for a homely feel. The private bathrooms are well-appointed with a bidet and complimentary toiletries, ensuring a refreshing stay. Select rooms also feature a cozy seating area, offering guests a little extra space to unwind. To further enhance the guest experience, all rooms are supplied with fresh bed linen and towels.
-
-For those who appreciate the outdoors, the hotel boasts a sun terrace, perfect for basking in the warmth or enjoying a quiet moment under the sky.
+For those who appreciate the outdoors, the hotel boasts a sun terrace, perfect for basking in the warmth or enjoying a quiet moment under the sky. 
 
 Located 82 km from Tirana International Mother Teresa Airport, HOTEL MEGNIAR presents an accessible escape for both local and international visitors seeking a blend of comfort, convenience, and attentive service in the heart of Lushnjë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Te Kacua
-description: Upon entering the apartment, guests are greeted with a tastefully furnished space that includes a cozy bedroom, a modern bathroom, a flat-screen TV for entertai
-featuredImage: "/images/accommodation/427206266.jpg"
-language: en
-slug: te-kacua
-location: ""
-amenities: []
-images: []
----
-
-Upon entering the apartment, guests are greeted with a tastefully furnished space that includes a cozy bedroom, a modern bathroom, a flat-screen TV for entertainment, and a dining area ideal for enjoying home-cooked meals prepared in the fully equipped kitchen. The highlight, however, is the terrace that presents breathtaking mountain views, offering a perfect backdrop for morning coffees or evening relaxation.
+---\ntitle: "Te Kacua"\ndescription: "Te Kacua emerges as a serene retreat in the vibrant city of Vlorë, perfectly positioned mere steps from the pristine Beach at Government Villas and a short stroll from the tranquil Liro Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427206266.jpg?k=a94b86ae6b6ef90033aebecc81cd349e6039062c338270cd1c5bd0218efc60ab&o=&hp=1"\nlanguage: en\nslug: te-kacua\naddress: "Rr. Sazani, 9404 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.41772024\n  lng: 19.48831558\nprice: "US$22"\npriceFrom: 22\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427206266.jpg?k=a94b86ae6b6ef90033aebecc81cd349e6039062c338270cd1c5bd0218efc60ab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427206208.jpg?k=18d75aa47bcf09aa34b7e41b9031dd38af125fe670d39cc1128ac6062b2bd674&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427206287.jpg?k=4bc65c65120cea197b372cfa260384c3f96454b624e02d135619793743a811ea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427206324.jpg?k=bddef67b57bbfba373b1f381d714188b0f3e7536d86b3f34f6a6dd639f013722&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427206375.jpg?k=69df5c20e143f81b990c0cab84f816464e9179646ccab47fa72aeac80e0b9cbf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427206432.jpg?k=eb75dcbe59b231249ac5236736aa3189e7163e1eddeb37d367184d6238c13107&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427206271.jpg?k=3efeac5533d18318b7bf2d29463a33bc1bdd7f8eaa0ee0416eb5b92c8eadbcde&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427206317.jpg?k=593714df279256c64487d8a41d7d5c6457f4b494ffb34fba1ceb011ee0b21166&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427206359.jpg?k=a9221d9df2aa47117f9cee2e5b028256ecdc6ffa045283ebc05533768cb11b30&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Movida 200 m"\n  - "Perla E Jonit 250 m"\nnearbyBeaches:\n  - "Beach at Government Villas 200 m"\n  - "Liro Beach 700 m"\n  - "Ri Beach 1.4 km"\n  - "Coco Bongo Beach 1.7 km"\n  - "Sunny Beach 1.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 2.2 km"\n  - "Kuzum Baba 6 km"\n  - "Independence Square 6 km"\nairports:\n  - "Corfu International Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/te-kacua.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nUpon entering the apartment, guests are greeted with a tastefully furnished space that includes a cozy bedroom, a modern bathroom, a flat-screen TV for entertainment, and a dining area ideal for enjoying home-cooked meals prepared in the fully equipped kitchen. The highlight, however, is the terrace that presents breathtaking mountain views, offering a perfect backdrop for morning coffees or evening relaxation.
 
 For those keen to explore, Te Kacua serves as an excellent base. The vibrant Independence Square is just 6.6 km away, while the picturesque Ri Beach and the historic Kuzum Baba are within easy reach. For international travelers, the convenience of being 156 km from Tirana International Mother Teresa Airport adds to the appeal of this property.
 
 With its blend of comfort, convenience, and captivating views, Te Kacua stands out as a top choice for travelers seeking a memorable stay in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

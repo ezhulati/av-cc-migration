@@ -1,28 +1,6 @@
----
-title: Velar Hotel Boutique
-description: Upon entering the inn, visitors are greeted with meticulously designed rooms, each boasting a functional desk space. The attention to detail is evident in the p
-featuredImage: "/images/accommodation/516163936.jpg"
-language: en
-slug: velar-hotel-boutique
-location: ""
-amenities: []
-images: []
----
-
-Upon entering the inn, visitors are greeted with meticulously designed rooms, each boasting a functional desk space. The attention to detail is evident in the private bathrooms, which are well-appointed with showers and complimentary toiletries, ensuring a comfortable stay. For entertainment and comfort, each room is furnished with a flat-screen TV and air conditioning. Select accommodations also feature balconies, offering guests a private outdoor space to relax and unwind. Additionally, the provision of a fridge in every room adds an extra layer of convenience for guests, allowing them to keep beverages and snacks chilled.
+---\ntitle: "Velar Hotel Boutique"\ndescription: "Velar Hotel Boutique stands as a serene oasis in Korçë, a mere stone's throw away from the enchanting Ohrid Lake Springs and the historic Monastery Saint Naum, both located 44 km from the property."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516163936.jpg?k=1f476a02059d23e983ceacc0cb85ff994f00887afe83f6514a5ac6d8765b58ca&o=&hp=1"\nlanguage: en\nslug: velar-hotel-boutique\naddress: "Rruga Ismail Latifllari, 7000 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.6130092\n  lng: 20.77936402\nprice: "US$55"\npriceFrom: 55\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516163936.jpg?k=1f476a02059d23e983ceacc0cb85ff994f00887afe83f6514a5ac6d8765b58ca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516229872.jpg?k=9b31076db40c4c012ba47bd116f4a9dff0a31d79f81bcbb3001b22ae1b62506b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522177049.jpg?k=9f6552bc2a575532acfd881b85162fe70e2b881be68b49b1d72384397d444b76&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516229858.jpg?k=d39daa8cb0d12eccd279583714826d0ebd5098a7f32baaddd56cdaf65a450405&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516235786.jpg?k=47a678b9e03583b35462e3ab00e68f4ae58ba5b431478fc3c0bd62b1bce5eafa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520861065.jpg?k=5983bb02138e4f6c7fa4dd9100dbf2351b63e86fb3f863ebd40beb601b574098&o=&hp=1"\namenities:\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Double Room (2 Adults + 1 Child)"\n  - "Family Room"\n  - "Deluxe Double Room"\nnearbyRestaurants:\n  - "Joen 100 m"\n  - "Benvenuti in Calabria 200 m"\nwhatsNearby:\n  - "Parku Vangjush Mio 350 m"\n  - "Parku Rinia 350 m"\n  - "Sheshi Patriku Joasaf 400 m"\n  - "Parku Themistokli Gërmenji 650 m"\n  - "Field of Tears 700 m"\n  - "Parku Rinia 1.6 km"\n  - "Sheshi Panxhar 6 km"\n  - "Sheshi Koço Plaku 12 km"\n  - "Sheshi Penetori 13 km"\nairports:\n  - "Kastoria National Airport 45 km"\n  - "Ohrid Airport 61 km"\n  - "Kozani National Airport 96 km"\nreviews:\n  - name: "Arber"\n    country: "Albania"\n    text: "“Everything.Staff is super polite and helpful all the time.
+Will comeback for sure.”"\nbookingURL: "https://www.booking.com/hotel/al/velar-boutique.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nUpon entering the inn, visitors are greeted with meticulously designed rooms, each boasting a functional desk space. The attention to detail is evident in the private bathrooms, which are well-appointed with showers and complimentary toiletries, ensuring a comfortable stay. For entertainment and comfort, each room is furnished with a flat-screen TV and air conditioning. Select accommodations also feature balconies, offering guests a private outdoor space to relax and unwind. Additionally, the provision of a fridge in every room adds an extra layer of convenience for guests, allowing them to keep beverages and snacks chilled.
 
 Morning at Velar Hotel Boutique begins with a delightful buffet breakfast, promising a perfect start to the day with a variety of choices to suit all tastes.
 
 For travelers exploring the region or those on the move, the proximity of Kastoria National Airport, just 72 km away, makes Velar Hotel Boutique an ideal choice for both leisure and business trips. This boutique hotel not only promises a restful stay but also positions itself as a gateway to exploring the rich cultural and natural heritage of Korçë and its surroundings.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

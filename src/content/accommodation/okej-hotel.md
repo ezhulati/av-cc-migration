@@ -1,28 +1,6 @@
----
-title: OKEJ Hotel
-description: Guests are welcomed into rooms that are thoughtfully equipped with modern amenities including a kettle, a private bathroom with a bidet, complimentary toiletrie
-featuredImage: "/images/accommodation/451780692.jpg"
-language: en
-slug: okej-hotel
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into rooms that are thoughtfully equipped with modern amenities including a kettle, a private bathroom with a bidet, complimentary toiletries, a flat-screen TV, and air conditioning for utmost comfort. Select rooms also offer the luxury of a balcony, allowing guests to soak in the breathtaking surroundings in privacy.
+---\ntitle: "OKEJ Hotel"\ndescription: "OKEJ Hotel emerges as a prime choice for travelers seeking a serene getaway in Golem, just a stone's throw away from the pristine Mali I Robit Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451780692.jpg?k=5349780c4765bd412d2354d2e03a8d581137b98e3f12756d391604f017372cad&o=&hp=1"\nlanguage: en\nslug: okej-hotel\naddress: "Lagjja Mali Robit, Rruga Bulevardi Pishave, Objekt ne parcelen Nr.46, 1791 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.2340889\n  lng: 19.51451857\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 72\nratings:\n  overall: 8.2\n  location: 9.6\n  cleanliness: 7.8\n  facilities: 7\n  value: 8\n  comfort: 7.5\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451780692.jpg?k=5349780c4765bd412d2354d2e03a8d581137b98e3f12756d391604f017372cad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451780655.jpg?k=57673ba11f5fede1d82fe8e159f05c047d8ffd89e7361eff8d63fc99d04a8317&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449751881.jpg?k=f43248ae99d981aa831aaa5bf1c326262cf246f37daa1e6bd07052dcac6f8914&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451780735.jpg?k=b37711383968fc66ef02c0981634101d418f27f56d752f84945c8c303a01a2a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470178432.jpg?k=0519f7644f3795550be6a6a568377e835f65dc07f14ffdb0fea4f8864366c15c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477724418.jpg?k=ae816ae9a9bf8556340762d8e03eaa7b19d91ca29fbf28a7ffc4fb38f1ea7f87&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Airport shuttle"\n  - "Room service"\n  - "Free WiFi"\n  - "Free parking"\n  - "Restaurant"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Very good breakfast"\nroomTypes:\n  - "Twin Room with Private Bathroom"\n  - "Family Room with Balcony"\n  - "Triple Room with Balcony"\n  - "Triple Room with Sea View"\nnearbyRestaurants:\n  - "Fishinn 2 150 m"\n  - "Ujvara Hotel & Bar Restorant Piceri 250 m"\nnearbyBeaches:\n  - "Mali I Robit Beach 0 m"\n  - "Qerret Beach 450 m"\n  - "Golem Beach 1.6 km"\n  - "Shkëmbi i Kavajës Beach 3.5 km"\n  - "Durres Beach 6 km"\nwhatsNearby:\n  - "Durres Amphiteatre 10 km"\n  - "1. Maj 11 km"\n  - "Wine Dhe Pooh 11 km"\n  - "Yje Dhe Hena 11 km"\n  - "Sheshi Demokracia 11 km"\n  - "Bekimi 11 km"\n  - "Sotir Noka 11 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Megan"\n    country: "United Kingdom"\n    text: "“The staff at OKEJ hotel are so amazing, they go above and beyond to make sure you have a fantastic stay. the food they serve in their restaurant is fresh and delicious!! And the location is gorgeous, right on the beach. Everyone at OKEJ made our...”"\n  - name: "Anonymous"\n    country: "North Macedonia"\n    text: "“The staff vas very kind Breakfast and the food from the restaurant excelent
+Beautiful beach and bar”"\n  - name: "Eugen"\n    country: "Romania"\n    text: "“Located on the seafront with its private beach and an elegant restaurant, the hotel offers everything necessary for a successful holiday.”"\nbookingURL: "https://www.booking.com/hotel/al/ok-golem.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into rooms that are thoughtfully equipped with modern amenities including a kettle, a private bathroom with a bidet, complimentary toiletries, a flat-screen TV, and air conditioning for utmost comfort. Select rooms also offer the luxury of a balcony, allowing guests to soak in the breathtaking surroundings in privacy.
 
 OKEJ Hotel prides itself on exceptional guest services, including a 24-hour front desk, convenient airport transfers, attentive room service, and seamless access to free WiFi, making every stay as comfortable and hassle-free as possible.
 
 For those looking to explore beyond the beach, the historic Skanderbeg Square is located 48 km away, offering a glimpse into the rich culture of the area, while the Rock of Kavaje, just 6.3 km from the hotel, presents an opportunity for an adventurous outing. The nearest airport, Tirana International Mother Teresa Airport, is 42 km away, making OKEJ Hotel an accessible retreat for both local and international travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

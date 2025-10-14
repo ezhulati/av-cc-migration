@@ -1,26 +1,3 @@
----
-title: Rudi Xh apartamant
-description: This air-conditioned haven boasts a generous layout that includes two bedrooms, two living rooms, and a balcony that invites guests to soak in the serene sea vi
-featuredImage: "/images/accommodation/507920104.jpg"
-language: en
-slug: rudi-xh-apartamant
-location: ""
-amenities: []
-images: []
----
-
-This air-conditioned haven boasts a generous layout that includes two bedrooms, two living rooms, and a balcony that invites guests to soak in the serene sea views. The interior is thoughtfully equipped with modern amenities such as a flat-screen TV, a fully equipped kitchen with a dishwasher and an oven, and a bathroom featuring a walk-in shower. For those who appreciate the finer details, the provision of towels and bed linen enhances the comfort of their stay.
+---\ntitle: "Rudi Xh apartamant"\ndescription: "Rudi Xh Apartment emerges as a serene retreat in Orikum, offering guests a unique blend of comfort and scenic beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507920104.jpg?k=d9becfeae7143efdd6111fbe545280be46cc8a69dfacab1589c30a93e297941d&o=&hp=1"\nlanguage: en\nslug: rudi-xh-apartamant\naddress: "Rruga martiret e dukatit, Orikum, Albania"\ncity: "Orikum"\nlocation: "Orikum"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.33075266\n  lng: 19.47444587\nprice: "US$63"\npriceFrom: 63\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507920104.jpg?k=d9becfeae7143efdd6111fbe545280be46cc8a69dfacab1589c30a93e297941d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507920153.jpg?k=27a9a66b051f8e92b9463e82ffe147cc7e8aee792512e4e198bc4bcab345e63c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507920178.jpg?k=f2709497191d1b7877a6676a312ef5f9a2a307ee6c54a1572d953b27f7a950c9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507920174.jpg?k=17ae60662925bfc7ad1fe09ee03742002b6043e443c07d6c1ed74e3e3d194fb0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507920136.jpg?k=bc95c6d14e0f952261da8009b9ca0410cc41177b12df9bc1d9ed4a346eddced5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507920146.jpg?k=72c2440f68b301d327bb32bec915beca79624a22c520009aa3c1e3199eb3f8ba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507920141.jpg?k=a8b799ad3d4fa63d5a544ade5d2d99798754623435130ffe36add735ca4a2f45&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507920169.jpg?k=c8e18a9c0fdfac1b26811ba02720ed1868530c24c7aea262947d1c0b5f3f8c45&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507920128.jpg?k=ddc2f330fad92766a990f0ea3f47caeb5eaca9b3b12c506ad6fd5e45e9940230&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Prodhime Deti / Fish Shoop te Poli 150 m"\n  - "Restorant M. Mustafaraj 200 m"\nnearbyBeaches:\n  - "Nettuno Beach 800 m"\n  - "Baro Beach 1.2 km"\n  - "Orikum Beach 1.5 km"\n  - "Al Breeze Beach 1.8 km"\n  - "Radhimë Beach 2.5 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 12 km"\n  - "Llogora National Park 13 km"\n  - "Kuzum Baba 15 km"\n  - "Independence Square 16 km"\nairports:\n  - "Corfu International Airport 88 km"\nbookingURL: "https://www.booking.com/hotel/al/rudi-xh-apartamant.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nThis air-conditioned haven boasts a generous layout that includes two bedrooms, two living rooms, and a balcony that invites guests to soak in the serene sea views. The interior is thoughtfully equipped with modern amenities such as a flat-screen TV, a fully equipped kitchen with a dishwasher and an oven, and a bathroom featuring a walk-in shower. For those who appreciate the finer details, the provision of towels and bed linen enhances the comfort of their stay.
 
 Outdoor enthusiasts will be delighted with the apartment's terrace and outdoor dining area, perfect for enjoying meals with a view. Despite its tranquil location, Rudi Xh Apartment remains within easy reach of significant landmarks, including Independence Square and the historic Kuzum Baba, both located 18 km away. For international travelers, the Tirana International Mother Teresa Airport is 167 km from the property, making it an accessible choice for both local and overseas visitors seeking a peaceful escape by the Albanian coast.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

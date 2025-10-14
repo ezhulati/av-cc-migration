@@ -1,28 +1,5 @@
----
-title: Sion Sarande Apartment 33
-description: The apartment itself is a haven of space and light, boasting two bedrooms, a cozy living room, and a kitchen equipped with modern amenities including an oven an
-featuredImage: "/images/accommodation/495594557.jpg"
-language: en
-slug: sion-sarande-apartment-33
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of space and light, boasting two bedrooms, a cozy living room, and a kitchen equipped with modern amenities including an oven and a toaster. Every detail, from the plush towels to the crisp bed linen, has been thoughtfully selected to ensure guests feel at home.
+---\ntitle: "Sion Sarande Apartment 33"\ndescription: "Sion Sarande Apartment 33 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495594557.jpg?k=4418b1bef18d768fa5f68a92da2e489ba86e292891070b67a5d5cb4dc2674dfd&o=&hp=1"\nlanguage: en\nslug: sion-sarande-apartment-33\naddress: "Rruga 40 Shenjtorët, 9700 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87279621\n  lng: 20.0143498\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495594557.jpg?k=4418b1bef18d768fa5f68a92da2e489ba86e292891070b67a5d5cb4dc2674dfd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495594542.jpg?k=880593939f9b0abacc277ee3f7ba099517a392c4974741b07125144f36561f91&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495594564.jpg?k=1628a438a67f282050672f6ee832dd986f71bb5e3eeb2c208bf2473847a7c217&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495594559.jpg?k=5658f4ffb352350257b5d403327fa4de4c1377fc946b955230024f38e536fd91&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495594562.jpg?k=cce3f3812569598a69e885bce1e6185a18d66c9f2fbc723d3b58631b01758158&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495594523.jpg?k=02328b60717f8c1acb023d5e573b77a708df3a577be38f9d6f4aef680ed6484f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495594537.jpg?k=2fa2c860b5fe78631b076f41d5770fff7f7c96b3f369f916924e1939d78531c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495594565.jpg?k=27806340f6518696a7388023251756f3a943a0164ad3dea1c36878855b224f53&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495594518.jpg?k=dd61cdb2d5b7b1994b95baabd31ceee4c79da9b8a93160b197824293c1f9497b&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Tunnel Bar and 7 m"\n  - "Le 5 Stelle & Pizzeria 20 m"\nnearbyBeaches:\n  - "Saranda City Beach 100 m"\n  - "La Petite Beach 450 m"\n  - "Maestral Beach 650 m"\n  - "Sarande Main Beach 1.1 km"\n  - "VIP Beach 1.6 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.8 km"\n  - "Butrint National Park 2.7 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/sion-sarande-apartment-33.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of space and light, boasting two bedrooms, a cozy living room, and a kitchen equipped with modern amenities including an oven and a toaster. Every detail, from the plush towels to the crisp bed linen, has been thoughtfully selected to ensure guests feel at home.
 
 For those looking to explore the wider area, the apartment offers the convenience of a car rental service, making it easy to venture out to the nearby VIP Beach or the historic Butrint National Park, located just 16 km away. Additionally, the property provides a paid airport shuttle service to Ioannina Airport, ensuring a seamless travel experience for international guests.
 
 With free WiFi available throughout, guests at Sion Sarande Apartment 33 are guaranteed a stay that combines the comforts of home with the excitement of travel. Whether it's soaking up the sun on the nearby beaches or enjoying the local cuisine and culture, this apartment serves as the perfect base for an unforgettable Sarandë adventure.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

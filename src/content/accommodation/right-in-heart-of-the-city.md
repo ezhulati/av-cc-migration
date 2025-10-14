@@ -1,26 +1,3 @@
----
-title: right in heart of the city
-description: Guests are treated to the luxury of modern living spaces equipped with air conditioning, private bathrooms, and an array of amenities designed for comfort and c
-featuredImage: "/images/accommodation/479450896.jpg"
-language: en
-slug: right-in-heart-of-the-city
-location: ""
-amenities: []
-images: []
----
-
-Guests are treated to the luxury of modern living spaces equipped with air conditioning, private bathrooms, and an array of amenities designed for comfort and convenience. Each room boasts free WiFi, a washing machine, and a flat-screen TV, ensuring a stay that combines relaxation with the comforts of home. For those evenings when dining out doesn't appeal, the option to prepare a meal in the well-appointed kitchen adds a touch of homeliness to the urban experience.
+---\ntitle: "right in heart of the city"\ndescription: "Discover the epitome of urban convenience and comfort at \"Right in the Heart of the City,\" a premier accommodation choice located just 1."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479450896.jpg?k=ffc132e826c0c44456153bb1f9f5ccf089fb5fb7ed51e82ff773c7e27f91a454&o=&hp=1"\nlanguage: en\nslug: right-in-heart-of-the-city\naddress: "Rruga Nikolla Tupe 3, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31941037\n  lng: 19.81443375\nprice: "US$71"\npriceFrom: 71\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479450896.jpg?k=ffc132e826c0c44456153bb1f9f5ccf089fb5fb7ed51e82ff773c7e27f91a454&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479451118.jpg?k=1006854497b772533d0322a294fcdf3e735a23499ae902a7289248e23f972433&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479451149.jpg?k=316d3f716f06b74070ac029dc08ba40795f5699caa86e36739fcfc222cd434db&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479451005.jpg?k=1b8faf29ed42fc9bab6cdfd84ecc379b3882d057950dede5f3ecaac4ee56115c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479451047.jpg?k=ea30d9870725a60fe668f882ff80538438351bef83b06411786dd25168c05d8b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479451171.jpg?k=d5e6b923fc704144a3347ddfc847d010d887785e4067496bcc5e0215e37996db&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "Two-Bedroom Apartment"\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 900 m"\n  - "Skanderbeg Square 1 km"\n  - "Clock Tower Tirana 1 km"\n  - "National Museum of History Albania 1.1 km"\n  - "Grand Park of Tirana 1.2 km"\n  - "Tanners' Bridge 1.2 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Fit Food 20 m"\n  - "BukKrypE Zemer 30 m"\nwhatsNearby:\n  - "Former Residence of Enver Hoxha 300 m"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 350 m"\n  - "Shesh Rekreativ 450 m"\n  - "Parku I Madh I Tiranës (Grand Park) 600 m"\n  - "Sheshi Rekreativ Komuna e Parisit 650 m"\n  - "Rinia Park 650 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 700 m"\n  - "Sheshi Rekreativ Piramida 750 m"\n  - "Parku Rinia 800 m"\n  - "House of Leaves 850 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/right-in-heart-of-the-city.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests are treated to the luxury of modern living spaces equipped with air conditioning, private bathrooms, and an array of amenities designed for comfort and convenience. Each room boasts free WiFi, a washing machine, and a flat-screen TV, ensuring a stay that combines relaxation with the comforts of home. For those evenings when dining out doesn't appeal, the option to prepare a meal in the well-appointed kitchen adds a touch of homeliness to the urban experience.
 
 "Right in the Heart of the City" is also strategically located near other significant attractions, including the Former Residence of Enver Hoxha, Postbllok - Checkpoint Monument, and the Pyramid of Tirana, offering guests an unparalleled opportunity to explore the city's rich history and architectural marvels. With the Tirana International Mother Teresa Airport just 16 km away, accessibility is another highlight, making this property a top choice for both leisure and business travelers seeking a seamless and enriching stay in Albania's bustling capital.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

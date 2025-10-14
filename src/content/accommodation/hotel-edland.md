@@ -1,15 +1,5 @@
----
-title: Hotel Edland
-description: Rooms at Hotel Edland are thoughtfully designed with the modern traveler in mind, featuring air conditioning for those warm Vlorë days, and complimentary WiFi t
-featuredImage: "/images/accommodation/484020779.jpg"
-language: en
-slug: hotel-edland
-location: ""
-amenities: []
-images: []
----
-
-Rooms at Hotel Edland are thoughtfully designed with the modern traveler in mind, featuring air conditioning for those warm Vlorë days, and complimentary WiFi to keep guests connected. Each room boasts a balcony, presenting captivating city views that promise to enchant every guest.
+---\ntitle: "Hotel Edland"\ndescription: "Hotel Edland stands out in Vlorë for its exceptional blend of comfort and convenience, offering guests a unique stay experience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484020779.jpg?k=f260d1a78dfaee671e761c70d8e869315d50de6c490a39c6c25ff6945607877b&o=&hp=1"\nlanguage: en\nslug: hotel-edland\naddress: "L. Pavaresia Rr.Cajupi, 0331 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.45646976\n  lng: 19.48532984\nprice: "US$40"\npriceFrom: 40\nstarRating: 3\nrating: 8.1\nratingWords: "Very Good"\nnumberOfReviews: 61\nratings:\n  overall: 8.1\n  location: 9.1\n  cleanliness: 8.1\n  facilities: 7.1\n  value: 8.2\n  comfort: 8\n  staff: 9\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484020779.jpg?k=f260d1a78dfaee671e761c70d8e869315d50de6c490a39c6c25ff6945607877b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361394193.jpg?k=7e81b80b0457e7fa4ad909edb66f327a5ace7a7a47d05ecf453923bec7bfa498&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473493137.jpg?k=b8b915278af47ccd42bcdd5266f438f9eaaba3b42baa0aa33d05be88857d196b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376713208.jpg?k=8df80a3b2480903fe18d265be6200841303b1e5695a911f1668b7ee180c0c3d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481054078.jpg?k=33ea153d58cdc114602fd7a3fa64920eeb39b28f0f0266f60b82a7d97051957e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376712912.jpg?k=cd21c24523241d0b2fdf5d34b44845879814176f9dcdeae50c673b386da26e33&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Bar"\nroomTypes:\n  - "Double Room"\n  - "Twin Room with Balcony"\n  - "Triple Room with Balcony"\nnearbyRestaurants:\n  - "Sofra e Lakrorit Ne Vlore 40 m"\n  - "Teos Bistro and Barbecue 100 m"\nnearbyBeaches:\n  - "Vjetër Beach 550 m"\n  - "Vlore Beach 1.2 km"\n  - "Ri Beach 2.4 km"\n  - "Beach at Government Villas 4 km"\n  - "Liro Beach 4.6 km"\nwhatsNearby:\n  - "Kuzum Baba 1.4 km"\n  - "Independence Square 1.7 km"\n  - "Scooby Doo Vlore 2.4 km"\nreviews:\n  - name: "Theresa"\n    country: "Albania"\n    text: "“Very nice people, perfect location! I would really recommend a stay, we liked the hotel a lot and the people are always happy to help and very friendly :)”"\n  - name: "Andy"\n    country: "Netherlands"\n    text: "“Na een prachtige aankomst per boot, word je nogmaals getrakteerd op een hartelijk welkom in dit hotel. De kamer was ruim, een goed bed en een balkon met uitzicht. Het heeft al mijn verwachtingen overtroffen!
+Dank je wel Ed en familie.”"\n  - name: "Tomas"\n    country: "Argentina"\n    text: "“La propiedad estaba muy bien ubicada a una cuadra del centro de la ciudad, pasa el bus a una cuadra si no quieres caminar hasta la playa. Estaba muy limpio y el personal muy atento! Volveria a hospedarme”"\nbookingURL: "https://www.booking.com/hotel/al/edland.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nRooms at Hotel Edland are thoughtfully designed with the modern traveler in mind, featuring air conditioning for those warm Vlorë days, and complimentary WiFi to keep guests connected. Each room boasts a balcony, presenting captivating city views that promise to enchant every guest.
 
 Accommodations are well-equipped with a flat-screen TV offering satellite channels, a kitchen, and a dining area, catering to the needs of guests looking for the comforts of home. A fridge in every room adds an extra layer of convenience, making stays here both comfortable and practical.
 
@@ -18,15 +8,3 @@ The hotel's reception is staffed by a multilingual team, fluent in Greek, Englis
 Located in close proximity to several of Vlorë's must-see attractions, including Vjetër Beach, Vlore Beach, and Independence Square, Hotel Edland serves as an ideal base for exploring the city's rich cultural landscape. For those traveling from afar, the Tirana International Mother Teresa Airport is 150 km away, making the hotel accessible for both domestic and international travelers.
 
 Hotel Edland emerges as a top choice for those seeking a blend of comfort, convenience, and a touch of local charm during their stay in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

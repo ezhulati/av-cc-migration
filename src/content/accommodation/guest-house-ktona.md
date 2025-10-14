@@ -1,28 +1,9 @@
----
-title: Guest House Ktona
-description: The accommodations include a well-equipped kitchen featuring a refrigerator and kitchenware, complemented by an outdoor dining area for guests to savor meals am
-featuredImage: "/images/accommodation/photojpg64-14.png"
-language: en
-slug: guest-house-ktona
-location: ""
-amenities: []
-images: []
----
-
-The accommodations include a well-equipped kitchen featuring a refrigerator and kitchenware, complemented by an outdoor dining area for guests to savor meals amidst nature.
+---\ntitle: "Guest House Ktona"\ndescription: "Guest House Ktona emerges as a serene retreat located in the picturesque Dardhë area of Korçë County, boasting a terrace that offers breathtaking mountain views."\nfeaturedImage: "https://lh5.googleusercontent.com/-zCmqqQp5PZg/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYa-oKlzhSVyTqGHE4ogB4_dVwM8Q/s96-c/photo.jpg64"\nlanguage: en\nslug: guest-house-ktona\naddress: "Dardhe, 7001 Dardhë, Albania"\ncity: "Dardhë"\nlocation: "Dardhë"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.5193454\n  lng: 20.8258724\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 35\nratings:\n  overall: 9.4\n  location: 9.7\n  cleanliness: 9.4\n  facilities: 9.3\n  value: 9.1\n  comfort: 9.3\n  staff: 9.6\n  wifi: 0\nimages:\n  - "https://lh5.googleusercontent.com/-zCmqqQp5PZg/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYa-oKlzhSVyTqGHE4ogB4_dVwM8Q/s96-c/photo.jpg64"\n  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://cf.bstatic.com/xdata/images/xphoto/square64/129591728.webp?k=a11f502ad7ab6df6da6ee9f701142ddcf14782f4c132af14c7c2b91cf2482172&o=?t=1629815059"\n  - "https://cf.bstatic.com/static/img/flags/12/gr/da7e6131cc83f867d8f44137a902afce81580e57.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"\n  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"\n  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"\n  - "https://lh3.googleusercontent.com/a-/AOh14GjydZNbHC9E6LjvORm_7U5bJYPWK1Cj3nhMIsH1nw=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"\n  - "https://cf.bstatic.com/static/img/flags/12/cz/331344fc12453ef26747d18151eaa5497dc651e9.png"\n  - "https://graph.facebook.com/v2.9/1768486619/picture?type=square&height=64&width=64"\nroomTypes:\n  - "Double Room"\nnearbyRestaurants:\n  - "Taverna Iliri 150 m"\n  - "Hotel Gjuetari 300 m"\nwhatsNearby:\n  - "Sheshi Patriku Joasaf 11 km"\n  - "Parku Vangjush Mio 12 km"\n  - "Parku Rinia 12 km"\n  - "Parku Themistokli Gërmenji 12 km"\n  - "Field of Tears 12 km"\n  - "Parku Rinia 12 km"\n  - "Sheshi Koço Plaku 12 km"\n  - "Sheshi Panxhar 16 km"\nairports:\n  - "Kastoria National Airport 38 km"\n  - "Ohrid Airport 72 km"\n  - "Kozani National Airport 89 km"\nreviews:\n  - name: "Magdalena"\n    country: "Poland"\n    text: "“Amazing room with everything you need and more. Great dinner, fantastic owners. Fantastic view.”"\n  - name: "Kelmend"\n    country: "Albania"\n    text: "“Amazing stay,
+The lodge exceeded our expectations.
+The hosts were very welcoming.
+We couldn't have chosen a better place to spend our days.
+We would definitely recommend it to everyone looking to spend some days in the beautiful village of Dardhe.”"\n  - name: "Kevin"\n    country: "Greece"\n    text: "“This is a very special and very unique little cottage, complete with private terrace, log burner and really friendly owners.”"\nbookingURL: "https://www.booking.com/hotel/al/guest-house-ktona.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe accommodations include a well-equipped kitchen featuring a refrigerator and kitchenware, complemented by an outdoor dining area for guests to savor meals amidst nature.
 
 For those visiting in the winter, the surrounding region becomes a playground for winter sports enthusiasts, offering an array of activities to keep guests entertained.
 
 Situated 68 km from Kastoria National Airport, Guest House Ktona presents a perfect blend of comfort and convenience for travelers seeking a peaceful getaway with a touch of adventure.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

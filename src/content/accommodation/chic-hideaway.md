@@ -1,28 +1,5 @@
----
-title: Chic hideaway
-description: The apartment itself is a haven of modern comforts. Guests can enjoy the convenience of free WiFi, a flat-screen TV for entertainment, and a washing machine for
-featuredImage: "/images/accommodation/485855349.jpg"
-language: en
-slug: chic-hideaway
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of modern comforts. Guests can enjoy the convenience of free WiFi, a flat-screen TV for entertainment, and a washing machine for longer stays. The fully equipped kitchen, featuring a minibar, allows for the easy preparation of meals, ensuring a home-away-from-home experience. Importantly, the accommodation maintains a non-smoking policy, ensuring a clean and fresh environment for all guests.
+---\ntitle: "Chic hideaway"\ndescription: "Chic Hideaway offers a refreshing retreat in the heart of Tirana, providing guests with a unique blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485855349.jpg?k=b1bc161b36424fb1b1c69684c94874c9d209df70fd848eff659802eff9908371&o=&hp=1"\nlanguage: en\nslug: chic-hideaway\naddress: "Rruga Androniqi Zengo Antoniu, Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.336296\n  lng: 19.78860178\nprice: "US$49"\npriceFrom: 49\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485855349.jpg?k=b1bc161b36424fb1b1c69684c94874c9d209df70fd848eff659802eff9908371&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500122062.jpg?k=1e6d59cb62d38f1aed99dfcf9274abdb93b9d678ad5d6c044541055f8e29f663&o=&hp=1"\namenities:\n  - "Private parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "National Museum of History Albania 2.5 km"\n  - "House of Leaves 2.6 km"\n  - "Skanderbeg Square 2.7 km"\n  - "Clock Tower Tirana 2.8 km"\n  - "Rinia Park 2.8 km"\n  - "National Gallery of Arts Tirana 2.9 km"\n  - "Former Residence of Enver Hoxha 2.9 km"\n  - "Tanners' Bridge 3.3 km"\n  - "Grand Park of Tirana 4.1 km"\n  - "Bunk'Art 1 Museum 6 km"\nnearbyRestaurants:\n  - "Zgara Darey 200 m"\n  - "Napoli 300 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Lord Bajron 400 m"\n  - "Shesh Rekreativ Yzberisht 750 m"\n  - "Park Lojrash 750 m"\n  - "Sheshi Rekreativ Parku 1Km 950 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 1.4 km"\n  - "Sheshi Rekreativ Don Bosko 1.4 km"\n  - "Sheshi Rekreativ Mine Peza 1.5 km"\n  - "Sheshi Rekreativ Pallati me Shigjeta 1.6 km"\n  - "Sheshi Rekreativ Sali Butka 1.7 km"\n  - "Sheshi Rekreativ Shefqet Musaraj 1.8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 9 km"\n  - "Ohrid Airport 82 km"\nbookingURL: "https://www.booking.com/hotel/al/chic-hideaway.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a haven of modern comforts. Guests can enjoy the convenience of free WiFi, a flat-screen TV for entertainment, and a washing machine for longer stays. The fully equipped kitchen, featuring a minibar, allows for the easy preparation of meals, ensuring a home-away-from-home experience. Importantly, the accommodation maintains a non-smoking policy, ensuring a clean and fresh environment for all guests.
 
 For those looking to venture further, the Rock of Kavaje is 40 km away, offering an excellent day trip opportunity, while the House of Leaves, located just 2.9 km from the property, presents a fascinating visit. Conveniently, Tirana International Mother Teresa Airport is only 11 km away, making Chic Hideaway an ideal choice for both short visits and extended stays in Tirana. Though private parking is available at an extra charge, the ease of access to local attractions and the airport more than compensates for this.
 
 In summary, Chic Hideaway in Tirana is a standout choice for travelers seeking a blend of comfort, convenience, and the opportunity to immerse themselves in the local culture and history.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,7 @@
----
-title: Casa Mare
-description: Each apartment at Casa Mare is a testament to comfort and convenience, equipped with air conditioning, a fully functional kitchen featuring an oven, toaster, an
-featuredImage: "/images/accommodation/523336531.jpg"
-language: en
-slug: casa-mare
-location: ""
-amenities: []
-images: []
----
-
-Each apartment at Casa Mare is a testament to comfort and convenience, equipped with air conditioning, a fully functional kitchen featuring an oven, toaster, and kettle, and the luxury of a private bathroom outfitted with a bidet, hairdryer, and complimentary toiletries. The attention to detail extends to the provision of bed linen and towels, ensuring a stay that combines the comforts of home with the pampering of a hotel.
+---\ntitle: "Casa Mare"\ndescription: "Casa Mare emerges as a prime choice for travelers seeking both the tranquility of Coco Bongo Beach and the vibrancy of Sunny Beach, conveniently located within a short stroll from La Playa Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523336531.jpg?k=0fc9d0b804fc69332bf73736f248e8f375df3a54f8e678a852f9bfc4b345f12b&o=&hp=1"\nlanguage: en\nslug: casa-mare\naddress: "SH8, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4013783\n  lng: 19.4806987\nprice: "US$88"\npriceFrom: 88\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523336531.jpg?k=0fc9d0b804fc69332bf73736f248e8f375df3a54f8e678a852f9bfc4b345f12b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523347041.jpg?k=303ffe3d8cd27cd1b7e9c5c1cc505cdfffdfca03c4a26e10fee708e169dfc21b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523346144.jpg?k=2516b9c3cce0a1a1eede681002a95d903deb29ec16450583a0e3b7d0d6186bed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523346142.jpg?k=07405d77a8a1116b0b508336f2e6b895425000019794b5186c113d1d186b7ceb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523335857.jpg?k=c3a2a2d70e9127022ac0ca7009ad2eb9d300b6196c50ca1a3b46bf9fc176dc79&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523331753.jpg?k=853fcc002cd5fccaf220806d0a4f7bb535621959102a04a6a0eaf9d6bbe35739&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "RESTORANT DIONS 200 m"\n  - "Nobus Terrace 350 m"\nwhatsNearby:\n  - "Scooby Doo Vlore 4.1 km"\n  - "Kuzum Baba 7 km"\n  - "Independence Square 8 km"\n  - "Llogora National Park 20 km"\nairports:\n  - "Corfu International Airport 95 km"\nbookingURL: "https://www.booking.com/hotel/al/casa-mare-vlore-county.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach apartment at Casa Mare is a testament to comfort and convenience, equipped with air conditioning, a fully functional kitchen featuring an oven, toaster, and kettle, and the luxury of a private bathroom outfitted with a bidet, hairdryer, and complimentary toiletries. The attention to detail extends to the provision of bed linen and towels, ensuring a stay that combines the comforts of home with the pampering of a hotel.
 
 The allure of Casa Mare is further enhanced by the availability of free WiFi across the premises, with select units boasting terraces that invite guests to unwind in the privacy of their accommodation. The distinct advantage of a private entrance to each apartment underscores the complex's commitment to privacy and exclusivity.
 
 Situated a mere 8.9 km from the historical Kuzum Baba and 9.1 km from the vibrant Independence Square, Casa Mare offers an ideal base for exploring the rich cultural tapestry of Vlorë. For those venturing further afield, Tirana International Mother Teresa Airport is located 158 km away, making Casa Mare an accessible haven for both local and international travelers.
 
 In summary, Casa Mare presents a compelling proposition for guests in search of a serene yet convenient beachside getaway, backed by modern amenities and thoughtful touches that promise a memorable stay.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

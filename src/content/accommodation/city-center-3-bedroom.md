@@ -1,26 +1,3 @@
----
-title: City Center 3 Bedroom
-description: "This apartment is thoughtfully designed with a spacious layout that includes a single bedroom, a fully equipped kitchen for those who love to prepare..."
-featuredImage: "/images/accommodation/479272805.jpg"
-language: en
-slug: city-center-3-bedroom
-location: ""
-amenities: []
-images: []
----
-
-This apartment is thoughtfully designed with a spacious layout that includes a single bedroom, a fully equipped kitchen for those who love to prepare their own meals, and two well-appointed bathrooms. For added convenience, towels and bed linen are readily available, allowing for a hassle-free stay. It's important to note that this is a non-smoking accommodation, catering to those who prioritize a clean and fresh living space.
+---\ntitle: "City Center 3 Bedroom"\ndescription: "City Center 3 Bedroom offers a refreshing stay in the heart of Gjirokastër, boasting air-conditioned accommodations complete with a private balcony."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479272805.jpg?k=207d4718e8766052a6cbc062c3bf56329feae143fedd34f1a05ea42084bcdae5&o=&hp=1"\nlanguage: en\nslug: city-center-3-bedroom\naddress: "Rruga Studenti, Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.08088996\n  lng: 20.13692234\nprice: "US$87"\npriceFrom: 87\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479272805.jpg?k=207d4718e8766052a6cbc062c3bf56329feae143fedd34f1a05ea42084bcdae5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479272894.jpg?k=04bd0e62ecdf9997a5ae89bc11dc8c5cbd75a0702f2846ef1889ffaebf09fde7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479272924.jpg?k=b2c0b7536c5d6cdcb5e9a7bd0b1b8937a02628122085a1d6c20680d0bdcd82da&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479272878.jpg?k=15150ba4b3d36b9230a56cdc3846a37f49d28a285d1026e334b08f4d7058a09c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479272909.jpg?k=9f5eceaf63b7b1160ac51a94d1c91e75c45b68c0ae47c6d0acdc003c62fa1abd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479272915.jpg?k=5923c561c630e8d4a75328e7b56ebcddf44175eb07b4f74284a26c002b99d9a4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479272875.jpg?k=1ccd80f1cf5f89fc68df1d54c5a0d254852f1fef4d9683a16c81d94c29dc479f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479272931.jpg?k=6075cb5b6705192805874135dfa2187b1e5af6fbfbbc49f6e9f115aa3c64d851&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479272870.jpg?k=8d169fd3d032e254f15c8511f83d90d3a2d48e5c757e946fa1dfe73f5e4399e7&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Imago 30 m"\n  - "Piazza la Crepa 50 m"\nairports:\n  - "Corfu International Airport 56 km"\n  - "Ioannina Airport 71 km"\nbookingURL: "https://www.booking.com/hotel/al/city-center-3-bedroom.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis apartment is thoughtfully designed with a spacious layout that includes a single bedroom, a fully equipped kitchen for those who love to prepare their own meals, and two well-appointed bathrooms. For added convenience, towels and bed linen are readily available, allowing for a hassle-free stay. It's important to note that this is a non-smoking accommodation, catering to those who prioritize a clean and fresh living space.
 
 Situated just 44 km away from the serene Zaravina Lake and 83 km from Ioannina Airport, the location of City Center 3 Bedroom makes it an ideal choice for travelers seeking both the vibrancy of city life and the tranquility of nature.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

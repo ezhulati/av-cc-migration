@@ -1,30 +1,7 @@
----
-title: Primavera
-description: Guests at Primavera are treated to air-conditioned accommodations that boast not only the essentials such as a wardrobe, kettle, and fridge but also modern amen
-featuredImage: "/images/accommodation/438034546.jpg"
-language: en
-slug: primavera
-location: ""
-amenities: []
-images: []
----
-
-Guests at Primavera are treated to air-conditioned accommodations that boast not only the essentials such as a wardrobe, kettle, and fridge but also modern amenities including a flat-screen TV and free WiFi. The attention to detail extends to the provision of a safety deposit box, ensuring valuables are secure, and a private bathroom equipped with a bidet, complemented by fresh bed linen and towels for every guest.
+---\ntitle: "Primavera"\ndescription: "Primavera stands out as a serene oasis in Durrës, offering guests a unique blend of comfort and convenience with its garden views and direct beachfront access."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438034546.jpg?k=38dcb8c1da9310b245757f5bd4f345a2c23e6190e82fb6ffa116dc46360869f6&o=&hp=1"\nlanguage: en\nslug: primavera\naddress: "Rruga Gjiri i Lalzit, 2015 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.52999887\n  lng: 19.51729614\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438034546.jpg?k=38dcb8c1da9310b245757f5bd4f345a2c23e6190e82fb6ffa116dc46360869f6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450425163.jpg?k=4ab112518d04980e3b6532cc2982fb3e03eeb08c1d69cdbac6355a85da8f3709&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450572229.jpg?k=3ab1e8e373a9937007056d46856fb19ff66df5d65487e511eb99b951b3656645&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454202267.jpg?k=3cfc17571536b97e3bd52464332462320ae70a25a475eeace833bd7679f766ef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438035770.jpg?k=b65af7dcac19a20dfc5c5b2f87ce9995ac860af24434d085e06e508b200fb7be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438168042.jpg?k=c8c8945fc92df62c139dd981a5cb1099583486f19cd5ae1c1a2479cff5ae90ab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433525421.jpg?k=a4c92bbd911f063b90ac36860a37a7f4847b27ee68a16834c27374b3fe4592d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456805730.jpg?k=7d8ae510ce6d8e7f3c96b7b6b52214aa1381e542cf1ad1fee20b3be8d30464ad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456805542.jpg?k=6c085a6c5a24793ce8d734c1cc9d8013e43c512f6deddbdcd5647c4daff37888&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Aqua by Lura Resort 700 m"\n  - "Restorant Ron 1.1 km"\nnearbyBeaches:\n  - "Lalëz Bay Beach 250 m"\n  - "Rodoni Beach 7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 20 km"\n  - "Podgorica Airport 93 km"\nbookingURL: "https://www.booking.com/hotel/al/primavera-durres.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Primavera are treated to air-conditioned accommodations that boast not only the essentials such as a wardrobe, kettle, and fridge but also modern amenities including a flat-screen TV and free WiFi. The attention to detail extends to the provision of a safety deposit box, ensuring valuables are secure, and a private bathroom equipped with a bidet, complemented by fresh bed linen and towels for every guest.
 
 The convenience at Primavera is further enhanced by the inclusion of a private beach area, perfect for those seeking a tranquil retreat by the sea. Additionally, the property caters to the needs of the eco-conscious traveler with an electric vehicle charging station on-site. For those needing to pick up essentials or snacks, a minimarket is conveniently located within the premises.
 
 Situated within easy reach of notable attractions such as the Rock of Kavaje and the historical Former Residence of Enver Hoxha, Primavera offers an ideal base for exploring the rich cultural tapestry of the area. Moreover, with Tirana International Mother Teresa Airport just 30 km away, guests will find their travel to and from the property a breeze.
 
 Primavera emerges as a top choice for travelers seeking a harmonious blend of leisure and exploration in the heart of Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,26 +1,3 @@
----
-title: Hotel Roberto
-description: Guests are welcomed into rooms that boast private balconies, providing a perfect nook for morning coffees or evening relaxation. Each accommodation is thoughtfu
-featuredImage: "/images/accommodation/457500723.jpg"
-language: en
-slug: hotel-roberto
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into rooms that boast private balconies, providing a perfect nook for morning coffees or evening relaxation. Each accommodation is thoughtfully appointed with a private bathroom, complete with a shower, complimentary toiletries, and plush bathrobes, ensuring a comfortable and pampered stay.
+---\ntitle: "Hotel Roberto"\ndescription: "Hotel Roberto emerges as a serene retreat in the heart of Korçë, offering a tranquil garden setting and the convenience of complimentary private parking for those arriving by car."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457500723.jpg?k=2bc58763f47a84b125d7d4decd02f1717225b92ea23860379358e6c8388aa9f9&o=&hp=1"\nlanguage: en\nslug: hotel-roberto\naddress: "Rruga Sotir Kozmo, 7001 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.633997\n  lng: 20.785073\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 2\nratings:\n  overall: 7.5\n  location: 7.5\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 7.5\n  comfort: 7.5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457500723.jpg?k=2bc58763f47a84b125d7d4decd02f1717225b92ea23860379358e6c8388aa9f9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457500837.jpg?k=f5a1ff16454e1a5f07efed1579f514f64cae879bcf9b71284737f08f6776c774&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457500859.jpg?k=9b98d150fefe5138279624314d38aacbf4d996cda36c0b438d62ac70e20bc1fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457500850.jpg?k=82a4cdd164cb14c8a98d47d6ae9c1db3da95d5a2cef9375c76e6017543c09a31&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457500909.jpg?k=b7cfc595076e0b9675d06a624cdd6ccd6f049ee701d006de70b9df69e3d8e25e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457500870.jpg?k=d63cfb82b82ab2b1b200019b6e1918cb74394d91d300b1df0a61a01674619be8&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Family rooms"\nroomTypes:\n  - "Budget Double Room"\n  - "Classic Quadruple Room"\nnearbyRestaurants:\n  - "Gjiro Stefa 300 m"\n  - "Restorant Pirro 550 m"\nwhatsNearby:\n  - "Parku Rinia 950 m"\n  - "Field of Tears 1.7 km"\n  - "Parku Themistokli Gërmenji 1.7 km"\n  - "Sheshi Patriku Joasaf 2.1 km"\n  - "Parku Rinia 2.1 km"\n  - "Parku Vangjush Mio 2.1 km"\n  - "Sheshi Panxhar 5 km"\n  - "Sheshi Penetori 11 km"\n  - "Sheshi Koço Plaku 11 km"\nairports:\n  - "Kastoria National Airport 45 km"\n  - "Ohrid Airport 59 km"\n  - "Kozani National Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/roberto-korce1.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nGuests are welcomed into rooms that boast private balconies, providing a perfect nook for morning coffees or evening relaxation. Each accommodation is thoughtfully appointed with a private bathroom, complete with a shower, complimentary toiletries, and plush bathrobes, ensuring a comfortable and pampered stay.
 
 For travelers flying into the region, Kastoria National Airport is located 70 km away, making Hotel Roberto an accessible destination for international and domestic visitors. This hotel stands out for its blend of convenience, comfort, and proximity to natural and cultural landmarks, promising an unforgettable stay in Korçë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

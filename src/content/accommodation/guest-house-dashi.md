@@ -1,26 +1,3 @@
----
-title: Guest House Dashi
-description: Each apartment within Guest House Dashi is thoughtfully equipped with two bedrooms, a kitchen featuring a fridge and stovetop, a flat-screen TV for entertainmen
-featuredImage: "/images/accommodation/436591613.jpg"
-language: en
-slug: guest-house-dashi
-location: ""
-amenities: []
-images: []
----
-
-Each apartment within Guest House Dashi is thoughtfully equipped with two bedrooms, a kitchen featuring a fridge and stovetop, a flat-screen TV for entertainment, a cozy seating area, and a bathroom with a shower. The provision of towels and bed linen enhances the home-away-from-home feeling. Notably, the accommodations include a private entrance, offering an extra layer of privacy for guests.
+---\ntitle: "Guest House Dashi"\ndescription: "Guest House Dashi emerges as a charming choice for travelers seeking comfort and convenience in Gjirokastër."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/436591613.jpg?k=18e9495df2080217884440592e44255f4f87eb5c69efa5f18a85cbd88a6e9799&o=&hp=1"\nlanguage: en\nslug: guest-house-dashi\naddress: "Rruga Bilbilenjve, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.07929523\n  lng: 20.13994458\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 55\nratings:\n  overall: 9.3\n  location: 8.8\n  cleanliness: 9.4\n  facilities: 8.8\n  value: 9.5\n  comfort: 9.3\n  staff: 9.1\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/436591613.jpg?k=18e9495df2080217884440592e44255f4f87eb5c69efa5f18a85cbd88a6e9799&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/436591815.jpg?k=fdc8d1746ffd182393020c997fe826d8ddcd75a13495f271b4ad1f386b71c5da&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437398870.jpg?k=6db164f4bc4cd15e67c525d1eb8b6e78de3992b948882da8868f5c61baab323d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437401661.jpg?k=ae7468f78d5f8c87bbd9b7743c448cb8053a25756ab5f8036d20cc53ddccb63d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437398830.jpg?k=979734a1b423ec7e7e4102371100e1bfebe49166db2e764b50e8520f8ac978e0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437398855.jpg?k=4df67f8ea189df06b5d989cd243b8fc4650cdeada04ffd9993cda721b9c06ff1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437401615.jpg?k=b4189f0e45f1691ba3d3a2c92b076e4b91e239cba92315b2ea957fa97dd877f8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437398795.jpg?k=0fbf8fb3176bb6ffe1aeca6486b12406c496c0f15c4ae2bac3ab0be20ad43a9f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437398763.jpg?k=d5f9c16ff0c3a39ea1011db2af81fb5de2319bb6bf81df60916a97caf029db5c&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Cabeli 150 m"\n  - "Media Club 150 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 71 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Devilsaysgoodbye"\n    country: "Poland"\n    text: "“Nice, cozy apartment with working heating/ air condiction, what is not that obviously in Albania.”"\n  - name: "Bosch"\n    country: "Netherlands"\n    text: "“The hosts were amazing! Very lovely and helpfull people”"\n  - name: "Taylor"\n    country: "New Zealand"\n    text: "“The hosts greeted us and were very lovely. The beds and sofa bed were extremely comfortable and fresh linens. The house is newly renovated and spacious.”"\nbookingURL: "https://www.booking.com/hotel/al/guest-house-dashi-gjirokaster.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nEach apartment within Guest House Dashi is thoughtfully equipped with two bedrooms, a kitchen featuring a fridge and stovetop, a flat-screen TV for entertainment, a cozy seating area, and a bathroom with a shower. The provision of towels and bed linen enhances the home-away-from-home feeling. Notably, the accommodations include a private entrance, offering an extra layer of privacy for guests.
 
 For those traveling to or from the area, Ioannina Airport is conveniently located 83 km away, making Guest House Dashi an ideal stopover or base for exploring the rich culture and history of Gjirokastër.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

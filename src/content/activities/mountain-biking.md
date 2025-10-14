@@ -5,6 +5,10 @@ category: Outdoor Adventure
 featuredImage: /images/activities/mountain-biking.jpg
 language: en
 slug: mountain-biking
+seo:
+  metaTitle: "Discover Albania's Best Trails &amp; %term% Adventures"
+  metaDescription: "Discover the thrill of mountain biking in Albania, where rugged landscapes meet breathtaking views. Elevate your adventure in this untamed paradise."
+  focusKeyword: "mountain biking"
 ---
 
 Albania by Bike
@@ -51,10 +55,3 @@ The Urban Trails of Tirana-   **Arbanë-Shijon Trail**: A 36.7 km moderate ride,
 
 The best views might come from local riding clubs. Join their weekly rides or buy them an espresso to share hidden high-country routes where only foxes and eagles tread. Their hand-drawn maps full of faded tracks might not make sense at first. But you’ll soon bond over post-ride raki toasts as you recount getting lost and found again on Albania’s singletracks.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

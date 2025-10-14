@@ -1,30 +1,8 @@
----
-title: Hotel Belgrad Mangalem
-description: "Accommodations at Hotel Belgrad Mangalem are thoughtfully appointed with contemporary comforts, including air conditioning, televisions, and complimen..."
-featuredImage: "/images/accommodation/73280431.jpg"
-language: en
-slug: hotel-belgrad-mangalem
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Hotel Belgrad Mangalem are thoughtfully appointed with contemporary comforts, including air conditioning, televisions, and complimentary WiFi that extends throughout the premises. Each room boasts a private bathroom equipped with a shower, hairdryer, and free toiletries, complemented by captivating city views that invite guests to immerse themselves in the local ambiance.
+---\ntitle: "Hotel Belgrad Mangalem"\ndescription: "Hotel Belgrad Mangalem emerges as a distinguished choice for travelers seeking a blend of historical charm and modern amenities in Berat."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73280431.jpg?k=7a6f5db21bef8f3ac53bcdb65464b706f344a363e3d93d51259742234585b05e&o=&hp=1"\nlanguage: en\nslug: hotel-belgrad-mangalem\naddress: "Mangalem, Street Kostaq Stefa, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.70538737\n  lng: 19.95050132\nprice: "US$42"\npriceFrom: 42\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 347\nratings:\n  overall: 9.3\n  location: 9.8\n  cleanliness: 9.1\n  facilities: 8.7\n  value: 9.4\n  comfort: 9\n  staff: 9.7\n  wifi: 9.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73280431.jpg?k=7a6f5db21bef8f3ac53bcdb65464b706f344a363e3d93d51259742234585b05e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/47370793.jpg?k=2557e0657c46bad59dffece4e939cd15a202a0beccd3f3b811c21837f269835c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/47370753.jpg?k=d944c6876268b20cc83bc22e340337d8a43fb2d3bd1b0e4c263f0872bab7731b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73280489.jpg?k=e3bc31f658d102908bd2a5e6c78653f80514ddffab5d6801643ed0478485639d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73280399.jpg?k=683a134c13d80fbea7a883708b4d56b7765bff2598a08669cbde561f2c248b78&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73280411.jpg?k=32637c8875903422e7b11bfd01a0ca3fd08f1d6f0a08eb61bd213a3e55822582&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Airport shuttle"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Superb breakfast"\nroomTypes:\n  - "Single Room"\n  - "Double Room"\n  - "Double Room with Balcony"\n  - "Twin Room"\n  - "Triple Room"\nnearbyRestaurants:\n  - "Veranda by Berat 50 m"\n  - "Solidarity Shop Berat 100 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 84 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Anis"\n    country: "Albania"\n    text: "“The friendliest place in Berat. Comfortable and clean room. The interior is like a museum, very nice style. The breakfast was delicious.”"\n  - name: "Colin"\n    country: "United Kingdom"\n    text: "“Staff were exceedingly friendly and helpful.
+They took me to the Berat bus terminal to catch my bus to Tirana!enjoyed my stay immensely”"\n  - name: "Laura"\n    country: "Spain"\n    text: "“Amazing breakfast, had to leave earlier and the hotel offered an early breakfast. Hosts were extremely nice, helpful and welcoming! Good location and in general authentic hotel”"\nbookingURL: "https://www.booking.com/hotel/al/belgrad-mangalem.en-gb.html?aid=8035640"\nbestFor: "Best for Historical Sites Proximity"\nbestCategories: "Historical Sites Proximity"\ncategory: "Historical Sites Proximity"\n---\n\nAccommodations at Hotel Belgrad Mangalem are thoughtfully appointed with contemporary comforts, including air conditioning, televisions, and complimentary WiFi that extends throughout the premises. Each room boasts a private bathroom equipped with a shower, hairdryer, and free toiletries, complemented by captivating city views that invite guests to immerse themselves in the local ambiance.
 
 Spanning two historic buildings separated by a mere 10 meters, the hotel offers a unique architectural experience. Services such as a 24-hour front desk, a shared lounge for relaxation, a tour desk for local explorations, and luggage storage for convenience, ensure a seamless stay for every guest.
 
 Situated just 500 meters from the majestic Berat Castle, which dates back to the 13th century, and within proximity to Tomorri National Park and the thrilling rafting experiences on Osum River, Hotel Belgrad Mangalem serves as an ideal base for adventurers and culture enthusiasts alike.
 
 With the added convenience of complimentary parking and located 82 km from Tirana Airport, this hotel stands out as a prime choice for both domestic and international visitors, offering an authentic glimpse into the heart of Berat's historical landscape.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

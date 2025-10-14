@@ -1,26 +1,3 @@
----
-title: Shkodra Home
-description: "The villa boasts a tastefully decorated 2-bedroom layout, complete with a cozy living room adorned with a flat-screen TV, ensuring entertainment and r..."
-featuredImage: "/images/accommodation/512225367.jpg"
-language: en
-slug: shkodra-home
-location: ""
-amenities: []
-images: []
----
-
-The villa boasts a tastefully decorated 2-bedroom layout, complete with a cozy living room adorned with a flat-screen TV, ensuring entertainment and relaxation are always within reach. The fully equipped kitchen, featuring a minibar, caters to all culinary needs, making it a perfect setting for both short and long stays. Emphasizing a healthy living environment, the accommodation is strictly non-smoking.
+---\ntitle: "Shkodra Home"\ndescription: "Shkodra Home stands as a serene retreat in the heart of Shkodër, Shkoder County, offering guests a unique blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512225367.jpg?k=53021d958dc3c9cc8eb9d61c5998e1a9dbd1361bd40465f5f3a6b42b7019f13b&o=&hp=1"\nlanguage: en\nslug: shkodra-home\naddress: "Rruga Filip Shiroka, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "villa"\ncoordinates:\n  lat: 42.0699697\n  lng: 19.51964455\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512225367.jpg?k=53021d958dc3c9cc8eb9d61c5998e1a9dbd1361bd40465f5f3a6b42b7019f13b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/512225388.jpg?k=48dc90905a71b83a8c1d94be14d155c8c7b993ecb471b6846c6696b9ca2e0ace&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/512225393.jpg?k=3e9867ab85b534d15790a42adf200de9eb3f50b1b83b6ba0f027fa89b6330cdc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/512225375.jpg?k=ae0104b0e54d47f7416ebc613b05230ed241b00da072e4fd62ab9ea4ca5878f8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/512225380.jpg?k=4bca0e0e60b635b5118a15e90e4dd77ccbf707a72af983b9c276dabee67b48a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/512225384.jpg?k=7ce7e55df0756c8d5c3dda71bfcbbf59d80e9a69a45981c13f0345ce2e70ea10&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/512225396.jpg?k=4b1fdb2852f5595d0410228aa142442a39896c75117be1d9ac92561c7fc7fbbd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/512225399.jpg?k=09bcab332329cc2bfbda4d38ac6fdf936cb883537776239e3085c767522da6fe&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Good free WiFi (35 Mbps)"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "Two-Bedroom Villa"\nnearbyRestaurants:\n  - "PRAGA Bar 150 m"\n  - "Baste Live 200 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 3.4 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 73 km"\n  - "Tivat Airport 74 km"\nbookingURL: "https://www.booking.com/hotel/al/shkodra-home.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nThe villa boasts a tastefully decorated 2-bedroom layout, complete with a cozy living room adorned with a flat-screen TV, ensuring entertainment and relaxation are always within reach. The fully equipped kitchen, featuring a minibar, caters to all culinary needs, making it a perfect setting for both short and long stays. Emphasizing a healthy living environment, the accommodation is strictly non-smoking.
 
 For those looking to explore beyond the villa, Podgorica Airport is conveniently located 58 km away, making Shkodra Home an ideal base for both local and international travelers seeking a blend of tranquility and accessibility in Shkodër.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

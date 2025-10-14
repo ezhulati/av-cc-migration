@@ -4,9 +4,19 @@ description: The establishment prides itself on offering a seamless stay with es
 featuredImage: "/images/accommodation/461829996.jpg"
 language: en
 slug: bb-private-rooms-2
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 3
+rating: 3
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Restaurant"
+  - "Breakfast"
+  - "Kitchen"
+  - "Balcony"
+  - "TV"
 ---
 
 The establishment prides itself on offering a seamless stay with essentials such as a restaurant, elevator access, and a shared kitchen, ensuring that every need is met with ease. Connectivity is never an issue, as free WiFi is available throughout the premises. For those arriving with belongings or in need of assistance, luggage storage, concierge services, and currency exchange are readily available, highlighting the property's commitment to guest convenience.
@@ -19,14 +29,3 @@ Notably, B&B - Private Rooms 2 is conveniently located 5.7 km from Skanderbeg Sq
 
 In essence, B&B - Private Rooms 2 represents a harmonious blend of hospitality, comfort, and convenience, making it a compelling choice for those visiting Tirana.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

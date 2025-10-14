@@ -1,26 +1,3 @@
----
-title: Baraku Apartment
-description: This pet-friendly haven doesn't just welcome four-legged friends but also ensures connectivity with complimentary WiFi throughout the premises. The apartment it
-featuredImage: "/images/accommodation/379136273.jpg"
-language: en
-slug: baraku-apartment
-location: ""
-amenities: []
-images: []
----
-
-This pet-friendly haven doesn't just welcome four-legged friends but also ensures connectivity with complimentary WiFi throughout the premises. The apartment itself is a testament to modern living, boasting a generous layout that includes a bedroom, a living area for relaxation, a fully equipped kitchen for those culinary adventures, and a bathroom. Entertainment needs are met with a flat-screen TV, making it a perfect retreat for both short and long stays.
+---\ntitle: "Baraku Apartment"\ndescription: "Baraku Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379136273.jpg?k=ad5bac8aa1bac0b3bb267e06a4405c155a2812c27349fadd5c62f9a6053086ad&o=&hp=1"\nlanguage: en\nslug: baraku-apartment\naddress: "Rruga Teki Haderi, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87126966\n  lng: 20.01570492\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 5\nratings:\n  overall: 7.5\n  location: 10\n  cleanliness: 6.5\n  facilities: 6.5\n  value: 7\n  comfort: 6.5\n  staff: 8.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379136273.jpg?k=ad5bac8aa1bac0b3bb267e06a4405c155a2812c27349fadd5c62f9a6053086ad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379136876.jpg?k=fbaf42b642843860e4735e6d41c6f53c59b9f1d2d56b632f8c7fb92c2c5e9d7e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379136818.jpg?k=3bc276b7064e9bb87929b0e399a81e6f888ed35fe03c95f80e5406ce241436ec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379136458.jpg?k=fcac326e1f49b39b6b55c94ec51e9352e8bdf3956b4815186dd0d6a3b0fba0d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379136268.jpg?k=f380bceedf91338ad5b324caeb87a9b702ea04aa127d074b4a5e9aa9e2df1d46&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379136877.jpg?k=25f4a5aa4c7e93dbfeceaa751429d0ee2e1784cd83cf78e155a290f5e9b6933e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379136491.jpg?k=37216976ca40ddf763495f157f750116d32e64d14e72b3c8555f5bdfe87a21e1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379136810.jpg?k=5a963fd847b81fdac5914fae571671c91bdc3e46f7061703041b5387b96b6b67&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379136363.jpg?k=737ddc1dcfb923d5b04dd1a5073090966947f36cf68ea1b892d6368cbdd5f956&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Restorant Kalija 30 m"\n  - "Epirus 100 m"\nnearbyBeaches:\n  - "Saranda City Beach 150 m"\n  - "La Petite Beach 300 m"\n  - "Maestral Beach 450 m"\n  - "Sarande Main Beach 1.1 km"\n  - "VIP Beach 1.4 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.6 km"\n  - "Butrint National Park 2.5 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/baraku-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Pet-Friendly Stays"\nbestCategories: "Pet-Friendly Stays"\ncategory: "Pet-Friendly Stays"\n---\n\nThis pet-friendly haven doesn't just welcome four-legged friends but also ensures connectivity with complimentary WiFi throughout the premises. The apartment itself is a testament to modern living, boasting a generous layout that includes a bedroom, a living area for relaxation, a fully equipped kitchen for those culinary adventures, and a bathroom. Entertainment needs are met with a flat-screen TV, making it a perfect retreat for both short and long stays.
 
 For those arriving by air, Ioannina Airport is the nearest gateway, located 96 km away, making Baraku Apartment accessible for international and domestic visitors. Offering a blend of convenience, comfort, and accessibility, this apartment stands out as a top-tier accommodation choice in Sarandë, promising a memorable stay for all who visit.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

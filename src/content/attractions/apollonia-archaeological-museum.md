@@ -51,10 +51,3 @@ Your Turn to Visit
 
 A visit to the Archaeological Museum of Apolonia promises an enthralling journey through Albania’s rich history and ancient treasures. Whether you are a history enthusiast or a curious traveler, this museum is an essential destination for your Albanian adventure.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

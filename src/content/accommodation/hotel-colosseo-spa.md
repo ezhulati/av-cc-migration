@@ -1,15 +1,8 @@
----
-title: Hotel Colosseo & Spa
-description: The Colosseo doesn't just offer a place to stay; it extends a full spectrum of amenities designed to enhance your visit. Guests rave about the complimentary acc
-featuredImage: "/images/accommodation/40628762.jpg"
-language: en
-slug: hotel-colosseo-spa
-location: ""
-amenities: []
-images: []
----
-
-The Colosseo doesn't just offer a place to stay; it extends a full spectrum of amenities designed to enhance your visit. Guests rave about the complimentary access to a fitness center, an indoor swimming pool, massage facilities, and a sauna, ensuring relaxation and rejuvenation are always within reach. The on-site restaurant, praised for its local specialties, adds a flavorful dimension to the stay.
+---\ntitle: "Hotel Colosseo & Spa"\ndescription: "Discover the charm of Shkoder through the eyes of those who've experienced the comfort and convenience of Hotel Colosseo & Spa."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/40628762.jpg?k=d68c9286c2a90e989367e015c1544d4d31eeb3039fa82baf9b67212b19226f40&o=&hp=1"\nlanguage: en\nslug: hotel-colosseo-spa\naddress: "Street Kol Idromeno , 4000 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.06745856\n  lng: 19.5144546\nprice: "US$65"\npriceFrom: 65\nstarRating: 5\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 684\nratings:\n  overall: 8.9\n  location: 9.6\n  cleanliness: 8.7\n  facilities: 8.4\n  value: 8.5\n  comfort: 8.6\n  staff: 9.3\n  wifi: 9.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/40628762.jpg?k=d68c9286c2a90e989367e015c1544d4d31eeb3039fa82baf9b67212b19226f40&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/134913839.jpg?k=cf133e5ade6fd4f5b11f4fa8ef8bae3422a8974c2c5c37767ba49320a67b14d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135843886.jpg?k=977dbf0ca9842e61542cd91a4d3add526794a1e5a55e347d6b26e04c619a8efb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135843913.jpg?k=e876b0bc9d84911fa7017b83bdf95770bee7dc0d625ae02496d2886d6eee8de3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135843877.jpg?k=0464a1c6722352c0c81ef2c063997ee4e50db9f557f037fbbc2348242412a608&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135843926.jpg?k=57b7896c746fc51a8941d7968f522d723675b770fa75a3ff534d31e8c4eb1d04&o=&hp=1"\namenities:\n  - "Indoor swimming pool"\n  - "Spa and wellness centre"\n  - "Non-smoking rooms"\n  - "Fitness centre"\n  - "Room service"\n  - "Free parking"\n  - "Facilities for disabled guests"\n  - "Free WiFi"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Single Room"\n  - "Double Room"\n  - "Twin Room"\n  - "Triple Room"\nnearbyRestaurants:\n  - "Stolia Coffeehouse & Brunch 30 m"\n  - "Restorant Pasta e Vino 30 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 2.9 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 73 km"\n  - "Tivat Airport 74 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Yurii"\n    country: "Ukraine"\n    text: "“Excellent location in the city center
+Friendly staff
+Everything is great”"\n  - name: "Chris"\n    country: "Spain"\n    text: "“- Really nice staff (hi Erbius and Emanuel! :) )
+- Turkish bath, pool, sauna
+- Good locatio”"\n  - name: "Frankie68"\n    country: "Italy"\n    text: "“Location in the perfect center of Shkoder... very nice staff”"\nbookingURL: "https://www.booking.com/hotel/al/hote-colosseo.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe Colosseo doesn't just offer a place to stay; it extends a full spectrum of amenities designed to enhance your visit. Guests rave about the complimentary access to a fitness center, an indoor swimming pool, massage facilities, and a sauna, ensuring relaxation and rejuvenation are always within reach. The on-site restaurant, praised for its local specialties, adds a flavorful dimension to the stay.
 
 Accommodations at the Colosseo are a blend of comfort and functionality. Each air-conditioned room and suite is equipped with an LCD TV offering satellite channels, alongside practical amenities such as a desk, chair, minibar, and safe. The attention to detail extends to the en-suite bathrooms, complete with a bidet, shower, and hairdryer, ensuring a seamless stay. Select rooms also boast a balcony, offering a private slice of Shkoder's skyline.
 
@@ -18,19 +11,3 @@ Connectivity and convenience are paramount, with free Wi-Fi access in the hotel 
 Shkoder's rich history as one of Albania's oldest towns, coupled with its cultural and economic significance, makes it a fascinating destination. The proximity of the legendary Rozafa Castle, just a short walk away, invites exploration and discovery. Moreover, the hotel's location, merely 200 meters from the Main Bus Station and within easy reach of Tirana and its airport, as well as the coast, positions it as an ideal base for exploring the wider region.
 
 In summary, Hotel Colosseo & Spa stands out not just for its comprehensive amenities and prime location, but for its ability to provide a truly immersive and comfortable experience for those visiting Shkoder.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

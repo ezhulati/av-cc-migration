@@ -1,28 +1,5 @@
----
-title: Guest House Bumbli
-description: Accommodations at Guest House Bumbli are thoughtfully designed to cater to families, with select rooms featuring a terrace for soaking in the scenic surrounding
-featuredImage: "/images/accommodation/364568234.jpg"
-language: en
-slug: guest-house-bumbli
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Guest House Bumbli are thoughtfully designed to cater to families, with select rooms featuring a terrace for soaking in the scenic surroundings. Comfort is paramount, as evidenced by the inclusion of air conditioning and private bathrooms in every unit. For entertainment and relaxation, a seating area equipped with a flat-screen TV is available in certain accommodations, making it a perfect spot to unwind after a day of exploration.
+---\ntitle: "Guest House Bumbli"\ndescription: "Discover the charm of Berat with a stay at Guest House Bumbli, a serene retreat that boasts both lake and city views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364568234.jpg?k=36cdebe75f89a74a489f491fb0c2611b18f94e0eff9167d1ec4cf7e0a7d33ba6&o=&hp=1"\nlanguage: en\nslug: guest-house-bumbli\naddress: "Rruga Veri Zaloshnja, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.70678206\n  lng: 19.95347591\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 37\nratings:\n  overall: 9.7\n  location: 9.7\n  cleanliness: 9.9\n  facilities: 9.5\n  value: 9.7\n  comfort: 9.7\n  staff: 9.7\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364568234.jpg?k=36cdebe75f89a74a489f491fb0c2611b18f94e0eff9167d1ec4cf7e0a7d33ba6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469105462.jpg?k=2e509da822602063525d6671f041cc68f0e343ba6369db5162f6d63726be0504&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364567167.jpg?k=a9ef21fc61c5376fa35fe3f21cfc090b6b8232f57e5ff0f5076df90701120af4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382865079.jpg?k=33c5c8c8882dc4190ed8cd09d2ed0c84208d5925f3a08b994cccab307205c8d7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364568161.jpg?k=6b4171487aca87d727d531e6fbfb8ab46cf18e8558f3cb0aa18a9f3ab56933a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469105425.jpg?k=da3812c613b385a2b3a6fc7170cfe694991a47539610febd755312d7c51f14b3&o=&hp=1"\namenities:\n  - "Airport shuttle (free)"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "Superior Triple Room"\n  - "Superior Triple Room"\n  - "Quadruple Room"\n  - "Triple Room"\nnearbyRestaurants:\n  - "Hotel Rezidenca Desaret 100 m"\n  - "Street Food Imam Yousuf 200 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 83 km"\nreviews:\n  - name: "Emilija"\n    country: "Lithuania"\n    text: "“Friendly hosts! Many thanks George and Valbona for so nice stay. It was a feeling that we are visiting our best friends😊. Guest house located up in the hill. Nice view of Berat Castle!”"\n  - name: "Eleni"\n    country: "United Kingdom"\n    text: "“Amazing breakfast and great location. Everything was excellent thank you”"\n  - name: "Edgar"\n    country: "France"\n    text: "“Perfect place for a stay in berat with a wonderful terrace view...”"\nbookingURL: "https://www.booking.com/hotel/al/guest-house-bumbli.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Guest House Bumbli are thoughtfully designed to cater to families, with select rooms featuring a terrace for soaking in the scenic surroundings. Comfort is paramount, as evidenced by the inclusion of air conditioning and private bathrooms in every unit. For entertainment and relaxation, a seating area equipped with a flat-screen TV is available in certain accommodations, making it a perfect spot to unwind after a day of exploration.
 
 For those eager to explore the rich history and culture of Berat, Guest House Bumbli provides sightseeing tours, making it easy for guests to immerse themselves in the local neighborhood and its offerings.
 
 Situated 118 km from Tirana International Mother Teresa Airport, Guest House Bumbli represents an ideal choice for travelers seeking a blend of convenience, comfort, and the opportunity to explore the enchanting city of Berat.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

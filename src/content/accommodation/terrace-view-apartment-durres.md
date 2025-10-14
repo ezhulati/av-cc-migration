@@ -1,28 +1,5 @@
----
-title: Terrace View Apartment Durres
-description: Guests will find the apartment to be a spacious haven, boasting a terrace that invites relaxation and contemplation of the stunning surroundings. The accommodat
-featuredImage: "/images/accommodation/427314004.jpg"
-language: en
-slug: terrace-view-apartment-durres
-location: ""
-amenities: []
-images: []
----
-
-Guests will find the apartment to be a spacious haven, boasting a terrace that invites relaxation and contemplation of the stunning surroundings. The accommodation includes two cozy bedrooms, a welcoming living room, and a well-equipped kitchenette, ensuring all the comforts of home are at hand. The provision of towels and bed linen adds a touch of convenience to the stay.
+---\ntitle: "Terrace View Apartment Durres"\ndescription: "Terrace View Apartment Durres emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës, mere steps away from the inviting sands of Durres Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427314004.jpg?k=803650a359dbd559292f8e51adf37bd1ec500f210b87b88021b57d39b6767ae7&o=&hp=1"\nlanguage: en\nslug: terrace-view-apartment-durres\naddress: "8F7G+C5J Durrës, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3135875\n  lng: 19.4753906\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 8\nratings:\n  overall: 9.5\n  location: 9.7\n  cleanliness: 9.7\n  facilities: 9.1\n  value: 9.4\n  comfort: 9.7\n  staff: 9.1\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427314004.jpg?k=803650a359dbd559292f8e51adf37bd1ec500f210b87b88021b57d39b6767ae7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/430680275.jpg?k=9e3e863eebe439a16b160b6e9b6e25f6740a0de1b8bb84ded02a4958f1dfe8aa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427313907.jpg?k=0a24f594168bc1c03604764f8c640ba2ea080e1b43613805841651a34e17d4cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427313942.jpg?k=9fac45f16937fda7c6dadbcb984ce1c59a5513065092e284e9a5b7af1969c033&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427313943.jpg?k=3139cbc127ca932528716fe83dc07b4c27afe142fc7be0897a439d84a7f96411&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427313948.jpg?k=217dcd25a2a7b8eb5f3fa2e3847c45df2690e7f149836aa20c166862ace0c6df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427313951.jpg?k=49f89904f2214635e9a984c78b5b52aa82a5fedac796f43a68374ef838f0413c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427313998.jpg?k=7d9f81b11afa411cb55e966d84bc334902b832adde3e8abc23510996631ee0d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427313963.jpg?k=861c5645145b1bac059754b17d1b58be6d91be2b47ee0164309849e55d43c8cc&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Rizai 2 m"\n  - "Wine IF12 100 m"\nnearbyBeaches:\n  - "Durres Beach 9 m"\n  - "Currila Beach 2.5 km"\n  - "Kallmi Beach 3.6 km"\n  - "Shkëmbi i Kavajës Beach 4.2 km"\n  - "West End Beach 4.6 km"\nwhatsNearby:\n  - "Bekimi 1.6 km"\n  - "Wine Dhe Pooh 2.2 km"\n  - "Sheshi Demokracia 2.3 km"\n  - "Yje Dhe Hena 2.4 km"\n  - "Durres Amphiteatre 2.5 km"\n  - "Sotir Noka 2.5 km"\n  - "1. Maj 2.7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nreviews:\n  - name: "Marie"\n    country: "Sweden"\n    text: "“Fin lägenhet med bra läge och takterrass mot havet.”"\n  - name: "Davidjane"\n    country: "Latvia"\n    text: "“Отличное месторасположение, близость магазинов и ресторанов.,не было проблем с парковкой.”"\n  - name: "Iwona"\n    country: "Poland"\n    text: "“Apartament bez zastrzeżeń. Począwszy od obsługi, skończywszy na wyposażeniu obiektu. Kontakt przez WhatsApp bezproblemowy i natychmiastowy.”"\nbookingURL: "https://www.booking.com/hotel/al/terrace-view-apartment-durres.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests will find the apartment to be a spacious haven, boasting a terrace that invites relaxation and contemplation of the stunning surroundings. The accommodation includes two cozy bedrooms, a welcoming living room, and a well-equipped kitchenette, ensuring all the comforts of home are at hand. The provision of towels and bed linen adds a touch of convenience to the stay.
 
 Cultural enthusiasts will appreciate the apartment's location, with the Former Residence of Enver Hoxha and the Durres Amphitheatre within easy reach, at 37 km and 3.8 km away, respectively. For those traveling by air, the Tirana International Mother Teresa Airport is a mere 31 km from the property, making Terrace View Apartment Durres an accessible retreat for both local and international visitors.
 
 This smoke-free property stands out for its blend of comfort, convenience, and captivating views, promising an unforgettable stay for all who visit.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

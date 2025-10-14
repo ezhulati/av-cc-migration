@@ -1,28 +1,5 @@
----
-title: Orange by the sea
-description: This apartment is a haven of relaxation, boasting a balcony that presents breathtaking sea views. It is thoughtfully designed with a cozy bedroom, a welcoming l
-featuredImage: "/images/accommodation/505739312.jpg"
-language: en
-slug: orange-by-the-sea
-location: ""
-amenities: []
-images: []
----
-
-This apartment is a haven of relaxation, boasting a balcony that presents breathtaking sea views. It is thoughtfully designed with a cozy bedroom, a welcoming living room equipped with a flat-screen TV, and a kitchen that includes both an oven and a microwave, catering to the culinary needs of its guests. The inclusion of an outdoor dining area allows visitors to dine al fresco while soaking in the city's ambiance. Emphasizing a smoke-free environment, Orange by the Sea ensures a healthy and refreshing stay for all.
+---\ntitle: "Orange by the sea"\ndescription: "Orange by the Sea emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Golem."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505739312.jpg?k=8ed6cf4c3a884c5d5335b6c08fcf18fc22ad0a8a7bcc24b8e201ff86c80e137f&o=&hp=1"\nlanguage: en\nslug: orange-by-the-sea\naddress: "Rruga Plazhit, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.25046695\n  lng: 19.52079135\nprice: "US$35"\npriceFrom: 35\nstarRating: 4\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505739312.jpg?k=8ed6cf4c3a884c5d5335b6c08fcf18fc22ad0a8a7bcc24b8e201ff86c80e137f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505739324.jpg?k=47ed6c54eeda57daac8cbcff6d2177530b4959d12fa0f9fba504d05cdd0eb78c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505739362.jpg?k=b03200e6205d2bf33f2e7c720e4a8334fd0eedd7e905606600934074148bd7f9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505739384.jpg?k=cb245aebfa276ad8836cd729ebdc735dd19134c91567aeaea06f785cbcc06cbe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505739361.jpg?k=420326d1ccda2076c9a61d5d6b1d5269f9b8af20622fd0491c34fc1a0d1f7f76&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505739331.jpg?k=807fd18812b13a5ced4e0395d8c5bcbb43c348df212e23f2b8ddfe4014031c3e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505739389.jpg?k=ab3b038175731c2a8928a6ef0cbe1537e98ce5a0e142f28afd55d61ec4bfc2c4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505739317.jpg?k=a12c785e2169e7b90e87a303a44827ce749bcbfee73e9366d4e436d6e8348252&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505739375.jpg?k=1ff2936d5f3459e61467096fd6fe02a271d2ef2c1fccd50f9686b0ced3c83a4e&o=&hp=1"\namenities:\n  - "Airport shuttle (free)"\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Perla 50 m"\n  - "al&Ri 100 m"\nnearbyBeaches:\n  - "Golem Beach 50 m"\n  - "Mali I Robit Beach 300 m"\n  - "Shkëmbi i Kavajës Beach 1.6 km"\n  - "Qerret Beach 2.3 km"\n  - "Durres Beach 4 km"\nwhatsNearby:\n  - "Bekimi 9 km"\n  - "Durres Amphiteatre 9 km"\n  - "Wine Dhe Pooh 9 km"\n  - "1. Maj 9 km"\n  - "Yje Dhe Hena 10 km"\n  - "Sheshi Demokracia 10 km"\n  - "Sotir Noka 10 km"\nairports:\n  - "Tirana International Airport Mother Teresa 23 km"\nbookingURL: "https://www.booking.com/hotel/al/orange-by-the-sea.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment is a haven of relaxation, boasting a balcony that presents breathtaking sea views. It is thoughtfully designed with a cozy bedroom, a welcoming living room equipped with a flat-screen TV, and a kitchen that includes both an oven and a microwave, catering to the culinary needs of its guests. The inclusion of an outdoor dining area allows visitors to dine al fresco while soaking in the city's ambiance. Emphasizing a smoke-free environment, Orange by the Sea ensures a healthy and refreshing stay for all.
 
 For those intrigued by history and culture, the Durres Amphitheatre and the House of Leaves are within a manageable distance, promising enriching day trips. Moreover, the convenience of being just 41 km away from Tirana International Mother Teresa Airport adds to the appeal, making arrivals and departures as smooth as possible.
 
 With free WiFi enveloping the property and the allure of Golem Beach merely 100 metres away, guests are guaranteed a stay that combines the serenity of seaside living with the ease of modern amenities. Orange by the Sea stands as a testament to the beauty of Golem, offering a memorable escape for those in pursuit of both relaxation and adventure.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

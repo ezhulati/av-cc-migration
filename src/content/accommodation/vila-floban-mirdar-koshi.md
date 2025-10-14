@@ -1,30 +1,11 @@
----
-title: Vila Floban & MIRDAR KOSHI
-description: Guests are welcomed into a world where comfort meets elegance, with each apartment boasting not only a private bathroom but also complimentary WiFi. Selected ro
-featuredImage: "/images/accommodation/180306598.jpg"
-language: en
-slug: vila-floban-mirdar-koshi
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into a world where comfort meets elegance, with each apartment boasting not only a private bathroom but also complimentary WiFi. Selected rooms elevate the experience further, offering terraces that present breathtaking views of the sea or the property's meticulously maintained gardens.
+---\ntitle: "Vila Floban & MIRDAR KOSHI"\ndescription: "Vila Floban & MIRDAR KOSHI emerges as a serene retreat in the vibrant heart of Sarandë, striking a perfect balance between accessibility and tranquility."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/180306598.jpg?k=91c6027b1a3f68bfdc8fce11bdfe8fbc376a4bb24509d2c4a5214d515640bdd8&o=&hp=1"\nlanguage: en\nslug: vila-floban-mirdar-koshi\naddress: "Rruga Janaq Kumi, 1111 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87577451\n  lng: 19.99863759\nprice: "US$27"\npriceFrom: 27\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 205\nratings:\n  overall: 9.3\n  location: 8.2\n  cleanliness: 9.3\n  facilities: 9.3\n  value: 9.6\n  comfort: 9.1\n  staff: 9.7\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/180306598.jpg?k=91c6027b1a3f68bfdc8fce11bdfe8fbc376a4bb24509d2c4a5214d515640bdd8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355236642.jpg?k=fee5673ac9eea1248b419e12fcb09a205e3e2753191fa07952788ec377f81507&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309597507.jpg?k=64b149adc123419578db9336ef28c42999f5cbaf9369f48622e6ee0ed50ca2d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356539652.jpg?k=1464501dfd457b4523d1a1a4633a94f5db1ca2f6ee49d466dddc3140497c0649&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/342489167.jpg?k=eba520e0eace0e0a5bc9a94e46bfaff7d5598f64c7eb8a873be8e684532beb39&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470687417.jpg?k=8684ba44da19e9aef1caf1ec483718bffe8dba79ba3e24a3e76d54ab9e341c73&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\n  - "Bar"\nroomTypes:\n  - "Double Room"\n  - "Apartment with Sea View"\n  - "Apartment with Sea View"\n  - "Family Room"\n  - "Studio"\n  - "Studio"\nnearbyRestaurants:\n  - "Ali Pasha 200 m"\n  - "Mare blu 250 m"\nnearbyBeaches:\n  - "Sarande Main Beach 600 m"\n  - "Saranda City Beach 950 m"\n  - "Saranda Bay Beach 1.5 km"\n  - "La Petite Beach 1.6 km"\n  - "Maestral Beach 1.7 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.9 km"\n  - "Butrint National Park 3.6 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Anna"\n    country: "Spain"\n    text: "“The apartment is big and it has all the facilities you need. The host was very friendly. You enjoyed our stay!”"\n  - name: "Rebecca"\n    country: "Germany"\n    text: "“Very spacious, comfortable apartment in a quiet area (a bit up the hill).
+Comfortable beds, sufficient kitchen equipment, also nice shared area (pool and seating).
+Very good value for money!”"\n  - name: "Kamil"\n    country: "Sweden"\n    text: "“Plenty of space pool common space to relax
+well equipped kitchen
+friendly, service minded and flexible host Great value for money”"\nbookingURL: "https://www.booking.com/hotel/al/vila-floban.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nGuests are welcomed into a world where comfort meets elegance, with each apartment boasting not only a private bathroom but also complimentary WiFi. Selected rooms elevate the experience further, offering terraces that present breathtaking views of the sea or the property's meticulously maintained gardens.
 
 For those arriving by car, the convenience of complimentary private parking eliminates any travel woes, ensuring a seamless arrival experience. The presence of an on-site bar adds a layer of leisure, providing a cozy spot for guests to unwind after a day of exploration.
 
 Beyond the immediate comforts of the property, Vila Floban & MIRDAR KOSHI serves as an ideal base for adventurers and beach lovers alike. Maestral Beach lies a short drive away, offering another slice of coastal paradise, while the historic allure of Butrint National Park is within a manageable distance for a day trip. For international travelers, Ioannina Airport is the nearest gateway, making this exquisite property accessible from afar.
 
 In essence, Vila Floban & MIRDAR KOSHI stands out as a beacon of relaxation and convenience, promising an unforgettable stay in one of Sarandë's most desirable locales.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

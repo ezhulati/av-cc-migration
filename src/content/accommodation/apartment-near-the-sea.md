@@ -1,30 +1,7 @@
----
-title: Apartment near the sea
-description: "Guests are welcomed into a space where every detail is designed for relaxation and ease."
-featuredImage: "/images/accommodation/484016826.jpg"
-language: en
-slug: apartment-near-the-sea
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Apartment near the sea"\ndescription: "Apartment near the sea, located in the vibrant city of Vlorë, offers guests a refreshing retreat with its air-conditioned spaces and private balcony."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488242556.jpg?k=554e86a347962fe16d12027c03b092ba2c0950b11d468173b9fe29b6ed74befb&o=&hp=1"\nlanguage: en\nslug: apartment-near-the-sea\naddress: "FF4H+9G7, Rr. Sazani, Vlorë, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4553208\n  lng: 19.47944236\nprice: "US$65"\npriceFrom: 65\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488242556.jpg?k=554e86a347962fe16d12027c03b092ba2c0950b11d468173b9fe29b6ed74befb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488242602.jpg?k=a05fdba3ed86ad21e04b796312985251334a0e794c9595dd0059a628e9c8c916&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488242582.jpg?k=563dd515e68252e4addc9a8232cfdce5d6816926299c11fa0f29d8af8f5d8481&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488242594.jpg?k=1d60c8414956362695d8fc3319fd3f73895b2784a7b3c8d5e4f263f5576c96d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488242590.jpg?k=58f059c7936d4076b4a6c9044d339b8587e2e188de568e9fa30f1eb59f5d1ad2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488242586.jpg?k=b38e781ed9c6e6e46dada0f8957ff76441c2fb69444a0c8057f3f5d76ddd6a5c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488242608.jpg?k=27388a7cc706ae966b9507db95473d7238b48e9bee3ce4764bd9bcd1ed4d5256&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488242578.jpg?k=c73dd1b5b66cd1eabcfcb23edb76205aeefd307dbcde2ebc3d8d460d4a5b57d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488242598.jpg?k=653fba29a6a5ceacb359d0a1f9542259a6a6b2a85dcf225fd0cf7c00be526f3f&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Restorant Taverna Lato Mezuaraj 200 m"\n  - "Gimka 250 m"\nnearbyBeaches:\n  - "Vjetër Beach 200 m"\n  - "Vlore Beach 1.4 km"\n  - "Ri Beach 2.5 km"\n  - "Beach at Government Villas 3.9 km"\n  - "Liro Beach 4.5 km"\nwhatsNearby:\n  - "Kuzum Baba 1.8 km"\n  - "Independence Square 2 km"\n  - "Scooby Doo Vlore 2.5 km"\nbookingURL: "https://www.booking.com/hotel/al/apartment-near-the-sea-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is thoughtfully designed with comfort and convenience in mind, featuring two cozy bedrooms, a fully equipped kitchen for those who enjoy preparing their own meals, and a modern bathroom. Entertainment needs are also catered to with the inclusion of a flat-screen TV, ensuring guests have access to leisure activities during their stay. Importantly, the entire apartment is a non-smoking environment, ensuring a clean and healthy atmosphere for all guests.
 
-Guests are welcomed into a space where every detail is designed for relaxation and ease. The apartment, boasting air-conditioned interiors, features two serene bedrooms, a fully equipped kitchen for those who love to prepare their meals, and two well-appointed bathrooms, ensuring privacy and convenience for all guests. Entertainment needs are met with the inclusion of a flat-screen TV, perfect for unwinding after a day of exploration.
+Connectivity is never an issue, as free WiFi is available throughout the premises, allowing guests to easily stay in touch with loved ones or manage work commitments. For beach enthusiasts, Vjetër Beach is just 400 meters away, offering a quick escape to the sea's edge for moments of relaxation or a refreshing swim.
 
-The commitment to guest comfort is evident with the provision of complimentary WiFi throughout the property, allowing visitors to stay connected with loved ones or plan their next day's adventures without hassle. The non-smoking environment ensures a pleasant and healthy stay for everyone.
+For travelers arriving by air, the Tirana International Mother Teresa Airport is located 150 km from the apartment, making it a manageable distance for both international and domestic visitors.
 
-For those venturing from afar, the nearest airport, Ioannina Airport, is located 98 km away, making the Apartment near the sea an accessible retreat for international and domestic travelers alike.
-
-In summary, the Apartment near the sea in Sarandë offers a harmonious blend of location, comfort, and amenities, making it an ideal choice for those looking to experience the best of Vlorë County's coastal charm.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}
+Apartment near the sea stands out as a prime choice for those seeking a blend of comfort, convenience, and the opportunity to immerse themselves in the rich tapestry of Vlorë's coastal life.

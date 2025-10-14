@@ -4,9 +4,19 @@ description: The apartment itself is a study in comfort and efficiency, featurin
 featuredImage: "/images/accommodation/230757652.jpg"
 language: en
 slug: tirana-apartment-bb
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 3
+rating: 3
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "Bar"
+  - "Kitchen"
+  - "Balcony"
+  - "Mountain View"
+  - "Laundry"
+  - "TV"
 ---
 
 The apartment itself is a study in comfort and efficiency, featuring a well-equipped kitchenette with a dishwasher and an oven, a cozy seating area, and a bathroom with a bidet. The inclusion of a flat-screen TV ensures entertainment needs are met, while the balcony, adorned with outdoor furniture, offers stunning mountain views. Practical amenities such as bed linen, towels, and laundry service are thoughtfully provided, enhancing the stay.
@@ -15,14 +25,3 @@ For those looking to unwind, a snack bar and lounge are available on-site, offer
 
 Located just 13 km from Tirana International Mother Teresa Airport, Tirana Apartment B&B is not only easily accessible but also serves as a perfect base for exploring the vibrant city of Tirana.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

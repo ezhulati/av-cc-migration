@@ -7,6 +7,9 @@ featuredImage: /images/attractions/lin-basilica.jpg
 images: []
 language: en
 slug: lin-basilica
+seo:
+  metaTitle: "Basilica of Lin | Albania’s Ancient Mosaic by Lake Ohrid"
+  metaDescription: "Discover the 6th-century Basilica of Lin in Albania—home to rare Christian mosaics, lakeside history, and breathtaking views near Pogradec."
 ---
 
 1,500 Years of Mosaic, Memory, and Meaning
@@ -163,10 +166,3 @@ They walk where [Illyrians](https://albaniavisit.com/prehistory-albania/), [Roma
 
 The Basilica of Lin isn’t just a tourist stop. It’s a message from the past—preserved in stone, revealed in summer, and worth every step.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

@@ -1,28 +1,5 @@
----
-title: Sea view apartment 2
-description: "Guests will find themselves enveloped in the comfort of a spacious 2-bedroom apartment, thoughtfully designed with a living room that features a flat-..."
-featuredImage: "/images/accommodation/479185157.jpg"
-language: en
-slug: sea-view-apartment-2
-location: ""
-amenities: []
-images: []
----
-
-Guests will find themselves enveloped in the comfort of a spacious 2-bedroom apartment, thoughtfully designed with a living room that features a flat-screen TV equipped with satellite channels, a fully equipped kitchen for those home-cooked meals, and a bathroom complete with a bidet, ensuring a stay that blends convenience with the comforts of home.
+---\ntitle: "Sea view apartment 2"\ndescription: "Sea View Apartment 2 emerges as a prime choice for travelers seeking comfort and convenience in Skataj, boasting an enviable location just 100 meters from Shëngjin Beach and a short stroll from Ylberi Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479185157.jpg?k=7c324155331ca5d02589d311583313ad0fdad33047f1ea65cddf1cd43786d559&o=&hp=1"\nlanguage: en\nslug: sea-view-apartment-2\naddress: "Shëngjin - Kune, 4503 Skataj, Albania"\ncity: "Skataj"\nlocation: "Skataj"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.80736262\n  lng: 19.59927522\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479185157.jpg?k=7c324155331ca5d02589d311583313ad0fdad33047f1ea65cddf1cd43786d559&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/479185162.jpg?k=dfe1b0a627d6671379903b3790b8ae09c10e67d7128721977abae850059d5f0d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/430929190.jpg?k=b6eacdfaa29bea29c0b14f009989ce3feaca6bab000f69314618261d3e0f5fce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/430929192.jpg?k=e612e74c5d566a0e1d94d9b15725a4a1a292407e49eb009c554beebbdae87db3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/430929196.jpg?k=d5efa48e71c3a438cfcdfc1cd80ab99232e3ac0a4b426c6e08b6c71a24043176&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/479185159.jpg?k=2769483ca61c177d863a0cbc52f995dbe2261ded69ebfbe1d48d539425acee13&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/479185166.jpg?k=686e794b997cda8515f90c0108589aa0d74e2e871ee168c7275f717c45b9bdab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/479185175.jpg?k=b95bf65a81496a8bb67f96b11b6c8ad4b181fa83e93c8b8bdcea003350a5119a&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Hasi Shengjin 30 m"\n  - "Ermiri Palace 100 m"\nnearbyBeaches:\n  - "Shëngjin Beach 100 m"\n  - "Ylberi Beach 850 m"\n  - "Rana e Hedhun Beach 3 km"\n  - "Laguna Park Beach 4.3 km"\n  - "Kune Beach 4.3 km"\nairports:\n  - "Tirana International Airport Mother Teresa 43 km"\n  - "Podgorica Airport 66 km"\n  - "Tivat Airport 97 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nbookingURL: "https://www.booking.com/hotel/al/sea-view-apartment-2.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests will find themselves enveloped in the comfort of a spacious 2-bedroom apartment, thoughtfully designed with a living room that features a flat-screen TV equipped with satellite channels, a fully equipped kitchen for those home-cooked meals, and a bathroom complete with a bidet, ensuring a stay that blends convenience with the comforts of home.
 
 Strategically positioned, the apartment is a mere 42 km away from the historic Rozafa Castle Shkodra, offering an easy gateway to one of Albania's cultural treasures. For nature enthusiasts, Lake Skadar awaits at a distance of 43 km, presenting an opportunity to explore the natural beauty of the region. Moreover, the proximity to Tirana International Mother Teresa Airport, located 48 km away, ensures seamless travel arrangements for international guests.
 
 Sea View Apartment 2 stands out as a stellar accommodation choice, promising a memorable stay for those looking to explore the beauty and charm of Skataj and its surroundings.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

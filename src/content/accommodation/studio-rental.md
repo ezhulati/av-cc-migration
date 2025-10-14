@@ -1,28 +1,5 @@
----
-title: Studio rental
-description: The property distinguishes itself with both sea and mountain vistas, providing a scenic backdrop for a memorable stay. For those arriving by car, the convenienc
-featuredImage: "/images/accommodation/519974663.jpg"
-language: en
-slug: studio-rental
-location: ""
-amenities: []
-images: []
----
-
-The property distinguishes itself with both sea and mountain vistas, providing a scenic backdrop for a memorable stay. For those arriving by car, the convenience of private parking is available, albeit for an additional fee.
+---\ntitle: "Studio rental"\ndescription: "Studio Rental in Vlorë stands out as a prime choice for travelers seeking both comfort and convenience, with its strategic location offering panoramic city views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519974663.jpg?k=0e3e910ec75f48b5c7516dde959d890280419f6848851b0999a688abfc3e1b69&o=&hp=1"\nlanguage: en\nslug: studio-rental\naddress: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44184372\n  lng: 19.49631788\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 0\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519974663.jpg?k=0e3e910ec75f48b5c7516dde959d890280419f6848851b0999a688abfc3e1b69&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521136336.jpg?k=9574b4befcdf128428bbbd3c7209c85d3dfd0cc889665fe6905f59bab67565be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519974630.jpg?k=430741fdf1993dbf2ff9df3a7d5c9094da113c4a69db860d5cce1f963cdb7186&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519974601.jpg?k=4327a3c23d43a6c7e6c4434a7761d7de781797db2a9d18543494c1cd86068fc6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519974565.jpg?k=41528f23e0abf30b631568b020b987ed40d29a22d8139323241aa99ca5bcd4d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519974666.jpg?k=48f5344f027b6e0de8d79d47a7647867b5a88305c5c80fcbfdb70383ec37cf13&o=&hp=1"\namenities:\n  - "Private parking"\n  - "Fast free WiFi (54 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "Comfort Triple Room with Shower"\nnearbyBeaches:\n  - "Vlore Beach 150 m"\n  - "Ri Beach 700 m"\n  - "Vjetër Beach 1.7 km"\n  - "Beach at Government Villas 2.5 km"\n  - "Liro Beach 3.3 km"\nbookingURL: "https://www.booking.com/hotel/al/studio-rental.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe property distinguishes itself with both sea and mountain vistas, providing a scenic backdrop for a memorable stay. For those arriving by car, the convenience of private parking is available, albeit for an additional fee.
 
 Accommodations at Studio Rental are designed with guest comfort in mind, featuring private bathrooms and complimentary WiFi access across the board. Select units enhance the stay experience with the addition of balconies, inviting guests to enjoy the breathtaking views in privacy. Every unit is well-appointed with air conditioning and a flat-screen TV, catering to the modern traveler's needs.
 
 For guests interested in exploring local landmarks, Kuzum Baba is located just 3.3 km away, while Independence Square is slightly further at 3.6 km, offering a glimpse into the area's rich history and culture. For those traveling to or from the area, Tirana International Mother Teresa Airport is the nearest major airport, located 153 km from the accommodation, making Studio Rental an accessible option for international and domestic travelers alike.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

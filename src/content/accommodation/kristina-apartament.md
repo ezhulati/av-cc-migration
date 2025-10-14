@@ -1,28 +1,5 @@
----
-title: Kristina Apartament
-description: Guests at Kristina Apartament are treated to complimentary services including high-speed WiFi and on-site parking, ensuring a hassle-free stay. The apartment is
-featuredImage: "/images/accommodation/478697203.jpg"
-language: en
-slug: kristina-apartament
-location: ""
-amenities: []
-images: []
----
-
-Guests at Kristina Apartament are treated to complimentary services including high-speed WiFi and on-site parking, ensuring a hassle-free stay. The apartment is air-conditioned and features a single bedroom, complemented by a fully equipped kitchen for those who enjoy preparing their own meals. Entertainment is readily available with a flat-screen TV, making it a perfect setting for a cozy night in.
+---\ntitle: "Kristina Apartament"\ndescription: "Kristina Apartament, located in the vibrant heart of Sarandë, Vlorë County, offers guests a serene retreat with the convenience of modern amenities."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478697203.jpg?k=e33c44f063c13e43cffc76cd6328aba90182334529fd9b8cdfcddb9f1d6e37a7&o=&hp=1"\nlanguage: en\nslug: kristina-apartament\naddress: "Rruga Lefter Talo, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86615683\n  lng: 20.0294724\nprice: "US$60"\npriceFrom: 60\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 1\nratings:\n  overall: 9.2\n  location: 5\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478697203.jpg?k=e33c44f063c13e43cffc76cd6328aba90182334529fd9b8cdfcddb9f1d6e37a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478697300.jpg?k=4d65ec9948284a36d5fd543b1527ad46faff11dc9ad56053ffb53b92d8d8756f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478697276.jpg?k=96aeed4be2a5d9ded20c8aa0a503ce4c07413a7fca6acc5f3ccbae891306e207&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478697329.jpg?k=c5f9d7cdc264f0a03d2a0cf69f492444e946a9bbef09b293e637ddb275565056&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478697270.jpg?k=540eabc97f819d3699790e79bc55ce6b6f486f07d7b2cfc87675cbca51874a71&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478697303.jpg?k=2fb7c7d495e5411f44238f3b18f5db4009f6cade0e2b0636df998845a747753e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478697309.jpg?k=ae7a8cd7e19c1b6f0a2dc1733e515ce302b69554f9c069269c5c2d16af1ab233&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478697324.jpg?k=8d7f5e9e53c363713a16aed71a8a0ea0278cdb4ec6df3bf9a238a755603193e2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478697258.jpg?k=a8d7186fc34488c496c88a030604ce62497cef0d444db2003392de12c798f61c&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Terrace"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Natyra Restorant 200 m"\n  - "Shtepia E Totes 550 m"\nnearbyBeaches:\n  - "Maestral Beach 1.1 km"\n  - "VIP Beach 1.1 km"\n  - "Santa Quaranta Beach 1.2 km"\n  - "La Petite Beach 1.3 km"\n  - "Flamingo Beach 1.4 km"\nwhatsNearby:\n  - "Parc National de Butrint 900 m"\n  - "Butrint National Park 1.8 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 11 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 69 km"\nreviews:\n  - name: "Ivana"\n    country: "Serbia"\n    text: "“Great apartment, very spacious and clean. The staff is very polite and always ready to help!”"\nbookingURL: "https://www.booking.com/hotel/al/kristina-apartament.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Kristina Apartament are treated to complimentary services including high-speed WiFi and on-site parking, ensuring a hassle-free stay. The apartment is air-conditioned and features a single bedroom, complemented by a fully equipped kitchen for those who enjoy preparing their own meals. Entertainment is readily available with a flat-screen TV, making it a perfect setting for a cozy night in.
 
 For beach enthusiasts, Kristina Apartament is ideally situated within close proximity to some of Sarandë's most sought-after beaches. Maestral Beach is just 2 km away, offering a serene beach experience, while the popular Santa Quaranta Beach is a mere 2.7 km from the apartment. For those interested in exploring the rich history and natural beauty of the area, Butrint National Park, a UNESCO World Heritage site, is only 18 km away.
 
 Accessibility is also a key feature, with Ioannina Airport located 95 km from the accommodation, making Kristina Apartament a convenient choice for both local and international travelers seeking a memorable stay in Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

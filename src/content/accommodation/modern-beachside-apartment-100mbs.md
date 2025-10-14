@@ -1,28 +1,5 @@
----
-title: Modern Beachside Apartment 100Mbs
-description: "Guests will appreciate the thoughtful amenities that make this property stand out."
-featuredImage: "/images/accommodation/518326556.jpg"
-language: en
-slug: modern-beachside-apartment-100mbs
-location: ""
-amenities: []
-images: []
----
-
-Guests will appreciate the thoughtful amenities that make this property stand out. The apartment boasts a spacious layout, including a terrace for enjoying the coastal ambiance, a comfortable bedroom for restful nights, and a living room perfect for unwinding. The kitchen is well-equipped, complete with a minibar, catering to all culinary needs. Entertainment is readily available with the provision of a flat-screen TV, and for added convenience, the entire apartment is a non-smoking environment.
+---\ntitle: "Modern Beachside Apartment 100Mbs"\ndescription: "Modern Beachside Apartment 100Mbs stands out as a prime choice for travelers seeking comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518326556.jpg?k=e8623ae94f4ef94815a67e0da5d340313a77ae21f76e241cf88383c2a34dd8d1&o=&hp=1"\nlanguage: en\nslug: modern-beachside-apartment-100mbs\naddress: "Rruga Taulantia, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31084896\n  lng: 19.44129871\nprice: "US$39"\npriceFrom: 39\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 4\nratings:\n  overall: 9.6\n  location: 10\n  cleanliness: 10\n  facilities: 8.8\n  value: 10\n  comfort: 10\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518326556.jpg?k=e8623ae94f4ef94815a67e0da5d340313a77ae21f76e241cf88383c2a34dd8d1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518326518.jpg?k=cff4b498bb28654b1e43b37a7b1a959f36120db329a680f93dbac4d3a14aa05e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518326534.jpg?k=7b62302f7a1b1a3a970403cd8cdc7bd39db774ec22a6d986b96c1d223e7e7705&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518326531.jpg?k=b8f978a395f4c07fae9914b6b4a304d90d278dc8ffb1109607c3f53bb856516d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518326521.jpg?k=6e4e5b551833a140cef3eae91e85637d023ae55dd65a530c08d545e5edd1e1cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518326537.jpg?k=2dbb90e6d1213fa21c803654001847dfddf3a5390489dbea928b80290c6d56da&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518326496.jpg?k=74a6c89f3e86dd2d6493fb3e408f5fb60f835301a5554101cde54c2aebd6fffd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518326536.jpg?k=03ce7437fc6f2012cc7cca0c6186689d07034fa0286936a7fee53a2b60b726d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518326525.jpg?k=1c0b4d902480814c86030b974b10543134d1b852edcd2cf6ed8dafb13ca467f7&o=&hp=1"\namenities:\n  - "Swimming Pool"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Mema 10 m"\n  - "Bar OSLO 10 m"\nnearbyBeaches:\n  - "Currila Beach 50 m"\n  - "Kallmi Beach 1.1 km"\n  - "West End Beach 2.2 km"\n  - "Durres Beach 2.2 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nwhatsNearby:\n  - "1. Maj 150 m"\n  - "Durres Amphiteatre 350 m"\n  - "Yje Dhe Hena 800 m"\n  - "Wine Dhe Pooh 850 m"\n  - "Sheshi Demokracia 950 m"\n  - "Sotir Noka 1.2 km"\n  - "Bekimi 3.7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\nbookingURL: "https://www.booking.com/hotel/al/modern-beachside-apartment-100mbs.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests will appreciate the thoughtful amenities that make this property stand out. The apartment boasts a spacious layout, including a terrace for enjoying the coastal ambiance, a comfortable bedroom for restful nights, and a living room perfect for unwinding. The kitchen is well-equipped, complete with a minibar, catering to all culinary needs. Entertainment is readily available with the provision of a flat-screen TV, and for added convenience, the entire apartment is a non-smoking environment.
 
 Connectivity is never an issue, as free WiFi is available throughout the premises, ensuring guests stay connected with the world or plan their next adventure in Durrës. Notably, Currila Beach is a mere 70 meters away, inviting guests to enjoy the sand and sea at a moment's notice.
 
 For those arriving by air, the Tirana International Mother Teresa Airport is conveniently located 34 km from the apartment, making Modern Beachside Apartment 100Mbs an accessible and attractive option for both domestic and international travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,8 @@
----
-title: AiA Suites & Apartments
-description: Guests are treated to an array of modern amenities in each unit, including air conditioning, a cozy seating area, and a flat-screen TV equipped with streaming s
-featuredImage: "/images/accommodation/462935747.jpg"
-language: en
-slug: aia-suites-apartments
-location: ""
-amenities: []
-images: []
----
-
-Guests are treated to an array of modern amenities in each unit, including air conditioning, a cozy seating area, and a flat-screen TV equipped with streaming services for entertainment at any time. The inclusion of a fully-equipped kitchen, complete with a microwave, toaster, fridge, and kettle, ensures that guests have everything they need to feel at home. Additionally, the private bathrooms come with luxurious bathrobes, a bath, and slippers, adding a touch of elegance to the stay. For convenience, all units feature a wardrobe for storage.
+---\ntitle: "AiA Suites & Apartments"\ndescription: "AiA Suites & Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462935747.jpg?k=e807a893d62a7667361fc6688af134dc76048d03261e805e7db473dae5b8f473&o=&hp=1"\nlanguage: en\nslug: aia-suites-apartments\naddress: "Rruga Reshit Petrela, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33641253\n  lng: 19.81411615\nprice: "US$62"\npriceFrom: 62\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 95\nratings:\n  overall: 9.6\n  location: 9.3\n  cleanliness: 9.5\n  facilities: 9.5\n  value: 9.6\n  comfort: 9.5\n  staff: 9.5\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462935747.jpg?k=e807a893d62a7667361fc6688af134dc76048d03261e805e7db473dae5b8f473&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477285828.jpg?k=1985e378cde997692b9fe0eb3b60010c5a44a29c5f587be63c4cea8b4ecc4016&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477285115.jpg?k=0a09ef9e3a673ca0fa81565225b29d7987db7dedd0216a2ed9cd255da9d1bdb4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411124215.jpg?k=f3547547e61cb4de9e2475a2026f34bb7303eb6fe0b1e7e5accd0238020b40c8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478647275.jpg?k=226c26b45be7c3adae9e40d665d169c93fee547b114f8b0243b7cf5df3a188b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462934945.jpg?k=d796c229a0b07543b82ec721eadf42f9e114d57188335c043dbafaf5b5352e1d&o=&hp=1"\namenities:\n  - "Private parking"\n  - "Free WiFi"\nroomTypes:\n  - "Junior Suite"\n  - "Junior Suite"\nnearbyAttractions:\n  - "House of Leaves 1.1 km"\n  - "National Gallery of Arts Tirana 1.3 km"\n  - "Rinia Park 1.3 km"\n  - "Tanners' Bridge 1.5 km"\n  - "Former Residence of Enver Hoxha 1.7 km"\n  - "Grand Park of Tirana 2.9 km"\n  - "Bunk'Art 1 Museum 4.2 km"\nnearbyRestaurants:\n  - "Teo 40 m"\n  - "Istanbul Simit & Borek 40 m"\nwhatsNearby:\n  - "Amazing Nature 550 m"\n  - "Sheshi Rekreativ Mine Peza 600 m"\n  - "Sheshi Rekreativ Don Bosko 650 m"\n  - "Sheshi Paris 800 m"\n  - "National Museum of History Albania 800 m"\n  - "Sheshi Skënderbej 950 m"\n  - "Skanderbeg Square 1 km"\n  - "Clock Tower Tirana 1.1 km"\n  - "Parku Europa 1.1 km"\n  - "Sheshi Sulejman Pasha 1.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Mastercard"\nreviews:\n  - name: "Daniel"\n    country: "France"\n    text: "“Everything was just as it was in the pictures.
+Host: He was always responsive and available anytime I texted or needed something.
+Apartment: It was very clean and equipped with everything you could need in an apartment.
+Location: It is...”"\n  - name: "Nini"\n    country: "Albania"\n    text: "“The details of the property and the locatiom was great.”"\n  - name: "Travis"\n    country: "United States"\n    text: "“Location was exactly what I needed, close walk or taxi to many things. Unlimited in and out parking was available for a small additional charge. Photos were accurate.”"\nbookingURL: "https://www.booking.com/hotel/al/aia-apartments-tirana-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests are treated to an array of modern amenities in each unit, including air conditioning, a cozy seating area, and a flat-screen TV equipped with streaming services for entertainment at any time. The inclusion of a fully-equipped kitchen, complete with a microwave, toaster, fridge, and kettle, ensures that guests have everything they need to feel at home. Additionally, the private bathrooms come with luxurious bathrobes, a bath, and slippers, adding a touch of elegance to the stay. For convenience, all units feature a wardrobe for storage.
 
 For those looking to explore the city on two wheels, AiA Suites & Apartments offers a bicycle rental service, making it easy to navigate the bustling streets of Tirana. The property is also in close proximity to cultural hotspots such as the National Museum of History Albania, the National Theatre of Opera and Ballet of Albania, and the intriguing House of Leaves, making it an ideal base for cultural enthusiasts.
 
 Situated just 13 km from Tirana International Mother Teresa Airport, the accommodation ensures a hassle-free travel experience for guests. With its combination of prime location, comprehensive amenities, and the promise of a memorable stay, AiA Suites & Apartments stands out as a top accommodation choice for visitors to Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

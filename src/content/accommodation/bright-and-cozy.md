@@ -1,15 +1,4 @@
----
-title: Bright and Cozy
-description: Upon entering Bright and Cozy, guests are greeted with a spacious, air-conditioned living space that opens up to a private balcony, allowing for a seamless blen
-featuredImage: "/images/accommodation/470573174.jpg"
-language: en
-slug: bright-and-cozy
-location: ""
-amenities: []
-images: []
----
-
-Upon entering Bright and Cozy, guests are greeted with a spacious, air-conditioned living space that opens up to a private balcony, allowing for a seamless blend of indoor comfort and outdoor relaxation. The apartment boasts two well-appointed bedrooms, ensuring a restful night's sleep for all. The heart of the home, a fully equipped kitchen, invites guests to prepare and enjoy their meals with ease, adding a touch of home-away-from-home convenience to their stay.
+---\ntitle: "Bright and Cozy"\ndescription: "Bright and Cozy stands out as a prime choice for travelers seeking comfort and convenience in Durrës, located just a stone's throw away from the pristine Durres Beach and within easy reach of the city's most notable attractions."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470573174.jpg?k=50e0bd148cf1d5f0464322d9d60a65643f56f6c329e80c5f7d1be35560b30115&o=&hp=1"\nlanguage: en\nslug: bright-and-cozy\naddress: "Rruga Pavaresia, 1506 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31420181\n  lng: 19.47573128\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470573174.jpg?k=50e0bd148cf1d5f0464322d9d60a65643f56f6c329e80c5f7d1be35560b30115&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/470573190.jpg?k=f3a4175af056ee588119c28db50aa6661c03a053fb44c3ecd169d747285056ef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/470573135.jpg?k=2608e4ba84cc6f78931de340fe093eb94cda1aba1641513873aa41ae9eb3e92d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/470573048.jpg?k=f5b31edf697b3b3fe920e38d32a004d4a8ff659a38ae03463248442cd63cc9b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/470573144.jpg?k=dc6ada3abc79326ba09a3f13d3be043f5616ed6fe1be4803c7ea788060ba2ebd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/470573164.jpg?k=652701582eadeb0317efc6234c8de92796cd97ee71fdc9d0a679fcc5da79dece&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/470573129.jpg?k=890cb1bae2335fad4a264abfa5e1e19cddcbfea0bda4a2cac95894017818ed7c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/470573154.jpg?k=ebe5b99c0b464fbc65c6d1c79862a738afdc32c0daf9a696f561c4af42909cce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/470573120.jpg?k=5d56f6f99486ca7cfd0334c8f0c9f8c8a63925ec81ec73718936f404e9e403b2&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Cameria 30 m"\n  - "Troy Piceri Grill House 100 m"\nnearbyBeaches:\n  - "Durres Beach 100 m"\n  - "Currila Beach 2.5 km"\n  - "Kallmi Beach 3.7 km"\n  - "Shkëmbi i Kavajës Beach 4.2 km"\n  - "West End Beach 4.6 km"\nwhatsNearby:\n  - "Bekimi 1.6 km"\n  - "Wine Dhe Pooh 2.3 km"\n  - "Sheshi Demokracia 2.3 km"\n  - "Yje Dhe Hena 2.4 km"\n  - "Sotir Noka 2.5 km"\n  - "Durres Amphiteatre 2.6 km"\n  - "1. Maj 2.8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/bright-and-cozy.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nUpon entering Bright and Cozy, guests are greeted with a spacious, air-conditioned living space that opens up to a private balcony, allowing for a seamless blend of indoor comfort and outdoor relaxation. The apartment boasts two well-appointed bedrooms, ensuring a restful night's sleep for all. The heart of the home, a fully equipped kitchen, invites guests to prepare and enjoy their meals with ease, adding a touch of home-away-from-home convenience to their stay.
 
 Entertainment is readily available with a flat-screen TV, complemented by free WiFi throughout the property, keeping guests connected and entertained during their downtime. Despite being a non-smoking facility, Bright and Cozy ensures that all guests find their perfect spot to unwind within its welcoming confines.
 
@@ -18,15 +7,3 @@ Strategically located, the apartment is not only moments away from the beach but
 For history enthusiasts, the House of Leaves and Rinia Park are both situated 37 km from the apartment, offering a glimpse into Albania's past and present. Moreover, the convenience of being just 31 km from Tirana International Mother Teresa Airport makes Bright and Cozy an ideal base for both international travelers and those looking to explore the rich cultural tapestry of Durrës and its surroundings.
 
 In summary, Bright and Cozy emerges as a top recommendation for those in search of a comfortable, well-located, and thoughtfully equipped accommodation in Durrës, promising a stay that is as relaxing as it is enriching.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

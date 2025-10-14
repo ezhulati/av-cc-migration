@@ -1,28 +1,5 @@
----
-title: Villa Selcotis
-description: Designed with relaxation in mind, the air-conditioned residence features a tastefully appointed bedroom, a cozy living room for unwinding, a fully equipped kitc
-featuredImage: "/images/accommodation/473298419.jpg"
-language: en
-slug: villa-selcotis
-location: ""
-amenities: []
-images: []
----
-
-Designed with relaxation in mind, the air-conditioned residence features a tastefully appointed bedroom, a cozy living room for unwinding, a fully equipped kitchen for culinary adventures, and a modern bathroom. Entertainment needs are well catered to with the inclusion of a flat-screen TV, ensuring guests have all the comforts of home at their fingertips.
+---\ntitle: "Villa Selcotis"\ndescription: "Villa Selcotis emerges as a serene oasis in Golem, offering guests a unique blend of comfort and convenience with its prime location just a stone's throw away from the pristine Shkëmbi i Kavajës Beach and a short distance from the vibrant Mali I Robit Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473298419.jpg?k=1d8025bdeaf8eadedeac160e4c0a300f0c3f18097e341688b5164d0e9506f75e&o=&hp=1"\nlanguage: en\nslug: villa-selcotis\naddress: "Rruga Hekurudha, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.25934858\n  lng: 19.52531394\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 2\nratings:\n  overall: 8.4\n  location: 7.5\n  cleanliness: 7.5\n  facilities: 8.8\n  value: 7.5\n  comfort: 8.8\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473298419.jpg?k=1d8025bdeaf8eadedeac160e4c0a300f0c3f18097e341688b5164d0e9506f75e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475636524.jpg?k=5a194f56aea3df7efdfed90e79db1c5f04a39c15bbcba49b9405e70133dc01aa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473298461.jpg?k=820f14201f7ffbd5d226c912214594afd31ad618dbbfa1e20022a89e9ac812a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475636255.jpg?k=c8fc60a276aefdb8f4bf574d4abece1bddfd80fedaf45ea05885704581180837&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475636048.jpg?k=7e0e16a83b4b6e692ca70c0befcf7f3a82ac6e5555cf569471f65ecaf701ca55&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474386682.jpg?k=aad441a4f68e921d373e6e7a3459aee641e3eaf8e1604052e2fd95e194e74a54&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473298456.jpg?k=d314e82117f916c4c123d35080ca0e47dfe32be7b1e23fc111da6eb13c6dfc5b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475865265.jpg?k=d80e0be9a395c6c2e03fd17a146918c7d49ffa3fbad64b136e7a120cb47b3f11&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476410283.jpg?k=dde918c39b891d9fdd6f8b64cffc84fa007bd568f42787c93c55cf05184cdbc0&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Flobede Furrë Buke 150 m"\n  - "Oaz Durres 600 m"\nnearbyBeaches:\n  - "Golem Beach 450 m"\n  - "Shkëmbi i Kavajës Beach 850 m"\n  - "Mali I Robit Beach 1.3 km"\n  - "Durres Beach 3.2 km"\n  - "Qerret Beach 3.4 km"\nwhatsNearby:\n  - "Bekimi 9 km"\n  - "Durres Amphiteatre 9 km"\n  - "Wine Dhe Pooh 9 km"\n  - "1. Maj 9 km"\n  - "Yje Dhe Hena 9 km"\n  - "Sheshi Demokracia 9 km"\n  - "Sotir Noka 10 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/villa-selcotis-golem1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nDesigned with relaxation in mind, the air-conditioned residence features a tastefully appointed bedroom, a cozy living room for unwinding, a fully equipped kitchen for culinary adventures, and a modern bathroom. Entertainment needs are well catered to with the inclusion of a flat-screen TV, ensuring guests have all the comforts of home at their fingertips.
 
 Strategically positioned, Villa Selcotis is not only a mere 700 meters from the inviting sands of Golem Beach but also within easy reach of notable attractions such as the Dajti Ekspres Cable Car and the iconic Rock of Kavaje. For those looking to explore the rich history and culture of the area, Skanderbeg Square is accessible within a drive, offering a glimpse into the heart of local heritage.
 
 Accessibility is a breeze, with Tirana International Mother Teresa Airport located just 38 km away, making Villa Selcotis an ideal choice for both domestic and international travelers seeking a tranquil retreat amidst the beauty of Golem.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

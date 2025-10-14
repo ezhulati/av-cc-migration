@@ -1,30 +1,7 @@
----
-title: Supreme 792
-description: "The interior of Supreme 792 is a testament to modern living, featuring an air-conditioned space that encompasses a cozy bedroom, a welcoming living ro..."
-featuredImage: "/images/accommodation/478841472.jpg"
-language: en
-slug: supreme-792
-location: ""
-amenities: []
-images: []
----
-
-The interior of Supreme 792 is a testament to modern living, featuring an air-conditioned space that encompasses a cozy bedroom, a welcoming living room, and a fully equipped kitchen complete with a refrigerator. The bathroom is well-appointed with a shower and complimentary toiletries, ensuring a comfortable stay. Entertainment needs are catered to with a flat-screen TV, making it a perfect retreat for relaxation. It's worth noting that the accommodation maintains a non-smoking policy, ensuring a fresh and clean environment for all guests.
+---\ntitle: "Supreme 792"\ndescription: "Supreme 792 emerges as a prime choice for travelers seeking comfort and convenience in Golem, positioned just a stone's throw away from the serene Qerret Beach and a brief stroll from the picturesque Mali I Robit Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478841472.jpg?k=53457ef74ffc6ef18f006b21bcb186026948549afb988fccae443cc7b4e757d5&o=&hp=1"\nlanguage: en\nslug: supreme-792\naddress: "6G95+G35 5th floor, 2001 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.2187625\n  lng: 19.5077344\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 2\nratings:\n  overall: 8.4\n  location: 10\n  cleanliness: 8.8\n  facilities: 6.3\n  value: 7.5\n  comfort: 8.8\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478841472.jpg?k=53457ef74ffc6ef18f006b21bcb186026948549afb988fccae443cc7b4e757d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478841309.jpg?k=acd7cc698f8b7eca2d5750d5e0053ec1356dfde84850664f1cce42aaef00870c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478841424.jpg?k=376c821dc14855e3ca37e13f70fa7bba7882aa5b9f9f189c131ecc2276da7787&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486539010.jpg?k=1ef28418809417de044716ba2b4d81c4c849b660c87a212fc3eb609f817b8621&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478841405.jpg?k=e2dd15e091c51cb2f47b059e76d32ed091078c18dcb5c480caf4d5ba9d1750c7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486539012.jpg?k=0f54b1526ce577db3c03fe590373671704be992344b46ba55be87905a2a6eac6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478841459.jpg?k=3fd838d9a73b67d5f2a35c25777dedc3dc0d5f424205c2f48b2be8afce3223e0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478841444.jpg?k=d5c3305f89437cb66817d6d7841281c36474e59393ccfd6aa1341e01f85c262b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478841417.jpg?k=688a5e8e3a0ac7512579e2a3006d3c25fe332b5a339bf5e1eb577fe443918863&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Facilities for disabled guests"\n  - "Family rooms"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Panorama by Supreme Hotel & Spa 50 m"\n  - "Ylberi Bar Restorant 200 m"\nnearbyBeaches:\n  - "Qerret Beach 150 m"\n  - "Mali I Robit Beach 1.3 km"\n  - "Golem Beach 3.4 km"\n  - "Shkëmbi i Kavajës Beach 5 km"\n  - "Durres Beach 7 km"\nwhatsNearby:\n  - "Durres Amphiteatre 12 km"\n  - "1. Maj 12 km"\n  - "Wine Dhe Pooh 12 km"\n  - "Yje Dhe Hena 12 km"\n  - "Sheshi Demokracia 12 km"\n  - "Bekimi 12 km"\n  - "Sotir Noka 12 km"\n  - "Divjake-Karavasta National Park 18 km"\nairports:\n  - "Tirana International Airport Mother Teresa 27 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nbookingURL: "https://www.booking.com/hotel/al/1-bedroom-apartment-792.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe interior of Supreme 792 is a testament to modern living, featuring an air-conditioned space that encompasses a cozy bedroom, a welcoming living room, and a fully equipped kitchen complete with a refrigerator. The bathroom is well-appointed with a shower and complimentary toiletries, ensuring a comfortable stay. Entertainment needs are catered to with a flat-screen TV, making it a perfect retreat for relaxation. It's worth noting that the accommodation maintains a non-smoking policy, ensuring a fresh and clean environment for all guests.
 
 For those who prefer the convenience of preparing their own meals or need to grab a quick snack, a minimarket on the premises offers a variety of options. Additionally, guests are invited to unwind and soak up the sun on the apartment's terrace, offering a tranquil setting for relaxation.
 
 Located 50 km from the historic Skanderbeg Square and just 8.1 km from the intriguing Rock of Kavaje, Supreme 792 serves as an ideal base for exploring the local area. For guests arriving by air, Tirana International Mother Teresa Airport is 44 km away, with the apartment providing a paid shuttle service for a hassle-free transfer.
 
 In summary, Supreme 792 stands out as a well-appointed and strategically located accommodation option in Golem, offering guests a blend of comfort, convenience, and accessibility, making it an excellent choice for both short and extended stays.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

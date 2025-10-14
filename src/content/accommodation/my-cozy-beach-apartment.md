@@ -1,30 +1,7 @@
----
-title: My Cozy Beach Apartment
-description: The apartment itself boasts a generous layout, featuring two well-appointed bedrooms, a comfortable living room, and a balcony that presents breathtaking sea vi
-featuredImage: "/images/accommodation/525989244.jpg"
-language: en
-slug: my-cozy-beach-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself boasts a generous layout, featuring two well-appointed bedrooms, a comfortable living room, and a balcony that presents breathtaking sea views. Modern amenities such as air conditioning, a flat-screen TV, and a fully equipped kitchen with an oven and microwave ensure guests feel right at home. The inclusion of a bathroom equipped with a bidet adds a touch of luxury to the stay. Moreover, the property prides itself on being a non-smoking environment, ensuring a clean and healthy atmosphere for all guests.
+---\ntitle: "My Cozy Beach Apartment"\ndescription: "My Cozy Beach Apartment emerges as a serene retreat in the vibrant city of Vlorë, located just a stone's throw away from the pristine Liro Beach and a short drive from the lively Coco Bongo Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525989244.jpg?k=2e0685b95fc0ce36b3711f7bea76ea892c6082bec04abb8c57b38235df64c0ce&o=&hp=1"\nlanguage: en\nslug: my-cozy-beach-apartment\naddress: "Vlorë Bypass, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.41563614\n  lng: 19.48507394\nprice: "US$69"\npriceFrom: 69\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525989244.jpg?k=2e0685b95fc0ce36b3711f7bea76ea892c6082bec04abb8c57b38235df64c0ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/525989242.jpg?k=9cb0d960edec1bc2ae3cd43882fe2a78dddb13421fd47b8d43d980935f74f724&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/525989248.jpg?k=a070dc3587a76458a146df20ef15470469460e2722b94c735ee1d4bce7f9a57a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/525989249.jpg?k=96a9247a0956f98983f84a6fd75e142d950b110438469afbc95675b2a65724ff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/525989255.jpg?k=0d12eea4662cf0bae7310752ea038e6b943f174455a79a4712a5273706c7f2a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/525989259.jpg?k=c2a27c96e4ecb9e0e89808744050671b26f0561ab925540250c1afe9ffdb337c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/525997598.jpg?k=b09c3d26e07b6a210decbca9f9a07848e4ea079f7966cfd779ff1394359d3820&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Apartment with Balcony"\nnearbyRestaurants:\n  - "Taverna Djepi 40 m"\n  - "Perla E Jonit 100 m"\nnearbyBeaches:\n  - "Beach at Government Villas 250 m"\n  - "Liro Beach 350 m"\n  - "Coco Bongo Beach 1.3 km"\n  - "Sunny Beach 1.5 km"\n  - "Ri Beach 1.8 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 2.5 km"\n  - "Kuzum Baba 6 km"\n  - "Independence Square 6 km"\nairports:\n  - "Corfu International Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/renthomealbania.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself boasts a generous layout, featuring two well-appointed bedrooms, a comfortable living room, and a balcony that presents breathtaking sea views. Modern amenities such as air conditioning, a flat-screen TV, and a fully equipped kitchen with an oven and microwave ensure guests feel right at home. The inclusion of a bathroom equipped with a bidet adds a touch of luxury to the stay. Moreover, the property prides itself on being a non-smoking environment, ensuring a clean and healthy atmosphere for all guests.
 
 One of the highlights of My Cozy Beach Apartment is its location. Less than 1 km from the exclusive Beach at Government Villas and surrounded by a variety of dining options, guests have the luxury of choice when it comes to spending their days. Whether it's lounging on the beach or exploring the local cuisine, there's something for everyone.
 
 For those interested in exploring the cultural aspects of Vlorë, the historic Independence Square is just 7.1 km away, offering a glimpse into the city's rich heritage. Additionally, the convenience of having Tirana International Mother Teresa Airport 156 km away means that this haven is easily accessible for international travelers.
 
 With complimentary WiFi and private parking on site, My Cozy Beach Apartment not only promises a comfortable stay but also peace of mind. The quiet street views further enhance the serene experience, making it a top choice for travelers seeking both relaxation and adventure in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

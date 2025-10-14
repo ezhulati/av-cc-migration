@@ -1,26 +1,5 @@
----
-title: Andrea House
-description: This air-conditioned retreat boasts two elegantly appointed bedrooms, a fully equipped kitchen for those who love to prepare their own meals, and two well-maint
-featuredImage: "/images/accommodation/454857152.jpg"
-language: en
-slug: andrea-house
-location: ""
-amenities: []
-images: []
----
-
-This air-conditioned retreat boasts two elegantly appointed bedrooms, a fully equipped kitchen for those who love to prepare their own meals, and two well-maintained bathrooms, enhancing the comfort of each stay. Entertainment needs are catered to with the provision of a flat-screen TV, making it an ideal setting for families or groups seeking a homely experience.
+---\ntitle: "Andrea House"\ndescription: "Andrea House emerges as a distinguished choice for travelers seeking a serene getaway in Berat, offering a seamless blend of comfort and convenience with its modern amenities and strategic location."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454857152.jpg?k=b7953a908b107a122048755b580099ded564c44fb852c7655964d1a91a587c99&o=&hp=1"\nlanguage: en\nslug: andrea-house\naddress: "Rruga Margarita Kumani, Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.70269575\n  lng: 19.958841\nprice: "US$58"\npriceFrom: 58\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 49\nratings:\n  overall: 9.3\n  location: 9\n  cleanliness: 9.6\n  facilities: 9.2\n  value: 9.5\n  comfort: 9.3\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454857152.jpg?k=b7953a908b107a122048755b580099ded564c44fb852c7655964d1a91a587c99&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468310766.jpg?k=290dad1d53253a61ab2199a0fb40a745c6ba5a435b9406bd905723bd011489c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468309273.jpg?k=e9b927406214ec2012fdb818051160d5a34f6c4e1e37ad83bd13988f54ad4eb4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468308945.jpg?k=d28e1e8d4bc2e0069f0d3ec08292a951759982006eeb53b927f258e0ac5bb20f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468311643.jpg?k=9864b73b7992ae1e97d7bc0f44ea92ec81616be0625810c85ef1def345275c8c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468310418.jpg?k=8134b601dc67b097458e2b5e67d7f040fb3493508f63d72c86339dee8bf402f2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455752328.jpg?k=6c91f74ba3c94e8dc3cad45f755ce38d1cac637dbb50c80291361b404ac01a09&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454857131.jpg?k=675c8d51f935f51f24355f09deb7f98a92c5ae1f51f20cbb9b1b84db9c5186ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471025187.jpg?k=de1f66226f0918b35e69bddf90f85f63bd1c967bf21e7e07c0f5beb457fae779&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom House"\nnearbyRestaurants:\n  - "Restorant Il Gusto 100 m"\n  - "Gimi Coffee House 150 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 8 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 80 km"\n  - "Ohrid Airport 83 km"\nreviews:\n  - name: "Sherif"\n    country: "Albania"\n    text: "“Quiet and clean place, the owners are very helpful and friendly.”"\n  - name: "Daniel"\n    country: "Uruguay"\n    text: "“Amazing house, great host!!
+Tremendous location, great place to enjoy such a beautiful town.”"\n  - name: "Michael"\n    country: "United Kingdom"\n    text: "“Air conditioning was fantastic, and needed when it was 41°C. Very clean and comfortable.
+Washing machine and space to dry were excellent.”"\nbookingURL: "https://www.booking.com/hotel/al/andrea-house.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nThis air-conditioned retreat boasts two elegantly appointed bedrooms, a fully equipped kitchen for those who love to prepare their own meals, and two well-maintained bathrooms, enhancing the comfort of each stay. Entertainment needs are catered to with the provision of a flat-screen TV, making it an ideal setting for families or groups seeking a homely experience.
 
 Situated a considerable distance from the hustle and bustle, yet within reach of Tirana International Mother Teresa Airport at 119 km, Andrea House presents an appealing option for those looking to explore Berat while enjoying the tranquility and privacy of a non-smoking environment.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

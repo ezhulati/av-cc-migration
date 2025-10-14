@@ -1,28 +1,5 @@
----
-title: Bujtina Eleni
-description: The hotel prides itself on offering well-appointed rooms, each featuring a balcony that provides guests with a personal outdoor space to enjoy the surrounding b
-featuredImage: "/images/accommodation/363239942.jpg"
-language: en
-slug: bujtina-eleni
-location: ""
-amenities: []
-images: []
----
-
-The hotel prides itself on offering well-appointed rooms, each featuring a balcony that provides guests with a personal outdoor space to enjoy the surrounding beauty. Comfort is paramount, with each room boasting air conditioning and a flat-screen TV, ensuring a restful and enjoyable stay.
+---\ntitle: "Bujtina Eleni"\ndescription: "Bujtina Eleni emerges as a charming retreat in the heart of Himare, merely a stone's throw away from the pristine Llamani Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363239942.jpg?k=0b980384fb791cf03b1c2a9744b99902a9e3ecf3c6f86328dbb828fba9a692ce&o=&hp=1"\nlanguage: en\nslug: bujtina-eleni\naddress: "SH8 Llaman, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.08985066\n  lng: 19.76418457\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 45\nratings:\n  overall: 9.4\n  location: 8.2\n  cleanliness: 9.8\n  facilities: 9.7\n  value: 9.4\n  comfort: 9.8\n  staff: 9.6\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363239942.jpg?k=0b980384fb791cf03b1c2a9744b99902a9e3ecf3c6f86328dbb828fba9a692ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363240050.jpg?k=f350539b11282b72812f3b93a6e94430a5ee0dfa3a926f2b3b7a62a71dcdbaa5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363240100.jpg?k=f969e6c7fd74929937f223ac28ae1d1a1af29d23dd483cbcd294b667cedcec5a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363240119.jpg?k=1e29fa4c9a1a833b589b42b790776e3c2a56c0c35fbda0d4a63d38cc69d8d650&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363240114.jpg?k=61be6cbce9070a9e9adc21694f92385ef93613b1ce52221eb602a24c3d1e479f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363240085.jpg?k=0cde3b78001dbc3f71edf5acde86b8ec865402583222b8ec0b651d6216d52053&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363240093.jpg?k=b046049b136d1edd455b1c6ab9b03861affbaf7c2fd196fe22725c6c728d891b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363240021.jpg?k=844fdc1af94464e84a95720f9e84815269a60ab98cc1ec4787dc53c0de75c6f1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363240007.jpg?k=33c70835c80a506ddbfb8626385d1c1394fddce165aae8573e3d5e473700382c&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Family rooms"\n  - "Bar"\nnearbyRestaurants:\n  - "Taverna Velco 700 m"\n  - "Taverna Pirosia 800 m"\nnearbyBeaches:\n  - "Potam Beach 800 m"\n  - "Llamani Beach 1 km"\n  - "Prinos Beach 1.1 km"\n  - "Gjiri i Filikurit Beach 1.1 km"\n  - "Maracit Beach 1.6 km"\nwhatsNearby:\n  - "Llogora National Park 18 km"\nairports:\n  - "Corfu International Airport 54 km"\nreviews:\n  - name: "Armando"\n    country: "Albania"\n    text: "“I love this place this people especially Eleni.Perfect place to choose ! Thank u for everthing!”"\n  - name: "Eni"\n    country: "United Kingdom"\n    text: "“Everything was clean and room was cozy. The hosts were so cheerful, kind and very helpful. Lovely breeze and quietness in the balcony.”"\n  - name: "Dedej"\n    country: "Albania"\n    text: "“Everything went good. The owners were very friendly and hospitable. Hope to see them in the next trip😊”"\nbookingURL: "https://www.booking.com/hotel/al/bujtina-eleni-himare4.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe hotel prides itself on offering well-appointed rooms, each featuring a balcony that provides guests with a personal outdoor space to enjoy the surrounding beauty. Comfort is paramount, with each room boasting air conditioning and a flat-screen TV, ensuring a restful and enjoyable stay.
 
 Guests at Bujtina Eleni benefit from the convenience of a shared kitchen, attentive room service, and a currency exchange facility, catering to all their needs during their stay. The 24-hour front desk is a testament to the hotel's commitment to guest satisfaction, with a multilingual staff fluent in Greek, English, and Albanian ready to assist with any inquiries or recommendations.
 
 For those traveling to or from the region, the proximity to Ioannina Airport, located 141 km away, adds an extra layer of convenience, making Bujtina Eleni a compelling choice for both domestic and international travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

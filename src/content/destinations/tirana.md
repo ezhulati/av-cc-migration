@@ -5,11 +5,14 @@ region: Central Albania
 featuredImage: /images/destinations/AdobeStock_287498228.jpeg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: tirana
 highlights: []
+seo:
+  metaDescription: "Dive into the vibrant culture of [category Title] with our diverse range of products."
 ---
 
 Custom Audio Player 
@@ -261,10 +264,3 @@ Visit for the history. Stay for the contradictions.
 
 This is Tirana.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

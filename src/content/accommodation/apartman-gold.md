@@ -1,34 +1,7 @@
----
-title: Apartman Gold
-description: A mere stone's throw from significant landmarks such as the Rock of Kavaje and within a comfortable distance from the historical Durres Amphitheatre, Apartman G
-featuredImage: "/images/accommodation/526282939.jpg"
-language: en
-slug: apartman-gold
-location: ""
-amenities: []
-images: []
----
-
-A mere stone's throw from significant landmarks such as the Rock of Kavaje and within a comfortable distance from the historical Durres Amphitheatre, Apartman Gold serves as a perfect base for cultural enthusiasts. Moreover, its proximity to the Former Residence of Enver Hoxha and the vibrant Skanderbeg Square, both located 49 km away, offers guests a unique glimpse into Albania's rich history and contemporary life.
+---\ntitle: "Apartman Gold"\ndescription: "Apartman Gold emerges as a prime choice for travelers seeking comfort and convenience in Golem, situated merely 400 meters from the serene Qerret Beach and a short stroll from the picturesque Mali I Robit Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526282939.jpg?k=bebf9dc89acf24d3a6e709000481cb93a9c4010b4b0cb18017770bdc25fee5e4&o=&hp=1"\nlanguage: en\nslug: apartman-gold\naddress: "Rruga e Fshatrave Turistike, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.2233348\n  lng: 19.5136285\nprice: "US$68"\npriceFrom: 68\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526282939.jpg?k=bebf9dc89acf24d3a6e709000481cb93a9c4010b4b0cb18017770bdc25fee5e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526283186.jpg?k=fc9b805db19f9aa5658114b5a640ab354dc9069e30d038ccd90bcadbd6272347&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526283048.jpg?k=f70d0482bc729fcc6b79491e15fe9260bc741b74269c4295a6cf6336e03f0519&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526283162.jpg?k=fe1bb085283767e0685045e95447f829ee869998b9f1b75fbaca8b8098b16fde&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526283169.jpg?k=db1a13a31c4b1f41dc1cb48c3f321d29d7befab6855f9496cc4ce0ea224cf6a1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526283126.jpg?k=725987e641031f7addeb0448ea73d4ef784fa78bc16010a1cd7e12a3b86e9904&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526283174.jpg?k=6f774336b3ca2d03d8a97f72a08aef5b26866feada03a3b0e4302eed16c2e857&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526283215.jpg?k=28ecce79e8fda71f8f735199780b32b4b6a75138336f35497815352d25637c33&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526283036.jpg?k=726a70270a7535a3568926fe10d56e4bf38bc9ef715ce2598f31140ff7c9edfa&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Baca 500 m"\n  - "Panorama by Supreme Hotel & Spa 750 m"\nnearbyBeaches:\n  - "Qerret Beach 300 m"\n  - "Mali I Robit Beach 750 m"\n  - "Golem Beach 2.8 km"\n  - "Shkëmbi i Kavajës Beach 4.7 km"\n  - "Durres Beach 7 km"\nwhatsNearby:\n  - "Durres Amphiteatre 11 km"\n  - "1. Maj 12 km"\n  - "Wine Dhe Pooh 12 km"\n  - "Yje Dhe Hena 12 km"\n  - "Sheshi Demokracia 12 km"\n  - "Bekimi 12 km"\n  - "Sotir Noka 12 km"\n  - "Divjake-Karavasta National Park 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 26 km"\nbookingURL: "https://www.booking.com/hotel/al/apartman-gold.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nA mere stone's throw from significant landmarks such as the Rock of Kavaje and within a comfortable distance from the historical Durres Amphitheatre, Apartman Gold serves as a perfect base for cultural enthusiasts. Moreover, its proximity to the Former Residence of Enver Hoxha and the vibrant Skanderbeg Square, both located 49 km away, offers guests a unique glimpse into Albania's rich history and contemporary life.
 
 The apartment itself is a testament to modern living, featuring a spacious bedroom, a cozy living room equipped with a flat-screen TV for entertainment, and a terrace that presents breathtaking sea views. The kitchen, outfitted with a dishwasher and microwave, ensures that guests have everything they need for a home-cooked meal, while the inclusion of a shower, towels, and bed linen in the bathroom adds a touch of convenience to the stay.
 
 For those interested in exploring beyond the immediate vicinity, the House of Leaves and Rinia Park are both accessible, located 48 km from the property. Additionally, the Tirana International Mother Teresa Airport is just 43 km away, making Apartman Gold a strategically positioned choice for both domestic and international travelers.
 
 In essence, Apartman Gold stands out as a meticulously designed accommodation that promises not only a comfortable stay but also an opportunity to immerse oneself in the local culture and natural beauty of Golem.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

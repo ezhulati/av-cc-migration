@@ -1,28 +1,5 @@
----
-title: Himara Hostel
-description: Mornings at Himara Hostel begin with a diverse breakfast selection, setting the tone for a day of exploration or relaxation. The shared kitchen facility invites
-featuredImage: "/images/accommodation/160916625.jpg"
-language: en
-slug: himara-hostel
-location: ""
-amenities: []
-images: []
----
-
-Mornings at Himara Hostel begin with a diverse breakfast selection, setting the tone for a day of exploration or relaxation. The shared kitchen facility invites guests to whip up their meals, which can be savored outdoors, blending the joy of homemade cooking with the beauty of al fresco dining.
+---\ntitle: "Himara Hostel"\ndescription: "Himara Hostel, a charming retreat located just an 8-minute stroll from the pristine shores of Himare, offers guests a unique stay in a traditional house surrounded by a serene garden brimming with fruit trees."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/160916625.jpg?k=7a821177509d2c28c0921eec9f8ec49be65018b5a49b9b7447c679fa3cbe0067&o=&hp=1"\nlanguage: en\nslug: himara-hostel\naddress: "Spile, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "hostel"\ncoordinates:\n  lat: 40.10533849\n  lng: 19.74365294\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 512\nratings:\n  overall: 8.9\n  location: 9\n  cleanliness: 8.9\n  facilities: 8.9\n  value: 8.8\n  comfort: 9\n  staff: 9.5\n  wifi: 8.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/160916625.jpg?k=7a821177509d2c28c0921eec9f8ec49be65018b5a49b9b7447c679fa3cbe0067&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523475719.jpg?k=c5c9ad86b937c1c57e38f8a3423f36ae9338fe61c4aae45be5ec545e1407f12c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523475713.jpg?k=9cfdf4658ac34619088af768e0aabcca8b96f708db3b68bfda5873997dc2e73f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/158890001.jpg?k=d0a66d8dca6a719556f05fb2460e4964e94626cbf55c58514182cf0bce7cb377&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203608582.jpg?k=1d81b059636cfaa15867232407368fdc0c09d41cd89bce4cf4691edce916b242&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523474627.jpg?k=1a925d47d9e17dab53a333e4eca811e629549e6dac05868c3c3a48c780e07623&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/160916636.jpg?k=3bf6986f09b35f4c9c1b758de669e3c9a2b6fd315d3a2b9e74bab89a476664fe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523476339.jpg?k=28420c11edaa915ffff33f63a20f6583d97be21aff1eee5fffdac794a76095e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523476350.jpg?k=c65afb6a459ccc29911e78401779f4a6ea790f0ea90021d6b4fa48e5235741a3&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Bar"\n  - "Very good breakfast"\nnearbyRestaurants:\n  - "Restorant Piceri Mumbas 300 m"\n  - "Sunren 300 m"\nnearbyBeaches:\n  - "Spille Beach 450 m"\n  - "Maracit Beach 750 m"\n  - "Prinos Beach 950 m"\n  - "Livadhi Beach 1.1 km"\n  - "Potam Beach 1.4 km"\nwhatsNearby:\n  - "Llogora National Park 16 km"\nairports:\n  - "Corfu International Airport 57 km"\nreviews:\n  - name: "Mantas"\n    country: "Lithuania"\n    text: "“Very nice staff, possibility to have fresh fruits etc. Beds are also non-squeaky and comfortable, which is a huge advantage for a hostel. Price is also ok for what you get.”"\n  - name: "Marlen"\n    country: "Germany"\n    text: "“Cozy and creative hostel. Everything there what you need. Nice outside area, included breakfast and super smart staff! 5 Stars.”"\n  - name: "Wondering"\n    country: "Portugal"\n    text: "“Great complimentary breakfast. Great comfy dorms. They let tents if the dorms are full and in my opinion they are even better value”"\nbookingURL: "https://www.booking.com/hotel/al/himara-hostel-himare.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nMornings at Himara Hostel begin with a diverse breakfast selection, setting the tone for a day of exploration or relaxation. The shared kitchen facility invites guests to whip up their meals, which can be savored outdoors, blending the joy of homemade cooking with the beauty of al fresco dining.
 
 For those seeking adventure or simply wishing to stretch their legs, a variety of activities including cycling can be found on the premises or in the nearby area, ensuring that every day is as active or relaxed as desired. The convenience of complimentary parking further enhances the stay, making it effortless for guests to come and go as they please.
 
 Situated just an hour's drive from Vlore, the hostel serves as an ideal base for day trips, offering an easy escape to explore the rich surroundings. Himara Hostel stands out as a delightful choice for travelers seeking a blend of traditional charm, modern amenities, and a prime location close to the beach.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,6 @@
----
-title: Saudade Apartment Saranda
-description: The apartment boasts a two-bedroom layout, making it an ideal accommodation for families or groups. The living room is equipped with a flat-screen TV, providing
-featuredImage: "/images/accommodation/474658005.jpg"
-language: en
-slug: saudade-apartment-saranda
-location: ""
-amenities: []
-images: []
----
-
-The apartment boasts a two-bedroom layout, making it an ideal accommodation for families or groups. The living room is equipped with a flat-screen TV, providing entertainment after a day of exploration. A fully equipped kitchen, featuring an oven and a fridge, allows guests the freedom to prepare their own meals, adding a touch of home. The inclusion of a bathroom equipped with a hairdryer, along with towels and bed linen, underscores the apartment's commitment to comfort.
+---\ntitle: "Saudade Apartment Saranda"\ndescription: "Saudade Apartment Saranda emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474658005.jpg?k=286b8efb6282d3a715b12b33629f97f7c82984057c36b6bdfd49d2450859cf32&o=&hp=1"\nlanguage: en\nslug: saudade-apartment-saranda\naddress: "Rruga Butrinti, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86249082\n  lng: 20.01933856\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 8\nratings:\n  overall: 9.9\n  location: 9.4\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474658005.jpg?k=286b8efb6282d3a715b12b33629f97f7c82984057c36b6bdfd49d2450859cf32&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474396943.jpg?k=64c9658668d72f3998f17d2c89e4cdfba6161d3cb4d0cfe9f4321233a7e68604&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474657864.jpg?k=dfe2efb2596f1da960b640e52e95934c2e0a1652c8ae115a64c2723384409a45&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474657949.jpg?k=e609c375bf2f08fffe92ab8f799a8fe35c7d9189b6092cdd9db1136064307e59&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474396777.jpg?k=389fd3324ec81f7bbd88bb4d4824df3f730121c1264d25698c2db8f3af9db836&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474658126.jpg?k=797e6ee40f1d859482d3b1f079094934cc6846f68ec79d7a65985f108c91fa44&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474659363.jpg?k=03ef89b9683a74af2d82ac2091af12435b44855ad213c4856363270ceac1093a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474670945.jpg?k=e7a82e425643c7d49340c2dd314cfa53e4d9ccb2a154675eaf683aebae067bb4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474657586.jpg?k=b9927ae48af205519415fdb9bc9f5e9640c8726aaefe7a6b1bae89f48e5d87db&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Terrace"\nnearbyBeaches:\n  - "VIP Beach 400 m"\n  - "Santa Quaranta Beach 450 m"\n  - "Maestral Beach 500 m"\n  - "Flamingo Beach 700 m"\n  - "La Petite Beach 750 m"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Admir"\n    country: "Albania"\n    text: "“Super appartamento moderno con tutto il necessario con 2 camera da letto più un salotto con divano letto situato vicino al mare 🌊 il proprietario e stato gentilissimo e disponibili. L appartamento è in una zona bellissima di Saranda dove...”"\n  - name: "Karolina"\n    country: "Poland"\n    text: "“Apartament czysty, zgodny ze zdjęciami. Wlaściciel bardzo pomocny. Polecam!”"\n  - name: "Alessandro"\n    country: "Italy"\n    text: "“Il ragazzo che gestisce la casa è stato molto disponibile. La casa è nuova e molto pulita.
+Terrazzino super!”"\nbookingURL: "https://www.booking.com/hotel/al/saudade-apartment-saranda.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment boasts a two-bedroom layout, making it an ideal accommodation for families or groups. The living room is equipped with a flat-screen TV, providing entertainment after a day of exploration. A fully equipped kitchen, featuring an oven and a fridge, allows guests the freedom to prepare their own meals, adding a touch of home. The inclusion of a bathroom equipped with a hairdryer, along with towels and bed linen, underscores the apartment's commitment to comfort.
 
 Located just 700 meters from VIP Beach and a short 14 km journey from the enchanting Butrint National Park, Saudade Apartment Saranda positions guests perfectly to explore the natural and historical wonders of the area. For those looking to venture further, Ancient Fanoti is within a 48 km reach, promising an adventure into the past.
 
 Accessibility is further enhanced by the proximity to Ioannina Airport, situated 96 km away, making Saudade Apartment Saranda a convenient base for both local and international travelers. This apartment not only promises a stay filled with ease and enjoyment but also serves as a gateway to the rich experiences Sarandë has to offer.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

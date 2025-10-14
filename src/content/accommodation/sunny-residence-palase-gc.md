@@ -1,28 +1,5 @@
----
-title: Sunny Residence Palase, GC
-description: This villa, enveloped in the tranquility of Palasë, is equipped with modern amenities including free WiFi, ensuring that connectivity is never an issue. The int
-featuredImage: "/images/accommodation/384784183.jpg"
-language: en
-slug: sunny-residence-palase-gc
-location: ""
-amenities: []
-images: []
----
-
-This villa, enveloped in the tranquility of Palasë, is equipped with modern amenities including free WiFi, ensuring that connectivity is never an issue. The interior of this 2-bedroom haven is thoughtfully designed with a flat-screen TV, a washing machine, and a kitchen that comes fully equipped with a dishwasher and fridge, making it a home away from home. For those who appreciate the finer details, towels and bed linen are meticulously provided, enhancing the comfort of your stay.
+---\ntitle: "Sunny Residence Palase, GC"\ndescription: "Sunny Residence Palase, GC stands as a beacon of comfort and privacy, just a stone's throw away from the pristine shores of Nazar Beach and a short distance from the serene Palasa Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384784183.jpg?k=b35d5152db5a55c1508e3994b68da95740a459ecb6d7bd832de3c88ac7144fc2&o=&hp=1"\nlanguage: en\nslug: sunny-residence-palase-gc\naddress: "Vila 96/1 Green Coast Resort, 9425 Palasë, Albania"\ncity: "Palasë"\nlocation: "Palasë"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.17092246\n  lng: 19.58589852\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384784183.jpg?k=b35d5152db5a55c1508e3994b68da95740a459ecb6d7bd832de3c88ac7144fc2&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Fishop Coast 150 m"\n  - "Beachside Cafe 650 m"\nnearbyBeaches:\n  - "Nazar Beach 200 m"\n  - "Palasa Beach 1.3 km"\n  - "Dhermi Beach 5 km"\n  - "Gjipe Beach 9 km"\n  - "Beach Me Shpella 9 km"\nwhatsNearby:\n  - "Llogora National Park 2.8 km"\nairports:\n  - "Corfu International Airport 68 km"\nbookingURL: "https://www.booking.com/hotel/al/sunny-residence-palase-gc.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis villa, enveloped in the tranquility of Palasë, is equipped with modern amenities including free WiFi, ensuring that connectivity is never an issue. The interior of this 2-bedroom haven is thoughtfully designed with a flat-screen TV, a washing machine, and a kitchen that comes fully equipped with a dishwasher and fridge, making it a home away from home. For those who appreciate the finer details, towels and bed linen are meticulously provided, enhancing the comfort of your stay.
 
 One of the villa's standout features is its dedication to guest privacy, highlighted by a private entrance that promises a secluded and uninterrupted retreat. Whether it's basking on the terrace or enjoying the air-conditioned indoors, guests are guaranteed a stay that marries the essence of relaxation with the elegance of modern living.
 
 Located 168 km from Ioannina Airport, Sunny Residence Palase, GC is an accessible escape for those looking to immerse themselves in the beauty of Palasë's coastal landscape while enjoying the comforts of a well-appointed villa.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

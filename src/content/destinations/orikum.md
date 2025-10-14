@@ -5,11 +5,14 @@ region: Coastal
 featuredImage: /images/destinations/orikum.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: orikum
 highlights: []
+seo:
+  metaDescription: "Experience the allure of Orikum with our diverse category listing. Discover a wide range of options for your enjoyment."
 ---
 
 Why Visit
@@ -143,10 +146,3 @@ Orikum works surprisingly well for kids, with some caveats:
 
 Come to Orikum if you want a coastal town that hasn’t been polished for tourists. The rough edges and quiet pace won’t suit everyone. But if you’re after a slice of coastal Albania without the tourist markup, Orikum delivers – just don’t expect luxury or sophistication.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

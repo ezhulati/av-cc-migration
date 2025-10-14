@@ -25,10 +25,3 @@ During summer, doors open from 8 a.m. until dusk; off-season closing time moves 
 
 Tickets cost 700 Leke with sizable discounts for students and teachers. Those short on time can glimpse highlights in an efficient 60-90 minutes, but immersive history enthusiasts will want to budget at least 2-3 hours for comprehensive exhibition immersion.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

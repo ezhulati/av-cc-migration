@@ -1,30 +1,3 @@
----
-title: Holiday Apartment Central & Sea View
-description: "This generously sized apartment is designed to accommodate the modern traveler's needs, featuring two well-appointed bedrooms, a cozy living room complete with a flat-screen TV for entertainment, a fully equipped kitchen for those who enjoy preparing their own meals, and a bathroom outfitted with a bidet and hair dryer for added convenience."
-featuredImage: ''
-language: en
-slug: holiday-apartment-central-sea-view
-location: ''
-amenities: []
-images: []
----
-
-This generously sized apartment is designed to accommodate the modern traveler's needs, featuring two well-appointed bedrooms, a cozy living room complete with a flat-screen TV for entertainment, a fully equipped kitchen for those who enjoy preparing their own meals, and a bathroom outfitted with a bidet and hair dryer for added convenience. Guests will appreciate the thoughtful inclusion of towels and bed linen, making for a hassle-free stay.
+---\ntitle: "Holiday Apartment Central & Sea View"\ndescription: "Holiday Apartment Central & Sea View stands out as a prime choice for travelers seeking comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527719561.jpg?k=96b8ed01f4674fd2232421bfeb2f2f86da3c34981d8c8fc60417569be20fc35d&o=&hp=1"\nlanguage: en\nslug: holiday-apartment-central-sea-view\naddress: "FF2P+QXQ, Rruga Çamëria, Vlorë, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45208846\n  lng: 19.48739077\nprice: "US$47"\npriceFrom: 47\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527719561.jpg?k=96b8ed01f4674fd2232421bfeb2f2f86da3c34981d8c8fc60417569be20fc35d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527719678.jpg?k=30b5e8884dbfca5fe92027eb45498322ad492678f0aa1ee052a5374f2e18cd08&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527719719.jpg?k=17b055c8e3b85255361c51452fdeea66e20d64457b497eadabc7c71b8d8c35ec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527719696.jpg?k=9b665b14e6d072c8de45859cb16a57c902ec248640afb836e8b85c87b4fa19ba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527719701.jpg?k=2e21c809366dda81e035dba348bb5f10b2d7dab1785ee9b6b5a90f6ac44490d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527719666.jpg?k=c9a446b128f8c5f8d64c4a2ba17b2cb5aa7c698727e7351dffa940ab9959283b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527719714.jpg?k=11a034f685d2581ef754ebb5dbf32f7f7e4dc13b970df6fa8cf4abc80625c530&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527719709.jpg?k=2ecbb83039adafde06b3ea40fdcf406060e74570f2615b72bb0799111d62ff44&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527719688.jpg?k=8a83e27496756020ef273ba1789cd0a12def7a450ded93eaeeff6cb17a6dc6cc&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Abi 10 m"\n  - "Gelateria Iceland 20 m"\nnearbyBeaches:\n  - "Vjetër Beach 500 m"\n  - "Vlore Beach 700 m"\n  - "Ri Beach 1.9 km"\n  - "Beach at Government Villas 3.5 km"\n  - "Liro Beach 4.2 km"\nwhatsNearby:\n  - "Kuzum Baba 1.8 km"\n  - "Scooby Doo Vlore 1.9 km"\n  - "Independence Square 2.1 km"\nbookingURL: "https://www.booking.com/hotel/al/holiday-apartment-central-amp-sea-view.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis generously sized apartment is designed to accommodate the modern traveler's needs, featuring two well-appointed bedrooms, a cozy living room complete with a flat-screen TV for entertainment, a fully equipped kitchen for those who enjoy preparing their own meals, and a bathroom outfitted with a bidet and hair dryer for added convenience. Guests will appreciate the thoughtful inclusion of towels and bed linen, making for a hassle-free stay.
 
 For those interested in exploring the local culture and history, Independence Square is easily accessible, located just 2.6 km from the property, while the historic Kuzum Baba offers a glimpse into the area's rich heritage, 3.1 km away. For international travelers, the Tirana International Mother Teresa Airport is the nearest gateway, situated 151 km from the apartment, making Holiday Apartment Central & Sea View an excellent base for both short and extended stays in Vlorë.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

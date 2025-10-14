@@ -1,30 +1,7 @@
----
-title: Guest House Begaj
-description: Guest House Begaj offers a tranquil garden setting complemented by barbecue facilities, perfect for those leisurely evenings after a day of exploration or beach
-featuredImage: "/images/accommodation/472895859.jpg"
-language: en
-slug: guest-house-begaj
-location: ""
-amenities: []
-images: []
----
-
-Guest House Begaj offers a tranquil garden setting complemented by barbecue facilities, perfect for those leisurely evenings after a day of exploration or beach lounging. For guests arriving on two wheels, the convenience of bicycle parking adds to the thoughtful amenities provided.
+---\ntitle: "Guest House Begaj"\ndescription: "Discover the charm of Orikum from the comfort of Guest House Begaj, a serene retreat situated merely a stone's throw away from the pristine Baro Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472895859.jpg?k=7ae05a902d0d04af55eb76186e29cc9a3f090a5219075b2f746004c52ba0d999&o=&hp=1"\nlanguage: en\nslug: guest-house-begaj\naddress: "Rruga Abaz Ermenji, 9426 Orikum, Albania"\ncity: "Orikum"\nlocation: "Orikum"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.33080194\n  lng: 19.47576121\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 9.5\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 6.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472895859.jpg?k=7ae05a902d0d04af55eb76186e29cc9a3f090a5219075b2f746004c52ba0d999&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472896016.jpg?k=ac4b75fdaaaa09ecabacbd03385ee5bb7b19459fb99706e784b4ec5c4c61b112&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471911548.jpg?k=7401b3563199e7a7a45ac9dee70331edb5560e6f321a544866a24604c398604a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472896005.jpg?k=76cc1417ecaac23083691e5a5744e02fae823af149f11a019e1c390ccda10096&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472896008.jpg?k=1ae8bd430c7d8e24eb33c1f40d16d22df3b87a7aa22bcc0c048293071a5dfb62&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472896180.jpg?k=47dbe9a0910eb6d6cabad4754f39cda49c39201fd280038bd4e5c50adc3ee793&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472896006.jpg?k=0a5103b8f89d37790fcc6554f569aedfba9d17efe774d75cfd4a0e30d4206e87&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472896010.jpg?k=184abca1dc7dc1d76c02b670f34f24ddbf03f1d696b69a31fb948162c13744de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472567675.jpg?k=bb1bc5cfba38aa7cb2a4b98702a91094772373089c778e832e5e9096342b867a&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom House"\nnearbyRestaurants:\n  - "Fjori Pizzeri 100 m"\n  - "Restorant M. Mustafaraj 150 m"\nnearbyBeaches:\n  - "Nettuno Beach 850 m"\n  - "Baro Beach 1.2 km"\n  - "Orikum Beach 1.6 km"\n  - "Al Breeze Beach 1.8 km"\n  - "Radhimë Beach 2.5 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 12 km"\n  - "Llogora National Park 13 km"\n  - "Kuzum Baba 15 km"\n  - "Independence Square 16 km"\nairports:\n  - "Corfu International Airport 88 km"\nreviews:\n  - name: "Mende"\n    country: "North Macedonia"\n    text: "“The appartment was very clean, and comfortable. It is 8 minute walk from the beach. You have markets and pizza nearby.”"\n  - name: "Admir"\n    country: "Italy"\n    text: "“Era molto accogliente pulito un Bell giardino Fiori ovunque molto bello”"\nbookingURL: "https://www.booking.com/hotel/al/begaj-hause.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuest House Begaj offers a tranquil garden setting complemented by barbecue facilities, perfect for those leisurely evenings after a day of exploration or beach lounging. For guests arriving on two wheels, the convenience of bicycle parking adds to the thoughtful amenities provided.
 
 The accommodation itself is a breath of fresh air, featuring air-conditioned spaces designed for comfort and relaxation. The holiday home boasts a welcoming balcony that opens up to serene garden views, allowing guests to immerse themselves in the peaceful surroundings. Inside, the home is well-appointed with a cozy bedroom, a spacious living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen that includes an oven and a fridge. The presence of a modern bathroom with a shower ensures all the comforts of home are at hand.
 
 For those looking to venture beyond the beach, the historic sites of Kuzum Baba and Independence Square are both within an 18-kilometer journey, offering a glimpse into the rich cultural tapestry of the area. Moreover, the property's proximity to Tirana International Mother Teresa Airport, located 167 kilometers away, facilitates ease of travel for international guests.
 
 In essence, Guest House Begaj presents a harmonious blend of convenience, comfort, and accessibility, making it a compelling choice for travelers seeking a peaceful retreat close to Orikum's beautiful beaches and beyond.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

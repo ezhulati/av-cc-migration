@@ -1,28 +1,5 @@
----
-title: Bean Apartments 2
-description: This modern apartment doesn't just boast an ideal location; it also provides guests with a tranquil retreat from the bustling city life. The air-conditioned spa
-featuredImage: "/images/accommodation/511977427.jpg"
-language: en
-slug: bean-apartments-2
-location: ""
-amenities: []
-images: []
----
-
-This modern apartment doesn't just boast an ideal location; it also provides guests with a tranquil retreat from the bustling city life. The air-conditioned space features a spacious bedroom, a balcony for enjoying the city's ambiance, and complimentary WiFi to keep guests connected. The fully equipped kitchen and cozy living area, complete with a flat-screen TV, ensure that visitors have everything they need for a comfortable stay.
+---\ntitle: "Bean Apartments 2"\ndescription: "Bean Apartments 2 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511977427.jpg?k=f15663cacaac1ad2984962681482f24093fbb3748a9f0c8acab29b4c7c5acc1c&o=&hp=1"\nlanguage: en\nslug: bean-apartments-2\naddress: "Rruga Gjergj Legisi, Nr 5 Floor 1, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33937676\n  lng: 19.78818867\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511977427.jpg?k=f15663cacaac1ad2984962681482f24093fbb3748a9f0c8acab29b4c7c5acc1c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/511977458.jpg?k=0f6abf16185db9c0df10318ce0f4ff04f7444d14cbfe1f4d59258328143e4d67&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/511977463.jpg?k=adc852caa9872ff617b7a7b360c33eecc3b3ffe3cc09f20898024ed867285c31&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/511977466.jpg?k=f930c41464fda6c1eaa62b7f03bab35b91b24bfea17fed62525e2b512513bdd8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/511977470.jpg?k=b44107543e98359bc35ae362c412059150b08d5a2986cdbb493a6f256c72e33c&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Bar Restorant Nacional 150 m"\n  - "Bar Hurmat 200 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Lord Bajron 450 m"\n  - "Shesh Rekreativ Yzberisht 1,000 m"\n  - "Park Lojrash 1 km"\n  - "Sheshi Rekreativ Parku 1Km 1.2 km"\n  - "Sheshi Rekreativ Don Bosko 1.5 km"\n  - "Sheshi Rekreativ Mine Peza 1.7 km"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 1.8 km"\n  - "Sheshi Rekreativ Pallati me Shigjeta 2 km"\n  - "Sheshi Rekreativ Sali Butka 2 km"\n  - "Sheshi Rekreativ Shefqet Musaraj 2.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 8 km"\n  - "Ohrid Airport 82 km"\nbookingURL: "https://www.booking.com/hotel/al/bean-apartments-2.en-gb.html?aid=8035640"\nbestFor: "Best for Airport Access"\nbestCategories: "Airport Access"\ncategory: "Airport Access"\n---\n\nThis modern apartment doesn't just boast an ideal location; it also provides guests with a tranquil retreat from the bustling city life. The air-conditioned space features a spacious bedroom, a balcony for enjoying the city's ambiance, and complimentary WiFi to keep guests connected. The fully equipped kitchen and cozy living area, complete with a flat-screen TV, ensure that visitors have everything they need for a comfortable stay.
 
 Cultural enthusiasts will appreciate the apartment's proximity to the National Museum of History Albania and the Clock Tower Tirana, making it easy to immerse oneself in the local heritage. Moreover, the Former Residence of Enver Hoxha is just a stone's throw away, offering a glimpse into the country's intriguing past.
 
 For those traveling by air, the convenience of being only 11 km from Tirana International Mother Teresa Airport adds to the appeal of Bean Apartments 2. This property stands out as a top selection for both short-term visitors and those looking to immerse themselves in the Albanian capital for longer stays.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

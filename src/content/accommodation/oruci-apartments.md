@@ -1,30 +1,7 @@
----
-title: Oruci Apartments
-description: "Each air-conditioned apartment at Oruci is a testament to thoughtful self-catering accommodation, featuring a flat-screen TV for entertainment and a b..."
-featuredImage: "/images/accommodation/485512715.jpg"
-language: en
-slug: oruci-apartments
-location: ""
-amenities: []
-images: []
----
-
-Each air-conditioned apartment at Oruci is a testament to thoughtful self-catering accommodation, featuring a flat-screen TV for entertainment and a balcony to take in the serene surroundings. The inclusion of both shower and bathtub options caters to different preferences, ensuring a comfortable stay.
+---\ntitle: "Oruci Apartments"\ndescription: "Oruci Apartments, situated in the charming town of Ksamil, presents a perfect retreat for travelers seeking the comfort of home with the convenience of hotel-like amenities."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485512715.jpg?k=cfa3b1177c26ae1c0b89184204bcd69aebe10df375da0b87ad171d736d2c3520&o=&hp=1"\nlanguage: en\nslug: oruci-apartments\naddress: "Rr. Tafil Buzi 11, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.77298947\n  lng: 20.00864089\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 28\nratings:\n  overall: 8.9\n  location: 9\n  cleanliness: 8.8\n  facilities: 8.8\n  value: 8.9\n  comfort: 8.8\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485512715.jpg?k=cfa3b1177c26ae1c0b89184204bcd69aebe10df375da0b87ad171d736d2c3520&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194335273.jpg?k=142e8497234178208319c780dcb0db3238338c27af8f483d4a205e83c3b4c34f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193629721.jpg?k=ba7d77571d18f7bd71e9ea6c09773faa144129c438054bab9fde5b956b292abd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194335268.jpg?k=ccc7ddc592b173a6042f79d067c3d08fe4d32c924f3b0a25d2e9cef7eb9c8dc2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194335248.jpg?k=130669f419a1c2d833a56df5a853c82688c22d976c21e754cf400f0c02c2f1af&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/198651520.jpg?k=f824d65349d37482e117c5da79e6ba7daaca4a694a153d53b70622ccd877cce9&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Facilities for disabled guests"\n  - "Family rooms"\nroomTypes:\n  - "Studio Apartment"\nnearbyAttractions:\n  - "Museum of Banknotes 18 km"\n  - "New Fortress 18 km"\n  - "Serbian Museum 18 km"\n  - "Theotoki G. Square 19 km"\n  - "Archaeological Museum 19 km"\n  - "Ntougkla Square 19 km"\n  - "Trion Martiron Park 20 km"\n  - "Mon Repos Palace 20 km"\nnearbyBeaches:\n  - "Ksamil Beach 550 m"\n  - "Coco Beach 700 m"\n  - "Sunset Beach 700 m"\n  - "Ksamil Beach 7 900 m"\n  - "Bora Bora Beach 900 m"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Zeljko"\n    country: "Serbia"\n    text: "“Apartman super lokacija dobra čisto sve pohvale za vlasnike .”"\n  - name: "Ana"\n    country: "Italy"\n    text: "“La struttura molto bella e accogliente , ci siamo trovati benissimo eravamo in 7 di cui le 3 bambine si sono trovate anche un’amica , con quale giocare ogni tanto . Era la bambina dei titolari devo dire sempre cordiali e sopratutto ottimo qualità...”"\n  - name: "Luca"\n    country: "Italy"\n    text: "“Tutto è molto bello. L'appartamento è funzionale, completo di tutto. Ottima la disposizione delle stanze e la disposizione dei posti letto. Molto bello e curato anche il bagno. La pulizia era impeccabile. I proprietari molto gentili e...”"\nbookingURL: "https://www.booking.com/hotel/al/oruci-apartments-ksamil.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach air-conditioned apartment at Oruci is a testament to thoughtful self-catering accommodation, featuring a flat-screen TV for entertainment and a balcony to take in the serene surroundings. The inclusion of both shower and bathtub options caters to different preferences, ensuring a comfortable stay.
 
 For those who love to cook, the apartments are equipped with a well-appointed kitchen, boasting an oven and a refrigerator, making meal preparation a breeze. Additionally, guests have complimentary access to barbecue equipment, inviting an enjoyable outdoor cooking experience.
 
-Oruci Apartments doesn't stop at providing excellent lodging. It extends its hospitality to include free bike rentals, allowing guests to explore the picturesque surroundings at their leisure. The convenience of on-site ironing and laundry facilities further enhances the stay, ensuring guests can look their best with minimal effort.
+Oruci Apartments doesn’t stop at providing excellent lodging. It extends its hospitality to include free bike rentals, allowing guests to explore the picturesque surroundings at their leisure. The convenience of on-site ironing and laundry facilities further enhances the stay, ensuring guests can look their best with minimal effort.
 
 With the added benefit of complimentary parking, Oruci Apartments emerges as a top choice for travelers seeking a blend of convenience, comfort, and the freedom to explore Ksamil and its natural wonders at their own pace.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

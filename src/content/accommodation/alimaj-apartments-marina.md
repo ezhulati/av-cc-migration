@@ -1,28 +1,5 @@
----
-title: Alimaj Apartments Marina
-description: The apartment itself is a spacious retreat, boasting a balcony that offers serene garden views, a cozy bedroom, a welcoming living room, and a well-equipped kit
-featuredImage: "/images/accommodation/355455839.jpg"
-language: en
-slug: alimaj-apartments-marina
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a spacious retreat, boasting a balcony that offers serene garden views, a cozy bedroom, a welcoming living room, and a well-equipped kitchen. Entertainment needs are met with a flat-screen TV, ensuring relaxation is on the agenda after a day of exploration. The inclusion of air conditioning, complimentary WiFi, and private parking adds layers of ease to the guest experience, all within a smoke-free environment.
+---\ntitle: "Alimaj Apartments Marina"\ndescription: "Alimaj Apartments Marina emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355455839.jpg?k=157d38de9111b39bbd958c4faa8e12a222e00f2e1a15c0438ad8b31f01316416&o=&hp=1"\nlanguage: en\nslug: alimaj-apartments-marina\naddress: "Rruga Dhimitër Konomi 4th Floor, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44346622\n  lng: 19.4963241\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 3\nratings:\n  overall: 7.9\n  location: 10\n  cleanliness: 6.7\n  facilities: 7.5\n  value: 6.7\n  comfort: 7.5\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355455839.jpg?k=157d38de9111b39bbd958c4faa8e12a222e00f2e1a15c0438ad8b31f01316416&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/355455873.jpg?k=fd199a24fc8b17cde37244d20bf6e4d457d49cece8b2e02510993ad015b53862&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/355455860.jpg?k=52397a9d6bfc1815f3812df902b9e28f87942ad338fde1f082b59e4c998793d1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/355455869.jpg?k=a06cd5a054a995fc776dc4f85fa47d53dd495098f34916580ed3cd32d77df941&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/355455856.jpg?k=ea417cb1e42d37811ee8fa86ac63ee494804d4c7e4d59368577145fd1c2173f4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/359837783.jpg?k=e316c9ad840b627cf96d2c9e551d4a93db09d34fafe9a3ea546cd454666f6012&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/355455858.jpg?k=2063eba6779c255c32105f69c8567c75ca69b41cbf4fb48f8d29220e2d6c2d9d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/359837784.jpg?k=29dcb31b035ef542bab12dfea21f8cc6224f5f50d1099e388411b8caba5f87cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/355455866.jpg?k=b6c655f5d3074dbcd684489249b3577f232eb5def77edec0b9d2c80c46d4ad05&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/359837947.jpg?k=1442e2720d38a99fe4611b153058f154eb6dc04db271d6fc568f75ba5069c15c&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Amo Pizza 40 m"\n  - "Da Vinci 100 m"\nnearbyBeaches:\n  - "Vlore Beach 100 m"\n  - "Ri Beach 900 m"\n  - "Vjetër Beach 1.6 km"\n  - "Beach at Government Villas 2.7 km"\n  - "Liro Beach 3.4 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 800 m"\n  - "Kuzum Baba 2.7 km"\n  - "Independence Square 3.1 km"\nbookingURL: "https://www.booking.com/hotel/al/alimaj-apartments-vlore12.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a spacious retreat, boasting a balcony that offers serene garden views, a cozy bedroom, a welcoming living room, and a well-equipped kitchen. Entertainment needs are met with a flat-screen TV, ensuring relaxation is on the agenda after a day of exploration. The inclusion of air conditioning, complimentary WiFi, and private parking adds layers of ease to the guest experience, all within a smoke-free environment.
 
 For those looking to stock up on essentials or prepare a beach picnic, a supermarket is conveniently located near the property. Cultural enthusiasts will appreciate the proximity to local landmarks, with Kuzum Baba and Independence Square just a short drive away, offering a glimpse into the rich history and vibrant spirit of Vlorë.
 
 Situated 152 km from Tirana International Mother Teresa Airport, Alimaj Apartments Marina represents an accessible escape for both domestic and international travelers, promising a stay that combines the comforts of home with the allure of the Albanian Riviera.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

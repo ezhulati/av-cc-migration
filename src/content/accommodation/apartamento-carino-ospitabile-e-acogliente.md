@@ -1,30 +1,7 @@
----
-title: Apartamento carino , ospitabile , e acogliente
-description: The apartment itself is a haven of comfort, boasting air-conditioning for those warm Mediterranean days. Guests will find themselves at home with a well-appoint
-featuredImage: "/images/accommodation/389450453.jpg"
-language: en
-slug: apartamento-carino-ospitabile-e-acogliente
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of comfort, boasting air-conditioning for those warm Mediterranean days. Guests will find themselves at home with a well-appointed kitchen, complete with an oven and fridge, ensuring all the conveniences for a self-sufficient stay. The inclusion of a flat-screen TV, alongside complimentary towels and bed linen, adds a touch of luxury to the cozy one-bedroom space.
+---\ntitle: "Apartamento carino , ospitabile , e acogliente"\ndescription: "Apartamento Carino, Ospitabile, e Acogliente emerges as a charming choice for travelers seeking a serene beachfront escape in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/389450453.jpg?k=23e92b2c67962329ea3168d5e7569800d7cc4a9018fed0a51abdd05c1afe27dc&o=&hp=1"\nlanguage: en\nslug: apartamento-carino-ospitabile-e-acogliente\naddress: "Rruga Dhimitër Konomi, 9405 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.42352368\n  lng: 19.49335411\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 2.5\nratingWords: "Needs Improvement"\nnumberOfReviews: 2\nratings:\n  overall: 2.5\n  location: 2.5\n  cleanliness: 2.5\n  facilities: 2.5\n  value: 2.5\n  comfort: 2.5\n  staff: 2.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/389450453.jpg?k=23e92b2c67962329ea3168d5e7569800d7cc4a9018fed0a51abdd05c1afe27dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/389450517.jpg?k=2aab3c595d65c03b6b5681af9d0e20dca615deda25cd26fc8f82862c3ca9f14c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/389450520.jpg?k=48630f531f102ca72a95327f5e6ef1cad695ba602512530ec51f4554c88725e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/389450522.jpg?k=cabdda440b5db29216e9dd1d69194662f4b057ee70689da79f4cffc0701e0019&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/389450526.jpg?k=fb9107d9f3c1c1583c4a04b5ecf64fee8baf81a0b32960bbe6773add265b66ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/389450531.jpg?k=d7c847fccaff3d73ddb6b6bc04683547f79095a5a37cab2962e439f8c5fc15da&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Donatelo 200 m"\n  - "Gjurma by Aldo Mehmeti 250 m"\nnearbyBeaches:\n  - "Beach at Government Villas 700 m"\n  - "Ri Beach 750 m"\n  - "Liro Beach 1.4 km"\n  - "Vlore Beach 2.1 km"\n  - "Coco Bongo Beach 2.4 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.4 km"\n  - "Kuzum Baba 4.9 km"\n  - "Independence Square 5 km"\nairports:\n  - "Corfu International Airport 97 km"\nbookingURL: "https://www.booking.com/hotel/al/apartamento-carino-ospitabile-e-acogliente-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of comfort, boasting air-conditioning for those warm Mediterranean days. Guests will find themselves at home with a well-appointed kitchen, complete with an oven and fridge, ensuring all the conveniences for a self-sufficient stay. The inclusion of a flat-screen TV, alongside complimentary towels and bed linen, adds a touch of luxury to the cozy one-bedroom space.
 
 Adding to the appeal is the apartment's dedication to a smoke-free environment, ensuring a fresh and inviting atmosphere. The highlight, perhaps, is the private balcony, offering guests a tranquil spot to unwind with a view.
 
 Strategically located, the property is a mere 1.1 km from the serene Ri Beach, making it an ideal base for exploring the local coastline. For those intrigued by cultural landmarks, Kuzum Baba and Independence Square are within easy reach, located just over 5 km away. Despite its secluded feel, the apartment remains accessible, with Tirana International Mother Teresa Airport situated 155 km away, making it a feasible getaway for both local and international travelers.
 
 Apartamento Carino, Ospitabile, e Acogliente stands out as a delightful choice for those in pursuit of a peaceful beachside stay, coupled with the comforts of home in the picturesque setting of Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

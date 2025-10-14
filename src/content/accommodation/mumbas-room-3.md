@@ -1,15 +1,4 @@
----
-title: Mumbas Room 3
-description: This apartment stands out with its inviting balcony and a swimming pool, both offering a tranquil pool view for a refreshing escape. Situated a mere 80 meters f
-featuredImage: "/images/accommodation/474775906.jpg"
-language: en
-slug: mumbas-room-3
-location: ""
-amenities: []
-images: []
----
-
-This apartment stands out with its inviting balcony and a swimming pool, both offering a tranquil pool view for a refreshing escape. Situated a mere 80 meters from the serene Potam Beach, Mumbas Room 3 ensures a smoke-free environment, prioritizing the comfort and well-being of its guests.
+---\ntitle: "Mumbas Room 3"\ndescription: "Mumbas Room 3 emerges as a prime choice for travelers seeking a serene getaway, perfectly positioned just steps away from the pristine Prinos Beach in Himare."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474775906.jpg?k=14391c5dc2cc0630b001d6611015e6b2f276e9611c7f916d73b75e5dad070407&o=&hp=1"\nlanguage: en\nslug: mumbas-room-3\naddress: "Himare, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.09670917\n  lng: 19.75410078\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474775906.jpg?k=14391c5dc2cc0630b001d6611015e6b2f276e9611c7f916d73b75e5dad070407&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474775924.jpg?k=a8ebe45f004c7a8a4ebf2076e33ca6c8c3d0f05b472bfe175f4f5d2a994b471b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474779788.jpg?k=851e4efa67d941025fc8d8ad8dbae64640ddfb43d1973ee7146dc338738347c9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474775927.jpg?k=7d08bb746f30bf86c34edd24e7c743a209b0c30a045159ef0dbfc0f8cb943187&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474775946.jpg?k=94b6e8f409dd592cada15f938f32e2b845367ffc2e361a5c0362cf167264a67f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474775837.jpg?k=e0874c89030b32dcf567fb40e8bc1db07f901aabceb2896da18f705024e805f6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474775887.jpg?k=f92d88921e3f838748f6455069439f73d66f58414bd6b52d20ee40a0eedab770&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474775952.jpg?k=b0e1d4144b9ecad3b8d888042c259cf34b11f1ce5042cdb9afe79c90d816973d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474775897.jpg?k=a6e8befd4d675990d7382ced5d21f3e93cc31f34837364df4cd2e54dfdf02484&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Private beach area"\n  - "Breakfast"\nnearbyBeaches:\n  - "Prinos Beach 40 m"\n  - "Potam Beach 100 m"\n  - "Maracit Beach 400 m"\n  - "Spille Beach 650 m"\n  - "Gjiri i Filikurit Beach 1.2 km"\nbookingURL: "https://www.booking.com/hotel/al/mumbas-rooms-himare1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment stands out with its inviting balcony and a swimming pool, both offering a tranquil pool view for a refreshing escape. Situated a mere 80 meters from the serene Potam Beach, Mumbas Room 3 ensures a smoke-free environment, prioritizing the comfort and well-being of its guests.
 
 The interior of Mumbas Room 3 is thoughtfully designed for relaxation and convenience, featuring two spacious bedrooms within an air-conditioned setting. Guests are treated to a luxurious bathroom equipped with a bidet, a bath, and plush bathrobes, ensuring a comfortable and pampering stay. Entertainment is readily available through a flat-screen TV boasting streaming services, perfect for unwinding after a day of exploration.
 
@@ -18,15 +7,3 @@ For those who appreciate the subtle charm of quiet street views, this property d
 An exclusive private beach area is another highlight, offering a secluded spot for guests to bask in the sun or enjoy the tranquil waters, just a short stroll from their accommodation. For beach enthusiasts, Maracit Beach is within a 600-meter radius, presenting another beautiful option for seaside leisure.
 
 Located 142 km from Ioannina Airport, Mumbas Room 3 is not just a place to stay but a destination that promises a memorable experience for those seeking both relaxation and adventure in the heart of Himare.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

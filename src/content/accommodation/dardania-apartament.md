@@ -1,32 +1,5 @@
----
-title: Dardania Apartament
-description: The apartment boasts a generous layout, featuring a balcony that offers tranquil garden views, two cozy bedrooms, a welcoming living room, and a kitchen equippe
-featuredImage: "/images/accommodation/526592999.jpg"
-language: en
-slug: dardania-apartament
-location: ""
-amenities: []
-images: []
----
-
-The apartment boasts a generous layout, featuring a balcony that offers tranquil garden views, two cozy bedrooms, a welcoming living room, and a kitchen equipped with everything needed for a home-cooked meal. Entertainment is readily available through the inclusion of a flat-screen TV, making it an ideal setting for both relaxation and leisure.
+---\ntitle: "Dardania Apartament"\ndescription: "Dardania Apartament emerges as a serene retreat in Durrës, strategically positioned within a comfortable distance from notable landmarks such as Skanderbeg Square and the Dajti Ekspres Cable Car."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526592999.jpg?k=8c0804dd4f9f9c12b699f783b5b11e5b21b5e7d9214bc52a31b517d4e8a8f93b&o=&hp=1"\nlanguage: en\nslug: dardania-apartament\naddress: "Rruga Gjiri i Lalzit, 2002 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.50580181\n  lng: 19.52034132\nprice: "US$69"\npriceFrom: 69\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526592999.jpg?k=8c0804dd4f9f9c12b699f783b5b11e5b21b5e7d9214bc52a31b517d4e8a8f93b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/526593102.jpg?k=81624264ae766042afb92fd2c7916504403d41ac1c94a3dae9e2f7f8d75b9ee4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/526593113.jpg?k=fa4a5970dccb757e4b7d7848540fa9125e65862bf00c59a939477d041384e00a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/526593121.jpg?k=63855f6d6b066b5a2707745bc788f87ac3239f189c0a79254c7db6eb3e0a36f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/526593134.jpg?k=5a85605c8e1b15fb42e99d8687a12e4043f7207fba54a4e989936d7bec4e6418&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/526593145.jpg?k=767c02a21757c5ca9c443fbf2091ec2010d85cd2152854ac98b006b4bb36ee22&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Triumf 2 400 m"\n  - "Bar Restorant Oasis 550 m"\nnearbyBeaches:\n  - "Lalëz Bay Beach 500 m"\n  - "Rodoni Beach 10 km"\nairports:\n  - "Tirana International Airport Mother Teresa 18 km"\n  - "Podgorica Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/dardania-apartament.en-gb.html?aid=8035640"\nbestFor: "Best for Airport Access"\nbestCategories: "Airport Access"\ncategory: "Airport Access"\n---\n\nThe apartment boasts a generous layout, featuring a balcony that offers tranquil garden views, two cozy bedrooms, a welcoming living room, and a kitchen equipped with everything needed for a home-cooked meal. Entertainment is readily available through the inclusion of a flat-screen TV, making it an ideal setting for both relaxation and leisure.
 
 Located away from the hustle and bustle, yet close enough to explore, Dardania Apartament is a mere 41 km from the Rock of Kavaje, offering a perfect base for those looking to discover the area's natural beauty. Additionally, the property is conveniently situated 44 km from the historical Former Residence of Enver Hoxha and 37 km from the ancient Durres Amphitheatre, inviting guests to immerse themselves in the rich cultural heritage of the region.
 
 For travelers concerned with accessibility, the Tirana International Mother Teresa Airport is just 29 km away, making Dardania Apartament an excellent choice for both domestic and international visitors seeking comfort, convenience, and a touch of tranquility during their stay in Durrës.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

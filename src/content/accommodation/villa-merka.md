@@ -1,30 +1,7 @@
----
-title: Villa Merka
-description: Accommodations at Villa Merka are thoughtfully designed with guest comfort in mind. Each room is a haven of relaxation, featuring air conditioning, a private ba
-featuredImage: "/images/accommodation/262668700.jpg"
-language: en
-slug: villa-merka
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Villa Merka are thoughtfully designed with guest comfort in mind. Each room is a haven of relaxation, featuring air conditioning, a private balcony with breathtaking mountain views, and a well-equipped kitchen for those who prefer to prepare their own meals. The attention to detail extends to the private bathrooms, which are outfitted with a bidet, hairdryer, and complimentary toiletries, ensuring a comfortable stay. The added convenience of a private entrance and a desk in every unit underscores the property's commitment to privacy and productivity.
+---\ntitle: "Villa Merka"\ndescription: "Villa Merka emerges as a serene oasis in Ksamil, boasting a prime location merely 1."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262668700.jpg?k=ca49bf21d0f294a7c0c58dd2bd90efccca983020e7e4d1c2d248692a31b49737&o=&hp=1"\nlanguage: en\nslug: villa-merka\naddress: "Manastir, 3651 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 39.80265851\n  lng: 20.01063486\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262668700.jpg?k=ca49bf21d0f294a7c0c58dd2bd90efccca983020e7e4d1c2d248692a31b49737&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262668711.jpg?k=ab35132387f12330137eda510de58cd49659d2b7915c5a0299914fc921d47986&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262668712.jpg?k=3777cf829ca916c287fc904dcfea3005a5dc721070cb345db84ad9da7accc529&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262668705.jpg?k=4d4dd6ffa9bbf428a5ee769915a41291467d1ac5b4bf09395df990726c5d2522&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262668719.jpg?k=669a5d7cbb2f76ef23a854e1e49c32bff47089f47562b47c1667ebfbed4262ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262668714.jpg?k=e2eaceae5be8e2a6cbb3a634f54509bdca3eb0f815b722ce624af404a88b22a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199456316.jpg?k=77631ddef9159f437972993afe79e46f690ee5aae629b4f0ba49f9babb3e8809&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262668717.jpg?k=ac6c451a0c8f7a902913b503cc01ee959c1eb55452679d0dd89dc8a5fc82781c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263025169.jpg?k=f32aee53ecc4e3ead4a7738b8894f7523f7f4b9efa880a85cbb54e67eab91edf&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Panorama Eni 350 m"\n  - "Bar Restraunt Pasqyra 500 m"\nnearbyBeaches:\n  - "Pasqyra Beach 500 m"\n  - "Pulebardha Beach 800 m"\n  - "Manastir Beach 1.1 km"\n  - "Ksamil Beach 1 1.3 km"\n  - "Sunset Beach 2.5 km"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Plazhi I Krorezes 850 m"\n  - "Parku Kombetar I Butrintit 4 km"\n  - "Butrint National Park 4.7 km"\n  - "Parc National de Butrint 6 km"\nairports:\n  - "Corfu International Airport 23 km"\n  - "Ioannina Airport 69 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/merka-guesthouse.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nAccommodations at Villa Merka are thoughtfully designed with guest comfort in mind. Each room is a haven of relaxation, featuring air conditioning, a private balcony with breathtaking mountain views, and a well-equipped kitchen for those who prefer to prepare their own meals. The attention to detail extends to the private bathrooms, which are outfitted with a bidet, hairdryer, and complimentary toiletries, ensuring a comfortable stay. The added convenience of a private entrance and a desk in every unit underscores the property's commitment to privacy and productivity.
 
 For those looking to enjoy the outdoors, Villa Merka does not disappoint. The property offers barbecue facilities perfect for dining al fresco in the warm weather. Adventure seekers will appreciate the proximity to activities such as snorkeling and fishing, with the guest house ready to facilitate car rental services for guests eager to explore the surrounding area.
 
 Situated just 2.1 km from the serene Pulebardha Beach and 8 km from the historic Butrint National Park, Villa Merka serves as an ideal base for exploring the natural and cultural treasures of the region. For international travelers, Corfu International Airport is 98 km away, with the guest house providing a convenient paid airport shuttle service.
 
 Villa Merka is more than just a place to stay; it's a gateway to the enchanting beauty of Ksamil, offering a blend of comfort, convenience, and natural splendor that makes it a standout choice for travelers seeking a memorable escape.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

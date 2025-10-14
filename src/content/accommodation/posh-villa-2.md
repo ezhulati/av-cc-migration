@@ -1,30 +1,9 @@
----
-title: Posh villa 2
-description: The villa's interior is thoughtfully designed to cater to the modern traveler's needs, featuring two cozy bedrooms, a spacious living room with a flat-screen TV
-featuredImage: "/images/accommodation/376718680.jpg"
-language: en
-slug: posh-villa-2
-location: ""
-amenities: []
-images: []
----
-
-The villa's interior is thoughtfully designed to cater to the modern traveler's needs, featuring two cozy bedrooms, a spacious living room with a flat-screen TV, and an equipped kitchen that opens to a dining area. The presence of two well-appointed bathrooms, complete with a bidet and washing machine, underscores the villa's commitment to convenience. Moreover, the provision of towels and bed linen enhances the comfort of the stay in this soundproof, allergy-free, and non-smoking property.
+---\ntitle: "Posh villa 2"\ndescription: "Posh Villa 2 emerges as a premier choice for travelers seeking a blend of comfort and convenience in Kavajë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376718680.jpg?k=514c480da57d7b07f031993e27ddef197a5d1aae7c87a087a5317803e46b57e2&o=&hp=1"\nlanguage: en\nslug: posh-villa-2\naddress: "spille, 2501 Kavajë, Albania"\ncity: "Kavajë"\nlocation: "Kavajë"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.10519318\n  lng: 19.45735271\nprice: "US$178"\npriceFrom: 178\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 6\nratings:\n  overall: 9.7\n  location: 10\n  cleanliness: 9.6\n  facilities: 9.6\n  value: 9.6\n  comfort: 9.6\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376718680.jpg?k=514c480da57d7b07f031993e27ddef197a5d1aae7c87a087a5317803e46b57e2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377159962.jpg?k=f20ceb0f6d74bed18a3a86ab200005eb189a001cb64a1920e349e71fe7f4b9dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377160876.jpg?k=99a3662e7505b2bdd8176b8652ce6395ae0ee85de9a7b43573da9fea48ca8b01&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377161148.jpg?k=03a29c8da436b1d2d5fad3a6e9a99a31cf628934225c837b4609066d6417a122&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385445822.jpg?k=69cd5d40cf49846e7178a335a07e055e7b088032e7e32545da9b338b3df53cf8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376718737.jpg?k=8b99555204cafa754c5b9c46518ebccda3299a52eec0af1e41e10622b5ed2765&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385445009.jpg?k=061f1d83f051f93da1fe5d0df372b7103426051635d63364d476008d272247f1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377160815.jpg?k=af6a8dff68a10eaf933d6cab60a2d78d5f863b28a5122da8b3936c76b020b6e0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388275445.jpg?k=7b9961915e42594e370042aa22f999d7929a3eb6aee021066555d96fb070a71f&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fast free WiFi (143 Mbps)"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Villa with Sea View"\nnearbyRestaurants:\n  - "Posh Beach 100 m"\n  - "Grill House Kalaja 7 km"\nnearbyBeaches:\n  - "Spille Beach 0 m"\n  - "General Beach 2.5 km"\nwhatsNearby:\n  - "Divjake-Karavasta National Park 6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 39 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Helene"\n    country: "Austria"\n    text: "“gute bauweise, saubere unterkunft, super lage. könnte aber sein, das diese bald verbaut wird. angenehm ruhige lage
+strandbar lecker essen”"\n  - name: "Taha"\n    country: "Switzerland"\n    text: "“Grosse Villa. Kein überfüllter Strand.
+Gutes Restaurant. Freundliche Menschen.”"\nbookingURL: "https://www.booking.com/hotel/al/villa-with-sea-view.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe villa's interior is thoughtfully designed to cater to the modern traveler's needs, featuring two cozy bedrooms, a spacious living room with a flat-screen TV, and an equipped kitchen that opens to a dining area. The presence of two well-appointed bathrooms, complete with a bidet and washing machine, underscores the villa's commitment to convenience. Moreover, the provision of towels and bed linen enhances the comfort of the stay in this soundproof, allergy-free, and non-smoking property.
 
 For those who enjoy dining close to their home away from home, Posh Villa 2 does not disappoint. An on-site bar offers a spot for relaxation and socializing, while nearby dining options present a taste of local cuisine.
 
 Situated 34 km from the Rock of Kavaje and 45 km from the Durres Amphitheatre, the villa serves as an ideal base for exploring the rich cultural tapestry of the area. Additionally, its proximity to Tirana International Mother Teresa Airport, located 69 km away, facilitates easy travel arrangements for international guests.
 
 In summary, Posh Villa 2 stands out as a top-tier accommodation choice for those visiting Kavajë, offering a perfect mix of location, luxury, and leisure.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

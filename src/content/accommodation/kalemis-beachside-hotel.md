@@ -4,9 +4,17 @@ description: "The hotel prides itself on providing a seamless stay with complime
 featuredImage: "/images/accommodation/273152724.jpg"
 language: en
 slug: kalemis-beachside-hotel
-location: ''
-amenities: []
 images: []
+category: "3-Star"
+starRating: 3
+rating: 3
+accommodationType: "hotel"
+location: "Sarandë"
+amenities:
+  - "WiFi"
+  - "Air Conditioning"
+  - "Parking"
+  - "TV"
 ---
 
 The hotel prides itself on providing a seamless stay with complimentary WiFi and private parking for all guests. Accommodations at Kalemi's Beachside Hotel are thoughtfully designed with air conditioning and televisions in every room, ensuring a comfortable and relaxing environment. The inclusion of private bathrooms, equipped with either a bath or shower, adds to the convenience and privacy of the guest experience.
@@ -19,14 +27,3 @@ Conveniently, Kalemi's Beachside Hotel is situated about 1 km from the Ferry Por
 
 In summary, Kalemi's Beachside Hotel stands out as a top accommodation choice for those visiting Sarandë, offering a harmonious blend of comfort, convenience, and access to natural and historical sites.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

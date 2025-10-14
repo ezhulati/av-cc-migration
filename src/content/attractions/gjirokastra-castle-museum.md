@@ -7,6 +7,10 @@ featuredImage: /images/attractions/gjirokastra-castle-museum.jpg
 images: []
 language: en
 slug: gjirokastra-castle-museum
+seo:
+  metaTitle: "Gjirokastra Castle - History, Legends &amp; Travel Tips"
+  metaDescription: "Explore Gjirokastra Castle, Albania’s stone fortress. Legends, museums, Cold War bunkers, and travel tips inside a UNESCO World Heritage Site."
+  robots: "index"
 ---
 
 Journey Through Gjirokastra’s Stone Fortress
@@ -165,10 +169,3 @@ Some fortresses protect against enemies. Gjirokastra Castle protects against for
 
 ![](/images/attractions/Gjirokastra_Castle_2025_DSC07061.jpg)
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

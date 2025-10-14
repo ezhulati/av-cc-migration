@@ -1,28 +1,6 @@
----
-title: Ksamildream
-description: This homestay distinguishes itself with air-conditioned accommodations that promise a cool respite from the warm Mediterranean sun, complemented by the convenie
-featuredImage: "/images/accommodation/385245741.jpg"
-language: en
-slug: ksamildream
-location: ""
-amenities: []
-images: []
----
-
-This homestay distinguishes itself with air-conditioned accommodations that promise a cool respite from the warm Mediterranean sun, complemented by the convenience of private parking on site and complimentary WiFi. Designed with families in mind, Ksamildream features spacious family rooms that cater to the needs of those traveling with loved ones.
+---\ntitle: "Ksamildream"\ndescription: "Ksamildream emerges as a serene retreat in the heart of Ksamil, offering a unique blend of comfort and natural beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385245741.jpg?k=a9a778dab7320b69d4b3dbf5faf299c62101368f2d0d6e95dd0f25b8c3b145b3&o=&hp=1"\nlanguage: en\nslug: ksamildream\naddress: "Luftinja, Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.77171859\n  lng: 20.0123724\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 11\nratings:\n  overall: 9.4\n  location: 9.3\n  cleanliness: 9.3\n  facilities: 8.9\n  value: 9.1\n  comfort: 9.3\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385245741.jpg?k=a9a778dab7320b69d4b3dbf5faf299c62101368f2d0d6e95dd0f25b8c3b145b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385244462.jpg?k=e03ba15e7d26e2d4add547ac17cef8d64bf7c4062daacf08dbeb017f3a146f19&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385244886.jpg?k=91e31d4a2feae5af9ea910e952eaf76b51639c0dcdcc48f264001ec53255768b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485075154.jpg?k=ff12b4aac3fcc63c703a86786c227cbba36fe12257e091525684eca7ad5f574a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483478501.jpg?k=8f4b959ec907674bdbf004262b2782a1c098171f3ba9511449b68a30e7bb85ae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485075039.jpg?k=f74011be55e42c09df7299e7656b9d950c195b86cfb007a3655efd304022a408&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fast free WiFi (55 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "Double Room"\n  - "Budget Double Room"\nnearbyAttractions:\n  - "Museum of Banknotes 18 km"\n  - "New Fortress 18 km"\n  - "Serbian Museum 18 km"\n  - "Theotoki G. Square 19 km"\n  - "Archaeological Museum 19 km"\n  - "Ntougkla Square 19 km"\n  - "Trion Martiron Park 20 km"\n  - "Mon Repos Palace 20 km"\nnearbyRestaurants:\n  - "Fe & Fa 150 m"\n  - "Restaraunt Aleksander 400 m"\nnearbyBeaches:\n  - "Ksamil Beach 850 m"\n  - "Sunset Beach 950 m"\n  - "Coco Beach 1 km"\n  - "Bora Bora Beach 1.2 km"\n  - "Ksamil Beach 7 1.2 km"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 950 m"\n  - "Butrint National Park 2 km"\n  - "Plazhi I Krorezes 3.3 km"\n  - "Parc National de Butrint 10 km"\n  - "Byzantine Museum 18 km"\n  - "Public Garden 18 km"\n  - "Solomos Museum 18 km"\n  - "Asian Art Museum 18 km"\n  - "Old Fortress 18 km"\nairports:\n  - "Corfu International Airport 20 km"\n  - "Ioannina Airport 69 km"\nreviews:\n  - name: "Natacha"\n    country: "France"\n    text: "“It was perfect ! Thank you to the host and his lovely family. We had realy good times here.”"\n  - name: "Maksym"\n    country: "Ukraine"\n    text: "“Good studio-apartment, super location, as for us, it takes 15 minutes to walk to the center, but it’s a very quiet.
+Cool owner, met and saw off with the presents to drink))),on the first day he gave fresh fish, which we cooked, there was also...”"\n  - name: "Marcella"\n    country: "Italy"\n    text: "“I posti meravigliosi il personale della struttura gentile accogliente attenta ad ogni esigenza”"\nbookingURL: "https://www.booking.com/hotel/al/ksamildream.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nThis homestay distinguishes itself with air-conditioned accommodations that promise a cool respite from the warm Mediterranean sun, complemented by the convenience of private parking on site and complimentary WiFi. Designed with families in mind, Ksamildream features spacious family rooms that cater to the needs of those traveling with loved ones.
 
 Each accommodation unit is thoughtfully equipped with a private bathroom, ensuring privacy and comfort. Select rooms elevate the experience further, offering terraces for guests to unwind and soak in the serene surroundings. For those fortunate enough, rooms with a river view present a tranquil backdrop, making every moment at Ksamildream a picturesque memory.
 
 Situated 93 km from Corfu International Airport, the homestay remains accessible for international travelers, making it a compelling choice for those seeking a blend of relaxation, natural beauty, and cultural exploration in Ksamil.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Apartament Vasilika
-description: "Each unit at Apartament Vasilika is designed with comfort in mind, featuring a private bathroom, complimentary WiFi, and air conditioning."
-featuredImage: "/images/accommodation/474366202.jpg"
-language: en
-slug: apartament-vasilika
-location: ""
-amenities: []
-images: []
----
-
-Each unit at Apartament Vasilika is designed with comfort in mind, featuring a private bathroom, complimentary WiFi, and air conditioning. Select rooms elevate the experience further with the addition of a terrace, allowing guests to soak in the coastal ambiance fully.
+---\ntitle: "Apartament Vasilika"\ndescription: "Apartament Vasilika emerges as a prime choice for travelers seeking a serene beachfront escape in Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474366202.jpg?k=afa4278ec6601b1b4ff52eab37d6bb9f82f62e41c31062af49c4e5d3fc193036&o=&hp=1"\nlanguage: en\nslug: apartament-vasilika\naddress: "Rruga Skënderbeu, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 39.8686319\n  lng: 20.02196234\nprice: "US$30"\npriceFrom: 30\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 57\nratings:\n  overall: 9.3\n  location: 8\n  cleanliness: 9.6\n  facilities: 9.3\n  value: 9.5\n  comfort: 9.5\n  staff: 9.5\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474366202.jpg?k=afa4278ec6601b1b4ff52eab37d6bb9f82f62e41c31062af49c4e5d3fc193036&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474363797.jpg?k=5f9e9ea0a0ccd88744f611ea12a3f81bab2ab42298880c6d50d945b59182a11d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474363767.jpg?k=44e4ac0cd01c2caeee0ef1f99c88eee9fa1babc744f47616ebe49359a1f8dc54&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462799078.jpg?k=36db51d198a2712951bcd24cefe9793b43ddfddbf5422bdecb548751626e176e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474303954.jpg?k=4bcfa02ad3ba043877d577fc61e9a1ab17463fecde12f742d9c608390707cb4a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474302676.jpg?k=4eda2031b7738e46c1040043a7274931f79c816005a14f68833466fcfc5f4f6d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Beachfront"\n  - "Terrace"\nroomTypes:\n  - "Deluxe Room"\n  - "Standard Double Room"\nnearbyRestaurants:\n  - "Ostria 100 m"\n  - "Kafe Bar Joana 300 m"\nnearbyBeaches:\n  - "Maestral Beach 550 m"\n  - "La Petite Beach 600 m"\n  - "Saranda City Beach 800 m"\n  - "VIP Beach 1.1 km"\n  - "Santa Quaranta Beach 1.2 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.1 km"\n  - "Butrint National Park 2 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Anti"\n    country: "United Kingdom"\n    text: "“very helpful and friendly staff rooms are great size and very clean 10-10”"\n  - name: "Dominik"\n    country: "United Kingdom"\n    text: "“Really good facilities, everything new, super comfy bed, balcony, fridge, hair dryer, good shower.”"\n  - name: "Maya"\n    country: "Austria"\n    text: "“It was very clean. We got an upgrade for a better room. It was very big and it has a kitchen and twi balconies. They also let us check out a bit later. The owners are very sweet and they helped us when we needed.”"\nbookingURL: "https://www.booking.com/hotel/al/apartament-vasilika-sarande.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach unit at Apartament Vasilika is designed with comfort in mind, featuring a private bathroom, complimentary WiFi, and air conditioning. Select rooms elevate the experience further with the addition of a terrace, allowing guests to soak in the coastal ambiance fully.
 
 For those looking to explore beyond the immediate comforts of their accommodation, Butrint National Park lies just 15 km away, offering a blend of history and natural beauty. Additionally, the property is situated 95 km from Ioannina Airport, making it accessible for international and domestic travelers alike.
 
 Apartament Vasilika stands out for its thoughtful amenities and strategic location, promising a memorable stay for all who visit.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

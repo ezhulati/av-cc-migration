@@ -1,30 +1,7 @@
----
-title: Casa con impronta retro
-description: Guests are welcomed around the clock with a 24-hour front desk, ready to cater to any need, alongside thoughtful additions such as an outdoor fireplace and a su
-featuredImage: "/images/accommodation/510896169.jpg"
-language: en
-slug: casa-con-impronta-retro
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed around the clock with a 24-hour front desk, ready to cater to any need, alongside thoughtful additions such as an outdoor fireplace and a sun-drenched terrace. Connectivity and convenience are paramount, with complimentary WiFi and private parking available to all guests.
+---\ntitle: "Casa con impronta retro"\ndescription: "Casa con impronta retro emerges as a charming retreat in Nartë, conveniently located just a short drive from the historic Independence Square and the iconic Kuzum Baba."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510896169.jpg?k=eb4565f6b7ee20d8783f99e79b3971f4ec6991984bd2cdb657a2e0de9d0536a9&o=&hp=1"\nlanguage: en\nslug: casa-con-impronta-retro\naddress: "FFW5+XR8, 9414 Nartë, Albania"\ncity: "Nartë"\nlocation: "Nartë"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.49777964\n  lng: 19.45874125\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510896169.jpg?k=eb4565f6b7ee20d8783f99e79b3971f4ec6991984bd2cdb657a2e0de9d0536a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510896218.jpg?k=fa327cd0d7ba56ba8cf197f3f117700e7719061d40451f2af62dff16093f2fbf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510896224.jpg?k=5b1801e4ecb7ec4cdac1617c211bf61e32464735d780c3a73f42973003412de2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510896226.jpg?k=16716c7dfc5d3aace97ec6d8ccf917f6530ebbb7bf5108a9c5b3a1d2c4a890a4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510896228.jpg?k=9bb7bd34e7f568205eb9d4f1495c5f98f95ca0cb0e703a024715781484c2c320&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510896230.jpg?k=68d10e2fdf1f694ea00e6386493280cf2ff7b9f5321e2ef8b05127802db4ba54&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510896235.jpg?k=a81b5e83f9881d7401a0ba527382a65f4a1541a924e2c509f76b80b75a4bcba9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510896241.jpg?k=4a580da85ac1fb33190ca26b24651c973631c16fba440c62b10e12c17408d2ff&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Restorant ARTA-MARIO 450 m"\n  - "Green Park Restorant 850 m"\nnearbyBeaches:\n  - "Narta Beach 2.4 km"\n  - "Vjetër Beach 3.9 km"\n  - "Vlore Beach 6 km"\n  - "Ri Beach 8 km"\n  - "Beach at Government Villas 9 km"\nwhatsNearby:\n  - "Independence Square 4 km"\n  - "Kuzum Baba 4.5 km"\n  - "Scooby Doo Vlore 8 km"\nbookingURL: "https://www.booking.com/hotel/al/casa-con-impronta-retro.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed around the clock with a 24-hour front desk, ready to cater to any need, alongside thoughtful additions such as an outdoor fireplace and a sun-drenched terrace. Connectivity and convenience are paramount, with complimentary WiFi and private parking available to all guests.
 
 The interior of Casa con impronta retro is generously spacious, featuring a bedroom designed for relaxation, complemented by a flat-screen TV for entertainment. The fully equipped kitchen is a dream for those who love to cook, boasting an oven, fridge, washing machine, and minibar. The inclusion of bed linen, towels, and laundry service adds a touch of home comfort to the holiday experience.
 
 Families will find the property especially appealing, thanks to an indoor play area and outdoor equipment designed to keep younger guests entertained. For those looking to explore the local area, Casa con impronta retro offers the perfect base for engaging in table tennis, walking tours, or bike tours, inviting guests to immerse themselves in the local culture and landscape.
 
 Situated 148 km from Tirana International Mother Teresa Airport, this holiday home is an accessible escape for both local and international travelers seeking a blend of retro charm and contemporary convenience in the heart of Nartë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

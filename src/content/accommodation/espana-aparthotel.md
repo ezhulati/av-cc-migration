@@ -1,30 +1,7 @@
----
-title: Espana aparthotel
-description: The culinary experience at Espana Aparthotel is noteworthy, with an on-site restaurant that serves a variety of local dishes and pizzas, complemented by the opt
-featuredImage: "/images/accommodation/94366326.jpg"
-language: en
-slug: espana-aparthotel
-location: ""
-amenities: []
-images: []
----
-
-The culinary experience at Espana Aparthotel is noteworthy, with an on-site restaurant that serves a variety of local dishes and pizzas, complemented by the option to dine on a terrace surrounded by the property's lush garden. This setting not only enhances the dining experience but also adds to the overall ambiance of the hotel.
+---\ntitle: "Espana aparthotel"\ndescription: "Espana Aparthotel emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience along the Golem coastline, just 7 km from the bustling center of Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/94366326.jpg?k=f7061859c35711aed5c438a6bca3b01d38510d26d1bb85a90723d1818473d001&o=&hp=1"\nlanguage: en\nslug: espana-aparthotel\naddress: "Shkembi i Kavajes, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "resort"\ncoordinates:\n  lat: 41.27464572\n  lng: 19.51598614\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 8.7\nratingWords: "Very Good"\nnumberOfReviews: 340\nratings:\n  overall: 8.7\n  location: 9.1\n  cleanliness: 8.6\n  facilities: 8.1\n  value: 8.7\n  comfort: 8.6\n  staff: 9\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/94366326.jpg?k=f7061859c35711aed5c438a6bca3b01d38510d26d1bb85a90723d1818473d001&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/94366727.jpg?k=8522da76f0b5abb4839e770fa9f350948d1a336f3b8b7a6e0770c86e995ed44d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464640790.jpg?k=6c8b6d7781fb0b1287799a9e3b952256a434f6b8885856f47c1c19b6484099d6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464639784.jpg?k=b0636cd62ab5f141a90f360b3471e3ec5d8eead0ebc3ed59e43222175abe5888&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/181705370.jpg?k=6bb2726a5430327924619937c6d6a7d7dc597441d66f4f21bdfcb5967632c1b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/294669882.jpg?k=3380d6acb00b0881483c32b212555d937a846b527d19140993e4b139a49abdce&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Private beach area"\n  - "Fabulous breakfast"\nroomTypes:\n  - "Double Room"\n  - "Superior Double Room with Sea View"\n  - "One-Bedroom Apartment with Balcony and Mountain View"\nnearbyRestaurants:\n  - "Hotel Espana 50 m"\n  - "Restorant Orkide 150 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 0 m"\n  - "Golem Beach 1.1 km"\n  - "Durres Beach 1.4 km"\n  - "Mali I Robit Beach 3 km"\n  - "Qerret Beach 4.9 km"\nwhatsNearby:\n  - "Bekimi 7 km"\n  - "Wine Dhe Pooh 7 km"\n  - "Durres Amphiteatre 7 km"\n  - "Yje Dhe Hena 7 km"\n  - "1. Maj 7 km"\n  - "Sheshi Demokracia 7 km"\n  - "Sotir Noka 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Adam"\n    country: "Poland"\n    text: "“Perfect location, friendly Staff, well equipped apartments. Best velue for money.”"\n  - name: "Tamsin"\n    country: "United Kingdom"\n    text: "“Amazing staff, lovely room, wonderful location. Can't fault it! Our laundry got all done for very cheap in under 24 hours. Delicious food and cocktails, and members of staff helped us with our onwards transfer making sure our cab driver knew...”"\n  - name: "Silvie"\n    country: "Czech Republic"\n    text: "“Beautiful view from our room, very clean, working wifi (also on the beach), perfect service, very kind staff, and the BEST FOOD ever!”"\nbookingURL: "https://www.booking.com/hotel/al/pizeri-restorant-espana.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe culinary experience at Espana Aparthotel is noteworthy, with an on-site restaurant that serves a variety of local dishes and pizzas, complemented by the option to dine on a terrace surrounded by the property's lush garden. This setting not only enhances the dining experience but also adds to the overall ambiance of the hotel.
 
 Accommodations at Espana Aparthotel are designed with guest comfort in mind, featuring free WiFi, games consoles, cable channels, and air conditioning in every room. The option of rooms with balconies is available, ensuring that every guest can enjoy views of the sea, mountains, or garden, depending on their preference.
 
 Additional amenities that elevate the guest experience include a shared TV lounge for communal relaxation and a bar where guests can unwind with a drink. The convenience of free private parking, along with the availability of airport shuttle and car rental services directly from the hotel, underscores Espana Aparthotel's commitment to meeting the needs of its guests.
 
 In summary, Espana Aparthotel stands out as a destination that offers a harmonious blend of scenic beauty, comfort, and convenience, making it an attractive option for travelers visiting the Durrës area.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

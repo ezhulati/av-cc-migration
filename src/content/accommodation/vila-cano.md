@@ -1,30 +1,9 @@
----
-title: Vila Cano
-description: "The property boasts a well-maintained garden that provides a peaceful retreat for guests."
-featuredImage: "/images/accommodation/463504835.jpg"
-language: en
-slug: vila-cano
-location: ""
-amenities: []
-images: []
----
-
-The property boasts a well-maintained garden that provides a peaceful retreat for guests. Each accommodation at Vila Cano is thoughtfully designed with comfort in mind, featuring a seating area, a flat-screen TV, and complemented by bed linen and towels to ensure a restful stay. The inclusion of a balcony in certain units allows visitors to enjoy the serene garden views, adding an extra layer of relaxation to their stay.
+---\ntitle: "Vila Cano"\ndescription: "Vila Cano emerges as a serene oasis in Durrës, offering guests a unique blend of convenience and tranquility."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463504835.jpg?k=d76535ce6dad9b5a235d06e7733bd86453ad7e35ae95a544091890b8c1bd48f4&o=&hp=1"\nlanguage: en\nslug: vila-cano\naddress: "Rruga mbreteresha olimbia, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 41.31043482\n  lng: 19.4933286\nprice: "US$14"\npriceFrom: 14\nstarRating: 3\nrating: 8.3\nratingWords: "Very Good"\nnumberOfReviews: 223\nratings:\n  overall: 8.3\n  location: 8.5\n  cleanliness: 8.3\n  facilities: 7.9\n  value: 9\n  comfort: 8.2\n  staff: 9.2\n  wifi: 6.7\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463504835.jpg?k=d76535ce6dad9b5a235d06e7733bd86453ad7e35ae95a544091890b8c1bd48f4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463504750.jpg?k=6d7144001693a8d183531a6c629555d9a5b2b09d16a7c96dca99c5dd8df1c334&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473572332.jpg?k=e7618bc5c4fabd990333e03249c3e0b2b8a7b2b999d55ee11546f996cc4624e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468484270.jpg?k=2e72693fa48e6c111780b874c25f814d1ac61bc87c58a38cdab1e9098fc39191&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473572342.jpg?k=fe7236489b2113e45c7869567f3d65885e868e54e865ffc67161c27384c1c718&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456398082.jpg?k=a91517c2c0c9fbec39ed6ad4318f7355f629fa901f040c3a6b56bca2f3dfed1c&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Good breakfast"\nroomTypes:\n  - "Double Room with Private Bathroom"\nnearbyRestaurants:\n  - "ANTIGUA 400 m"\n  - "Pasticeri Pelikan 400 m"\nnearbyBeaches:\n  - "Durres Beach 600 m"\n  - "Shkëmbi i Kavajës Beach 3 km"\n  - "Currila Beach 3.9 km"\n  - "Kallmi Beach 5 km"\n  - "Golem Beach 5 km"\nwhatsNearby:\n  - "Bekimi 2.3 km"\n  - "Wine Dhe Pooh 3.8 km"\n  - "Sheshi Demokracia 3.8 km"\n  - "Yje Dhe Hena 3.9 km"\n  - "Durres Amphiteatre 4 km"\n  - "Sotir Noka 4.1 km"\n  - "1. Maj 4.2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\nreviews:\n  - name: "Faith"\n    country: "New Zealand"\n    text: "“Super clean property and big outdoor area with kitchen to use”"\n  - name: "Natalia"\n    country: "Poland"\n    text: "“Lovely host ❤️
+Tarrace, place for rest outside
+Location”"\n  - name: "Mustafa"\n    country: "Germany"\n    text: "“Calm and safe environment, very kind lady owning the place and nice garden around the rooms. Good location near the beach.”"\nbookingURL: "https://www.booking.com/hotel/al/vila-cano-durres1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe property boasts a well-maintained garden that provides a peaceful retreat for guests. Each accommodation at Vila Cano is thoughtfully designed with comfort in mind, featuring a seating area, a flat-screen TV, and complemented by bed linen and towels to ensure a restful stay. The inclusion of a balcony in certain units allows visitors to enjoy the serene garden views, adding an extra layer of relaxation to their stay.
 
 Guests will appreciate the convenience of complimentary private parking and free WiFi, making it easy to plan day trips or share holiday photos. The guest house also offers a terrace for those who wish to bask in the sun or enjoy an evening under the stars.
 
 For those interested in exploring the local area, the Rock of Kavaje is a mere 5.8 km away, offering a glimpse into the region's natural beauty. Additionally, the historical Former Residence of Enver Hoxha is located 38 km from the property, providing a fascinating excursion for history enthusiasts.
 
 With its strategic location, Vila Cano is easily accessible from Tirana International Mother Teresa Airport, just 32 km away, ensuring a hassle-free arrival and departure for international guests. The 24-hour front desk ensures that guests' needs are promptly met at any time of the day or night, making Vila Cano an exemplary choice for those seeking a comfortable and convenient stay in Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

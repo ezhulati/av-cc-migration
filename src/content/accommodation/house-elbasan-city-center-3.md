@@ -1,30 +1,7 @@
----
-title: House Elbasan city center 3
-description: This property stands out for its commitment to guest satisfaction, offering round-the-clock front desk support and full-day security, ensuring a worry-free stay
-featuredImage: "/images/accommodation/picture-305.jpeg"
-language: en
-slug: house-elbasan-city-center-3
-location: ""
-amenities: []
-images: []
----
-
-This property stands out for its commitment to guest satisfaction, offering round-the-clock front desk support and full-day security, ensuring a worry-free stay. The addition of complimentary WiFi throughout the premises allows guests to stay connected with ease, whether for leisure or business purposes.
+---\ntitle: "House Elbasan city center 3"\ndescription: "House Elbasan City Center 3 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Elbasan."\nfeaturedImage: "https://graph.facebook.com/v2.9/10155574436535500/picture?type=square&height=64&width=64"\nlanguage: en\nslug: house-elbasan-city-center-3\naddress: "Lagjia 28 Nentori, 3001 Elbasan, Albania"\ncity: "Elbasan"\nlocation: "Elbasan"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.11135871\n  lng: 20.07773408\nprice: "US$51"\npriceFrom: 51\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 22\nratings:\n  overall: 9.8\n  location: 9.7\n  cleanliness: 9.9\n  facilities: 9.7\n  value: 9.4\n  comfort: 10\n  staff: 9.8\n  wifi: 0\nimages:\n  - "https://graph.facebook.com/v2.9/10155574436535500/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/au/68ae628167460a26a87b4968d1a966c00da56c12.png"\n  - "https://lh3.googleusercontent.com/a/AATXAJwux_UDRxIKL3p6nQxMpX8TlYEX1c7tx78EZ389=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/gr/da7e6131cc83f867d8f44137a902afce81580e57.png"\n  - "https://graph.facebook.com/v2.9/1443355192392899/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/hu/23236feab5833cd09ce5c8048a125ec301a1fbe6.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"\n  - "https://cf.bstatic.com/static/img/flags/12/ch/6e7e77b29bc790bcafeb8c73cb3e002cbee41c2a.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"\n  - "https://cf.bstatic.com/static/img/flags/12/fr/80667cd1f58bba217c1ec87dea9ccd1335ed8dba.png"\n  - "https://lh3.googleusercontent.com/a/AATXAJwYNTo4ojf7nqgq_XEpUHHMlgEBZsUAGzQhPewL=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/nl/7b4427cefda046f99f0efc11622be2e83b8ba511.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Airport shuttle"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Fast Food Ervini 100 m"\n  - "Bar Kafe \Xhessika\\"\" 150 m"\nwhatsNearby:\n  - "Dajti Mountain National Park 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 43 km"\n  - "Ohrid Airport 56 km"\npaymentMethods:\n  - "Mastercard"\nreviews:\n  - name: "Natalia"\n    country: "Australia"\n    text: "“Easy to find, park outside, spacious and had everything we needed, including a washing machine!”"\n  - name: "Korakas"\n    country: "Greece"\n    text: "“Amazing place! Owners were so kind. The best hospitality you can imagine!”"\n  - name: "Kristóf"\n    country: "Hungary"\n    text: "“It is a really good apartman whit everything you need. The host is waiting us. Everthing was clean and nice. We get information what we ask. You can park in front of the house and host is help to find place.”"\nbookingURL: "https://www.booking.com/hotel/al/green-house-elbasan.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis property stands out for its commitment to guest satisfaction, offering round-the-clock front desk support and full-day security, ensuring a worry-free stay. The addition of complimentary WiFi throughout the premises allows guests to stay connected with ease, whether for leisure or business purposes.
 
 The apartment itself is a haven of space and comfort, featuring a well-appointed bedroom, a cozy living room complete with a flat-screen TV for entertainment, a fully equipped kitchen for those who prefer to dine in, and a bathroom outfitted with a bath and slippers for ultimate relaxation. The private entrance to the accommodation adds an extra layer of privacy, making it feel like a home away from home.
 
 For those looking to explore the surroundings, the Grand Park of Tirana and the Postbllok - Checkpoint Monument are both within easy reach, located just 39 km away. Additionally, the convenience of a paid airport shuttle service to Tirana International Mother Teresa Airport, situated 52 km from the apartment, ensures seamless travel arrangements.
 
 House Elbasan City Center 3 is not just a place to stay; it's a gateway to experiencing the charm and culture of Elbasan, making it an ideal choice for discerning travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

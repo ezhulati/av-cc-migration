@@ -1,28 +1,5 @@
----
-title: Family Apartments Himara
-description: Guests are treated to well-appointed rooms that boast air conditioning, ensuring a restful environment regardless of the season. The convenience of complimentar
-featuredImage: "/images/accommodation/471872664.jpg"
-language: en
-slug: family-apartments-himara
-location: ""
-amenities: []
-images: []
----
-
-Guests are treated to well-appointed rooms that boast air conditioning, ensuring a restful environment regardless of the season. The convenience of complimentary private parking and WiFi access throughout the property adds to the seamless experience, allowing visitors to stay connected and explore the area with ease.
+---\ntitle: "Family Apartments Himara"\ndescription: "Family Apartments Himara emerges as a prime choice for travelers seeking comfort and convenience in the heart of Himare, a stone's throw away from the pristine shores of Spille Beach, Maracit Beach, and Prinos Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471872664.jpg?k=e9e989e24d85cb1b76b4e6151e526870a140220aaa7948239e8651baf9138aaf&o=&hp=1"\nlanguage: en\nslug: family-apartments-himara\naddress: "Cako Himare, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.10636735\n  lng: 19.74871127\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 16\nratings:\n  overall: 9.4\n  location: 7.8\n  cleanliness: 9.5\n  facilities: 9.5\n  value: 9.1\n  comfort: 10\n  staff: 10\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471872664.jpg?k=e9e989e24d85cb1b76b4e6151e526870a140220aaa7948239e8651baf9138aaf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471872693.jpg?k=f907cd4ac08a0a4ec616e64690d1148e4558f1ddda1c03ff46f7dcf2e8056d08&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471872689.jpg?k=0fb2d6ce58e0cb7d093d782a20b06bc4c831f292ac441ab0fce0d22b1fa819a2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471872708.jpg?k=46fe9776e9acefa0797a09f1a1a4ebf0481e1925535317769b16a7bb6479c854&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528151629.jpg?k=ed82eb97c85ec4f0d41c8af41bf23a68b1892e956f9c05cf49b5ca312df39a20&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471872714.jpg?k=6b269a9949f000cf33f8fea680c3291c6d91ad6d262c7ed91f45f03c912a2b77&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471872694.jpg?k=ec43ce52ebee3a4968e62ab0a085687381a6642ae93ab4102676271438459a29&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471872697.jpg?k=e5d6d726304a15d0ac09195b97004950c8aef098484721ded7a7ed5f1fa9c6dd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528163989.jpg?k=7f9ecff3756685743b64b17e0b1a1607cfd20515183f11895b3133fbad0d4a7f&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Valentin 350 m"\n  - "Fast Food Meraklis 350 m"\nnearbyBeaches:\n  - "Spille Beach 650 m"\n  - "Maracit Beach 750 m"\n  - "Prinos Beach 850 m"\n  - "Potam Beach 1.3 km"\n  - "Livadhi Beach 1.5 km"\nwhatsNearby:\n  - "Llogora National Park 16 km"\nairports:\n  - "Corfu International Airport 57 km"\nreviews:\n  - name: "Serhiy"\n    country: "Ukraine"\n    text: "“Very nice host and her son. Clean house. Nice morning view from the hills.”"\n  - name: "Beșa"\n    country: "Romania"\n    text: "“All was perfect😀 clean apartment and nice view from the location”"\n  - name: "Michael"\n    country: "Germany"\n    text: "“Very warm hosts in an incredibly beautiful place overlooking the bay. The hosts are exceptionally accommodating. Distance to town and beach 8 minutes walk.”"\nbookingURL: "https://www.booking.com/hotel/al/family-apartments-himara-himare.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nGuests are treated to well-appointed rooms that boast air conditioning, ensuring a restful environment regardless of the season. The convenience of complimentary private parking and WiFi access throughout the property adds to the seamless experience, allowing visitors to stay connected and explore the area with ease.
 
 Each accommodation unit is thoughtfully equipped with a flat-screen TV, ensuring entertainment after a day of adventure, alongside a private bathroom that promises privacy and comfort. The fully equipped kitchen in every apartment offers the freedom to prepare meals, making it an ideal choice for both short and long stays.
 
 Situated 144 km from Ioannina Airport, Family Apartments Himara offers a perfect blend of accessibility and seclusion, making it a favored option for both domestic and international travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

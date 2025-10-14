@@ -1,30 +1,10 @@
----
-title: Hotel Aloha
-description: Connectivity is never an issue, with complimentary WiFi available throughout the premises, alongside room service and a tour desk ready to assist guests in plan
-featuredImage: "/images/accommodation/368261008.jpg"
-language: en
-slug: hotel-aloha
-location: ""
-amenities: []
-images: []
----
-
-Connectivity is never an issue, with complimentary WiFi available throughout the premises, alongside room service and a tour desk ready to assist guests in planning their adventures. Emphasizing a smoke-free environment, Hotel Aloha ensures a clean and fresh stay for all.
+---\ntitle: "Hotel Aloha"\ndescription: "Hotel Aloha stands out as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë, just a stone's throw away from the pristine Sarande Main Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368261008.jpg?k=1efc489a1023d9f8e7fd88966d6c7558d8ec3099b078df08daf90a6e0254b762&o=&hp=1"\nlanguage: en\nslug: hotel-aloha\naddress: "Rruga: Mitat Hoxha, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.86856234\n  lng: 20.00048268\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 486\nratings:\n  overall: 9.2\n  location: 9.3\n  cleanliness: 9.2\n  facilities: 8.9\n  value: 9\n  comfort: 9.2\n  staff: 9.5\n  wifi: 9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368261008.jpg?k=1efc489a1023d9f8e7fd88966d6c7558d8ec3099b078df08daf90a6e0254b762&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304492122.jpg?k=b8d6633ea0925e03201617d7ae97120dd0b80e926625824ad12d9f22fcaf9c2d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365991886.jpg?k=797f59215dfc859a04a68f5816383361f223685ffd497d4946f474b779c4e150&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309073349.jpg?k=3468875d13263f205c5590ed487739d8e62b7422a1afe06ee38af9ae00f30058&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304322559.jpg?k=3c5b2bff1b5e0cc0f603b8ee3b716ea63e772e2478b7d77511eb9b1bba10665b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368263863.jpg?k=fd34af0dfea93b1f3d94c28c20323dcb12e420865a0a1e4c6d11037c2713c694&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365991875.jpg?k=439edfa9ae9ec91c419d92d2781d74a2522a8ff05f26c048bd44502bc18b4135&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368260510.jpg?k=72d8ad39e8b4b93b9b05dd3be7975548ccfd7c1cb3c33e61e30a6088fe07f038&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304322686.jpg?k=e0bef33a39cd87b8bf490ff4d3d8834e29de71f670183be2368de486f5cf8ad2&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Terrace"\n  - "Bar"\n  - "Private beach area"\n  - "Very good breakfast"\nnearbyRestaurants:\n  - "Aloha Beach 10 m"\n  - "Vesa Pizzeria 50 m"\nnearbyBeaches:\n  - "Sarande Main Beach 40 m"\n  - "Saranda City Beach 950 m"\n  - "La Petite Beach 1.2 km"\n  - "Maestral Beach 1.3 km"\n  - "Saranda Bay Beach 1.8 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.3 km"\n  - "Butrint National Park 2.9 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 72 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Danae"\n    country: "Germany"\n    text: "“Very friendly and nice people, the private beach is perfect you get everything there”"\n  - name: "Charlie"\n    country: "Sweden"\n    text: "“Everything was very good! The staff is amazing, very attentive and caring. They helped us resolve a small issue that came up very easily. The hotel itself is nice, very clean and has its own beach. The location is astonishing. A bit outside of the...”"\n  - name: "Polly"\n    country: "United Kingdom"\n    text: "“Clean
+Great value for money
+Great beach
+Service was amazing”"\nbookingURL: "https://www.booking.com/hotel/al/aloha-sarande.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nConnectivity is never an issue, with complimentary WiFi available throughout the premises, alongside room service and a tour desk ready to assist guests in planning their adventures. Emphasizing a smoke-free environment, Hotel Aloha ensures a clean and fresh stay for all.
 
 The accommodations at Hotel Aloha are designed with guest comfort in mind. Each room opens up to a private balcony, offering a personal oasis of relaxation. The rooms are well-appointed with modern amenities including a flat-screen TV, air conditioning, and a private bathroom equipped with a bidet and hairdryer. For added comfort, select rooms also feature a cozy seating area. Guests can expect the added touches of luxury with soft bed linen and fluffy towels provided.
 
 Mornings at Hotel Aloha begin with a delightful continental breakfast, setting the tone for a day of exploration or relaxation. The hotel's location is perfect for beach lovers, with La Petite Beach just 2 km away, and for those looking to immerse themselves in nature, Butrint National Park is a mere 17 km from the hotel. For travelers arriving from afar, Ioannina Airport is the nearest gateway, located 97 km from the property.
 
 Hotel Aloha presents an inviting option for those wishing to experience the charm and beauty of Sarandë, offering a blend of convenience, comfort, and attentive service.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,32 +1,11 @@
----
-title: Elbasan Backpacker Hostel
-description: Accommodations at Elbasan Backpacker Hostel are thoughtfully designed to cater to diverse needs, with select rooms equipped with a full kitchen, including a fri
-featuredImage: "/images/accommodation/236618440.jpg"
-language: en
-slug: elbasan-backpacker-hostel
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Elbasan Backpacker Hostel are thoughtfully designed to cater to diverse needs, with select rooms equipped with a full kitchen, including a fridge, dishwasher, and toaster, all complemented by fresh bed linen for a comfortable night's sleep.
+---\ntitle: "Elbasan Backpacker Hostel"\ndescription: "Elbasan Backpacker Hostel emerges as a vibrant haven for travelers seeking an immersive experience in Elbasan."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/236618440.jpg?k=6e02b63d59f8c069906fc49e24574df3af5a1f59a107dcfd1062f0e6853c9017&o=&hp=1"\nlanguage: en\nslug: elbasan-backpacker-hostel\naddress: "Rruga Sul Domi AZ6668, 3001 Elbasan, Albania"\ncity: "Elbasan"\nlocation: "Elbasan"\naccommodationType: "hostel"\ncoordinates:\n  lat: 41.124374\n  lng: 20.09892215\nprice: "US$10"\npriceFrom: 10\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 271\nratings:\n  overall: 9\n  location: 8.2\n  cleanliness: 9\n  facilities: 8.7\n  value: 9.5\n  comfort: 9\n  staff: 9.7\n  wifi: 9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/236618440.jpg?k=6e02b63d59f8c069906fc49e24574df3af5a1f59a107dcfd1062f0e6853c9017&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/339602963.jpg?k=6f5c136ec982606c990c445c87ee55f0aa248df7c6a8313ddc5a7877c0f20d92&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301449752.jpg?k=fc9a3f2d4640ab9e9aa421ef726d0306d8a285862e3ef6377807460fb02875d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/339602826.jpg?k=ef7a0dfb6069306b7cc687b97f6e1f04d86bf92ee204051da99098b37390ad9d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370811974.jpg?k=9d16991bdcccaf062124dbe3b804331722d093ddcf586d7e4bf7015e2279ee29&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370811757.jpg?k=8fd27204d0319a1da6f6f0ed54c6778fe706feb62bd24a720da20d96dd8428c5&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Airport shuttle"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Bar"\n  - "Superb breakfast"\nroomTypes:\n  - "Bed in 8-Bed Mixed Dormitory Room"\n  - "Single Bed in 4-Bed Dormitory Room"\n  - "Standard Double Room"\n  - "Hostel"\nnearbyRestaurants:\n  - "Taverna Attika 700 m"\n  - "Rita Park 1,000 m"\nwhatsNearby:\n  - "Dajti Mountain National Park 18 km"\n  - "Parku I Bleteve Kokreve 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 44 km"\n  - "Ohrid Airport 54 km"\nreviews:\n  - name: "David"\n    country: "France"\n    text: "“Fatima and her family are the warmest person in the world. We were here during winter Time and yet the place was really beautiful !
+And the breakfast inclued is reallyyy good with products from the place.
+Also we arrived pretty late and fatima...”"\n  - name: "Johannes"\n    country: "United States"\n    text: "“I just had one night. I used an old Elbasan - Plazh [South-Durrës]-train. It was an amazing experience. Friendly and helpful hostel staff helped me to get the train early morning.”"\n  - name: "Agnes"\n    country: "Finland"\n    text: "“Very kind owners and everything you need for a comfortable stopover in Elbasan. Breakfast was great! Kitchen available in beautiful citrus garden. Recommended!”"\nbookingURL: "https://www.booking.com/hotel/al/backpacker-hostel.en-gb.html?aid=8035640"\nbestFor: "Best for Hostel Experience"\nbestCategories: "Hostel Experience"\ncategory: "Hostel Experience"\n---\n\nAccommodations at Elbasan Backpacker Hostel are thoughtfully designed to cater to diverse needs, with select rooms equipped with a full kitchen, including a fridge, dishwasher, and toaster, all complemented by fresh bed linen for a comfortable night's sleep.
 
 Culinary delights await at the hostel's restaurant, where a menu of Italian, local, and European dishes tempts the palate. Special dietary requests, such as vegetarian and halal options, are accommodated, ensuring every guest enjoys a satisfying dining experience.
 
-For those seeking relaxation, the hostel's hot spring bath provides a perfect escape, while adventure enthusiasts will appreciate the opportunity to engage in darts, hiking, and fishing in the surrounding area.
+For those seeking relaxation, the hostel's hot spring bath provides a perfect escape, while adventure enthusiasts will appreciate the opportunity to engage in darts, hiking, and fishing in the surrounding area. 
 
 Located a manageable distance from notable landmarks, Elbasan Backpacker Hostel is 42 km from Skanderbeg Square and 45 km from Dajti Ekspres Cable Car, with Tirana International Mother Teresa Airport 54 km away, making it an accessible base for exploring the region.
 
 Elbasan Backpacker Hostel stands out as a compelling choice for travelers looking for a blend of adventure, comfort, and convenience in Elbasan.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

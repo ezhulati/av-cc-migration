@@ -1,30 +1,7 @@
----
-title: Teal Apartment
-description: "This apartment has undergone a recent renovation, presenting guests with a modern and clean environment."
-featuredImage: "/images/accommodation/477383397.jpg"
-language: en
-slug: teal-apartment
-location: ""
-amenities: []
-images: []
----
-
-This apartment has undergone a recent renovation, presenting guests with a modern and clean environment. It boasts a layout that includes one separate bedroom, a bathroom equipped with essentials, and a living room that features a flat-screen TV for entertainment. The kitchen is fully equipped, catering to guests' dining needs with a dining area and oven, ensuring a home-away-from-home experience.
+---\ntitle: "Teal Apartment"\ndescription: "Teal Apartment emerges as a refreshing accommodation choice for travelers seeking comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477383397.jpg?k=d4ac53a2b3d654c9d16f26a18f343e0a5b9b396d8312d65d6dfd8cbd78848982&o=&hp=1"\nlanguage: en\nslug: teal-apartment\naddress: "Kompleksi Lura 3, L2, 2nd Floor, 2015 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.50400184\n  lng: 19.52032699\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 1\nratings:\n  overall: 9.2\n  location: 7.5\n  cleanliness: 10\n  facilities: 10\n  value: 7.5\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477383397.jpg?k=d4ac53a2b3d654c9d16f26a18f343e0a5b9b396d8312d65d6dfd8cbd78848982&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480200133.jpg?k=1197ab1f62ea7f3223783d4a04f27eba676647c8214eec1c9dbf0e173b285487&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477384440.jpg?k=85580e800bea28c3636d2f306ecefe466998f5d980a9ff02c01c4d7010d5f777&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480200263.jpg?k=0d3858a1c05593ce89e988c78b802b960bd1731c904fd3f9ec45b9ba1e6572a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477384209.jpg?k=6599e7392c43c5bd0c45f0fcecb9aff7fd0ba87b0a0392b640ef57e6dd935d2b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477384690.jpg?k=83772c676d66a5d0a16971bea0a723d7752bf5162b0fdf435e5cc653b26d26ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480200129.jpg?k=6560ef91dd3be23da20a645ccf71b93f1d62e746cb3ef8e8382bf2ce280ddbac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477384640.jpg?k=c10d76e2969bf8593ba5271080825c967a8544f75608b9cc244f891618238921&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480200264.jpg?k=6c401819aaadbd3416acf17fc2400d52cab8d2a06d3de4a5223da283dc1fb597&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Good free WiFi (38 Mbps)"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Triumf 2 450 m"\n  - "Bar Restorant Oasis 500 m"\nnearbyBeaches:\n  - "Lalëz Bay Beach 500 m"\n  - "Rodoni Beach 10 km"\nwhatsNearby:\n  - "Bekimi 20 km"\nairports:\n  - "Tirana International Airport Mother Teresa 18 km"\n  - "Podgorica Airport 96 km"\nreviews:\n  - name: "Lul"\n    country: "Albania"\n    text: "“Excellent property, very clean and tidy. Suited us really well. Great communication from the host, checking on with us regularly to make sure we were comfortable Property was supplied with clean bedding and towels”"\nbookingURL: "https://www.booking.com/hotel/al/teal-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nThis apartment has undergone a recent renovation, presenting guests with a modern and clean environment. It boasts a layout that includes one separate bedroom, a bathroom equipped with essentials, and a living room that features a flat-screen TV for entertainment. The kitchen is fully equipped, catering to guests' dining needs with a dining area and oven, ensuring a home-away-from-home experience.
 
 For convenience, the apartment offers complimentary WiFi and private parking, ensuring that guests' connectivity and transportation needs are seamlessly met. The addition of a balcony provides an outdoor retreat for moments of relaxation or enjoying a morning coffee.
 
 Notably, the property maintains a non-smoking policy, ensuring a clean and fresh environment for all guests. Additionally, the convenience of a minimarket on the premises means essentials are never far away.
 
 Located just 28 km from Tirana International Mother Teresa Airport, Teal Apartment stands out for its accessibility, making it an ideal choice for both short and extended stays in Durrës. With its thoughtful amenities and strategic location, it promises a comfortable and hassle-free stay for all who visit.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

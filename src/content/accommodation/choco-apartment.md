@@ -1,26 +1,3 @@
----
-title: Choco apartment
-description: The apartment itself is a testament to spacious living, featuring a welcoming balcony that invites natural light and fresh air. With two bedrooms and a generous
-featuredImage: "/images/accommodation/500527052.jpg"
-language: en
-slug: choco-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to spacious living, featuring a welcoming balcony that invites natural light and fresh air. With two bedrooms and a generous living room, the space is ideal for families or groups seeking a cozy yet ample environment. The kitchen comes well-equipped, catering to those who enjoy preparing their own meals while away from home. Entertainment is readily available with the inclusion of a flat-screen TV, making it easy for guests to unwind after a day of exploration.
+---\ntitle: "Choco apartment"\ndescription: "Choco Apartment offers a refreshing retreat in the heart of Librazhd, providing a perfect blend of comfort and convenience for travelers."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500527052.jpg?k=7f159e7eaecd462fa01daf88bf0a4b80b4e6556f7180b02be764e0c58fdbf82d&o=&hp=1"\nlanguage: en\nslug: choco-apartment\naddress: "Rruga Arbëria, 0034 Librazhd, Albania"\ncity: "Librazhd"\nlocation: "Librazhd"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.17729155\n  lng: 20.31635821\nprice: "US$52"\npriceFrom: 52\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500527052.jpg?k=7f159e7eaecd462fa01daf88bf0a4b80b4e6556f7180b02be764e0c58fdbf82d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/500527102.jpg?k=d8e93c2b2afc943060094d58515021995ee4e7b1a6ffdaa5d20eb1e02674ea8f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/500527106.jpg?k=68834cc3ad9acbbf50af58edd7b3baf86c5abc2d86bed8a85497f552132c0f4e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/500527109.jpg?k=5cdee0268817b639c2d7a30afe6c755d73be20817dd4f8c495de394b1a67f7c9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/500527112.jpg?k=f8ba0cf309a32f691fa153538a0325ed4ef0b01080a42e31eff852bf65e60a32&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Breakfast"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Magazina Grill 50 m"\n  - "Restorant Xhejsi 600 m"\nwhatsNearby:\n  - "Parku I Bleteve Kokreve 250 m"\nairports:\n  - "Ohrid Airport 35 km"\n  - "Tirana International Airport Mother Teresa 55 km"\nbookingURL: "https://www.booking.com/hotel/al/choco-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe apartment itself is a testament to spacious living, featuring a welcoming balcony that invites natural light and fresh air. With two bedrooms and a generous living room, the space is ideal for families or groups seeking a cozy yet ample environment. The kitchen comes well-equipped, catering to those who enjoy preparing their own meals while away from home. Entertainment is readily available with the inclusion of a flat-screen TV, making it easy for guests to unwind after a day of exploration.
 
 For those traveling by air, the convenience of Ohrid Airport being just 57 km away makes Choco Apartment an accessible choice for international and domestic visitors alike. This accommodation stands out as a non-smoking establishment, ensuring a clean and healthy environment for all guests.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

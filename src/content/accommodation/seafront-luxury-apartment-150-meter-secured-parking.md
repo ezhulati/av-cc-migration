@@ -1,15 +1,4 @@
----
-title: SEAFRONT LUXURY APARTMENT 150 Meter SECURED PARKING
-description: Guests at SEAFRONT LUXURY APARTMENT are treated to a range of facilities that elevate the vacation experience. The on-site restaurant serves up delectable dishe
-featuredImage: "/images/accommodation/280961934.jpg"
-language: en
-slug: seafront-luxury-apartment-150-meter-secured-parking
-location: ""
-amenities: []
-images: []
----
-
-Guests at SEAFRONT LUXURY APARTMENT are treated to a range of facilities that elevate the vacation experience. The on-site restaurant serves up delectable dishes, while the 24-hour front desk ensures assistance is always at hand. Connectivity is a breeze with complimentary WiFi accessible throughout the premises. For those seeking relaxation or adventure, the property boasts a private beach area, meeting and banquet facilities, water sports facilities, a sun terrace, a spa center, a fitness center, and even a water park.
+---\ntitle: "SEAFRONT LUXURY APARTMENT 150 Meter SECURED PARKING"\ndescription: "SEAFRONT LUXURY APARTMENT in Vlorë stands out as a premier destination for travelers seeking an unparalleled stay by the sea."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280961934.jpg?k=b2f95d4832eea3abd1c8ca59daa47249c9efb8c8a44e6b5dab11febd9b93abc2&o=&hp=1"\nlanguage: en\nslug: seafront-luxury-apartment-150-meter-secured-parking\naddress: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44365757\n  lng: 19.4952778\nprice: "US$36"\npriceFrom: 36\nstarRating: 3\nrating: 7.2\nratingWords: "Good"\nnumberOfReviews: 6\nratings:\n  overall: 7.2\n  location: 7.5\n  cleanliness: 7.1\n  facilities: 7.1\n  value: 7.1\n  comfort: 7.1\n  staff: 7.1\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280961934.jpg?k=b2f95d4832eea3abd1c8ca59daa47249c9efb8c8a44e6b5dab11febd9b93abc2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/280962657.jpg?k=84df86e9e872cfbd620b5cf1fe167a293ae6d60bf7e54c5e5712c1ae2fa73cb9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/280962624.jpg?k=282b263b500999cd1e63ef6f72b6592936ff9d865c4589118bf78148e1332119&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/280962953.jpg?k=b3a85579ac94ad230f6d6e86612fff010416985b0fb592b09011740b326b2b1b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/280962742.jpg?k=86c4bf1c85f1a35d7ff518d72eef38c481b1950034448ae45828bf3351e8a8d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/421007901.jpg?k=f1eb67e6b795d4175ea77d8fd0256620a37eccb68d00286101b9052584a21bb1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/280962506.jpg?k=236cdbf0c213ee104ff6f6dbfb5aace2b5847c9539707f280420bedc36d9b596&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/280962567.jpg?k=a412eeb6bec70abfabefda62373128d3e916ce4f6b7807c59ef5e70326630ccd&o=&hp=1"\namenities:\n  - "Spa and wellness centre"\n  - "Fitness centre"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Facilities for disabled guests"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Bar"\n  - "Private beach area"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Da Vinci 10 m"\n  - "Amo Pizza 50 m"\nnearbyBeaches:\n  - "Vlore Beach 30 m"\n  - "Ri Beach 900 m"\n  - "Vjetër Beach 1.5 km"\n  - "Beach at Government Villas 2.7 km"\n  - "Liro Beach 3.4 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 800 m"\n  - "Kuzum Baba 2.7 km"\n  - "Independence Square 3 km"\nbookingURL: "https://www.booking.com/hotel/al/seafront-luxury-apartment-150-meter.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at SEAFRONT LUXURY APARTMENT are treated to a range of facilities that elevate the vacation experience. The on-site restaurant serves up delectable dishes, while the 24-hour front desk ensures assistance is always at hand. Connectivity is a breeze with complimentary WiFi accessible throughout the premises. For those seeking relaxation or adventure, the property boasts a private beach area, meeting and banquet facilities, water sports facilities, a sun terrace, a spa center, a fitness center, and even a water park.
 
 The apartment itself is a haven of luxury and comfort. It features a spacious layout that includes a fully equipped kitchen with modern appliances such as a dishwasher, oven, and microwave. The living area is designed for relaxation, with a cozy seating and dining area, complemented by a Nintendo Wii for entertainment. The bedroom promises restful nights, and the bathroom, complete with a walk-in shower and hot tub, adds a touch of indulgence. Additional comforts include air conditioning, a balcony with an outdoor dining area, a flat-screen TV with streaming services, and the convenience of bed linen, towels, and laundry service.
 
@@ -20,15 +9,3 @@ Adventure and relaxation await outside the apartment. Activities such as windsur
 Located just 90 meters from Vlore Beach and less than 1 km from Ri Beach, SEAFRONT LUXURY APARTMENT is ideally positioned for guests to enjoy the best of the coastline. Tirana International Mother Teresa Airport is 152 km away, making it accessible for international travelers.
 
 In summary, SEAFRONT LUXURY APARTMENT 150 Meter SECURED PARKING is not just a place to stay; it's a destination that promises a memorable escape with every luxury and convenience thoughtfully provided for.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

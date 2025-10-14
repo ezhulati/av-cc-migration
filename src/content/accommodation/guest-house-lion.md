@@ -1,30 +1,8 @@
----
-title: Guest House LION
-description: Rooms at Guest House LION are thoughtfully equipped with amenities such as a shared bathroom complete with a bidet and slippers, ensuring a comfortable stay. Th
-featuredImage: "/images/accommodation/462728025.jpg"
-language: en
-slug: guest-house-lion
-location: ""
-amenities: []
-images: []
----
-
-Rooms at Guest House LION are thoughtfully equipped with amenities such as a shared bathroom complete with a bidet and slippers, ensuring a comfortable stay. The convenience of free WiFi and the practicality of in-room wardrobes and coffee machines enhance the guest experience, making it feel like a home away from home.
+---\ntitle: "Guest House LION"\ndescription: "Guest House LION in Berat stands out as a remarkable choice for travelers seeking both comfort and history in their accommodations."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462728025.jpg?k=3f1dfc7888aa37a2697338a50bf7773f55e031d7c676196fffcb0261c01bfc1f&o=&hp=1"\nlanguage: en\nslug: guest-house-lion\naddress: "Rruga Llambi Guxhumani, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.70544297\n  lng: 19.94931615\nprice: "US$33"\npriceFrom: 33\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 75\nratings:\n  overall: 9.6\n  location: 9.7\n  cleanliness: 9.5\n  facilities: 9\n  value: 9.7\n  comfort: 9.5\n  staff: 9.7\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462728025.jpg?k=3f1dfc7888aa37a2697338a50bf7773f55e031d7c676196fffcb0261c01bfc1f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462858511.jpg?k=2954acee58788138d95dc04a12c81dfbb8ab80e67d276e777c32e7eb0042b6b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476107808.jpg?k=17521eccec797ccd4afbc93ac198eda302aa5df546df3948d13dc79c0a9af904&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462727922.jpg?k=43f9f247c298d9b629f38f2703800a62a8aa58c337ee6b80547a99b2a27045cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462728013.jpg?k=da4ba54080b8d9034136091c2f945e8e59e9f4a574814a888482f8554bc6174a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462858292.jpg?k=fad1c2ef16a5f40d0ef7b5286ddf874713b98eb557c326cfcc229dc0ac269e31&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Facilities for disabled guests"\n  - "Family rooms"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Basic Triple Room with Shared Bathroom"\n  - "Economy Quadruple Room with Shared Bathroom"\nnearbyRestaurants:\n  - "Baço 20 m"\n  - "Home Made Food Lili 100 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 84 km"\nreviews:\n  - name: "Dorina"\n    country: "Germany"\n    text: "“Amazing location! I loved the view!
+Accomodation and shared bathroom were clean and in very good shape. I found the bed extremely comfortable!”"\n  - name: "Aoife"\n    country: "Ireland"\n    text: "“The owner of this property was a wonderfully kind, and gentile man and so so generous giving out raki, pomegranates from the garden, Turkish delights and biscuits. He was too kind! The room was amazing and the views from the room were honestly...”"\n  - name: "Radoslava"\n    country: "Slovakia"\n    text: "“One of the most authentic accommodations we have ever stayed at. The way up is exhausting but you will be rewarded with a magnificent view. You can also enjoy the view from a small terace where you can sit and order water or other drinks (it is...”"\nbookingURL: "https://www.booking.com/hotel/al/guest-house-lion.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nRooms at Guest House LION are thoughtfully equipped with amenities such as a shared bathroom complete with a bidet and slippers, ensuring a comfortable stay. The convenience of free WiFi and the practicality of in-room wardrobes and coffee machines enhance the guest experience, making it feel like a home away from home.
 
 The presence of a coffee shop and bar on-site adds to the appeal, providing guests with a cozy spot to unwind after a day of exploring Berat. Families visiting the guest house will appreciate the babysitting services offered, allowing parents some well-deserved downtime.
 
 For those looking to explore the wider area, Guest House LION facilitates this adventure by offering a car rental service, making it easy for guests to venture out and discover more of what the region has to offer.
 
 Situated 117 km from Tirana International Mother Teresa Airport, the guest house is a convenient base for travelers flying into Albania. Guest House LION represents an excellent choice for those in search of a stay that combines historical charm with modern comforts and conveniences.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

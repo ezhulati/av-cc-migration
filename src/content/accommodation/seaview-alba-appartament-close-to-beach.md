@@ -1,30 +1,7 @@
----
-title: Seaview ALBA appartament close to beach
-description: The apartment itself is a spacious abode, boasting two well-appointed bedrooms and a bathroom, ensuring ample space for guests. The inclusion of bed linen, towe
-featuredImage: "/images/accommodation/301178976.jpg"
-language: en
-slug: seaview-alba-appartament-close-to-beach
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a spacious abode, boasting two well-appointed bedrooms and a bathroom, ensuring ample space for guests. The inclusion of bed linen, towels, and a flat-screen TV adds a touch of home, while the dining area and fully equipped kitchen offer the perfect setup for self-catering stays. Perhaps the most captivating feature is the balcony, offering breathtaking sea views that promise to enchant guests from dawn till dusk. The addition of an outdoor dining area overlooking the mountains allows for memorable meals under the sky.
+---\ntitle: "Seaview ALBA appartament close to beach"\ndescription: "Discover the charm of Sarandë with a stay at the Seaview ALBA Apartment, a serene retreat located just a stone's throw away from the pristine Maestral Beach and the inviting Santa Quaranta Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301178976.jpg?k=6f6bac685c15631530c0f5a63df6682614990b04cc8055ab092f32ff285150cc&o=&hp=1"\nlanguage: en\nslug: seaview-alba-appartament-close-to-beach\naddress: "Rruga Butrinti, Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86259724\n  lng: 20.01927046\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 4\nratings:\n  overall: 8.9\n  location: 9.4\n  cleanliness: 7.5\n  facilities: 8.8\n  value: 9.4\n  comfort: 9.4\n  staff: 8.8\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301178976.jpg?k=6f6bac685c15631530c0f5a63df6682614990b04cc8055ab092f32ff285150cc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/301179033.jpg?k=86dd73cbf92be895fc1302a5ecc993d629ae0f6f2b321d483fbd05430bceb744&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/301179045.jpg?k=f59a305dbfa5a0d4df2522d1e7f3d7e475d2c0ef2407ea4c965d8490fd00ec95&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/301179040.jpg?k=3ade65baec5beb59e4669f775c6852ef86611ac7b4724979c7ca7975485173f4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/334710499.jpg?k=f05880a64c29a7fd599fff7b2b69fdce5d361558fc1aeb44521b2a251497ac80&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/334710463.jpg?k=83e5697ba7bb82da8e05a918f5f978542be5efcf86ccdf0ecf16409b0e130387&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/498890003.jpg?k=8d4d5e7951dcc4b5014c7d8c8ed509c0ae15c79a6be40afb0e45a2ebc07be9a7&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\nnearbyRestaurants:\n  - "Te Bequa 2 10 m"\n  - "Renoir 50 m"\nnearbyBeaches:\n  - "VIP Beach 400 m"\n  - "Santa Quaranta Beach 450 m"\n  - "Maestral Beach 500 m"\n  - "Flamingo Beach 700 m"\n  - "La Petite Beach 750 m"\nwhatsNearby:\n  - "Parc National de Butrint 650 m"\n  - "Butrint National Park 1.5 km"\n  - "Plazhi I Krorezes 7 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 11 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/seeview-alba-appartament-close-to-beach.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a spacious abode, boasting two well-appointed bedrooms and a bathroom, ensuring ample space for guests. The inclusion of bed linen, towels, and a flat-screen TV adds a touch of home, while the dining area and fully equipped kitchen offer the perfect setup for self-catering stays. Perhaps the most captivating feature is the balcony, offering breathtaking sea views that promise to enchant guests from dawn till dusk. The addition of an outdoor dining area overlooking the mountains allows for memorable meals under the sky.
 
 Privacy is paramount at Seaview ALBA Apartment, with a private entrance ensuring a secluded and intimate experience. The property's commitment to a non-smoking environment further enhances the air of purity and tranquility that envelops it.
 
 For those keen to explore beyond the beach, the apartment serves as an excellent base for discovering the natural beauty and historical richness of the area. Butrint National Park, a treasure trove of biodiversity and archaeological wonders, is just 14 km away, while the ancient ruins of Fanoti beckon at a distance of 48 km. Additionally, the proximity to Ioannina Airport, 96 km away, ensures ease of access for international travelers.
 
 Seaview ALBA Apartment is more than just a place to stay; it's a gateway to the enchanting landscapes and rich cultural tapestry of Sarandë, offering a blend of comfort, convenience, and captivating views that are sure to make any visit unforgettable.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

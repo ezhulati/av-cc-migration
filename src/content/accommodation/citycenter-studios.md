@@ -1,30 +1,8 @@
----
-title: CityCenter Studios
-description: The accommodations at CityCenter Studios are designed with comfort and convenience in mind. Each air-conditioned unit boasts a well-equipped kitchenette featuri
-featuredImage: "/images/accommodation/486549901.jpg"
-language: en
-slug: citycenter-studios
-location: ""
-amenities: []
-images: []
----
-
-The accommodations at CityCenter Studios are designed with comfort and convenience in mind. Each air-conditioned unit boasts a well-equipped kitchenette featuring a refrigerator and stovetop, ensuring that guests have everything they need for a self-sufficient stay. The private bathrooms, complete with showers, add to the convenience, and the availability of free WiFi across the premises keeps guests connected. For those who prefer a breath of fresh air, select rooms offer the luxury of a balcony, providing an ideal spot to unwind.
+---\ntitle: "CityCenter Studios"\ndescription: "CityCenter Studios emerges as a prime choice for travelers seeking the perfect blend of urban convenience and serene garden views in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486549901.jpg?k=a6fdb157e2b902ab95027a67d1a177b23971630ddb2c79c56e620ec51b932a6d&o=&hp=1"\nlanguage: en\nslug: citycenter-studios\naddress: "Rruga Koço Konomi, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87438703\n  lng: 20.00295731\nprice: "US$70"\npriceFrom: 70\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 26\nratings:\n  overall: 9.2\n  location: 9.5\n  cleanliness: 9.2\n  facilities: 8.9\n  value: 9.3\n  comfort: 9.2\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486549901.jpg?k=a6fdb157e2b902ab95027a67d1a177b23971630ddb2c79c56e620ec51b932a6d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487350533.jpg?k=5197d88b0d6279a6ed1be74aa28c9e8e5b66ed21b36d88be62e9e26b16b10562&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442337733.jpg?k=951c88cf2bb04749e51b4c6eeca92b7c3f178e70409c2fac177fbcb407974522&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486549828.jpg?k=736b3fef9698e80d65955c9925c57b681c4476598350352d0f54f8ca073f0ddf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457090308.jpg?k=57bb1828fbe18f3d55f6fbfb29d29b3c009e7622c25fb97c3f3b3db289577259&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442337704.jpg?k=82a785690ac1eb5aad64f4d2e94797f7a5adaddbb4ad3400d3318f7500a47b66&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Time Out Grill House 30 m"\n  - "Taverna Fish-Time 100 m"\nnearbyBeaches:\n  - "Saranda City Beach 550 m"\n  - "Sarande Main Beach 600 m"\n  - "La Petite Beach 1.2 km"\n  - "Maestral Beach 1.3 km"\n  - "Saranda Bay Beach 1.8 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.5 km"\n  - "Butrint National Park 3.3 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Ęmįľįõ"\n    country: "Albania"\n    text: "“Everything was very nice, we enjoy the staying at the CityCenter Studios, to close with the center of the city and was a quiet and clean place.”"\n  - name: "Marie"\n    country: "France"\n    text: "“The kindness of the owner. It is modern, very clean, close to ferry and buses. I really recommend”"\n  - name: "Russo"\n    country: "Italy"\n    text: "“A comfortable apartment a stone's throw from the promenade, private and quiet.
+I found parking in the small street inside the neighborhood.”"\nbookingURL: "https://www.booking.com/hotel/al/citycenter-studios.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe accommodations at CityCenter Studios are designed with comfort and convenience in mind. Each air-conditioned unit boasts a well-equipped kitchenette featuring a refrigerator and stovetop, ensuring that guests have everything they need for a self-sufficient stay. The private bathrooms, complete with showers, add to the convenience, and the availability of free WiFi across the premises keeps guests connected. For those who prefer a breath of fresh air, select rooms offer the luxury of a balcony, providing an ideal spot to unwind.
 
 Adding to the appeal, the property includes family-friendly rooms and a welcoming terrace, creating a perfect setting for both relaxation and quality family time. The thoughtful inclusion of wardrobes and TVs in all units further enhances the guest experience, ensuring a comfortable and enjoyable stay.
 
 For dining enthusiasts, a variety of options await just steps from the apartment, offering a taste of local cuisine and international favorites alike. Adventure seekers will appreciate the proximity to La Petite Beach, just 1.5 km away, and the historic Butrint National Park, located 17 km from the studios. With Ioannina Airport 97 km away, CityCenter Studios serves as an accessible retreat for both domestic and international travelers.
 
 In summary, CityCenter Studios presents a compelling option for those in search of a comfortable, convenient, and well-appointed base to explore the vibrant city of Sarandë and its surrounding attractions.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

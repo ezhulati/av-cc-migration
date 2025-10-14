@@ -1,28 +1,5 @@
----
-title: Double Room in Hotel Geraldo
-description: "Guests at Hotel Geraldo are treated to an array of amenities designed to enhance their stay."
-featuredImage: "/images/accommodation/433735324.jpg"
-language: en
-slug: double-room-in-hotel-geraldo
-location: ""
-amenities: []
-images: []
----
-
-Guests at Hotel Geraldo are treated to an array of amenities designed to enhance their stay. From the convenience of on-site private parking to the pleasure of dining in the hotel's own restaurant or unwinding at the bar, every detail has been thoughtfully considered. For those who value connectivity and assistance around the clock, the hotel's 24-hour front desk and room service stand ready to cater to all needs.
+---\ntitle: "Double Room in Hotel Geraldo"\ndescription: "Discover the charm of Hotel Geraldo, a welcoming oasis located in the heart of Kakavijë, just a stone's throw away from the serene Zaravina Lake."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433735324.jpg?k=be5a5b631b1e80e2f1cd4a1b1c20991e55adaf6bf8aea6ed5c38909bc1e283c5&o=&hp=1"\nlanguage: en\nslug: double-room-in-hotel-geraldo\naddress: "SH4 Hotel Gerlado, 6001 Kakavijë, Albania"\ncity: "Kakavijë"\nlocation: "Kakavijë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.084005\n  lng: 20.144876\nprice: "US$26"\npriceFrom: 26\nstarRating: 2\nrating: 7.7\nratingWords: "Good"\nnumberOfReviews: 7\nratings:\n  overall: 7.7\n  location: 8.2\n  cleanliness: 7.1\n  facilities: 7.1\n  value: 8.2\n  comfort: 7.5\n  staff: 7.9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433735324.jpg?k=be5a5b631b1e80e2f1cd4a1b1c20991e55adaf6bf8aea6ed5c38909bc1e283c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433736367.jpg?k=79aa63664d6760f57057bef79cdd7e3bc1a7839037d98f6dcf4c6f1c7e5c4299&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433736260.jpg?k=d4a3cdb0c65c09fdc6ee8b272cdcbfaa7e6be5a5bf76cd8002d4922e051bc1c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433736172.jpg?k=b9c9511b932e5c3591aa1570d8053fc8ddf7960425df469b843c04a72cd24756&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433736052.jpg?k=ae6d1d67d35f1cf5439f605524ba27040e8e55a77eb09d9a93173337c903e084&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433735822.jpg?k=20004c4399fcf987cbe6ea6c25ffad01da123c197769438922a441e36b84f597&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433735642.jpg?k=15e15472bcd364b33915e4a64ec1cae40df0855a6d97814fc29c1a83f45d3878&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433735546.jpg?k=566df170df2e8b31d81c3cab491a2d8735454fa8eb3b877bfe0a85b8a5f5e074&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433735324.jpg?k=be5a5b631b1e80e2f1cd4a1b1c20991e55adaf6bf8aea6ed5c38909bc1e283c5&o=&hp=1"\namenities:\n  - "Room service"\n  - "Private parking"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Budget Double Room"\n  - "Budget Twin Room"\n  - "Deluxe Family Room"\nnearbyRestaurants:\n  - "Traditional Pajtimi 100 m"\n  - "Buondi 150 m"\nairports:\n  - "Corfu International Airport 56 km"\n  - "Ioannina Airport 71 km"\nbookingURL: "https://www.booking.com/hotel/al/geraldo-kakavia.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nGuests at Hotel Geraldo are treated to an array of amenities designed to enhance their stay. From the convenience of on-site private parking to the pleasure of dining in the hotel's own restaurant or unwinding at the bar, every detail has been thoughtfully considered. For those who value connectivity and assistance around the clock, the hotel's 24-hour front desk and room service stand ready to cater to all needs.
 
 The allure of Hotel Geraldo extends to its family-friendly rooms, each a cozy retreat after a day of exploration. Air conditioning and flat-screen TVs are standard in every room, ensuring a comfortable and entertaining stay. The added charm of a balcony in each room invites guests to breathe in the fresh air and soak in the local ambiance.
 
 Situated a mere 82 km from Ioannina Airport, Hotel Geraldo serves as an ideal base for travelers seeking to explore the region or those in transit. Whether it's the allure of nearby natural wonders or the convenience of modern amenities, Hotel Geraldo promises a stay that's as delightful as it is comfortable.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,7 @@
----
-title: Jona Apartment
-description: The apartment itself is a spacious haven, boasting three well-appointed bedrooms, a living area designed for relaxation, and a fully equipped kitchen that cater
-featuredImage: "/images/accommodation/photojpg64-7.jpeg"
-language: en
-slug: jona-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a spacious haven, boasting three well-appointed bedrooms, a living area designed for relaxation, and a fully equipped kitchen that caters to all culinary needs with an oven and microwave. Guests can enjoy the breathtaking sea views from a private balcony or terrace, making every moment of their stay picturesque. The inclusion of two bathrooms, each with a bath or shower, ensures a comfortable and hassle-free experience for all.
+---\ntitle: "Jona Apartment"\ndescription: "Jona Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."\nfeaturedImage: "https://lh5.googleusercontent.com/-YemEUs1YoJo/AAAAAAAAAAI/AAAAAAAAAVU/5nVX64yP10M/s96-c/photo.jpg64"\nlanguage: en\nslug: jona-apartment\naddress: "Άγιοι Σαράντα, Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87293339\n  lng: 20.01462708\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.3\nratingWords: "Very Good"\nnumberOfReviews: 12\nratings:\n  overall: 8.3\n  location: 9.4\n  cleanliness: 8.3\n  facilities: 8.1\n  value: 8.8\n  comfort: 8.1\n  staff: 7.7\n  wifi: 7.5\nimages:\n  - "https://lh5.googleusercontent.com/-YemEUs1YoJo/AAAAAAAAAAI/AAAAAAAAAVU/5nVX64yP10M/s96-c/photo.jpg64"\n  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"\n  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/274615882.jpg?k=4e96655b082e66d5f1cdd0da554843b24991af14e36565da1ebaf7299513c9aa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/309582938.jpg?k=ec234c1831f5f417caa76bd0e4cb774d08d709687a456e395081a1fedf02395e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/309583750.jpg?k=fd99f54f9a0afdfa5002c4b1c41d020914d43c9c46cd433374982423dfd83394&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/309583573.jpg?k=6816d04e9beb68d788af34a94d9340c2e159be556d34c3a86dfdb4148d4a347c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/296430349.jpg?k=3d5e2ba145a70519225c5f569f3f31beb14f3ec29535de81346de19eecaa2b6b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/309584327.jpg?k=f7c38ee1ea16fde82c2f4742f1b5a2dbd6a3f24001fa7a326fc85bc4deaab9c7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/309583991.jpg?k=47afeba17ffac319bc424539c7b64b40594b106dd403f94f49486dd6c6328db8&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Terrace"\n  - "Bar"\nnearbyRestaurants:\n  - "TUNELI RESTAURANT 10 m"\n  - "Tunnel Bar and 30 m"\nnearbyBeaches:\n  - "Saranda City Beach 100 m"\n  - "La Petite Beach 500 m"\n  - "Maestral Beach 650 m"\n  - "Sarande Main Beach 1.1 km"\n  - "VIP Beach 1.6 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.8 km"\n  - "Butrint National Park 2.7 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Mokus91"\n    country: "United Kingdom"\n    text: "“It is very close to the beach. AC in almost every room, nice kitchen, big living room, nice sea view”"\n  - name: "Anonymous"\n    country: "United Kingdom"\n    text: "“Great location. large property. excellent views from the balcony.”"\nbookingURL: "https://www.booking.com/hotel/al/jona-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a spacious haven, boasting three well-appointed bedrooms, a living area designed for relaxation, and a fully equipped kitchen that caters to all culinary needs with an oven and microwave. Guests can enjoy the breathtaking sea views from a private balcony or terrace, making every moment of their stay picturesque. The inclusion of two bathrooms, each with a bath or shower, ensures a comfortable and hassle-free experience for all.
 
 Attention to detail is evident in the thoughtful amenities provided, including soundproofing for a peaceful retreat, a lift for easy access, and housekeeping services to maintain a pristine environment throughout the stay. For families, the availability of a baby safety gate is a testament to Jona Apartment's commitment to guest safety and comfort.
 
 Beyond the confines of the apartment, a minimarket on the premises adds an extra layer of convenience, allowing guests to easily procure essentials without venturing far. For those looking to explore, Maestral Beach is within walking distance, offering another spot for sun-soaked relaxation, while the historic Butrint National Park is a mere 17 km away, promising a fascinating day trip.
 
 Situated 97 km from Ioannina Airport, Jona Apartment stands out as an accessible and inviting destination for both short and long stays, promising an unforgettable experience in the heart of Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

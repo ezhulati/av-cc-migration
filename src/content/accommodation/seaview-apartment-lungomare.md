@@ -1,34 +1,7 @@
----
-title: Seaview Apartment Lungomare
-description: This apartment doesn't just boast a strategic location; it also provides guests with a suite of amenities designed to ensure a comfortable stay. With compliment
-featuredImage: "/images/accommodation/526816827.jpg"
-language: en
-slug: seaview-apartment-lungomare
-location: ""
-amenities: []
-images: []
----
-
-This apartment doesn't just boast a strategic location; it also provides guests with a suite of amenities designed to ensure a comfortable stay. With complimentary WiFi, a fully equipped kitchen, and a balcony offering serene views, guests have everything they need at their fingertips. The living spaces are thoughtfully designed, featuring a flat-screen TV and air conditioning, ensuring a relaxing environment after a day of adventure.
+---\ntitle: "Seaview Apartment Lungomare"\ndescription: "Seaview Apartment Lungomare emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526816827.jpg?k=0a3552993b539429040531e275add86d24937f400b83ef9005c4d9dfe31c020d&o=&hp=1"\nlanguage: en\nslug: seaview-apartment-lungomare\naddress: "FFHH+9H3, Rruga Ago Agaj, Vlorë, Albania Entrance 11, Apt. 18, Floor 5, 9404 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44007091\n  lng: 19.49668961\nprice: "US$28"\npriceFrom: 28\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526816827.jpg?k=0a3552993b539429040531e275add86d24937f400b83ef9005c4d9dfe31c020d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/526816865.jpg?k=e73a2561acc017f7704398569b597794c0c1aae9463c796b8ed208669c966350&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/526816867.jpg?k=9ecb3533c7caaf6babac6bbf8647b8cf82ad699c4d0a3e03fef454c4d43f0196&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/526816869.jpg?k=31762515c9d3514d4b5595901bcc6700764694b0a710f7a1e7578b111a858a45&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/526816870.jpg?k=d625db923a0b09b272ef1b4ade36d645bfef29f49ffe4e4f0e03aafa385491d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/526816872.jpg?k=163f91c339e06803be456ba8a87afd841498865d5bb826e9eb47bca5b45dacef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/526816875.jpg?k=3ddcee811924a1be6504f91ce96520577669017505b1e07de30b9f4d382e1706&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/526816881.jpg?k=9bc22b97f9d1345d9f6dd67450c1aad5bbb648e33bb2073a554648f95d8cb104&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Pizzeria City 100 m"\n  - "Sapori di Casa 100 m"\nnearbyBeaches:\n  - "Vlore Beach 300 m"\n  - "Ri Beach 550 m"\n  - "Vjetër Beach 1.9 km"\n  - "Beach at Government Villas 2.4 km"\n  - "Liro Beach 3.1 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 450 m"\n  - "Kuzum Baba 3.1 km"\n  - "Independence Square 3.4 km"\nbookingURL: "https://www.booking.com/hotel/al/seaview-apartment-lungomare.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment doesn't just boast a strategic location; it also provides guests with a suite of amenities designed to ensure a comfortable stay. With complimentary WiFi, a fully equipped kitchen, and a balcony offering serene views, guests have everything they need at their fingertips. The living spaces are thoughtfully designed, featuring a flat-screen TV and air conditioning, ensuring a relaxing environment after a day of adventure.
 
 For those who prefer to stay in, the convenience of an on-site minimarket adds to the appeal, making it easy to stock up on essentials without having to venture far. Moreover, the property prides itself on being non-smoking, catering to the comfort and well-being of all guests.
 
 Adventure enthusiasts will appreciate the apartment's proximity to cycling routes, with the added convenience of bicycle rental services available for those eager to explore the surroundings on two wheels. Notably, the historic Independence Square is just a short distance away, offering a glimpse into the rich cultural tapestry of Vlorë.
 
 Situated 153 km from Tirana International Mother Teresa Airport, Seaview Apartment Lungomare represents an accessible retreat for both local and international visitors. This apartment stands out as a welcoming haven for travelers looking for a blend of exploration and relaxation in the heart of Vlorë.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

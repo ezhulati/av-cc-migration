@@ -1,30 +1,11 @@
----
-title: Hotel Lagjini
-description: Each apartment at Hotel Lagjini is a haven of tranquility, boasting private entrances that lead to spaces equipped with flat-screen TVs, private bathrooms compl
-featuredImage: "/images/accommodation/304172544.jpg"
-language: en
-slug: hotel-lagjini
-location: ""
-amenities: []
-images: []
----
-
-Each apartment at Hotel Lagjini is a haven of tranquility, boasting private entrances that lead to spaces equipped with flat-screen TVs, private bathrooms complete with luxurious hot tubs and slippers, ensuring a stay that marries relaxation with privacy. The thoughtful design extends to soundproofing and air conditioning in all units, alongside the practical addition of desks, catering to both leisure and business travelers.
+---\ntitle: "Hotel Lagjini"\ndescription: "Hotel Lagjini emerges as a serene retreat, offering breathtaking mountain views and a cozy stay just 36 km away from the enchanting Butrint National Park."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304172544.jpg?k=105d4889949b54e1fbc5a87f2ab5ce4aad7a9deabe2002231f49d001f8c1125c&o=&hp=1"\nlanguage: en\nslug: hotel-lagjini\naddress: "Sarande-Vlore, 9713 Lukovë, Albania"\ncity: "Lukovë"\nlocation: "Lukovë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.99564183\n  lng: 19.91507417\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 8.7\nratingWords: "Very Good"\nnumberOfReviews: 68\nratings:\n  overall: 8.7\n  location: 8.6\n  cleanliness: 8.4\n  facilities: 7.8\n  value: 8.9\n  comfort: 8.7\n  staff: 8.2\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304172544.jpg?k=105d4889949b54e1fbc5a87f2ab5ce4aad7a9deabe2002231f49d001f8c1125c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/180508875.jpg?k=03465036dc7c87d3c0fd8bbe5f17e82cb38e8ccd302ed78ec10e83fba84743b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319559633.jpg?k=04da1df0e702e0814dfd0062ca6d47e94f13f4e19325e7f28bc8f1ed70ae13d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/337944417.jpg?k=21d54a7a194c6ac24e15c3fd85bef2570c6b824eddbe66bb42600da0f8b5e466&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357636333.jpg?k=21d8685bd12e291c50ac951adc3acddfeda3c8171572f79f7f33aa952e2e1179&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343371695.jpg?k=5e53887059bebcc8acb99d5b37989f7e7bd3441f706b094989645c9e8003e251&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Economy Triple Room"\n  - "Quadruple Room with Balcony"\nnearbyRestaurants:\n  - "Kafe Bar 40 m"\n  - "Bar Lucovë, Riviera Pizza 350 m"\nnearbyBeaches:\n  - "Buneci Beach 1.8 km"\n  - "Lukova Beach 2.4 km"\n  - "Borsh Beach 6 km"\n  - "Krorëza Beach 6 km"\n  - "Kakomes Beach 8 km"\nwhatsNearby:\n  - "Parc National de Butrint 18 km"\n  - "Butrint National Park 19 km"\nairports:\n  - "Corfu International Airport 43 km"\n  - "Ioannina Airport 83 km"\nreviews:\n  - name: "Marcus"\n    country: "Estonia"\n    text: "“vendndodhja, stafi
+plazh i bukur aty pranë (makina e nevojshme)
+Beautiful family-run accommodation. The breakfast was delicious (every morning we enjoyed Greek salad, for example). There is a gas station and a supermarket nearby so all our needs...”"\n  - name: "Jaroslav"\n    country: "Czech Republic"\n    text: "“We were three friends, booked one room with three single beds but were given two rooms without price increase.
+Host was trying to be nice, even though he doesn't speak English.
+The rooms and bathrooms were cleen.”"\n  - name: "Lena"\n    country: "Mexico"\n    text: "“Everything was clean, the owner was very friendly and you even had a sea view. Perfect!”"\nbookingURL: "https://www.booking.com/hotel/al/lagjini-oil.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach apartment at Hotel Lagjini is a haven of tranquility, boasting private entrances that lead to spaces equipped with flat-screen TVs, private bathrooms complete with luxurious hot tubs and slippers, ensuring a stay that marries relaxation with privacy. The thoughtful design extends to soundproofing and air conditioning in all units, alongside the practical addition of desks, catering to both leisure and business travelers.
 
 The presence of an on-site restaurant elevates the experience, allowing guests to savor delightful meals without having to venture far. Complementing this is a coffee shop and bar, perfect for those moments when a cup of coffee or a refreshing drink is all that's needed. Free private parking and WiFi throughout the property ensure that the essentials are covered, making stays hassle-free.
 
 For those who enjoy the outdoors, Hotel Lagjini doesn't disappoint. A terrace offers a space for relaxation and contemplation, while the barbecue and garden invite guests to enjoy leisurely afternoons amidst nature.
 
 Situated a considerable distance from Ioannina Airport, at 113 km, the journey to Hotel Lagjini is a commitment to escaping the hustle and bustle, promising a tranquil getaway that feels worlds away from the everyday.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

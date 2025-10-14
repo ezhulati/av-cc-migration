@@ -1,15 +1,6 @@
----
-title: Llogora Tourist Village
-description: The village's accommodations are thoughtfully designed with guest comfort in mind, featuring cozy seating areas and the choice between traditional TVs or modern
-featuredImage: "/images/accommodation/329893575.jpg"
-language: en
-slug: llogora-tourist-village
-location: ""
-amenities: []
-images: []
----
-
-The village's accommodations are thoughtfully designed with guest comfort in mind, featuring cozy seating areas and the choice between traditional TVs or modern flat-screen options. Each room is equipped with a private bathroom, complete with complimentary toiletries and slippers, and offers breathtaking mountain views, promising a stay that is as comfortable as it is scenic.
+---\ntitle: "Llogora Tourist Village"\ndescription: "Llogora Tourist Village stands as a serene oasis amidst the lush greenery of Llogora National Park, offering guests a unique blend of natural beauty and modern amenities."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329893575.jpg?k=acd24c7910ec4535f897909cb09587ea52a2f7daa615940193313602f7acdd85&o=&hp=1"\nlanguage: en\nslug: llogora-tourist-village\naddress: "Llogara National Park, 8401 Dhërmi, Albania"\ncity: "Dhërmi"\nlocation: "Dhërmi"\naccommodationType: "resort"\ncoordinates:\n  lat: 40.2177128\n  lng: 19.57802832\nprice: "US$118"\npriceFrom: 118\nstarRating: 4\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 632\nratings:\n  overall: 8.5\n  location: 9.3\n  cleanliness: 8.4\n  facilities: 8.3\n  value: 8.1\n  comfort: 8.5\n  staff: 8.9\n  wifi: 8.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329893575.jpg?k=acd24c7910ec4535f897909cb09587ea52a2f7daa615940193313602f7acdd85&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296195414.jpg?k=5086d41de716659091e634e290240ee2f1dfc7cf319828b5bd75acaa21100a9a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296214483.jpg?k=d17e26a27395d7a48847f5a297e77cf55b06cc2d11d5a55eb79243662b41934b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296195490.jpg?k=97a5d72dd2e063efb549b0194c5a9abb2f2e5d6c21c05ad6cc6d9864248d371c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/436547906.jpg?k=e5cf2f0499c65a3e49b4543a0cd418ce1764e811e576d9a1820cfc741d533460&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/34045576.jpg?k=d86366fbfc63a2d190c79f031da391c295a925e9b953218188a03ff6c5e52ae1&o=&hp=1"\namenities:\n  - "Indoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Facilities for disabled guests"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Fabulous breakfast"\nroomTypes:\n  - "Comfort Double Room with Mountain View"\n  - "Two-Bedroom Bungalow"\n  - "Two-Bedroom Suite"\nnearbyRestaurants:\n  - "Restorant Sorkadhja 200 m"\n  - "Steak House Llogara 250 m"\nnearbyBeaches:\n  - "Nazar Beach 5 km"\n  - "Palasa Beach 6 km"\n  - "Grama Bay Beach 9 km"\n  - "Dhermi Beach 10 km"\nwhatsNearby:\n  - "Llogora National Park 0 m"\nairports:\n  - "Corfu International Airport 73 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Faisal"\n    country: "United Kingdom"\n    text: "“Everything about this property exceeded our expectations! Fantastic location - worth the long drive! Lovely little chalet out in the open amongst the mountains was a treat to stay in - the staff were incredibly friendly particularly the manager...”"\n  - name: "Marina"\n    country: "Sweden"\n    text: "“Warm pool, excellent breakfast (best so far in Albania), friendly staff, lovely deers. The bungalows are not new, but fine for one night. The weather was not good, but we enjoyed our stay in Llogora.”"\n  - name: "Iris"\n    country: "Netherlands"\n    text: "“Lovely little village with cute wooden cottages. The cottage was very comfortable and well furnished.
+The indoor pool had a nice temperature and pool towels are provided.
+Due to the mating season the deers were held in the midget golf area...”"\nbookingURL: "https://www.booking.com/hotel/al/llogora-tourist-village.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe village's accommodations are thoughtfully designed with guest comfort in mind, featuring cozy seating areas and the choice between traditional TVs or modern flat-screen options. Each room is equipped with a private bathroom, complete with complimentary toiletries and slippers, and offers breathtaking mountain views, promising a stay that is as comfortable as it is scenic.
 
 Culinary enthusiasts will delight in the on-site bar and restaurant, where traditional Albanian dishes are served in an ambiance that mirrors the surrounding natural beauty. Free WiFi in the lobby keeps guests connected, while the 24-hour front desk ensures needs are met at any hour.
 
@@ -18,15 +9,3 @@ Beyond the comforts of their rooms, guests at Llogora Tourist Village can enjoy 
 Though it's worth noting that the sauna and swimming pool #1 have scheduled closures for maintenance, this temporary pause ensures that all amenities are in top condition for guest enjoyment.
 
 Situated 130 km from Tirana Airport, Llogora Tourist Village presents an ideal getaway for those seeking a blend of adventure and relaxation in the heart of Albania's natural wonders.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

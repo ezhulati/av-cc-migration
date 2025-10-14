@@ -1,28 +1,5 @@
----
-title: Skyline Panoramic Apartment
-description: "This non-smoking apartment is a haven of tranquility and comfort, featuring air conditioning for those warm Tirana days."
-featuredImage: "/images/accommodation/510545148.jpg"
-language: en
-slug: skyline-panoramic-apartment
-location: ""
-amenities: []
-images: []
----
-
-This non-smoking apartment is a haven of tranquility and comfort, featuring air conditioning for those warm Tirana days. It boasts two well-appointed bedrooms, a fully equipped kitchen for those who enjoy crafting their meals, and a bathroom. Entertainment needs are catered to with a flat-screen TV, ensuring guests have a relaxing end to their day of exploration.
+---\ntitle: "Skyline Panoramic Apartment"\ndescription: "Skyline Panoramic Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510545148.jpg?k=289072381bb9e140528786c0f785f5a62a36aae17d7a836c3fdece826322f726&o=&hp=1"\nlanguage: en\nslug: skyline-panoramic-apartment\naddress: "Rruga Vaso Pasha, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32261676\n  lng: 19.8163094\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510545148.jpg?k=289072381bb9e140528786c0f785f5a62a36aae17d7a836c3fdece826322f726&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510545151.jpg?k=954fdfb7189b7e85dbb4d2e03a5ef16bb633a04a4c3067b63322ca7908a1b773&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510545188.jpg?k=e388c348723bf19e5ea26109ca0d6eba2756095ef983b8828169bd8d1406de61&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510545168.jpg?k=6b39d3c86f9008533339c485895087a3ba3971538c22b19f827efe28137baf78&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510545158.jpg?k=712e0d9e6a61f01bae8fe5ec57a923a4f05408c64a3b8f344fa032749e69697d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510545107.jpg?k=48c63dd95f11527d09f796a43fa6a372695cb534a6c11292d45f2cfe8f27ffff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510545163.jpg?k=f8879bea7f219ccfcf25fb7fb6afbc251d315ef94f3161c7f6b2a72197933ac1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510545211.jpg?k=c712c85895e6319a2acbf1ba0c293357c28819579007d7bc42425b812af8bad5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510545165.jpg?k=372a0bb492823d7fd792e615faf858aef11599fdc00b93168a7a0799e50a0eae&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "National Museum of History Albania 750 m"\n  - "Tanners' Bridge 900 m"\n  - "Grand Park of Tirana 1.4 km"\n  - "Bunk'Art 1 Museum 4.8 km"\nnearbyRestaurants:\n  - "Magnolia Studio 40 m"\n  - "Birrari 40 m"\nwhatsNearby:\n  - "Former Residence of Enver Hoxha 200 m"\n  - "Rinia Park 300 m"\n  - "Parku Rinia 400 m"\n  - "Sheshi Rekreativ Piramida 450 m"\n  - "Shesh Rekreativ 450 m"\n  - "House of Leaves 450 m"\n  - "National Gallery of Arts Tirana 550 m"\n  - "Parku Europa 600 m"\n  - "Skanderbeg Square 600 m"\n  - "Clock Tower Tirana 650 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/skyline-panoramic-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis non-smoking apartment is a haven of tranquility and comfort, featuring air conditioning for those warm Tirana days. It boasts two well-appointed bedrooms, a fully equipped kitchen for those who enjoy crafting their meals, and a bathroom. Entertainment needs are catered to with a flat-screen TV, ensuring guests have a relaxing end to their day of exploration.
 
 For those keen to discover Tirana's notable attractions, Skyline Panoramic Apartment is conveniently positioned near the Pyramid of Tirana, Reja - The Cloud, and the poignant Postbllok - Checkpoint Monument. Further afield yet easily accessible, the Dajti Ekspres Cable Car is located 6 km away, offering breathtaking views of the city from above. The nearest gateway, Tirana International Mother Teresa Airport, is situated 15 km from the apartment, making arrivals and departures a breeze for international travelers.
 
 In summary, Skyline Panoramic Apartment stands out as an exemplary choice for those looking to immerse themselves in the vibrancy of Tirana, offering a comfortable and convenient base from which to explore the city's historical landmarks and modern attractions.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,11 @@
----
-title: Guest House Garden
-description: Each room at Guest House Garden is thoughtfully equipped with essentials such as a wardrobe, kettle, and complimentary WiFi, ensuring a stay that combines conve
-featuredImage: "/images/accommodation/263777134.jpg"
-language: en
-slug: guest-house-garden
-location: ""
-amenities: []
-images: []
----
-
-Each room at Guest House Garden is thoughtfully equipped with essentials such as a wardrobe, kettle, and complimentary WiFi, ensuring a stay that combines convenience with comfort. Select rooms elevate the experience further, boasting terraces for intimate outdoor moments or mountain views that captivate the soul. Regardless of the choice, air conditioning and a desk are standard in all units, catering to both leisure and business travelers.
+---\ntitle: "Guest House Garden"\ndescription: "Guest House Garden, situated a mere 44 km from the serene Zaravina Lake in Gjirokastër, emerges as a charming retreat for travelers seeking both city and garden views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263777134.jpg?k=b1774fd0e9058a708cd7879db93ff05d5cc4983eb1d4bf760bd52b883a2d7da7&o=&hp=1"\nlanguage: en\nslug: guest-house-garden\naddress: "Alqi Kondi, Nr. 912, Gjirokastra , Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.07818223\n  lng: 20.14208075\nprice: "US$15"\npriceFrom: 15\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 505\nratings:\n  overall: 9.5\n  location: 9.5\n  cleanliness: 9.7\n  facilities: 9.2\n  value: 9.7\n  comfort: 9.5\n  staff: 9.4\n  wifi: 9.7\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263777134.jpg?k=b1774fd0e9058a708cd7879db93ff05d5cc4983eb1d4bf760bd52b883a2d7da7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263777926.jpg?k=ee0eca19325711895f0c5331d14b2eafe3559b228443d8077beaaf7a4ce8e72b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/264685660.jpg?k=7d340692f0ee5ffb781c043aedb8fb47fd43759d7d4bafb5867ab869121d4def&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263790227.jpg?k=dcf115a079bb84aab9d842a1380bc42837b19b1a2998d7a019894fe77ade9b06&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263795151.jpg?k=3de66d996aed2296f3a0e3c87afce5fd61e4c2b418814c3fc4155dd40f69e436&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263787055.jpg?k=b2a6bb11e485992427887a88fb6243fc8155c80dc7d71be7aaee87bbdd74b710&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Tea/coffee maker in all rooms"\nroomTypes:\n  - "Family Room"\n  - "Twin Room with Terrace"\nnearbyRestaurants:\n  - "Bukowski Bar 50 m"\n  - "Media Club 300 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Natálie"\n    country: "Czech Republic"\n    text: "“The location of the accomodation was perfect. The lady (mom of the owner i guess) was so nice to us! Such a sweet woman!! She cooked some pasta for us! I can only recommend.”"\n  - name: "Alina"\n    country: "United Kingdom"\n    text: "“Beautiful cozy studio.
+Extremely clean.
+Hot water with good pressure.
+Beautiful view.
+Location close to castle and market street in the old part of town.
+I wouldn't think twice about staying there again.
+Rural feel you can see the old castle and...”"\n  - name: "Lorna"\n    country: "China"\n    text: "“Great location near the old town, with space for parking on the street outside and a great view. Excellent value for money, especially since you can sleep five people in the family room.”"\nbookingURL: "https://www.booking.com/hotel/al/guest-house-garden.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nEach room at Guest House Garden is thoughtfully equipped with essentials such as a wardrobe, kettle, and complimentary WiFi, ensuring a stay that combines convenience with comfort. Select rooms elevate the experience further, boasting terraces for intimate outdoor moments or mountain views that captivate the soul. Regardless of the choice, air conditioning and a desk are standard in all units, catering to both leisure and business travelers.
 
 Beyond the rooms, the guest house invites guests to embrace the outdoors with its dedicated picnic area, perfect for those wishing to enjoy a day under the open sky.
 
 For those concerned with travel logistics, Ioannina Airport is located 82 km away, making Guest House Garden an accessible haven for both local and international visitors. This establishment promises a stay that is as relaxing as it is convenient, making it a noteworthy option for anyone exploring Gjirokastër.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

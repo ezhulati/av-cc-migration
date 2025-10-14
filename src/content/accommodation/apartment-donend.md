@@ -1,30 +1,7 @@
----
-title: Apartment Donend
-description: Guests are welcomed into a space where convenience meets comfort, highlighted by the availability of a shared kitchen and the luxury of a sun terrace, perfect f
-featuredImage: "/images/accommodation/67173094.jpg"
-language: en
-slug: apartment-donend
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into a space where convenience meets comfort, highlighted by the availability of a shared kitchen and the luxury of a sun terrace, perfect for soaking in the serene atmosphere. The provision of air-conditioned rooms, complimentary private parking, and free WiFi throughout the property further enhances the guest experience, ensuring both relaxation and connectivity.
+---\ntitle: "Apartment Donend"\ndescription: "Apartment Donend emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Berat."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67173094.jpg?k=d56bdb2001b55db75007ee85e37d5c9b0dfca6974876f1f14b5de6f1324ebdae&o=&hp=1"\nlanguage: en\nslug: apartment-donend\naddress: "Rugga Shatervanit, 5005 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.70473061\n  lng: 19.95253444\nprice: "US$16"\npriceFrom: 16\nstarRating: 3\nrating: 8.6\nratingWords: "Very Good"\nnumberOfReviews: 318\nratings:\n  overall: 8.6\n  location: 9.5\n  cleanliness: 8.6\n  facilities: 8\n  value: 9\n  comfort: 8.4\n  staff: 8.7\n  wifi: 8.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67173094.jpg?k=d56bdb2001b55db75007ee85e37d5c9b0dfca6974876f1f14b5de6f1324ebdae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245457972.jpg?k=bb22e8589cdca605f1b0d30e4bd1941c6e0faf1a3b572e667bbbab948b10d8d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245457709.jpg?k=d2b61fc4814e146fa066c792fb40ccef7564510197b0ffde54b19b029c36a786&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511524056.jpg?k=51ed992bd14afae6f54cba4f00572c0c9d9cb319a15bad226a40d2626918abfe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/166801408.jpg?k=b2ea965bc4fcd7a6e25d7ac77c0753647a8ac0f197bcb9e8e3599625e1b44574&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/166801431.jpg?k=8c7c215167500fa835e47e4bb898757d3ca7765c525a071b08ea5fb0c8f53f48&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Basic free WiFi (10 Mbps)"\n  - "Bar"\nroomTypes:\n  - "Deluxe Double Room with Balcony"\n  - "Queen Room with Balcony"\nnearbyRestaurants:\n  - "Home Taste 20 m"\n  - "NPedonale 50 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 84 km"\nreviews:\n  - name: "Camila"\n    country: "Germany"\n    text: "“Accommodation in a very good location, very comfortable with its own terrace and well-equipped kitchen.”"\n  - name: "Natascha"\n    country: "Germany"\n    text: "“The owner was very helpful and attentive, accommodation was right in the city center, the apartment had all necessary amenities and was super cozy.”"\n  - name: "Clair"\n    country: "United Kingdom"\n    text: "“Fantastic apartment. Right in the centre with perfect views of the river and all the pretty houses. Bus stop uis opposite .perfect location and helpful host”"\nbookingURL: "https://www.booking.com/hotel/al/guest-house-donend.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests are welcomed into a space where convenience meets comfort, highlighted by the availability of a shared kitchen and the luxury of a sun terrace, perfect for soaking in the serene atmosphere. The provision of air-conditioned rooms, complimentary private parking, and free WiFi throughout the property further enhances the guest experience, ensuring both relaxation and connectivity.
 
 Each accommodation at Apartment Donend is thoughtfully designed, featuring balconies that present breathtaking river views. The interiors boast a harmonious blend of functionality and comfort, with a cable TV, dining area, and a well-equipped kitchen. The shared bathrooms do not skimp on luxury, equipped with showers, bathrobes, and hair dryers, ensuring a pampered stay. Adding to the charm, a patio offering city views complements each unit, allowing guests to immerse themselves in the local ambiance.
 
 For those venturing from afar, the proximity to Tirana International Mother Teresa Airport, located 118 km away, makes Apartment Donend a convenient gateway to exploring Berat's enchanting surroundings.
 
 In essence, Apartment Donend stands out as a prime accommodation choice, promising an experience that is as inviting as it is memorable, making it a top recommendation for those planning a visit to Berat.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

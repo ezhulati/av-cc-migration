@@ -1,15 +1,9 @@
----
-title: Rogner Hotel Tirana
-description: Rogner Hotel Tirana doesn't just offer a place to stay; it provides a sanctuary. Its sprawling 30,000 square meters of lush Mediterranean gardens offer a serene
-featuredImage: "/images/accommodation/468063382.jpg"
-language: en
-slug: rogner-hotel-tirana
-location: ""
-amenities: []
-images: []
----
-
-Rogner Hotel Tirana doesn't just offer a place to stay; it provides a sanctuary. Its sprawling 30,000 square meters of lush Mediterranean gardens offer a serene escape from the urban hustle, while guests remain connected with complimentary high-speed WiFi throughout the property.
+---\ntitle: "Rogner Hotel Tirana"\ndescription: "Discover the epitome of luxury and convenience at Rogner Hotel Tirana, a premier destination for travelers seeking a blend of comfort and elegance right in the pulsating heart of Albania's capital."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468063382.jpg?k=ca1f8ea118f1c992643bf50b2f6705a982b07140afed1a819ef142f620a30913&o=&hp=1"\nlanguage: en\nslug: rogner-hotel-tirana\naddress: "Bulevardi Deshmoret e Kombit, 1000 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.32067911\n  lng: 19.82081652\nprice: "US$110"\npriceFrom: 110\nstarRating: 5\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 1760\nratings:\n  overall: 9.1\n  location: 9.7\n  cleanliness: 9.3\n  facilities: 8.9\n  value: 8.6\n  comfort: 9.3\n  staff: 9.2\n  wifi: 8.6\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468063382.jpg?k=ca1f8ea118f1c992643bf50b2f6705a982b07140afed1a819ef142f620a30913&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262050932.jpg?k=1606000a54f308e312a04513f2a39817f3467a125fd8401859ea1eb87db8f476&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/84550312.jpg?k=5d0f6a8e77522d06068355d4f99a7b38744b2c0b35138151e89c22b5d37bf0da&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/84545664.jpg?k=9c83b3623a4300595d9b8333275e013617864e01d92645762090d5e57c5ae277&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/84544756.jpg?k=54639cb9156e32d7cd4faa36637465f645d111d04fd363b96d3f21839d6b7663&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195769207.jpg?k=ea7c8ae1a1f62a4050f6eb970c04a7f388f8b6c2a66a19d421027f1723ed7606&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Airport shuttle"\n  - "Spa and wellness centre"\n  - "Non-smoking rooms"\n  - "Fitness centre"\n  - "Room service"\n  - "Private parking"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Superb breakfast"\nroomTypes:\n  - "Double Room with City View"\n  - "Superior Double Room"\n  - "Double Room with Garden View"\n  - "Deluxe Room with Garden View and Balcony"\n  - "Junior Suite with City View"\n  - "Junior Suite with Garden View"\n  - "Suite with City View"\n  - "Suite with Garden View"\nnearbyAttractions:\n  - "Tanners' Bridge 800 m"\n  - "Clock Tower Tirana 800 m"\n  - "Skanderbeg Square 800 m"\n  - "National Museum of History Albania 1 km"\n  - "Grand Park of Tirana 1 km"\n  - "Bunk'Art 1 Museum 4.6 km"\nnearbyRestaurants:\n  - "Bicikleta 50 m"\n  - "Bar Pasha 200 m"\nwhatsNearby:\n  - "Shesh Rekreativ 100 m"\n  - "Former Residence of Enver Hoxha 300 m"\n  - "Sheshi Rekreativ Piramida 300 m"\n  - "Sheshi Rekreativ tek Arena Kombëtare 350 m"\n  - "Rinia Park 500 m"\n  - "Parku Rinia 550 m"\n  - "Shesh Rekreativ 600 m"\n  - "National Gallery of Arts Tirana 600 m"\n  - "House of Leaves 750 m"\n  - "Parku Europa 750 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Morasleo"\n    country: "Italy"\n    text: "“Location is just perfect and the superior room are really good. Room service is also good and timely.”"\n  - name: "Lauradiane1983"\n    country: "United Kingdom"\n    text: "“Beautiful hotel with great lobby and gardens
+Room was large and comfortable
+Yummy breakfast with lots of choice
+Super friendly staff - very attentive
+Amazing location in Central Tirana
+Cute cat! :-)”"\n  - name: "Mark"\n    country: "United Kingdom"\n    text: "“Excellent staff and service. Position is also ideal for business purposes.”"\nbookingURL: "https://www.booking.com/hotel/al/rogner-europark.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nRogner Hotel Tirana doesn't just offer a place to stay; it provides a sanctuary. Its sprawling 30,000 square meters of lush Mediterranean gardens offer a serene escape from the urban hustle, while guests remain connected with complimentary high-speed WiFi throughout the property.
 
 Accommodations at Rogner Hotel are designed with the discerning guest in mind. Each room features a full HD LED TV with an array of satellite channels, extra-large bedding for unparalleled comfort, a well-stocked mini-bar, and a functional work desk. The natural wood furnishings, expansive windows, and cozy seating areas create a welcoming atmosphere, complemented by either a picturesque garden or vibrant boulevard view. Thoughtful touches like complimentary water, coffee, and tea facilities add to the room's appeal.
 
@@ -20,19 +14,3 @@ For those looking to unwind, Rogner Hotel offers a variety of recreational facil
 For convenience, the hotel offers an optional shuttle service to Tirana International Airport Nënë Tereza, ensuring smooth arrivals and departures. Moreover, the National Historic Museum is a mere 700 meters away, inviting guests to explore Albania's rich history.
 
 In summary, Rogner Hotel Tirana stands as a testament to luxury, convenience, and hospitality, promising an unforgettable stay in the heart of Tirana.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

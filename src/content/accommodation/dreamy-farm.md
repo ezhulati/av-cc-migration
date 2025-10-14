@@ -1,30 +1,7 @@
----
-title: Dreamy Farm
-description: Located a mere 26 km from the enchanting Butrint National Park, Dreamy Farm presents an ideal base for explorers eager to uncover the area's historical treasure
-featuredImage: "/images/accommodation/500735495.jpg"
-language: en
-slug: dreamy-farm
-location: ""
-amenities: []
-images: []
----
-
-Located a mere 26 km from the enchanting Butrint National Park, Dreamy Farm presents an ideal base for explorers eager to uncover the area's historical treasures. The apartment itself is a haven of tranquility, featuring a cozy bedroom, a bathroom equipped with essential linens and towels, and a living area complete with a flat-screen TV offering satellite channels. The dining space flows seamlessly into a fully equipped kitchen, allowing guests the freedom to craft their meals.
+---\ntitle: "Dreamy Farm"\ndescription: "Dreamy Farm emerges as a serene retreat in the vibrant city of Sarandë, offering guests a unique blend of comfort and natural beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500735495.jpg?k=045c0cd66a68433db45a58073b5989da6a1613b1894186512f97e290d360e5f4&o=&hp=1"\nlanguage: en\nslug: dreamy-farm\naddress: "SH99, 9716 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.91993389\n  lng: 20.10342933\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500735495.jpg?k=045c0cd66a68433db45a58073b5989da6a1613b1894186512f97e290d360e5f4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500735372.jpg?k=c8484e4525dda737c5f2b4a646fb7a814cf4872ac5a62b08e7c2488a51e7c86d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500735304.jpg?k=6829a37847191c74cbc3c08ddfdc8d0b845b76194dbdf2c095a29a149be5da0d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500735383.jpg?k=106e2d9743bb9e5bcea224737b51d95ed08e48ce505627dd4afd750376601e4e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500735455.jpg?k=cfda6beb43b6e438ac3f9d08bb6a73cd645f97f75cfd23419d8f8ddc80eba7e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500735567.jpg?k=946bb548451da01ef14dc28cc266865049cb629fa5369fb3cbcfa3ed30a65d32&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500735315.jpg?k=c890ad3c59b19cb0b4505b6d82cc23efe85c3a082dc926fc75f1b41b40c0a18c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500735309.jpg?k=a078f748ad75da3d04c020239c720fca0622aaa74e67e083d1cd2aec05fced60&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500735307.jpg?k=4753bfa3972aec3f99a6268f4d9358909c826494cedcdaf71d0d2a47fda2835c&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\nnearbyRestaurants:\n  - "Sotiri 1.4 km"\n  - "Restorant Leli 4 km"\nnearbyBeaches:\n  - "Saranda City Beach 9 km"\n  - "La Petite Beach 10 km"\n  - "Maestral Beach 10 km"\n  - "VIP Beach 10 km"\n  - "Santa Quaranta Beach 10 km"\nwhatsNearby:\n  - "Parc National de Butrint 10 km"\n  - "Butrint National Park 10 km"\n  - "Plazhi I Krorezes 16 km"\n  - "Butrint National Park 18 km"\n  - "Parku Kombetar I Butrintit 19 km"\nairports:\n  - "Corfu International Airport 38 km"\n  - "Ioannina Airport 65 km"\nbookingURL: "https://www.booking.com/hotel/al/dreamy-farm.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nLocated a mere 26 km from the enchanting Butrint National Park, Dreamy Farm presents an ideal base for explorers eager to uncover the area's historical treasures. The apartment itself is a haven of tranquility, featuring a cozy bedroom, a bathroom equipped with essential linens and towels, and a living area complete with a flat-screen TV offering satellite channels. The dining space flows seamlessly into a fully equipped kitchen, allowing guests the freedom to craft their meals.
 
 Perhaps the most captivating feature of Dreamy Farm is its terrace, offering breathtaking mountain views. Here, guests can savor their meals in an outdoor dining area, with the serene river views providing a picturesque backdrop. The addition of a private entrance enhances the sense of seclusion, making it a perfect escape for those seeking privacy.
 
 For moments of relaxation, the property's garden offers a peaceful oasis, inviting guests to unwind amidst nature's embrace.
 
 Situated 47 km from the tranquil Zaravina Lake and 86 km from Ioannina Airport, Dreamy Farm positions itself as a convenient gateway for travelers looking to explore the broader region. This property stands out as a top choice for those in search of a peaceful retreat that doesn't compromise on accessibility to Sarandë's attractions.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

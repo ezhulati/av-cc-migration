@@ -1,26 +1,3 @@
----
-title: Eni House
-description: The accommodation boasts a well-appointed apartment featuring a cozy bedroom, a living area equipped with a flat-screen TV for entertainment, a fully equipped k
-featuredImage: "/images/accommodation/478170191.jpg"
-language: en
-slug: eni-house
-location: ""
-amenities: []
-images: []
----
-
-The accommodation boasts a well-appointed apartment featuring a cozy bedroom, a living area equipped with a flat-screen TV for entertainment, a fully equipped kitchen for those who prefer to prepare their own meals, and a bathroom complete with a bidet and hair dryer, ensuring guests feel at home.
+---\ntitle: "Eni House"\ndescription: "Eni House emerges as a prime choice for travelers seeking comfort and convenience in Shkodër."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478170191.jpg?k=13366f67fc2faa4d3275f7fbce7690b4337c06500fdb9a9c0fc61bd1298e848f&o=&hp=1"\nlanguage: en\nslug: eni-house\naddress: "Rruga Qukej Ap 2023 / Floor 2, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.06986415\n  lng: 19.51030769\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 13\nratings:\n  overall: 9.6\n  location: 10\n  cleanliness: 9.6\n  facilities: 9.6\n  value: 9.6\n  comfort: 9.4\n  staff: 9.6\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478170191.jpg?k=13366f67fc2faa4d3275f7fbce7690b4337c06500fdb9a9c0fc61bd1298e848f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478170203.jpg?k=0e30313f22aa2c7c0406e0f087a38e34a40e47f93baa0dbef5da7ed07c0a6526&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478170188.jpg?k=97e9b3efe9deb22222cb6ec02998ba0981fa12337845dc34fc2c6f9d666a16e1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478170186.jpg?k=1f5a367f5ea342e263030740bf070f1ab5b585fe364b8a6845e5444b0f9fef19&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478170196.jpg?k=4def2426e2623afe18496f65d01862447b7eb32f94eec1400324e1a78f15cb71&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483465145.jpg?k=f3ba7755a128ab055ae444db82009fff32d0de24ae1e4632670403c03e8652a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478170125.jpg?k=10b0e02d765da64299bb093ea203ae93d854dc32876cdb49b4a0537c2b96434d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478170181.jpg?k=22400f1d97d20cacae05c82163b7317a6c0430e9408ebc4426a18d81c084f742&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478170183.jpg?k=6d5abce075e49fdc355848b89cb85d3b4cae8c2feea11490910d7d12ead6d33e&o=&hp=1"\namenities:\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Pastiçeri ENISI 50 m"\n  - "LottoSport 100 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 2.9 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 37 km"\n  - "Tirana International Airport Mother Teresa 73 km"\n  - "Tivat Airport 73 km"\nreviews:\n  - name: "Alison"\n    country: "Australia"\n    text: "“Very modern and clean. Good kitchen. Washing machine. Comfortable bed. Air conditioning. Lift.”"\n  - name: "Justi"\n    country: "Albania"\n    text: "“The apartment was very clean, well organized and comfy . Location was perfect , very near to the center . The highlight was the manager , a very polite and respectful person who hepled us during our stay in the city .”"\n  - name: "Chryssoula"\n    country: "Greece"\n    text: "“Everything was top of the tops!!! Even the smallest detail had been taken care of, a home away from home... I wish there was a way to rate the whole experience higher than 10/10! The host was friendly and most helpful, always replied practically...”"\nbookingURL: "https://www.booking.com/hotel/al/arts-house-shkoder.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe accommodation boasts a well-appointed apartment featuring a cozy bedroom, a living area equipped with a flat-screen TV for entertainment, a fully equipped kitchen for those who prefer to prepare their own meals, and a bathroom complete with a bidet and hair dryer, ensuring guests feel at home.
 
 For those flying in, Podgorica Airport is conveniently located just 58 km away, making Eni House a strategic choice for both short and extended stays in the area.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

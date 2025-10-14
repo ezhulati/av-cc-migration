@@ -1,15 +1,5 @@
----
-title: Hotel Gjirokastra
-description: Each room at Hotel Gjirokastër is a haven of comfort, equipped with cable TV, air conditioning, a private bathroom with a shower, and additional conveniences li
-featuredImage: "/images/accommodation/105934232.jpg"
-language: en
-slug: hotel-gjirokastra
-location: ""
-amenities: []
-images: []
----
-
-Each room at Hotel Gjirokastër is a haven of comfort, equipped with cable TV, air conditioning, a private bathroom with a shower, and additional conveniences like a wardrobe and a sofa, ensuring a restful stay.
+---\ntitle: "Hotel Gjirokastra"\ndescription: "Discover the charm of Hotel Gjirokastër, a gem just a stone's throw away from the heart of the city, situated 300 meters from the bustling center."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105934232.jpg?k=469305eaeabc51b45c68b6cd4a7c85f42b9eed22de911608e8356409b9ddec94&o=&hp=1"\nlanguage: en\nslug: hotel-gjirokastra\naddress: "Lagjia Partizani, Rruga Shezai Como, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.07325031\n  lng: 20.13759613\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 896\nratings:\n  overall: 9.5\n  location: 9.9\n  cleanliness: 9.6\n  facilities: 9.3\n  value: 9.6\n  comfort: 9.5\n  staff: 9.9\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105934232.jpg?k=469305eaeabc51b45c68b6cd4a7c85f42b9eed22de911608e8356409b9ddec94&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106127794.jpg?k=11228274e7e18fb67b7ab93e45f75b2a13338f1d44f9236bb6ddcc3a971fc125&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209086690.jpg?k=5d9b9aa602ad379bcc8c2202190c659d37b9aa9b8587ae40e114b91bd4c7ded6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469018634.jpg?k=450e7c08eb3ef1a0e172d653d7b01dcfcb416f4d808fe5df1a17c3a9687a9d49&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477833420.jpg?k=a7e89dae0ad048c2c1bae3a40d528d839f039e16f265f849912ce2be91a5b471&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465797929.jpg?k=62cc0811cbb962faf3a9282e18e8560ec684840f1f6fa215e30db24efea9f4e3&o=&hp=1"\namenities:\n  - "Indoor swimming pool"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "2 restaurants"\n  - "Family rooms"\n  - "Bar"\n  - "Superb breakfast"\nroomTypes:\n  - "Comfort Double Room"\n  - "Twin Room"\n  - "Economy Double or Twin Room"\n  - "Basic Double Room"\n  - "Double Room"\n  - "Superior Suite"\n  - "Quadruple Room"\nnearbyRestaurants:\n  - "Taverna Kuka 40 m"\n  - "Check-in 50 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Thorben"\n    country: "Germany"\n    text: "“The location is great. Staff very friendly. The room was perfect for a family of four.”"\n  - name: "Riccardogi"\n    country: "Italy"\n    text: "“Location was great, quite but at the same time very close to the castle and to Pazar.
+Staff was very available and kind and the reserved parking lot is a big plus. Breakfast was also great, with fresh Albanian petullas and other fresh local...”"\n  - name: "Tomas"\n    country: "Germany"\n    text: "“Extraordinary interior - extremely well located - very very clean, beautiful backyard and pool! Great view from the rooms balcony to the mosque the bazar, the castle and the old town center. Extraordinary good breakfast and extremely nice people...”"\nbookingURL: "https://www.booking.com/hotel/al/hotel-gjirokastra.en-gb.html?aid=8035640"\nbestFor: "Best for Historical Sites Proximity"\nbestCategories: "Historical Sites Proximity"\ncategory: "Historical Sites Proximity"\n---\n\nEach room at Hotel Gjirokastër is a haven of comfort, equipped with cable TV, air conditioning, a private bathroom with a shower, and additional conveniences like a wardrobe and a sofa, ensuring a restful stay.
 
 Dining at the hotel is a delightful experience, with breakfast and dinner served daily in the restaurant. For those preferring to dine in the privacy of their room, room service is readily available. Additional services such as dry cleaning, laundry, and ironing are offered, making your stay as hassle-free as possible.
 
@@ -18,15 +8,3 @@ Hotel Gjirokastër is not just a place to stay; it's an opportunity to immerse y
 For those looking to venture further, the bus station is a mere 500 meters away, providing easy access to the picturesque town of Saranda, 60 km away, and Tirana Airport, 200 km from the hotel, connecting you to your next destination.
 
 Hotel Gjirokastër is more than just a place to stay; it's a gateway to exploring the rich history and culture of this enchanting town, all while enjoying the comforts and conveniences of modern amenities.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

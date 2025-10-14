@@ -1,28 +1,5 @@
----
-title: Hotel Univers
-description: Guest services are top-notch, with room service ensuring a comfortable stay, a 24-hour front desk for round-the-clock assistance, and a currency exchange to mee
-featuredImage: "/images/accommodation/508358338.jpg"
-language: en
-slug: hotel-univers
-location: ""
-amenities: []
-images: []
----
-
-Guest services are top-notch, with room service ensuring a comfortable stay, a 24-hour front desk for round-the-clock assistance, and a currency exchange to meet the needs of international guests.
+---\ntitle: "Hotel Univers"\ndescription: "Hotel Univers stands as a beacon of comfort and convenience in Bajram Curri, located a mere 45 km from the historic Visoki Dečani Monastery."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508358338.jpg?k=a6cba02efef480bf4ba48952265252fa702eaf1757132cbd1a7c4471ed7d53ef&o=&hp=1"\nlanguage: en\nslug: hotel-univers\naddress: "Rruga Ram Sadria Kryqezimi i Dragobise, 8702 Bajram Curri, Albania"\ncity: "Bajram"\nlocation: "Bajram"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.359521\n  lng: 20.07699\nprice: "US$40"\npriceFrom: 40\nstarRating: 3\nrating: 8.7\nratingWords: "Very Good"\nnumberOfReviews: 41\nratings:\n  overall: 8.7\n  location: 8.6\n  cleanliness: 9.1\n  facilities: 8.6\n  value: 8.5\n  comfort: 8.6\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508358338.jpg?k=a6cba02efef480bf4ba48952265252fa702eaf1757132cbd1a7c4471ed7d53ef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508345289.jpg?k=faddd87b2422edfa635586e98f4e95ee79942440912c1b5a4fe2b84335604da5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508355752.jpg?k=52be80d37980ba784ea1129f1857721a40af9d3f4ad4fe0e762d8a9394a2a2cc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508357975.jpg?k=d8ca4a6cc1ee55b5e85e897a0a593e44075782263761112703c95a39c351a207&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508358652.jpg?k=a283e5250152e703316f279cb544ae9cace96062be2cf18e4894ed6c1794dec5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508358095.jpg?k=f7f7a02c46c163f9a2c08f791bfad2c3f7b1999c41758b26e95131caf3da825b&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Double or Twin Room"\n  - "Standard Twin Room"\n  - "Deluxe Triple Room"\n  - "Deluxe Family Room"\n  - "Deluxe Quadruple Room"\nreviews:\n  - name: "Emma"\n    country: "United Kingdom"\n    text: "“Super clean, light and spacious room. Excellent breakfast. Friendly staff. Good value for money.”"\n  - name: "Viktor"\n    country: "Hungary"\n    text: "“The staff were very helpful and spoke some english so we could communicate and they tried to help in everything we asked for. They even helped me get a taxi driver who was a really nice guy. The breakfast was one of my best meals in a while!”"\n  - name: "Daniel"\n    country: "Poland"\n    text: "“Bardzo dobry hotel w centrum miasta z restauracją i barem. Parking przy obiekcie. Bardzo wygodne łóżko. Pyszne śniadanie. Sympatyczna i pomocna obsługa. Dobry stosunek jakości do ceny. Dobra baza wypadowa do Doliny Valbona oraz na prom po jeziorze...”"\nbookingURL: "https://www.booking.com/hotel/al/univers-bajram-curri1234567.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nGuest services are top-notch, with room service ensuring a comfortable stay, a 24-hour front desk for round-the-clock assistance, and a currency exchange to meet the needs of international guests.
 
 Each room at Hotel Univers is a haven of comfort, equipped with air conditioning for those warm days and a flat-screen TV for entertainment. Select rooms also boast a balcony, offering guests a private outdoor space to enjoy.
 
 For those flying in, Pristina International Airport is located 122 km away, making Hotel Univers an accessible choice for both domestic and international travelers seeking a serene retreat in Bajram Curri.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

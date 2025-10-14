@@ -1,28 +1,12 @@
----
-title: Hotel Rezidenca Desaret
-description: Accommodations at Hotel Rezidenca Desaret are thoughtfully designed with air conditioning and equipped with flat-screen TVs for a touch of modernity. Select roo
-featuredImage: "/images/accommodation/439779021.jpg"
-language: en
-slug: hotel-rezidenca-desaret
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Hotel Rezidenca Desaret"\ndescription: "Hotel Rezidenca Desaret emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Berat, merely 450 meters from the enchanting Old Town."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439779021.jpg?k=584af9d3e543f9346559f804efad02b35bfee5a302b9f10f78a622eed05945ea&o=&hp=1"\nlanguage: en\nslug: hotel-rezidenca-desaret\naddress: "Rruga Dr.Lluka, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.70630304\n  lng: 19.95200332\nprice: "US$54"\npriceFrom: 54\nstarRating: 4\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 1600\nratings:\n  overall: 9.3\n  location: 9.7\n  cleanliness: 9.6\n  facilities: 9.3\n  value: 9.5\n  comfort: 9.5\n  staff: 9.7\n  wifi: 7.9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439779021.jpg?k=584af9d3e543f9346559f804efad02b35bfee5a302b9f10f78a622eed05945ea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439779018.jpg?k=e956eb0c848b3ee61a26172c5fe25b8ffab99c07ed997ab66677a1ae9345380f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439779019.jpg?k=e0b70dcbe68b892753b8f4853439815b25470af17f77949c7707ada185482c58&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439777514.jpg?k=963961f70d9dee41f12352f5089abb0b51476ef97c2d22d4d55af2661f9cb93b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439777499.jpg?k=5790a3ac45a9117b686ccb3134575368d4c91a28097ab35d967a9b8a7811524f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354210722.jpg?k=a2bff2d4272e3a1596a809a6cbf9e4bf2c6e5d98c1165125467c5bc815798aa4&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Double Room"\n  - "Budget Double Room"\n  - "Deluxe Double Room"\n  - "Double or Twin Room with Balcony"\n  - "Deluxe Double Room with Balcony"\nnearbyRestaurants:\n  - "Aurel 50 m"\n  - "Hotel Rezidenca Desaret 100 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 83 km"\nreviews:\n  - name: "John"\n    country: "United Kingdom"\n    text: "“Great breakfast, central location with amazing views over the town.”"\n  - name: "Ondřej"\n    country: "Czech Republic"\n    text: "“Really nice and new looking hotel.
+Small, but cozy room.
+Clean and beautiful.
+Comfy beds.
+Nice view from the balcony.
+Private parking.
+Great location.
+Warm in the room (as it was not matter of course in other accommodations in...”"\n  - name: "Christine"\n    country: "United States"\n    text: "“The breakfast was “over the top.” The room was comfy, the bed was perfect. The view was outstanding.”"\nbookingURL: "https://www.booking.com/hotel/al/rezidenca-desaret.en-gb.html?aid=8035640"\nbestFor: "Best for Location"\nbestCategories: "Location"\ncategory: "Location"\n---\n\nAccommodations at Hotel Rezidenca Desaret are thoughtfully designed with air conditioning and equipped with flat-screen TVs for a touch of modernity. Select rooms boast a cozy seating area, providing a perfect nook for relaxation after a day of exploration. Depending on their location, rooms either offer a serene garden view or a dynamic cityscape. The convenience of private bathrooms, equipped with showers and complimentary toiletries, ensures a comfortable stay.
 
-Accommodations at Hotel Rezidenca Desaret are thoughtfully designed with air conditioning and equipped with flat-screen TVs for a touch of modernity. Select rooms boast a cozy seating area, providing a perfect nook for relaxation after a day of exploration. Depending on their location, rooms either offer a serene garden view or a dynamic cityscape. The convenience of private bathrooms, equipped with showers and complimentary toiletries, ensures a comfortable stay.
-
-The hotel prides itself on its 24-hour front desk, ensuring guests' needs are attended to at any hour. For those intrigued by history and culture, Berat Castle is just 1.2 km away, and the Etnographic Museum is within a 300-meter stroll, making cultural excursions easily accessible.
+The hotel prides itself on its 24-hour front desk, ensuring guests' needs are attended to at any hour. For those intrigued by history and culture, Berat Castle is just 1.2 km away, and the Etnographic Museum is within a 300-meter stroll, making cultural excursions easily accessible. 
 
 For travelers arriving by air, Tirana Airport is located 125 km from the hotel, which offers the added convenience of free private parking on site. Hotel Rezidenca Desaret stands out as a beacon of hospitality, promising an unforgettable stay in Berat.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

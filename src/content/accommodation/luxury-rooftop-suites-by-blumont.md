@@ -1,30 +1,8 @@
----
-title: Luxury Rooftop Suites by Blumont
-description: The hotel prides itself on its guest services, featuring a shared kitchen, attentive room service, and a convenient currency exchange. Each room is a haven of c
-featuredImage: "/images/accommodation/472871654.jpg"
-language: en
-slug: luxury-rooftop-suites-by-blumont
-location: ""
-amenities: []
-images: []
----
-
-The hotel prides itself on its guest services, featuring a shared kitchen, attentive room service, and a convenient currency exchange. Each room is a haven of comfort, equipped with a wardrobe, a private bathroom with shower and complimentary toiletries, a flat-screen TV, and air conditioning. Select rooms also boast the luxury of a balcony, offering guests a private outdoor space to relax and take in the views.
+---\ntitle: "Luxury Rooftop Suites by Blumont"\ndescription: "Luxury Rooftop Suites by Blumont stands as a beacon of comfort and elegance in Durrës, just a stone's throw away from the serene Shkëmbi i Kavajës Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472871654.jpg?k=4cb604c586d0a6cfc987ad3e9b49dbd4d801d385507bd02f260be9b9f292605f&o=&hp=1"\nlanguage: en\nslug: luxury-rooftop-suites-by-blumont\naddress: "Lagja plazhit 13, 2010 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.28079001\n  lng: 19.51371391\nprice: "US$1,023"\npriceFrom: 1\nstarRating: 5\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 46\nratings:\n  overall: 9.5\n  location: 9.3\n  cleanliness: 9.5\n  facilities: 9.8\n  value: 8.8\n  comfort: 9.7\n  staff: 9.7\n  wifi: 9.6\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472871654.jpg?k=4cb604c586d0a6cfc987ad3e9b49dbd4d801d385507bd02f260be9b9f292605f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482191966.jpg?k=8576d3ce5616b596c0e72a7bdaa907637bb615b7a24d271f03b326e446fbcfb2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482192018.jpg?k=d8b9727a31e19ddcf96914032ed1236d8c74f41bec935a77c95b85312f3618a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482192032.jpg?k=96eb297f5a5343637f60486ed026bcbb9533a11c44e66b99a6f99210254d5a27&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482192008.jpg?k=4ac12f2472bbd58d1be4d5f9fe8a39464ca66705ee187324f81154c470b62541&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482192015.jpg?k=566c8fb13f8bd963bfe2cdd39b34633bc3e32ff23b4e89fbe1f118e606e38507&o=&hp=1"\namenities:\n  - "Indoor swimming pool"\n  - "Airport shuttle (free)"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Penthouse Apartment"\nnearbyRestaurants:\n  - "Tirona 50 m"\n  - "Bar Gerti 100 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 100 m"\n  - "Durres Beach 650 m"\n  - "Golem Beach 1.8 km"\n  - "Mali I Robit Beach 3.7 km"\n  - "Qerret Beach 6 km"\nwhatsNearby:\n  - "Bekimi 6 km"\n  - "Wine Dhe Pooh 7 km"\n  - "Durres Amphiteatre 7 km"\n  - "Yje Dhe Hena 7 km"\n  - "Sheshi Demokracia 7 km"\n  - "1. Maj 7 km"\n  - "Sotir Noka 7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Stefan"\n    country: "Germany"\n    text: "“The concept of a few suites in the 8th floor with a shared space in the 7th floor. Great view (just another hotel is partly in the view)
+Nice rooftop pool on the 7th floor”"\n  - name: "Paulina"\n    country: "Poland"\n    text: "“Nice crew and comfortable room. A good place for a few days stay.”"\n  - name: "Tiziana"\n    country: "Switzerland"\n    text: "“I really appreciated the privacy and peace you had in the suites and the pool/living room area. Truly a unique experience and very relaxing. Exactly what I was looking for during my vacation. The room was so pretty and well decorated, with a...”"\nbookingURL: "https://www.booking.com/hotel/al/blumont-rooftop-suites.en-gb.html?aid=8035640"\nbestFor: "Best for Luxury"\nbestCategories: "Luxury"\ncategory: "Luxury"\n---\n\nThe hotel prides itself on its guest services, featuring a shared kitchen, attentive room service, and a convenient currency exchange. Each room is a haven of comfort, equipped with a wardrobe, a private bathroom with shower and complimentary toiletries, a flat-screen TV, and air conditioning. Select rooms also boast the luxury of a balcony, offering guests a private outdoor space to relax and take in the views.
 
 Morning at Luxury Rooftop Suites by Blumont begins with a choice of continental or Italian breakfast options, setting the tone for a day of exploration or relaxation. For those seeking a truly indulgent experience, the hotel provides 5-star facilities including an indoor pool, sauna, and hot tub, perfect for unwinding after a day of sightseeing.
 
 The hotel staff are renowned for their hospitality, always on hand to offer expert advice and ensure a memorable stay for every guest.
 
 Beyond its immediate comforts, the hotel's location offers easy access to Skanderbeg Square, 42 km away, and the Dajti Ekspres Cable Car, 46 km from the property, inviting guests to explore the rich cultural tapestry of the area. Tirana International Mother Teresa Airport is conveniently located 36 km away, making Luxury Rooftop Suites by Blumont an ideal choice for both leisure and business travelers seeking a sophisticated base in Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,7 @@
----
-title: feel comfortable and have fun
-description: This non-smoking apartment is an oasis of tranquility, offering guests the luxury of private parking on site and complimentary WiFi, ensuring a seamless stay. P
-featuredImage: "/images/accommodation/494589206.jpg"
-language: en
-slug: feel-comfortable-and-have-fun
-location: ""
-amenities: []
-images: []
----
-
-This non-smoking apartment is an oasis of tranquility, offering guests the luxury of private parking on site and complimentary WiFi, ensuring a seamless stay. Positioned 8.6 km from the Dajti Ekspres Cable Car, it presents an excellent opportunity for guests to explore the natural beauty surrounding Tirana.
+---\ntitle: "feel comfortable and have fun"\ndescription: "Discover the charm of Tirana with a stay at \"Feel Comfortable and Have Fun,\" a prime apartment offering a blend of convenience and comfort."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494589206.jpg?k=c378fbacb4bf9c915dd497ea6d7f86fcc6ae9eecc5d37d121ab92b273866d0ae&o=&hp=1"\nlanguage: en\nslug: feel-comfortable-and-have-fun\naddress: "Rruga Feizi Himzo, 1000 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33033476\n  lng: 19.78707333\nprice: "US$40"\npriceFrom: 40\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494589206.jpg?k=c378fbacb4bf9c915dd497ea6d7f86fcc6ae9eecc5d37d121ab92b273866d0ae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/494589211.jpg?k=8da07b7f6fd1256e97705355639c362d632051c343b6bb6813ac07833748846a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/494589213.jpg?k=aa809a745c32b654f7b4d54a5da8cc95cc4e9596de275b6f04835f537f115a3c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/494589216.jpg?k=704d24daf46c45666f4a4906bde9401146bb0bf19fd407fd654b4d9cc08c7b5a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/494589218.jpg?k=ac4e4da94764fc73cf2777defe9b388947d391314e53b5d419d7a33a8ca55265&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/494589220.jpg?k=4ae1f1e6d323880ac1e35dd52e1828defee4d9a4f7556859baac2aa5ba9e3260&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 2.5 km"\n  - "National Museum of History Albania 2.5 km"\n  - "Rinia Park 2.7 km"\n  - "Skanderbeg Square 2.7 km"\n  - "Former Residence of Enver Hoxha 2.7 km"\n  - "Clock Tower Tirana 2.7 km"\n  - "National Gallery of Arts Tirana 2.9 km"\n  - "Tanners' Bridge 3.3 km"\n  - "Grand Park of Tirana 3.8 km"\n  - "Bunk'Art 1 Museum 7 km"\nnearbyRestaurants:\n  - "District 14 Lounge 200 m"\n  - "Bar Restorant 250 m"\nwhatsNearby:\n  - "Shesh Rekreativ Yzberisht 450 m"\n  - "Park Lojrash 500 m"\n  - "Sheshi Rekreativ Parku 1Km 800 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 950 m"\n  - "Sheshi Rekreativ Lord Bajron 950 m"\n  - "Sheshi Rekreativ Pallati me Shigjeta 1 km"\n  - "Sheshi Rekreativ Sali Butka 1.3 km"\n  - "Sheshi Rekreativ Bajram Curri 1.4 km"\n  - "Sheshi Rekreativ Shefqet Musaraj 1.4 km"\n  - "Sheshi Rekreativ Don Bosko 1.7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 9 km"\n  - "Ohrid Airport 82 km"\nbookingURL: "https://www.booking.com/hotel/al/feel-comfortable-and-have-fun.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis non-smoking apartment is an oasis of tranquility, offering guests the luxury of private parking on site and complimentary WiFi, ensuring a seamless stay. Positioned 8.6 km from the Dajti Ekspres Cable Car, it presents an excellent opportunity for guests to explore the natural beauty surrounding Tirana.
 
 The apartment itself is a spacious retreat, boasting a balcony that invites guests to relax and unwind. It features a comfortable bedroom, a cozy living room for leisurely evenings, and a well-equipped kitchen complete with a minibar for those who enjoy the convenience of home-cooked meals. Entertainment is readily available with a flat-screen TV, making it an ideal choice for both short and long stays.
 
 For those keen to explore the local area, Rinia Park is a mere 4.1 km away, offering a green sanctuary in the city, while the iconic Clock Tower of Tirana is 4.5 km from the apartment, promising a glimpse into the city's rich history. Additionally, the Tirana International Mother Teresa Airport is conveniently located 12 km away, facilitating easy travel arrangements.
 
 "Feel Comfortable and Have Fun" is more than just a place to stay; it's a gateway to experiencing the vibrant culture and picturesque landscapes of Tirana, making it a top choice for travelers seeking both adventure and serenity.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

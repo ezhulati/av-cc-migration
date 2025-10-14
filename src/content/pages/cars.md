@@ -4,10 +4,16 @@ description: "You need a valid driver's license from your home country and an In
 featuredImage: "/images/pages/car-rentals-transfers-albania.jpg"
 language: en
 slug: cars
+
+"
 seo:
-  metaTitle: Transportation
-  metaDescription: ""
   canonicalURL: https://albaniavisit.com/cars/
+  focusKeyword: "transportation"
+  metaTitle: "Driving in Albania - What You Need to Know For Your Visit"
+  metaDescription: "Navigate Albania's roads with ease. Our %currentyear% driving guide covers international driving permits, driver licenses, insurance, safety tips, and road conditions. 
+
+"
+  focusKeyword: "transportation"
 ---
 
 ## Driver's License & Permit for Tourists

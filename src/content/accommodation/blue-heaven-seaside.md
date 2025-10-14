@@ -1,26 +1,3 @@
----
-title: Blue Heaven Seaside
-description: Guests are welcomed into air-conditioned rooms that are thoughtfully equipped with modern amenities including a desk, a safety deposit box, a flat-screen TV, an
-featuredImage: "/images/accommodation/8103dfb0481c4cedc201d849f5666a270512f538.png"
-language: en
-slug: blue-heaven-seaside
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into air-conditioned rooms that are thoughtfully equipped with modern amenities including a desk, a safety deposit box, a flat-screen TV, and a balcony for soaking in the tranquil surroundings. The convenience of a private bathroom with a shower and a fridge in each room adds to the comfort of the stay.
+---\ntitle: "Blue Heaven Seaside"\ndescription: "Blue Heaven Seaside emerges as a serene retreat right on the edge of Borsh Beach, offering guests a harmonious blend of comfort and natural beauty."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"\nlanguage: en\nslug: blue-heaven-seaside\naddress: "Rruga Plazhit, Borsh, Albania"\ncity: "Borsh"\nlocation: "Borsh"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.04635327\n  lng: 19.85120028\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490501941.jpg?k=552f4c22ecc1d827024393cf176ea97f91aa6a074628436d075e25c0de4e90d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/491320417.jpg?k=6cb30ad0ceb357ab368375f6d8b9832afa3347a2b02ed3f3982df7a8f074cd90&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/490501939.jpg?k=5f121e3278fe2f68f24a860839e2d56922072ac6b62d798e1aa7457437dded4e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/474922342.jpg?k=38c3336fd66b8a89d932d2a1463354110969a122a2a9223c2f94d48c197bd1a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/474922430.jpg?k=b68927044e30e76256c14862a0c478f6debcd50382715525d0f22af282416712&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/474922423.jpg?k=d6b90bf8b42b2869364f9a4a71eb456e2e84e05005e70424ecb104a565b445fd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/474922433.jpg?k=112d3e877bc2dd63b79a7e42768b10b2135006d84c06cff2c934e21d1d465c7d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/474922426.jpg?k=d49d9598078d08b5600a74f6ee14bb01239c222ce0a73f1ef9daa008a1634f40&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/490501938.jpg?k=aae4b6561556220e9a6486ca6688e9f0b84b4254dec5122ccd3d8289c3ec8896&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Breakfast"\nnearbyBeaches:\n  - "Borsh Beach 0 m"\n  - "Qeparo Beach 1.8 km"\n  - "Porto Palermo Beach 3 4.2 km"\n  - "Porto Palermo Beach 4.2 km"\n  - "Palermo Beach 5 km"\nreviews:\n  - name: "Besarta"\n    country: "Italy"\n    text: "“villaggio fatto di casette di legno bellissime, comode e molto pulite, a due passi dal mare, colazione e 2 sdrai + ombrellone incluso. Io sono andata con il mio gruppo di amiche ma la spiagge era affollata da famiglie con i bambini, quindi è...”"\nbookingURL: "https://www.booking.com/hotel/al/blue-heaven-seaside.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into air-conditioned rooms that are thoughtfully equipped with modern amenities including a desk, a safety deposit box, a flat-screen TV, and a balcony for soaking in the tranquil surroundings. The convenience of a private bathroom with a shower and a fridge in each room adds to the comfort of the stay.
 
 Located a mere 49 km from the enchanting Butrint National Park and 125 km from Ioannina Airport, Blue Heaven Seaside positions itself as an ideal base for exploring the natural and historical richness of the area. With the added benefit of room service and comprehensive free WiFi connectivity across the property, guests are assured a seamless and restful experience.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

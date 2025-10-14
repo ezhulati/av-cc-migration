@@ -1,30 +1,7 @@
----
-title: Hotel Deja
-description: The hotel prides itself on its array of amenities designed to enhance the guest experience. Each room is thoughtfully equipped with a desk, a flat-screen TV, an
-featuredImage: "/images/accommodation/87523283.jpg"
-language: en
-slug: hotel-deja
-location: ""
-amenities: []
-images: []
----
-
-The hotel prides itself on its array of amenities designed to enhance the guest experience. Each room is thoughtfully equipped with a desk, a flat-screen TV, and a wardrobe, ensuring a blend of functionality and comfort. The inclusion of a private bathroom with complimentary toiletries in every room, along with select rooms featuring a cozy seating area, underscores Hotel Deja's commitment to guest satisfaction.
+---\ntitle: "Hotel Deja"\ndescription: "Hotel Deja emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/87523283.jpg?k=14b11fc200a20991b36167425928a421ce68123aea6f6500ec97f0ee7cc9016a&o=&hp=1"\nlanguage: en\nslug: hotel-deja\naddress: "Rr. Fuat Toptani, 1000 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.31624918\n  lng: 19.83915162\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 192\nratings:\n  overall: 7.9\n  location: 7.6\n  cleanliness: 7.4\n  facilities: 7.3\n  value: 8.4\n  comfort: 7.6\n  staff: 9.3\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/87523283.jpg?k=14b11fc200a20991b36167425928a421ce68123aea6f6500ec97f0ee7cc9016a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/88653826.jpg?k=a03c6ed45959eb457cb0959ea9cbbdc7af1dc7ce9366276cc54dcaa149b30570&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/88654387.jpg?k=990c816ecc31d5ef85a53964d96dc233677404522782741a3105adf5f4010496&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/88654649.jpg?k=05d22539538315c0bcbed3d8c48b44722fab4e61cd32e628050e0bae891a51fd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/88653892.jpg?k=2a5a4075954af5819415c7d52a5641290e73fd29b27c8b1a121decd0e2632661&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/88653748.jpg?k=28cde70802ef906c56f1a53d91d7ad579fdbb887439f1eeeb213db50d558924f&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "24-hour front desk"\n  - "Bar"\nroomTypes:\n  - "Standard Double Room"\n  - "Family Suite"\nnearbyAttractions:\n  - "Former Residence of Enver Hoxha 1.9 km"\n  - "Rinia Park 2 km"\n  - "Clock Tower Tirana 2.1 km"\n  - "Skanderbeg Square 2.1 km"\n  - "House of Leaves 2.2 km"\n  - "National Museum of History Albania 2.3 km"\n  - "Bunk'Art 1 Museum 4.1 km"\nnearbyRestaurants:\n  - "Verve 50 m"\n  - "Fast Food-Piceri Ami 200 m"\nwhatsNearby:\n  - "Parku I Madh 800 m"\n  - "Shesh Rekreativ 1 km"\n  - "Sheshi Rekreativ tek Arena Kombëtare 1.1 km"\n  - "Grand Park of Tirana 1.2 km"\n  - "Tanners' Bridge 1.6 km"\n  - "Shesh Rekreativ 1.6 km"\n  - "Sheshi Rekreativ Piramida 1.6 km"\n  - "Sheshi Rekreativ tek ish ATSh 1.7 km"\n  - "Sheshi Rekreativ Tika 1.7 km"\n  - "National Gallery of Arts Tirana 1.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 13 km"\n  - "Ohrid Airport 77 km"\nreviews:\n  - name: "Dániel"\n    country: "Hungary"\n    text: "“It was relatively close to the city center and the hospitality was exceptional, very friendly host, they did not speak very well in english but we sitll had a good chat. :)”"\n  - name: "Karl"\n    country: "United Kingdom"\n    text: "“The hotel was fine for a budget traveler and the host was absolutely lovely. So kind and helpful!”"\n  - name: "Ophélie"\n    country: "France"\n    text: "“Close to the city center, the owner was extremely nice 👍”"\nbookingURL: "https://www.booking.com/hotel/al/deja-tirane.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe hotel prides itself on its array of amenities designed to enhance the guest experience. Each room is thoughtfully equipped with a desk, a flat-screen TV, and a wardrobe, ensuring a blend of functionality and comfort. The inclusion of a private bathroom with complimentary toiletries in every room, along with select rooms featuring a cozy seating area, underscores Hotel Deja's commitment to guest satisfaction.
 
 A highlight of the stay is the Italian breakfast served daily, offering a delightful start to the day with a taste of Italy. Moreover, the hotel's multilingual staff, proficient in both Italian and English, stand ready to assist guests, ensuring a seamless and enjoyable stay.
 
 Adding to the convenience is the complimentary shuttle service, facilitating easy access to and from the city center, making exploration of Tirana's treasures both effortless and inviting. For those traveling by air, the proximity to Tirana Airport, located just 19 km away, makes Hotel Deja an ideal choice for both short visits and extended stays.
 
 With its strategic location, comprehensive amenities, and dedicated service, Hotel Deja is not just a place to stay but a gateway to experiencing the rich tapestry of Tirana's culture and charm.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

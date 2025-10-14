@@ -1,28 +1,5 @@
----
-title: Coral Hotel & Resort
-description: Guest accommodations at Coral Hotel & Resort are designed with comfort and convenience in mind. Each room is equipped with air conditioning, satellite TV, and a
-featuredImage: "/images/accommodation/150084193.jpg"
-language: en
-slug: coral-hotel-resort
-location: ""
-amenities: []
-images: []
----
-
-Guest accommodations at Coral Hotel & Resort are designed with comfort and convenience in mind. Each room is equipped with air conditioning, satellite TV, and a balcony that presents breathtaking views of the sea. The attention to detail extends to the private bathrooms, which are well-appointed with a shower, hairdryer, and bidet, not to mention the thoughtful addition of a minibar for personal refreshments.
+---\ntitle: "Coral Hotel & Resort"\ndescription: "Coral Hotel & Resort in Vlorë stands out for its prime location right by its own private pebbly beach, offering guests an exclusive slice of the coastline for water sports and relaxation."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150084193.jpg?k=6e6b0c51fb2aeaca0dfe2464e8b9a79e2b94feb016dc4c2b7342c4c94dfc2ea8&o=&hp=1"\nlanguage: en\nslug: coral-hotel-resort\naddress: "Rr. Vlore - Rradhime (Jonufer) , 9405 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "resort"\ncoordinates:\n  lat: 40.39127132\n  lng: 19.48083915\nprice: "US$66"\npriceFrom: 66\nstarRating: 4\nrating: 8\nratingWords: "Very Good"\nnumberOfReviews: 101\nratings:\n  overall: 8\n  location: 8.2\n  cleanliness: 8.2\n  facilities: 7.7\n  value: 7.5\n  comfort: 7.9\n  staff: 7.6\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150084193.jpg?k=6e6b0c51fb2aeaca0dfe2464e8b9a79e2b94feb016dc4c2b7342c4c94dfc2ea8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/37390463.jpg?k=83437fb032c86ce7565a5b2270e2d31bc871885e9362456c989e3a05b1a02943&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/37390609.jpg?k=8da07ef4d82dc48d5dfb1fd5b319e822d23088029953e5db13cac741d7f974fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/37390527.jpg?k=72cc8298169f536423aa61f965db270d9b9c58030d0c362722306e5ef9a12eee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/49163815.jpg?k=51a4711590953f03d9d6cdb795224b95eaa88a57e055f0a3c258f91df4a01e1c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/37390627.jpg?k=0e172e7d74e965b44eab224b45d613c4c0f7129c67405c3d8e7d249d1e790557&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Restaurant"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Private beach area"\n  - "Good breakfast"\nroomTypes:\n  - "Triple Room with Balcony and Sea View"\n  - "Junior Suite with Balcony and Sea View"\n  - "Family Suite with Balcony and Sea View (4 adults)"\n  - "Family Suite with Balcony and Sea View (5 adults)"\nnearbyRestaurants:\n  - "Keli 100 m"\n  - "Bora Bora 250 m"\nnearbyBeaches:\n  - "Vajana Beach 50 m"\n  - "Bora Bora Beach 200 m"\n  - "Vega Beach 350 m"\n  - "Pitushi's Beach 450 m"\n  - "La Playa Beach 600 m"\nwhatsNearby:\n  - "Scooby Doo Vlore 5 km"\n  - "Kuzum Baba 9 km"\n  - "Independence Square 9 km"\n  - "Llogora National Park 19 km"\nairports:\n  - "Corfu International Airport 94 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/coral-amp-resort.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuest accommodations at Coral Hotel & Resort are designed with comfort and convenience in mind. Each room is equipped with air conditioning, satellite TV, and a balcony that presents breathtaking views of the sea. The attention to detail extends to the private bathrooms, which are well-appointed with a shower, hairdryer, and bidet, not to mention the thoughtful addition of a minibar for personal refreshments.
 
 The establishment ensures round-the-clock service with its 24-hour front desk, catering to guests' needs at any hour. Adding to the charm is the on-site bar, complete with a spacious terrace that offers panoramic views of the sea, making it the perfect spot for unwinding.
 
 For those looking to explore beyond the resort, Kuzum Baba is situated approximately 9 km away, offering a glimpse into the local culture and history. Nature enthusiasts will appreciate the proximity to Llogara National Park, located 32 km from the hotel, offering a natural retreat. The center of Vlorë, with its vibrant life and attractions, is just 8 km away, while Tirana Airport is 155 km from the property, making Coral Hotel & Resort a convenient choice for both local and international travelers seeking a memorable stay by the Albanian coast.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

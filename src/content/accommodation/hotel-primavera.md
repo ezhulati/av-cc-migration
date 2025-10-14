@@ -1,30 +1,7 @@
----
-title: Hotel Primavera
-description: Accommodations at Hotel Primavera are thoughtfully designed with guest comfort in mind. Each room is equipped with a wardrobe, air conditioning, and a flat-scre
-featuredImage: "/images/accommodation/260555210.jpg"
-language: en
-slug: hotel-primavera
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Hotel Primavera are thoughtfully designed with guest comfort in mind. Each room is equipped with a wardrobe, air conditioning, and a flat-screen TV, ensuring a restful stay. The private bathrooms come stocked with complimentary toiletries, adding a touch of convenience to the daily routine. For those seeking a little extra, select rooms also feature balconies, offering a private outdoor space to unwind and soak in the surroundings.
+---\ntitle: "Hotel Primavera"\ndescription: "Hotel Primavera stands as a beacon of comfort and convenience in the heart of Sarandë, merely a stone's throw away from the pristine Flamingo Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260555210.jpg?k=943a2d0eb8190d4efc14341c54ac297827b0ed0ae80781ed15041b5c32b407d6&o=&hp=1"\nlanguage: en\nslug: hotel-primavera\naddress: "Lagja nr.1, Rruga Butrinti Cadastral Zone 8642, 9700 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.85666141\n  lng: 20.02084213\nprice: "US$44"\npriceFrom: 44\nstarRating: 3\nrating: 7.8\nratingWords: "Good"\nnumberOfReviews: 24\nratings:\n  overall: 7.8\n  location: 8.4\n  cleanliness: 7.9\n  facilities: 7.2\n  value: 7.3\n  comfort: 7.4\n  staff: 8.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260555210.jpg?k=943a2d0eb8190d4efc14341c54ac297827b0ed0ae80781ed15041b5c32b407d6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438133792.jpg?k=b4677e0dc5e64b4910dbd3ce51486804176f88c6519f8f4af83742db8211b055&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260553464.jpg?k=3610ca6e4a99760685ac384983d4bfdec91b5139ff8725e8ccdbc7c999fb1fa4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260553496.jpg?k=48408667ffaae7c7328d5124af6ccc7a7f3ef37b44346c1b7743b71ea1a37b2a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438133795.jpg?k=0af64ed5aa21f6f45639b704a4759e8e423842d79efdb45e1fa82909dc959991&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260553469.jpg?k=29b48fdd6dcd0bf57e199e9088de10d66d21ae4b623251fc4e38661be57ef6f9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260554867.jpg?k=085ba0d52101ebd2e1491324f6b3bb801870f3e14cd24fb1d56d3263e98e3185&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438133789.jpg?k=c4f3f4251f71ba5407686a0b2ac0230626e49e83d200e513364cfb64631bfddf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260553475.jpg?k=dd7e9dd348470e1694d2bd616ca1c8ee2d4c1fd46c5de6ac3a3c597f45e94b44&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Terrace"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Triple Room with Balcony"\n  - "Quadruple Room with Balcony"\n  - "Family Room with Balcony"\nnearbyRestaurants:\n  - "Baken Grill 5 m"\n  - "Salad Farm 50 m"\nnearbyBeaches:\n  - "Flamingo Beach 100 m"\n  - "Santa Quaranta Beach 150 m"\n  - "VIP Beach 200 m"\n  - "Mango Beach 250 m"\n  - "Maestral Beach 1.1 km"\nwhatsNearby:\n  - "Parc National de Butrint 450 m"\n  - "Butrint National Park 800 m"\n  - "Plazhi I Krorezes 7 km"\n  - "Parku Kombetar I Butrintit 10 km"\n  - "Butrint National Park 10 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 70 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/alexander-sarande12.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Hotel Primavera are thoughtfully designed with guest comfort in mind. Each room is equipped with a wardrobe, air conditioning, and a flat-screen TV, ensuring a restful stay. The private bathrooms come stocked with complimentary toiletries, adding a touch of convenience to the daily routine. For those seeking a little extra, select rooms also feature balconies, offering a private outdoor space to unwind and soak in the surroundings.
 
 Connectivity is never an issue, as guests can enjoy the benefits of free WiFi throughout their stay. Additionally, for those looking to explore beyond the hotel's confines or needing assistance with travel arrangements, a paid airport shuttle service is readily available.
 
 The hotel's proximity to other local attractions only adds to its appeal. Santa Quaranta Beach and VIP Beach are both within a short 300 to 400-meter stroll, offering ample opportunities for sunbathing, swimming, and seaside relaxation. For travelers arriving by air, Ioannina Airport is located 97 km away, making Hotel Primavera an accessible choice for both domestic and international visitors.
 
 In summary, Hotel Primavera presents a compelling option for travelers seeking a blend of convenience, comfort, and accessibility in Sarandë. Its thoughtful amenities, coupled with its enviable location near some of the area's most beautiful beaches, make it a standout choice for those looking to savor the coastal charm of this vibrant city.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

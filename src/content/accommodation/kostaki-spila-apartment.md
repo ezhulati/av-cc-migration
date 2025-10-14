@@ -1,28 +1,5 @@
----
-title: Kostaki spila apartment
-description: The apartment itself presents a harmonious blend of home comforts, featuring a single bedroom, a bathroom, and a kitchen equipped with everything needed for a s
-featuredImage: "/images/accommodation/466060895.jpg"
-language: en
-slug: kostaki-spila-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself presents a harmonious blend of home comforts, featuring a single bedroom, a bathroom, and a kitchen equipped with everything needed for a self-sufficient stay. Entertainment needs are met with the inclusion of a flat-screen TV, making downtime enjoyable after a day of exploration.
+---\ntitle: "Kostaki spila apartment"\ndescription: "Kostaki Spila Apartment emerges as a prime choice for travelers seeking comfort and convenience in Himare."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466060895.jpg?k=0574a377cb28028a6f6bd592bd6b6537fbd2d934698d63a34f47facf0d5b676a&o=&hp=1"\nlanguage: en\nslug: kostaki-spila-apartment\naddress: "SH8, Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.10263019\n  lng: 19.7445577\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nrating: 7.8\nratingWords: "Good"\nnumberOfReviews: 2\nratings:\n  overall: 7.8\n  location: 8.8\n  cleanliness: 7.5\n  facilities: 6.3\n  value: 6.3\n  comfort: 8.8\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466060895.jpg?k=0574a377cb28028a6f6bd592bd6b6537fbd2d934698d63a34f47facf0d5b676a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466060884.jpg?k=4311e21ec486d212c51a721bc43ad903c8ee4f33b5a475ca454a3fb973ede58a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466060823.jpg?k=a30c200367232a05a6f225168d0bf39f61031a92045c9df5ab9e21fa4c92d251&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466061026.jpg?k=236fc41255fedfb7817b02f6dafcca553f8fe73f132677ec0d540f749e074260&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466060999.jpg?k=8deb0b53d9f3f83b5602c43a67140b326fdbc347627feeef2bc1e19be352848f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466060913.jpg?k=41356cd741da6dc2bb9148c5aa403ab9916ec02aec69b7522f3cce04df6d61e7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466060978.jpg?k=e200610e148683afc04ddcaf37b1f28865e26b373e3bc74f23edb017776ec89b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466060937.jpg?k=508ac0c1227963167d7c07a5d442f72c727ce790cbd4e51f241e9c3e6939dac3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466061050.jpg?k=124bc919fa5a9c32b20342b6956ba320ff3d144ea7f98383ff672703c008a6e9&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Sunren 20 m"\n  - "Restorant Piceri Mumbas 50 m"\nnearbyBeaches:\n  - "Spille Beach 150 m"\n  - "Maracit Beach 450 m"\n  - "Prinos Beach 700 m"\n  - "Potam Beach 1.1 km"\n  - "Livadhi Beach 1.2 km"\nwhatsNearby:\n  - "Llogora National Park 16 km"\nairports:\n  - "Corfu International Airport 56 km"\nbookingURL: "https://www.booking.com/hotel/al/kostaki-spila-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself presents a harmonious blend of home comforts, featuring a single bedroom, a bathroom, and a kitchen equipped with everything needed for a self-sufficient stay. Entertainment needs are met with the inclusion of a flat-screen TV, making downtime enjoyable after a day of exploration.
 
 For those keen to explore the local coastline, Maracit Beach is within a short 600-meter stroll, and the picturesque Prinos Beach is only 1 km away, offering ample opportunities for sunbathing and swimming. Despite its tranquil location, the property maintains a strict non-smoking policy, ensuring a clean and fresh environment for all guests.
 
 Situated 143 km from Ioannina Airport, Kostaki Spila Apartment represents an ideal retreat for those looking to immerse themselves in the beauty of Himare while enjoying the comforts of a well-appointed apartment.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

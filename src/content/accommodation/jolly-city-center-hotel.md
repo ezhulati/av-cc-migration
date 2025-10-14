@@ -1,15 +1,5 @@
----
-title: Jolly City Center Hotel
-description: Guests can enjoy the luxury of modern, air-conditioned rooms equipped with flat-screen TVs boasting satellite channels, minibars, and desks for those needing to
-featuredImage: "/images/accommodation/166622499.jpg"
-language: en
-slug: jolly-city-center-hotel
-location: ""
-amenities: []
-images: []
----
-
-Guests can enjoy the luxury of modern, air-conditioned rooms equipped with flat-screen TVs boasting satellite channels, minibars, and desks for those needing to stay connected. The convenience extends to the private bathrooms, each featuring a shower and hairdryer, ensuring a comfortable stay.
+---\ntitle: "Jolly City Center Hotel"\ndescription: "Discover the charm of Tirana from the comfort of Jolly City Center Hotel, a gem located just a short stroll from the historic Tirana Castle."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/166622499.jpg?k=483a91c35614e4261a06afa1758e0d9cb2d48ac2d9953d382111568565de884b&o=&hp=1"\nlanguage: en\nslug: jolly-city-center-hotel\naddress: "Avni Rustemi Square, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.32970102\n  lng: 19.82543796\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 788\nratings:\n  overall: 8.5\n  location: 9.4\n  cleanliness: 8.2\n  facilities: 7.6\n  value: 8.3\n  comfort: 7.9\n  staff: 9.2\n  wifi: 9.1\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/166622499.jpg?k=483a91c35614e4261a06afa1758e0d9cb2d48ac2d9953d382111568565de884b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/36889037.jpg?k=b11fd6eabbcf6c6058f3e48446c88d3d3b3360644fe32489904abf6cfe6ca957&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105668863.jpg?k=c5d2ca8a0b183b77863e4bb6d22c4c833f4b50f2b5be72acd2f87408b3d68859&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/91361437.jpg?k=f49d3c627fabdc0ef7010dfc077ad3cec7c1f84cb2a895f70de3f18f9b8f6c09&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/166622717.jpg?k=934de3b7c0c32e1e7e7afcac970b857d85de3df2a208d4aeea844b32993c3563&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/36888656.jpg?k=10f10cc602b5099cb915780dcc80306210e412af4aa7ae5b60981bccb7fce62d&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Good breakfast"\nroomTypes:\n  - "Economy Single Room"\n  - "Single Room"\n  - "Classic Twin Room"\nnearbyAttractions:\n  - "Rinia Park 800 m"\n  - "House of Leaves 800 m"\n  - "Former Residence of Enver Hoxha 1.2 km"\n  - "Grand Park of Tirana 2 km"\n  - "Bunk'Art 1 Museum 3.7 km"\nnearbyRestaurants:\n  - "Rossini Gastropub 20 m"\n  - "Milky Tirana 50 m"\nwhatsNearby:\n  - "Sheshi Rekreativ tek ish ATSh 200 m"\n  - "Sheshi Sulejman Pasha 350 m"\n  - "Tanners' Bridge 350 m"\n  - "Clock Tower Tirana 500 m"\n  - "National Gallery of Arts Tirana 550 m"\n  - "Skanderbeg Square 550 m"\n  - "Parku Europa 600 m"\n  - "Sheshi Skënderbej 650 m"\n  - "Amazing Nature 650 m"\n  - "National Museum of History Albania 700 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 78 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Mal"\n    country: "United Kingdom"\n    text: "“Food was sufficient for breakfast , Angela was so helpful and very pleasant”"\n  - name: "David"\n    country: "Canada"\n    text: "“The location was outstanding - only a 10 minute walk from the airport bus drop-off location. Lots of cafes and bars close by.
+Staff were very friendly, patient and helpful.”"\n  - name: "Julien"\n    country: "Brazil"\n    text: "“Great location and breakfast. Very available personnel. Quiet and comfy”"\nbookingURL: "https://www.booking.com/hotel/al/jolly.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests can enjoy the luxury of modern, air-conditioned rooms equipped with flat-screen TVs boasting satellite channels, minibars, and desks for those needing to stay connected. The convenience extends to the private bathrooms, each featuring a shower and hairdryer, ensuring a comfortable stay.
 
 For those eager to explore local cuisine, the hotel is just steps away from a restaurant renowned for its traditional Albanian specialties and Italian cuisine. Additionally, a grocery store is conveniently located 10 meters from the hotel, and the surrounding area is a treasure trove of bars with inviting summer terraces.
 
@@ -18,19 +8,3 @@ The Jolly City Center Hotel goes beyond just a place to stay, offering to arrang
 Transportation is a breeze, with a bus stop merely 200 meters away and a train station 1.2 km from the hotel. For those flying in, Tirana International Airport is 18 km away, with shuttle service available upon request.
 
 The Jolly City Center Hotel stands as a perfect base for travelers looking to experience the vibrant life of Tirana, offering both the excitement of the city and the comforts of home.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,7 @@
----
-title: Mira Orikum
-description: The accommodations at Mira Orikum are thoughtfully designed, each featuring a terrace that presents tranquil street views, perfect for guests seeking a peaceful
-featuredImage: "/images/accommodation/478420561.jpg"
-language: en
-slug: mira-orikum
-location: ""
-amenities: []
-images: []
----
-
-The accommodations at Mira Orikum are thoughtfully designed, each featuring a terrace that presents tranquil street views, perfect for guests seeking a peaceful escape. Inside, the units are equipped with flat-screen TVs, dining areas, and well-appointed kitchens, alongside private bathrooms complete with bidets, hair dryers, and complimentary toiletries, ensuring a stay that combines the comforts of home with the luxuries of a holiday retreat.
+---\ntitle: "Mira Orikum"\ndescription: "Mira Orikum stands out as a serene retreat, just over a kilometer from the pristine sands of Nettuno Beach, offering guests a blend of comfort and convenience with its air-conditioned accommodations that boast private balconies and complimentary WiFi."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478420561.jpg?k=5336e5a817adcdb42f2d013061e43982edb4dd60750e6a34a1083066db4a04d2&o=&hp=1"\nlanguage: en\nslug: mira-orikum\naddress: "Rruga Orikum, Orikum, Albania"\ncity: "Orikum"\nlocation: "Orikum"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.32812177\n  lng: 19.47178651\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 5\nratings:\n  overall: 9.3\n  location: 9.5\n  cleanliness: 9\n  facilities: 9\n  value: 9\n  comfort: 9\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478420561.jpg?k=5336e5a817adcdb42f2d013061e43982edb4dd60750e6a34a1083066db4a04d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478061453.jpg?k=0851bed5a70355bdee11f9b168e9136da3d58429332cf7d4944d40186f419aad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478061426.jpg?k=63734f59471b19ded006f81f2b76bc74d929047e8b27c5ac2eb6647d7a4b6f37&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478061451.jpg?k=65a64621759c6b94adc7c2e431defe937c96f286b94f5278a484b9b8da57a241&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478061429.jpg?k=eca1b553c97a39060bec887b182253f8a73ac023e433b35958b01856571530e6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478061444.jpg?k=e18e15739fd1c7b07f4726f8da6ca3dae7b69d7a068242f14fc725434b215712&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478061414.jpg?k=21c26718f449ee7be58a8d3fdf83cb59412c723431f0390f9792adad74c2a5db&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478061435.jpg?k=1f290c47a8762cbf22068c9fe025a05e035af64813ca31b9c0b12bb949bb1573&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478061419.jpg?k=59582b360cc44099ffafb9e4b99e3748696e4b5d6840f8a864f89c4b74d0acf6&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Las Belo 200 m"\n  - "Mats Beach Bar and Cafe 300 m"\nnearbyBeaches:\n  - "Nettuno Beach 950 m"\n  - "Orikum Beach 1.2 km"\n  - "Baro Beach 1.6 km"\n  - "Al Breeze Beach 2.2 km"\n  - "Radhimë Beach 2.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 12 km"\n  - "Llogora National Park 13 km"\n  - "Kuzum Baba 16 km"\n  - "Independence Square 16 km"\nairports:\n  - "Corfu International Airport 88 km"\nreviews:\n  - name: "Marino"\n    country: "Italy"\n    text: "“L’appartamento è al piano terra, e comodo da arrivarci.
+È a conduzione familiare, e i proprietari sono davvero persone gentilissime, parlano benissimo l’italiano e ci hanno mostrato proprio una grande voglia di farci stare bene.
+Vicino c’è tutto,...”"\nbookingURL: "https://www.booking.com/hotel/al/mira-orikum.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodations at Mira Orikum are thoughtfully designed, each featuring a terrace that presents tranquil street views, perfect for guests seeking a peaceful escape. Inside, the units are equipped with flat-screen TVs, dining areas, and well-appointed kitchens, alongside private bathrooms complete with bidets, hair dryers, and complimentary toiletries, ensuring a stay that combines the comforts of home with the luxuries of a holiday retreat.
 
 For those who appreciate the joy of dining al fresco, Mira Orikum offers an inviting outdoor dining area, allowing guests to savor their meals under the open sky. The property's location is ideal for beach enthusiasts, with Orikum Beach just a short 1.2 km stroll away, and the more secluded Baro Beach within a 2 km reach, offering ample opportunities for sunbathing and seaside relaxation.
 
 Situated 167 km from Tirana International Mother Teresa Airport, Mira Orikum is a choice destination for travelers seeking a tranquil beachside getaway that promises both privacy and ease of access to the area's scenic beaches.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

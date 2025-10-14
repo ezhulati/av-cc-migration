@@ -1,15 +1,4 @@
----
-title: Hotel Kompleksi Arifi
-description: Each room at Kompleksi Arifi is thoughtfully equipped with modern amenities to ensure a comfortable stay. Guests can expect air-conditioned rooms featuring a pr
-featuredImage: "/images/accommodation/260406219.jpg"
-language: en
-slug: hotel-kompleksi-arifi
-location: ""
-amenities: []
-images: []
----
-
-Each room at Kompleksi Arifi is thoughtfully equipped with modern amenities to ensure a comfortable stay. Guests can expect air-conditioned rooms featuring a private bathroom complete with a hairdryer. For entertainment and convenience, each room is fitted with a flat-screen cable TV and a minibar, the latter of which is generously complimentary for all guests.
+---\ntitle: "Hotel Kompleksi Arifi"\ndescription: "Discover the charm of Hotel Kompleksi Arifi, a hidden gem conveniently located just a short 5-minute stroll from the breathtaking Shkodra Lake and the historic Rosafa Castle."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260406219.jpg?k=8777c68642acf7720184c597047962a624c54fabe68847195ee23009031c2f29&o=&hp=1"\nlanguage: en\nslug: hotel-kompleksi-arifi\naddress: "L. Liria, Blv. Zogu I, 4000 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.05466609\n  lng: 19.4988817\nprice: "US$27"\npriceFrom: 27\nstarRating: 3\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 93\nratings:\n  overall: 8.2\n  location: 7.7\n  cleanliness: 7.9\n  facilities: 7.8\n  value: 8.3\n  comfort: 8.1\n  staff: 9.2\n  wifi: 8.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260406219.jpg?k=8777c68642acf7720184c597047962a624c54fabe68847195ee23009031c2f29&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312327476.jpg?k=af2574e5e5883b07e38fd4589dcefc33843ad947c5542a913dc2021707bf56a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312327450.jpg?k=dbbf7fa92dd9b0bed1f84bc3f5e2eda49800be4d5f55e6bce273f9c406df21f5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312327594.jpg?k=4c2f016623f776f48a03a8f6c1ecab659e78f4593ceb528372b634d15912f13a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260411941.jpg?k=a0b4ccf87b0ac1c2e0e6c8d5ba6bda0c303cdd52acba8298fb0ac4f1beff9b51&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384773464.jpg?k=14a781bb8c811e6ae8ceb10324939eb013f6e8dfd4118807de545cdae2943dbc&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Single Room"\n  - "Double Room"\n  - "Twin Room"\n  - "Classic Triple Room"\n  - "Family Room"\nnearbyRestaurants:\n  - "CAFFE Molinari 20 m"\n  - "Flaer Bar 50 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 1 km"\n  - "National Park Skadar Lake 9 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 72 km"\n  - "Tivat Airport 73 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Afonso"\n    country: "Portugal"\n    text: "“Family owned hotel. Super friendly. We had great conversations with the hosts and got offered a coffee at our arrival. If there was anything we needed, we could text anytime. Good breakfast, very comfortable bed. Close to all amenities. Recommended!”"\n  - name: "Gjonça"\n    country: "Albania"\n    text: "“It was near the city center and Shiroka also. Very clean and comfortable rooms. The staff was always responsive and friendly.”"\n  - name: "Hugo"\n    country: "United Kingdom"\n    text: "“Staff were so kind and accomodating. Room very nice”"\nbookingURL: "https://www.booking.com/hotel/al/kompleksi-arifi.en-gb.html?aid=8035640"\nbestFor: "Best for Historical Sites Proximity"\nbestCategories: "Historical Sites Proximity"\ncategory: "Historical Sites Proximity"\n---\n\nEach room at Kompleksi Arifi is thoughtfully equipped with modern amenities to ensure a comfortable stay. Guests can expect air-conditioned rooms featuring a private bathroom complete with a hairdryer. For entertainment and convenience, each room is fitted with a flat-screen cable TV and a minibar, the latter of which is generously complimentary for all guests.
 
 The hotel's on-site restaurant is a cozy spot where guests can start their day with a delightful breakfast. Families will appreciate the games room, designed to keep children entertained. For those who need to stay connected, free WiFi is available in public areas. Moreover, Kompleksi Arifi goes beyond the typical hotel experience by offering organized tours to nearby attractions, including the serene Komani Lake and the picturesque Valbona Valley.
 
@@ -18,19 +7,3 @@ For everyday needs, there's a supermarket just a 2-minute walk away. Sports enth
 Transportation is a breeze, with a bus station located just 50 meters from the hotel, ensuring easy access to and from the property. For those flying in, Tirana Airport is 80 km away, and guests driving to the hotel will find free public parking on site.
 
 Hotel Kompleksi Arifi stands out as a prime choice for travelers seeking a comfortable and convenient stay in Shkodër, offering a perfect blend of modern amenities, strategic location, and warm hospitality.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

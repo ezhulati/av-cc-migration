@@ -1,30 +1,7 @@
----
-title: Apartment Leandro
-description: The apartment itself is a haven of modern living, featuring two well-appointed bedrooms that promise a restful night's sleep. The living space is enhanced by th
-featuredImage: "/images/accommodation/379754483.jpg"
-language: en
-slug: apartment-leandro
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of modern living, featuring two well-appointed bedrooms that promise a restful night's sleep. The living space is enhanced by the inclusion of a flat-screen TV and a fully equipped kitchenette, catering to all the needs of contemporary travelers. The air-conditioned environment ensures a comfortable retreat from the warm Mediterranean climate.
+---\ntitle: "Apartment Leandro"\ndescription: "Apartment Leandro stands out as a prime choice for travelers seeking comfort and convenience in the heart of Ksamil."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379754483.jpg?k=5d3aa01d44b8d76fa1b6d39730f094963e43b2f4b6c5af8b6c30d61df997354e&o=&hp=1"\nlanguage: en\nslug: apartment-leandro\naddress: "Apollonia Street, Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.76799809\n  lng: 20.00024542\nprice: "US$59"\npriceFrom: 59\nstarRating: 3\nrating: 7.7\nratingWords: "Good"\nnumberOfReviews: 8\nratings:\n  overall: 7.7\n  location: 8.1\n  cleanliness: 7.5\n  facilities: 7.2\n  value: 7.2\n  comfort: 7.5\n  staff: 8.4\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379754483.jpg?k=5d3aa01d44b8d76fa1b6d39730f094963e43b2f4b6c5af8b6c30d61df997354e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379754628.jpg?k=a028eb4f81520920e2c5a7fc2307ef808c44b3d04623a62ea20b123b6653340d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379754640.jpg?k=92c40f4f0c79d4d4a6cfff58ebe10bf643e012403ed5596e18d7a69f283b6874&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379754651.jpg?k=4607b66988b484358b7417a36df0be757f2aede05bec162cd22b9bfcc0fda76f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379754656.jpg?k=38790f1e6d3c168a3c22f19e7e1b823a0dff26f167815ef2ee810f6273026a7b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379754662.jpg?k=0a9e3339fd1ce02ae3989df0eb59ad59a0a0fbb64fe98bfe6af76d7e086ea6b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379754669.jpg?k=822f51b7aba13f3054cdb7595473de35ff7419f295e99d967509c8f506cc2130&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379754676.jpg?k=c31123a470717fcee5714d84c8062a1a83a021f56160d1e4f6b8b6bad44929ed&o=&hp=1"\namenities:\n  - "Free parking"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "Museum of Banknotes 17 km"\n  - "New Fortress 17 km"\n  - "Serbian Museum 18 km"\n  - "Theotoki G. Square 18 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 18 km"\n  - "Trion Martiron Park 19 km"\n  - "Mon Repos Palace 19 km"\n  - "Kapodistrias Museum 20 km"\nnearbyRestaurants:\n  - "Restorant Piceri Palma 50 m"\n  - "Palma 50 m"\nnearbyBeaches:\n  - "Ksamil Beach 9 150 m"\n  - "Bora Bora Beach 350 m"\n  - "Paradise Beach 400 m"\n  - "Ksamil Beach 7 400 m"\n  - "Lori Beach 500 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 200 m"\n  - "Butrint National Park 2.8 km"\n  - "Plazhi I Krorezes 3.6 km"\n  - "Parc National de Butrint 10 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 17 km"\n  - "Old Fortress 17 km"\nairports:\n  - "Corfu International Airport 19 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/apartment-leandro.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of modern living, featuring two well-appointed bedrooms that promise a restful night's sleep. The living space is enhanced by the inclusion of a flat-screen TV and a fully equipped kitchenette, catering to all the needs of contemporary travelers. The air-conditioned environment ensures a comfortable retreat from the warm Mediterranean climate.
 
 Adding to the charm of Apartment Leandro is its dedicated non-smoking policy, ensuring a clean and fresh environment for all guests. The property also prides itself on its lovely terrace, offering a tranquil spot to unwind after a day of sun-soaked adventures. Located merely 200 meters from the less frequented Ksamil Beach 9, guests have the luxury of enjoying serene beach moments almost at their doorstep.
 
 For those intrigued by the rich tapestry of history and nature, the Butrint National Park is a mere 2.8 km away, presenting an opportunity to immerse in the area's cultural heritage and natural beauty. Furthermore, the proximity to Corfu International Airport, 92 km away, positions Apartment Leandro as an accessible retreat for international travelers.
 
 In summary, Apartment Leandro emerges as a top-tier accommodation choice, blending the comforts of modern living with the enchanting beauty of Ksamil's coastal landscape.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

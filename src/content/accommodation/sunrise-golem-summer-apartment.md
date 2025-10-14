@@ -1,30 +1,7 @@
----
-title: Sunrise Golem Summer Apartment
-description: Strategically positioned, the apartment is a comfortable distance from notable landmarks, including the historic Skanderbeg Square and the thrilling Dajti Ekspr
-featuredImage: "/images/accommodation/477525805.jpg"
-language: en
-slug: sunrise-golem-summer-apartment
-location: ""
-amenities: []
-images: []
----
-
-Strategically positioned, the apartment is a comfortable distance from notable landmarks, including the historic Skanderbeg Square and the thrilling Dajti Ekspres Cable Car, both approximately 43 km away. Additionally, the intriguing Rock of Kavaje is a short 1.4 km journey, making it an easy detour for those intrigued by local natural wonders.
+---\ntitle: "Sunrise Golem Summer Apartment"\ndescription: "Sunrise Golem Summer Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477525805.jpg?k=0fa36ca461e17c7d397f6970954db8515cbf439ad600ee4265db7f6ad94f1e43&o=&hp=1"\nlanguage: en\nslug: sunrise-golem-summer-apartment\naddress: "rruga butrinti golem building 1, floor 4, apt 29, 2000 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.26832678\n  lng: 19.51993991\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 9.6\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 7.5\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477525805.jpg?k=0fa36ca461e17c7d397f6970954db8515cbf439ad600ee4265db7f6ad94f1e43&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477525815.jpg?k=bfc96a6436e94fc0d0c360d99e6e88453442457c0616627af9caf121e0e65c9f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477525832.jpg?k=567cc37e1a4671dad30381a2e757e376a8b59be655292b3dcd4831cbbc5e1102&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477525813.jpg?k=521337fb4c1b1e1d4f67551af51f5741affb034f6945c67d41e18ba0196b99cb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477525814.jpg?k=d1b5e1161d6c78893c5b07831f00613cd5fb500b708ee77ab989c0509437bdc0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477525808.jpg?k=91f63edd7508c055f9e96fcbd9a77dd86c004bae404ba2c2ed7830c907003b34&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477525835.jpg?k=f8823f0b3816b06f93f340ed560cf6444207543a93f41298e5c27465ba516eed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477525845.jpg?k=d2c0391d115a2af9f11b281d5c186fe9156fa008c2fd2db433392f567f25d471&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477525829.jpg?k=83577a304c979ce22fd888d1eefc6ec787dc368f75cebd168237538093db673a&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Grill & Pizza Peja 20 m"\n  - "Fresh Fish 250 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 150 m"\n  - "Golem Beach 350 m"\n  - "Durres Beach 2.1 km"\n  - "Mali I Robit Beach 2.3 km"\n  - "Qerret Beach 4.3 km"\nwhatsNearby:\n  - "Bekimi 8 km"\n  - "Durres Amphiteatre 8 km"\n  - "Wine Dhe Pooh 8 km"\n  - "1. Maj 8 km"\n  - "Yje Dhe Hena 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "Sotir Noka 9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nreviews:\n  - name: "Bojan"\n    country: "Bosnia and Herzegovina"\n    text: "“Top lokacija. Apartman je prostran. Sadržaj u njemu sasvim OK.”"\nbookingURL: "https://www.booking.com/hotel/al/sunrise-golem-summer-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nStrategically positioned, the apartment is a comfortable distance from notable landmarks, including the historic Skanderbeg Square and the thrilling Dajti Ekspres Cable Car, both approximately 43 km away. Additionally, the intriguing Rock of Kavaje is a short 1.4 km journey, making it an easy detour for those intrigued by local natural wonders.
 
 The accommodation itself boasts an air-conditioned environment, ensuring a cool and comfortable stay regardless of the outdoor temperatures. Guests will find themselves at home in a space that includes a separate bedroom, a cozy living room, a fully equipped kitchenette for those preferential home-cooked meals, and a well-maintained bathroom. Entertainment needs are met with a flat-screen TV, perfect for unwinding after a day of exploration.
 
 For history enthusiasts, the apartment offers proximity to the Former Residence of Enver Hoxha, located 43 km away, and the Durres Amphitheatre, a significant historical site just 12 km from the doorstep. Moreover, the convenience of travel is underscored by the proximity to Tirana International Mother Teresa Airport, situated 37 km away, facilitating easy arrivals and departures.
 
 In summary, Sunrise Golem Summer Apartment presents itself as an ideal lodging option for those looking to explore the rich tapestry of Durrës and its surroundings, providing a comfortable base equipped with all the essentials for a memorable stay.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

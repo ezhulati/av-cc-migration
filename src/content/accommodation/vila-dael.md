@@ -1,28 +1,5 @@
----
-title: Vila Dael
-description: "Each room at Vila Dael is thoughtfully furnished, featuring essential amenities such as a wardrobe, a flat-screen TV, and a private bathroom, compleme..."
-featuredImage: "/images/accommodation/471400365.jpg"
-language: en
-slug: vila-dael
-location: ""
-amenities: []
-images: []
----
-
-Each room at Vila Dael is thoughtfully furnished, featuring essential amenities such as a wardrobe, a flat-screen TV, and a private bathroom, complemented with fresh bed linen and towels to enhance the stay of every guest.
+---\ntitle: "Vila Dael"\ndescription: "Vila Dael emerges as a prime choice for travelers seeking comfort and convenience, merely a stone's throw away from the serene Durres Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471400365.jpg?k=e6ee13ed63a50c53d271b3455bc80e77614805afad1ecd02fc71785217945803&o=&hp=1"\nlanguage: en\nslug: vila-dael\naddress: "Rruga Pavaresia, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.31396727\n  lng: 19.47654288\nprice: "US$24"\npriceFrom: 24\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 7\nratings:\n  overall: 9\n  location: 9.3\n  cleanliness: 8.9\n  facilities: 8.8\n  value: 8.9\n  comfort: 8.9\n  staff: 8.9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471400365.jpg?k=e6ee13ed63a50c53d271b3455bc80e77614805afad1ecd02fc71785217945803&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482302689.jpg?k=b9bf4f18d135eb8a851b83c7a26bab1e70fb8e0bbbdbf24f7fbdf866424e828b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482303118.jpg?k=81c7591ea4b632017e6c730286734db0f84fb8274e10e794d134ccca3b9686ff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471400360.jpg?k=064b6dc38a24c5ab5db8b7bae2c9cfd93904b0c893156a18f0c664863c6dc37d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482302835.jpg?k=e015f8c10c81de999700e198cefc8c7340ebfdf16eda0587e44748918327a64c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471400349.jpg?k=5c7e23659fb5cde460175086d6b9466a096310ac12bd7509811bf78869da98ce&o=&hp=1"\namenities:\n  - "Private parking"\n  - "Free WiFi"\nroomTypes:\n  - "Double Room with Balcony"\n  - "Triple Room"\nnearbyRestaurants:\n  - "Wine IF12 10 m"\n  - "Recep Tayyip Erdogan 50 m"\nnearbyBeaches:\n  - "Durres Beach 100 m"\n  - "Currila Beach 2.6 km"\n  - "Kallmi Beach 3.7 km"\n  - "Shkëmbi i Kavajës Beach 4.1 km"\n  - "West End Beach 4.7 km"\nwhatsNearby:\n  - "Bekimi 1.6 km"\n  - "Wine Dhe Pooh 2.3 km"\n  - "Sheshi Demokracia 2.4 km"\n  - "Yje Dhe Hena 2.5 km"\n  - "Sotir Noka 2.6 km"\n  - "Durres Amphiteatre 2.6 km"\n  - "1. Maj 2.8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nreviews:\n  - name: "Arta"\n    country: "Italy"\n    text: "“La posizione stupenda, camere pulite,grandi e confortevoli. Staff gentilissimo e disponibile!”"\nbookingURL: "https://www.booking.com/hotel/al/vila-dael.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach room at Vila Dael is thoughtfully furnished, featuring essential amenities such as a wardrobe, a flat-screen TV, and a private bathroom, complemented with fresh bed linen and towels to enhance the stay of every guest.
 
 For moments of leisure, the property hosts a welcoming garden, inviting guests to unwind in a peaceful setting.
 
 Strategically located, Vila Dael serves as an ideal base for exploring the local area. The intriguing Rock of Kavaje is situated just 7.6 km away, while the historical Former Residence of Enver Hoxha is within a 37 km reach. The vibrant Skanderbeg Square and the adventurous Dajti Ekspres Cable Car are also accessible, located 37 km and 41 km away, respectively. For those traveling by air, Tirana International Mother Teresa Airport is conveniently 31 km from the guest house, making Vila Dael a top selection for both domestic and international visitors.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

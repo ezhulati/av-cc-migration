@@ -1,30 +1,7 @@
----
-title: Queens Luxury Apartments Tirana
-description: Guests at Queens Luxury Apartments Tirana are treated to a seamless stay experience, courtesy of complimentary private parking, an on-site restaurant, and the c
-featuredImage: "/images/accommodation/426556163.jpg"
-language: en
-slug: queens-luxury-apartments-tirana
-location: ""
-amenities: []
-images: []
----
-
-Guests at Queens Luxury Apartments Tirana are treated to a seamless stay experience, courtesy of complimentary private parking, an on-site restaurant, and the convenience of an elevator and luggage storage space. The promise of free WiFi throughout the premises ensures that connectivity needs are met with ease.
+---\ntitle: "Queens Luxury Apartments Tirana"\ndescription: "Queens Luxury Apartments Tirana emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426556163.jpg?k=32c8955da5276627c94fba6b34864e07b9561244ca7374c14ca3a2dcacf66369&o=&hp=1"\nlanguage: en\nslug: queens-luxury-apartments-tirana\naddress: "60 Rruga e Elbasanit, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31907399\n  lng: 19.82752422\nprice: "US$128"\npriceFrom: 128\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 35\nratings:\n  overall: 9.9\n  location: 9.8\n  cleanliness: 9.9\n  facilities: 9.9\n  value: 9.7\n  comfort: 9.9\n  staff: 9.9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426556163.jpg?k=32c8955da5276627c94fba6b34864e07b9561244ca7374c14ca3a2dcacf66369&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426556086.jpg?k=0f4007e1b52c93d8fcd7dadf2d5d097be779e8212c008e8ad0947446cd80c2c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431231109.jpg?k=0b1f26d10a5c16a70d31ce3d138dd155d1ccc953a3cd4fd5ed6085a327c85db3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426555953.jpg?k=294a2bee1f9ff2605c56791138bf3774a0f575ef922e180a9e75f86f9a1f97b5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431229640.jpg?k=a01ccfacb1a9fffc8ee3f48a4b2afd04382f64c00edf3a79dd8d31e1c6f0e331&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431294369.jpg?k=0d25a925ae3d370c6032f00341829e15c0ee7cdd60669b66a1601c46ebb89cf9&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fast free WiFi (75 Mbps)"\n  - "Restaurant"\n  - "Family rooms"\nroomTypes:\n  - "Apartment with Mountain View"\nnearbyAttractions:\n  - "Rinia Park 1,000 m"\n  - "Clock Tower Tirana 1.2 km"\n  - "Skanderbeg Square 1.2 km"\n  - "House of Leaves 1.3 km"\n  - "National Museum of History Albania 1.4 km"\n  - "Bunk'Art 1 Museum 4.4 km"\nnearbyRestaurants:\n  - "Mon Cheri coffee shop 40 m"\n  - "Dion Club 50 m"\nwhatsNearby:\n  - "Sheshi Rekreativ tek Arena Kombëtare 150 m"\n  - "Shesh Rekreativ 150 m"\n  - "Parku I Madh 400 m"\n  - "Shesh Rekreativ 600 m"\n  - "Sheshi Rekreativ Piramida 650 m"\n  - "Grand Park of Tirana 800 m"\n  - "Tanners' Bridge 850 m"\n  - "Former Residence of Enver Hoxha 900 m"\n  - "National Gallery of Arts Tirana 1,000 m"\n  - "Sheshi Rekreativ tek ish ATSh 1,000 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\nreviews:\n  - name: "Paul"\n    country: "Ireland"\n    text: "“Clean , comfortable host very helpful and friendly”"\n  - name: "Simbora"\n    country: "Belgium"\n    text: "“Everything was perfectly and professionaly realised I am very happy”"\n  - name: "Natalia"\n    country: "Ireland"\n    text: "“Everything is so modern and new, absolutely gorgeous apartment and so close to everything. Even a grocery shop is right around the corner.”"\nbookingURL: "https://www.booking.com/hotel/al/queens-luxury-apartments-10-1-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for Luxury"\nbestCategories: "Luxury"\ncategory: "Luxury"\n---\n\nGuests at Queens Luxury Apartments Tirana are treated to a seamless stay experience, courtesy of complimentary private parking, an on-site restaurant, and the convenience of an elevator and luggage storage space. The promise of free WiFi throughout the premises ensures that connectivity needs are met with ease.
 
 Each apartment is a testament to modern living, equipped with air conditioning, a fully equipped kitchen, a flat-screen TV, and a private bathroom with a shower, catering to the needs of families and solo travelers alike.
 
-For those peckish moments, the snack bar on-site offers quick bites without the need to venture far.
+For those peckish moments, the snack bar on-site offers quick bites without the need to venture far. 
 
 The property's proximity to notable attractions such as the Postbllok - Checkpoint Monument, Saint Paul Cathedral, and the Pyramid of Tirana adds to its appeal, making it an ideal base for exploring the rich cultural tapestry of Tirana. With Tirana International Mother Teresa Airport just 18 km away, Queens Luxury Apartments Tirana ensures a hassle-free arrival and departure, promising a memorable stay in the vibrant heart of Albania.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

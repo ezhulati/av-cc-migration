@@ -1,30 +1,7 @@
----
-title: Penthouse apartment with terrace on the sea
-description: "The apartment itself is a testament to spacious living, boasting two well-appointed bedrooms and a kitchen equipped with modern amenities including an..."
-featuredImage: "/images/accommodation/483050235.jpg"
-language: en
-slug: penthouse-apartment-with-terrace-on-the-sea
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to spacious living, boasting two well-appointed bedrooms and a kitchen equipped with modern amenities including an oven and a fridge. Guests are treated to the added comforts of fresh towels and crisp bed linen, ensuring a stay that combines the comforts of home with the luxuries of a getaway.
+---\ntitle: "Penthouse apartment with terrace on the sea"\ndescription: "Penthouse Apartment with Terrace on the Sea stands as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483050235.jpg?k=ed8f3ffd98fb8a5805f032815d6d16d93dd58bdb5bb33ba3c72c9b290053512c&o=&hp=1"\nlanguage: en\nslug: penthouse-apartment-with-terrace-on-the-sea\naddress: "Rruga, 1001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.27347857\n  lng: 19.51675299\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483050235.jpg?k=ed8f3ffd98fb8a5805f032815d6d16d93dd58bdb5bb33ba3c72c9b290053512c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483050251.jpg?k=7bbb488cde8e0458da7c09e1026c48da0f1a55f405a02fcfe575e584cac8ee46&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483050255.jpg?k=850d3416a23afeb537bda7e80be49a5e3b4e48fea19d005dab0e88d06ab1854a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483050242.jpg?k=1129feee366b8e3becd4ef3aaa6fb4c022ce9ce7ad13798fc8b88031093e152b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483050241.jpg?k=c48d5a51c8b9147a378de0af93372e2335440cabf27fa50b17170936fe50e077&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483050262.jpg?k=53100716ea661231bde87f5f1d224fc9f934312dcfe0c4ac9cd622afa3a05e18&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483050246.jpg?k=9e0749c1cc40163a3772f402f7630ce67947fe77d974d543ebbbb2ddea732d75&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483050257.jpg?k=1eaaf145c59a6bc1fc977834fb7e20322a3a50bf43e663fb7ea82c054ae95f63&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483050234.jpg?k=52d963757f5e86b8802d1ed1b59625a8fb9272e75494472bf154412fced89bc4&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Restorant Pizzeri Troplini 2 30 m"\n  - "Benilva 150 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 20 m"\n  - "Golem Beach 900 m"\n  - "Durres Beach 1.5 km"\n  - "Mali I Robit Beach 2.8 km"\n  - "Qerret Beach 4.8 km"\nwhatsNearby:\n  - "Bekimi 7 km"\n  - "Wine Dhe Pooh 7 km"\n  - "Durres Amphiteatre 7 km"\n  - "Yje Dhe Hena 8 km"\n  - "1. Maj 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "Sotir Noka 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/penthouse-apartment-with-terrace-on-the-sea.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to spacious living, boasting two well-appointed bedrooms and a kitchen equipped with modern amenities including an oven and a fridge. Guests are treated to the added comforts of fresh towels and crisp bed linen, ensuring a stay that combines the comforts of home with the luxuries of a getaway.
 
 For those looking to explore the area at their own pace, the availability of a car rental service directly from the premises adds a layer of convenience to an already enticing package. Positioned a mere 1.6 km from the bustling Durres Beach and within easy reach of the historic Skanderbeg Square, the apartment serves as an ideal base for both relaxation and adventure.
 
 Notably, the property is situated within a manageable distance from key attractions, including the Dajti Ekspres Cable Car and the iconic Rock of Kavaje, making it a strategic spot for those keen to delve into the local sights. For international travelers, the Tirana International Mother Teresa Airport is just 37 km away, ensuring a hassle-free journey to and from this coastal retreat.
 
 Penthouse Apartment with Terrace on the Sea emerges as a standout option for guests aiming to immerse themselves in the beauty and culture of Durrës, offering a blend of strategic location, comprehensive amenities, and the promise of an unforgettable stay by the sea.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

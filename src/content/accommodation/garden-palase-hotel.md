@@ -1,26 +1,3 @@
----
-title: Garden Palase Hotel
-description: The commitment to guest satisfaction is evident through the round-the-clock front desk, efficient airport transfer services, attentive room service, and the ava
-featuredImage: "/images/accommodation/181667479.jpg"
-language: en
-slug: garden-palase-hotel
-location: ""
-amenities: []
-images: []
----
-
-The commitment to guest satisfaction is evident through the round-the-clock front desk, efficient airport transfer services, attentive room service, and the availability of free WiFi across the property. Each air-conditioned room is a haven of comfort, equipped with a desk, a safety deposit box for valuables, a flat-screen TV for entertainment, a balcony for private outdoor moments, and a meticulously maintained private bathroom complete with a bidet.
+---\ntitle: "Garden Palase Hotel"\ndescription: "Garden Palase Hotel, located in the vibrant city of Fier, just 38 km away from the historic Independence Square, stands out as a beacon of comfort and convenience for travelers."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/181667479.jpg?k=c70703dc218849c181d034ce464d40a03ccbc69b88c1ada2fa743439d0bfc175&o=&hp=1"\nlanguage: en\nslug: garden-palase-hotel\naddress: "Rruga Nacionale SH73 Prane Sheshit Europa Plaza, 9301 Fier, Albania"\ncity: "Fier"\nlocation: "Fier"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.72017354\n  lng: 19.56811012\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 5.4\nratingWords: "Below Average"\nnumberOfReviews: 2\nratings:\n  overall: 5.4\n  location: 6.3\n  cleanliness: 5\n  facilities: 5\n  value: 5\n  comfort: 5\n  staff: 6.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/181667479.jpg?k=c70703dc218849c181d034ce464d40a03ccbc69b88c1ada2fa743439d0bfc175&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/181667409.jpg?k=420851f8c35ccca84a6805a6af393b8deaa24150576c61cda4490a53b878cd0a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/181669481.jpg?k=eef9fa2c5ee8563cc7fd1fcf059f5245f0a4efcf437e61a6f8e9f0d8ea75ecca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/181669213.jpg?k=b0c926174869e15293e5f95f00a144c00fefd40de61f5e31c3665e5fd4063fb9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/181667415.jpg?k=a045588d58563ea2517a19bdbdd72ce9e4ccb7563904568dc9fbe18730b69e5b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475209992.jpg?k=d7164e83fd420b50a7a9d3150f655e7a3d67680f6d6ce4e49856578b21191bb9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/181667397.jpg?k=fe3ddf85218a102300fc53ac4f7ae4c712be7833453747d0800acdf9dc9bd0c2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/181669537.jpg?k=4d7708cf3d5cd618180c00d7bc64e6007d20ba1cf3b24fb76a0a689e8c7e31d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/181675266.jpg?k=b6bfeb383962217eef9c1511e9016c709f957f97b985efbda51e2e91aef47df9&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Restaurant"\n  - "Free parking"\n  - "Free WiFi"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room"\n  - "Twin Room"\nnearbyRestaurants:\n  - "Triena 200 m"\n  - "Restorant Fenix 650 m"\nwhatsNearby:\n  - "Divjake-Karavasta National Park 17 km"\nairports:\n  - "Tirana International Airport Mother Teresa 76 km"\nbookingURL: "https://www.booking.com/hotel/al/garden-palase-fier.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nThe commitment to guest satisfaction is evident through the round-the-clock front desk, efficient airport transfer services, attentive room service, and the availability of free WiFi across the property. Each air-conditioned room is a haven of comfort, equipped with a desk, a safety deposit box for valuables, a flat-screen TV for entertainment, a balcony for private outdoor moments, and a meticulously maintained private bathroom complete with a bidet.
 
 For those looking to explore, the enchanting Kuzum Baba is also 38 km away, making it an easy day trip for adventurers. Moreover, the Tirana International Mother Teresa Airport is located 108 km from the hotel, facilitating easy travel arrangements for international guests. Garden Palase Hotel emerges as a top choice for those seeking a blend of convenience, comfort, and a touch of exploration in Fier.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,34 +1,7 @@
----
-title: AK Apartments
-description: Each room at AK Apartments is thoughtfully equipped with air conditioning and a private bathroom, ensuring a comfortable stay. The highlight for many is the ful
-featuredImage: "/images/accommodation/527881829.jpg"
-language: en
-slug: ak-apartments
-location: ""
-amenities: []
-images: []
----
-
-Each room at AK Apartments is thoughtfully equipped with air conditioning and a private bathroom, ensuring a comfortable stay. The highlight for many is the fully equipped kitchen and balcony that come with each apartment, providing guests with the freedom to enjoy home-cooked meals and scenic views at their leisure.
+---\ntitle: "AK Apartments"\ndescription: "AK Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527881829.jpg?k=2a99ea010f29b8650d896a5ba33deb1c2b35df2c4e20c9e1db22b04d39c153f8&o=&hp=1"\nlanguage: en\nslug: ak-apartments\naddress: "Rruga Imer Ndregjoni Tower Bridge 4 Residence, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3439818\n  lng: 19.84049942\nprice: "US$52"\npriceFrom: 52\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527881829.jpg?k=2a99ea010f29b8650d896a5ba33deb1c2b35df2c4e20c9e1db22b04d39c153f8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527881386.jpg?k=0fa9f14328dcbf725c13e7860dad6fb4b6068ec87982d66f3644cc88e10db946&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527882475.jpg?k=8edacc6a3dfb1c9c10244476b591b26d842f7db4224422b2c0ac9549c4306027&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527882104.jpg?k=a750aec4344978fd281a1b4a40e81e8905b62c8800d29fa409950bc9f9e658bb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527881415.jpg?k=81a07df22abd21871cba058155b1f1d0d19b2f791ceea332d15e7a69e1f49a2c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527881278.jpg?k=7a93e5bb8b885518bf3b0531f478a19e26de20623a8274241e9eec404eb9bbf0&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "National Museum of History Albania 2.5 km"\n  - "Skanderbeg Square 2.5 km"\n  - "National Gallery of Arts Tirana 2.6 km"\n  - "House of Leaves 2.8 km"\n  - "Rinia Park 2.8 km"\n  - "Former Residence of Enver Hoxha 3.2 km"\n  - "Grand Park of Tirana 3.8 km"\nnearbyRestaurants:\n  - "Only Bar 50 m"\n  - "Bar Restorant 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Gjolek Kokona 450 m"\n  - "Sheshi Rekreativ Allias 700 m"\n  - "Sheshi Jjosef Shtraus 1.1 km"\n  - "Bunk'Art 1 Museum 1.8 km"\n  - "Sheshi Rekreativ tek ish ATSh 2.1 km"\n  - "Amazing Nature 2.1 km"\n  - "Tanners' Bridge 2.3 km"\n  - "Sheshi Sulejman Pasha 2.3 km"\n  - "Sheshi Rekreativ Banesat Sociale 2.4 km"\n  - "Clock Tower Tirana 2.5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 77 km"\nbookingURL: "https://www.booking.com/hotel/al/ak-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach room at AK Apartments is thoughtfully equipped with air conditioning and a private bathroom, ensuring a comfortable stay. The highlight for many is the fully equipped kitchen and balcony that come with each apartment, providing guests with the freedom to enjoy home-cooked meals and scenic views at their leisure.
 
 Connectivity is never an issue, as guests can enjoy complimentary WiFi throughout their stay. The convenience extends to in-unit amenities, including a washing machine and a flat-screen TV, catering to the needs of modern travelers.
 
 Cultural enthusiasts will appreciate the apartment's proximity to significant landmarks such as the Bunk'Art 1 Museum and the Bektashi World Centre, each less than 3 km away. Moreover, the historical Former Residence of Enver Hoxha and the natural beauty of the Rock of Kavaje are easily accessible, located 4.4 km and 44 km from the property, respectively.
 
 For those traveling by air, the Tirana International Mother Teresa Airport is a mere 16 km away, making AK Apartments an ideal base for exploring Tirana's rich cultural tapestry and vibrant city life.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

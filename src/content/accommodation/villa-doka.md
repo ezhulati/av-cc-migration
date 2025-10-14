@@ -1,30 +1,7 @@
----
-title: Villa Doka
-description: Guests at Villa Doka are treated to breathtaking sea views directly from their rooms, enhancing the serene atmosphere and providing a picturesque backdrop to th
-featuredImage: "/images/accommodation/244689520.jpg"
-language: en
-slug: villa-doka
-location: ""
-amenities: []
-images: []
----
-
-Guests at Villa Doka are treated to breathtaking sea views directly from their rooms, enhancing the serene atmosphere and providing a picturesque backdrop to their stay. Each room is thoughtfully equipped with a bathroom and a balcony adorned with outdoor furniture, perfect for soaking in the scenic surroundings.
+---\ntitle: "Villa Doka"\ndescription: "Villa Doka stands out as a premier aparthotel in Sarandë, renowned for its exceptional offerings and prime location."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/244689520.jpg?k=aac9091a00524cca09024d744588abab98cf4a27adb62f875f3ab8009bc4aff3&o=&hp=1"\nlanguage: en\nslug: villa-doka\naddress: "3rd Km Sarande - Butrint, Lagja 1, 9703 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "villa"\ncoordinates:\n  lat: 39.8526017\n  lng: 20.02414405\nprice: "US$53"\npriceFrom: 53\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 311\nratings:\n  overall: 9\n  location: 8.1\n  cleanliness: 9.4\n  facilities: 8.9\n  value: 9.2\n  comfort: 9.3\n  staff: 9.5\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/244689520.jpg?k=aac9091a00524cca09024d744588abab98cf4a27adb62f875f3ab8009bc4aff3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/244687976.jpg?k=cc0905a923b6bd8d7a74d785a8bd5be9b9be89de967d36ec9c6515837ab59b28&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/244683349.jpg?k=873d1558dfe463103cdad7bad60889a59bef7ce7fec35298d48c1372241ac016&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199562094.jpg?k=0e67657fe02d9ab0599d12c27b3dfa12c13ea6ff41f077ff5440defa353cb9cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/244683838.jpg?k=ce148459a764a517a81b70ba826078646eafabe149245677221e61623db387df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/244683890.jpg?k=d4f0697eb1a3e9eae32a08292ff443d70cf0971f74b239530973ea360d5d9246&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Double Room with Balcony"\n  - "Triple Room with Balcony"\nnearbyRestaurants:\n  - "Sunrise 150 m"\n  - "Clubitalianelmondo 150 m"\nnearbyBeaches:\n  - "Mango Beach 250 m"\n  - "Flamingo Beach 400 m"\n  - "Santa Quaranta Beach 700 m"\n  - "VIP Beach 750 m"\n  - "Maestral Beach 1.7 km"\nwhatsNearby:\n  - "Butrint National Park 300 m"\n  - "Parc National de Butrint 700 m"\n  - "Plazhi I Krorezes 6 km"\n  - "Parku Kombetar I Butrintit 10 km"\n  - "Butrint National Park 10 km"\nairports:\n  - "Corfu International Airport 28 km"\n  - "Ioannina Airport 69 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Pawel"\n    country: "Poland"\n    text: "“A wonderful place, perfect for a quiet holiday. A wonderful view of the sea from the window, tasty breakfast, exceptionally nice owners and one of the most comfortable beds I have ever slept on. Without a doubt, I will come back there for longer.”"\n  - name: "Claudia"\n    country: "Portugal"\n    text: "“Very clean, well furnished room with a balcony with a great view to the ocean. Very diverse and plentifull breakfast on the outside. One of the few hotels where i could pay with card. The owners are very nice even though only the son talked...”"\n  - name: "Ashley"\n    country: "United Kingdom"\n    text: "“The hotel was by far the most welcoming and aesthetically beautiful compared to others we saw while there. I pat myself on the back for booking such an amazing place without previously knowing the region.”"\nbookingURL: "https://www.booking.com/hotel/al/villa-doka.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Villa Doka are treated to breathtaking sea views directly from their rooms, enhancing the serene atmosphere and providing a picturesque backdrop to their stay. Each room is thoughtfully equipped with a bathroom and a balcony adorned with outdoor furniture, perfect for soaking in the scenic surroundings.
 
 A highlight of the stay is the continental breakfast served every morning in a communal dining area, allowing guests to start their day on a delicious note. The aparthotel doesn't stop there; it boasts additional amenities such as an on-site bar, convenient laundry services, and a refrigerator in every room, ensuring a comfortable and hassle-free experience.
 
 For those looking to explore the area, Villa Doka is conveniently situated just 3 km from the vibrant city center of Sarandë. The locale is ripe with opportunities for fishing, among other activities, promising an engaging stay for all. Moreover, the property offers complimentary parking, adding to the ease of access for guests.
 
 Villa Doka emerges as a top choice for travelers seeking a blend of comfort, convenience, and captivating views, making it a must-visit destination in Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

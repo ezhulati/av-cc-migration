@@ -1,30 +1,7 @@
----
-title: Garden Boutique Hotel
-description: Accommodations at Garden Boutique Hotel are thoughtfully designed to ensure a restful stay. Each air-conditioned room is equipped with modern amenities includin
-featuredImage: "/images/accommodation/526281302.jpg"
-language: en
-slug: garden-boutique-hotel
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Garden Boutique Hotel are thoughtfully designed to ensure a restful stay. Each air-conditioned room is equipped with modern amenities including a desk, a safety deposit box, a flat-screen TV, and a balcony for guests to enjoy the urban landscape. The private bathrooms are well-appointed with showers, and all rooms feature ample wardrobe space.
+---\ntitle: "Garden Boutique Hotel"\ndescription: "Garden Boutique Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526281302.jpg?k=1daaac3feaf87015c0fda9c6175ae8d7633ea9ec3bb3449f79e2c55bf37bb444&o=&hp=1"\nlanguage: en\nslug: garden-boutique-hotel\naddress: "Rruga e Kavajës, 1002 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.32684448\n  lng: 19.80568904\nprice: "US$123"\npriceFrom: 123\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526281302.jpg?k=1daaac3feaf87015c0fda9c6175ae8d7633ea9ec3bb3449f79e2c55bf37bb444&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526273491.jpg?k=2c70b1bc22ea08adf00b7aff01812e60467d75b9c3b286137f4f485cd0874c1a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526273620.jpg?k=d966f552d3ab0172d896d40164323094714f90c8672cc3129d4118ca33f12e8a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526273480.jpg?k=0cc83ddcf5ea409a6fc052532eeb2203cce064bc3d2fbd7188cbc46c82fe3e02&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526273490.jpg?k=d63a95116e579bb8ff81c82bdcd8b7fcfc4f05ccf6dc3641d5534fd50ac3a0cb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526273492.jpg?k=8b3a412e393720c048a24b2ec2fe0660ee42b715acafbb537f032fe95958a4e2&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "24-hour front desk"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Standard Double Room"\n  - "Twin Room"\n  - "Triple Room"\nnearbyAttractions:\n  - "National Museum of History Albania 1 km"\n  - "Rinia Park 1.1 km"\n  - "Skanderbeg Square 1.1 km"\n  - "Former Residence of Enver Hoxha 1.2 km"\n  - "Clock Tower Tirana 1.2 km"\n  - "National Gallery of Arts Tirana 1.3 km"\n  - "Tanners' Bridge 1.7 km"\n  - "Grand Park of Tirana 2.3 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Creperie One 100 m"\n  - "Restorant Vila 7 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Shefqet Musaraj 450 m"\n  - "Sheshi Rekreativ Sali Butka 650 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 750 m"\n  - "Sheshi Rekreativ Mine Peza 800 m"\n  - "Sheshi Paris 850 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 850 m"\n  - "Sheshi Rekreativ Parku 1Km 850 m"\n  - "House of Leaves 900 m"\n  - "Sheshi Rekreativ Bajram Curri 950 m"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 80 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/garden-boutique-tirane.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nAccommodations at Garden Boutique Hotel are thoughtfully designed to ensure a restful stay. Each air-conditioned room is equipped with modern amenities including a desk, a safety deposit box, a flat-screen TV, and a balcony for guests to enjoy the urban landscape. The private bathrooms are well-appointed with showers, and all rooms feature ample wardrobe space.
 
 Guests at Garden Boutique Hotel can start their day with a choice of buffet or continental breakfast options, setting them up perfectly for a day of exploration or relaxation. The hotel also boasts a bar where visitors can unwind with a drink after a day of sightseeing.
 
 The proximity to attractions such as the Former Residence of Enver Hoxha, House of Leaves, and Rinia Park further enhances the appeal of Garden Boutique Hotel. For those traveling further afield, Tirana International Mother Teresa Airport is just 14 km away, ensuring easy access for arriving and departing guests.
 
 With its strategic location, comprehensive amenities, and commitment to guest satisfaction, Garden Boutique Hotel stands out as a top-tier accommodation choice for visitors to Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

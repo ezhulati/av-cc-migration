@@ -1,28 +1,5 @@
----
-title: Hotel Arvi
-description: Each room in Hotel Arvi is a haven of natural light, thanks to expansive windows that offer guests sweeping views of the surroundings. The accommodations come e
-featuredImage: "/images/accommodation/161231139.jpg"
-language: en
-slug: hotel-arvi
-location: ""
-amenities: []
-images: []
----
-
-Each room in Hotel Arvi is a haven of natural light, thanks to expansive windows that offer guests sweeping views of the surroundings. The accommodations come equipped with satellite TV and a minibar, adding a touch of luxury to your stay. The convenience of an en-suite bathroom, complete with a hairdryer, ensures that guests have everything they need right at their fingertips.
+---\ntitle: "Hotel Arvi"\ndescription: "Discover the charm of Hotel Arvi, a gem that stands out for its strategic location and exceptional amenities, making it a favorite among travelers seeking both convenience and comfort."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/161231139.jpg?k=9cf387cc02cbc38a03711f55e25b6482a47dfd974d76652424264d7e19270016&o=&hp=1"\nlanguage: en\nslug: hotel-arvi\naddress: "Lagja 1, Rruga Taulantia, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.31024364\n  lng: 19.44298983\nprice: "US$63"\npriceFrom: 63\nstarRating: 4\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 458\nratings:\n  overall: 9.1\n  location: 9.3\n  cleanliness: 9.1\n  facilities: 8.6\n  value: 8.9\n  comfort: 9.1\n  staff: 9.3\n  wifi: 9.7\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/161231139.jpg?k=9cf387cc02cbc38a03711f55e25b6482a47dfd974d76652424264d7e19270016&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/161119922.jpg?k=a4fe97a0ca11e75cae5556d556cf1ed0977be162f60daa6ec808a745d0cb4ee6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/287915635.jpg?k=d57fac043f76ff879632ad5f64893e04a98884accc7f81f10afbe9d7f596f1dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/255918460.jpg?k=9c894208b9806855aefc6aa75a4ec94df32c68a1d68299d75c6a353b69e797a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/255917987.jpg?k=f4ebe26becaab29a458b8b97506940b81b0eedefe79d4e2fb05ea04aeda44980&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/26296190.jpg?k=bc855aa68222812415eddeb8036176e4b08c257c7f62a6a06504d9f4ea6bb842&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Fabulous breakfast"\nroomTypes:\n  - "Single Room with Sea View"\n  - "Double Room"\n  - "Double Room with Sea View"\n  - "Twin Room"\n  - "Superior Double Room with Sea View and Balcony"\nnearbyRestaurants:\n  - "Cinnabon Durres 5 m"\n  - "Liburn 50 m"\nnearbyBeaches:\n  - "Currila Beach 40 m"\n  - "Kallmi Beach 1.3 km"\n  - "Durres Beach 2.1 km"\n  - "West End Beach 2.4 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nwhatsNearby:\n  - "1. Maj 150 m"\n  - "Durres Amphiteatre 300 m"\n  - "Yje Dhe Hena 750 m"\n  - "Wine Dhe Pooh 800 m"\n  - "Sheshi Demokracia 950 m"\n  - "Sotir Noka 1.2 km"\n  - "Bekimi 3.6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Silviu"\n    country: "Romania"\n    text: "“I appreciated the cleanliness, the availability of the staff, the proximity to points of interest and the sea view.”"\n  - name: "Ilkka"\n    country: "Finland"\n    text: "“Very good breakfest. Nice room with wiew Good location.”"\n  - name: "Mary"\n    country: "United Kingdom"\n    text: "“Staff very friendly and helpful. They arranged a doctor to visit me I needed and the manager spoke good English to interpret.”"\nbookingURL: "https://www.booking.com/hotel/al/arvi.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach room in Hotel Arvi is a haven of natural light, thanks to expansive windows that offer guests sweeping views of the surroundings. The accommodations come equipped with satellite TV and a minibar, adding a touch of luxury to your stay. The convenience of an en-suite bathroom, complete with a hairdryer, ensures that guests have everything they need right at their fingertips.
 
 For those interested in exploring the rich history of Durrës, the hotel is conveniently located just 150 meters from Durrës Castle and its iconic Venetian Tower, as well as the Archaeological Museum. The National Theatre is also within easy reach, located just 300 meters away.
 
 Transportation is a breeze, with a bus station directly in front of the hotel and the ferry terminal only a short 5-minute walk away. For guests arriving by air, Tirana Airport is a mere 25 km from the hotel, with the capital city itself just 36 km away, making Hotel Arvi an ideal base for both local exploration and onward travel.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

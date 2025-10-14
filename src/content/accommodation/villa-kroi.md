@@ -1,26 +1,3 @@
----
-title: Villa Kroi
-description: "The accommodations at Villa Kroi are thoughtfully designed, featuring a desk, a flat-screen TV, and a private bathroom equipped with fresh bed linen a..."
-featuredImage: "/images/accommodation/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
-language: en
-slug: villa-kroi
-location: ""
-amenities: []
-images: []
----
-
-The accommodations at Villa Kroi are thoughtfully designed, featuring a desk, a flat-screen TV, and a private bathroom equipped with fresh bed linen and towels for a comfortable stay. The added benefit of a private entrance to each unit enhances the sense of exclusivity and tranquility. Moreover, the property has taken great care to soundproof all rooms, guaranteeing a peaceful retreat from the bustling city life.
+---\ntitle: "Villa Kroi"\ndescription: "Villa Kroi stands out as a premier choice for travelers seeking comfortable lodging in Berat."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"\nlanguage: en\nslug: villa-kroi\naddress: "Rruga Gaqi Gjika, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.70549564\n  lng: 19.95625316\nprice: "US$29"\npriceFrom: 29\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 41\nratings:\n  overall: 8.9\n  location: 9.3\n  cleanliness: 9.1\n  facilities: 8.5\n  value: 9\n  comfort: 9.1\n  staff: 9.6\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"\n  - "https://cf.bstatic.com/static/img/flags/12/nz/81fce32e8c3f57b990beee67e8e397f76889a63e.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"\n  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"\n  - "https://cf.bstatic.com/static/img/flags/12/si/e5950ab4590b7d05b0ce1b1bf7603d1235436005.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-y/ea90dc6a44b984e60291f9db43e96ddfa72b1aef.png"\n  - "https://cf.bstatic.com/static/img/flags/12/nl/7b4427cefda046f99f0efc11622be2e83b8ba511.png"\n  - "https://graph.facebook.com/v2.9/10157988679053850/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/dk/15cb091f879f09128901f70716dddcfc465eff2a.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-l/c9a51000ce90cbf81dcc81b847f9bccc3330d3a4.png"\n  - "https://cf.bstatic.com/static/img/flags/12/nl/7b4427cefda046f99f0efc11622be2e83b8ba511.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"\n  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-h/41b962c4f1fcefa6bb9c4a8bc7bfed064a71691b.png"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Tea/coffee maker in all rooms"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Private Bathroom"\n  - "Double Room with Private Bathroom"\nnearbyRestaurants:\n  - "Imperial Fish Berat 150 m"\n  - "Pizza Hallall Medine 200 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 8 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 83 km"\nreviews:\n  - name: "Emma"\n    country: "New Zealand"\n    text: "“Friendly staff. Nice clean room. Large in size. Breakfast was lovely.”"\n  - name: "Nicholas"\n    country: "United Kingdom"\n    text: "“The apartment was bright and welcoming. Breakfast was perfect! Great amenities and Berat was lovely 😍”"\n  - name: "Andrej"\n    country: "Slovenia"\n    text: "“Amazing place located in center of beautiful Barat”"\nbookingURL: "https://www.booking.com/hotel/al/villa-kroi.en-gb.html?aid=8035640"\nbestFor: "Best for Location"\nbestCategories: "Location"\ncategory: "Location"\n---\n\nThe accommodations at Villa Kroi are thoughtfully designed, featuring a desk, a flat-screen TV, and a private bathroom equipped with fresh bed linen and towels for a comfortable stay. The added benefit of a private entrance to each unit enhances the sense of exclusivity and tranquility. Moreover, the property has taken great care to soundproof all rooms, guaranteeing a peaceful retreat from the bustling city life.
 
 Located 118 km from Tirana International Mother Teresa Airport, Villa Kroi offers a blend of convenience and comfort, making it an ideal choice for those exploring the historic city of Berat or traveling through Albania.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

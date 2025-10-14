@@ -1,30 +1,13 @@
----
-title: Perla Hotel
-description: "Accommodations at Perla Hotel are thoughtfully designed with air conditioning to ensure a comfortable stay during the warmest days."
-featuredImage: "/images/accommodation/189438249.jpg"
-language: en
-slug: perla-hotel
-location: ''
-amenities: []
-images: []
----
-
-Accommodations at Perla Hotel are thoughtfully designed with air conditioning to ensure a comfortable stay during the warmest days. The hotel's restaurant is a culinary delight, offering a menu that skillfully combines international cuisine with traditional Albanian specialties, promising an unforgettable dining experience.
+---\ntitle: "Perla Hotel"\ndescription: "Perla Hotel stands as a serene retreat right by the shores of Lake Ohrid, offering guests a harmonious blend of convenience and natural beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189438249.jpg?k=d02960787b82299b6e196c3e35b74a14970760f8bf0d051fcc562c011425789c&o=&hp=1"\nlanguage: en\nslug: perla-hotel\naddress: "Rr. 10 Deshmoret e Pojskes, 7301 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.90062807\n  lng: 20.67214045\nprice: "US$59"\npriceFrom: 59\nstarRating: 4\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 223\nratings:\n  overall: 8.9\n  location: 9.3\n  cleanliness: 9.1\n  facilities: 8.8\n  value: 9\n  comfort: 9\n  staff: 9.2\n  wifi: 8.1\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189438249.jpg?k=d02960787b82299b6e196c3e35b74a14970760f8bf0d051fcc562c011425789c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474001990.jpg?k=000c36b168e70e3d57793eb1684042743893a690f7857db749862eadd63f1b6e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474002092.jpg?k=db8d1c69abccf7eac6ad1b2bc4251524a5b88c00a83cbfe6b82324627fd166b0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189438255.jpg?k=374f21d66365b15a3f458e05de778fe196360626df2b0cedad99376a1e9acfe8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/126728995.jpg?k=028938470b3139810bd3afc3a6c4ce759a250e91be9ef460350545d7f1ead9b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476879564.jpg?k=f6706eef8f2ee04c4e847167b3e3e48fb561637bd2c88257e771200bf093e966&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Airport shuttle"\n  - "Restaurant"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Private beach area"\n  - "Good breakfast"\nroomTypes:\n  - "Deluxe Double Room with Balcony"\n  - "King Room with Spa Bath"\n  - "Triple Room with Balcony"\n  - "Deluxe Junior Suite"\nnearbyRestaurants:\n  - "1 Maji Restorant 100 m"\n  - "Waterland Divjaka 150 m"\nwhatsNearby:\n  - "Driloni National Park 350 m"\n  - "National Park Galicica 6 km"\n  - "National Park Galicica 13 km"\n  - "Bay of Bones 15 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 71 km"\n  - "Tirana International Airport Mother Teresa 97 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Jan"\n    country: "Sweden"\n    text: "“Nice room.
+Beautiful bed.
+Nice views
+Many restaurants on the street, also 2 shops.
+Free street parking and plenty of space.”"\n  - name: "Sophia"\n    country: "United Kingdom"\n    text: "“Staff were so friendly and accommodating, room was immaculate and huge, view and location was absolutely stunning!”"\n  - name: "Joanna"\n    country: "United Kingdom"\n    text: "“Almost everything! Great owners, rooms, service, atmosphere.
+Staff extremely helpful.
+Special mention of Oxanna on reception. A very kind and knowledgeable young woman with excellent language and customer skills.”"\nbookingURL: "https://www.booking.com/hotel/al/perla.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nAccommodations at Perla Hotel are thoughtfully designed with air conditioning to ensure a comfortable stay during the warmest days. The hotel's restaurant is a culinary delight, offering a menu that skillfully combines international cuisine with traditional Albanian specialties, promising an unforgettable dining experience.
 
 Guest services at Perla Hotel are unparalleled, with a 24-hour front desk ready to assist with currency exchange, ironing, and laundry needs, ensuring a hassle-free stay. Additionally, the hotel boasts a charming souvenir shop, allowing guests to take a piece of their memorable stay home with them.
 
 Located merely 500 meters from the heart of Pogradec, Perla Hotel serves as an ideal base for exploring the local area. Attractions such as an amusement park and Drilon National Park are within easy reach, offering diverse entertainment and exploration options. For those willing to venture a bit further, the majestic Galičica National Park in Macedonia is just 15 km away, promising breathtaking natural landscapes.
 
 Perla Hotel emerges as a distinguished choice for travelers seeking a blend of comfort, convenience, and the allure of nature's beauty, making it a must-visit destination on the shores of Lake Ohrid.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,7 @@
----
-title: Livio Apartament
-description: This well-appointed apartment doesn't just boast a desirable location; it offers a haven of space and comfort. Guests are welcomed into a generously sized livin
-featuredImage: "/images/accommodation/466258924.jpg"
-language: en
-slug: livio-apartament
-location: ""
-amenities: []
-images: []
----
-
-This well-appointed apartment doesn't just boast a desirable location; it offers a haven of space and comfort. Guests are welcomed into a generously sized living space that includes two bedrooms, a cozy living room, and a balcony that presents captivating city views. Modern amenities are not in short supply, with a flat-screen TV and a fully equipped kitchen at guests' disposal, ensuring a stay that combines the comforts of home with the luxuries of a getaway.
+---\ntitle: "Livio Apartament"\ndescription: "Livio Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466258924.jpg?k=ba33684358fb755bdf0ce0f8e4bc56f524ecf7fb4f9bd862c4b0e1e642d07907&o=&hp=1"\nlanguage: en\nslug: livio-apartament\naddress: "Rruga Ismail Qemali, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87260647\n  lng: 19.99540717\nprice: "US$97"\npriceFrom: 97\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 4\nratings:\n  overall: 7.9\n  location: 7.5\n  cleanliness: 8.1\n  facilities: 6.9\n  value: 8.1\n  comfort: 8.1\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466258924.jpg?k=ba33684358fb755bdf0ce0f8e4bc56f524ecf7fb4f9bd862c4b0e1e642d07907&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467207076.jpg?k=7c3352a10444c36a72c0cdaea5d8839015e21e46767a457b66489b78ccc8e731&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467207124.jpg?k=b71705adcb01f46a6b2c6080958509d3e22d6f67ff72a054a03c4b24fe11d041&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467206995.jpg?k=1fd4e9a97cfc9f7882acb4ce1eb8b6a2df626e03a0d2e7cc508d27e84e8b4f7c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467206972.jpg?k=b1ca2f437bb46fc037e3ef80a3e6a8e97a87a137e705d75e87710cb169c3aaa1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467207113.jpg?k=a60556cc3b278f9579b60c949f588137dba9fa2c9e6b5018ef7fe076a7444ba4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467207040.jpg?k=90b98023508a08342b5919ba459b9a517eb9a56c8631bf34286cdf50e002a8f1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467207132.jpg?k=0f6c0d5994e9cfde2d2ba927981feb8c9017fca13715fe109b6e6b91aa95c470&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467207008.jpg?k=1387dcc77ad24a52be9cbbc4f2e9ff8c5431728e9606e413fecbfe7bdf718dad&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Oxhaku Saranda 100 m"\n  - "Skanderbeg Grill 100 m"\nnearbyBeaches:\n  - "Sarande Main Beach 200 m"\n  - "Saranda City Beach 1.2 km"\n  - "Saranda Bay Beach 1.2 km"\n  - "La Petite Beach 1.7 km"\n  - "Maestral Beach 1.8 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.9 km"\n  - "Butrint National Park 3.6 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Rexhino"\n    country: "Albania"\n    text: "“Very good location, 2 minutes walking to the beach.”"\nbookingURL: "https://www.booking.com/hotel/al/livio-apartament.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis well-appointed apartment doesn't just boast a desirable location; it offers a haven of space and comfort. Guests are welcomed into a generously sized living space that includes two bedrooms, a cozy living room, and a balcony that presents captivating city views. Modern amenities are not in short supply, with a flat-screen TV and a fully equipped kitchen at guests' disposal, ensuring a stay that combines the comforts of home with the luxuries of a getaway.
 
 Adding to the appeal, Livio Apartment ensures that connectivity and convenience are prioritized, offering complimentary WiFi and on-site parking to all guests. The quiet street views promise a serene retreat from the bustling city life, making it a perfect spot for those looking to unwind.
 
 For those venturing from afar, the nearest airport, Ioannina Airport, is located 98 km away, making the apartment accessible for international and domestic travelers alike.
 
 In essence, Livio Apartment stands out as a top-tier accommodation choice for visitors to Sarandë, offering a blend of comfort, convenience, and accessibility that caters to a wide range of travel needs and preferences.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

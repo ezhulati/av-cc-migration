@@ -4,9 +4,19 @@ description: The hotel's accommodations are a testament to contemporary elegance
 featuredImage: "/images/accommodation/318955629.jpg"
 language: en
 slug: la-boheme-hotel
-location: ""
-amenities: []
 images: []
+category: "4-Star"
+starRating: 4
+rating: 4
+accommodationType: "hotel"
+location: "Tirana"
+amenities:
+  - "Parking"
+  - "Gym"
+  - "Restaurant"
+  - "Bar"
+  - "Spa"
+  - "TV"
 ---
 
 The hotel's accommodations are a testament to contemporary elegance, featuring modern furnishings complemented by high-quality linens, ensuring a restful night's sleep. Each room is equipped with a flat-screen cable TV, a safe, and a minibar, catering to the needs of the modern traveler. The attention to detail extends to the bathrooms, which are outfitted with showers, hairdryers, slippers, and complimentary toiletries, adding a touch of luxury to the guest experience.
@@ -19,14 +29,3 @@ For those looking to delve deeper into Tirana's attractions, the hotel's front d
 
 La Bohème Hotel stands out as a premier choice for travelers seeking a blend of luxury, comfort, and accessibility in the heart of Tirana's most lively district.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

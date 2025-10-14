@@ -5,11 +5,14 @@ region: Northern Albania
 featuredImage: /images/destinations/theth.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: theth
 highlights: []
+seo:
+  metaDescription: "Embark on a journey to [category Title] and discover its breathtaking beauty through our products."
 ---
 
 Why Visit Theth
@@ -54,10 +57,3 @@ Your Turn to Visit
 
 Whether looking for outdoor adventures or immersing yourself in Albanian culture, Theth is worth adding to your travel itinerary. Just be sure to plan your trip carefully; getting there can take some effort because it is off the beaten path. But trust me. It’s worth it!
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

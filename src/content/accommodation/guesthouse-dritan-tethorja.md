@@ -1,30 +1,8 @@
----
-title: Guesthouse Dritan Tethorja
-description: The establishment prides itself on its comprehensive amenities, including a restaurant that serves a delightful array of breakfast options such as pancakes, fru
-featuredImage: "/images/accommodation/91598801.jpg"
-language: en
-slug: guesthouse-dritan-tethorja
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Guesthouse Dritan Tethorja"\ndescription: "Guesthouse Dritan Tethorja emerges as a serene retreat in the heart of Theth, merely 4 km away from the enchanting Theth National Park."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/91598801.jpg?k=67ab358a5b0c3159123b8ff5a4823fa5f1b37813e8c9ca68ad9f1cfcdc4b434c&o=&hp=1"\nlanguage: en\nslug: guesthouse-dritan-tethorja\naddress: "Theth, 1368 Theth, Albania"\ncity: "Theth"\nlocation: "Theth"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 42.40250422\n  lng: 19.76470088\nprice: "US$35"\npriceFrom: 35\nstarRating: 4\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 192\nratings:\n  overall: 8.4\n  location: 8.4\n  cleanliness: 8.3\n  facilities: 7.8\n  value: 8.3\n  comfort: 8.4\n  staff: 9.1\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/91598801.jpg?k=67ab358a5b0c3159123b8ff5a4823fa5f1b37813e8c9ca68ad9f1cfcdc4b434c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469563304.jpg?k=29956fb22a7419ee055b0740abd8a75c07589483b28a65c57f945b6b9910ddb4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204677441.jpg?k=e79969cd21b2b51a5fd2a1e4334769fa446e60cf3417614ec2c57e46e7867c71&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469981092.jpg?k=2fc7133aee68c779f2786c43da8ddd2ea0ff3799853638f1d74f3e2067c19d34&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110217790.jpg?k=d180706d7322c37fa0a3b37b97a16cdd49b77b546e509a99f3d79508586a968d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110217543.jpg?k=f06550392b3137b728671feb9a8247fad907e623d89cacdfa6c54fbc1f86615d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469563463.jpg?k=d3b1b75f92a2705f9a25c949a9bf56b4497b8e2ff4e74e131c5c5395aaef6e58&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204678184.jpg?k=2872f4ca83c2d4cb2ffcbb49c0f9a2415475d524aa58386ce9dc0140948b39e7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487157289.jpg?k=feca889e17a57a533f33cd24576c4bcd3a618668b51f2707952c141c7e42a6f6&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Good free WiFi (19 Mbps)"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Superb breakfast"\nnearbyRestaurants:\n  - "Malesorja 350 m"\n  - "Restorant 1 km"\nwhatsNearby:\n  - "Theth National Park 0 m"\n  - "Theth National Park 1.9 km"\n  - "Valbona Valley National Park 3.8 km"\n  - "Prokletije National Park 9 km"\n  - "Parku Kombëtar Lugina e Valbonës 14 km"\n  - "Nacionalni Park Prokletije 20 km"\nairports:\n  - "Podgorica Airport 42 km"\n  - "Tivat Airport 85 km"\nreviews:\n  - name: "Cullen"\n    country: "United States"\n    text: "“Amazing food for breakfast and dinner. The host, Rita, was very friendly, always willing to help. The location was ideal, a short walk to the market and restaurants in Theth. Beautiful views of the scenery.”"\n  - name: "Marios"\n    country: "Greece"\n    text: "“Very welcoming, friendly and the place is beautiful!! The food was also great!”"\n  - name: "Adam"\n    country: "United Kingdom"\n    text: "“*Views were amazing
+*Nice quiet area *Bed was super comfy”"\nbookingURL: "https://www.booking.com/hotel/al/albania-theth.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe establishment prides itself on its comprehensive amenities, including a restaurant that serves a delightful array of breakfast options such as pancakes, fruits, and juice to kickstart your day. For those on the go, packed lunches and a coffee shop ensure that your adventures in Theth are fueled with delicious sustenance.
 
-The establishment prides itself on its comprehensive amenities, including a restaurant that serves a delightful array of breakfast options such as pancakes, fruits, and juice to kickstart your day. For those on the go, packed lunches and a coffee shop ensure that your adventures in Theth are fueled with delicious sustenance.
+Accommodations at Guesthouse Dritan Tethorja are thoughtfully designed with family rooms that cater to guests traveling with loved ones. The property doesn’t skimp on convenience, offering free WiFi, a 24-hour front desk, and full-day security to ensure a worry-free and connected stay. For those visiting with little ones, the availability of a baby safety gate underscores the guesthouse’s commitment to guest safety and comfort.
 
-Accommodations at Guesthouse Dritan Tethorja are thoughtfully designed with family rooms that cater to guests traveling with loved ones. The property doesn't skimp on convenience, offering free WiFi, a 24-hour front desk, and full-day security to ensure a worry-free and connected stay. For those visiting with little ones, the availability of a baby safety gate underscores the guesthouse's commitment to guest safety and comfort.
-
-Outdoor enthusiasts will appreciate the picnic area, an ideal spot for enjoying the natural beauty that surrounds this guesthouse. And when it's time to venture further, Podgorica Airport is located 86 km away, making Guesthouse Dritan Tethorja a convenient base for exploring the wonders of Theth and beyond.
+Outdoor enthusiasts will appreciate the picnic area, an ideal spot for enjoying the natural beauty that surrounds this guesthouse. And when it’s time to venture further, Podgorica Airport is located 86 km away, making Guesthouse Dritan Tethorja a convenient base for exploring the wonders of Theth and beyond.
 
 In summary, Guesthouse Dritan Tethorja stands out as a perfect blend of natural beauty, comfort, and hospitality, promising an unforgettable experience in the picturesque setting of Theth.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

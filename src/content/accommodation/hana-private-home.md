@@ -1,26 +1,3 @@
----
-title: Hana Private Home
-description: "A stone's throw away, at just 8."
-featuredImage: "/images/accommodation/515721813.jpg"
-language: en
-slug: hana-private-home
-location: ''
-amenities: []
-images: []
----
-
-A stone's throw away, at just 8.5 km, guests can discover the spiritual solace of Monastery Saint Naum, while the architectural beauty of Saint Nicholas Church is only 19 km from the doorstep. Each unit within this apartment complex is thoughtfully equipped with a private bathroom and the modern convenience of complimentary WiFi, ensuring a stay that marries the comforts of home with the luxuries of hotel living.
+---\ntitle: "Hana Private Home"\ndescription: "Hana Private Home emerges as a serene retreat in Pogradec, offering guests a unique blend of comfort and convenience amidst its lush garden setting."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515721813.jpg?k=0b873b7fd489d3a541147e2ebdd7f59e7236479632e62111d21c6116322f4a40&o=&hp=1"\nlanguage: en\nslug: hana-private-home\naddress: "Rruga Kristaq Kacka, Lgj nr 5,Pogradec, 7301 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.902923\n  lng: 20.6512928\nprice: "US$24"\npriceFrom: 24\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 1\nratings:\n  overall: 9.2\n  location: 10\n  cleanliness: 7.5\n  facilities: 10\n  value: 10\n  comfort: 7.5\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515721813.jpg?k=0b873b7fd489d3a541147e2ebdd7f59e7236479632e62111d21c6116322f4a40&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515721832.jpg?k=931f0bc78f4c4189220f18dba484f88883b25576b40128acadbd1e6707e1a320&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515721835.jpg?k=89170aec6210d7b8bec080e052b8c4d14f09d7a1a9017bddcf4461c8ebf4d3af&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515721838.jpg?k=ff35ec35979529edb533ba97eb9495ee72fce32a133a2c6a5efb90019d8e0c4e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515721842.jpg?k=c220a4d40afb8e65d40f32e2690f2c22de5b3309a042fc1ff7635681db73a130&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "Budget Double Room"\n  - "Basic Triple Room"\nnearbyRestaurants:\n  - "Bakery Kosovari 250 m"\n  - "PORADECI 350 m"\nwhatsNearby:\n  - "Driloni National Park 1.6 km"\n  - "National Park Galicica 8 km"\n  - "National Park Galicica 15 km"\n  - "Bay of Bones 16 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 72 km"\n  - "Tirana International Airport Mother Teresa 95 km"\nbookingURL: "https://www.booking.com/hotel/al/hana-private-home.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nA stone's throw away, at just 8.5 km, guests can discover the spiritual solace of Monastery Saint Naum, while the architectural beauty of Saint Nicholas Church is only 19 km from the doorstep. Each unit within this apartment complex is thoughtfully equipped with a private bathroom and the modern convenience of complimentary WiFi, ensuring a stay that marries the comforts of home with the luxuries of hotel living.
 
 For those keen on tracing the ancient footsteps of history, the remains of Via Egnatia are located 40 km away, offering a unique glimpse into the past. Conveniently, Ohrid Airport is situated 47 km from Hana Private Home, making it an accessible haven for both local and international travelers seeking a peaceful escape in the heart of Pogradec's natural and historical wonders.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

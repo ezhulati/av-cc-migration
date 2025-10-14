@@ -1,30 +1,7 @@
----
-title: Friends House
-description: Accommodations at Friends House are thoughtfully equipped with essentials such as a wardrobe, ensuring guests have ample storage for their belongings. The priva
-featuredImage: "/images/accommodation/72558588.jpg"
-language: en
-slug: friends-house
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Friends House are thoughtfully equipped with essentials such as a wardrobe, ensuring guests have ample storage for their belongings. The private bathrooms feature walk-in showers and are complemented with slippers, adding a touch of home-like comfort. The provision of free WiFi, bed linen, and towels in every unit underscores the bed and breakfast's commitment to guest satisfaction.
+---\ntitle: "Friends House"\ndescription: "Friends House emerges as a charming bed and breakfast option for travelers exploring Tirana, located just a short distance of 1."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/72558588.jpg?k=3031ae215d23477163d8b95648de41f10171c018bf7112ea920a2cdd21384f8e&o=&hp=1"\nlanguage: en\nslug: friends-house\naddress: "Rruga Pjeter Budi, Nr.30, 1000 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.32262063\n  lng: 19.82747542\nprice: "US$47"\npriceFrom: 47\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 62\nratings:\n  overall: 9.2\n  location: 9.7\n  cleanliness: 9.4\n  facilities: 9\n  value: 9.5\n  comfort: 9.4\n  staff: 9.8\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/72558588.jpg?k=3031ae215d23477163d8b95648de41f10171c018bf7112ea920a2cdd21384f8e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/72558633.jpg?k=e320c242069ec33b84b6947bd05cd8aae90b7a46e04c2c98a8187ab49cdcec20&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/72558625.jpg?k=cf37913f547ced1fcbfe7cff114b0bcfb6f72ffcdb6df5b96aa76c9392ef646c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/72558611.jpg?k=35d1b552095cc574df7e26510c98c7e28734194bb66fd0296eedad4fd354c7d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/72558593.jpg?k=7a5ea5db149ad86a1fef3c13e055ce54b27bc1910c293d65172f5ab439018b80&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/72558630.jpg?k=bcf642ce95ec4d56550722019b6e307a8be07f71aaf82f05aa600e82d904561a&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Superb breakfast"\nroomTypes:\n  - "Budget Double Room"\n  - "Budget Twin Room"\nnearbyAttractions:\n  - "Clock Tower Tirana 850 m"\n  - "Former Residence of Enver Hoxha 850 m"\n  - "Skanderbeg Square 900 m"\n  - "House of Leaves 1 km"\n  - "National Museum of History Albania 1.1 km"\n  - "Grand Park of Tirana 1.2 km"\n  - "Bunk'Art 1 Museum 4.1 km"\nnearbyRestaurants:\n  - "Restorant Fishop 30 m"\n  - "Vila Estia 50 m"\nwhatsNearby:\n  - "Shesh Rekreativ 250 m"\n  - "Sheshi Rekreativ tek Arena Kombëtare 400 m"\n  - "Tanners' Bridge 450 m"\n  - "Sheshi Rekreativ Piramida 450 m"\n  - "Sheshi Rekreativ tek ish ATSh 600 m"\n  - "Shesh Rekreativ 650 m"\n  - "National Gallery of Arts Tirana 700 m"\n  - "Parku Rinia 750 m"\n  - "Parku I Madh 800 m"\n  - "Rinia Park 800 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\nreviews:\n  - name: "Abdul"\n    country: "United Kingdom"\n    text: "“Good location, clean and friendly staff. Loved it!!”"\n  - name: "Rebecca"\n    country: "Germany"\n    text: "“It was really great at this place. Super friendly owner, we had a drink one night at a bar, because I was traveling alone. So nice and I felt a bit like home ;)”"\n  - name: "Timothy"\n    country: "Switzerland"\n    text: "“Perfect B&B in excellent location with the friendliest owners I have ever met.”"\nbookingURL: "https://www.booking.com/hotel/al/friends-house.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nAccommodations at Friends House are thoughtfully equipped with essentials such as a wardrobe, ensuring guests have ample storage for their belongings. The private bathrooms feature walk-in showers and are complemented with slippers, adding a touch of home-like comfort. The provision of free WiFi, bed linen, and towels in every unit underscores the bed and breakfast's commitment to guest satisfaction.
 
 Morning delights await as Friends House serves up a variety of breakfast options. Guests can start their day with a choice of continental or Italian breakfast, including warm dishes, local specialties, and freshly baked pastries, ensuring a flavorful beginning to the day.
 
 For those keen to explore Tirana, Friends House offers an ideal base. The property is conveniently located near several popular attractions, including the Former Residence of Enver Hoxha, the Postbllok - Checkpoint Monument, and Saint Paul Cathedral. Moreover, the bed and breakfast organizes walking tours, allowing guests to immerse themselves in the local culture and history.
 
 After a day of exploration, the shared lounge area provides a cozy retreat where guests can relax and share stories of their adventures. Whether visiting for leisure or seeking a peaceful escape, Friends House promises a memorable stay in the heart of Tirana, with the nearest airport, Tirana International Mother Teresa Airport, situated just 17 km away, ensuring easy arrivals and departures.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

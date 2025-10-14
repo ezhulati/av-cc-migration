@@ -1,30 +1,7 @@
----
-title: Lovely appartament B
-description: Lovely Apartment B stands out for its thoughtful amenities, including air conditioning for those warm Albanian afternoons, a serene balcony for quiet mornings o
-featuredImage: "/images/accommodation/449474155.jpg"
-language: en
-slug: lovely-appartament-b
-location: ""
-amenities: []
-images: []
----
-
-Lovely Apartment B stands out for its thoughtful amenities, including air conditioning for those warm Albanian afternoons, a serene balcony for quiet mornings or relaxing evenings, and the essentials of modern connectivity with complimentary WiFi and private parking, all without the intrusion of smoke.
+---\ntitle: "Lovely appartament B"\ndescription: "Discover the charm of Tirana with a stay at Lovely Apartment B, a prime choice for travelers seeking comfort and convenience in Albania's vibrant capital."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449474155.jpg?k=d2d94ab358041d5d589c65eb4d799ab0d3a0d482dcb8536006fdf2ce96cd9292&o=&hp=1"\nlanguage: en\nslug: lovely-appartament-b\naddress: "Rruga Gjon Mili, 1017 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.34581807\n  lng: 19.81765273\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 3\nratings:\n  overall: 7.5\n  location: 6.7\n  cleanliness: 8.3\n  facilities: 6.7\n  value: 8.3\n  comfort: 7.5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449474155.jpg?k=d2d94ab358041d5d589c65eb4d799ab0d3a0d482dcb8536006fdf2ce96cd9292&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/449474142.jpg?k=f22e1144b4a168fd224cb9788e56e26cc04e02a26987660d3c98e6e471ab028b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/449474104.jpg?k=af1ec6bfe003da0b07f852e0b236205cc0d742fb17c3463161d09c24437509be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/451479103.jpg?k=06fcce4c16b94f2a337590f87f01831595a7af0b8f56975102d080e667c7c786&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/451479201.jpg?k=6dba48498646b96463c86df9579861138c27cd3ebd64820e77c5b827ef211724&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/458195180.jpg?k=712be80a0b4847a4270d828bba3078bffe02246fbd088d8a66b01ba01cca23e3&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Fast free WiFi (100 Mbps)"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Clock Tower Tirana 2 km"\n  - "House of Leaves 2.1 km"\n  - "National Gallery of Arts Tirana 2.2 km"\n  - "Tanners' Bridge 2.3 km"\n  - "Rinia Park 2.3 km"\n  - "Former Residence of Enver Hoxha 2.8 km"\n  - "Bunk'Art 1 Museum 3.6 km"\n  - "Grand Park of Tirana 3.8 km"\nnearbyRestaurants:\n  - "Birrari Ke Tori 250 m"\n  - "Blendi 350 m"\nwhatsNearby:\n  - "Amazing Nature 1.4 km"\n  - "Sheshi Rekreativ Don Bosko 1.4 km"\n  - "Sheshi Rekreativ Allias 1.5 km"\n  - "Sheshi Rekreativ Mine Peza 1.5 km"\n  - "National Museum of History Albania 1.8 km"\n  - "Sheshi Paris 1.8 km"\n  - "Sheshi Skënderbej 1.9 km"\n  - "Sheshi Sulejman Pasha 1.9 km"\n  - "Sheshi Jjosef Shtraus 2 km"\n  - "Skanderbeg Square 2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/lovely-apt-gj-m.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nLovely Apartment B stands out for its thoughtful amenities, including air conditioning for those warm Albanian afternoons, a serene balcony for quiet mornings or relaxing evenings, and the essentials of modern connectivity with complimentary WiFi and private parking, all without the intrusion of smoke.
 
 The space itself is thoughtfully designed, featuring a single bedroom that promises a restful night's sleep, a fully equipped kitchen for those who enjoy the comforts of home-cooked meals, and a bathroom that caters to the needs of modern travelers. Entertainment is readily available with a flat-screen TV, ensuring guests have access to global media and local programming alike.
 
 Strategically situated, the apartment is a mere 2.4 km from the National Museum of History Albania, offering a deep dive into the country's past, and stands at a convenient distance from the Tirana International Mother Teresa Airport, making arrivals and departures as smooth as possible. For those looking to venture further, the Rock of Kavaje is within reach, presenting an opportunity for an unforgettable day trip.
 
 Lovely Apartment B is more than just a place to stay; it's a gateway to experiencing the heart of Tirana, wrapped in the comfort of a home away from home.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

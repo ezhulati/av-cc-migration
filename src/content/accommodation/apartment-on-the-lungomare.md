@@ -1,30 +1,7 @@
----
-title: Apartment on the Lungomare
-description: Guests are greeted with a spacious balcony that sets the stage for relaxing evenings or morning contemplation with a view. The interior of the apartment does no
-featuredImage: "/images/accommodation/438078421.jpg"
-language: en
-slug: apartment-on-the-lungomare
-location: ""
-amenities: []
-images: []
----
-
-Guests are greeted with a spacious balcony that sets the stage for relaxing evenings or morning contemplation with a view. The interior of the apartment does not disappoint, featuring an air-conditioned space thoughtfully designed with a separate bedroom, a cozy living room, a fully equipped kitchen for those who love to prepare their meals, and a well-appointed bathroom. Entertainment needs are catered to with a flat-screen TV, making it a home away from home.
+---\ntitle: "Apartment on the Lungomare"\ndescription: "Apartment on the Lungomare emerges as a prime choice for travelers seeking a serene getaway in Vlorë, offering a perfect blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438078421.jpg?k=10598a73cb571d4082d43d224e186e5d4a5f1cda71b767325e3a598d42a8a2af&o=&hp=1"\nlanguage: en\nslug: apartment-on-the-lungomare\naddress: "Rr. Murat Terbaci, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.43562676\n  lng: 19.49563182\nprice: "US$58"\npriceFrom: 58\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438078421.jpg?k=10598a73cb571d4082d43d224e186e5d4a5f1cda71b767325e3a598d42a8a2af&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438192382.jpg?k=c26d28cd7b8b9a48d8ce52ca280477d5c0d9a70d7b1d1de9e6692a5113264d6e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438192870.jpg?k=714289a8542c6c6d1fd087b0a64158af18eb55331c14de38f74252ec9f9ffc85&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438192379.jpg?k=86d0b3414ef25cca668b9e12b66bb09233714d55ec894ffdc4d3b3cd242f2f7e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438192613.jpg?k=8f66e58b08114bbb962aa396c6fce82f6d03af34de9f03162d72f7ff8dfa92ab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438192718.jpg?k=d23da5a182d582aa8b7d61a424d670b83994020836817c1c3523991e2934283a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438078489.jpg?k=d2a9c48b49eb1d96e9d831ec12c2cc2ebd410e6fedc087c00fe21d3efa92091c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438078508.jpg?k=f5eaf0b78f743884142b42ec1e9f8fa147d98f449026380b426575a7b642288b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438192723.jpg?k=cedd99cf53aa06449312608d09272f0c636aac5259fe93450920848d735348b3&o=&hp=1"\namenities:\n  - "Private parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom House"\nnearbyRestaurants:\n  - "Rajan 30 m"\n  - "The Boss 30 m"\nnearbyBeaches:\n  - "Ri Beach 100 m"\n  - "Vlore Beach 800 m"\n  - "Beach at Government Villas 1.9 km"\n  - "Vjetër Beach 2.2 km"\n  - "Liro Beach 2.6 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 100 m"\n  - "Kuzum Baba 3.6 km"\n  - "Independence Square 3.9 km"\nreviews:\n  - name: "Dariusz"\n    country: "Poland"\n    text: "“The apartment is located in a quiet neighborhood with direct access to the beach (just cross the street). There is a free parking lot nearby and we found a parking space without any problems. The apartment is equipped with everything you need....”"\nbookingURL: "https://www.booking.com/hotel/al/apartment-on-the-lungomare.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are greeted with a spacious balcony that sets the stage for relaxing evenings or morning contemplation with a view. The interior of the apartment does not disappoint, featuring an air-conditioned space thoughtfully designed with a separate bedroom, a cozy living room, a fully equipped kitchen for those who love to prepare their meals, and a well-appointed bathroom. Entertainment needs are catered to with a flat-screen TV, making it a home away from home.
 
 The commitment to guest comfort is evident with the provision of complimentary WiFi throughout the property, ensuring that guests stay connected with the world or plan their next day's adventure in Vlorë. For those arriving by car, the convenience of private parking on site is a notable perk.
 
 Strategically positioned, the Apartment on the Lungomare is not only close to Ri Beach but also a short distance from Vlore Beach, less than 1 km away, offering ample opportunities for sunbathing, swimming, and water sports. For those looking to explore further, the Beach at Government Villas is within 2 km, presenting another picturesque spot for relaxation. For international travelers, the Tirana International Mother Teresa Airport is 153 km away, making the apartment an accessible retreat.
 
 In summary, Apartment on the Lungomare stands out as an exceptional choice for those seeking to explore the beauty of Vlorë while enjoying the comforts of a well-appointed holiday home.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,6 @@
----
-title: Class Home
-description: "Guests at Class Home are treated to the luxury of complimentary private parking and high-speed WiFi, ensuring a stay that is both effortless and connected."
-featuredImage: "/images/accommodation/471728927.jpg"
-language: en
-slug: class-home
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Class Home"\ndescription: "Class Home emerges as a serene retreat in the heart of Ksamil, a mere stroll away from the pristine Sunset Beach and the vibrant Ksamil Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471728927.jpg?k=ea74468e2c3f3d10efebcf501fab8524453ce36147946631c7556dd733c61cf7&o=&hp=1"\nlanguage: en\nslug: class-home\naddress: "Rruga Ksamil, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 39.77555605\n  lng: 20.00529568\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471728927.jpg?k=ea74468e2c3f3d10efebcf501fab8524453ce36147946631c7556dd733c61cf7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486871148.jpg?k=7a854675bff9e0b57bfc4b72d9db83d4624c22a10ee644c07be65e2cf8c953b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471728966.jpg?k=c9618fb60178227b5a6c903894cc5d739fe9bba55cc2e02c6cb4a944ce046b0d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486871531.jpg?k=624182994018447fc6a7950971870a509508ece1faedc7743ae78b5119949f0f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473422111.jpg?k=cca4fa897a33859e5bc3f3b65006bf62676bffcaf34a5f96dcfe66528d068d43&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473421101.jpg?k=f3cad7c0b91d0ff33e0dc6a32dbcfb2451ecd9d67b931c5753b7d120761f5c12&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486871533.jpg?k=fb8829fefbca16713bf30fdca37f080261267204c4198ff0c5d73de11a20a774&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486871143.jpg?k=08be1b064bb1534ee8e5474ae50d135309914a7c6a23f88db260c69cc7b5fef4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473421328.jpg?k=b6a110af184054da8ee466b122d3730c096f1b87813f65a6a42e6b7c0d251a31&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Breakfast"\nnearbyAttractions:\n  - "Museum of Banknotes 18 km"\n  - "New Fortress 18 km"\n  - "Serbian Museum 19 km"\n  - "Theotoki G. Square 19 km"\n  - "Archaeological Museum 19 km"\n  - "Ntougkla Square 19 km"\n  - "Trion Martiron Park 20 km"\n  - "Mon Repos Palace 20 km"\nnearbyRestaurants:\n  - "Elle Bouffe 100 m"\n  - "Taverna Siciliana 100 m"\nnearbyBeaches:\n  - "Ksamil Beach 350 m"\n  - "Coco Beach 350 m"\n  - "Sunset Beach 450 m"\n  - "Ksamil Beach 7 650 m"\n  - "Bora Bora Beach 750 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 950 m"\n  - "Butrint National Park 2.7 km"\n  - "Plazhi I Krorezes 2.7 km"\n  - "Parc National de Butrint 9 km"\n  - "Byzantine Museum 18 km"\n  - "Public Garden 18 km"\n  - "Solomos Museum 18 km"\n  - "Asian Art Museum 18 km"\n  - "Old Fortress 18 km"\nairports:\n  - "Corfu International Airport 20 km"\n  - "Ioannina Airport 69 km"\nreviews:\n  - name: "Mario"\n    country: "Germany"\n    text: "“Top Gastgeber ! Top Frühstück ! Sehr freundlich und die Unterkunft 1a
+Werden auf jeden Fall dort wieder Buchen”"\nbookingURL: "https://www.booking.com/hotel/al/class-home.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Class Home are treated to the luxury of complimentary private parking and high-speed WiFi, ensuring a stay that is both effortless and connected. The property prides itself on maintaining a smoke-free environment, catering to the health and well-being of all guests. 
 
-Guests at Class Home are treated to the luxury of complimentary private parking and high-speed WiFi, ensuring a stay that is both effortless and connected. The property prides itself on maintaining a smoke-free environment, catering to the health and well-being of all guests.
-
-Entertainment is never far away, with each room featuring a state-of-the-art flat-screen TV, perfect for unwinding after a day of exploration. For those looking to immerse themselves in the natural beauty of the area, Butrint National Park is just 3.5 km away, offering a rich tapestry of history and nature to explore.
+Entertainment is never far away, with each room featuring a state-of-the-art flat-screen TV, perfect for unwinding after a day of exploration. For those looking to immerse themselves in the natural beauty of the area, Butrint National Park is just 3.5 km away, offering a rich tapestry of history and nature to explore. 
 
 Situated 93 km from Corfu International Airport, Class Home stands as an accessible haven for travelers seeking a blend of relaxation and adventure in the picturesque setting of Ksamil.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -7,6 +7,9 @@ featuredImage: /images/attractions/valbona-valley-national-park.jpg
 images: []
 language: en
 slug: valbona-valley-national-park
+seo:
+  metaTitle: "%title% %sep% | Hiking in the Albanian Alps"
+  metaDescription: "A guide to Valbona Valley National Park—Albania’s most spectacular hiking destination deep in the Accursed Mountains."
 ---
 
 Hiking in Albania’s Untamed NorthIn the Wild North
@@ -102,10 +105,3 @@ Late May through early October is the optimal hiking season. Snow can linger in 
 
 Pack for shifting weather, bring offline maps, and carry cash—there are no ATMs in the valley.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

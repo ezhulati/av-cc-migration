@@ -1,30 +1,7 @@
----
-title: Sea Breeze Apartment Bougainville Bay
-description: The apartment itself is a haven of home-like comfort, boasting a fully equipped kitchen, complete with an oven and dining area, ensuring guests can enjoy home-c
-featuredImage: "/images/accommodation/47443824.jpg"
-language: en
-slug: sea-breeze-apartment-bougainville-bay
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of home-like comfort, boasting a fully equipped kitchen, complete with an oven and dining area, ensuring guests can enjoy home-cooked meals with ease. The inclusion of a private bathroom with a shower, alongside a living area featuring a flat-screen TV, adds to the apartment's appeal, making it a cozy retreat after a day of exploration.
+---\ntitle: "Sea Breeze Apartment Bougainville Bay"\ndescription: "Sea Breeze Apartment Bougainville Bay stands out as a prime choice for travelers seeking comfort and convenience mere steps from the sandy shores of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/47443824.jpg?k=0827527dcb8fbaf673ebdcb9f66adb6e9582e5cff5bd842aed9ae70256870edc&o=&hp=1"\nlanguage: en\nslug: sea-breeze-apartment-bougainville-bay\naddress: "Rr. Butrinti 226, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86389013\n  lng: 20.01867773\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 12\nratings:\n  overall: 9\n  location: 9\n  cleanliness: 8.5\n  facilities: 9.2\n  value: 9.2\n  comfort: 9\n  staff: 9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/47443824.jpg?k=0827527dcb8fbaf673ebdcb9f66adb6e9582e5cff5bd842aed9ae70256870edc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479722109.jpg?k=656ae50d8f725b469deb2fad76187dd6b09de4ec668e7a0fc635012cae2c2f84&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/116865290.jpg?k=3f7ba8440372ff0e23ec04f7bdffdde18681b6b4f6cd6ec1d9acbe89b871b488&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479721741.jpg?k=b7de6831869bc800d50a1fdc9fe4beb32bfa167cc331d8938bdd75cdf7ff340e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/116865284.jpg?k=cb034ff9f10afe595c895fc6129b83aaee43005d8cc0e77fc87c58cea6e310d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479720948.jpg?k=d76fdebfa156e765c9beeaef5daf1fc0383c2169ae866f18cfe23d0d1b324c3c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194063147.jpg?k=a88a8734c413069069259f780196dac280167b5b03ad4a8dee68634a8be4ab91&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/116865134.jpg?k=04bbdf7b12552fecb71f226e43ec4f6aea30a4ba023935a1b8eef063f7e49527&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194063082.jpg?k=3c9b0663f44fe7b44f70a2c8081d494976bb5181eb9e8384492a791b16c69214&o=&hp=1"\namenities:\n  - "3 swimming pools"\n  - "Spa and wellness centre"\n  - "Non-smoking rooms"\n  - "Fitness centre"\n  - "Free parking"\n  - "Free WiFi"\n  - "Facilities for disabled guests"\n  - "Family rooms"\n  - "Bar"\n  - "Private beach area"\nnearbyBeaches:\n  - "Maestral Beach 350 m"\n  - "VIP Beach 550 m"\n  - "La Petite Beach 600 m"\n  - "Santa Quaranta Beach 600 m"\n  - "Flamingo Beach 850 m"\nreviews:\n  - name: "Agnieszka"\n    country: "Poland"\n    text: "“Everything was great! I would like to come back to this place. Very nice, comfortable with magical view and in awesome place <3 swimming pool was really next to the apartment. People working in this place was always very nice and helpful.”"\n  - name: "Bekim"\n    country: "Belgium"\n    text: "“Super bien situé proche de Tours linge piscine magasin centre-ville propriétaire sympa”"\n  - name: "Angela"\n    country: "Italy"\n    text: "“Meraviglioso è dire poco. Bellissimo appartamento, pulito, in bagno c'erano asciugamani di ogni tipo, la doccia molto grande, c'erano tutti i detergenti e saponi , dal detersivo della lavatrice al sapone dei piatti, a quello delle mani, cucina...”"\nbookingURL: "https://www.booking.com/hotel/al/apartment-bougainville.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of home-like comfort, boasting a fully equipped kitchen, complete with an oven and dining area, ensuring guests can enjoy home-cooked meals with ease. The inclusion of a private bathroom with a shower, alongside a living area featuring a flat-screen TV, adds to the apartment's appeal, making it a cozy retreat after a day of exploration.
 
 For those looking to soak up the sun, the outdoor pool, complete with a sundeck, awaits within the building complex, available for a nominal surcharge. The convenience of having a restaurant and grocery store nearby enhances the stay, providing easy options for dining and essentials.
 
 Adventure seekers will appreciate the bike hire service offered on-site, presenting an ideal way to explore the surrounding area. The proximity to Butrint National Park, just 6 km away, opens up opportunities for guests to immerse themselves in the natural beauty and historical significance of the region.
 
 Located a short 15-minute walk from the center of Sarandë, Sea Breeze Apartment Bougainville Bay offers a blend of relaxation, convenience, and adventure, making it a compelling choice for travelers looking to experience the best of the Albanian Riviera.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

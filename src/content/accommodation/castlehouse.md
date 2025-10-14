@@ -1,30 +1,8 @@
----
-title: CastleHouse
-description: Connectivity is seamless with complimentary WiFi enveloping the premises, ensuring that guests stay connected with the world or plan their next adventure in Elb
-featuredImage: "/images/accommodation/329239295.jpg"
-language: en
-slug: castlehouse
-location: ""
-amenities: []
-images: []
----
-
-Connectivity is seamless with complimentary WiFi enveloping the premises, ensuring that guests stay connected with the world or plan their next adventure in Elbasan. For those looking to explore the local area at their own pace, CastleHouse provides bike hire services, adding a touch of adventure to the stay. The presence of a well-maintained garden and barbecue facilities further enhances the outdoor experience, allowing guests to enjoy leisurely evenings under the stars.
+---\ntitle: "CastleHouse"\ndescription: "CastleHouse stands out as a charming guest house in Elbasan, offering a unique blend of comfort and convenience for travelers seeking an authentic stay."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329239295.jpg?k=11ee0a37023a386c802d1ca0bc5def5111951375be21d5a1f680f35a013717e8&o=&hp=1"\nlanguage: en\nslug: castlehouse\naddress: "Rr. Vasil Moisiu 1. , 3000 Elbasan, Albania"\ncity: "Elbasan"\nlocation: "Elbasan"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 41.11526671\n  lng: 20.08030389\nprice: "US$75"\npriceFrom: 75\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 49\nratings:\n  overall: 9.8\n  location: 9.9\n  cleanliness: 9.4\n  facilities: 9.8\n  value: 9.7\n  comfort: 9.8\n  staff: 9.9\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329239295.jpg?k=11ee0a37023a386c802d1ca0bc5def5111951375be21d5a1f680f35a013717e8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/239447908.jpg?k=b278c9d409eabfbca9046095e7f648debc60b0d7e5d5b4ea17c0b802fc85cd65&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/188417137.jpg?k=28a85163bfe9621e67251eb9d7fdcec1074bf69a11f55b89a50f6596a23cb655&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/188710978.jpg?k=d95b237b5f551f38d3258515f77d800f144d42dbbec658bcc3cf5dc56052f198&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/243099515.jpg?k=df019707ade9fceda7b4d7ddf6c75035af7f17455d1895dafb2c73cb5939b34a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/240253186.jpg?k=b0d354d5c6dbfa0a814aa618f32acc3a28da013e07466d28ba9f359cec1ce754&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Airport shuttle (free)"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Tea/coffee maker in all rooms"\nroomTypes:\n  - "Two-Bedroom Townhouse"\nnearbyRestaurants:\n  - "Bar Sfins 100 m"\n  - "NFole & Coctail 150 m"\nwhatsNearby:\n  - "Dajti Mountain National Park 18 km"\nairports:\n  - "Tirana International Airport Mother Teresa 43 km"\n  - "Ohrid Airport 55 km"\nreviews:\n  - name: "Thijs"\n    country: "Netherlands"\n    text: "“Great house at great location! Elbasan had a pretty old city centre without a lot of tourism. The house is located in the historic centre and the host is a friendly guy.”"\n  - name: "Sebnem"\n    country: "Turkey"\n    text: "“The owner of the house is a kind and helpful man. We could reach him at any time. Location of the house is good. It is in the middle of Castle area. There are two parking places which are very close and 2 Euros per day. The house is a 2 flat...”"\n  - name: "Balázs"\n    country: "Hungary"\n    text: "“Really nice location. Kind hosts, easy to communicate.
+Historical house in the neighbourhood of medieval churhch.”"\nbookingURL: "https://www.booking.com/hotel/al/castlehouse.en-gb.html?aid=8035640"\nbestFor: "Best for Historical Sites Proximity"\nbestCategories: "Historical Sites Proximity"\ncategory: "Historical Sites Proximity"\n---\n\nConnectivity is seamless with complimentary WiFi enveloping the premises, ensuring that guests stay connected with the world or plan their next adventure in Elbasan. For those looking to explore the local area at their own pace, CastleHouse provides bike hire services, adding a touch of adventure to the stay. The presence of a well-maintained garden and barbecue facilities further enhances the outdoor experience, allowing guests to enjoy leisurely evenings under the stars.
 
 Accommodations at CastleHouse are thoughtfully designed with guest comfort in mind. Each room is equipped with air conditioning, ensuring a restful environment regardless of the weather outside. The convenience of having a fridge, oven, kettle, and even a bidet speaks to the guest house's attention to detail. Personal care items and a hairdryer are standard, ensuring guests have everything they need for a comfortable stay. The private bathrooms, complete with showers and complimentary toiletries, add an extra layer of privacy and convenience.
 
 What sets the rooms apart is the stunning garden view they offer, allowing guests to wake up to the beauty of Elbasan every morning. The seating area in each room provides a cozy nook for guests to unwind after a day of exploration.
 
 Located 71 km from Tirana International Mother Teresa Airport, CastleHouse is conveniently positioned for travelers. Its blend of modern amenities, coupled with the charm of its surroundings, makes it an ideal choice for those looking to experience Elbasan in a comfortable and welcoming setting.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

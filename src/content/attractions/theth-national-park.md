@@ -7,6 +7,9 @@ featuredImage: /images/attractions/theth-national-park.jpg
 images: []
 language: en
 slug: theth-national-park
+seo:
+  metaTitle: "Theth National Park – Visit Albania’s Untamed Wilderness"
+  metaDescription: "Nestled near Albania's borders with Montenegro and Kosovo, Theth National Park delivers scenic trails and historic villages for tourists."
 ---
 
 Exploring Albania’s Untouched Wilderness
@@ -51,10 +54,3 @@ But Theth National Park also safeguards age-old village cultures like guest hous
 
 Seek out their wisdom before trekking independently too deep into the easily disorienting folds between razor-thin ridges still mostly uncharted on even the best maps of the frontier highlands. Many visitors enter with trepidations, soon soothed by bonding with communities thriving fluidly amidst Theth’s splendid isolations.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

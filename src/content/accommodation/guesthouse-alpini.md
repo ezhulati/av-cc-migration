@@ -1,15 +1,4 @@
----
-title: Guesthouse Alpini
-description: The property boasts a well-maintained garden that serves as a peaceful oasis for guests. With the convenience of complimentary private parking and WiFi, visitor
-featuredImage: "/images/accommodation/106194256.jpg"
-language: en
-slug: guesthouse-alpini
-location: ""
-amenities: []
-images: []
----
-
-The property boasts a well-maintained garden that serves as a peaceful oasis for guests. With the convenience of complimentary private parking and WiFi, visitors are ensured a hassle-free stay. The guesthouse takes pride in its array of amenities, including a sun terrace and a barbecue area, perfect for guests looking to relax or socialize while soaking in the breathtaking mountain and garden views.
+---\ntitle: "Guesthouse Alpini"\ndescription: "Guesthouse Alpini emerges as a serene retreat in the heart of Lëpushë, situated within the picturesque Shkoder County."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106194256.jpg?k=15a4398208fa6bf3715436e9cefcb9bb8c34b2104585028830ac9919ffa1cd54&o=&hp=1"\nlanguage: en\nslug: guesthouse-alpini\naddress: "Rruga Lepushe, 1000 Lëpushë, Albania"\ncity: "Lëpushë"\nlocation: "Lëpushë"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 42.53404252\n  lng: 19.72400386\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.7\nratingWords: "Very Good"\nnumberOfReviews: 78\nratings:\n  overall: 8.7\n  location: 9.5\n  cleanliness: 8.9\n  facilities: 8\n  value: 9\n  comfort: 8.6\n  staff: 9.5\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106194256.jpg?k=15a4398208fa6bf3715436e9cefcb9bb8c34b2104585028830ac9919ffa1cd54&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/153346920.jpg?k=6b5debe5063735b0d065300781236b8b868ca61a97a7e7596a0f36f507b3d8da&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106806043.jpg?k=da1e8ddccebdcb23fcf923413e30c4772664a60455740c5718d10e1fa9913e5e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269954182.jpg?k=baaf11684ee6ad7c7ae771c7aef9cf10fa4cf0d3c39bde6964429320b6382246&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/153347287.jpg?k=0a18a0cab4061de5bdedda165fa69d79bc509849a7e189061fb1a0432d26c454&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/94129975.jpg?k=84010335ab6e2cc0f8e0f068d6a0a59a6e7e9752f10d3bb231daf6455721dbb6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/153346932.jpg?k=3e7061f52f160c51cc9d73f4eb6fcbb53ecfae546fc4d7ae5fde04e80d663fe3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106806113.jpg?k=8d75c5d09e53c2358fb3e70c6f7364eb003dae381adda5559a7cd2b85ca39b35&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462513566.jpg?k=076ca5ae0cddb2db46b38286823a771ace43ca8e3f3c3b41562b1e6d8e48fd47&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "2 restaurants"\n  - "Airport shuttle"\n  - "Good free WiFi (19 Mbps)"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Bar Tonini 450 m"\n  - "Restorant Kelmendi 850 m"\nwhatsNearby:\n  - "Prokletije National Park 2.4 km"\n  - "Theth National Park 8 km"\n  - "Valbona Valley National Park 11 km"\n  - "Theth National Park 14 km"\n  - "Prokletije National Park 17 km"\n  - "Nacionalni Park Prokletije 17 km"\n  - "Parku Kombëtar Lugina e Valbonës 18 km"\n  - "Nacionalni park Prokletije 18 km"\nairports:\n  - "Podgorica Airport 42 km"\n  - "Tivat Airport 83 km"\nreviews:\n  - name: "Nevila"\n    country: "Albania"\n    text: "“Guesthouse Alpini had a very welcomed and friendly staff. They helped us with everything we needed. Breakfast lunch and dinner there was amazing we enjoyed so much and had fun a lot. Thank you so much !”"\n  - name: "Maria"\n    country: "Netherlands"\n    text: "“The location is just perfect with a stunning view. The staff is very friendly and the home cooked meals phantastic.”"\n  - name: "Martina"\n    country: "Czech Republic"\n    text: "“Great location and very nice view from the balcony and terrace, delicious breakfast!”"\nbookingURL: "https://www.booking.com/hotel/al/guesthouse-alpini.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe property boasts a well-maintained garden that serves as a peaceful oasis for guests. With the convenience of complimentary private parking and WiFi, visitors are ensured a hassle-free stay. The guesthouse takes pride in its array of amenities, including a sun terrace and a barbecue area, perfect for guests looking to relax or socialize while soaking in the breathtaking mountain and garden views.
 
 Accommodations at Guesthouse Alpini are thoughtfully designed, with select units featuring a dressing room for added privacy and convenience. All units are equipped with essential bed linen and towels, ensuring a comfortable and worry-free stay.
 
@@ -20,15 +9,3 @@ Adventure enthusiasts will find Guesthouse Alpini to be an ideal base, with its 
 Located 59 km from Podgorica Airport, the guesthouse also offers a paid airport shuttle service, ensuring smooth and stress-free transfers for travelers.
 
 In summary, Guesthouse Alpini stands out as a delightful haven for those seeking to explore the natural wonders of Lëpushë and its surroundings, offering a blend of comfort, convenience, and scenic beauty.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

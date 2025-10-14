@@ -1,28 +1,5 @@
----
-title: Dhome me qera
-description: "A stone's throw away from significant historical landmarks, Dhome me qera is conveniently situated 2."
-featuredImage: "/images/accommodation/494564101.jpg"
-language: en
-slug: dhome-me-qera
-location: ''
-amenities: []
-images: []
----
-
-A stone's throw away from significant historical landmarks, Dhome me qera is conveniently situated 2.2 km from the Former Residence of Enver Hoxha, and a short stroll of 1.6 km will lead guests to both the Clock Tower Tirana and the Et'hem Bey Mosque, enriching their stay with cultural immersion. The National Theatre of Opera and Ballet of Albania, another gem, is located just 1.4 km away, offering a taste of Albania's rich artistic heritage.
+---\ntitle: "Dhome me qera"\ndescription: "Dhome me qera emerges as a prime choice for travelers seeking a serene stay in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494564101.jpg?k=46663f067449be886e19f9547dfcfd939ce2d006692061a6095a50e9acd7e11d&o=&hp=1"\nlanguage: en\nslug: dhome-me-qera\naddress: "Rruga Muhamet Gjollesha, Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33194028\n  lng: 19.80458889\nprice: "US$62"\npriceFrom: 62\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494564101.jpg?k=46663f067449be886e19f9547dfcfd939ce2d006692061a6095a50e9acd7e11d&o=&hp=1"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Skanderbeg Square 1.3 km"\n  - "Clock Tower Tirana 1.4 km"\n  - "Rinia Park 1.4 km"\n  - "National Gallery of Arts Tirana 1.5 km"\n  - "Former Residence of Enver Hoxha 1.6 km"\n  - "Tanners' Bridge 1.9 km"\n  - "Grand Park of Tirana 2.8 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "North london 20 m"\n  - "AM Eisberg 50 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Mine Peza 300 m"\n  - "Sheshi Rekreativ Don Bosko 450 m"\n  - "Sheshi Rekreativ Parku 1Km 700 m"\n  - "Sheshi Paris 900 m"\n  - "Sheshi Rekreativ Shefqet Musaraj 950 m"\n  - "Sheshi Rekreativ Sali Butka 1.1 km"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 1.1 km"\n  - "National Museum of History Albania 1.1 km"\n  - "Sheshi Rekreativ Lord Bajron 1.1 km"\n  - "House of Leaves 1.2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 80 km"\nbookingURL: "https://www.booking.com/hotel/al/dhome-me-qera.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nA stone's throw away from significant historical landmarks, Dhome me qera is conveniently situated 2.2 km from the Former Residence of Enver Hoxha, and a short stroll of 1.6 km will lead guests to both the Clock Tower Tirana and the Et'hem Bey Mosque, enriching their stay with cultural immersion. The National Theatre of Opera and Ballet of Albania, another gem, is located just 1.4 km away, offering a taste of Albania's rich artistic heritage.
 
 For those who appreciate the convenience of location, the apartment is within close proximity to the House of Leaves, Rinia Park, and the National Museum of History Albania, making it an ideal base for exploring the city's key attractions. Moreover, the Tirana International Mother Teresa Airport is only 12 km away, ensuring easy arrivals and departures.
 
 Guests will be pleased to find that Dhome me qera is a non-smoking accommodation, ensuring a clean and healthy environment during their stay. Whether in town for leisure or exploration, this apartment stands out as a top selection for those who value comfort, location, and a smoke-free atmosphere.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

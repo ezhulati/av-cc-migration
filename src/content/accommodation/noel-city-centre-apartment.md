@@ -1,26 +1,3 @@
----
-title: Noel City Centre Apartment
-description: Boasting a generous layout, the apartment features two well-appointed bedrooms and a bathroom, complete with essential linens and towels. Entertainment and dini
-featuredImage: "/images/accommodation/493614134.jpg"
-language: en
-slug: noel-city-centre-apartment
-location: ""
-amenities: []
-images: []
----
-
-Boasting a generous layout, the apartment features two well-appointed bedrooms and a bathroom, complete with essential linens and towels. Entertainment and dining needs are catered to with a flat-screen TV and a designated dining area, while the fully equipped kitchen allows guests the freedom to prepare their own meals. Adding to the charm is a balcony that presents captivating views of the city, perfect for unwinding after a day of exploration.
+---\ntitle: "Noel City Centre Apartment"\ndescription: "Discover the comfort and convenience of Noel City Centre Apartment, a prime choice for travelers seeking a blend of modern amenities and prime location in Berat."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493614134.jpg?k=81fe3020835a526421255ba1a3bb238884708f7229d068a752f80ecaa9a21971&o=&hp=1"\nlanguage: en\nslug: noel-city-centre-apartment\naddress: "L. 22 tetori, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.70432196\n  lng: 19.9539803\nprice: "US$64"\npriceFrom: 64\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 5\nratings:\n  overall: 9.4\n  location: 9.5\n  cleanliness: 9.5\n  facilities: 9.5\n  value: 9\n  comfort: 9.5\n  staff: 9.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493614134.jpg?k=81fe3020835a526421255ba1a3bb238884708f7229d068a752f80ecaa9a21971&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493614126.jpg?k=ec162a82fb2696a70a97fd29559c76960b043e2ca503bab0dd9729b93aba50af&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493614075.jpg?k=926201d01d03201c6e81070e357557f7f43c98abec1c45ba1e30c5b5c523ff40&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493614047.jpg?k=dad99fb282de02d154096dc12a8c8c52501b06cb2b153e5aef89f31aa7c8f622&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493614190.jpg?k=cdaae5cfd28ebf6635473cf8f955d627de1da561cd60eb054304270f34201536&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494509238.jpg?k=e180341b4ef82eeabc93585bdd9595139aefc65ebcaca1e96b3aa8235959901f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493613982.jpg?k=402961f54e059a2e753b8e154d389fffce344b77554a57b9036fb2ddf98801ab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493614152.jpg?k=f942cad03dcb5e9987037a62ad55a40168b381fc91cb42dec9d3e202a018426e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493613978.jpg?k=ef5c774340b04866699c8129fc3fee03e4c42bd7883af5d5290e0fdf00b1a2e1&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Pizza Hallall Medine 30 m"\n  - "Zgara Zaloshnja 50 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 83 km"\nreviews:\n  - name: "Ermela"\n    country: "Albania"\n    text: "“Everything was great, the host was amazing and the property was in the city centre and so easy to find.”"\n  - name: "Jona"\n    country: "Albania"\n    text: "“Ambient shume i paster dhe komod.pozicioni i apartamentit shuuume i mire ,”"\nbookingURL: "https://www.booking.com/hotel/al/noel-city-centre-apartament.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nBoasting a generous layout, the apartment features two well-appointed bedrooms and a bathroom, complete with essential linens and towels. Entertainment and dining needs are catered to with a flat-screen TV and a designated dining area, while the fully equipped kitchen allows guests the freedom to prepare their own meals. Adding to the charm is a balcony that presents captivating views of the city, perfect for unwinding after a day of exploration.
 
 Designed with the guest's comfort in mind, the apartment includes thoughtful touches like a private entrance and soundproofing, ensuring a peaceful and uninterrupted stay. Situated 118 km from Tirana International Mother Teresa Airport, Noel City Centre Apartment stands as an ideal base for both short-term visits and extended stays in Berat, promising an experience that is as convenient as it is comfortable.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,15 +1,4 @@
----
-title: Redsun Apartment
-description: The air-conditioned apartments at Redsun are a testament to thoughtful design and comfort, each boasting a private patio that invites guests to relax and soak i
-featuredImage: "/images/accommodation/256483967.jpg"
-language: en
-slug: redsun-apartment
-location: ""
-amenities: []
-images: []
----
-
-The air-conditioned apartments at Redsun are a testament to thoughtful design and comfort, each boasting a private patio that invites guests to relax and soak in the picturesque surroundings. The property is particularly family-friendly, featuring spacious family rooms and a delightful children's playground that promises fun and laughter for the younger guests.
+---\ntitle: "Redsun Apartment"\ndescription: "Redsun Apartment stands as a beacon of comfort and convenience in Vlorë, offering breathtaking sea views and a mere stone's throw away from the serene Beach at Government Villas."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256483967.jpg?k=5bb08bc3d38f85ab0d67de4cb4c54bbc5b3d2bed316d63b28e0269ea8cb24b88&o=&hp=1"\nlanguage: en\nslug: redsun-apartment\naddress: "Dhimiter Konomi Street no. 63, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.42169292\n  lng: 19.49143991\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 8.3\nratingWords: "Very Good"\nnumberOfReviews: 26\nratings:\n  overall: 8.3\n  location: 7.9\n  cleanliness: 8\n  facilities: 7.6\n  value: 8.2\n  comfort: 8\n  staff: 8.3\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256483967.jpg?k=5bb08bc3d38f85ab0d67de4cb4c54bbc5b3d2bed316d63b28e0269ea8cb24b88&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462757852.jpg?k=fb085921338fe7e2c8d491575c8c1c6896e78a1829160943ffb0168dcab691de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265272844.jpg?k=6b14f246bd9fed41a0ce780dea7bf97036488494bbbb12aab4ae1f839f89e58e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265272824.jpg?k=cf1da9622219f97fb2c4cab5d7ba51b6f5b4310e85e99d63c85eb89d9d111022&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463057405.jpg?k=ec9703aaecb867bb6080b18de97742e728927f9cc8c7f271b39551ed00707dbd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463057298.jpg?k=ef8199d349c05d5243539d75838e01c31fd874102c9f955c2f110f7d4db049af&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Apartment with Mountain View"\n  - "Apartment with Garden View"\n  - "Family Room with Side Sea View"\n  - "Deluxe Apartment"\n  - "Apartment with Sea View"\nnearbyRestaurants:\n  - "Restorant Spiranca 30 m"\n  - "Tiku & Mato 50 m"\nnearbyBeaches:\n  - "Beach at Government Villas 450 m"\n  - "Ri Beach 950 m"\n  - "Liro Beach 1.2 km"\n  - "Coco Bongo Beach 2.2 km"\n  - "Vlore Beach 2.3 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.7 km"\n  - "Kuzum Baba 5 km"\n  - "Independence Square 6 km"\nairports:\n  - "Corfu International Airport 97 km"\nbookingURL: "https://www.booking.com/hotel/al/redsun-aparmtent.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe air-conditioned apartments at Redsun are a testament to thoughtful design and comfort, each boasting a private patio that invites guests to relax and soak in the picturesque surroundings. The property is particularly family-friendly, featuring spacious family rooms and a delightful children's playground that promises fun and laughter for the younger guests.
 
 Inside each apartment, guests are treated to a suite of amenities designed to make their stay as comfortable as possible. From the convenience of a well-equipped kitchenette, complete with a fridge and stovetop, to the luxury of a private bathroom with a walk-in shower, every detail has been considered. The inclusion of bed linen and towels in every unit adds a touch of home, ensuring a restful and rejuvenating stay.
 
@@ -18,15 +7,3 @@ For those who prefer to dine in or need essentials during their stay, the on-sit
 Located just a short distance from both Liro Beach and Ri Beach, Redsun Apartment offers an ideal base for exploring the natural beauty of the area. And with Tirana International Mother Teresa Airport 155 km away, it remains conveniently accessible for both local and international travelers.
 
 In summary, Redsun Apartment emerges as a top choice for those seeking a blend of comfort, convenience, and a touch of adventure in Vlorë. Whether you're here to explore the local beaches or simply to escape the hustle and bustle of daily life, this property promises a stay that's as relaxing as it is memorable.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

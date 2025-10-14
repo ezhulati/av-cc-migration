@@ -1,28 +1,5 @@
----
-title: Lara Home, brand new, modern and with a great view
-description: This air-conditioned apartment doesn't just promise comfort; it delivers it with style across its three bedrooms, spacious living room, and a terrace that boast
-featuredImage: "/images/accommodation/AOh14Gjgb_O5YZbHhLts2E7pNdX91GTU-XYmzvnOfhuElgs96-c64"
-language: en
-slug: lara-home-brand-new-modern-and-with-a-great-view
-location: ""
-amenities: []
-images: []
----
-
-This air-conditioned apartment doesn't just promise comfort; it delivers it with style across its three bedrooms, spacious living room, and a terrace that boasts stunning sea views. Guests can enjoy the convenience of a fully equipped kitchen, complete with an oven and toaster, making self-catering a breeze. The presence of four bathrooms, each with a walk-in shower, ensures that privacy and convenience are guaranteed for all guests. Adding to the comfort are the thoughtful inclusions of towels and bed linen.
+---\ntitle: "Lara Home, brand new, modern and with a great view"\ndescription: "Lara Home stands out as a contemporary gem in Sarandë, offering guests a unique blend of modern comfort and breathtaking views."\nfeaturedImage: "https://lh3.googleusercontent.com/a-/AOh14Gjgb_O5YZbHhLts2E7pNdX91GTU-XYmzvnOfhuElg=s96-c64"\nlanguage: en\nslug: lara-home-brand-new-modern-and-with-a-great-view\naddress: "Rruga Adem Sheme House 4, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87975979\n  lng: 19.99943223\nprice: "US$73"\npriceFrom: 73\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 6\nratings:\n  overall: 9.5\n  location: 7.5\n  cleanliness: 10\n  facilities: 9.2\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://lh3.googleusercontent.com/a-/AOh14Gjgb_O5YZbHhLts2E7pNdX91GTU-XYmzvnOfhuElg=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/us/773915f00a1da98cfe003f9e7bf29d8b3905dd22.png"\n  - "https://graph.facebook.com/v2.9/3928330310629408/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372804706.jpg?k=b9e1d5febf39b08bcaf45e4e1bc35f4bf21c30818da77abee6cf7adc9211950f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/372805329.jpg?k=7d064e9df143999748e2b224222c8168b46b804b4cd961af2dfdebf5129a8657&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/372804717.jpg?k=4856fae0c9125595e1e5665b587c77e7210159a76ea72b62e38f0b7ec00f932b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/372804692.jpg?k=518a59a6af096c05ad5eb789b586cb356df21add5e237b5a9521a1e93b163568&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/372804703.jpg?k=c9f69b2481b501169c39ef16affe06a6626b666eb47e421ad56ee54a5a257f02&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Free parking"\n  - "Family rooms"\n  - "Terrace"\nroomTypes:\n  - "Three-Bedroom House"\nnearbyBeaches:\n  - "Sarande Main Beach 1 km"\n  - "Saranda City Beach 1.1 km"\n  - "Saranda Bay Beach 1.6 km"\n  - "La Petite Beach 1.8 km"\n  - "Maestral Beach 2 km"\nreviews:\n  - name: "Denise"\n    country: "United States"\n    text: "“air conditioning in all rooms, private ensuite baths, laundry and so much space. Beautiful home. Responded quickly to requests.”"\n  - name: "Robert"\n    country: "Poland"\n    text: "“Bardzo ladny apartament. Wszystko nowe w obiekcie na najwyższym poziomie . Pomieszczenia klimatyzowane . Polecam każdemu. Właściciel bardzo mily i pomocny w każdej sytuacji.”"\nbookingURL: "https://www.booking.com/hotel/al/lara-home-brand-new-modern-and-with-a-great-view.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThis air-conditioned apartment doesn't just promise comfort; it delivers it with style across its three bedrooms, spacious living room, and a terrace that boasts stunning sea views. Guests can enjoy the convenience of a fully equipped kitchen, complete with an oven and toaster, making self-catering a breeze. The presence of four bathrooms, each with a walk-in shower, ensures that privacy and convenience are guaranteed for all guests. Adding to the comfort are the thoughtful inclusions of towels and bed linen.
 
 One of the standout features of Lara Home is its commitment to providing a smoke-free environment, ensuring a clean and healthy stay for all guests. The added benefit of a private entrance enhances the feeling of exclusivity and privacy.
 
 For those traveling to or from the area, Ioannina Airport is located 98 km away, making Lara Home an accessible retreat for both local and international visitors. With its combination of modern amenities, stunning views, and a prime location, Lara Home is a top choice for travelers seeking a memorable stay in Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

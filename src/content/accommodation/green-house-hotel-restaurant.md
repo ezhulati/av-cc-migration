@@ -1,30 +1,11 @@
----
-title: Green House Hotel & Restaurant
-description: Each room at Green House is thoughtfully equipped with a television featuring an array of cable channels, alongside essentials such as a wardrobe and a desk. Th
-featuredImage: "/images/accommodation/129870674.jpg"
-language: en
-slug: green-house-hotel-restaurant
-location: ""
-amenities: []
-images: []
----
-
-Each room at Green House is thoughtfully equipped with a television featuring an array of cable channels, alongside essentials such as a wardrobe and a desk. The attention to detail extends to the private bathrooms, which are furnished with either a bathtub or shower and come stocked with complimentary toiletries, ensuring a stay that marries comfort with convenience.
+---\ntitle: "Green House Hotel & Restaurant"\ndescription: "Discover the charm of Green House Hotel & Restaurant, a gem located just a 15-minute stroll from the heart of Tirana and the iconic Skanderbeg Square."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/129870674.jpg?k=4c614b5cd4c548e51b1e47e1280b2ce526b81fe99e94f6e515d579fb21acee27&o=&hp=1"\nlanguage: en\nslug: green-house-hotel-restaurant\naddress: "Rruga Jul Varibova Nr 6, 1010 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.3232011\n  lng: 19.8237884\nprice: "US$81"\npriceFrom: 81\nstarRating: 4\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 379\nratings:\n  overall: 8.8\n  location: 9.4\n  cleanliness: 9\n  facilities: 8.6\n  value: 8.5\n  comfort: 9\n  staff: 9.1\n  wifi: 8.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/129870674.jpg?k=4c614b5cd4c548e51b1e47e1280b2ce526b81fe99e94f6e515d579fb21acee27&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/244791404.jpg?k=00215c8a2b43bed85212274259e44432ceba595f1232e3f3da7adad304a1a182&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/244791132.jpg?k=7fa8c634d72ede72e43c34e64ed1f4083fe0e3dd9d312126f73531c342a95f9e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/242869823.jpg?k=a070f1692fe1efae046374bebe9eb4a4f207ad831d7e60cca8630ea4ed7f481f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/242868618.jpg?k=085cf2dc83eb56f614d75adda8419f1b07dbd246a144d7f8937b450ff1fd4a0e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357558216.jpg?k=4712185b3bafe5b47e7ce99158f7ac636d5c9b4e2c4677a51244c42a9062b46d&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Standard Double Room"\n  - "Superior Double Room"\n  - "Standard Twin Room"\n  - "Triple Room"\n  - "Deluxe Family Suite"\nnearbyAttractions:\n  - "Clock Tower Tirana 600 m"\n  - "Skanderbeg Square 650 m"\n  - "House of Leaves 750 m"\n  - "National Museum of History Albania 900 m"\n  - "Grand Park of Tirana 1.2 km"\n  - "Bunk'Art 1 Museum 4.3 km"\nnearbyRestaurants:\n  - "Patala by Naga 10 m"\n  - "Kosherja 10 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Piramida 150 m"\n  - "Tanners' Bridge 400 m"\n  - "National Gallery of Arts Tirana 400 m"\n  - "Sheshi Rekreativ tek Arena Kombëtare 450 m"\n  - "Shesh Rekreativ 450 m"\n  - "Parku Rinia 450 m"\n  - "Shesh Rekreativ 500 m"\n  - "Rinia Park 500 m"\n  - "Sheshi Rekreativ tek ish ATSh 550 m"\n  - "Former Residence of Enver Hoxha 600 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Suzanne"\n    country: "United Kingdom"\n    text: "“Location, the hotel is lovely nicely decorated and situated. I stayed here with my son, our rooms were clean, beds comfy, my room was big. Staff were great.”"\n  - name: "Sebastian"\n    country: "Poland"\n    text: "“Free parking (included in room price)
+Clean, comfy, nice room Great localization - near to top places in Tirana and also good for use public transport
+well connected if you come by car - you don't get stuck in traffic jams when going south part...”"\n  - name: "Carole"\n    country: "United Kingdom"\n    text: "“Great location, short walk to restaurants and bars.
+Great nightlife over the weekend we were there.
+Good breakfast, nice staff. Our room was in a separate building but was spotlessly clean with a large balcony 😊loved it”"\nbookingURL: "https://www.booking.com/hotel/al/sokol-hysa.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach room at Green House is thoughtfully equipped with a television featuring an array of cable channels, alongside essentials such as a wardrobe and a desk. The attention to detail extends to the private bathrooms, which are furnished with either a bathtub or shower and come stocked with complimentary toiletries, ensuring a stay that marries comfort with convenience.
 
 The culinary experience at Green House is not to be missed. The on-site restaurant prides itself on a diverse menu that spans both Albanian specialties and international favorites, promising a gastronomic journey for every palate. For those looking to unwind, the hotel's bar serves as the perfect backdrop for relaxation after a day of exploration.
 
 The surrounding area of the hotel is a vibrant hub of activity, with a variety of cafés, bars, and restaurants just a five-minute walk away, offering guests a taste of Tirana's lively dining scene. For travelers flying in or out, the convenience of Tirana International Airport being just 19 km away makes Green House an ideal choice for both short and extended stays.
 
 In summary, Green House Hotel & Restaurant emerges as a top pick for travelers seeking a blend of comfort, convenience, and culinary delight in the heart of Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

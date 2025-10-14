@@ -1,30 +1,7 @@
----
-title: Apartments On The Beach
-description: Each unit at Apartments on the Beach is thoughtfully designed to enhance your stay, featuring balconies that offer a breath of fresh air, cozy seating areas wit
-featuredImage: "/images/accommodation/155373618.jpg"
-language: en
-slug: apartments-on-the-beach
-location: ""
-amenities: []
-images: []
----
-
-Each unit at Apartments on the Beach is thoughtfully designed to enhance your stay, featuring balconies that offer a breath of fresh air, cozy seating areas with TVs and sofas for relaxation, and well-equipped kitchenettes complete with fridges and dining areas for those home-cooked meals. The convenience of private bathrooms with showers adds to the comfort of your stay.
+---\ntitle: "Apartments On The Beach"\ndescription: "Apartments on the Beach, situated a mere 80 meters from the pristine shores and 3 kilometers from the vibrant heart of Sarandë, offers a unique self-catering accommodation experience with the added benefit of complimentary WiFi access."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155373618.jpg?k=9c9373ddeade824cb2cc426bdd1523c3a9a22f00ded3ca415f9fb44f6c0b51a7&o=&hp=1"\nlanguage: en\nslug: apartments-on-the-beach\naddress: ": 2nd Km Saranda - Butrinti Road Kanali Cukes, 9700 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.85268986\n  lng: 20.0235647\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.4\nratingWords: "Good"\nnumberOfReviews: 123\nratings:\n  overall: 7.4\n  location: 7.5\n  cleanliness: 7.3\n  facilities: 7\n  value: 7.7\n  comfort: 7.4\n  staff: 8.5\n  wifi: 6.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155373618.jpg?k=9c9373ddeade824cb2cc426bdd1523c3a9a22f00ded3ca415f9fb44f6c0b51a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310405301.jpg?k=08fdaeb3e2a952d21792e51241e9a3a61e1b05b1d97302dd6b590590e81cdd71&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310405053.jpg?k=6fc3d7377e882f023d6e8c07df0a9ef1ecbc0ce5b58b1826fb6b7c2190f2d649&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/212340800.jpg?k=a0eca76aeaedaa2d10ccb1fde01907754c2d4f58367978bcf2d8c8f2ed6ad337&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310405435.jpg?k=ab744889d962a62afbd7c7154c4518122d1e4ffb42aa8a58cc7674154d264c8a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310404821.jpg?k=79ba8af1e3c4b8e42c255813af37ab59195155d9be3d5cd3d88c70ffdb69d3f5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310404689.jpg?k=fa3070539ef414cd7084a56d73f541549aa3bbe3e9b70609d5dc5efcf0df8349&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259294963.jpg?k=96fba348676893501152ba30f4540ffe5870984124248726144d8da820d26d30&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259294887.jpg?k=2f35db1a80637abe528720aad153f901f96732b8c11cbe27a5878c8481f80587&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Terrace"\nnearbyRestaurants:\n  - "Sunrise 100 m"\n  - "Clubitalianelmondo 100 m"\nnearbyBeaches:\n  - "Mango Beach 200 m"\n  - "Flamingo Beach 350 m"\n  - "Santa Quaranta Beach 650 m"\n  - "VIP Beach 700 m"\n  - "Maestral Beach 1.6 km"\nwhatsNearby:\n  - "Butrint National Park 300 m"\n  - "Parc National de Butrint 700 m"\n  - "Plazhi I Krorezes 6 km"\n  - "Parku Kombetar I Butrintit 10 km"\n  - "Butrint National Park 10 km"\nairports:\n  - "Corfu International Airport 28 km"\n  - "Ioannina Airport 69 km"\nbookingURL: "https://www.booking.com/hotel/al/apartment-on-the-beach.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach unit at Apartments on the Beach is thoughtfully designed to enhance your stay, featuring balconies that offer a breath of fresh air, cozy seating areas with TVs and sofas for relaxation, and well-equipped kitchenettes complete with fridges and dining areas for those home-cooked meals. The convenience of private bathrooms with showers adds to the comfort of your stay.
 
 For those seeking adventure or simply a chance to reconnect with nature, the surrounding area does not disappoint. From swimming and snorkeling in the crystal-clear waters to exploring the natural beauty through nature walks, there's something for everyone. The historic Butrint National Park, a treasure trove of ancient ruins and natural beauty, is just 15 kilometers away, promising a memorable excursion.
 
 Travelers will appreciate the property's proximity to Corfu Airport, accessible via a 36-kilometer ferry ride from Sarandë Port, ensuring a smooth journey to and from the destination. Additionally, the convenience of free private parking on-site is a thoughtful touch, catering to those who prefer to explore the region by car.
 
 Apartments on the Beach not only promises a stay that is as comfortable and convenient as it is delightful but also serves as a gateway to the enchanting experiences that Sarandë has to offer.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

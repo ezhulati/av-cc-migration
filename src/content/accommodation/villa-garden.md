@@ -1,26 +1,4 @@
----
-title: Villa Garden
-description: Accommodations at Villa Garden are thoughtfully appointed, ensuring a comfortable stay for all guests. Each room is equipped with a kettle, allowing visitors th
-featuredImage: "/images/accommodation/363282521.jpg"
-language: en
-slug: villa-garden
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Villa Garden are thoughtfully appointed, ensuring a comfortable stay for all guests. Each room is equipped with a kettle, allowing visitors the comfort of preparing their own beverages. The convenience of complimentary WiFi in every room, coupled with the luxury of a private bathroom complete with a bath and slippers, elevates the guest experience. For added comfort, Villa Garden ensures that all accommodations are furnished with fresh bed linen and towels.
+---\ntitle: "Villa Garden"\ndescription: "Villa Garden emerges as a serene oasis in Berat, offering guests a tranquil retreat with its air-conditioned rooms and lush garden surroundings."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363282521.jpg?k=bac7e991967ee8eaea97b15588fd537073b8e432433948e4f7522eb767e79d82&o=&hp=1"\nlanguage: en\nslug: villa-garden\naddress: "Rruga Kostaq Koxhaku, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.70240598\n  lng: 19.95984352\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 173\nratings:\n  overall: 9.8\n  location: 9.4\n  cleanliness: 9.9\n  facilities: 9.6\n  value: 9.9\n  comfort: 9.8\n  staff: 10\n  wifi: 9.7\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363282521.jpg?k=bac7e991967ee8eaea97b15588fd537073b8e432433948e4f7522eb767e79d82&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447926133.jpg?k=aa0921006065837f6e3ff0092919c083371b16e62267212a457f6619167a3afb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447926486.jpg?k=eb1fecb874df567b194914bad4149706de57ea0480538e85dc04b35dda3ec0eb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363359881.jpg?k=c384b2bfd206edcf5c7eda6b0f01e609d26ba97d6c43837bb5a01206eb2052e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363282724.jpg?k=ca58cd87c4a6dbc80e3654458fa7745ac82c6a322b818b5f966df0f101337277&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447926145.jpg?k=6392a14621b5aaa327872d7bb804befc5b7c5dd6d79171466cdaca1c6e002a22&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363282781.jpg?k=1fbc430aed948f17debd1817fce7773c4db78786178c37dc05fb68e7862ff47f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363282805.jpg?k=64ea6068c3708fd7a5b711a8e3d05377eef02a387ac4913bf758201f8d11c6e1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447927627.jpg?k=0331874c3c2866fc750938d2f124d2bb695ef912b3471b0c93702bec209ebce5&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Superb breakfast"\nnearbyRestaurants:\n  - "Shpetimi 2 100 m"\n  - "Restorant Il Gusto 200 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 8 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 80 km"\n  - "Ohrid Airport 83 km"\nreviews:\n  - name: "広中"\n    country: "Japan"\n    text: "“Very friendly staff. Breakfast was delicious. And the value for money. If I visit Berat again, I will definitely stay here.”"\n  - name: "Joanna"\n    country: "Poland"\n    text: "“Amazing staff. A lady prepared for us flip flops and some raki for a degustation. She also prepared for us great and simple breakfast on the terrace and made us a traditional Albanian coffee.”"\n  - name: "Iris"\n    country: "Slovenia"\n    text: "“We were with motorbike and it was secure parking. Also the owner was very polite in kind. She told us about restaurant.
+We have got the welcome drink. I could only say: Thank you!”"\nbookingURL: "https://www.booking.com/hotel/al/villa-garden-berat.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nAccommodations at Villa Garden are thoughtfully appointed, ensuring a comfortable stay for all guests. Each room is equipped with a kettle, allowing visitors the comfort of preparing their own beverages. The convenience of complimentary WiFi in every room, coupled with the luxury of a private bathroom complete with a bath and slippers, elevates the guest experience. For added comfort, Villa Garden ensures that all accommodations are furnished with fresh bed linen and towels.
 
 Situated a considerable distance from the hustle and bustle, the guest house is located 119 km from Tirana International Mother Teresa Airport, making it an accessible escape for both local and international travelers seeking solace and relaxation in the heart of Berat.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

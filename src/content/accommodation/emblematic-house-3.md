@@ -1,28 +1,5 @@
----
-title: Emblematic House 3
-description: The interior of Emblematic House 3 is thoughtfully designed to cater to the needs of modern travelers. It features a cozy bedroom, a welcoming living room equip
-featuredImage: "/images/accommodation/505832653.jpg"
-language: en
-slug: emblematic-house-3
-location: ""
-amenities: []
-images: []
----
-
-The interior of Emblematic House 3 is thoughtfully designed to cater to the needs of modern travelers. It features a cozy bedroom, a welcoming living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen that includes an oven and a microwave, allowing guests the freedom to prepare their meals. The presence of a walk-in shower in the bathroom, along with the provision of towels and bed linen, adds a touch of home-like comfort.
+---\ntitle: "Emblematic House 3"\ndescription: "Emblematic House 3 emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the historic city of Gjirokastër."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505832653.jpg?k=65935dbb3727a7e2db92bb0ff2026184acc80781215deac5a5cfb972e7bbb63a&o=&hp=1"\nlanguage: en\nslug: emblematic-house-3\naddress: "Rruga Pertef Kokona, 5391 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.07515424\n  lng: 20.13495835\nprice: "US$78"\npriceFrom: 78\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505832653.jpg?k=65935dbb3727a7e2db92bb0ff2026184acc80781215deac5a5cfb972e7bbb63a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505832811.jpg?k=0c9294d3f2822d3a64ba2c8e763f7d4f97bf6a834cb61a32bb57a2b12a61b9f1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505832872.jpg?k=9d77a949ab34d08428f0a032c56e4877de797101d462c2875405c4c336d50962&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505832747.jpg?k=d441bc14257794f3f13150ac75bdc0eb08088610f11582637f2ce6e1e2d9859f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505832902.jpg?k=09767c7769d9970d4accde6f97acd9aa43c8df8fe6b0c81ddb7bd7b09866dfc4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505832935.jpg?k=8b2aee4bc169ab5639eb8537492a17bb80c1a64e82e2ad56ada95d350e89f31b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505832828.jpg?k=9b2707db038bfaec88af7cf77aee14b4f1fd5f68115dedac5acb191ad511d7f8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505832883.jpg?k=1038c9a2b23badbb9ca0f2993dd6b69390ebe1834477f89a702d4f6ed1ec13a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505832741.jpg?k=13a231cb4ece4036fe3047b15a33c6d1f1f545d62a6ad05bf28ab37996798767&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Etno 150 m"\n  - "Silver Hill Reastaurant 150 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 71 km"\nbookingURL: "https://www.booking.com/hotel/al/emblematic-house-3.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe interior of Emblematic House 3 is thoughtfully designed to cater to the needs of modern travelers. It features a cozy bedroom, a welcoming living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen that includes an oven and a microwave, allowing guests the freedom to prepare their meals. The presence of a walk-in shower in the bathroom, along with the provision of towels and bed linen, adds a touch of home-like comfort.
 
 One of the unique aspects of this accommodation is its private entrance, offering guests an unparalleled level of privacy. The terrace, complemented by stunning mountain views, serves as a serene backdrop for guests to unwind.
 
 Located 45 km from the tranquil Zaravina Lake and 83 km from Ioannina Airport, Emblematic House 3 positions itself as an ideal base for exploring the natural beauty and historical sites of the region. This property stands out as a prime selection for those who value privacy, comfort, and the convenience of having their own space while traveling.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

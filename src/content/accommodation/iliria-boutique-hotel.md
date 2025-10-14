@@ -1,15 +1,4 @@
----
-title: Iliria Boutique Hotel
-description: Strategically positioned, Iliria Boutique Hotel is just a short stroll from an array of fine dining options and important diplomatic institutions, not to mentio
-featuredImage: "/images/accommodation/247874998.jpg"
-language: en
-slug: iliria-boutique-hotel
-location: ""
-amenities: []
-images: []
----
-
-Strategically positioned, Iliria Boutique Hotel is just a short stroll from an array of fine dining options and important diplomatic institutions, not to mention the added bonus of complimentary private parking, making it a hassle-free choice for travelers.
+---\ntitle: "Iliria Boutique Hotel"\ndescription: "Discover the charm of Iliria Boutique Hotel, a gem in the heart of Tirana's stylish district, where elegance and comfort meet to offer a memorable stay."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/247874998.jpg?k=f7b828804e17ef56d2b3845bf568f279c65758ccd269e886382ff4c959feabfc&o=&hp=1"\nlanguage: en\nslug: iliria-boutique-hotel\naddress: "Elbasan Street, 00355/1010 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.31861632\n  lng: 19.8288846\nprice: "US$99"\npriceFrom: 99\nstarRating: 4\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 305\nratings:\n  overall: 9.2\n  location: 9.2\n  cleanliness: 9.3\n  facilities: 9\n  value: 8.9\n  comfort: 9.3\n  staff: 9.4\n  wifi: 9.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/247874998.jpg?k=f7b828804e17ef56d2b3845bf568f279c65758ccd269e886382ff4c959feabfc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305663415.jpg?k=0cd76598d06d5f14c43a59e5ff62a018589703b5e9cbc03fc8e34e9718dc4fb1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/247877835.jpg?k=76ab0e786f3531c55b244988cc2fd154e19ff9f7a09001cbfe791d1c31c464b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305663419.jpg?k=8b8743973ef8ec1d602c252cf2523e52bd7d96bb0ab66eaacd3e06c2ba3ab5b8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/247877674.jpg?k=31e1b07f4d32debc4bed79c7ba5d074778b79e36437099d2d45fb9f6a6069f14&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/247848645.jpg?k=b7f8d8441746dbcf38236569275d59cb68107168b41d941e5bc2dbe3c1b25181&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Deluxe Double or Twin Room"\n  - "Deluxe Triple Room"\n  - "King Suite"\n  - "Duplex Quadruple Room"\nnearbyAttractions:\n  - "Rinia Park 1.1 km"\n  - "Clock Tower Tirana 1.3 km"\n  - "Skanderbeg Square 1.3 km"\n  - "House of Leaves 1.4 km"\n  - "National Museum of History Albania 1.5 km"\n  - "Bunk'Art 1 Museum 4.4 km"\nnearbyRestaurants:\n  - "Byrektore 20 m"\n  - "Fast Food Iliada 30 m"\nwhatsNearby:\n  - "Shesh Rekreativ 200 m"\n  - "Sheshi Rekreativ tek Arena Kombëtare 250 m"\n  - "Parku I Madh 350 m"\n  - "Shesh Rekreativ 700 m"\n  - "Sheshi Rekreativ Piramida 750 m"\n  - "Grand Park of Tirana 800 m"\n  - "Tanners' Bridge 900 m"\n  - "Former Residence of Enver Hoxha 1,000 m"\n  - "Sheshi Rekreativ tek ish ATSh 1.1 km"\n  - "National Gallery of Arts Tirana 1.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Helene"\n    country: "Netherlands"\n    text: "“Very friendly staff, clean hotel, beautiful and comfort room. Location was perfect.”"\n  - name: "Muhamet"\n    country: "Kosovo"\n    text: "“The room was fantastic and very large, everything was great, good parking place, delicious breakfast, nice location, friendly staff.. highly recommended!”"\n  - name: "Jola"\n    country: "United Kingdom"\n    text: "“The room was very clean, the bed was comfortable,staff was very friendly,nice food,good location,was perfect”"\nbookingURL: "https://www.booking.com/hotel/al/iliria.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nStrategically positioned, Iliria Boutique Hotel is just a short stroll from an array of fine dining options and important diplomatic institutions, not to mention the added bonus of complimentary private parking, making it a hassle-free choice for travelers.
 
 Each room is thoughtfully designed with a desk and a cozy seating area, perfect for unwinding after a day of exploration. The en-suite bathrooms, equipped with showers, add a touch of privacy and relaxation to the experience.
 
@@ -20,19 +9,3 @@ The hotel prides itself on exceptional service, with a 24-hour front desk ready 
 Situated just steps from the city's largest park, Iliria Boutique Hotel is ideally located for guests wishing to immerse themselves in the greenery of Tirana. The city center, along with the Main Bus and Train Station, is merely 1 km away, making it a convenient base for exploring. For those traveling further afield, Tirana Airport is only 15 km from the hotel, ensuring easy arrivals and departures.
 
 In summary, Iliria Boutique Hotel offers a blend of sophistication, comfort, and convenience, making it an excellent choice for travelers seeking a refined stay in Tirana.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

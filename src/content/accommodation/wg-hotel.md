@@ -1,28 +1,5 @@
----
-title: WG Hotel
-description: "Each room at WG Hotel is a testament to thoughtful hospitality, equipped with a desk, a flat-screen TV, and a private bathroom, complemented by fresh..."
-featuredImage: "/images/accommodation/511721462.jpg"
-language: en
-slug: wg-hotel
-location: ""
-amenities: []
-images: []
----
-
-Each room at WG Hotel is a testament to thoughtful hospitality, equipped with a desk, a flat-screen TV, and a private bathroom, complemented by fresh bed linen and towels. The attention to detail in the amenities provided speaks volumes of the hotel's dedication to guest comfort.
+---\ntitle: "WG Hotel"\ndescription: "WG Hotel stands as a beacon of comfort and convenience in the heart of Ksamil, just a stone's throw away from the pristine Bora Bora Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511721462.jpg?k=0c0377f89775f6bd94d2b69841c4998b6579e744bc0ffedd8809357047242460&o=&hp=1"\nlanguage: en\nslug: wg-hotel\naddress: "Road Isadora Dunkan, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.7704616\n  lng: 20.00029882\nprice: "US$172"\npriceFrom: 172\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511721462.jpg?k=0c0377f89775f6bd94d2b69841c4998b6579e744bc0ffedd8809357047242460&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/511721448.jpg?k=c88d10758125fbb20f5ea3a3d0ee9e6a4f0c8ce3973af6e6e41dba03bfe1f846&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/511721464.jpg?k=7232e4343dfd28606f26895337f3dca23aeb55dc599614f6e655aa63f9352379&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/511721466.jpg?k=0ee2ec8d94741984a79e6e9559d8bc9999a6da4a481c91b06dbfcf322ab05d0c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/511721467.jpg?k=bf2c443da378090d51b26d949def1a1331186ce9a7d4d32fe497eb788dee661b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/511721469.jpg?k=69934aef704e8c08897053bfe8d9078730b30a293482c7d4523d9bdf9e828b41&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Triple Room"\nnearbyAttractions:\n  - "Museum of Banknotes 18 km"\n  - "New Fortress 18 km"\n  - "Serbian Museum 18 km"\n  - "Theotoki G. Square 18 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 19 km"\n  - "Trion Martiron Park 19 km"\n  - "Mon Repos Palace 19 km"\n  - "Kapodistrias Museum 20 km"\nnearbyBeaches:\n  - "Bora Bora Beach 200 m"\n  - "Ksamil Beach 7 200 m"\n  - "Ksamil Beach 250 m"\n  - "Ksamil Beach 9 250 m"\n  - "Coco Beach 600 m"\nbookingURL: "https://www.booking.com/hotel/al/wg.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach room at WG Hotel is a testament to thoughtful hospitality, equipped with a desk, a flat-screen TV, and a private bathroom, complemented by fresh bed linen and towels. The attention to detail in the amenities provided speaks volumes of the hotel's dedication to guest comfort.
 
 Strategically located, WG Hotel is a mere 500 meters from the scenic Ksamil Beach and a short 3 km journey from the historic Butrint National Park, making it an ideal base for explorers and beach lovers alike. For those arriving from afar, Corfu International Airport is 93 km away, ensuring that the wonders of Ksamil are within reach for international travelers.
 
 WG Hotel emerges as a top choice for those seeking a blend of convenience, comfort, and a touch of elegance during their stay in Ksamil.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

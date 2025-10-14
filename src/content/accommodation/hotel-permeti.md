@@ -1,26 +1,3 @@
----
-title: Hotel Permeti
-description: Guests can expect top-notch service around the clock, as the friendly and knowledgeable staff at Hotel Permeti are always on hand at the 24-hour front desk, rea
-featuredImage: "/images/accommodation/364946327.jpg"
-language: en
-slug: hotel-permeti
-location: ""
-amenities: []
-images: []
----
-
-Guests can expect top-notch service around the clock, as the friendly and knowledgeable staff at Hotel Permeti are always on hand at the 24-hour front desk, ready to offer expert advice and assistance to ensure a pleasant stay.
+---\ntitle: "Hotel Permeti"\ndescription: "Hotel Permeti stands out as a prime choice for travelers seeking comfortable accommodations in Përmet."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364946327.jpg?k=cf69609c6863579fd2e8d9e999fb98cdd38b344eb6e3d3cde070bd53a391f679&o=&hp=1"\nlanguage: en\nslug: hotel-permeti\naddress: "Sheshi \"Abdyl Frashëri\", Përmet, Albania, 6400 Përmet, Albania"\ncity: "Përmet"\nlocation: "Përmet"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.23335937\n  lng: 20.35332218\nprice: "US$25"\npriceFrom: 25\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 75\nratings:\n  overall: 8.8\n  location: 9.5\n  cleanliness: 8.6\n  facilities: 8.1\n  value: 8.5\n  comfort: 8.7\n  staff: 8.8\n  wifi: 9.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364946327.jpg?k=cf69609c6863579fd2e8d9e999fb98cdd38b344eb6e3d3cde070bd53a391f679&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/264738725.jpg?k=ab204f5977dac94a2ed3e62a75d7a6d7849d2ed017a19cec8d478e0ff33676dd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/264733921.jpg?k=e26f7bece0df9320b075d57f45a564b986b2eac6c2c3c88b13702b361c08c989&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/264738733.jpg?k=5a81c24bf1d9f2e79696840787b0e186a23bf5adec064ddedaa40ebd87e0fb5b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/264736669.jpg?k=6f0f4e7e0f579190a2b3ab3003240adbcdedc43e5b7d3139d6f36e04f93b6a72&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364947602.jpg?k=8d026f44aab206f67a7b173ef176656c69b2c129a2f60b575409131afadeb300&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Good breakfast"\nroomTypes:\n  - "Single Room with Private Bathroom"\n  - "Double Room with Private Bathroom"\n  - "Triple Room with City View"\n  - "Deluxe Family Room"\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Funky Bar 50 m"\n  - "Bar Restorant Sofra Përmetare 100 m"\nwhatsNearby:\n  - "Fir of Hotova National Park 16 km"\nairports:\n  - "Ioannina Airport 70 km"\n  - "Corfu International Airport 79 km"\n  - "Kastoria National Airport 81 km"\nreviews:\n  - name: "Patrick"\n    country: "France"\n    text: "“Tout le personnel très sympathique. Ai obtenu ma chambre avant l'heure du check-in. Devant partit tôt, le petit déjeuner (excellent, salé, sucré) m'a été préparé à 7h le matin. Emplacement au top,”"\n  - name: "Pedro"\n    country: "Spain"\n    text: "“La ubicacion es bastante buena. Y la amabilidad de la gente es excelebte. Como tardabamos en el check in ibcluso nos llamaron por ai nos habia pasado algo.”"\n  - name: "Martin"\n    country: "Netherlands"\n    text: "“Perfecte locatie in het centrum met een goede kamer.”"\nbookingURL: "https://www.booking.com/hotel/al/permeti-permet1234567891011.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests can expect top-notch service around the clock, as the friendly and knowledgeable staff at Hotel Permeti are always on hand at the 24-hour front desk, ready to offer expert advice and assistance to ensure a pleasant stay.
 
 For those concerned about travel logistics, Hotel Permeti is conveniently located 90 km from Ioannina Airport, making it a strategic base for exploring Përmet and its surroundings. Whether in town for business or leisure, Hotel Permeti promises a memorable stay with its blend of hospitality and service excellence.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

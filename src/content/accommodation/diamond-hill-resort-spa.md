@@ -1,15 +1,4 @@
----
-title: Diamond Hill Resort & SPA
-description: Guests are welcomed into a world of modern amenities and thoughtful services. The resort boasts a seasonal outdoor swimming pool, complimentary private parking,
-featuredImage: "/images/accommodation/75550299.jpg"
-language: en
-slug: diamond-hill-resort-spa
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into a world of modern amenities and thoughtful services. The resort boasts a seasonal outdoor swimming pool, complimentary private parking, and the convenience of free WiFi throughout the premises. For dining and relaxation, a restaurant and a bar are on-site, catering to a variety of tastes and preferences.
+---\ntitle: "Diamond Hill Resort & SPA"\ndescription: "Diamond Hill Resort & SPA emerges as a premier destination for travelers seeking a blend of comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/75550299.jpg?k=1ffcc9dc5061ff7f4121c0dfb4596f2ce4f6aa2882554a8ea1493b8babd649a6&o=&hp=1"\nlanguage: en\nslug: diamond-hill-resort-spa\naddress: "Rruga nacionale Vlore-Sarande, Uji i Ftohte,, 9402 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "resort"\ncoordinates:\n  lat: 40.41604568\n  lng: 19.48576167\nprice: "US$61"\npriceFrom: 61\nstarRating: 4\nrating: 8.1\nratingWords: "Very Good"\nnumberOfReviews: 322\nratings:\n  overall: 8.1\n  location: 7.6\n  cleanliness: 8.2\n  facilities: 8\n  value: 7.8\n  comfort: 8.2\n  staff: 8.1\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/75550299.jpg?k=1ffcc9dc5061ff7f4121c0dfb4596f2ce4f6aa2882554a8ea1493b8babd649a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/165643329.jpg?k=9682b0a408f33bfd6a3d4ab6ff116a24abb0060a0f2347441c82a1f907e2edfc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319205322.jpg?k=f019c5799eea6f00ddb0779e6beb071cec5ba877f482122ebeedfc1c543e6f2a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/228573861.jpg?k=af2140c54337ad51086085544ff4cd101bc77ed1c0fe44275bf8218cd5d96ae6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319205325.jpg?k=0f6b22b8fa45b5ff4daa52b3661b339e62b81a0d10aa7b82362095a4f7627598&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/222368990.jpg?k=8beee5a5d3a20c42270c07af42b66ba957b9a8a33ed0ce0bb4a80954e74de528&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Spa and wellness centre"\n  - "Non-smoking rooms"\n  - "Fitness centre"\n  - "Room service"\n  - "Free parking"\n  - "Facilities for disabled guests"\n  - "Free WiFi"\n  - "Bar"\n  - "Good breakfast"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "One-Bedroom Apartment with Sea View"\n  - "Superior Suite"\n  - "Superior Apartment"\n  - "Two-Bedroom Apartment with Sea View"\nnearbyRestaurants:\n  - "Perla E Jonit 30 m"\n  - "Movida 100 m"\nnearbyBeaches:\n  - "Beach at Government Villas 200 m"\n  - "Liro Beach 450 m"\n  - "Coco Bongo Beach 1.4 km"\n  - "Sunny Beach 1.6 km"\n  - "Ri Beach 1.7 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 2.4 km"\n  - "Kuzum Baba 6 km"\n  - "Independence Square 6 km"\nairports:\n  - "Corfu International Airport 96 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Farrell"\n    country: "New Zealand"\n    text: "“Nice breakfast and pool facilities, very clean and comfortable.”"\n  - name: "Jonila"\n    country: "Canada"\n    text: "“This hotel was amazing and extremely clean, beautiful room view and the spa was wonderful , definitely worth the money and one of the only ones open at this time a year in the area. Also my experience at the restaurant was very good, the fresh...”"\n  - name: "Mariglen"\n    country: "Albania"\n    text: "“The view was amasing and the room was super clean.”"\nbookingURL: "https://www.booking.com/hotel/al/diamond-hill.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into a world of modern amenities and thoughtful services. The resort boasts a seasonal outdoor swimming pool, complimentary private parking, and the convenience of free WiFi throughout the premises. For dining and relaxation, a restaurant and a bar are on-site, catering to a variety of tastes and preferences.
 
 Accommodations at Diamond Hill Resort & SPA are designed with guest comfort in mind. Each room is equipped with air conditioning, a flat-screen TV, and a private balcony offering captivating city views. Select rooms elevate the experience further with the addition of a terrace. Practical amenities such as a wardrobe, desk, and a fridge ensure a stay that combines luxury with home-like convenience.
 
@@ -20,15 +9,3 @@ A buffet breakfast is served daily, providing a perfect start to the day with a 
 For those seeking assistance or recommendations, the multilingual staff at the reception are more than happy to help, speaking Greek, English, Italian, and Albanian.
 
 Located a convenient distance from attractions such as Coco Bongo Beach and Sunny Beach, and with Tirana International Mother Teresa Airport 156 km away, Diamond Hill Resort & SPA stands out as a top choice for travelers looking to explore Vlorë and its surroundings.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

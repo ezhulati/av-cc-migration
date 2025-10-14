@@ -1,26 +1,3 @@
----
-title: Apart Hotel Scutari
-description: Each apartment is thoughtfully designed with two bedrooms and a living room, providing ample space for guests. The inclusion of a well-equipped kitchen with a m
-featuredImage: "/images/accommodation/361151786.jpg"
-language: en
-slug: apart-hotel-scutari
-location: ""
-amenities: []
-images: []
----
-
-Each apartment is thoughtfully designed with two bedrooms and a living room, providing ample space for guests. The inclusion of a well-equipped kitchen with a minibar adds a touch of home, allowing visitors to prepare their own meals with ease. Entertainment needs are met with a flat-screen TV, ensuring relaxation is always at hand.
+---\ntitle: "Apart Hotel Scutari"\ndescription: "Apart Hotel Scutari emerges as a prime choice for travelers seeking comfort and convenience in Shkodër."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361151786.jpg?k=6a4ffe25c695448e0b7a89432733167068818f9eaa0936d134f6ab6cd728d214&o=&hp=1"\nlanguage: en\nslug: apart-hotel-scutari\naddress: "Rruga Arkitekt Sinani, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.06293507\n  lng: 19.50733225\nprice: "US$44"\npriceFrom: 44\nstarRating: 3\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 30\nratings:\n  overall: 8.2\n  location: 8.6\n  cleanliness: 8.3\n  facilities: 8.2\n  value: 8.3\n  comfort: 8\n  staff: 7.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361151786.jpg?k=6a4ffe25c695448e0b7a89432733167068818f9eaa0936d134f6ab6cd728d214&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361151846.jpg?k=c41108cc354f9e44f4482897b205bc809e1390de91bc69373727d3f07f5183f2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361151818.jpg?k=695581abbad143078bb974c38b80fca6ef7788cc3bd71a8f71de3827c2957f54&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361151802.jpg?k=ced3ca8662ffe121839cedb75e99f4e9fd50c1399f2b65dc53154ba2217ab36e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361151850.jpg?k=1e9ffd867ba0e3c5c3b7a45a9eba23b6be27eb5d46bce6d818a426cd5eb3f4ba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361151808.jpg?k=358162428f65a673bb112fd10efaed0bde5511170e6342e5ac88f5952fa1cc6a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361151831.jpg?k=6faa4cab2b0ba75501cfd94cc888d942550d81b79ac9062db106848508e19bf9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361151814.jpg?k=a35a9044b33d1e3e64ba36a36c0137ca6b28a556c2d2131f85af7789fec3798b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361151810.jpg?k=92ebb4e72df2865156cf7240cceed28b72a148c30c19476d629e97bf9fc298c8&o=&hp=1"\namenities:\n  - "Free parking"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Lira 40 m"\n  - "Sushi te Shoki 50 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 2.2 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 73 km"\n  - "Tivat Airport 73 km"\nreviews:\n  - name: "Erblin"\n    country: "Albania"\n    text: "“Everything was perfect, better than photos. If you are looking for a family house that has everything you need, this is the perfect place. Here you will find all the facilities you might need for your stay. The AC is great, there is even an egg...”"\n  - name: "Katarzyna"\n    country: "Poland"\n    text: "“Mieszkanie w centrum miasta, bardzo blisko sklep spożywczy. W mieszkaniu było wszystko co potrzeba, w tym wi-fi.”"\n  - name: "Ergülü"\n    country: "Turkey"\n    text: "“Mutfak gereçleri yeterliydi. Evin konumu iyiydi. Self check in bizim için çok kolaylık oldu.”"\nbookingURL: "https://www.booking.com/hotel/al/apart-genci-shkoder.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nEach apartment is thoughtfully designed with two bedrooms and a living room, providing ample space for guests. The inclusion of a well-equipped kitchen with a minibar adds a touch of home, allowing visitors to prepare their own meals with ease. Entertainment needs are met with a flat-screen TV, ensuring relaxation is always at hand.
 
 For those traveling to or from the area, the convenience of Podgorica Airport being just 58 km away makes Apart Hotel Scutari an ideal location for both short and extended stays. This smoke-free property does not just offer a place to stay but a serene escape in the heart of Shkodër.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

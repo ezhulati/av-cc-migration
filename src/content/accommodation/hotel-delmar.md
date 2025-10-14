@@ -1,15 +1,9 @@
----
-title: Hotel DelMar
-description: "The hotel's strategic position also places it within easy reach of notable attractions, including the tranquil Shkëmbi i Kavajës Beach, the historic Skanderbeg Square, and the intriguing Rock of Kavaje, making it a perfect base for those looking to immerse themselves in the local culture and natural splendor."
-featuredImage: "/images/accommodation/473628642.jpg"
-language: en
-slug: hotel-delmar
-location: ''
-amenities: []
-images: []
----
-
-The hotel's strategic position also places it within easy reach of notable attractions, including the tranquil Shkëmbi i Kavajës Beach, the historic Skanderbeg Square, and the intriguing Rock of Kavaje, making it a perfect base for those looking to immerse themselves in the local culture and natural splendor.
+---\ntitle: "Hotel DelMar"\ndescription: "Hotel DelMar emerges as a prime choice for travelers seeking both comfort and convenience in the heart of Golem."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473628642.jpg?k=41969b64f1cc362fbb20c33a34a9a376b399c09f74894870c81f630e03055997&o=&hp=1"\nlanguage: en\nslug: hotel-delmar\naddress: "Rruga e Detit Rruga Qemal Stafa, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.24766623\n  lng: 19.52324434\nprice: "US$37"\npriceFrom: 37\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 44\nratings:\n  overall: 9.2\n  location: 9.3\n  cleanliness: 9.1\n  facilities: 8.9\n  value: 9\n  comfort: 9\n  staff: 9.4\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473628642.jpg?k=41969b64f1cc362fbb20c33a34a9a376b399c09f74894870c81f630e03055997&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373774887.jpg?k=b2b2d96f05c7c07bed8d76ab0ad3d4d3b0b5b06c9df2e144bce5379991bc2b21&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373774919.jpg?k=0aabfefed4e1144aaca13be0a34bfbca35b7df35ab4e108b8db3a450f2440daf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373774933.jpg?k=867e4d8ec00a800a67a175e22011c324cf09c582c84c8d5c8ea86fd9a0b2c32c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373774949.jpg?k=ec0d8e346373fb79db58a03c22bfe53d661236c2ba11d2e09682e7bd5786b3cb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373774888.jpg?k=f6bf56f548e108c365a7547793f6cc7f728e9f81c232bdac42f68b3ce91a6a45&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Fitness centre"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Very good breakfast"\nroomTypes:\n  - "Budget Double Room"\n  - "Basic Triple Room"\nnearbyRestaurants:\n  - "Brutal Steakhouse 100 m"\n  - "Alto Mare 250 m"\nnearbyBeaches:\n  - "Golem Beach 300 m"\n  - "Mali I Robit Beach 300 m"\n  - "Shkëmbi i Kavajës Beach 2 km"\n  - "Qerret Beach 2.1 km"\n  - "Durres Beach 4.4 km"\nwhatsNearby:\n  - "Bekimi 10 km"\n  - "Durres Amphiteatre 10 km"\n  - "Wine Dhe Pooh 10 km"\n  - "1. Maj 10 km"\n  - "Yje Dhe Hena 10 km"\n  - "Sheshi Demokracia 10 km"\n  - "Sotir Noka 10 km"\nairports:\n  - "Tirana International Airport Mother Teresa 23 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Annett"\n    country: "Germany"\n    text: "“I really liked the hotel. Everything was very clean and new. Perfect service and very friendly and helpful staff.
+I had a great stay there and would recommend it. There was a perfect breakfast in bed with everything you could need. It was very...”"\n  - name: "Kire"\n    country: "North Macedonia"\n    text: "“The location was 10/10 for sure.
+Staff, starting from the youngest to the oldest, 10/10.
+I had some special needs and thanks to the staff, I achieved my goals.
+Room was okey for couple and it was very comfortable.”"\n  - name: "Marija"\n    country: "North Macedonia"\n    text: "“A newly renovated hotel, very close to the beach and center. It's very modern and stylish. They served us breakfast in the room. The staff was very polite and helpful.
+If we go to Golem again we will surely reserve this hotel again.”"\nbookingURL: "https://www.booking.com/hotel/al/delmar.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe hotel's strategic position also places it within easy reach of notable attractions, including the tranquil Shkëmbi i Kavajës Beach, the historic Skanderbeg Square, and the intriguing Rock of Kavaje, making it a perfect base for those looking to immerse themselves in the local culture and natural splendor.
 
 Attention to guest comfort is evident in the well-appointed rooms, all of which boast air conditioning, a flat-screen TV, and for some, the added luxury of a balcony. A minibar in every room ensures that refreshments are always at hand.
 
@@ -18,15 +12,3 @@ Mornings at Hotel DelMar start on a high note with a delightful Italian breakfas
 For those looking to venture further, the hotel's proximity to the Former Residence of Enver Hoxha and the Durres Amphitheatre invites exploration, while the nearby Tirana International Mother Teresa Airport, just 41 km away, is conveniently connected by the hotel's paid airport shuttle service.
 
 Hotel DelMar stands out as a beacon of hospitality, offering a blend of strategic location, comfort, and attentive service, making it a compelling choice for travelers to Golem.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

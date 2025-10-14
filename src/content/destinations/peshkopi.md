@@ -5,11 +5,14 @@ region: ""
 featuredImage: /images/destinations/peshkopi.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: peshkopi
 highlights: []
+seo:
+  metaDescription: "Shop the best selection of Peshkopi products and essentials. Find all your Peshkopi needs in one convenient place."
 ---
 
 Why Visit Peshkopi
@@ -40,10 +43,3 @@ Peshkopi is not for the faint of heart or those seeking a polished travel experi
 
 This small Albanian town offers a rare opportunity to slow down, appreciate the simple things, and gain a deeper understanding of a culture that has remained largely untouched by the outside world. So, if you’re ready to step off the beaten path and experience Albania in its rawest form, Peshkopi is waiting to welcome you with open arms.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

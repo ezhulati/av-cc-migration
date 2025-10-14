@@ -1,30 +1,8 @@
----
-title: DUKA Hotel
-description: The accommodations at DUKA Hotel are thoughtfully designed with the guest's comfort in mind. Each air-conditioned room is equipped with essential amenities such
-featuredImage: "/images/accommodation/218918751.jpg"
-language: en
-slug: duka-hotel
-location: ""
-amenities: []
-images: []
----
-
-The accommodations at DUKA Hotel are thoughtfully designed with the guest's comfort in mind. Each air-conditioned room is equipped with essential amenities such as a wardrobe, a safety deposit box, and a flat-screen TV. The addition of a private balcony and bathroom, along with a seating area in every room, ensures a stay that combines relaxation with the comforts of home.
+---\ntitle: "DUKA Hotel"\ndescription: "DUKA Hotel, a distinguished 4-star establishment in Vlorë, stands prominently along the beachfront, offering guests an exceptional blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218918751.jpg?k=3c306cc1811e83880363ca8d91671b400a8f104ed8d64c369977bb0f96c21a49&o=&hp=1"\nlanguage: en\nslug: duka-hotel\naddress: "Rruga Murat Tërbaçi Lagjja Uji i Ftohte, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.440063\n  lng: 19.495232\nprice: "US$54"\npriceFrom: 54\nstarRating: 4\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 104\nratings:\n  overall: 9\n  location: 9.6\n  cleanliness: 9\n  facilities: 8.6\n  value: 8.5\n  comfort: 9.1\n  staff: 8.9\n  wifi: 9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218918751.jpg?k=3c306cc1811e83880363ca8d91671b400a8f104ed8d64c369977bb0f96c21a49&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299412143.jpg?k=6cfd39112cb99ba4041c67eddc87aa6a729e2b75a224b03580a5f35e89bffd22&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219061726.jpg?k=bf8bdda7d4d07a12c76a77eefff0c47e6552c5c4ba21fab4b94eee832a960560&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219444078.jpg?k=1da8dbf2e3d3289ac8b76e9e9bb67ae249bf299c31754f47412f2f71c848b5bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219063199.jpg?k=0a165f7d697c3911ecf8b6d0297595b74352d9abbf31a767470d640347de5eea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299412139.jpg?k=4d5908f9bcdf7f9782fbe307a0bb61b50557e949d41dd4f83b120bc5e842df9b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219059054.jpg?k=9144a1e8fbe23c799227c0d5352c37f9e47536aaeb4a33f8bbaa6f3b7d8844c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219059938.jpg?k=e1b0aac382f665ce41ee25dad6a7c1e2dfc44a480be6492418f4cd0ec775ce8b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219444868.jpg?k=6cde1bddeaf95246b42bde9c9fdbc0210e7bac809262db09118245bd7bbe8689&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Mountain View"\n  - "Double Room with Sea View"\n  - "Triple Room with Sea View"\n  - "Suite with Sea View"\nnearbyRestaurants:\n  - "Sapori di Casa 10 m"\n  - "Pizzeria City 50 m"\nnearbyBeaches:\n  - "Vlore Beach 300 m"\n  - "Ri Beach 500 m"\n  - "Vjetër Beach 1.8 km"\n  - "Beach at Government Villas 2.3 km"\n  - "Liro Beach 3 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 400 m"\n  - "Kuzum Baba 3.1 km"\n  - "Independence Square 3.4 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Maureen"\n    country: "Australia"\n    text: "“Great location, good facilities, friendly staff and delicious breakfast included”"\n  - name: "Florentina"\n    country: "United Kingdom"\n    text: "“Lovely views , comfortable beds, clean, big size rooms , helpful and friendly staff.
+Highly recommended!”"\n  - name: "Nedim"\n    country: "Spain"\n    text: "“Great value for money, good service, room, location”"\nbookingURL: "https://www.booking.com/hotel/al/duka-vlore1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodations at DUKA Hotel are thoughtfully designed with the guest's comfort in mind. Each air-conditioned room is equipped with essential amenities such as a wardrobe, a safety deposit box, and a flat-screen TV. The addition of a private balcony and bathroom, along with a seating area in every room, ensures a stay that combines relaxation with the comforts of home.
 
 The hotel prides itself on its attentive staff, proficient in both English and Italian, ready to assist guests with their needs and enhance their stay. Whether it's providing local recommendations or ensuring a smooth check-in process, the service at DUKA Hotel is tailored to make every guest's visit memorable.
 
 For those looking to explore, the hotel's proximity to notable landmarks such as Kuzum Baba and Independence Square, located 3.7 km and 3.9 km away respectively, makes it an ideal base for discovering the rich culture and history of Vlorë. Furthermore, for international travelers, the convenience of being 153 km from Tirana International Mother Teresa Airport adds to the hotel's appeal.
 
 With its strategic location, comprehensive amenities, and dedicated service, DUKA Hotel emerges as a top choice for travelers seeking a blend of leisure and exploration in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

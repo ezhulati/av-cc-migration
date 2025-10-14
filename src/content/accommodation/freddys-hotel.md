@@ -4,9 +4,15 @@ description: A short stroll from Freddy's doorsteps reveals a vibrant world of s
 featuredImage: "/images/accommodation/356679823.jpg"
 language: en
 slug: freddys-hotel
-location: ""
-amenities: []
 images: []
+category: "3-Star"
+starRating: 3
+rating: 3
+accommodationType: "hotel"
+location: "Tirana"
+amenities:
+  - "Bar"
+  - "Breakfast"
 ---
 
 A short stroll from Freddy's doorsteps reveals a vibrant world of shopping streets and lively bars, perfect for those looking to explore the local scene. For guests interested in a more relaxed experience, the hotel offers a cozy common living room, stocked with an array of books, inviting visitors to unwind and perhaps discover a new favorite read.
@@ -19,14 +25,3 @@ For those traveling further afield, the hotel is conveniently located 300 meters
 
 In summary, Freddy's Hotel stands out as a welcoming haven for visitors to Tirana, offering a blend of convenience, comfort, and cultural immersion that is sure to make any stay memorable.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

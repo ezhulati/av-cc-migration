@@ -1,28 +1,5 @@
----
-title: Private Residence Full Apartment in Golem
-description: The apartment itself is a haven of comfort and privacy, boasting a spacious layout that includes two bedrooms, a living room, and a balcony that presents breath
-featuredImage: "/images/accommodation/379472239.jpg"
-language: en
-slug: private-residence-full-apartment-in-golem
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of comfort and privacy, boasting a spacious layout that includes two bedrooms, a living room, and a balcony that presents breathtaking sea views. It is fully equipped with modern amenities such as a flat-screen TV, an equipped kitchen complete with a dishwasher and an oven, and a bathroom featuring a bidet. The addition of soundproofing and a private entrance ensures an undisturbed stay, while the outdoor dining area invites guests to savor their meals against the backdrop of pool views.
+---\ntitle: "Private Residence Full Apartment in Golem"\ndescription: "Private Residence Full Apartment in Golem emerges as a prime choice for travelers seeking a serene beachfront getaway, mere steps from the pristine sands of Golem Beach and a short stroll from the captivating Shkëmbi i Kavajës Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379472239.jpg?k=3df42e5f024ac0e6ead60b2b77902c9d7d275b5801cc95a0e72ee5eabc657e80&o=&hp=1"\nlanguage: en\nslug: private-residence-full-apartment-in-golem\naddress: "Rruga Roma, 1000 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.25722648\n  lng: 19.52175083\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379472239.jpg?k=3df42e5f024ac0e6ead60b2b77902c9d7d275b5801cc95a0e72ee5eabc657e80&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/379472143.jpg?k=20d8a5670689b26a78cb63369baba36c143e69afb7a2d1eaf133dae9b1dc3d92&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/487451240.jpg?k=dfbf157041cd9caa0c5a61eb45b2d691d9bf36b50f09c4377af87cf73f778091&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/487451090.jpg?k=e61912da6c714d377606029ae0036d9f01733212b088a7939f243bcd29ff28a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/487450984.jpg?k=f31ea5553cd8106b472bde4240bc136a264e5e5308bf059172da029716f8877b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/379472217.jpg?k=124c3663581ffbb48df06be2aa7ce5d5e674ee5449f3fe7f8b6dc445d1de407d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/379472222.jpg?k=0a0fdaf1150e232c2e2432f85ff9b0b268dafa42526cc7dfdc9375a4eece612e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/379472226.jpg?k=ef0ff9c9afadd6dba9d0ac67826ea6bc16c24c24b10f45e220d35afc0a52daf9&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\nnearbyRestaurants:\n  - "Flobede Furrë Buke 250 m"\n  - "Pashtriku 550 m"\nnearbyBeaches:\n  - "Golem Beach 150 m"\n  - "Shkëmbi i Kavajës Beach 950 m"\n  - "Mali I Robit Beach 1 km"\n  - "Qerret Beach 3.1 km"\n  - "Durres Beach 3.3 km"\nwhatsNearby:\n  - "Bekimi 9 km"\n  - "Durres Amphiteatre 9 km"\n  - "Wine Dhe Pooh 9 km"\n  - "1. Maj 9 km"\n  - "Yje Dhe Hena 9 km"\n  - "Sheshi Demokracia 9 km"\n  - "Sotir Noka 10 km"\nairports:\n  - "Tirana International Airport Mother Teresa 23 km"\nbookingURL: "https://www.booking.com/hotel/al/private-residence-full-apartment-in-golem.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of comfort and privacy, boasting a spacious layout that includes two bedrooms, a living room, and a balcony that presents breathtaking sea views. It is fully equipped with modern amenities such as a flat-screen TV, an equipped kitchen complete with a dishwasher and an oven, and a bathroom featuring a bidet. The addition of soundproofing and a private entrance ensures an undisturbed stay, while the outdoor dining area invites guests to savor their meals against the backdrop of pool views.
 
 For those who appreciate convenience, the presence of an on-site bar adds to the appeal of this accommodation. Furthermore, its location offers easy access to notable attractions, with Skanderbeg Square located 45 km away, and the Dajti Ekspres Cable Car within 48 km, promising adventure seekers an opportunity to explore the area's natural beauty. Tirana International Mother Teresa Airport is the nearest airport, situated 39 km from the apartment, making it a convenient option for international travelers.
 
 Private Residence Full Apartment in Golem stands out as an exemplary choice for guests looking for a blend of comfort, privacy, and scenic beauty during their stay in Golem.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

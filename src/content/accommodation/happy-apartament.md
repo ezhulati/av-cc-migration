@@ -1,30 +1,7 @@
----
-title: Happy Apartament
-description: Boasting modern amenities in a cozy setting, Happy Apartament provides guests with air-conditioned accommodations equipped with complimentary WiFi, a cable flat
-featuredImage: "/images/accommodation/410981638.jpg"
-language: en
-slug: happy-apartament
-location: ""
-amenities: []
-images: []
----
-
-Boasting modern amenities in a cozy setting, Happy Apartament provides guests with air-conditioned accommodations equipped with complimentary WiFi, a cable flat-screen TV, and a washing machine. The inclusion of a fully equipped kitchenette, complete with a dishwasher and oven, adds a touch of home, while the provision of towels and bed linen ensures a comfortable stay. Guests can enjoy the tranquility of quiet street views, a rare find in the bustling city.
+---\ntitle: "Happy Apartament"\ndescription: "Happy Apartament emerges as a charming retreat in the heart of Tirana, merely a stone's throw away from the iconic Skanderbeg Square."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410981638.jpg?k=989324060abbc1a93c208e95e7f363917b1a7575ec083dfaacb820dd3e18b496&o=&hp=1"\nlanguage: en\nslug: happy-apartament\naddress: "Rruga Reshit Petrela, 1057 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.33171603\n  lng: 19.81864762\nprice: "US$25"\npriceFrom: 25\nstarRating: 3\nrating: 8.6\nratingWords: "Very Good"\nnumberOfReviews: 6\nratings:\n  overall: 8.6\n  location: 9.5\n  cleanliness: 8.5\n  facilities: 9\n  value: 8.5\n  comfort: 7.5\n  staff: 8.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410981638.jpg?k=989324060abbc1a93c208e95e7f363917b1a7575ec083dfaacb820dd3e18b496&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/landmark/max1024/239904.webp?k=9c5ce5a5cec513490c3aad64cf6f614fc3f1986d78b0ea5a8708416a8a081622&o="\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "Double Room"\nnearbyAttractions:\n  - "Rinia Park 750 m"\n  - "Tanners' Bridge 850 m"\n  - "Former Residence of Enver Hoxha 1.2 km"\n  - "Grand Park of Tirana 2.3 km"\n  - "Bunk'Art 1 Museum 4.1 km"\nnearbyRestaurants:\n  - "Bar Grill Dea 30 m"\n  - "Taverna Dajkua 50 m"\nwhatsNearby:\n  - "Amazing Nature 200 m"\n  - "National Museum of History Albania 250 m"\n  - "Sheshi Skënderbej 350 m"\n  - "Sheshi Paris 400 m"\n  - "Sheshi Sulejman Pasha 450 m"\n  - "Skanderbeg Square 450 m"\n  - "Clock Tower Tirana 450 m"\n  - "Parku Europa 450 m"\n  - "House of Leaves 600 m"\n  - "National Gallery of Arts Tirana 650 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/eagles-apartament.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nBoasting modern amenities in a cozy setting, Happy Apartament provides guests with air-conditioned accommodations equipped with complimentary WiFi, a cable flat-screen TV, and a washing machine. The inclusion of a fully equipped kitchenette, complete with a dishwasher and oven, adds a touch of home, while the provision of towels and bed linen ensures a comfortable stay. Guests can enjoy the tranquility of quiet street views, a rare find in the bustling city.
 
 Strategically located, Happy Apartament is within easy reach of Tirana's most sought-after attractions. The Former Residence of Enver Hoxha is just 1.5 km away, while the Toptani Shopping Centre is a mere 700 meters from the doorstep, offering an array of shopping and dining options. Cultural enthusiasts will appreciate the proximity to the National Museum of History Albania, the National Theatre of Opera and Ballet of Albania, and the House of Leaves, all of which are within walking distance.
 
 For those venturing further afield, the Rock of Kavaje stands 42 km away, offering a glimpse into the natural beauty surrounding Tirana. Conveniently, Tirana International Mother Teresa Airport is located just 14 km from Happy Apartament, making arrivals and departures a breeze.
 
 Happy Apartament stands out as an ideal choice for travelers seeking a blend of comfort, convenience, and a touch of local charm, making it a must-visit destination for those exploring the vibrant city of Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

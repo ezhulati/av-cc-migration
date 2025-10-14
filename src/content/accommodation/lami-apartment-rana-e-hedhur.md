@@ -1,28 +1,5 @@
----
-title: Lami Apartment rana e hedhur
-description: This air-conditioned apartment, situated just 2.8 km from the inviting shores of Shëngjin Beach, offers guests the luxury of space and privacy. The accommodatio
-featuredImage: "/images/accommodation/449039349.jpg"
-language: en
-slug: lami-apartment-rana-e-hedhur
-location: ""
-amenities: []
-images: []
----
-
-This air-conditioned apartment, situated just 2.8 km from the inviting shores of Shëngjin Beach, offers guests the luxury of space and privacy. The accommodation boasts a well-appointed balcony that provides a perfect setting for morning coffees or evening relaxation. Inside, the apartment unfolds into a generously sized living room, a cozy bedroom, and a kitchen equipped with everything needed for a comfortable stay. Entertainment needs are well catered to with the inclusion of a flat-screen TV.
+---\ntitle: "Lami Apartment rana e hedhur"\ndescription: "Lami Apartment Rana e Hedhur stands out as a prime choice for travelers seeking comfort and convenience in Shëngjin."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449039349.jpg?k=00a7dae683860b837b6939e1c59a01f4ac826d9c400c4b672d79a2e27dfe11dd&o=&hp=1"\nlanguage: en\nslug: lami-apartment-rana-e-hedhur\naddress: "Rruga Shengjin rana E hedhun, 4501 Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.81297409\n  lng: 19.5741311\nprice: "US$47"\npriceFrom: 47\nstarRating: 3\nrating: 4.6\nratingWords: "Needs Improvement"\nnumberOfReviews: 1\nratings:\n  overall: 4.6\n  location: 7.5\n  cleanliness: 2.5\n  facilities: 5\n  value: 2.5\n  comfort: 7.5\n  staff: 2.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449039349.jpg?k=00a7dae683860b837b6939e1c59a01f4ac826d9c400c4b672d79a2e27dfe11dd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/449039370.jpg?k=4c3ccd874a8a8d3464a1977da1b2446c8db7a274c615aee97b0a4d2f19fbc75b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/449039371.jpg?k=7bccc530dbe5372eea571d6592a526aae95d2d33be1bca7f1a98ad42d0ae520b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/449039372.jpg?k=2b57b5ecacae1446bd00f1ccd815aa7320c20a1389fd16932ce1a9e026d17219&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/449039373.jpg?k=92598a391c80530654d7d8e7ea9d5be363faa3f39347dbf95d31541bd27dce07&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/449039374.jpg?k=129c5c3037f82cf20df2e5224f22d458a8947cfc4b7c01146475c902011c1ab3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/449039375.jpg?k=f85a183a210a36eec831a609b10d12e823b4b36cb8d8f0139f4059cb2b0579a2&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Good free WiFi (35 Mbps)"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Sarda 1.5 km"\n  - "Carpe Diem 1.6 km"\nnearbyBeaches:\n  - "Rana e Hedhun Beach 850 m"\n  - "Shëngjin Beach 1.4 km"\n  - "Ylberi Beach 2.6 km"\n  - "Kune Beach 4.9 km"\n  - "Laguna Park Beach 5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 44 km"\n  - "Podgorica Airport 65 km"\n  - "Tivat Airport 95 km"\nbookingURL: "https://www.booking.com/hotel/al/rana-e-hedhur-entire-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis air-conditioned apartment, situated just 2.8 km from the inviting shores of Shëngjin Beach, offers guests the luxury of space and privacy. The accommodation boasts a well-appointed balcony that provides a perfect setting for morning coffees or evening relaxation. Inside, the apartment unfolds into a generously sized living room, a cozy bedroom, and a kitchen equipped with everything needed for a comfortable stay. Entertainment needs are well catered to with the inclusion of a flat-screen TV.
 
 For those traveling by air, the convenience of being just 51 km away from Tirana International Mother Teresa Airport adds to the appeal of Lami Apartment Rana e Hedhur. The added perks of complimentary WiFi and private parking on-site are thoughtful touches that ensure a hassle-free experience for guests.
 
 In summary, Lami Apartment Rana e Hedhur offers a blend of comfort, convenience, and accessibility, making it a compelling choice for visitors to Shëngjin.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,26 +1,3 @@
----
-title: Elite Apartments Sarande!
-description: Privacy is a paramount feature at Elite Apartments Sarande, with each apartment boasting a private entrance. The air-conditioned accommodations are thoughtfully
-featuredImage: "/images/accommodation/440153986.jpg"
-language: en
-slug: elite-apartments-sarande
-location: ""
-amenities: []
-images: []
----
-
-Privacy is a paramount feature at Elite Apartments Sarande, with each apartment boasting a private entrance. The air-conditioned accommodations are thoughtfully equipped with a fully functional kitchen, including a dining area, fridge, kettle, and stovetop, ensuring guests feel right at home. The convenience of a coffee machine, flat-screen TV, safety deposit box, and complimentary WiFi enhances the stay, while select units also offer the luxury of a balcony with captivating city views. To complete the experience, all units are furnished with quality bed linen and towels, underscoring the attention to detail and guest comfort.
+---\ntitle: "Elite Apartments Sarande!"\ndescription: "Elite Apartments Sarande stands out as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440153986.jpg?k=c4cef88eda9e054eada12195cb7083d360fb4331a4a23acc682aaff5bb93985c&o=&hp=1"\nlanguage: en\nslug: elite-apartments-sarande\naddress: "Rruga Abedin Dino, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87397336\n  lng: 20.00359032\nprice: "US$51"\npriceFrom: 51\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 9.6\n  location: 7.5\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440153986.jpg?k=c4cef88eda9e054eada12195cb7083d360fb4331a4a23acc682aaff5bb93985c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424858465.jpg?k=0fcabede9ee251fd2843b071f0ad928c46415a780dc2a8235cb09145ea79d84c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424858482.jpg?k=48be7597cb7728641791af5cb8e7c080cbbe4fcff2c705cbb774efbc69a59bff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424858438.jpg?k=04e35d0e07a2e20777263a909268dd4031ccd86db11185a9335e7c311cf89c4f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439350603.jpg?k=ca87c8bb937b0af911a36880a4adb0a05350f7027b032c1e62938eceff040cbc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424858441.jpg?k=7c37c984f4702840c0adf6cb2576c2a8ad16304d60e59bc74e600ac88e2529e3&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "Deluxe King Room"\nnearbyRestaurants:\n  - "Benn Kafe 5 m"\n  - "Fast Food Çuçi 50 m"\nnearbyBeaches:\n  - "Saranda City Beach 500 m"\n  - "Sarande Main Beach 550 m"\n  - "La Petite Beach 1.1 km"\n  - "Maestral Beach 1.3 km"\n  - "Saranda Bay Beach 1.9 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.5 km"\n  - "Butrint National Park 3.2 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\nbookingURL: "https://www.booking.com/hotel/al/elite-apartments-sarande.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nPrivacy is a paramount feature at Elite Apartments Sarande, with each apartment boasting a private entrance. The air-conditioned accommodations are thoughtfully equipped with a fully functional kitchen, including a dining area, fridge, kettle, and stovetop, ensuring guests feel right at home. The convenience of a coffee machine, flat-screen TV, safety deposit box, and complimentary WiFi enhances the stay, while select units also offer the luxury of a balcony with captivating city views. To complete the experience, all units are furnished with quality bed linen and towels, underscoring the attention to detail and guest comfort.
 
 For those arriving by air, Ioannina Airport is the nearest gateway, located 97 km from the property, making Elite Apartments Sarande an accessible retreat for both domestic and international travelers. This apartment complex not only promises a stay marked by comfort and privacy but also positions guests perfectly to soak in the vibrant life and natural beauty of Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

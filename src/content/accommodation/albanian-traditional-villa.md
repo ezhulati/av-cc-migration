@@ -1,30 +1,7 @@
----
-title: Albanian traditional Villa
-description: The villa itself is a testament to comfort and style, featuring a spacious layout that includes 4 bedrooms, a cozy living room, and a balcony that overlooks the
-featuredImage: "/images/accommodation/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
-language: en
-slug: albanian-traditional-villa
-location: ""
-amenities: []
-images: []
----
-
-The villa itself is a testament to comfort and style, featuring a spacious layout that includes 4 bedrooms, a cozy living room, and a balcony that overlooks the lush garden. Modern amenities such as a flat-screen TV and an equipped kitchenette with a fridge ensure guests feel at home. The inclusion of 2 bathrooms equipped with a bidet, along with complimentary bed linen, towels, and housekeeping service, adds to the villa's appeal.
+---\ntitle: "Albanian traditional Villa"\ndescription: "Albanian Traditional Villa emerges as a serene retreat in the heart of Librazhd, situated approximately 47 km from the historic Monastery of Saint George the Victorious."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"\nlanguage: en\nslug: albanian-traditional-villa\naddress: "Fushe Studen, 3412 Librazhd, Albania"\ncity: "Librazhd"\nlocation: "Librazhd"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.31736812\n  lng: 20.38626895\nprice: "US$139"\npriceFrom: 139\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 4\nratings:\n  overall: 7.9\n  location: 8.8\n  cleanliness: 8.8\n  facilities: 7.5\n  value: 6.3\n  comfort: 8.1\n  staff: 8.1\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"\n  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/291881759.jpg?k=a217e85d9e6c2472dd614cfb05c20610db31c564c97006c9e2271b0a030fbbaa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/324815339.jpg?k=571cdcb77cff3125c63bc6c6d6d5671ddd93b83e59f4780bf1813e06797f1a29&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/291881846.jpg?k=7dfc7560a6701c2a7b00a1a8e2bc3b052c1e07f332be0bfd6e9c936ea0883a44&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/298283215.jpg?k=f28693d387975cd3cfff95eda1073cf8dd3f559131f7ad929341bb144d8a6c90&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/298283267.jpg?k=d248a25aea6257e8321ee732d88715696f2be9f6b0c777f87850f285a0fc4c0e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/298283244.jpg?k=245b35207a0cfac0d66e17779636f5bee49de61472e6caa686aece79a834edee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/298283205.jpg?k=c7374e691454b5487784c48e61d08cf86b92a0c790950434e4e54e4227203d55&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/298283198.jpg?k=cf7ddc3a83093abe6695c5a4b7339b9ed876dee53a72a44bd32cc12d6b0d068e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/291881799.jpg?k=28eb9f767c4c32fa6daea54534783257c6575ff730f036e85e6bbe2d422db862&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Room service"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Breakfast"\nroomTypes:\n  - "Four-Bedroom House"\nnearbyRestaurants:\n  - "Café Xhepi 16 km"\n  - "Choco Bakery 16 km"\nwhatsNearby:\n  - "Parku I Bleteve Kokreve 16 km"\n  - "Mountain Lodge Jankos Stone 18 km"\nairports:\n  - "Ohrid Airport 33 km"\n  - "Tirana International Airport Mother Teresa 56 km"\npaymentMethods:\n  - "Mastercard"\nreviews:\n  - name: "Sebastian"\n    country: "Poland"\n    text: "“Prawdziwa niespodzianka! Po dojeździe okazało się, że dostaliśmy pokoje w Joen Village, który jak sie domyslam należy do tych samych właścicieli. Świetnie wyposażone pokoje, bardzo fajna restauracja i miła obsługa. Pokoje i restauracja umieszczone...”"\nbookingURL: "https://www.booking.com/hotel/al/albanian-traditional-villa.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nThe villa itself is a testament to comfort and style, featuring a spacious layout that includes 4 bedrooms, a cozy living room, and a balcony that overlooks the lush garden. Modern amenities such as a flat-screen TV and an equipped kitchenette with a fridge ensure guests feel at home. The inclusion of 2 bathrooms equipped with a bidet, along with complimentary bed linen, towels, and housekeeping service, adds to the villa's appeal.
 
 Dining at the villa is a delightful experience, thanks to the on-site family-friendly restaurant catering to dinner, lunch, and brunch. It's a perfect spot for guests to savor meals without having to venture far.
 
 For those seeking adventure or simply wishing to explore the surroundings, Albanian Traditional Villa does not disappoint. The area is ripe for activities such as cycling, and the property provides outdoor play equipment, making it an ideal choice for families. Guests looking for moments of relaxation can unwind in the villa's verdant garden, creating a perfect balance between activity and leisure.
 
 Located 82 km from Ohrid Airport, the villa is conveniently accessible for international travelers, making it an attractive option for those looking to experience the beauty and tranquility of Librazhd. Whether it's the allure of the traditional Albanian architecture or the promise of a serene getaway, Albanian Traditional Villa stands out as a premier choice for discerning guests.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -4,9 +4,18 @@ description: "The villa prides itself on offering well-appointed accommodations 
 featuredImage: "/images/accommodation/197813383.jpg"
 language: en
 slug: angies-shared-villa-tam
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "villa"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Parking"
+  - "Restaurant"
+  - "Spa"
+  - "Mountain View"
 ---
 
 The villa prides itself on offering well-appointed accommodations that come with a seating area, ensuring guests have ample space to unwind. Each unit opens up to a patio featuring an outdoor dining area where guests can savor meals against the backdrop of breathtaking mountain views. The commitment to guest comfort is further underscored by the inclusion of soundproof rooms, ensuring a peaceful retreat from the bustling city life.
@@ -17,14 +26,3 @@ The shared bathroom facilities, equipped with slippers and bed linen, highlight 
 
 Situated a convenient 18 km from Tirana International Mother Teresa Airport, Angie's Shared Villa TAM represents an ideal choice for those in search of a comfortable and accessible base to explore the vibrant city of Tirana and its surroundings.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

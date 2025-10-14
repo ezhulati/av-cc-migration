@@ -1,26 +1,3 @@
----
-title: City Center Apartment
-description: "For those who prefer to dine in, the apartment's kitchen is a dream come true."
-featuredImage: "/images/accommodation/515857444.jpg"
-language: en
-slug: city-center-apartment
-location: ''
-amenities: []
-images: []
----
-
-For those who prefer to dine in, the apartment's kitchen is a dream come true. It's fully equipped with modern appliances including an oven, microwave, washing machine, toaster, and fridge, catering to every culinary need. Guests can enjoy the convenience of preparing their meals in a smoke-free environment, adding to the comfort and cleanliness of their stay.
+---\ntitle: "City Center Apartment"\ndescription: "City Center Apartment in Berat stands out for its comfortable, air-conditioned spaces, complete with a balcony that offers a refreshing outdoor experience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515857444.jpg?k=578cfc09c2755fb4be2f6e94b4b9936bdd7359c8128d5787813aa89bbacb458a&o=&hp=1"\nlanguage: en\nslug: city-center-apartment\naddress: "Rruga Santa Lucia \"Zere\" Palace ; Apartment nr:15 ; fourth floor, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.70092325\n  lng: 19.95910044\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515857444.jpg?k=578cfc09c2755fb4be2f6e94b4b9936bdd7359c8128d5787813aa89bbacb458a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511529659.jpg?k=70896911424bd4780b7f8470d77533aee5feaf4b249c7261980bfee9023271ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511529640.jpg?k=23af247c08ca047d77d697d5b42f6e2901b3278ee4d351431dc6ef0b467936a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515885884.jpg?k=8c10d803124d40906f7f4569a6ed2e2dc26e5d87d7458fdaa53622e421b3188e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515857011.jpg?k=a8c291a479b10b9fdc3df1acba66cae83477b69da7039c6c9e1e32733c962594&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511529689.jpg?k=381002ecb14126426e60a141aa1f8c687e98d8d2f42e1b5443bec732dcfc7352&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511529634.jpg?k=e81ab727315723df2d19ee55ba42d95c91836ee3ec7a75430eb8dcab9a2f6df1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511529646.jpg?k=d5174eab4b9a0c8ef4cb58dc9bde12691b10589b7cd29186c6608ff3ed064ab9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511529571.jpg?k=e006f5b081c496321a9aedfe9099dc0e6a2a8f7b7c437921993a276c7617e6ad&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Zgara Zaloshnja 50 m"\n  - "City Grill 150 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 8 km"\n  - "Sheshi Tomorri 15 km"\nairports:\n  - "Tirana International Airport Mother Teresa 80 km"\n  - "Ohrid Airport 83 km"\nreviews:\n  - name: "Alban"\n    country: "Albania"\n    text: "“It was a perfect property, cosy and spacious, furnished with everything needed, very responsive hosts and very close to city center and all amenities.”"\nbookingURL: "https://www.booking.com/hotel/al/meris-apartament-berat.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nFor those who prefer to dine in, the apartment's kitchen is a dream come true. It's fully equipped with modern appliances including an oven, microwave, washing machine, toaster, and fridge, catering to every culinary need. Guests can enjoy the convenience of preparing their meals in a smoke-free environment, adding to the comfort and cleanliness of their stay.
 
 Situated 118 km from Tirana International Mother Teresa Airport, the apartment offers a blend of convenience and tranquility, making it an ideal choice for travelers seeking a serene retreat within the vibrant city of Berat.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

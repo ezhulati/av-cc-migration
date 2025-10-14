@@ -1,30 +1,7 @@
----
-title: Resting Apartment
-description: Upon entering the air-conditioned apartment, visitors are greeted with a thoughtfully designed space that includes two cozy bedrooms, a modern flat-screen TV, a
-featuredImage: "/images/accommodation/486043449.jpg"
-language: en
-slug: resting-apartment
-location: ""
-amenities: []
-images: []
----
-
-Upon entering the air-conditioned apartment, visitors are greeted with a thoughtfully designed space that includes two cozy bedrooms, a modern flat-screen TV, and a dining area perfect for enjoying meals together. The kitchen doesn't disappoint either, boasting a full suite of appliances including an oven, ensuring that guests have everything they need at their fingertips. The living room, with its inviting fireplace, becomes a focal point for relaxation and gathering.
+---\ntitle: "Resting Apartment"\ndescription: "Resting Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by striking city views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486043449.jpg?k=4472ee5e8d397c2f65ee6c571ea702a0e0017218e69e5756575bfe242a9d7f6f&o=&hp=1"\nlanguage: en\nslug: resting-apartment\naddress: "Rruga Kristaq Prifti, Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.61215553\n  lng: 20.77773224\nprice: "US$65"\npriceFrom: 65\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 2\nratings:\n  overall: 8.8\n  location: 10\n  cleanliness: 8.8\n  facilities: 7.5\n  value: 7.5\n  comfort: 8.8\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486043449.jpg?k=4472ee5e8d397c2f65ee6c571ea702a0e0017218e69e5756575bfe242a9d7f6f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486043613.jpg?k=d0a0fefa26a369df861a5c3c6336fc5e9044294457a4dd5059185c6852e922c7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486043576.jpg?k=9899732dd581a432dbeb5fe2544d71b85f11363bfb77bc58e3a2aa26e8fde17f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486043669.jpg?k=63569aaea00c4ff13c863506f0b8d4f1c91c85e31fb3a4ea749c2c2993997123&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486043557.jpg?k=9be43917b8d54c49bc1130999a9b828fc1e5e219cab90416dc97077d18e24dd2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486043594.jpg?k=0c95185e4a45bc3d95259a2951b369177abb44b03fe76ba922129e86e81be38b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486043660.jpg?k=5d2474a49d0098d02b78ff9761277462f909c8d3744dd37f6f092d8ebd0be558&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486043630.jpg?k=34b2fc91733930f1acee6725986f8572778fce2807c4102155ab66c16f4ecb41&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486043548.jpg?k=5c1d3d082e65cb8663c4735248a01a5bf89a4fea6e2e45f3d5302a9dd3434ad5&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Benvenuti in Calabria 100 m"\n  - "Piceri Dora 200 m"\nwhatsNearby:\n  - "Parku Vangjush Mio 400 m"\n  - "Parku Rinia 400 m"\n  - "Sheshi Patriku Joasaf 600 m"\n  - "Parku Themistokli Gërmenji 800 m"\n  - "Field of Tears 850 m"\n  - "Parku Rinia 1.7 km"\n  - "Sheshi Panxhar 6 km"\n  - "Sheshi Koço Plaku 12 km"\n  - "Sheshi Penetori 13 km"\nairports:\n  - "Kastoria National Airport 45 km"\n  - "Ohrid Airport 62 km"\n  - "Kozani National Airport 96 km"\npaymentMethods:\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/resting-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nUpon entering the air-conditioned apartment, visitors are greeted with a thoughtfully designed space that includes two cozy bedrooms, a modern flat-screen TV, and a dining area perfect for enjoying meals together. The kitchen doesn't disappoint either, boasting a full suite of appliances including an oven, ensuring that guests have everything they need at their fingertips. The living room, with its inviting fireplace, becomes a focal point for relaxation and gathering.
 
 For convenience, Resting Apartment goes above and beyond, offering an on-site ATM, a handy minimarket for quick grabs, and currency exchange services, making it a breeze for international travelers to navigate their needs without stepping out.
 
 Located a mere 43 km from the historic Monastery Saint Naum and with Kastoria National Airport 72 km away, the apartment serves as an ideal base for exploring the surrounding area's rich cultural tapestry and natural beauty.
 
 In summary, Resting Apartment is not just a place to stay; it's a gateway to a memorable travel experience, offering all the essentials and more for a comfortable, worry-free visit.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

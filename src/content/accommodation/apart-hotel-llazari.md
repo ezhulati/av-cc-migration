@@ -1,28 +1,5 @@
----
-title: Apart-Hotel Llazari
-description: Each apartment is thoughtfully equipped with air conditioning and a balcony with a seating area, perfect for soaking in the serene sea and pool views. The hear
-featuredImage: "/images/accommodation/109076042.jpg"
-language: en
-slug: apart-hotel-llazari
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Apart-Hotel Llazari"\ndescription: "Apart-Hotel Llazari emerges as a standout choice for travelers seeking comfort and convenience in their accommodation."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/109076042.jpg?k=b53ac591b6ee01de4c8a8cee9b515ede4f8c6b20a918169920db948f0b334d52&o=&hp=1"\nlanguage: en\nslug: apart-hotel-llazari\naddress: "Cako - (At the ring returns to the church just 900 meters), 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.10621012\n  lng: 19.74946439\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.8\nratingWords: "Good"\nnumberOfReviews: 220\nratings:\n  overall: 7.8\n  location: 6.5\n  cleanliness: 8.4\n  facilities: 8\n  value: 8.5\n  comfort: 8.4\n  staff: 8.3\n  wifi: 6.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/109076042.jpg?k=b53ac591b6ee01de4c8a8cee9b515ede4f8c6b20a918169920db948f0b334d52&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368256526.jpg?k=39ee360436626a732fde0ca9d3a11a053ce28c86e5efbecd497343a77d4b8000&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473775813.jpg?k=16b35958a8b31e54c8ec889b702311b370977d5ba82ada48347408e068225c9a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/61220014.jpg?k=3c838ea9938899acc8c42bd732341b5e87ec6bcda10eae6f58b72060713c43a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368256527.jpg?k=c1ab0f36d03fdd8b549eae8d8f04aea93d12baabf19070b07144f8e17354d36c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368256533.jpg?k=e9c7d95aea33dc1680e9c644b63a45b43fe98acae930c5158cc8989e97e87f65&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/61220007.jpg?k=4dd2c1e72ac8950500dfffafcbb58c59e24bce5d5d3baf50b35eeee007c5ef09&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473775631.jpg?k=1c95294e27c9a0f22113124eef50466740f5e59b04e193a9dcbbd4046eed5cd4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/61219977.jpg?k=41404cc56580f1887388852f016ce57c1a31b361cd96dd4fc2cb0e383f94a676&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Free parking"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nnearbyBeaches:\n  - "Spille Beach 650 m"\n  - "Maracit Beach 750 m"\n  - "Prinos Beach 800 m"\n  - "Potam Beach 1.2 km"\n  - "Livadhi Beach 1.6 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Boban"\n    country: "North Macedonia"\n    text: "“The view is amazing, in total everything was great, except read down below”"\n  - name: "Rona"\n    country: "United Kingdom"\n    text: "“The owners of the hotel was very helpful., welcoming and friendly. The owner even let me use her washing machine and did not charge me at all for the soap and fabric conditioner all I did was picked it up dry and folded. Laundry facilities are not...”"\n  - name: "Dominik"\n    country: "Slovakia"\n    text: "“Really nice place, worth visiting, owners were super nice, water in pool was perfect, we enjoy it :)”"\nbookingURL: "https://www.booking.com/hotel/al/llazari.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach apartment is thoughtfully equipped with air conditioning and a balcony with a seating area, perfect for soaking in the serene sea and pool views. 
 
-Each apartment is thoughtfully equipped with air conditioning and a balcony with a seating area, perfect for soaking in the serene sea and pool views.
-
-The heart of these cozy retreats is the fully equipped kitchenette, complemented by dining furniture, allowing guests the freedom to prepare their meals.
+The heart of these cozy retreats is the fully equipped kitchenette, complemented by dining furniture, allowing guests the freedom to prepare their meals. 
 
 The private bathrooms are modern and efficient, including a shower and hairdryer, ensuring a comfortable stay.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

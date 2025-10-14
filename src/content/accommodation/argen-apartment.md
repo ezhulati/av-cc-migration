@@ -1,15 +1,6 @@
----
-title: Argen Apartment
-description: The apartment itself is a haven of modern amenities, featuring air conditioning for those warm Tirana days, a flat-screen TV for entertainment, and a dining are
-featuredImage: "/images/accommodation/512630116.jpg"
-language: en
-slug: argen-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of modern amenities, featuring air conditioning for those warm Tirana days, a flat-screen TV for entertainment, and a dining area to enjoy home-cooked meals prepared in the fully equipped kitchen. The inclusion of an oven and a spacious living room further enhances the living experience, ensuring guests have both the tools and the space to create a home away from home. Complimentary WiFi blankets the property, ensuring that guests stay connected with the world or plan their next day's adventures with ease.
+---\ntitle: "Argen Apartment"\ndescription: "Argen Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512630116.jpg?k=72b1968dd6859e1b41b9f435054a932ca910c8df71031c4f103e1c4b68a52901&o=&hp=1"\nlanguage: en\nslug: argen-apartment\naddress: "Rruga e Barrikadave, Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33505291\n  lng: 19.81905046\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512630116.jpg?k=72b1968dd6859e1b41b9f435054a932ca910c8df71031c4f103e1c4b68a52901&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512630227.jpg?k=6dd8b5839087e646c0c98b6056a111ba63f44bbf951d1116e9c482e2e546efd4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512630219.jpg?k=1d5a243c03387e79d24553c977185ada836bed3d0ca8e9d3f83fa02fceea714f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512630211.jpg?k=3f27fcb552f3a30b88a5d902abcd1ff8e15acbb4bca2f0892503080bf581ea2c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512630194.jpg?k=4a5f0a422ba65471a2ea7a7ed82ac6d03340743a009152f5ccd8799e5b112d9f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512630225.jpg?k=80efefd29609504df7729022bc66bdcb06b1bb93bb6224e89b6b508ee403133a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512630185.jpg?k=0c926b907b5b1207b59814b5243d6446977621dd27841c074992eb9f9572ebe6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512630204.jpg?k=bd85f382c6156690552ae33a3a94dc672c44ddcf5781c7f9baf1341d980e4fe6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512630181.jpg?k=5ce892af499093dfcc5ee83e4fef2270719c9b0d280ca9ce1e84f23d49472db1&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Facilities for disabled guests"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "AC Longue 50 m"\n  - "Mneri 150 m"\nwhatsNearby:\n  - "Amazing Nature 200 m"\n  - "National Museum of History Albania 650 m"\n  - "Sheshi Paris 700 m"\n  - "Sheshi Skënderbej 750 m"\n  - "Sheshi Sulejman Pasha 750 m"\n  - "Skanderbeg Square 800 m"\n  - "Clock Tower Tirana 800 m"\n  - "Parku Europa 850 m"\n  - "House of Leaves 950 m"\n  - "Sheshi Rekreativ Mine Peza 950 m"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "Discover"\nreviews:\n  - name: "Irsida"\n    country: "Germany"\n    text: "“Sehr tolle Apartment ,alles sauber. Alles nötige Sachen für eine angenehme bleiben.
+Location ist sehr gut ,nur 5 Minuten bis zum Zentrum.
+Tolle Menschen und sehr nette”"\nbookingURL: "https://www.booking.com/hotel/al/apartment-argen.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a haven of modern amenities, featuring air conditioning for those warm Tirana days, a flat-screen TV for entertainment, and a dining area to enjoy home-cooked meals prepared in the fully equipped kitchen. The inclusion of an oven and a spacious living room further enhances the living experience, ensuring guests have both the tools and the space to create a home away from home. Complimentary WiFi blankets the property, ensuring that guests stay connected with the world or plan their next day's adventures with ease.
 
 For those interested in delving into Albania's history, the National Museum of History Albania is conveniently close, as are the Toptani Shopping Centre for retail therapy and the House of Leaves for a unique museum experience. With the Dajti Ekspres Cable Car located just 4.8 km away, adventure seekers have the opportunity to witness Tirana from a different perspective.
 
@@ -18,15 +9,3 @@ Non-smoking throughout, Argen Apartment prioritizes the comfort and well-being o
 Accessibility is also a key feature, with the property offering a lift and being positioned 13 km from Tirana International Mother Teresa Airport, facilitating easy arrivals and departures.
 
 In summary, Argen Apartment is not just a place to stay; it's a gateway to experiencing Tirana's dynamic culture and history, all while offering the comforts and conveniences of modern living.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

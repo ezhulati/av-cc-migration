@@ -1,30 +1,9 @@
----
-title: Royal G Max
-description: Each room at Royal G Max is a haven of comfort, boasting air conditioning, a private bathroom, and a balcony for guests to enjoy the fresh air and perhaps a vie
-featuredImage: "/images/accommodation/459685442.jpg"
-language: en
-slug: royal-g-max
-location: ""
-amenities: []
-images: []
----
-
-Each room at Royal G Max is a haven of comfort, boasting air conditioning, a private bathroom, and a balcony for guests to enjoy the fresh air and perhaps a view. For entertainment and convenience, rooms are equipped with a flat-screen TV and complimentary toiletries, adding to the overall experience of indulgence.
+---\ntitle: "Royal G Max"\ndescription: "Royal G Max stands as a premier destination for travelers seeking a blend of luxury and convenience in Golem, just a stone's throw away from the serene Mali I Robit Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474661646.jpg?k=e13085df0111d58193069fd5b11e19a6fc9dd8f53b0c9db899108b89b8576148&o=&hp=1"\nlanguage: en\nslug: royal-g-max\naddress: "Bulevardi Pishat e buta, Mali i Robit, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.23461157\n  lng: 19.51533787\nprice: "US$84"\npriceFrom: 84\nstarRating: 5\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 141\nratings:\n  overall: 8.8\n  location: 9\n  cleanliness: 8.9\n  facilities: 8.8\n  value: 8\n  comfort: 8.7\n  staff: 8.8\n  wifi: 9.6\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474661646.jpg?k=e13085df0111d58193069fd5b11e19a6fc9dd8f53b0c9db899108b89b8576148&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459685442.jpg?k=0331621fb7ebe51ff8d62668b33316016c091d5785c84be970f331a59ee36d0f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458521182.jpg?k=91465ffff8f7cf7db75b554a95fb7587a482d7468da591314dcd7bffa73bd263&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506009999.jpg?k=0eaa0be32bc434439a351b96175e0be42d5e32aac1398ed7fd5c2316d331adcd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506010009.jpg?k=1fa26889439cd88b2b3c0f537eea1bae8a81ae358ff5f1257f94e6a633a4b022&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506010025.jpg?k=4319660510622ac378c5e7181d7a5af9bc0825947e4c3fb67dc8bf960b353273&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506010037.jpg?k=f5dc35c8d7f1b6052cc4508a54e1a6f298773e797b66fcfd09476957896d25bb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506010048.jpg?k=c4301b354daed65da19d95e7a4876eb6131ec64f0d3ba99a055b68f66821fa4c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506010067.jpg?k=a321ce92953fe0b6b23e877f766b134b174bb908bf8efec296921a2f6c93b73e&o=&hp=1"\namenities:\n  - "3 swimming pools"\n  - "Spa and wellness centre"\n  - "Non-smoking rooms"\n  - "Airport shuttle"\n  - "Room service"\n  - "Free WiFi"\n  - "Free parking"\n  - "Bar"\n  - "Beachfront"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Double Room with Sea View"\n  - "Double Room with Balcony (2 Adults + 1 Child)"\n  - "Budget Double Room"\n  - "Standard Double Room"\n  - "Triple Room with Sea View"\n  - "Triple Room"\nnearbyRestaurants:\n  - "Te Berti Golem 150 m"\n  - "Ujvara Hotel & Bar Restorant Piceri 150 m"\nnearbyBeaches:\n  - "Mali I Robit Beach 3 m"\n  - "Qerret Beach 500 m"\n  - "Golem Beach 1.5 km"\n  - "Shkëmbi i Kavajës Beach 3.4 km"\n  - "Durres Beach 6 km"\nwhatsNearby:\n  - "Durres Amphiteatre 10 km"\n  - "1. Maj 11 km"\n  - "Wine Dhe Pooh 11 km"\n  - "Yje Dhe Hena 11 km"\n  - "Sheshi Demokracia 11 km"\n  - "Bekimi 11 km"\n  - "Sotir Noka 11 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\nreviews:\n  - name: "Daniel"\n    country: "Czech Republic"\n    text: "“New building, nice room, close to beach. PArking free in hotel background.”"\n  - name: "Ana"\n    country: "Germany"\n    text: "“Nice spot on beach.Staff very friendly and cleaning ladies too.Sheets and room are cleaned daily.Also you can wash your clothes at the hotel laundry.
+I enjoyed the pool,it was quiet and cool.”"\n  - name: "Jules"\n    country: "Portugal"\n    text: "“Nice staff reception and good location.
+We got room 502 and it has nice view over the pool.”"\nbookingURL: "https://www.booking.com/hotel/al/max-royal-g-ii-golem-2504-albania.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach room at Royal G Max is a haven of comfort, boasting air conditioning, a private bathroom, and a balcony for guests to enjoy the fresh air and perhaps a view. For entertainment and convenience, rooms are equipped with a flat-screen TV and complimentary toiletries, adding to the overall experience of indulgence.
 
 Beyond the comfort of their rooms, guests have the opportunity to enjoy an indoor swimming pool, perfect for a leisurely swim regardless of the weather outside. The hotel's commitment to service is evident through its 24-hour front desk, airport transfer options, room service, and the availability of free WiFi throughout the premises, ensuring that every need is met with the utmost attention to detail.
 
 Located conveniently close to Qerret Beach and Golem Beach, Royal G Max offers easy access to some of the area's most beautiful coastlines. For those traveling from afar, the Tirana International Mother Teresa Airport is just 42 km away, making the hotel an accessible choice for international and domestic travelers alike.
 
 Royal G Max is not just a place to stay; it's a destination that promises an unforgettable experience, blending luxury accommodations with the natural beauty of Golem's coastal landscape.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

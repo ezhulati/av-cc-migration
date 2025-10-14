@@ -1,28 +1,5 @@
----
-title: Rent House Pogradec
-description: Guests at Rent House Pogradec are treated to the convenience of complimentary WiFi and on-site parking, ensuring a hassle-free stay from start to finish. The es
-featuredImage: "/images/accommodation/480597463.jpg"
-language: en
-slug: rent-house-pogradec
-location: ""
-amenities: []
-images: []
----
-
-Guests at Rent House Pogradec are treated to the convenience of complimentary WiFi and on-site parking, ensuring a hassle-free stay from start to finish. The establishment prides itself on being a non-smoking property, catering to the comfort and well-being of all guests.
+---\ntitle: "Rent House Pogradec"\ndescription: "Discover the charm of Pogradec with a stay at Rent House Pogradec, a prime accommodation choice offering panoramic city views and a prime location for exploring the region's historical and natural attractions."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480597463.jpg?k=5713654542283b5ffa5a6469701a9f64f6e46d73ee553e28867000a48b3a7445&o=&hp=1"\nlanguage: en\nslug: rent-house-pogradec\naddress: "2 Rruga Rinia Road, Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.90108958\n  lng: 20.65779752\nprice: "US$26"\npriceFrom: 26\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480597463.jpg?k=5713654542283b5ffa5a6469701a9f64f6e46d73ee553e28867000a48b3a7445&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/480597518.jpg?k=d3ae67b8a7d3735431753b5826deaa0e71c01981be8cce6bf0c1436222e28466&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/480597522.jpg?k=dabba7d03667adf56a08f12cb3187bb08fefbc91e797b3d9c3ce8c93bd4bb739&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/480597526.jpg?k=6ac0d45457c81a253b7d0d50be3a24aeeeee7f804c13dcbe63884de1daa486a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/480597534.jpg?k=e40e4eb8abd64f5a425f23bb98c920f011b212eab5ca7066ad0b49feda4a991c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/480597539.jpg?k=8fa4ddf00b03b793cef5e18a7cf3ac39950d82593bb887f17f1f8689e99763c0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/480597545.jpg?k=259439582d49e7037ea7d0fae5d4bb3a3167b69da060be2f921aa1993bf3cc56&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Double Room"\nnearbyRestaurants:\n  - "Pasticeri Tushi Pogradec 5 m"\n  - "Bar Pasticeri Tushi 6 m"\nwhatsNearby:\n  - "Driloni National Park 1,000 m"\n  - "National Park Galicica 7 km"\n  - "National Park Galicica 14 km"\n  - "Bay of Bones 16 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 72 km"\n  - "Tirana International Airport Mother Teresa 96 km"\nbookingURL: "https://www.booking.com/hotel/al/rent-house-pogradec.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests at Rent House Pogradec are treated to the convenience of complimentary WiFi and on-site parking, ensuring a hassle-free stay from start to finish. The establishment prides itself on being a non-smoking property, catering to the comfort and well-being of all guests.
 
 Accommodations are equipped with a flat-screen TV, providing a cozy retreat for relaxation after a day of exploration. The strategic location also places visitors within a manageable distance of notable landmarks, including Port Ohrid and the Church of St. John at Kaneo, located 39 km and 40 km away, respectively. For those traveling by air, Ohrid Airport is the nearest gateway, situated 46 km from the guest house.
 
 Rent House Pogradec emerges as a top pick for travelers seeking a blend of convenience, comfort, and accessibility to Pogradec's most sought-after sights.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

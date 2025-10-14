@@ -1,26 +1,3 @@
----
-title: Harmony
-description: Entertainment is readily available with the inclusion of a flat-screen TV in the guest house, ensuring that guests have access to leisure even when indoors. For
-featuredImage: "/images/accommodation/475295702.jpg"
-language: en
-slug: harmony
-location: ""
-amenities: []
-images: []
----
-
-Entertainment is readily available with the inclusion of a flat-screen TV in the guest house, ensuring that guests have access to leisure even when indoors. For those who prefer the outdoors, Harmony doesn't disappoint. It boasts a well-maintained garden and a barbecue area, perfect for those sunny days when dining al fresco feels just right.
+---\ntitle: "Harmony"\ndescription: "Harmony Guest House emerges as a serene retreat in Vlorë, a mere stone's throw away from the pristine Ri Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475295702.jpg?k=7a787ef514dfa562becb49aadf13ee445dacd40f8219585c09a7b353935db698&o=&hp=1"\nlanguage: en\nslug: harmony\naddress: "Rruga Azem Sulo, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.4352807\n  lng: 19.49865076\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 2\nratings:\n  overall: 9.2\n  location: 8.8\n  cleanliness: 8.8\n  facilities: 8.8\n  value: 8.8\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475295702.jpg?k=7a787ef514dfa562becb49aadf13ee445dacd40f8219585c09a7b353935db698&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475295691.jpg?k=19f76ade701cebf3ca325255f74ba41dae86760aabd8fd7cc8d52d93f12db6d7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475295651.jpg?k=b4ff8008d5685187e98a350a34fcc4a6a0e94a6bd8e80860f2a82b9268add7ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475295725.jpg?k=b50ddcd26f4fb5ed682509b4e00f21cb2a97d5284c2aa550850862e8c72777d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479758355.jpg?k=45607a73d15f49511b2a5d9c405fee2ddc368dab1b16378a07bf5aa8f378f4f0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479760811.jpg?k=1dd007fcdb7ee8f1317b5099c825b88d9e2ddcecfdf6dfc6baacfb95cb0b3827&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475295678.jpg?k=858361f07b9405b2d52281e702e6f72d8505f34284232c4c604eacf65b1c9cf1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479758498.jpg?k=47871d97e7d8ffc7aa95239959e2b81e0e93da3d39fbfa26e51191c71cc0001f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475295528.jpg?k=9f71e327bb09fcaabfde3ccb2ea8b16c6fca88855a56cb3882f3838152dca57d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Family Room"\nnearbyRestaurants:\n  - "Taverna Mediterraneo 150 m"\n  - "Mazana Caffe 250 m"\nnearbyBeaches:\n  - "Ri Beach 350 m"\n  - "Vlore Beach 900 m"\n  - "Beach at Government Villas 2 km"\n  - "Vjetër Beach 2.4 km"\n  - "Liro Beach 2.7 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 300 m"\n  - "Kuzum Baba 3.6 km"\n  - "Independence Square 4 km"\nreviews:\n  - name: "Aleksandar"\n    country: "Serbia"\n    text: "“Blizu plaže, domaćini ljubazni i uvek spremni da pomognu.”"\nbookingURL: "https://www.booking.com/hotel/al/harmony-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEntertainment is readily available with the inclusion of a flat-screen TV in the guest house, ensuring that guests have access to leisure even when indoors. For those who prefer the outdoors, Harmony doesn’t disappoint. It boasts a well-maintained garden and a barbecue area, perfect for those sunny days when dining al fresco feels just right.
 
 Located conveniently, Harmony is not just about the immediate beach access. It is a short drive from Vlore Beach, offering guests a variety of coastal experiences. For those looking to explore further, the Beach at Government Villas and the historic Kuzum Baba are within easy reach, located 2.2 km and 4.3 km away, respectively. For international travelers, the Tirana International Mother Teresa Airport is 154 km away, making Harmony an accessible choice for both local and foreign visitors seeking a tranquil escape by the sea.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

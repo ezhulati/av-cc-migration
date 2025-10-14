@@ -7,6 +7,8 @@ featuredImage: /images/attractions/skanderbeg-square.jpg
 images: []
 language: en
 slug: skanderbeg-square
+seo:
+  metaDescription: "Plan a visit to Skanderbeg Square, Tirana’s car-free civic center. History, landmarks, events, access, parking, best times to go, and practical tips for %currentyear%."
 ---
 
 Why Visit
@@ -117,10 +119,3 @@ Plan Your Visit
 **Coordinates:** 41.3275° N, 19.8189° E  
 **Nearby Attractions:** [Blloku District](https://albaniavisit.com/attractions/blloku/) (10 min walk), New Bazaar (7 min walk), [House of Leaves](https://albaniavisit.com/attractions/house-of-leaves/) (5 min walk).
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

@@ -5,9 +5,10 @@ featuredImage: "/images/pages/Ilia-Zhulati.jpg"
 language: en
 slug: ilia-zhulati
 seo:
-  metaTitle: Ilia Zhulati
-  metaDescription: ""
   canonicalURL: https://albaniavisit.com/ilia-zhulati/
+  focusKeyword: "ilia zhulati"
+  metaDescription: "Discover Albania with Ilia Zhulati, AlbaniaVisit's insightful author and dedicated language tutor. Experience Albania's richness through his authentic writings."
+  focusKeyword: "ilia zhulati"
 ---
 
 I'm Ilia, a proud contributor at **AlbaniaVisit.com**. Born in the mountain village of Grabovë near [Përmet](https://albaniavisit.com/destinations/permet/), my love for languages began early, inspired by my grandfather's own linguistic passion. Despite the challenges of [Communist Albania](https://albaniavisit.com/communist-era/), my determination to master English led me on a remarkable path-from a small village to serving as Albania's diplomat to the United Nations in New York.

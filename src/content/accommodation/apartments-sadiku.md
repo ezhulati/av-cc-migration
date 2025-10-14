@@ -1,30 +1,7 @@
----
-title: Apartments Sadiku
-description: Apartments Sadiku stands out for its well-appointed family rooms, each boasting modern amenities such as air conditioning, heating, and a flat-screen TV for a t
-featuredImage: "/images/accommodation/474447009.jpg"
-language: en
-slug: apartments-sadiku
-location: ""
-amenities: []
-images: []
----
-
-Apartments Sadiku stands out for its well-appointed family rooms, each boasting modern amenities such as air conditioning, heating, and a flat-screen TV for a truly homely experience. The inclusion of a private bathroom in every unit adds to the convenience, ensuring a comfortable stay.
+---\ntitle: "Apartments Sadiku"\ndescription: "Discover the charm of Sarandë with a stay at Apartments Sadiku, a prime choice for travelers seeking both comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474447009.jpg?k=7a86e0fc3903e026e2982f5258f82bd91ddc5e8aaa89b584a8e011e205aef482&o=&hp=1"\nlanguage: en\nslug: apartments-sadiku\naddress: "Rruga Gjergj Araniti 604, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87852348\n  lng: 19.99863219\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 140\nratings:\n  overall: 8.5\n  location: 7.4\n  cleanliness: 9.2\n  facilities: 8.7\n  value: 9.2\n  comfort: 8.9\n  staff: 9.2\n  wifi: 7.1\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474447009.jpg?k=7a86e0fc3903e026e2982f5258f82bd91ddc5e8aaa89b584a8e011e205aef482&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470916298.jpg?k=9104cae71cb00bbc600aaabceca1f462fb2593d4b6f96c28adc22edc8884dc87&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525142238.jpg?k=7e285dd3f7b6bb5aaa8852c343376b3268dda9e431ec4e06814fb46db4c58fa9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489689374.jpg?k=4a3fdfd28eba2ed5b2127180793f3b53ea5b14ae3fd464a45803720bcc5e038b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525142246.jpg?k=5508377bd8e3a2d57727e9484eb310e191494748274c6061050f436dbc89c0c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525142233.jpg?k=877302c821168c47ebad8115e0553070c35237e7c0f153812499bd07bbd1e43b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479749589.jpg?k=04081bff69fbb7df45f502a22a1264e83e18860d16809d0ac78bb3cb61e712b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467557868.jpg?k=b9762f4fd5daafe5770f8441551034b5c25effd5d633b8840ff709f10fa70138&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525142183.jpg?k=e2636315310cec5e340ea6892bcaf0f794990977355f540ff4849642e60d7bc4&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\nnearbyRestaurants:\n  - "Ali Pasha 300 m"\n  - "PIZZA SAVOS 450 m"\nnearbyBeaches:\n  - "Sarande Main Beach 900 m"\n  - "Saranda City Beach 1.1 km"\n  - "Saranda Bay Beach 1.5 km"\n  - "La Petite Beach 1.7 km"\n  - "Maestral Beach 1.9 km"\nwhatsNearby:\n  - "Parc National de Butrint 3.1 km"\n  - "Butrint National Park 3.9 km"\n  - "Plazhi I Krorezes 9 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 31 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Katarina"\n    country: "Slovakia"\n    text: "“The apartment has a very good location. And offers very nice view. The owners are very nice. The apartment is very well equipped and we liked our stay a lot! They even have a pool! :)”"\n  - name: "Jana"\n    country: "United Kingdom"\n    text: "“The owner of property welcome us so friendly people. clean nice cozy room with big balcony mini kitchen in room so nice and relax place to stay”"\n  - name: "Aimen"\n    country: "Belgium"\n    text: "“The modern rooms, with excelent beds and kitchens, excelent bathroom with led mirrors and ventilation, the breathtaking seaview, perfect location (5mins to the central beaches, 15min with the car to ksamil, and the warm welcoming from the owner of...”"\nbookingURL: "https://www.booking.com/hotel/al/vila-sadiku.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nApartments Sadiku stands out for its well-appointed family rooms, each boasting modern amenities such as air conditioning, heating, and a flat-screen TV for a truly homely experience. The inclusion of a private bathroom in every unit adds to the convenience, ensuring a comfortable stay.
 
 For those who appreciate the outdoors, the property features a tranquil garden, perfect for unwinding after a day of exploration. Whether it's lounging on the terrace or enjoying the seating area, guests have ample opportunity to relax in style.
 
 Situated 2 km from Saranda Bay Beach and within easy reach of the historical Butrint National Park, just 18 km away, Apartments Sadiku serves as an ideal base for exploring the natural and cultural treasures of the area. With Ioannina Airport 98 km away, the journey to this serene escape is well worth the distance.
 
 Offering free WiFi and private parking, Apartments Sadiku caters to the needs of modern travelers, making it a top recommendation for those planning a visit to Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

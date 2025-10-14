@@ -1,26 +1,3 @@
----
-title: Resort Zdrava
-description: Each morning, the resort becomes a hub of culinary delight, serving a sumptuous buffet breakfast that caters to a variety of tastes and preferences. Located a
-featuredImage: "/images/accommodation/518171540.jpg"
-language: en
-slug: resort-zdrava
-location: ""
-amenities: []
-images: []
----
-
-Each morning, the resort becomes a hub of culinary delight, serving a sumptuous buffet breakfast that caters to a variety of tastes and preferences.
+---\ntitle: "Resort Zdrava"\ndescription: "Resort Zdrava stands out as a serene oasis in Savër, offering guests a harmonious blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518171540.jpg?k=627fbee8ef3e5979dbcd8eb729e519716ab2e5876a5e339a47034eea3fa31937&o=&hp=1"\nlanguage: en\nslug: resort-zdrava\naddress: "SH4, 9001 Savër, Albania"\ncity: "Savër"\nlocation: "Savër"\naccommodationType: "resort"\ncoordinates:\n  lat: 40.89899838\n  lng: 19.68521537\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518171540.jpg?k=627fbee8ef3e5979dbcd8eb729e519716ab2e5876a5e339a47034eea3fa31937&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514794068.jpg?k=90db4ecead1ec21d46b71fd9cc452219345b1a777633ca77c88ba9ba04db16f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514794144.jpg?k=f126b11a352549b62f511a53c54d84962402b8cb3f70d4f1ed2ea74ac66ae7bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514793951.jpg?k=4cce7d64378f1347664e192441fd1a53c1f2029bfd19667f4c2158ba4c264519&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518171152.jpg?k=e940348b37db0d9a2b8c7140264577b24a14dca9e42f37671a043d8279a079c7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518172043.jpg?k=0ebc92c0d0a410c352ff9fa6affeab3bd80c71ebc492290c012ea48eaecd1916&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514794115.jpg?k=0aadcf426b3f69efda8a774913f0b24e6b5d3c59faf5b94bb54ed465f2e5608c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514794141.jpg?k=28b08230b02829468820cdd6aab802cd2b285270ce0baf0835f81152b617f7bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514794130.jpg?k=493172d9a04be121a6dff2915a262551e56b2cbb1fec4fdb71a0ea64f05e8c61&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Airport shuttle"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Garden View"\n  - "Twin Room with Pool View"\nnearbyRestaurants:\n  - "Rio Bar 1 km"\n  - "Restorant Portokallet 2.2 km"\nwhatsNearby:\n  - "Sheshi I Bashkise 5 km"\n  - "Divjake-Karavasta National Park 10 km"\nairports:\n  - "Tirana International Airport Mother Teresa 56 km"\n  - "Ohrid Airport 93 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nbookingURL: "https://www.booking.com/hotel/al/resort-zdrava.en-gb.html?aid=8035640"\nbestFor: "Best for Airport Access"\nbestCategories: "Airport Access"\ncategory: "Airport Access"\n---\n\nEach morning, the resort becomes a hub of culinary delight, serving a sumptuous buffet breakfast that caters to a variety of tastes and preferences.
 
 Located a mere 89 km from Tirana International Mother Teresa Airport, Resort Zdrava offers an ideal retreat for those seeking a tranquil escape without straying too far from the pulse of the city.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

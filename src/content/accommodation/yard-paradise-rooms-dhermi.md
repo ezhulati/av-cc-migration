@@ -1,15 +1,4 @@
----
-title: Yard Paradise Rooms Dhermi
-description: During the balmy summer months, the hotel's snack bar becomes a hub of refreshment, offering guests freshly prepared drinks to enjoy. The setting is further enh
-featuredImage: "/images/accommodation/471112262.jpg"
-language: en
-slug: yard-paradise-rooms-dhermi
-location: ""
-amenities: []
-images: []
----
-
-During the balmy summer months, the hotel's snack bar becomes a hub of refreshment, offering guests freshly prepared drinks to enjoy. The setting is further enhanced by the breathtaking views available from the property - a picturesque panorama of the sea contrasted against the majestic mountains in the distance.
+---\ntitle: "Yard Paradise Rooms Dhermi"\ndescription: "Discover the charm of Yard Paradise Rooms Dhermi, a family-operated haven that offers guests a serene retreat amidst a vibrant garden filled with a variety of flowers and trees."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471112262.jpg?k=011878ccfcd3ec88511ef40995857fba845f4508fad4718638aecf8c7c111b06&o=&hp=1"\nlanguage: en\nslug: yard-paradise-rooms-dhermi\naddress: "Rruga Perivolo 81, 9422 Dhërmi, Albania"\ncity: "Dhërmi"\nlocation: "Dhërmi"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.15566924\n  lng: 19.62270087\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 137\nratings:\n  overall: 8.4\n  location: 8.3\n  cleanliness: 8.9\n  facilities: 8.4\n  value: 8.2\n  comfort: 8.8\n  staff: 8.8\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471112262.jpg?k=011878ccfcd3ec88511ef40995857fba845f4508fad4718638aecf8c7c111b06&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528317064.jpg?k=b1affb60916b0b81ba9989ec7cd327c2b978c1c804118071d280020a76b66957&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469083741.jpg?k=719ef836e18c651fcbcfa19b90eed4072ad4050f896b08919b53bd1c7532df3a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470590803.jpg?k=7e3980a09ecc4c72c680c51c0a837df1d35d23dbaa47d65067a1e59d0005f594&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469083037.jpg?k=f9941377e9ae4a3f7b7d79cd29e2c09e3d932ec22c4e13fb122d9af6f0ab689d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480780760.jpg?k=0e550d1621ad470d1b634d471f84f60eead67215062aa02ab7c5afd63ef0de51&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Double Room"\n  - "Small Double Room"\n  - "Triple Room"\n  - "Quadruple Room"\n  - "Apartment"\nnearbyRestaurants:\n  - "Luumabeach 600 m"\n  - "Taverna Fevan 650 m"\nnearbyBeaches:\n  - "Palasa Beach 700 m"\n  - "Dhermi Beach 1.6 km"\n  - "Nazar Beach 3 km"\n  - "Gjipe Beach 5 km"\n  - "Beach Me Shpella 6 km"\nwhatsNearby:\n  - "Llogora National Park 4.8 km"\nairports:\n  - "Corfu International Airport 65 km"\nreviews:\n  - name: "Hugo"\n    country: "Ireland"\n    text: "“You can either enjoy sea and mountain stunning views.”"\n  - name: "Arjola"\n    country: "United Kingdom"\n    text: "“Great building inside and out. Loads of outside apace around the building to relax and plenty space to park cars and enjoy a drink and breakfast. The breakfast was very plentiful and proper traditional with everything you need. Great job on...”"\n  - name: "Lala"\n    country: "Brazil"\n    text: "“The rooms were clean and comfortable. The staff is great, all very nice and supportive when communicating with us. The breakfast was very good. Parking spot very convenient.”"\nbookingURL: "https://www.booking.com/hotel/al/yard-paradise.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nDuring the balmy summer months, the hotel's snack bar becomes a hub of refreshment, offering guests freshly prepared drinks to enjoy. The setting is further enhanced by the breathtaking views available from the property – a picturesque panorama of the sea contrasted against the majestic mountains in the distance.
 
 Accommodations at Yard Paradise Rooms Dhermi are thoughtfully designed with guest comfort in mind. Each room, whether featuring a balcony or terrace, is equipped with essential amenities including a fridge and a TV, ensuring a stay that combines simplicity with convenience. The en-suite bathrooms, equipped with showers, add to the comfort of the experience.
 
@@ -18,15 +7,3 @@ The hotel prides itself on its round-the-clock reception service, ensuring that 
 For those looking to explore the natural beauty of the area, Llogara National Park is a mere 15 km away along SH8, offering adventurous guests the opportunity to immerse themselves in the stunning landscapes and diverse flora and fauna of the region.
 
 Yard Paradise Rooms Dhermi stands out as a peaceful escape, offering a blend of natural beauty, comfort, and convenience, making it a perfect choice for travelers seeking a tranquil getaway.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

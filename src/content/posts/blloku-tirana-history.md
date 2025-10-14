@@ -10,6 +10,11 @@ tags:
 featuredImage: "/images/posts/Blloku-Enver-Hoxha.jpg"
 language: en
 slug: blloku-tirana-history
+seo:
+  robots: "index"
+  metaTitle: "Blloku - Tirana's Journey from Dictatorship to Vibrant Life"
+  metaDescription: "Discover the captivating history of Blloku, Tirana's neighborhood that transformed from a dictator's enclave to a trendy hotspot filled with life and energy."
+  robots: "index"
 ---
 
 Once a mysterious and forbidden zone during the communist era, [Blloku](https://albaniavisit.com/attractions/blloku/) has undergone a remarkable transformation.
@@ -30,14 +35,3 @@ Visit the [House of Leaves Museum](https://albaniavisit.com/attractions/house-of
 
 As you wander through Blloku's streets, you feel the weight of its past juxtaposed with the vibrant energy of the present. The neighborhood symbolizes Albania's transformation, a testament to the country's ability to rise from the shadows of its history and embrace a brighter future.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

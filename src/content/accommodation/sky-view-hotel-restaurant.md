@@ -1,26 +1,3 @@
----
-title: Sky View Hotel & Restaurant
-description: "Guests can enjoy the tranquility of the hotel's garden, the convenience of free private parking, and the leisure of spending time on the terrace or at the bar."
-featuredImage: "/images/accommodation/521798159.jpg"
-language: en
-slug: sky-view-hotel-restaurant
-location: ''
-amenities: []
-images: []
----
-
-Guests can enjoy the tranquility of the hotel's garden, the convenience of free private parking, and the leisure of spending time on the terrace or at the bar. With room service and complimentary WiFi available throughout the premises, Sky View Hotel & Restaurant caters to the needs of every guest, ensuring a comfortable and connected stay.
+---\ntitle: "Sky View Hotel & Restaurant"\ndescription: "Sky View Hotel & Restaurant emerges as a serene oasis in Kukës, offering a unique blend of comfort and convenience for travelers."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521798159.jpg?k=78abda99e6b0e77dfbc558d47513b006b72dc2b03dfc4d3ed72f6f664aa26ce9&o=&hp=1"\nlanguage: en\nslug: sky-view-hotel-restaurant\naddress: "Rruga Deshmoret, 8501 Kukës, Albania"\ncity: "Kukës"\nlocation: "Kukës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.07896849\n  lng: 20.41791357\nprice: "US$53"\npriceFrom: 53\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521798159.jpg?k=78abda99e6b0e77dfbc558d47513b006b72dc2b03dfc4d3ed72f6f664aa26ce9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521799157.jpg?k=6bbc726f7776435e10e7301b90b911bca71f2f5c63f56542b4447cfc2be68af9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521798301.jpg?k=4a705b222201edb3a2de484dc6054dcb4e20bfbd3b40ac16b43fa01c6130840d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521798226.jpg?k=39a1880d5cdefea139104eb8a135aad339b3757481f6674cefba593dec6732b7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521799181.jpg?k=14474ab762fbff268ff647c734c4c7ffd72b4a5d2da81c03c6fa30f70380a882&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521799151.jpg?k=9fcfe322ada784cc3f1c1f7d0285d698deca677f70ab7262aeeb1d4ef0075aa4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521798253.jpg?k=f689da96d32b9ac5b026d3da47e6534298f813f5323cf66b37e8131bce6ec39b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521798192.jpg?k=776fa38d6b40bfff636432a58c574c34710e93e5b5c3ff97c13fd9963689f3b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521798060.jpg?k=d853cc99a4c5a466fbb045429b1c0ba8ffc3c15ada1db9f246b50ddcad5edc0d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Room service"\n  - "Airport shuttle (free)"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room"\nnearbyRestaurants:\n  - "Pizza Anima Hallall 150 m"\n  - "Fast Food Arsi 200 m"\nwhatsNearby:\n  - "Partia Socialiste Kukes 250 m"\n  - "Brekija Perla Kuksiane 700 m"\nairports:\n  - "Pristina International Airport 73 km"\n  - "Tirana International Airport Mother Teresa 93 km"\nbookingURL: "https://www.booking.com/hotel/al/sky-view-amp-restaurant.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nGuests can enjoy the tranquility of the hotel's garden, the convenience of free private parking, and the leisure of spending time on the terrace or at the bar. With room service and complimentary WiFi available throughout the premises, Sky View Hotel & Restaurant caters to the needs of every guest, ensuring a comfortable and connected stay.
 
 For those traveling through Pristina International Airport, the hotel is conveniently located 110 km away, making it an accessible retreat or a perfect stopover. Whether it's the allure of historical sites or the promise of modern comforts, this hotel offers an experience that is both enriching and relaxing.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

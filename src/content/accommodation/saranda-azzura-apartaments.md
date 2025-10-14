@@ -1,26 +1,3 @@
----
-title: Saranda azzura apartaments
-description: Each apartment at Saranda Azzura boasts spacious, air-conditioned living spaces, complete with a balcony for soaking in the city or sea views. The convenience o
-featuredImage: "/images/accommodation/451074581.jpg"
-language: en
-slug: saranda-azzura-apartaments
-location: ""
-amenities: []
-images: []
----
-
-Each apartment at Saranda Azzura boasts spacious, air-conditioned living spaces, complete with a balcony for soaking in the city or sea views. The convenience of free WiFi and the luxury of a fully equipped kitchen ensure a stay that combines the comforts of home with the excitement of travel. Entertainment needs are well catered to with a flat-screen TV, making it easy to unwind after a day of exploration.
+---\ntitle: "Saranda azzura apartaments"\ndescription: "Saranda Azzura Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451074581.jpg?k=db36a05d7226143b5d27fc6de217d665e37ebee265fd5389e8968e8e2a91f0e8&o=&hp=1"\nlanguage: en\nslug: saranda-azzura-apartaments\naddress: "Rruga Butrinti 1+1, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86612435\n  lng: 20.01638054\nprice: "US$70"\npriceFrom: 70\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451074581.jpg?k=db36a05d7226143b5d27fc6de217d665e37ebee265fd5389e8968e8e2a91f0e8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/451074497.jpg?k=5c047d8c6d1770879a800ca3ccf28b02ec346cf61de0baac3245bda28c07af49&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/451074572.jpg?k=5fa3714a2ab79ca06c42645f69a64ee1af85be0ed3e201af25dd6157478106b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/451074589.jpg?k=e50c1a93f69394e02bd3f0e803461cec600ff2b3ec451b21b9c96fcc8325251b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/451074596.jpg?k=956629a2a3414c57724a29ffb2f76e8f08227c24623cfdc218f09de726c359c3&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Free parking"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Arjas Fish Restorant 4 m"\n  - "Fast Food Mario 50 m"\nnearbyBeaches:\n  - "Maestral Beach 40 m"\n  - "La Petite Beach 250 m"\n  - "Saranda City Beach 650 m"\n  - "VIP Beach 850 m"\n  - "Santa Quaranta Beach 900 m"\nwhatsNearby:\n  - "Parc National de Butrint 1.1 km"\n  - "Butrint National Park 1.9 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/saranda-azzura-apartaments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach apartment at Saranda Azzura boasts spacious, air-conditioned living spaces, complete with a balcony for soaking in the city or sea views. The convenience of free WiFi and the luxury of a fully equipped kitchen ensure a stay that combines the comforts of home with the excitement of travel. Entertainment needs are well catered to with a flat-screen TV, making it easy to unwind after a day of exploration.
 
 For those traveling to or from Ioannina, the nearest airport is conveniently located 96 km away, making Saranda Azzura Apartments an accessible retreat for both local and international visitors.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

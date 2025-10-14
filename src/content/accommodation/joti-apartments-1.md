@@ -1,30 +1,7 @@
----
-title: Joti Apartments 1
-description: Guests at Joti Apartments 1 are treated to the luxury of on-site parking, with the added modern convenience of an electric vehicle charging station, catering to
-featuredImage: "/images/accommodation/491179496.jpg"
-language: en
-slug: joti-apartments-1
-location: ""
-amenities: []
-images: []
----
-
-Guests at Joti Apartments 1 are treated to the luxury of on-site parking, with the added modern convenience of an electric vehicle charging station, catering to the needs of the eco-conscious traveler. The property's prime location ensures that the wonders of Sarandë are never far away, with Maestral Beach just a brief drive from the doorstep and Ioannina Airport located 98 km away, making it a hassle-free option for international and domestic visitors alike.
+---\ntitle: "Joti Apartments 1"\ndescription: "Joti Apartments 1 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491179496.jpg?k=d9ceda1ab4c91ae91e0394e1b7409b3671dba589879ff0876526a3097cf7795a&o=&hp=1"\nlanguage: en\nslug: joti-apartments-1\naddress: "Rruga Lefter Talo 1 floor 2 floor, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.8673571\n  lng: 20.00655425\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491179496.jpg?k=d9ceda1ab4c91ae91e0394e1b7409b3671dba589879ff0876526a3097cf7795a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/491179503.jpg?k=e1fcb727732783f90065bd7cb0fdfcf85c614f3d8b9b69e5f47c74236323805b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/491179585.jpg?k=a5f22a134c041915bc82d959d2c964249661e8c72e282aa5bb205ec06e8fcbd7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/491179502.jpg?k=40429177f4b5cacda62f9c9e881da107bc57df9ec6d8a366e99218658c19276d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/491179501.jpg?k=ef3cbd04ea5e05a2e21927af3aa405776ae29f1dab388cb64997b8b1885ad999&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/491179497.jpg?k=d3208967b7c301c3da1d2f31c85c14a93cd3511fea195c91bebf4eb2a8d7a6a2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/491179499.jpg?k=26ad2cfcf31b9750a4b6c02c3d128842aa8a2f3b2fcd1e41a0420a5c474faa8e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/306785264.jpg?k=9052f57514a61752786e6f6e2c1d5e0e9c697bdd7ad111eeae528dbcb50a2de6&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Beer Burger Saranda 450 m"\n  - "Baci A Tutti 450 m"\nnearbyBeaches:\n  - "Sarande Main Beach 350 m"\n  - "La Petite Beach 650 m"\n  - "Saranda City Beach 750 m"\n  - "Maestral Beach 750 m"\n  - "VIP Beach 1.4 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.8 km"\n  - "Butrint National Park 2.5 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nbookingURL: "https://www.booking.com/hotel/al/joti-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Joti Apartments 1 are treated to the luxury of on-site parking, with the added modern convenience of an electric vehicle charging station, catering to the needs of the eco-conscious traveler. The property's prime location ensures that the wonders of Sarandë are never far away, with Maestral Beach just a brief drive from the doorstep and Ioannina Airport located 98 km away, making it a hassle-free option for international and domestic visitors alike.
 
 The apartment itself is a sanctuary of modern living, boasting air-conditioned spaces thoughtfully designed for relaxation and privacy. The layout includes a separate bedroom, a cozy living room for unwinding after a day of exploration, a fully equipped kitchen for those who love to cook, and a bathroom that combines functionality with sleek design. Entertainment needs are well catered for with a flat-screen TV, ensuring guests have access to their favorite shows and movies. Additionally, the commitment to a non-smoking environment underscores the property's dedication to providing a clean and healthy stay for all guests.
 
 Adding to the allure, the inclusion of a balcony offers a private outdoor space where guests can enjoy the fresh sea breeze and perhaps a morning coffee or an evening glass of wine, making it an ideal setting for both relaxation and contemplation.
 
 In summary, Joti Apartments 1 stands out as a top-tier accommodation choice for those looking to immerse themselves in the beauty of Sarandë, offering a blend of home comforts and convenient access to the city's coastal attractions.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

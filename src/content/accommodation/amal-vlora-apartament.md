@@ -1,30 +1,7 @@
----
-title: Amal Vlora Apartament
-description: Guests at Amal Vlora Apartament are treated to complimentary WiFi and on-site parking, ensuring a hassle-free stay from the moment of arrival. The apartment com
-featuredImage: "/images/accommodation/208612213.jpg"
-language: en
-slug: amal-vlora-apartament
-location: ""
-amenities: []
-images: []
----
-
-Guests at Amal Vlora Apartament are treated to complimentary WiFi and on-site parking, ensuring a hassle-free stay from the moment of arrival. The apartment complex is designed with families in mind, offering spacious family rooms that cater to the needs of all guests.
+---\ntitle: "Amal Vlora Apartament"\ndescription: "Amal Vlora Apartament emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208612213.jpg?k=ab1a32bb38ff3e31f3ad20820ccad4cdf7cf4b369c57f0e130df56dd4915486b&o=&hp=1"\nlanguage: en\nslug: amal-vlora-apartament\naddress: "Rruga Aristill Kokoshi, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.452647\n  lng: 19.49093\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 23\nratings:\n  overall: 9.3\n  location: 9.8\n  cleanliness: 9.3\n  facilities: 8.8\n  value: 9.3\n  comfort: 9.1\n  staff: 8.6\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208612213.jpg?k=ab1a32bb38ff3e31f3ad20820ccad4cdf7cf4b369c57f0e130df56dd4915486b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463461816.jpg?k=d57f0b01c58fc687b9db1a1263ce401e2d6699a13b16956098d8660bd2c372d7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208612090.jpg?k=b00b61433ada0ea456583502ce410e00b464e565e102854da03d1d5981ac9e93&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463461810.jpg?k=137d5e4b6d766128641c2e26b192ae3aa23415e5b5e97f96429d4bfd05661cb1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463461746.jpg?k=149b1e0fcbb8e5c255d59452de34f322794a473490982695e2a4a19fbea96403&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368090331.jpg?k=0adaaee1acf42a367b2fd58ddb9095b578376a18f0cf65b60a9f77f794a71daf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463461820.jpg?k=c16a90039833ab3e8b80e60f5175da82559f3ad9256c80f87b26b350886e9b0e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208612135.jpg?k=1d64337a904bf7af2edae8286f49d655767551b437b4db4c3d748c06fe2a4766&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463461751.jpg?k=6068a0d2de6f7c54c825630829c075485443823aa214be16b02eea4af908d0b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463461774.jpg?k=82de52f53da29124c3725358e90f65ff4f1c0b56e2b4b5a5a14602e39629cdcd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463461825.jpg?k=fa4264a1454d5dcf1de8512a8a3fdeea23efbacd780a2cd16b7c672029a4faae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463460587.jpg?k=0b5a1765d3a2f135d7113bcb2066d1e5f6c71aafdfcc43bf8d737d8fac803d71&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Carraro 200 m"\n  - "Novus Traditional Food 200 m"\nnearbyBeaches:\n  - "Vlore Beach 550 m"\n  - "Vjetër Beach 800 m"\n  - "Ri Beach 1.9 km"\n  - "Beach at Government Villas 3.6 km"\n  - "Liro Beach 4.3 km"\nwhatsNearby:\n  - "Kuzum Baba 1.7 km"\n  - "Scooby Doo Vlore 1.9 km"\n  - "Independence Square 2 km"\nreviews:\n  - name: "Nikita"\n    country: "Israel"\n    text: "“Great apartment for its price right on the promenade”"\n  - name: "Bastian"\n    country: "Germany"\n    text: "“Very well located, a spacious and clean apartment, a great balcony, even with a little sea view :) The location is perfect, just behind the promenade and yet quiet, a delicious bakery within sight. The communication with the hosts was...”"\n  - name: "Olsi"\n    country: "Italy"\n    text: "“Availability and flexibility of the owners throughout the period.”"\nbookingURL: "https://www.booking.com/hotel/al/haris-vlora-guest-hause.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Amal Vlora Apartament are treated to complimentary WiFi and on-site parking, ensuring a hassle-free stay from the moment of arrival. The apartment complex is designed with families in mind, offering spacious family rooms that cater to the needs of all guests.
 
 Each unit within the complex boasts its own unique charm, with select apartments featuring a private entrance, a desk, and a wardrobe for personal belongings. For those seeking a touch of luxury, some accommodations offer a terrace and a cozy seating area equipped with a flat-screen TV and air conditioning, creating a perfect environment for relaxation. Privacy and comfort are paramount, with each unit housing a private bathroom.
 
 Situated just 2.4 km from the historic Independence Square and 2.9 km from the iconic Kuzum Baba, Amal Vlora Apartament serves as an ideal base for exploring the rich cultural tapestry of Vlorë. For international travelers, the Tirana International Mother Teresa Airport is 151 km away, making it a convenient gateway to this charming destination.
 
 Amal Vlora Apartament stands out as a beacon of comfort and convenience, promising an unforgettable stay for those venturing to the beautiful shores of Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

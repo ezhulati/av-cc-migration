@@ -1,34 +1,7 @@
----
-title: Hotel Saranda International
-description: Each room at Saranda International is a bright and inviting space, with a fridge for your convenience. Guests can choose from rooms boasting direct sea views or
-featuredImage: "/images/accommodation/469773885.jpg"
-language: en
-slug: hotel-saranda-international
-location: ""
-amenities: []
-images: []
----
-
-Each room at Saranda International is a bright and inviting space, with a fridge for your convenience. Guests can choose from rooms boasting direct sea views or opt for those with side sea views, each offering a unique perspective of the stunning surroundings.
+---\ntitle: "Hotel Saranda International"\ndescription: "Discover the charm of Hotel Saranda International, a gem that stands out for its exclusive private beach, complete with complimentary deck chairs, umbrellas, and a lively beach bar."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469773885.jpg?k=d6f2e76e1167f08b08b28f2f6046b08834cf0acd7ad93df6a8aebb522208332c&o=&hp=1"\nlanguage: en\nslug: hotel-saranda-international\naddress: "Rruga Nacionale Sarande-Ksamil, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.855425\n  lng: 20.021436\nprice: "US$35"\npriceFrom: 35\nstarRating: 4\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 421\nratings:\n  overall: 8.4\n  location: 8.3\n  cleanliness: 8.7\n  facilities: 8.2\n  value: 8.2\n  comfort: 8.7\n  staff: 8.8\n  wifi: 7.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469773885.jpg?k=d6f2e76e1167f08b08b28f2f6046b08834cf0acd7ad93df6a8aebb522208332c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469774651.jpg?k=ed3150c4a873ccbde347e2841d6cbe2d1a2d61263c8cddae0478a8f4a7f149de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476246197.jpg?k=ee6999449086ce47aae9b8a677d439da337756c2bddb78f888b2630ecb920608&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469774949.jpg?k=815f66c3791fb2cc5cd10d2e3e9e3acd28e49647ec713e64a4a8d8da8b63a991&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470822867.jpg?k=33898880154864d56317ce76b50842c1e7e9f91bef76dc20cc64aa08b746f39f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/212173216.jpg?k=99fb50a6324b137b92217b538232f51e8243cc7ebde8c55cc270db8228490d7b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469770389.jpg?k=c8bde4635d55adf36eee6843c88fb47ab0548a04157d389cc562da98219212c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469775667.jpg?k=cd049c2a5d6c288dd4761a412bfeec2c902d8f40219112404fc6ad8badab5ee6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476248570.jpg?k=93e5bcd59480fc3e66739bf5b99a09b89ab456def7993fe98610f958836bf2f6&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Good breakfast"\nnearbyRestaurants:\n  - "Taverne Fast Food 30 m"\n  - "Fantastic 30 m"\nnearbyBeaches:\n  - "Flamingo Beach 150 m"\n  - "Mango Beach 150 m"\n  - "Santa Quaranta Beach 300 m"\n  - "VIP Beach 350 m"\n  - "Maestral Beach 1.3 km"\nwhatsNearby:\n  - "Parc National de Butrint 500 m"\n  - "Butrint National Park 650 m"\n  - "Plazhi I Krorezes 6 km"\n  - "Parku Kombetar I Butrintit 10 km"\n  - "Butrint National Park 10 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 70 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Slobodan"\n    country: "Montenegro"\n    text: "“Nice view, nice staff, private beach. Good breakfast.”"\n  - name: "Muhammad"\n    country: "United Kingdom"\n    text: "“Modern facilities, warm welcome from staff, close to beach, beach not overcrowded, good breakfast with halal options, staff always on hand to help, parking easily accessible, rooms very comfortable, good outdoor space in rooms, very close to shops...”"\n  - name: "Dariusz"\n    country: "Poland"\n    text: "“Room, location, breakfast, private beach - all at good standard”"\nbookingURL: "https://www.booking.com/hotel/al/saranda-international.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach room at Saranda International is a bright and inviting space, with a fridge for your convenience. Guests can choose from rooms boasting direct sea views or opt for those with side sea views, each offering a unique perspective of the stunning surroundings.
 
 For those traveling by car, the convenience of free parking is a notable perk. Families will appreciate the on-site children's playground, making it an ideal choice for guests of all ages. Additionally, the hotel provides access to some water sports facilities, inviting guests to dive into a world of aquatic adventure. The complimentary use of deck chairs and umbrellas on the beach adds to the allure, ensuring a relaxing and hassle-free beach experience.
 
 Beyond the comforts of the hotel, the ancient town of Butrint is just a 20-minute drive away, offering a glimpse into the region's rich history. For those willing to venture a bit further, the historic Gjirokastër Castle lies within 54 km, promising an unforgettable excursion. The nearest international airport is conveniently located on the Greek island of Corfu, making Hotel Saranda International an accessible retreat for international travelers.
 
 In summary, Hotel Saranda International is not just a place to stay; it's a destination that offers a blend of comfort, convenience, and adventure, making it a perfect choice for your next getaway.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

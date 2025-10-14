@@ -1,28 +1,5 @@
----
-title: G Balcony Apartment
-description: The apartment itself is a study in spacious, modern living, boasting a bedroom that promises restful nights, a bathroom equipped with a bidet for an added touch
-featuredImage: "/images/accommodation/260368546.jpg"
-language: en
-slug: g-balcony-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a study in spacious, modern living, boasting a bedroom that promises restful nights, a bathroom equipped with a bidet for an added touch of luxury, and generous provision of bed linen and towels. The living space is designed for relaxation and entertainment, featuring a flat-screen TV with a variety of cable channels, a dining area for intimate meals, and a fully equipped kitchen for those who enjoy the art of cooking. Perhaps the most captivating feature is the balcony, offering unobstructed views of the sea, where the sound of waves provides a constant, soothing backdrop.
+---\ntitle: "G Balcony Apartment"\ndescription: "G Balcony Apartment stands as a prime beachfront gem in Vlorë, offering guests the rare opportunity to wake up just steps away from the serene Ri Beach and the vibrant Vlore Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260368546.jpg?k=066843ac73c2838fae664a32a13a823153a4948c17822998d855725c502fcc0e&o=&hp=1"\nlanguage: en\nslug: g-balcony-apartment\naddress: "Rruga Murat Terbaci, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.43820994\n  lng: 19.49564729\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260368546.jpg?k=066843ac73c2838fae664a32a13a823153a4948c17822998d855725c502fcc0e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/316344228.jpg?k=5ca38e8a7735308b5718e80f4b4e5d6d4ede1c4f3b8a9c849aa2083e1c8d2812&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/260368586.jpg?k=59d336e10828f1eb4381758031c0f4c2ad5741e963b1e263f34209c768ab9a3f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/260368591.jpg?k=21b3a930b6f69415e44b9768448ebf41150f09d3b99c05ef90ce32020cdd47c4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/260374452.jpg?k=35170efa52d301af37c8b0e87baf847eacac3955244b3c3e785a053dc32d8e05&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/261813995.jpg?k=3bec43cc8c19a4282761e24b03febd3b78d0ca83678c9f95a7f1c43dc9e926ab&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Due Mari 20 m"\n  - "Restorant Joni 30 m"\nnearbyBeaches:\n  - "Ri Beach 300 m"\n  - "Vlore Beach 500 m"\n  - "Vjetër Beach 1.9 km"\n  - "Beach at Government Villas 2.1 km"\n  - "Liro Beach 2.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 200 m"\n  - "Kuzum Baba 3.3 km"\n  - "Independence Square 3.6 km"\nbookingURL: "https://www.booking.com/hotel/al/gero-balcony-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a study in spacious, modern living, boasting a bedroom that promises restful nights, a bathroom equipped with a bidet for an added touch of luxury, and generous provision of bed linen and towels. The living space is designed for relaxation and entertainment, featuring a flat-screen TV with a variety of cable channels, a dining area for intimate meals, and a fully equipped kitchen for those who enjoy the art of cooking. Perhaps the most captivating feature is the balcony, offering unobstructed views of the sea, where the sound of waves provides a constant, soothing backdrop.
 
 Not to be overlooked, the apartment's soundproofing ensures that the tranquility of the beachfront can be enjoyed without interruption. Guests also have the pleasure of mountain views, adding another layer to the property's natural charm.
 
 Located a short distance from notable landmarks such as Vjetër Beach and Kuzum Baba, and just over 4 km from Independence Square, G Balcony Apartment serves as an ideal base for exploring the rich history and natural beauty of Vlorë. For those traveling from afar, the Tirana International Mother Teresa Airport is 153 km away, making the apartment a convenient choice for both local and international visitors seeking a peaceful retreat by the sea.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

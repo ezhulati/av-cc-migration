@@ -1,26 +1,3 @@
----
-title: "Rania"
-description: "The apartment itself boasts a modern air-conditioned space, complete with a bedroom that promises restful nights."
-featuredImage: "/images/accommodation/478099131.jpg"
-language: "en"
-slug: "rania"
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself boasts a modern air-conditioned space, complete with a bedroom that promises restful nights. Entertainment and connectivity are at guests' fingertips with a flat-screen TV, and the fully equipped kitchen offers the freedom to craft meals at any time of day or night.
+---\ntitle: "Rania"\ndescription: "Rania stands as a prime beachfront gem in Durrës, merely a stone's throw away from the serene Durres Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478099131.jpg?k=c6e21a0f087f319449874a32ed17802be8f85882b970ff0c3a187438601bd75b&o=&hp=1"\nlanguage: en\nslug: rania\naddress: "Rruga Pavaresia, 2008 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30809313\n  lng: 19.48930427\nprice: "US$63"\npriceFrom: 63\nstarRating: 3\nrating: 5.9\nratingWords: "Below Average"\nnumberOfReviews: 2\nratings:\n  overall: 5.9\n  location: 6.3\n  cleanliness: 6.3\n  facilities: 5\n  value: 6.3\n  comfort: 5\n  staff: 6.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478099131.jpg?k=c6e21a0f087f319449874a32ed17802be8f85882b970ff0c3a187438601bd75b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478099170.jpg?k=c68392edd6cd558e08e145f0ead327c5877adb1e498d08e2cc610f2591b3096e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478099174.jpg?k=6a86ff5482455fdff2f1db469cd79b3c178b18cf5f200d3391a6a909b74fdab8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478099176.jpg?k=1a8638427dbd249b4c886098cbe3f9f911f5033e80edfc90182971201b452d9d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478099179.jpg?k=96cce94806aba58173d768e3c46140cc6fcf13aff79a816409f3617fe44fd1f2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478099180.jpg?k=02c479570dfc48eae76098949e265505e95831d302df3704e73396b7d015a9c9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478099183.jpg?k=659fcb89e1f9cb043436ef46d73992c3ca4b704dcf0d2fea53f069c5a550b92f&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Relax 50 m"\n  - "Caffe Pascucci 100 m"\nnearbyBeaches:\n  - "Durres Beach 150 m"\n  - "Shkëmbi i Kavajës Beach 3 km"\n  - "Currila Beach 3.5 km"\n  - "Kallmi Beach 4.9 km"\n  - "Golem Beach 5 km"\nwhatsNearby:\n  - "Bekimi 2.4 km"\n  - "Wine Dhe Pooh 3.5 km"\n  - "Sheshi Demokracia 3.6 km"\n  - "Yje Dhe Hena 3.6 km"\n  - "Durres Amphiteatre 3.7 km"\n  - "Sotir Noka 3.8 km"\n  - "1. Maj 3.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/rania.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself boasts a modern air-conditioned space, complete with a bedroom that promises restful nights. Entertainment and connectivity are at guests' fingertips with a flat-screen TV, and the fully equipped kitchen offers the freedom to craft meals at any time of day or night.
 
 For adventurers looking to explore beyond the city's confines, the Dajti Ekspres Cable Car awaits at 42 km, offering breathtaking views from above. Meanwhile, the Rock of Kavaje, a natural marvel, is just 6.2 km away, perfect for a day trip. Ease of travel is assured, with Tirana International Mother Teresa Airport only 33 km from Rania, making it a convenient choice for both international and domestic travelers seeking the perfect blend of relaxation and exploration.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

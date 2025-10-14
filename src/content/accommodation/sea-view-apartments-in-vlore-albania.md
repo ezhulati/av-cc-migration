@@ -4,9 +4,23 @@ description: Guests at Sea View Apartments are treated to an array of facilities
 featuredImage: "/images/accommodation/480782748.jpg"
 language: en
 slug: sea-view-apartments-in-vlore-albania
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Air Conditioning"
+  - "Parking"
+  - "Restaurant"
+  - "Bar"
+  - "Kitchen"
+  - "Balcony"
+  - "Sea View"
+  - "Mountain View"
+  - "Laundry"
 ---
 
 Guests at Sea View Apartments are treated to an array of facilities designed to enhance their stay. The property boasts a terrace and barbecue facilities for those leisurely evenings under the stars, complemented by the assurance of full-day security. An added convenience is the inclusion of an elevator, ensuring easy access to all levels of the property, alongside an outdoor fireplace that adds a touch of warmth and ambiance.
@@ -17,14 +31,3 @@ What sets these apartments apart are the breathtaking views of the sea, availabl
 
 For those looking to explore the local area, Liro Beach is just 1.1 km away, while Ri Beach is slightly further at 1.7 km, offering ample opportunities for beach days and water activities. For international travelers, Tirana International Mother Teresa Airport is the nearest gateway, located 155 km from the property, making Sea View Apartments in Vlorë, Albania, an accessible and desirable destination for both local and international visitors.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

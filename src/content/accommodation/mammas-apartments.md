@@ -4,9 +4,20 @@ description: Guests at Mamma's Apartments are treated to a suite of amenities de
 featuredImage: "/images/accommodation/454806732.jpg"
 language: en
 slug: mammas-apartments
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Sarandë"
+amenities:
+  - "WiFi"
+  - "Air Conditioning"
+  - "Parking"
+  - "Restaurant"
+  - "Spa"
+  - "Kitchen"
+  - "TV"
 ---
 
 Guests at Mamma's Apartments are treated to a suite of amenities designed to make their stay as comfortable as possible. Each apartment boasts air conditioning, ensuring a cool retreat from the Mediterranean warmth. The convenience of complimentary private parking and WiFi access throughout the property adds to the hassle-free experience.
@@ -17,14 +28,3 @@ For those looking to explore beyond the local beaches and historical sites, the 
 
 Mamma's Apartments stands as a testament to the perfect balance of accessibility, comfort, and attentive amenities, making it an ideal spot for travelers looking to immerse themselves in the beauty and culture of Sarande.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

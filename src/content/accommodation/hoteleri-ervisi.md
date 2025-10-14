@@ -1,26 +1,3 @@
----
-title: Hoteleri Ervisi
-description: "Guests at Hoteleri Ervisi can start their day with a delightful Italian breakfast, setting the right tone for exploring or simply relaxing."
-featuredImage: "/images/accommodation/515240314.jpg"
-language: en
-slug: hoteleri-ervisi
-location: ""
-amenities: []
-images: []
----
-
-Guests at Hoteleri Ervisi can start their day with a delightful Italian breakfast, setting the right tone for exploring or simply relaxing. For dining options, the hotel offers a barbecue area, perfect for casual outdoor meals. The surrounding area is a haven for fishing enthusiasts, and for those looking to explore further, car hire services are conveniently available on-site.
+---\ntitle: "Hoteleri Ervisi"\ndescription: "Hoteleri Ervisi emerges as a serene oasis located just 19 km away from the historic Rozafa Castle Shkodra in Vau i Dejës, offering a tranquil retreat with its lush garden, ample free private parking, inviting terrace, and welcoming bar."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515240314.jpg?k=72a98f3800fb2ccf526240613fe5f7058f21257caf0a03bc9fc71773fb01d4d2&o=&hp=1"\nlanguage: en\nslug: hoteleri-ervisi\naddress: "rruga Vau dejes, dera nr/03, 4008 Vau i Dejës, Albania"\ncity: "Vau"\nlocation: "Vau"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.00317004\n  lng: 19.63348466\nprice: "US$22"\npriceFrom: 22\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515240314.jpg?k=72a98f3800fb2ccf526240613fe5f7058f21257caf0a03bc9fc71773fb01d4d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515240396.jpg?k=8c73bbcfd29e303ebb09e6cbec6cdee284b564348d9a3a6ec61fad8c1671ee25&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516306416.jpg?k=76d3ba2864973bae465daf0ca8580c3360800c14ff713172cff95b9443c5c766&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515240370.jpg?k=6b71e76e466b1bcbd4ecb59c7823a9ff6adf5c4f7179d9b557ba75e113ac8f03&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516306399.jpg?k=f667d881cb1c98daa16a1858e34dd0e9d9cb6b675412e8beede6dc4458276cd3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516306401.jpg?k=ee7187110d542b4a889f16fff7c99bb5014d1c93aeeb8b8d17dae1714e43f857&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516306394.jpg?k=359d854f16923bc2c4650371c09b80ad9847adb7d4ae0438caf909697555f12e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516306411.jpg?k=2894149b28f1be6ada99d5932a3ee5921a6858e314bfcc5e711be283411197f5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525981372.jpg?k=ef3786f890ab4c8d56cbed52f91908e137f78e3585e83d6b60b7fc119d373d0c&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room"\nnearbyRestaurants:\n  - "Ristorant Nacional 150 m"\n  - "Bar Hotel Hasmegaj 1.3 km"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 13 km"\nairports:\n  - "Podgorica Airport 49 km"\n  - "Tirana International Airport Mother Teresa 64 km"\n  - "Tivat Airport 86 km"\nbookingURL: "https://www.booking.com/hotel/al/hoteleri-ervisi.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nGuests at Hoteleri Ervisi can start their day with a delightful Italian breakfast, setting the right tone for exploring or simply relaxing. For dining options, the hotel offers a barbecue area, perfect for casual outdoor meals. The surrounding area is a haven for fishing enthusiasts, and for those looking to explore further, car hire services are conveniently available on-site.
 
 Situated a mere 21 km from the breathtaking Lake Skadar and 73 km from Podgorica Airport, Hoteleri Ervisi serves as an ideal base for travelers seeking both relaxation and adventure in the heart of Vau i Dejës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

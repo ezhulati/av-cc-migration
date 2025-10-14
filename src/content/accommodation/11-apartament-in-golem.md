@@ -4,9 +4,21 @@ description: "The apartment itself is a spacious retreat, offering guests a balc
 featuredImage: "/images/accommodation/AATXAJyURccqUA7sgV-AGXqgOlD9xWjA5R6UfHWn1Z1Us96-c64"
 language: en
 slug: 11-apartament-in-golem
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Parking"
+  - "Bar"
+  - "Spa"
+  - "Kitchen"
+  - "Balcony"
+  - "Mountain View"
+  - "TV"
 ---
 
 The apartment itself is a spacious retreat, offering guests a balcony from which they can savor mountain views, a cozy bedroom for restful nights, and a living room for relaxation. The kitchen comes well-equipped, featuring both a fridge and a minibar, catering to guests' culinary needs. Entertainment is readily available with a flat-screen TV, ensuring that guests have all the comforts of home at their fingertips.
@@ -17,14 +29,3 @@ Connectivity is seamless, with complimentary WiFi throughout, and for guests arr
 
 Situated a manageable distance from Tirana International Mother Teresa Airport, only 37 km away, 1+1 Apartment in Golem presents an accessible, tranquil getaway blending beachfront bliss with the comforts of home.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

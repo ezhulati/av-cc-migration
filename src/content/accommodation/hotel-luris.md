@@ -1,30 +1,8 @@
----
-title: Hotel Luris
-description: "Accommodations at Hotel Luris are thoughtfully designed with guest comfort in mind."
-featuredImage: "/images/accommodation/466350058.jpg"
-language: en
-slug: hotel-luris
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Hotel Luris are thoughtfully designed with guest comfort in mind. Each room is equipped with a coffee machine, ensuring a refreshing start to the day. The presence of a private bathroom, complete with a bidet and complimentary toiletries, adds a touch of convenience, while the inclusion of a flat-screen TV and air conditioning ensures a relaxing stay. Select rooms further enhance the experience by offering terraces, providing guests with a private outdoor space to enjoy the surrounding mountain views.
+---\ntitle: "Hotel Luris"\ndescription: "Hotel Luris emerges as a prime choice for travelers seeking a serene getaway, perfectly positioned just steps from the captivating Shkëmbi i Kavajës Beach in Golem."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466350058.jpg?k=2c95db38eccb6d9d13fc35709cb307f00e3bc598bd94b9d2540ab5e992c4be23&o=&hp=1"\nlanguage: en\nslug: hotel-luris\naddress: "Rruga Liria 1 flor Hotel luris, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.2775577\n  lng: 19.51469023\nprice: "US$26"\npriceFrom: 26\nstarRating: 4\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 110\nratings:\n  overall: 9.3\n  location: 9.3\n  cleanliness: 9.6\n  facilities: 9.4\n  value: 9.6\n  comfort: 9.5\n  staff: 9.8\n  wifi: 8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466350058.jpg?k=2c95db38eccb6d9d13fc35709cb307f00e3bc598bd94b9d2540ab5e992c4be23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462867406.jpg?k=2e439581086069db157de505a5cf84cc16503a4b7652d093d530d811e3a74443&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462863800.jpg?k=b0e83e4a0992975f5e7f32313fc109599347e4db5ce1d549c8d56e1431255bc8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466343280.jpg?k=d8865a9d204e82bd7f077d994a2168491b2214a2430600cbd0baf69526d16e9a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466343342.jpg?k=78be8847f91c61718c01bc3a015640e0845ad17fedb5819198f6c6c7625e7784&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462863670.jpg?k=08d97f4b4d462099373268769025d2484784795855afa20315c1a8fbfabd5e0d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Airport shuttle (free)"\n  - "Free WiFi"\n  - "Free parking"\n  - "Family rooms"\n  - "Beachfront"\n  - "Tea/coffee maker in all rooms"\n  - "Private beach area"\nroomTypes:\n  - "Budget Double Room"\n  - "Deluxe Double Room with Balcony"\nnearbyRestaurants:\n  - "Restorant Lala 40 m"\n  - "Oyster 100 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 20 m"\n  - "Durres Beach 1 km"\n  - "Golem Beach 1.4 km"\n  - "Mali I Robit Beach 3.3 km"\n  - "Qerret Beach 5 km"\nwhatsNearby:\n  - "Bekimi 6 km"\n  - "Wine Dhe Pooh 7 km"\n  - "Durres Amphiteatre 7 km"\n  - "Yje Dhe Hena 7 km"\n  - "Sheshi Demokracia 7 km"\n  - "1. Maj 7 km"\n  - "Sotir Noka 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "J"\n    country: "Albania"\n    text: "“It was clean and comfortable.
+The owner was very friendly.”"\n  - name: "Martin"\n    country: "Albania"\n    text: "“cleanliness, comfort, nicely furnished room, polite staff ,everything was fine”"\n  - name: "Krastan"\n    country: "Bulgaria"\n    text: "“Tony the owner was amazing host! I arrived by motorcycle so he let me use his underground garage, he also did my laundry for free, and during the entire stay was giving great advice for places to visit and restaurants to try. I really enjoyed...”"\nbookingURL: "https://www.booking.com/hotel/al/luris.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Hotel Luris are thoughtfully designed with guest comfort in mind. Each room is equipped with a coffee machine, ensuring a refreshing start to the day. The presence of a private bathroom, complete with a bidet and complimentary toiletries, adds a touch of convenience, while the inclusion of a flat-screen TV and air conditioning ensures a relaxing stay. Select rooms further enhance the experience by offering terraces, providing guests with a private outdoor space to enjoy the surrounding mountain views.
 
 The hotel prides itself on its multilingual reception staff, ready to assist guests in German, English, Italian, and Albanian, ensuring a welcoming experience for travelers from around the globe.
 
 For those keen to explore the local area, Hotel Luris is conveniently located near a variety of popular attractions, including Durres Beach, Golem Beach, and the Rock of Kavaje, making it an excellent choice for beach enthusiasts and cultural explorers alike. Additionally, the proximity to Tirana International Mother Teresa Airport, just 36 km away, facilitates easy access for international visitors.
 
 In summary, Hotel Luris stands out as a distinguished destination for those in pursuit of both relaxation and adventure, offering well-appointed accommodations and a strategic location that caters to a wide range of interests.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

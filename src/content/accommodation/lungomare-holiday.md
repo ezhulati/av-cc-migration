@@ -1,28 +1,5 @@
----
-title: Lungomare Holiday
-description: This apartment, featuring a single bedroom, comes fully equipped with a kitchen and a bathroom, ensuring a stay that combines the ease of home with the luxury o
-featuredImage: "/images/accommodation/463587964.jpg"
-language: en
-slug: lungomare-holiday
-location: ""
-amenities: []
-images: []
----
-
-This apartment, featuring a single bedroom, comes fully equipped with a kitchen and a bathroom, ensuring a stay that combines the ease of home with the luxury of vacation. The provision of air conditioning and complimentary WiFi throughout the premises adds to the comfort, making it a suitable choice for both short and long stays.
+---\ntitle: "Lungomare Holiday"\ndescription: "Lungomare Holiday emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463587964.jpg?k=76902362b9657a042fea33c89bb1d6b11083ee1840e631a1589510a4657df5e6&o=&hp=1"\nlanguage: en\nslug: lungomare-holiday\naddress: "Vlore - Kanine, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4468365\n  lng: 19.49514363\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463587964.jpg?k=76902362b9657a042fea33c89bb1d6b11083ee1840e631a1589510a4657df5e6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463587991.jpg?k=9df963a09c096e9b78a7f25803d978cf7c8dc33d536242b86c47989293944ea6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463587994.jpg?k=b35df64b27e3be9e77ea4a2bef923bcda0fe7a075e936dc712cf8fd794a322d7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463587986.jpg?k=b110f064dc9343ddf9c38ccf8f9ac727799a8c6a29c4a183be802356a837ee40&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463587983.jpg?k=37af000a1976d99158eab1ac35416c6e8704e2c51111f3596498cb3e9dfaaf1f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463587985.jpg?k=3aed6a1e93825341bc60261bac28003befba36dafa1ff1bf77f1bb9a7984895e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463587989.jpg?k=018039cfaf28d7d381a6cce0311b97eb50ec4900061d688b5d613b03ddc66eed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463587990.jpg?k=95358e313d381026180f1ceaacaa4adf247547606d5ba6ce403ea4f39ce4922b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463587981.jpg?k=4b4f824dc924a7ca99082089efdee6070e40624dc4ec3be3b510cebb672e4e12&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Primo Gusto 100 m"\n  - "Restorant Xhokla 100 m"\nnearbyBeaches:\n  - "Vlore Beach 100 m"\n  - "Ri Beach 1.3 km"\n  - "Vjetër Beach 1.3 km"\n  - "Beach at Government Villas 3 km"\n  - "Liro Beach 3.7 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.2 km"\n  - "Kuzum Baba 2.3 km"\n  - "Independence Square 2.7 km"\nbookingURL: "https://www.booking.com/hotel/al/lungomare-holiday.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment, featuring a single bedroom, comes fully equipped with a kitchen and a bathroom, ensuring a stay that combines the ease of home with the luxury of vacation. The provision of air conditioning and complimentary WiFi throughout the premises adds to the comfort, making it a suitable choice for both short and long stays.
 
 For those interested in the cultural highlights of Vlorë, Lungomare Holiday is conveniently situated a mere 2.8 km from the iconic Kuzum Baba and 3 km from the bustling Independence Square, making it effortless for guests to immerse themselves in the local heritage.
 
 Accessibility is further enhanced by the proximity to Tirana International Mother Teresa Airport, located 152 km away, ensuring that guests can navigate their arrival and departure with ease. Lungomare Holiday stands out as a thoughtful choice for travelers aiming to experience the best of Vlorë's coastal lifestyle.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

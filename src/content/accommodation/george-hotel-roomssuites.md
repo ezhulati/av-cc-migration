@@ -4,9 +4,19 @@ description: Each room at George Hotel Rooms&Suites is a haven of comfort, equip
 featuredImage: "/images/accommodation/253851257.jpg"
 language: en
 slug: george-hotel-roomssuites
-location: ""
-amenities: []
 images: []
+category: "3-Star"
+starRating: 3
+rating: 3
+accommodationType: "hotel"
+location: "Lac"
+amenities:
+  - "Air Conditioning"
+  - "Bar"
+  - "Kitchen"
+  - "Balcony"
+  - "Room Service"
+  - "TV"
 ---
 
 Each room at George Hotel Rooms&Suites is a haven of comfort, equipped with air conditioning, ample storage, and a flat-screen TV for those moments of relaxation. The private bathrooms, complete with fresh bed linen and towels, ensure a private and serene retreat. For guests desiring a glimpse of the city's rhythm, terraces offer captivating views, while select accommodations boast a fully equipped kitchen, including an oven, microwave, and stovetop, catering to every culinary need.
@@ -17,14 +27,3 @@ For those with an adventurous spirit, George Hotel Rooms&Suites serves as an ide
 
 Situated 142 km from Ioannina Airport, George Hotel Rooms&Suites is not just a place to stay but a gateway to the experiences and memories that await in Himare. Whether it's the allure of the beaches, the comfort of the accommodations, or the promise of adventure, this hotel ensures a stay that's as enriching as it is relaxing.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

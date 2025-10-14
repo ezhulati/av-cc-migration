@@ -1,30 +1,3 @@
----
-title: Amar apartment
-description: This generously sized apartment boasts two bedrooms, ensuring ample space for guests to unwind. The living area is adorned with a flat-screen TV, providing ente
-featuredImage: "/images/accommodation/0e43c9b9a23d334b52510a328641c048847226bc.png"
-language: en
-slug: amar-apartment
-location: ""
-amenities: []
-images: []
----
-
-This generously sized apartment boasts two bedrooms, ensuring ample space for guests to unwind. The living area is adorned with a flat-screen TV, providing entertainment after a day of exploration. Culinary enthusiasts will appreciate the fully equipped kitchen, complete with an oven, fridge, washing machine, and stovetop, inviting guests to prepare home-cooked meals at their leisure.
+---\ntitle: "Amar apartment"\ndescription: "Amar Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"\nlanguage: en\nslug: amar-apartment\naddress: "Rruga Gjergj Araniti, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87723083\n  lng: 20.00924569\nprice: "US$108"\npriceFrom: 108\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"\n  - "https://cf.bstatic.com/static/img/flags/12/gr/da7e6131cc83f867d8f44137a902afce81580e57.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525881375.jpg?k=737f1f16fe312c181dc535b41691b55b9484bfe53fc64ccd18b93b84bf05eb07&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/525881445.jpg?k=7ac84c3882235d2fbeba9ea8e2a640fe11024c712991358af0d14151019b13ba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/525881452.jpg?k=e3b9bb9bd4610821e9b3dfd5393c26a729038a73337655eab5b0846d4e961777&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/525881455.jpg?k=37fb9044ad040b60bafe7194195fc7c3779f430cbf91fc4d45cc2fba268036f0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/525881457.jpg?k=14e38de08e5edc4c454771aa4db261dfe309ac70008209ff4b915a99a8ef5a15&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Isufi 250 m"\n  - "Time 250 m"\nnearbyBeaches:\n  - "Saranda City Beach 400 m"\n  - "Sarande Main Beach 1.1 km"\n  - "La Petite Beach 1.1 km"\n  - "Maestral Beach 1.2 km"\n  - "VIP Beach 2.2 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.4 km"\n  - "Butrint National Park 3.3 km"\n  - "Plazhi I Krorezes 9 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 31 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Mairh"\n    country: "Greece"\n    text: "“Ήταν ένα κατάλυμα καταπληκτικό καθαρό με υπέροχη θέα και φιλόξενο!!!! Κοντά σε κεντρικό σημείο με άμεση πρόσβαση σε όλα !!! Θα το ξανά επιλέξω σίγουρα !!!”"\nbookingURL: "https://www.booking.com/hotel/al/amar-apartment-sarande1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis generously sized apartment boasts two bedrooms, ensuring ample space for guests to unwind. The living area is adorned with a flat-screen TV, providing entertainment after a day of exploration. Culinary enthusiasts will appreciate the fully equipped kitchen, complete with an oven, fridge, washing machine, and stovetop, inviting guests to prepare home-cooked meals at their leisure.
 
 For those traveling further afield, Ioannina Airport is located 97 km away, making Amar Apartment an accessible base for both local and international visitors. With its strategic location, modern amenities, and thoughtful conveniences, Amar Apartment stands out as a top accommodation choice for those looking to experience the vibrant life and natural beauty of Sarandë.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

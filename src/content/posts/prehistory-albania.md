@@ -9,6 +9,13 @@ tags: []
 featuredImage: "/images/posts/Queen_Teuta_of_Illyria.jpg"
 language: en
 slug: prehistory-albania
+seo:
+  focusKeyword: "albania prehistory"
+  robots: "index"
+  metaTitle: "Albania Prehistory - The Dawn of Civilization 2000-167 BCE"
+  metaDescription: "Explore the emergence of Illyrian societies in Albania during the Bronze and Iron Ages, their cultural achievements and resistance against Roman conquest."
+  focusKeyword: "albania prehistory"
+  robots: "index"
 ---
 
 ## The Dawn of Civilization
@@ -59,14 +66,3 @@ The influx of Roman influence also brought about significant changes in society 
 
 Despite being conquered by Rome, many aspects of Illyrian culture persisted among local tribes in rural areas. These included traditional customs such as blood feuds (known as "kanun" in Albanian), cultural practices related to agriculture and animal husbandry, and religious beliefs tied to nature worship. The legacy of Illyrian culture can also be seen in modern-day Albania through place names that have roots in ancient Illyrian words.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,8 @@
----
-title: Nikos Hotel and Apartments
-description: Guests are welcomed into a world of accessibility and ease, thanks to the hotel's 24-hour front desk, shared kitchen facilities, and complimentary WiFi that kee
-featuredImage: "/images/accommodation/147686490.jpg"
-language: en
-slug: nikos-hotel-and-apartments
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into a world of accessibility and ease, thanks to the hotel's 24-hour front desk, shared kitchen facilities, and complimentary WiFi that keeps everyone connected. Each room opens up to its own balcony, offering a private slice of the world outside.
+---\ntitle: "Nikos Hotel and Apartments"\ndescription: "Nikos Hotel and Apartments emerges as a prime choice for travelers seeking comfort and convenience in Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/147686490.jpg?k=6413f15160e63a9c6581aed80be62a2de6bb3b42a92a3c91b08e40c298174b66&o=&hp=1"\nlanguage: en\nslug: nikos-hotel-and-apartments\naddress: "Rruga Butrinti, 9700 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.8558235\n  lng: 20.02198869\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 77\nratings:\n  overall: 8.4\n  location: 8.8\n  cleanliness: 9.2\n  facilities: 8.5\n  value: 9.1\n  comfort: 8.9\n  staff: 9.2\n  wifi: 5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/147686490.jpg?k=6413f15160e63a9c6581aed80be62a2de6bb3b42a92a3c91b08e40c298174b66&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/188604504.jpg?k=eb76d272d76a6f87523297b398eaa868ef02f4533fd393344145080d3d4b65be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/188604562.jpg?k=242c3ee9feb63f662b75b1bd53c72c47b859a90e8e87e7f132f6fa6c5a11b043&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/188604419.jpg?k=3ddf51d2cd00148b269db04499a5c6addaee224559629b161ec6adf2d43a9c0d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/188604511.jpg?k=1c40ecc9a49f6e3d632b80981f9d15ef2eea5e87404b1049e53bd24efe91c8ae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/188604566.jpg?k=4928631d56006fba738186079c2de564b8bd04ccbcf7065130bb79ccd21b806f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/188604522.jpg?k=1d37c91824402aa16bd62a3c160a4fb908de776135e4f3e49942d2772b8decd9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/188604685.jpg?k=b7a7eda23456f916baa300eea29c42f9418237e1f38d0db3a1d356fbf82c6f7e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/188604660.jpg?k=781e24c29d7508c6c8e33f575c2c0d422915f51449dca8c53ac0fe528b3a5e77&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "4 Stinët 40 m"\n  - "Taverne Fast Food 50 m"\nnearbyBeaches:\n  - "Flamingo Beach 200 m"\n  - "Mango Beach 250 m"\n  - "Santa Quaranta Beach 300 m"\n  - "VIP Beach 350 m"\n  - "Maestral Beach 1.3 km"\nwhatsNearby:\n  - "Parc National de Butrint 450 m"\n  - "Butrint National Park 700 m"\n  - "Plazhi I Krorezes 6 km"\n  - "Parku Kombetar I Butrintit 10 km"\n  - "Butrint National Park 10 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Dimitris"\n    country: "United Kingdom"\n    text: "“High level of cleaning also great communication with the owner of the hotel always available to here and found solution on everything you need”"\n  - name: "Emil"\n    country: "Albania"\n    text: "“Best location , parking near hotel , you have anything you want just near the hotel.Very comfortable & clean rooms.
+Service & hospitality is the best in town :)”"\n  - name: "Milanka"\n    country: "Australia"\n    text: "“Host is very friendly & helpful. Rooms are good size & close to the beach. Parking is a big plus too. Everything is cleaned daily.”"\nbookingURL: "https://www.booking.com/hotel/al/apartament-nikos.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into a world of accessibility and ease, thanks to the hotel's 24-hour front desk, shared kitchen facilities, and complimentary WiFi that keeps everyone connected. Each room opens up to its own balcony, offering a private slice of the world outside.
 
 The accommodations at Nikos Hotel and Apartments are thoughtfully designed with guest comfort in mind. Beyond the basics of air conditioning and flat-screen TVs, select rooms elevate the experience with additional seating areas, perfect for unwinding after a day of exploration. The private bathrooms, equipped with baths, add that extra touch of home.
 
 For those eager to explore the local scene, the hotel's proximity to popular beaches like Flamingo, Mango, and Santa Quaranta Beach presents an irresistible opportunity for sun-seekers. And with Ioannina Airport 97 km away, the journey to and from Nikos Hotel and Apartments is a breeze.
 
 In summary, Nikos Hotel and Apartments stands out as a beacon of hospitality, offering a blend of convenience, comfort, and connectivity, making it an ideal base for any Sarandë adventure.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

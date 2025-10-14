@@ -1,26 +1,3 @@
----
-title: Nur
-description: Each apartment is thoughtfully equipped with two bedrooms, ensuring ample space for relaxation. The presence of a flat-screen TV and air conditioning in every u
-featuredImage: "/images/accommodation/423986059.jpg"
-language: en
-slug: nur
-location: ""
-amenities: []
-images: []
----
-
-Each apartment is thoughtfully equipped with two bedrooms, ensuring ample space for relaxation. The presence of a flat-screen TV and air conditioning in every unit adds a touch of home comfort, while the provision of towels and bed linen underscores the attention to detail in ensuring a hassle-free stay. Emphasizing health and wellness, the entire property is designated as non-smoking.
+---\ntitle: "Nur"\ndescription: "Nur Apartments in Korçë stand out as a prime choice for travelers seeking comfort and convenience, located just a stone's throw away from the serene Monastery Saint Naum at 43 km and the tranquil Ohrid Lake Springs at 44 km."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423986059.jpg?k=9df620f38221319aa90b4b9e6f73fd01ecdf3233e45c1834a43f9198be733bda&o=&hp=1"\nlanguage: en\nslug: nur\naddress: "Rruga Floresha Mytevelli, 7001 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.61532064\n  lng: 20.77631879\nprice: "US$69"\npriceFrom: 69\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 5\nratings:\n  overall: 9.6\n  location: 10\n  cleanliness: 10\n  facilities: 9\n  value: 8.5\n  comfort: 10\n  staff: 9.4\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423986059.jpg?k=9df620f38221319aa90b4b9e6f73fd01ecdf3233e45c1834a43f9198be733bda&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423986114.jpg?k=54511d2dcf5a08c29513e09b220424a5d7c5bdc1bd835aafd79d8766df9478c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423986154.jpg?k=8564255050a02621b0156ee89ee8cf4b9784b2fbe279a2d8781743f95f156ed2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423986150.jpg?k=9782bd2458c6a40e729b1c3f6db1e9e9ae7b0ac013e415456dc68a29ff4be637&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423986139.jpg?k=3ac27b576c306a4e220be5d2159c3e3ac5ee5cf46ef9439cd6f436a179b95b3f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423986111.jpg?k=e5c16a4efca4e59ae6a4794035bb978fe5c71b6a9010ec2c800c57aa37e194f9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423986118.jpg?k=572b2280e6928df13024eaeb1f2281aea74e5f782fc5ac6b076b01dc94d9e68d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423986132.jpg?k=83c1acb6781111910aff28b116d641aa70923918970c336d4f13cdfd06bf3563&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423986102.jpg?k=8683ed215cb17d2bbbead723895dc93912a76bbd0e5b16b36425bdd5ab912a38&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Coffee House 30 m"\n  - "Eresti 40 m"\nwhatsNearby:\n  - "Parku Vangjush Mio 50 m"\n  - "Parku Rinia 100 m"\n  - "Sheshi Patriku Joasaf 550 m"\n  - "Parku Themistokli Gërmenji 600 m"\n  - "Field of Tears 650 m"\n  - "Parku Rinia 1.5 km"\n  - "Sheshi Panxhar 5 km"\n  - "Sheshi Koço Plaku 12 km"\n  - "Sheshi Penetori 12 km"\nairports:\n  - "Kastoria National Airport 45 km"\n  - "Ohrid Airport 61 km"\n  - "Kozani National Airport 96 km"\nreviews:\n  - name: "Franck"\n    country: "France"\n    text: "“L'emplacement. On fait tout à pied. Prestations de qualité. Très bonne literie. Infos sur les restaurants données par l'hôte.”"\n  - name: "Aksel"\n    country: "France"\n    text: "“appartement très bien situé, idéal pour un séjour à Korça”"\nbookingURL: "https://www.booking.com/hotel/al/modern-2-bedroom-apartment-near-the-city-center-korce.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach apartment is thoughtfully equipped with two bedrooms, ensuring ample space for relaxation. The presence of a flat-screen TV and air conditioning in every unit adds a touch of home comfort, while the provision of towels and bed linen underscores the attention to detail in ensuring a hassle-free stay. Emphasizing health and wellness, the entire property is designated as non-smoking.
 
 For those arriving by air, the convenience of Kastoria National Airport being merely 71 km away makes Nur Apartments a strategic lodging option. Whether it's for a short stay or a longer retreat, guests find Nur Apartments a harmonious blend of accessibility and peaceful living.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,26 +1,4 @@
----
-title: Argileos Rooms
-description: Each accommodation boasts its balcony, offering guests a private panorama of the sea's endless horizon. Situated 51 km from the lively town of Sarandë and 20 k
-featuredImage: "/images/accommodation/463890236.jpg"
-language: en
-slug: argileos-rooms
-location: ""
-amenities: []
-images: []
----
-
-Each accommodation boasts its balcony, offering guests a private panorama of the sea's endless horizon.
+---\ntitle: "Argileos Rooms"\ndescription: "Perched atop a hill with commanding views of the ocean, Argileos Rooms presents a serene escape just a short drive from the vibrant center of Himare."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463890236.jpg?k=a1218419d4a6f80cf096f6c4cfcb62d876f3a9916854c21d507fe76dcfcf4c65&o=&hp=1"\nlanguage: en\nslug: argileos-rooms\naddress: "Himare, 9999 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.08795298\n  lng: 19.75591661\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 225\nratings:\n  overall: 9\n  location: 8.9\n  cleanliness: 9.2\n  facilities: 8.7\n  value: 9.3\n  comfort: 9.1\n  staff: 9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463890236.jpg?k=a1218419d4a6f80cf096f6c4cfcb62d876f3a9916854c21d507fe76dcfcf4c65&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444660981.jpg?k=13fadfc0781f2f6909c51fea8b5d7bcf31fbfa2198e642940fe92c69ff7ba084&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444661051.jpg?k=e007ab61b1ce1078788497e4cca41d2cd8e6063300c6bf20f772db3f1fc224a2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467358983.jpg?k=776a57cf99a3b76698f8b791a19cde689a3fa11f826b94be157293396bb21f67&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444661073.jpg?k=642fab0a095ecce7e107b3433e5397659c84f6aa8e9e720694af11f7b138a372&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444660995.jpg?k=5378eb73f6001858d3ef5da4ff0a1a332f47ad0d522dc992a1e6eeba2f639c00&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444661055.jpg?k=f74eaca99e6739fa87da6f83cef7c74e60d3316eb2c025dd73f8098efb1e3232&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476973016.jpg?k=eb88cabfdf16facb312de03983140d44468d5a19ab2334f4533512243274baeb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476972793.jpg?k=d11011a3adf6ccf5330ceb0e8a6ed4ce3cd3f40eeeb193305d463bd6999af004&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "WiFi"\n  - "Family rooms"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Tramonto Ristorante 350 m"\n  - "Fanes & Beach Bar 400 m"\nnearbyBeaches:\n  - "Potam Beach 300 m"\n  - "Gjiri i Filikurit Beach 400 m"\n  - "Prinos Beach 900 m"\n  - "Llamani Beach 1.2 km"\n  - "Maracit Beach 1.3 km"\nwhatsNearby:\n  - "Llogora National Park 18 km"\nairports:\n  - "Corfu International Airport 54 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Silvia"\n    country: "Spain"\n    text: "“One of the best accommodations in Himare! The views, swimming pool, rooms and host were just perfect. The lovely lady who welcomed us was super sweet and kind. We wanted to do the laundry and she offered to do it for us for free but of course, we...”"\n  - name: "Catie"\n    country: "Australia"\n    text: "“Absolutely stunning place, rebooked to come back again!”"\n  - name: "Jorge"\n    country: "Finland"\n    text: "“Beatiful house on a high hill with a great view. We saw magnificent sunset from the pool.
+Room was clean and wifi worked well.”"\nbookingURL: "https://www.booking.com/hotel/al/argjile-rooms.en-gb.html?aid=8035640"\nbestFor: "Best for Panoramic Views"\nbestCategories: "Panoramic Views"\ncategory: "Panoramic Views"\n---\n\nEach accommodation boasts its balcony, offering guests a private panorama of the sea's endless horizon. 
 
 Situated 51 km from the lively town of Sarandë and 20 km from the picturesque Dhermi, this property serves as an ideal base for exploring the region's rich landscapes and cultural sites.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

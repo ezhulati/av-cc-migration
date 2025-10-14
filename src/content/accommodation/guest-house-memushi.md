@@ -1,30 +1,7 @@
----
-title: Guest house Memushi
-description: The establishment prides itself on its array of facilities designed to enhance the guest experience. These include an on-site restaurant serving delectable cuis
-featuredImage: "/images/accommodation/130116785.jpg"
-language: en
-slug: guest-house-memushi
-location: ""
-amenities: []
-images: []
----
-
-The establishment prides itself on its array of facilities designed to enhance the guest experience. These include an on-site restaurant serving delectable cuisine, a 24-hour front desk ready to attend to guests' needs at any hour, and luggage storage space for ease of travel. Moreover, the entire property boasts free WiFi, allowing guests to stay connected effortlessly.
+---\ntitle: "Guest house Memushi"\ndescription: "Guest House Memushi emerges as a charming retreat in the historic heart of Gjirokastër, offering a serene escape just 45 km away from the tranquil Zaravina Lake."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/130116785.jpg?k=f38970a8b19fecca5d58b0ec05c84ec853582c5889fc56ad500628636c0bd225&o=&hp=1"\nlanguage: en\nslug: guest-house-memushi\naddress: "Rruga Pertef Kokona, 6000 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.076397\n  lng: 20.1322\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 285\nratings:\n  overall: 9.5\n  location: 9.5\n  cleanliness: 9.4\n  facilities: 9.3\n  value: 9.7\n  comfort: 9.4\n  staff: 9.9\n  wifi: 9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/130116785.jpg?k=f38970a8b19fecca5d58b0ec05c84ec853582c5889fc56ad500628636c0bd225&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524814921.jpg?k=a98c9ca8b4e1ae10871b6af829625e9f4775f359aea48f80699eb6484653238a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524815568.jpg?k=578f126816cc27db096360fb23dcb5d437511c2a8083df0e60df1bfc074dc38a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/130119194.jpg?k=2c9ee88a31afa82d816510076d4e31be419f62275b306598133fb37cfde12bf9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/130118523.jpg?k=1b7f301ea50e44f74286d7618e3721d6a2b94b939f68d9cec0a3a52a1e4ada4b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/190098424.jpg?k=2d4280e98b596d2e9c887f239fc100754da16a59f6f69c612b5ee265cda0a91a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256072318.jpg?k=40f24168d7461ef56466c3c7ea4846db9938aab0d230df9c78c76bedec73cde0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280638044.jpg?k=a60cd62eae9c0b8f0c0832caa0cce6ef7d0ad248b21f47564cf5975b6eb1772d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528403041.jpg?k=a7d5cd380d99ed2fedbe6c19e54b7fb88b77239b940c12508b41099e125fce94&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Good free WiFi (30 Mbps)"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Superb breakfast"\nnearbyRestaurants:\n  - "Halal Klajdi 200 m"\n  - "Bake 300 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Lea"\n    country: "Germany"\n    text: "“Great apartment with amazing view! The owner is super friendly and does everything to make you feel comfortable. He also helped us with the car and the parking, since the streets are quite narrow. The room has everything you need, it was perfect...”"\n  - name: "Vogric"\n    country: "Slovenia"\n    text: "“We liked views and the host best. The view is probably the best in town and the place has a huge terrace from which you see the whole city. The host was really friendly and gave us all the information and help we needed. The room was clean and had...”"\n  - name: "Hanna-kaisa"\n    country: "Austria"\n    text: "“A fantastic house with a fantastic room, very nicely done. Location very close to the old town. The host Francesco was soooo nice and kind, as well as his son, dad and mother. Absolutely super stay! 👍🏽☀️”"\nbookingURL: "https://www.booking.com/hotel/al/taverna-memushi.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe establishment prides itself on its array of facilities designed to enhance the guest experience. These include an on-site restaurant serving delectable cuisine, a 24-hour front desk ready to attend to guests' needs at any hour, and luggage storage space for ease of travel. Moreover, the entire property boasts free WiFi, allowing guests to stay connected effortlessly.
 
 Accommodations at Guest House Memushi cater to a variety of preferences, with select units featuring modern comforts such as air conditioning, television, washing machine, and a coffee machine. For those who prefer to prepare their own meals, some rooms come equipped with a fully equipped kitchen, adding a touch of home to the travel experience.
 
 For casual dining or a quick bite, the guest house also hosts a snack bar on-site, perfect for satisfying any cravings during the stay.
 
 Situated 84 km from Ioannina Airport, Guest House Memushi presents an ideal base for exploring the enchanting surroundings of Gjirokastër or venturing further afield. With its family-friendly rooms and thoughtful amenities, this guest house ensures a memorable stay for all who visit.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

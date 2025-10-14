@@ -1,28 +1,8 @@
----
-title: City Center 14 - Tirana Way Apartments
-description: This non-smoking, one-bedroom apartment is a haven of comfort, offering air conditioning, complimentary WiFi, and a host of modern amenities. Guests will find a
-featuredImage: "/images/accommodation/438225617.jpg"
-language: en
-slug: city-center-14-tirana-way-apartments
-location: ""
-amenities: []
-images: []
----
-
-This non-smoking, one-bedroom apartment is a haven of comfort, offering air conditioning, complimentary WiFi, and a host of modern amenities. Guests will find a cable flat-screen TV for their entertainment needs, a washing machine for convenience, and a fully equipped kitchen complete with a fridge and stovetop, making self-catering a breeze. The provision of towels and bed linen adds a touch of home.
+---\ntitle: "City Center 14 - Tirana Way Apartments"\ndescription: "City Center 14 - Tirana Way Apartments emerges as a prime choice for travelers seeking the heart of Tirana's vibrant life, merely a stone's throw away from Skanderbeg Square and within a short distance of the Dajti Ekspres Cable Car."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438225617.jpg?k=02ea4de42695f018461916e25b9bbd131d5bb8d105ef8ca4cc256c7053d91a59&o=&hp=1"\nlanguage: en\nslug: city-center-14-tirana-way-apartments\naddress: "Rruga Bardhok Biba, 1057 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33134179\n  lng: 19.81913773\nprice: "US$29"\npriceFrom: 29\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 24\nratings:\n  overall: 9\n  location: 9.5\n  cleanliness: 8.8\n  facilities: 8.4\n  value: 9.4\n  comfort: 8.7\n  staff: 9.1\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438225617.jpg?k=02ea4de42695f018461916e25b9bbd131d5bb8d105ef8ca4cc256c7053d91a59&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438225685.jpg?k=5a9dd352612d1a84bedfd00128fe393e574621792792519f1d3420d06d5efe4c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438225641.jpg?k=15aced08d69772cdeaee50837054df16d30a69368a67b288f65afaa8124353c0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438225691.jpg?k=1cde7ad438babdb5d3e1334c7eb8d327187e6584262ce120affe7239eb04b340&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438225660.jpg?k=766aa64a3246a9233d8530bc08b2d49ac0563c65f1535fa8ae012429019c5f0d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438225687.jpg?k=4a690ab4b815ad453638a9201335ee4241acf38d9b6c58411d37c69f7a322f66&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438225683.jpg?k=43290c9ba980b8a6152eb4b1cfbe9667acbde0f09bb296908f23f860f7a9b49d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438225696.jpg?k=7af300eb053e008508142109c389176f97c0421e6843ea2368701a324919e933&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438225642.jpg?k=b390b4c5793abb737373f078b2780fdd5e3806761260d2b3fc73b7d73901fd12&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Rinia Park 750 m"\n  - "Tanners' Bridge 800 m"\n  - "Former Residence of Enver Hoxha 1.2 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 4 km"\nnearbyRestaurants:\n  - "Degusto 20 m"\n  - "Bar Grill Dea 40 m"\nwhatsNearby:\n  - "Amazing Nature 250 m"\n  - "National Museum of History Albania 250 m"\n  - "Sheshi Skënderbej 350 m"\n  - "Sheshi Sulejman Pasha 400 m"\n  - "Skanderbeg Square 400 m"\n  - "Clock Tower Tirana 400 m"\n  - "Sheshi Paris 400 m"\n  - "Parku Europa 450 m"\n  - "House of Leaves 550 m"\n  - "National Gallery of Arts Tirana 600 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Lerato"\n    country: "United Kingdom"\n    text: "“Everything the place was pretty clean & the host was really helpful.”"\n  - name: "Valerio"\n    country: "Italy"\n    text: "“Small but cozy apartment, very central location. The kitchen is equipped with everything, fast wifi.”"\n  - name: "Anna"\n    country: "Germany"\n    text: "“Complication check in
+Very late arrival was no problem
+Very central location
+Not far from the bus that takes you to the airport”"\nbookingURL: "https://www.booking.com/hotel/al/city-center-14-tirana-way-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis non-smoking, one-bedroom apartment is a haven of comfort, offering air conditioning, complimentary WiFi, and a host of modern amenities. Guests will find a cable flat-screen TV for their entertainment needs, a washing machine for convenience, and a fully equipped kitchen complete with a fridge and stovetop, making self-catering a breeze. The provision of towels and bed linen adds a touch of home.
 
 For those keen to explore, the apartment is conveniently located near several of Tirana's key attractions, including the National Museum of History Albania, the National Theatre of Opera and Ballet, and the intriguing House of Leaves. Moreover, the Tirana International Mother Teresa Airport is easily accessible, located just 14 km away, ensuring smooth travel plans to and from the city.
 
 City Center 14 - Tirana Way Apartments offers an inviting base for guests eager to immerse themselves in the local culture and history, making it an excellent choice for both short and extended stays in Albania's captivating capital.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

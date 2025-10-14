@@ -9,6 +9,9 @@ tags: []
 featuredImage: "/images/posts/Finiq-Albania.jpg"
 language: en
 slug: epirus-rome-destruction-ancient-cities
+seo:
+  metaTitle: "Epirus After Rome %sep% 70 Cities Fell, Ruins Worth Visiting "
+  metaDescription: "In 167 BC, Rome destroyed 70 cities in Epirus. Discover the ruins of Antigonea, Phoenice, Dodona, and more—sites you can still visit today."
 ---
 
 ## How Rome Destroyed 70 Cities and What Remains Today
@@ -131,14 +134,3 @@ To help you go deeper, here are some of the most compelling tours that bring the
 
 **Ready to explore Albania's ancient past?** [Book a local guide](https://viator.tpm.li/Iu7U8vkn){rel="noreferrer noopener nofollow" target="_blank"}, respect the ruins, and let these sites tell their story. They're not just relics-they're evidence.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

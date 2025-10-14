@@ -1,30 +1,7 @@
----
-title: Bujtina Carku
-description: Accommodations at Bujtina Carku are thoughtfully designed with family rooms that include all the essentials for a comfortable stay, such as a private bathroom e
-featuredImage: "/images/accommodation/376007214.jpg"
-language: en
-slug: bujtina-carku
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Bujtina Carku"\ndescription: "Bujtina Carku emerges as a serene retreat, offering breathtaking mountain views and a prime location just 5."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376007214.jpg?k=2c908d0038911055c5d9e51091b2211d5e91e00834f7a09594c4bf75d4f4be56&o=&hp=1"\nlanguage: en\nslug: bujtina-carku\naddress: "Rruga Gjecaj, 4009 Theth, Albania"\ncity: "Theth"\nlocation: "Theth"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 42.40327637\n  lng: 19.75904394\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.3\nratingWords: "Very Good"\nnumberOfReviews: 227\nratings:\n  overall: 8.3\n  location: 8\n  cleanliness: 8.4\n  facilities: 7.7\n  value: 8\n  comfort: 8.1\n  staff: 9.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376007214.jpg?k=2c908d0038911055c5d9e51091b2211d5e91e00834f7a09594c4bf75d4f4be56&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376007289.jpg?k=f78ce3afd5a296cf0295f16777dce8958deead412dd20533500fcf4662fa11d7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376007273.jpg?k=9c048a153fbf5864f798f597e00c914dd704dd34308ae4129334bc4f22fa4c85&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469787612.jpg?k=fed3f23bc52dccba2dfa7387c6170893635cf3632838b6e0eae12250da0d5676&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469789529.jpg?k=7a12c048f1b696be0815ce267b1e96bf0d0560bd806f23538664590728825125&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376007247.jpg?k=3333e91e1249e83b68f73044c88cf59a7fb73e29f8a78c111104bc4f9523b845&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376007292.jpg?k=bbbaaa29edb53708b4e9d06b95ad7009e89ef36dd1949394b956ae6fb3892e35&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469787392.jpg?k=d5756047bd6e718b814d9da6b555e715fe90c7911e897b9a97f2d1d18d79b391&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469789948.jpg?k=d90344037ec8dcdde14e43b78dae3a9acf72cf5097f7429ff1cb9cb106281a2b&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Restaurant"\n  - "Family rooms"\n  - "Tea/coffee maker in all rooms"\n  - "Very good breakfast"\nnearbyRestaurants:\n  - "Malesorja 450 m"\n  - "Restorant 1.4 km"\nwhatsNearby:\n  - "Theth National Park 0 m"\n  - "Theth National Park 2.3 km"\n  - "Valbona Valley National Park 4.2 km"\n  - "Prokletije National Park 9 km"\n  - "Parku Kombëtar Lugina e Valbonës 14 km"\n  - "Nacionalni Park Prokletije 20 km"\nairports:\n  - "Podgorica Airport 42 km"\n  - "Tivat Airport 84 km"\nreviews:\n  - name: "Julianna"\n    country: "Germany"\n    text: "“Warm-hearted people, breakfast and dinner always lovingly prepared by mom, incredibly helpful people who are not intrusive at the same time. We had the feeling of being at home through and through.”"\n  - name: "Adem"\n    country: "Albania"\n    text: "“Everyone should take the opportunity to visit a place with stunning views at least once in their life. We had the pleasure of seeing some of the most beautiful views. The sun was shining, the sky was clear, and the surrounding mountains were...”"\n  - name: "Julia"\n    country: "Australia"\n    text: "“Welcoming and helpful family. Cosy rooms. They even helped us with organising our departure from Theth and gave us suggestions on hikes. Thankyou for having us! :)”"\nbookingURL: "https://www.booking.com/hotel/al/bujtina-carku.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Bujtina Carku are thoughtfully designed with family rooms that include all the essentials for a comfortable stay, such as a private bathroom equipped with a bidet and complimentary toiletries, ensuring a blend of convenience and comfort.
 
-Accommodations at Bujtina Carku are thoughtfully designed with family rooms that include all the essentials for a comfortable stay, such as a private bathroom equipped with a bidet and complimentary toiletries, ensuring a blend of convenience and comfort.
-
-For dining, the guest house boasts an on-site restaurant and coffee shop, catering to guests' culinary needs with a variety of delightful options.
+For dining, the guest house boasts an on-site restaurant and coffee shop, catering to guests' culinary needs with a variety of delightful options. 
 
 Those with a penchant for exploration will find Bujtina Carku perfectly situated for embarking on walking tours in the vicinity, offering a unique opportunity to immerse in the local landscape. Additionally, the guest house's garden provides a peaceful haven for relaxation and contemplation.
 
 Located 85 km from Podgorica Airport, Bujtina Carku stands as an accessible escape for those seeking a blend of adventure and serenity in the heart of nature's splendor.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

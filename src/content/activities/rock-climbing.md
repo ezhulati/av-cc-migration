@@ -149,10 +149,3 @@ Rock climbing attracts international climbers, boosting local tourism and econom
 
 It promotes sustainable tourism by encouraging environmental conservation and supporting local communities through responsible travel practices.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

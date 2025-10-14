@@ -7,6 +7,10 @@ featuredImage: /images/attractions/primeval-beech-forests-unesco-site.jpg
 images: []
 language: en
 slug: primeval-beech-forests-unesco-site
+seo:
+  metaTitle: "%title%"
+  metaDescription: "Explore the ancient beech forests of Albania, a UNESCO World Heritage Site shared among 18 European countries. Discover the beauty and ecological significance of these primeval forests."
+  robots: "index"
 ---
 
 The Lumi i Gashit Valley is home to Europe’s largest remaining primeval beech forest, a living relic from the Tertiary period when much of the continent was covered in woodlands.
@@ -159,10 +163,3 @@ So why wait? Pack your hiking boots, grab your camera, and prepare to be amazed 
 
 Remember, when exploring these ancient woods, you’re not just visiting a place – you’re stepping into a story unfolding for thousands of years.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

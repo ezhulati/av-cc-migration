@@ -7,6 +7,8 @@ featuredImage: /images/attractions/berat.jpg
 images: []
 language: en
 slug: berat
+seo:
+  metaDescription: "Discover the historical charm of Berat with our curated collection of products. Find unique items that reflect the rich heritage of this city."
 ---
 
 Why Visit Berat
@@ -95,10 +97,3 @@ Museum of Surveillance
 
 This sobering yet meaningful museum chronicles the plight of those who suffered persecution and imprisonment under Albania’s Communist regime through illuminating artifact displays.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

@@ -1,26 +1,4 @@
----
-title: The Modern Pad
-description: Guests at The Modern Pad are treated to the convenience of modern living with complimentary WiFi, ensuring connectivity is never an issue. The apartment, featur
-featuredImage: "/images/accommodation/477015956.jpg"
-language: en
-slug: the-modern-pad
-location: ""
-amenities: []
-images: []
----
-
-Guests at The Modern Pad are treated to the convenience of modern living with complimentary WiFi, ensuring connectivity is never an issue. The apartment, featuring two bedrooms, is equipped with a flat-screen TV, a washing machine, and a kitchen that doesn't skimp on amenities - including a dishwasher and oven. Comfort is further enhanced with the provision of towels and bed linen, making for a stay that feels like home.
+---\ntitle: "The Modern Pad"\ndescription: "The Modern Pad, situated in the vibrant city of Shkodër, offers a refreshing retreat with its air-conditioned accommodations boasting a private balcony and serene garden views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477015956.jpg?k=31a4bea9af71909dc3be18070c62d5eea9e6cef4a04893612b1504619b1e851a&o=&hp=1"\nlanguage: en\nslug: the-modern-pad\naddress: "Rruga Daut Borici, 1000 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.06224651\n  lng: 19.51182131\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477015956.jpg?k=31a4bea9af71909dc3be18070c62d5eea9e6cef4a04893612b1504619b1e851a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477016168.jpg?k=f7824ca91f53d1fe1bc8fe8c57f5edb4425130895205fd844f261a896d5b5075&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477016522.jpg?k=7acf6df8e1f1d9b835f80996c65f36f81a61f79763497faa7a5c135a4676b332&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477016498.jpg?k=673f9f7aae262de7bc10cc374e84326ccd51a3619e966e221b0caa963ab3f2a1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477016156.jpg?k=b2441507ca0c64ee9283cdc6ab1508c3d2ce6e6afbc487d463b0c0c956ecc603&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477016531.jpg?k=7853616deef08f7ba3c6f8ac8a5f59344ed1c655352edd881810a319a4e39f80&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477016207.jpg?k=3cfc471ef6939dde79df6a141ab31df7db735a27edbdc58372bbf8e17c02ce3e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477016466.jpg?k=4f3c5702cf29c97f4fa2488b37b93dceac40a0d72a2fedec6ab2c04262042eae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477016160.jpg?k=936487f742c2749cc88ae71b40b4f095e7ddac496ed0b4492ebbb2efb0a4452c&o=&hp=1"\namenities:\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Dios Pizza 50 m"\n  - "EUROLive 150 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 2.3 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 72 km"\n  - "Tivat Airport 74 km"\nreviews:\n  - name: "Eri"\n    country: "Albania"\n    text: "“Everything was perfect and the apartment was very very cozy.
+I felt like I was in my home all the time”"\nbookingURL: "https://www.booking.com/hotel/al/the-modern-pad-shkoder.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nGuests at The Modern Pad are treated to the convenience of modern living with complimentary WiFi, ensuring connectivity is never an issue. The apartment, featuring two bedrooms, is equipped with a flat-screen TV, a washing machine, and a kitchen that doesn’t skimp on amenities - including a dishwasher and oven. Comfort is further enhanced with the provision of towels and bed linen, making for a stay that feels like home.
 
 Adding to the allure of this accommodation is the added layer of privacy afforded by a private entrance, allowing guests to come and go as they please without disturbances. For those looking to explore beyond Shkodër, Podgorica Airport is conveniently located 58 km away, making The Modern Pad an ideal base for both short and extended stays.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Belka Studios
-description: Each apartment at Belka Studios is designed with guest comfort in mind, featuring a balcony, a cozy seating area, and a flat-screen TV for entertainment. The fu
-featuredImage: "/images/accommodation/354943031.jpg"
-language: en
-slug: belka-studios
-location: ""
-amenities: []
-images: []
----
-
-Each apartment at Belka Studios is designed with guest comfort in mind, featuring a balcony, a cozy seating area, and a flat-screen TV for entertainment. The fully equipped kitchen, complete with a fridge and stovetop, invites guests to feel at home, while the private bathroom includes a shower and hair dryer for added convenience. Select units boast garden views, enriching the stay with a touch of nature. Moreover, all accommodations are thoughtfully provided with bed linen and towels, ensuring a seamless experience.
+---\ntitle: "Belka Studios"\ndescription: "Belka Studios emerges as a modern oasis of comfort, situated a mere 600 meters from the serene Vjetër Beach in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354943031.jpg?k=c39e13146f16c7a6a198eb2ce03d6c35bfe78652c7a9c4e5babb7b82c4b51619&o=&hp=1"\nlanguage: en\nslug: belka-studios\naddress: "Rruga Aleks Çaçi, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.46127642\n  lng: 19.47013898\nprice: "US$22"\npriceFrom: 22\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 70\nratings:\n  overall: 9\n  location: 8.1\n  cleanliness: 9.5\n  facilities: 9.1\n  value: 9.6\n  comfort: 9.5\n  staff: 9.5\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354943031.jpg?k=c39e13146f16c7a6a198eb2ce03d6c35bfe78652c7a9c4e5babb7b82c4b51619&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358283687.jpg?k=0448d5905c10448faff8e447cfff76249553fab62b4471db561acbb7539dc411&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405129231.jpg?k=16245ce41a999eb2993f76d11a2580f497e97706f1fc82a3144cdf12b8c761d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355138623.jpg?k=8a5cfca9566ec43c17505329e17ab47bcc075c1d0622c3a88e7631d2fe5a0497&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358282747.jpg?k=ccfc9fdb50711ef6346c20d108b00c728b27bf6fe59f9e0009588d7e833c6488&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358282373.jpg?k=41db8f105147136c1633cdf4f26681a7c404feb9ea461f9c48786460b999740d&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Fast free WiFi (114 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "Standard Triple Studio"\nnearbyRestaurants:\n  - "Bar Restorant F. Feimi 350 m"\n  - "Vlora, Minimalist 400 m"\nnearbyBeaches:\n  - "Vjetër Beach 400 m"\n  - "Vlore Beach 2.4 km"\n  - "Ri Beach 3.5 km"\n  - "Narta Beach 4.1 km"\n  - "Beach at Government Villas 4.8 km"\nwhatsNearby:\n  - "Independence Square 2 km"\n  - "Kuzum Baba 2.1 km"\n  - "Scooby Doo Vlore 3.5 km"\nreviews:\n  - name: "Tatiana"\n    country: "Russia"\n    text: "“The apartments are small, but very cozy and comfortable, they have everything you need. Very friendly hosts who helped me find my way around the city.”"\n  - name: "Lauren"\n    country: "United Kingdom"\n    text: "“Great clean and modern apartments. Good WiFi and facilities. The bathrooms are fantastic, the best we've seen in Albania. Very friendly hosts who are very helpful.”"\n  - name: "Rene"\n    country: "Mexico"\n    text: "“Really friendly hosts, they help in all they can. The rooms have been really nicely designed. It is also 4 mins walk from the old beach. The room I stayed had a really nice kitchenette!”"\nbookingURL: "https://www.booking.com/hotel/al/belka-studios.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach apartment at Belka Studios is designed with guest comfort in mind, featuring a balcony, a cozy seating area, and a flat-screen TV for entertainment. The fully equipped kitchen, complete with a fridge and stovetop, invites guests to feel at home, while the private bathroom includes a shower and hair dryer for added convenience. Select units boast garden views, enriching the stay with a touch of nature. Moreover, all accommodations are thoughtfully provided with bed linen and towels, ensuring a seamless experience.
 
 The garden at Belka Studios offers a tranquil space for relaxation, inviting guests to unwind amidst greenery. For those looking to explore beyond the immediate surroundings, the property serves as an ideal base, with Tirana International Mother Teresa Airport located 151 km away, making both arrivals and departures a breeze.
 
 Belka Studios presents a compelling choice for families and travelers seeking a blend of modern amenities and serene ambiance, all within the vibrant context of Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

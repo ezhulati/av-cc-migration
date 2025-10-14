@@ -1,30 +1,7 @@
----
-title: Villa Arberia
-description: Each apartment at Villa Arberia is a testament to modern living, equipped with air conditioning, satellite TV, and a fully furnished bathroom that includes a sh
-featuredImage: "/images/accommodation/99049259.jpg"
-language: en
-slug: villa-arberia
-location: ""
-amenities: []
-images: []
----
-
-Each apartment at Villa Arberia is a testament to modern living, equipped with air conditioning, satellite TV, and a fully furnished bathroom that includes a shower, bidet, and complimentary toiletries. The kitchen, complete with an oven, refrigerator, and dishwasher, ensures that guests have everything they need for a hassle-free stay.
+---\ntitle: "Villa Arberia"\ndescription: "Villa Arberia emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on the Durrës beachfront."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99049259.jpg?k=a84311e00b8a2a5aa19a453a5246c0dd5411caf2c793d97ffb0e58dde3047d0d&o=&hp=1"\nlanguage: en\nslug: villa-arberia\naddress: "Shkembi i Kavajes , 2021 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.27044529\n  lng: 19.51803133\nprice: "US$45"\npriceFrom: 45\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 305\nratings:\n  overall: 8.9\n  location: 9.4\n  cleanliness: 8.6\n  facilities: 8.4\n  value: 9.1\n  comfort: 8.8\n  staff: 9.4\n  wifi: 8.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99049259.jpg?k=a84311e00b8a2a5aa19a453a5246c0dd5411caf2c793d97ffb0e58dde3047d0d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525663904.jpg?k=6bcc5a6e03a756bed5e9bf0d095e6baf616e57d0876cd087e86317f27c99cc37&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525663267.jpg?k=f210485d3151bd74ebf0be87b894d8e147a713be869257a0829c89780a76a66c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525663342.jpg?k=d910ef92cbfa4f3bb4dd31ab3738891872ae17626dc3ad83e0d8d9861ed88ace&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525663720.jpg?k=c9fa45723238a38fa27b1ca7c68d707c7afc7a0b282f4a2e3cff867c9d1eb152&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525663528.jpg?k=b2023b8384975f73b59eec42c4db6e3a7828f8cca1ab021445b335360e78f714&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Superb breakfast"\nroomTypes:\n  - "Triple Room with Garden View"\n  - "Apartment with Sea View"\n  - "One-Bedroom Apartment with Balcony"\n  - "Standard Apartment"\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Bar Restorant Hotel Arberia 50 m"\n  - "Anxhelson 100 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 30 m"\n  - "Golem Beach 550 m"\n  - "Durres Beach 1.9 km"\n  - "Mali I Robit Beach 2.5 km"\n  - "Qerret Beach 4.5 km"\nwhatsNearby:\n  - "Bekimi 7 km"\n  - "Durres Amphiteatre 8 km"\n  - "Wine Dhe Pooh 8 km"\n  - "1. Maj 8 km"\n  - "Yje Dhe Hena 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "Sotir Noka 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nreviews:\n  - name: "Chantelle"\n    country: "Australia"\n    text: "“The hosts were lovely, the food at the restaurant, the accomodation was perfect and felt safe, location is great and family friendy atmosphere. Plenty of parking on beachside.”"\n  - name: "Igorica85"\n    country: "Serbia"\n    text: "“Everything is perfect about the Arberija facility.”"\n  - name: "Artan"\n    country: "United Kingdom"\n    text: "“Amazing clean apartment right next to the beach with private beach, we had a great time and enjoyed it thoroughly. The owner is great guy and very helpful”"\nbookingURL: "https://www.booking.com/hotel/al/arberia.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach apartment at Villa Arberia is a testament to modern living, equipped with air conditioning, satellite TV, and a fully furnished bathroom that includes a shower, bidet, and complimentary toiletries. The kitchen, complete with an oven, refrigerator, and dishwasher, ensures that guests have everything they need for a hassle-free stay.
 
 Dining options at Villa Arberia cater to a variety of tastes, with an on-site restaurant serving delectable dishes and a bar where guests can unwind with a refreshing drink. For those looking to explore local cuisine, the town center, a mere 15-minute walk away, offers an array of dining experiences.
 
-Villa Arberia doesn't stop at comfort; it excels in convenience too, with a 24-hour reception, free WiFi access in public areas, and complimentary private parking on site. Its proximity to Tirana Airport, just 23 km away, further enhances its appeal to both domestic and international travelers.
+Villa Arberia doesn’t stop at comfort; it excels in convenience too, with a 24-hour reception, free WiFi access in public areas, and complimentary private parking on site. Its proximity to Tirana Airport, just 23 km away, further enhances its appeal to both domestic and international travelers.
 
-In summary, Villa Arberia stands out as a distinguished destination for those in search of a beachfront getaway that doesn't compromise on the comforts of home.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}
+In summary, Villa Arberia stands out as a distinguished destination for those in search of a beachfront getaway that doesn’t compromise on the comforts of home.

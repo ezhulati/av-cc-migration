@@ -1,28 +1,5 @@
----
-title: Himara Apartment
-description: Guests are welcomed into a world of comfort in this spacious apartment, which boasts two well-appointed bedrooms and a living room designed for relaxation. Ente
-featuredImage: "/images/accommodation/140257377.jpg"
-language: en
-slug: himara-apartment
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into a world of comfort in this spacious apartment, which boasts two well-appointed bedrooms and a living room designed for relaxation. Entertainment is readily available with a satellite flat-screen TV, ensuring that leisure moments are well catered for. The apartment's kitchen comes fully equipped, inviting guests to whip up their favorite meals with ease. The bathroom does not disappoint, featuring a walk-in shower and a bidet, adding a touch of luxury to the daily routine.
+---\ntitle: "Himara Apartment"\ndescription: "Himara Apartment emerges as a distinguished choice for travelers seeking a blend of comfort and convenience, situated a mere stone's throw away from the pristine Spille Beach and within easy reach of Maracit Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/140257377.jpg?k=e4fcad5f532402f7ea6aa1afe572d05fe822c492cd544e730257476d7844793f&o=&hp=1"\nlanguage: en\nslug: himara-apartment\naddress: "SH8 6 Near the municipality of Himara, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.10316137\n  lng: 19.74355492\nprice: "US$35"\npriceFrom: 35\nstarRating: 4\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/140257377.jpg?k=e4fcad5f532402f7ea6aa1afe572d05fe822c492cd544e730257476d7844793f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/140521379.jpg?k=30a326dabfebb14316ac88fe6f209cdc660511ed7ba2e2f269c3faf38082e454&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/140520914.jpg?k=e245c5f55931a9038402367653e87b0be847c818f42119b5d18c95661870b92f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/140521713.jpg?k=fa98a1c4cc9ec71a0de2e6c863d73b3416f226c0911524686b0d9bb0daf2ead9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/140522570.jpg?k=ed5986a218846a24aabb0cad91451958dc6e62bec0f2b6770858f1ed5bfa98db&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526088343.jpg?k=d3a76d738dc55a30ba98b2bf7634266f34cb7b38b4b9ec98bd83a2df2cbdc3d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/140520997.jpg?k=221e616deba860f0e7847636b2e71a2e0b2307a75266130d5aa915451a20bc81&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/140521077.jpg?k=aa90805844e85a15ae7a41a183034a1118c96c88cb0db9d7627ef999a7639100&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/161066612.jpg?k=78c2f636b23e93d0ae2dbbb84ce2cfb30d8141dd12ddd5e5edc60cee6bfc7667&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Restorant Piceri Mumbas 50 m"\n  - "Sunren 100 m"\nnearbyBeaches:\n  - "Spille Beach 200 m"\n  - "Maracit Beach 550 m"\n  - "Prinos Beach 800 m"\n  - "Livadhi Beach 1.1 km"\n  - "Potam Beach 1.2 km"\nwhatsNearby:\n  - "Llogora National Park 16 km"\nairports:\n  - "Corfu International Airport 56 km"\nbookingURL: "https://www.booking.com/hotel/al/himara-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into a world of comfort in this spacious apartment, which boasts two well-appointed bedrooms and a living room designed for relaxation. Entertainment is readily available with a satellite flat-screen TV, ensuring that leisure moments are well catered for. The apartment's kitchen comes fully equipped, inviting guests to whip up their favorite meals with ease. The bathroom does not disappoint, featuring a walk-in shower and a bidet, adding a touch of luxury to the daily routine.
 
 One of the apartment's highlights is its balcony, offering breathtaking mountain views that promise to enchant. The outdoor dining area presents an idyllic setting for meals, allowing guests to dine al fresco while soaking in the serene garden views. The addition of a private entrance underscores the accommodation's dedication to ensuring guest privacy.
 
 For those looking to explore beyond the confines of the apartment, the proximity to Ioannina Airport, located 143 km away, facilitates easy travel arrangements. Whether it's the allure of nearby beaches or the comfort of a well-furnished living space, Himara Apartment stands as a beacon of hospitality for discerning travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

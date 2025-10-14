@@ -1,30 +1,7 @@
----
-title: Sunny Bay Apartments
-description: The apartments at Sunny Bay are a testament to elegance and comfort. Each unit is air-conditioned, features satellite TV, and includes a dining area alongside a
-featuredImage: "/images/accommodation/102716740.jpg"
-language: en
-slug: sunny-bay-apartments
-location: ""
-amenities: []
-images: []
----
-
-The apartments at Sunny Bay are a testament to elegance and comfort. Each unit is air-conditioned, features satellite TV, and includes a dining area alongside a fully equipped kitchen. The balconies offer breathtaking sea views, perfect for unwinding after a day of exploration. Privacy and comfort are ensured with each apartment housing its own bathroom, equipped with either a bath or shower.
+---\ntitle: "Sunny Bay Apartments"\ndescription: "Sunny Bay Apartments, a gem within the Bougainville Bay Resort, offers more than just a stay; it provides an experience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/102716740.jpg?k=467078bcd943d5acbb936ed7a375041fc89b59e37ea7ba1734cecfc57433a993&o=&hp=1"\nlanguage: en\nslug: sunny-bay-apartments\naddress: "Rruga Butrinti, 9700 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.8634269\n  lng: 20.01806351\nprice: "US$35"\npriceFrom: 35\nstarRating: 4\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 146\nratings:\n  overall: 9.2\n  location: 9\n  cleanliness: 9.1\n  facilities: 8.9\n  value: 8.8\n  comfort: 9.2\n  staff: 9.1\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/102716740.jpg?k=467078bcd943d5acbb936ed7a375041fc89b59e37ea7ba1734cecfc57433a993&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/346193616.jpg?k=8a526138cfec532157c1e8b2fc94b442c71f7e1a794ae29ff3c991b950ac81d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375131528.jpg?k=607b082237f231dad306e5d4cbd0578313ffd59efb56396a2a20851b7d79f7ae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375132587.jpg?k=4a395931f0dc892239f02ec18d25b0e5d0fe7cf7422e5ef7ac56076dc168fa3e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375134110.jpg?k=49595f6cc15405427f591abdae9550edd550ac8fb381ad04e7e36afe19b78367&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375134081.jpg?k=326edc229715b74db9f4a4bb7c94a85ef9cdab01c031a6e98195376e6d5f624d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375132713.jpg?k=8ef732b0dc76b74d9e911ebfff040d5360259a4c09ccf6622123b3bc89cd60dd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375132531.jpg?k=1b8c78cdfeb99aed578197d82f6028125a53df98d4cdee56b0ac86444c6d46ea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375132417.jpg?k=dfeb74ad680acc189a14d9501c2b49cb5ca2a74ea50e358c023f695d7de460c7&o=&hp=1"\namenities:\n  - "3 swimming pools"\n  - "Spa and wellness centre"\n  - "Non-smoking rooms"\n  - "Fitness centre"\n  - "Free parking"\n  - "Good free WiFi (40 Mbps)"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Cataleya 50 m"\n  - "Blu Blu Gourmet 100 m"\nnearbyBeaches:\n  - "Maestral Beach 350 m"\n  - "VIP Beach 500 m"\n  - "Santa Quaranta Beach 550 m"\n  - "La Petite Beach 600 m"\n  - "Flamingo Beach 800 m"\nwhatsNearby:\n  - "Parc National de Butrint 750 m"\n  - "Butrint National Park 1.6 km"\n  - "Plazhi I Krorezes 7 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 11 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Jeremy"\n    country: "New Zealand"\n    text: "“Very spacious apartment with great sea views. Had all the amenities needed.”"\n  - name: "Klejdi"\n    country: "Albania"\n    text: "“The apartment was really clean and had an amazing view of the sunset. The host, Anila, was super friendly and welcoming. It was definitely a great experience.”"\n  - name: "Maddyson"\n    country: "United Kingdom"\n    text: "“The view from the apartment is amazing and the location is great.”"\nbookingURL: "https://www.booking.com/hotel/al/sunny-bay-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartments at Sunny Bay are a testament to elegance and comfort. Each unit is air-conditioned, features satellite TV, and includes a dining area alongside a fully equipped kitchen. The balconies offer breathtaking sea views, perfect for unwinding after a day of exploration. Privacy and comfort are ensured with each apartment housing its own bathroom, equipped with either a bath or shower.
 
 Dining at Sunny Bay Apartments is an experience in itself. The on-site restaurant serves a variety of meals that cater to all tastes, complemented by refreshing drinks from the bar. For those looking to explore local flavors, a grocery store along with several restaurants and bars are conveniently located within 100 meters of the property.
 
 Adventure seekers and leisure travelers alike will find plenty to do around Sunny Bay Apartments. From diving to canoeing, the surrounding area is ripe for exploration. Moreover, the local bus stop, just 25 meters away, provides easy access to nearby attractions.
 
 Sunny Bay Apartments is not just a place to stay; it's a gateway to a memorable Sarandë adventure, combining the comforts of home with the luxury of resort living.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

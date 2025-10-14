@@ -1,28 +1,6 @@
----
-title: Flower Residence sea view
-description: This apartment doesn't just offer a place to stay; it provides a home away from home with its well-appointed bedroom, modern bathroom, and a kitchenette that ca
-featuredImage: "/images/accommodation/426212511.jpg"
-language: en
-slug: flower-residence-sea-view
-location: ""
-amenities: []
-images: []
----
-
-This apartment doesn't just offer a place to stay; it provides a home away from home with its well-appointed bedroom, modern bathroom, and a kitchenette that caters to all culinary needs. The inclusion of bed linen, towels, and a flat-screen TV ensures a stay that combines convenience with luxury. Perhaps the most captivating feature is the terrace, offering breathtaking sea views that promise serene mornings and enchanting evenings.
+---\ntitle: "Flower Residence sea view"\ndescription: "Flower Residence Sea View emerges as a prime choice for travelers seeking the perfect blend of comfort and adventure in Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426212511.jpg?k=c6bceb3d79faf432af6bfe7c79f15e20c0c95d27460fd0918bf4e184c37e2f59&o=&hp=1"\nlanguage: en\nslug: flower-residence-sea-view\naddress: "1 Rruga Qazim Demi 15, Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.8735166\n  lng: 20.0144858\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426212511.jpg?k=c6bceb3d79faf432af6bfe7c79f15e20c0c95d27460fd0918bf4e184c37e2f59&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426212621.jpg?k=b26e3f37fef5c1393b30faab35ed7fa84e7b0c4762f2cfbbb3b4570c6ced7786&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426212644.jpg?k=a41b1bf3e277f67a4fef9f5ab5498ee42ac122d250b88c883850369309c568fd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426212633.jpg?k=d9c609ce84f13b1dd874696a4a88a942bae99fff1b4b4ad74b80e5596fd54d9c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426212596.jpg?k=f07542f9c82e1626e68ce39bb567b668dfe8b7a7548c2ebdb0c5dff18adae524&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426212576.jpg?k=ff79ae84e011454440dea312a34b56f72b6f438496d86e08e4aa6d2cb7cbfba0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426212585.jpg?k=7aec86b97e81fbe4d846fd374553ca2ea8b0069e5b77e516175f96d9df273cc9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426212588.jpg?k=60eb1ee067b48bb5d8b4a7e3f4db46345ec959d889d997905c566de1f1898fb8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426212582.jpg?k=f8baf9d9815f0152a8d68c3466b97d32382fc90387e84b36d83a004a88c4fd92&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\n  - "Private beach area"\nnearbyRestaurants:\n  - "TUNELI RESTAURANT 100 m"\n  - "Tunnel Bar and 100 m"\nnearbyBeaches:\n  - "Saranda City Beach 150 m"\n  - "La Petite Beach 550 m"\n  - "Maestral Beach 700 m"\n  - "Sarande Main Beach 1.1 km"\n  - "VIP Beach 1.7 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.8 km"\n  - "Butrint National Park 2.7 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Mircea"\n    country: "Romania"\n    text: "“Totul a gost exceptional.Apartamentul
+arata super si este pozitionat aproape de.mare.”"\nbookingURL: "https://www.booking.com/hotel/al/flower-residence-sea-view.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment doesn't just offer a place to stay; it provides a home away from home with its well-appointed bedroom, modern bathroom, and a kitchenette that caters to all culinary needs. The inclusion of bed linen, towels, and a flat-screen TV ensures a stay that combines convenience with luxury. Perhaps the most captivating feature is the terrace, offering breathtaking sea views that promise serene mornings and enchanting evenings.
 
 For those who relish outdoor dining, the apartment's terrace doubles as a picturesque spot to enjoy meals against the backdrop of the city's panoramic views. Beyond the confines of this cozy retreat, guests have the opportunity to engage in a variety of activities. From billiards within the premises to fishing and hiking in the surrounding areas, there's no shortage of adventures. The vibrant local scene can be explored through walking tours and pub crawls, promising an immersive experience of Sarandë's lively culture.
 
 Accessibility is seamlessly addressed, with Ioannina Airport located 96 km away, making Flower Residence Sea View a convenient option for international travelers. This property not only serves as a gateway to the enchanting landscapes and rich history of Sarandë but also as a sanctuary for those seeking a blend of relaxation and exploration.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

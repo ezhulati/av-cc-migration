@@ -1,30 +1,7 @@
----
-title: Rose Garden Hotel
-description: The property prides itself on its comprehensive suite of services, featuring an on-site restaurant that caters to diverse palates, room service for those moment
-featuredImage: "/images/accommodation/364000680.jpg"
-language: en
-slug: rose-garden-hotel
-location: ""
-amenities: []
-images: []
----
-
-The property prides itself on its comprehensive suite of services, featuring an on-site restaurant that caters to diverse palates, room service for those moments of privacy, and a 24-hour front desk ensuring guests' needs are attended to at any hour. Connectivity is never an issue, as guests can enjoy the convenience of free WiFi throughout their stay.
+---\ntitle: "Rose Garden Hotel"\ndescription: "Rose Garden Hotel emerges as a serene oasis in Gjirokastër, located a mere 45 km from the tranquil Zaravina Lake."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364000680.jpg?k=f1427d3d9ee2e94e2e4f3f357469e72a8e70c7501a31cf8e54338f18b7377bca&o=&hp=1"\nlanguage: en\nslug: rose-garden-hotel\naddress: "Rruga Astrit Karagjozi, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.07242207\n  lng: 20.137933\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 441\nratings:\n  overall: 9.4\n  location: 9.8\n  cleanliness: 9.8\n  facilities: 9.6\n  value: 9.5\n  comfort: 9.8\n  staff: 9.7\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364000680.jpg?k=f1427d3d9ee2e94e2e4f3f357469e72a8e70c7501a31cf8e54338f18b7377bca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454702784.jpg?k=db5df1154e373f689584d572f016d01431a6b8339ae43f83a806f9d097318978&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454700140.jpg?k=6ec4cdaa2e768dc598959550c82c4c0e8abe926502a91c921d6b0e9291f9ab1a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365460905.jpg?k=ab88f625fd7d1e1e749de5611b99dc8b1a9e2a9ed435b5afba037b49f62b0a2b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454704419.jpg?k=4aab793371c297d7893a6540332d73f2e5c8d977db3d74f6bb808d6bee6d7e34&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454707650.jpg?k=a65ab87fc2f32bd5a911409a7b7f42837058e2f26aae786c673de63af3eb1669&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454706276.jpg?k=f6837156dc20ec21d02bb7bda08751f5a80aecc79259e3215557fb59815e5297&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454707727.jpg?k=3f21b44c5712245fa12fbc08646c7029557f655e662d24ffceeb38029d492249&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375430816.jpg?k=51c612567bed23bf5914f1a821efecd998954c5f765ac6d7f7a36be6b4c02154&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Very good breakfast"\nnearbyRestaurants:\n  - "Family 150 m"\n  - "Taverna Murgana 150 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 70 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Katg4now"\n    country: "United Kingdom"\n    text: "“Great breakfast served to your table. Lovely view of the mountains from the room. Great location near to the centers shops, bars and restaurants. Near to the castle entrance. Room was beautiful and very comfortable beds. staff were friendly and...”"\n  - name: "Alhawaj"\n    country: "Albania"\n    text: "“The room was spacious and wonderful. The staff were so nice and helpful. The location is perfect. It exceeded my expectation.”"\n  - name: "Michal"\n    country: "Czech Republic"\n    text: "“Just below castle and above old town/Bazar reachable by car, beautifull building with swimming pool, go for it.”"\nbookingURL: "https://www.booking.com/hotel/al/rose-garden-gjirokaster.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe property prides itself on its comprehensive suite of services, featuring an on-site restaurant that caters to diverse palates, room service for those moments of privacy, and a 24-hour front desk ensuring guests' needs are attended to at any hour. Connectivity is never an issue, as guests can enjoy the convenience of free WiFi throughout their stay.
 
 For those seeking entertainment and assistance in exploring the local area, Rose Garden Hotel offers an enthusiastic entertainment staff and a helpful concierge service. The hotel's sun terrace presents an ideal spot for guests to unwind and soak up the sun.
 
 Adventurous guests will appreciate the hotel's proximity to Gjirokastër's picturesque landscapes, with hiking and cycling among the favored activities to engage in. Furthermore, the proximity to Ioannina Airport, located 84 km away, adds to the convenience for international travelers.
 
 Rose Garden Hotel stands out as a preferred choice for those seeking a blend of comfort, convenience, and a touch of adventure in Gjirokastër.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

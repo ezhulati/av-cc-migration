@@ -4,9 +4,21 @@ description: Guests at Sol Tropikal Durrës are treated to air-conditioned accom
 featuredImage: "/images/accommodation/474559550.jpg"
 language: en
 slug: sol-tropikal-durres
-location: ""
-amenities: []
 images: []
+category: "4-Star"
+starRating: 4
+rating: 4
+accommodationType: "hotel"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Pool"
+  - "Restaurant"
+  - "Bar"
+  - "Spa"
+  - "Balcony"
+  - "Sea View"
+  - "TV"
 ---
 
 Guests at Sol Tropikal Durrës are treated to air-conditioned accommodations that thoughtfully combine functionality and comfort. Each room is equipped with a desk, kettle, minibar, safety deposit box, flat-screen TV, and a private bathroom with a shower, ensuring a stay that is as relaxing as it is convenient. The addition of a terrace or balcony in every room, with select units offering breathtaking sea views, allows guests to soak in the serene surroundings from the privacy of their accommodations. Complimentary bed linen and towels further add to the comfort provided.
@@ -19,14 +31,3 @@ Located 40 km from Skanderbeg Square and 44 km from the Dajti Ekspres Cable Car,
 
 In summary, Sol Tropikal Durrës stands out as a top-tier choice for travelers looking for a memorable stay in Durrës, offering a harmonious blend of comfort, convenience, and captivating views.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

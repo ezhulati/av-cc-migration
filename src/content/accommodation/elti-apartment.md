@@ -1,28 +1,5 @@
----
-title: Elti Apartment
-description: "Each apartment is thoughtfully designed with a fully equipped kitchen, featuring a fridge and kettle, catering to those who prefer the flexibility of..."
-featuredImage: "/images/accommodation/152866662.jpg"
-language: en
-slug: elti-apartment
-location: ""
-amenities: []
-images: []
----
-
-Each apartment is thoughtfully designed with a fully equipped kitchen, featuring a fridge and kettle, catering to those who prefer the flexibility of preparing their own meals. For an enhanced experience, select units offer a terrace or balcony, presenting breathtaking views of the sea or the surrounding mountains, adding a touch of serenity to the morning coffee or evening unwind.
+---\ntitle: "Elti Apartment"\ndescription: "Elti Apartment in Sarandë stands out as a prime choice for travelers seeking both comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/152866662.jpg?k=34e966b3f1b0ce3cb1d3a4760b1e9eaf343f1fe576a52e78d65e87523235867a&o=&hp=1"\nlanguage: en\nslug: elti-apartment\naddress: "Rruga Janaq Kumi 293 SARANDE, 9700 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87564278\n  lng: 19.99079884\nprice: "US$16"\npriceFrom: 16\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 267\nratings:\n  overall: 9.5\n  location: 8.8\n  cleanliness: 9.4\n  facilities: 9.4\n  value: 9.7\n  comfort: 9.5\n  staff: 9.8\n  wifi: 9.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/152866662.jpg?k=34e966b3f1b0ce3cb1d3a4760b1e9eaf343f1fe576a52e78d65e87523235867a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438442967.jpg?k=fa3335fb1df56b9c88deeadb6bfd72fd1e972ac0fccc30ed5550f1503f6d8323&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508785900.jpg?k=18046e592b05fbdc68643c887c856da539f9b3a8deb0f985f5ad50036d2451b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508785799.jpg?k=4f1d12ccbd7acb824c2bf3951bc28813b0049af9102d5fd5f5e7761313630d0b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508785752.jpg?k=78aae98f33e965c38202e0d5b10a18722a890fd5ff85f63a7e6126b2eb270a84&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508785669.jpg?k=6d79d71cbade8c79e5eb8b283e898ba626bd1f5b942385297f57ef5665580bc2&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Good free WiFi (35 Mbps)"\n  - "Family rooms"\n  - "Terrace"\nroomTypes:\n  - "Double Room with Garden View"\n  - "Studio with Garden View"\nnearbyRestaurants:\n  - "Taverna Erjoni 200 m"\n  - "Taverna del Mare 200 m"\nnearbyBeaches:\n  - "Sarande Main Beach 450 m"\n  - "Saranda Bay Beach 800 m"\n  - "Saranda City Beach 1.6 km"\n  - "La Petite Beach 2.2 km"\n  - "Maestral Beach 2.3 km"\nwhatsNearby:\n  - "Parc National de Butrint 3.5 km"\n  - "Butrint National Park 4.1 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 73 km"\nreviews:\n  - name: "Elias"\n    country: "Switzerland"\n    text: "“Super nice hosts, fresh fruit from the garden and a cute little kitten. Great experience!”"\n  - name: "Lana"\n    country: "Norway"\n    text: "“Superrr host, great room, great location, comfortable apartment, very clean and we'll definitely be back. It has everything you need for a great holiday. We got a really cheap price!! Thank you”"\n  - name: "Lea"\n    country: "Germany"\n    text: "“Clean, modern and comfortable apartment, nice terrace and friendly owners. A little bit out of the centre but for me it was fine because it was not too busy.”"\nbookingURL: "https://www.booking.com/hotel/al/elti-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach apartment is thoughtfully designed with a fully equipped kitchen, featuring a fridge and kettle, catering to those who prefer the flexibility of preparing their own meals. For an enhanced experience, select units offer a terrace or balcony, presenting breathtaking views of the sea or the surrounding mountains, adding a touch of serenity to the morning coffee or evening unwind.
 
 For explorers eager to discover the local area, Elti Apartment provides both bicycle and car rental services, making it easy to venture out into Sarandë or the picturesque surroundings. The charming town of Ksamil, known for its beautiful beaches, is just 17 km away, offering a perfect day trip opportunity.
 
 Elti Apartment emerges as a top selection for guests who value the blend of serene views, self-sufficiency, and easy access to local attractions.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

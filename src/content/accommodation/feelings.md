@@ -1,28 +1,5 @@
----
-title: FEELINGS
-description: The apartment itself is a testament to spacious living, boasting a balcony that invites guests to bask in the serene garden views. With a layout comprising a be
-featuredImage: "/images/accommodation/383244942.jpg"
-language: en
-slug: feelings
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to spacious living, boasting a balcony that invites guests to bask in the serene garden views. With a layout comprising a bedroom, a living room, and a well-equipped kitchen complete with a minibar, guests are assured of a stay that marries comfort with convenience.
+---\ntitle: "FEELINGS"\ndescription: "FEELINGS stands as a serene retreat in the heart of Durrës, Durres County, offering guests a unique blend of convenience and tranquility."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383244942.jpg?k=02b3d6f86f2d0fcc8e32917c901f7317693ab3992e30ca0ec0349d5c0ae8657c&o=&hp=1"\nlanguage: en\nslug: feelings\naddress: "Rruga Taulantia, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31308788\n  lng: 19.43789208\nprice: "US$97"\npriceFrom: 97\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383244942.jpg?k=02b3d6f86f2d0fcc8e32917c901f7317693ab3992e30ca0ec0349d5c0ae8657c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/383244984.jpg?k=4d2de0a39a1df121b7952545bfe6a6e8428863abe3f450df370d62b843f9211f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/383244988.jpg?k=d3748b50bc3ae1f1a01f5215b7e870cf80b7f534cad7df6837c896e0d8478f08&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/383244992.jpg?k=b4cc4b4f55a0a207552bed4bd48519fea0e7653087a8914ed0ffd90dc4f09ce7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/383245002.jpg?k=b6e090614bc8ce75eb947dd5627f846f20ef735cc6c78bc869666af1ea9113f3&o=&hp=1"\namenities:\n  - "Free parking"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Marvi 150 m"\n  - "Badriklo 150 m"\nnearbyBeaches:\n  - "Currila Beach 300 m"\n  - "Kallmi Beach 750 m"\n  - "West End Beach 1.8 km"\n  - "Durres Beach 2.5 km"\n  - "Shkëmbi i Kavajës Beach 7 km"\nwhatsNearby:\n  - "1. Maj 450 m"\n  - "Durres Amphiteatre 600 m"\n  - "Yje Dhe Hena 850 m"\n  - "Wine Dhe Pooh 950 m"\n  - "Sheshi Demokracia 1,000 m"\n  - "Sotir Noka 1.1 km"\n  - "Bekimi 3.8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nbookingURL: "https://www.booking.com/hotel/al/feelings.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to spacious living, boasting a balcony that invites guests to bask in the serene garden views. With a layout comprising a bedroom, a living room, and a well-equipped kitchen complete with a minibar, guests are assured of a stay that marries comfort with convenience.
 
 Situated a mere 2.8 km from the vibrant West End Beach and within a reasonable distance from notable landmarks such as the Dajti Ekspres Cable Car (44 km) and the Rock of Kavaje (12 km), FEELINGS serves as an ideal base for explorers keen to uncover the charms of Durrës and beyond. Moreover, its proximity to Tirana International Mother Teresa Airport, located just 34 km away, ensures that arrivals and departures are as stress-free as possible.
 
 In essence, FEELINGS emerges as a top choice for travelers seeking a blend of leisure and exploration in Durrës, providing a comfortable and convenient stay against the backdrop of Albania's stunning landscapes.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

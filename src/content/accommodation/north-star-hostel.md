@@ -1,28 +1,6 @@
----
-title: North Star Hostel
-description: Guests are treated to well-appointed rooms, each featuring a cozy seating area, ensuring a comfortable stay. The hostel prides itself on offering shared bathroo
-featuredImage: "/images/accommodation/454708429.jpg"
-language: en
-slug: north-star-hostel
-location: ""
-amenities: []
-images: []
----
-
-Guests are treated to well-appointed rooms, each featuring a cozy seating area, ensuring a comfortable stay. The hostel prides itself on offering shared bathroom facilities, a safety deposit box, and complimentary WiFi across all rooms. Select accommodations also boast terraces and breathtaking mountain views, adding to the charm of the stay. Furthermore, every room is equipped with air conditioning and a desk, catering to the needs of both leisure and business travelers.
+---\ntitle: "North Star Hostel"\ndescription: "North Star Hostel, situated in the vibrant city of Shkodër and a mere 49 km from the Port of Bar, emerges as a prime choice for travelers seeking both comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454708429.jpg?k=e5f616c84cf2ec42a4c92680a0b84f8287c8ce68f5c9f85ae7d06f06962577c6&o=&hp=1"\nlanguage: en\nslug: north-star-hostel\naddress: "Bulevardi Bujar Bishanaku Ramadan Sokoli, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hostel"\ncoordinates:\n  lat: 42.07274778\n  lng: 19.50579295\nprice: "US$16"\npriceFrom: 16\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 40\nratings:\n  overall: 9.5\n  location: 9.3\n  cleanliness: 9.3\n  facilities: 9.3\n  value: 9.5\n  comfort: 9.5\n  staff: 9.9\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454708429.jpg?k=e5f616c84cf2ec42a4c92680a0b84f8287c8ce68f5c9f85ae7d06f06962577c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455964001.jpg?k=95c78c299f0781f42f3a3e2d3fe64fed3e724bd439cabe263a145a20b0ee6da9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455970723.jpg?k=ba4c4b3d4e004450c327bce3e7b1fca425643e7d8e0e153c3eb149653ff71f1b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/441484225.jpg?k=bfd2f166d06a5de402f5b4ec89b746244ed2709b9c1c6986927261bdef031838&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456219970.jpg?k=e55564f0e727c6a281043224147af210b3bba837f95abf18d2923b1c47bc875d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455973887.jpg?k=9c8bd69dde602d5360e29ae7f41784fabc94ff5ecf36aaca0273482a164eed1c&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Bar"\nroomTypes:\n  - "Bunk Bed in Female Dormitory Room"\n  - "Bunk Bed in Mixed Dormitory Room"\n  - "Bunk Bed in Mixed Dormitory Room"\n  - "Twin Room with Balcony"\n  - "Double Room with Balcony"\n  - "Family Room with Bath"\nnearbyRestaurants:\n  - "Bar Kafe - SUPERBAST 150 m"\n  - "Pasticeri Tradicionale 250 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 3.1 km"\n  - "National Park Skadar Lake 9 km"\nairports:\n  - "Podgorica Airport 37 km"\n  - "Tivat Airport 73 km"\n  - "Tirana International Airport Mother Teresa 74 km"\nreviews:\n  - name: "姜小宇"\n    country: "Taiwan"\n    text: "“A whole-new hostel where provided you with a comfortable space for rest. The owner is really friendly and I believe she can assist you about any information of your trip.”"\n  - name: "Mirangel"\n    country: "Spain"\n    text: "“Very helpful and friendly host! Very easy to find, and super clean space.
+We will be staying again :)”"\n  - name: "Melanie"\n    country: "Germany"\n    text: "“The Family who owns the hostel were super friendly and welcoming. We felt like home and enjoyed our stay. Everything was clean and quiet during the night. We will definitely come again!!! Thank you for hosting us !!!”"\nbookingURL: "https://www.booking.com/hotel/al/north-star-hostel.en-gb.html?aid=8035640"\nbestFor: "Best for Hostel Experience"\nbestCategories: "Hostel Experience"\ncategory: "Hostel Experience"\n---\n\nGuests are treated to well-appointed rooms, each featuring a cozy seating area, ensuring a comfortable stay. The hostel prides itself on offering shared bathroom facilities, a safety deposit box, and complimentary WiFi across all rooms. Select accommodations also boast terraces and breathtaking mountain views, adding to the charm of the stay. Furthermore, every room is equipped with air conditioning and a desk, catering to the needs of both leisure and business travelers.
 
 The establishment ensures guest convenience with a shared kitchen and a 24-hour front desk, ready to assist with any needs. Located 58 km from Podgorica Airport, North Star Hostel presents an accessible retreat for those exploring the region or on transit.
 
 With its thoughtful amenities and strategic location, North Star Hostel is an excellent choice for travelers looking for a blend of comfort, convenience, and a touch of home while away from home.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

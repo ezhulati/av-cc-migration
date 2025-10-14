@@ -1,28 +1,5 @@
----
-title: Hotel Lepenica
-description: The commitment to guest satisfaction is evident with the provision of a 24-hour front desk and attentive room service, ensuring a hassle-free experience through
-featuredImage: "/images/accommodation/210782404.jpg"
-language: en
-slug: hotel-lepenica
-location: ""
-amenities: []
-images: []
----
-
-The commitment to guest satisfaction is evident with the provision of a 24-hour front desk and attentive room service, ensuring a hassle-free experience throughout the stay. Each room, designed for relaxation and convenience, comes equipped with a desk, a flat-screen TV, and a private bathroom, catering to the modern traveler's needs.
+---\ntitle: "Hotel Lepenica"\ndescription: "Hotel Lepenica stands out as a prime choice for travelers seeking comfort and convenience in Vlorë, just a stone's throw away from the beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210782404.jpg?k=a67a9c190eb17e6996738244ad95ec9de3b5eb01410fffbd76d6c27f4f5872e1&o=&hp=1"\nlanguage: en\nslug: hotel-lepenica\naddress: "Rruga Vlore-Orikum, 9426 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.35557408\n  lng: 19.48368196\nprice: "US$42"\npriceFrom: 42\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 52\nratings:\n  overall: 9.4\n  location: 9.6\n  cleanliness: 9.2\n  facilities: 8.9\n  value: 9.2\n  comfort: 9.3\n  staff: 9.7\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210782404.jpg?k=a67a9c190eb17e6996738244ad95ec9de3b5eb01410fffbd76d6c27f4f5872e1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488399344.jpg?k=abf74d1097195a8af9df53637e594c0b0c98509709ae28e6aac6cc4663d29373&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488399237.jpg?k=1788d579a005fba1716082e764f2ea294525eb5b9fa70b9ad8e14b385a65d2ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304273081.jpg?k=7d96af9f872f29e38119d3d6224ff4703493da3a54e3f2ff19d64603e13cca31&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488398954.jpg?k=475955bcd64701b10c016a054bb0341719a33a8f567b4159d82c1d7177eacda6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304273240.jpg?k=6c88053fbae30135746f91b538532778f43ecc3615cb8b9ec07f9f2730e3d8de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488400082.jpg?k=cd3b64271893ff2807c9137f3198c2b8ad75cf8b2d4282744224b403c9d1e7ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488399185.jpg?k=90704d5c63a6d8c913639f4b443835bbb348d3accdf32f0dc21ad1534751b9c7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488400562.jpg?k=3e62bcebf1cac94ba9cae2a51b6be737c79557b64faf56a0a5cf810d5f60099d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Balcony and Sea View"\n  - "Deluxe Triple Room with Sea View"\n  - "Villa with Sea View"\nnearbyRestaurants:\n  - "Lepenica and Pizzeria 10 m"\n  - "Arbri 300 m"\nnearbyBeaches:\n  - "Radhimë Beach 4 m"\n  - "Al Breeze Beach 800 m"\n  - "Baro Beach 1.3 km"\n  - "Nettuno Beach 2.1 km"\n  - "Kevi Beach 2.1 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 9 km"\n  - "Kuzum Baba 13 km"\n  - "Independence Square 13 km"\n  - "Llogora National Park 15 km"\nairports:\n  - "Corfu International Airport 90 km"\nreviews:\n  - name: "Marta"\n    country: "Poland"\n    text: "“The hotel is just by the sea, the service was super nice and the breakfast delicious.”"\n  - name: "Samir"\n    country: "Bosnia and Herzegovina"\n    text: "“Location, owner, breakfast, view from balcony, ...., playa.....”"\n  - name: "Majaaa18"\n    country: "North Macedonia"\n    text: "“Beautiful small hotel next to the beach, very clean and confortable room, the oner is plesent person, very good restorant. We recommended 100%.”"\nbookingURL: "https://www.booking.com/hotel/al/lepenica.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe commitment to guest satisfaction is evident with the provision of a 24-hour front desk and attentive room service, ensuring a hassle-free experience throughout the stay. Each room, designed for relaxation and convenience, comes equipped with a desk, a flat-screen TV, and a private bathroom, catering to the modern traveler's needs.
 
 Morning starts on a high note at Hotel Lepenica with a delightful continental breakfast, setting the tone for a day of exploration or relaxation. Located a mere 13 km from the heart of Valona, guests are perfectly positioned to discover the local area's attractions.
 
 Hotel Lepenica emerges as a top recommendation for those visiting Vlorë, offering a blend of comfort, convenience, and attentive service, promising a memorable stay by the beach.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

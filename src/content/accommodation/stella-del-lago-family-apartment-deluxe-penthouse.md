@@ -1,30 +1,7 @@
----
-title: Stella del Lago Family Apartment Deluxe Penthouse
-description: "The deluxe penthouse is thoughtfully designed with a generous layout that includes a bedroom, a living room with a cozy fireplace, a fully equipped ki..."
-featuredImage: "/images/accommodation/402930468.jpg"
-language: en
-slug: stella-del-lago-family-apartment-deluxe-penthouse
-location: ""
-amenities: []
-images: []
----
-
-The deluxe penthouse is thoughtfully designed with a generous layout that includes a bedroom, a living room with a cozy fireplace, a fully equipped kitchen for those who love to cook, and a bathroom. Entertainment is readily available with a flat-screen TV for guests' enjoyment.
+---\ntitle: "Stella del Lago Family Apartment Deluxe Penthouse"\ndescription: "Stella del Lago Family Apartment Deluxe Penthouse stands out as a prime choice for travelers seeking a blend of comfort and adventure."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402930468.jpg?k=56783541e6d14cc72299ae9bfe07eb42e551a06646f84e3661d71ffda72f4994&o=&hp=1"\nlanguage: en\nslug: stella-del-lago-family-apartment-deluxe-penthouse\naddress: "Building 3, Entrance 2, Ap. 53, Rruga Dëshmorët e Pojskës, 7301 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.89998985\n  lng: 20.67093492\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402930468.jpg?k=56783541e6d14cc72299ae9bfe07eb42e551a06646f84e3661d71ffda72f4994&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471678727.jpg?k=5007e9da2b8bd91b01c635a729a800db69c552ec37d9f1f70e8d070e29ac156b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402932019.jpg?k=5ab814622f6a089d575841fef5ba465aa47a16901d980e1a96ac81a71a4a78ad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402932109.jpg?k=54a86978eab532709bf26f96259360a3a40b320a50a2b56214313e99632bc5c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402932095.jpg?k=77bc9ee0415910cce028c27a152a49a686bdda6fc0392ed21e554844a0acbb4f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508793902.jpg?k=8395f335f17001380663034e2594d448f8d9974f20da0a29a652ca9281ae2c84&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402932102.jpg?k=98d2f8dbae9ae8937ffc6c4ed0ad041f4c2fd5a66e37786dc61240f76f649dd8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402932004.jpg?k=90c3bbabf43c8c693a271d8e08e94758f5101728e8500ebef0c3c7d1d2bdc6be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402932051.jpg?k=abe9a4259e23afdfca98d5e18b52431b98bf27378f3169b7855d1e7fd1fe006d&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Bar Eleven 200 m"\n  - "Ambient per femije 200 m"\nwhatsNearby:\n  - "Driloni National Park 200 m"\n  - "National Park Galicica 6 km"\n  - "National Park Galicica 13 km"\n  - "Bay of Bones 15 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 71 km"\n  - "Tirana International Airport Mother Teresa 97 km"\nbookingURL: "https://www.booking.com/hotel/al/stella-del-lago-family-apartment-deluxe-penthouse.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe deluxe penthouse is thoughtfully designed with a generous layout that includes a bedroom, a living room with a cozy fireplace, a fully equipped kitchen for those who love to cook, and a bathroom. Entertainment is readily available with a flat-screen TV for guests' enjoyment.
 
 For those inclined towards outdoor activities, the apartment is perfectly positioned for skiing enthusiasts to explore nearby slopes. Additionally, the well-maintained garden invites guests to relax and unwind in a peaceful setting.
 
 Significant landmarks such as the Bay of Bones, the Early Christian Basilica, and the iconic Church of St. John at Kaneo are within a manageable distance, making it easy for guests to immerse themselves in the local culture and history. Port Ohrid is also 38 km away, offering further exploration opportunities.
 
 Situated 45 km from Ohrid Airport, Stella del Lago Family Apartment Deluxe Penthouse ensures a memorable stay for families and adventure seekers alike, promising both the tranquility of a lakeside retreat and the excitement of outdoor sports facilities.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

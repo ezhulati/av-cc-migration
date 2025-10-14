@@ -1,28 +1,5 @@
----
-title: ARSEN Apartment
-description: The apartment itself is a haven of tranquility and convenience. Equipped with air conditioning, a satellite flat-screen TV, and a dining area, it ensures a stay
-featuredImage: "/images/accommodation/469016071.jpg"
-language: en
-slug: arsen-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of tranquility and convenience. Equipped with air conditioning, a satellite flat-screen TV, and a dining area, it ensures a stay that combines relaxation with the comforts of home. The kitchen is fully equipped, catering to the needs of those who prefer to prepare their own meals, while the living room provides a spacious area for unwinding. Soundproofing and a bidet add an extra layer of comfort, ensuring a serene and private living space.
+---\ntitle: "ARSEN Apartment"\ndescription: "ARSEN Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and scenic beauty in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469016071.jpg?k=9586ae378b2041448453ea342406d821f72397c34956c89d17fd8cd2206cbe54&o=&hp=1"\nlanguage: en\nslug: arsen-apartment\naddress: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.43635599\n  lng: 19.49621501\nprice: "US$65"\npriceFrom: 65\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469016071.jpg?k=9586ae378b2041448453ea342406d821f72397c34956c89d17fd8cd2206cbe54&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/469016019.jpg?k=97bf0d7a3f8e0a286bc72ed159c7ae857e534a1c02fd2a7170132a92ca5fbb0b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/469016065.jpg?k=a98f87c28cc25d13608ffaf271fabd83ab8343f9c4a95278e12ceb92eadfbe03&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/469016075.jpg?k=3b1021daf1cfbc430aedfe9ef95a436c0b28871cadfdcef60d104358de75b322&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/469016080.jpg?k=a10a9722275b81d6ce49a1903506704201ae0b8b416ceeaa919d174c2f477b99&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Mazana Caffe 40 m"\n  - "Pasticeri Likaj Lungomare 50 m"\nnearbyBeaches:\n  - "Ri Beach 150 m"\n  - "Vlore Beach 700 m"\n  - "Beach at Government Villas 2 km"\n  - "Vjetër Beach 2.1 km"\n  - "Liro Beach 2.7 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 50 m"\n  - "Kuzum Baba 3.5 km"\n  - "Independence Square 3.9 km"\nbookingURL: "https://www.booking.com/hotel/al/arsen-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe apartment itself is a haven of tranquility and convenience. Equipped with air conditioning, a satellite flat-screen TV, and a dining area, it ensures a stay that combines relaxation with the comforts of home. The kitchen is fully equipped, catering to the needs of those who prefer to prepare their own meals, while the living room provides a spacious area for unwinding. Soundproofing and a bidet add an extra layer of comfort, ensuring a serene and private living space.
 
 For those interested in exploring the local area, the Beach at Government Villas is within easy reach, located just 2.1 km away. Further afield, the historic Kuzum Baba offers a glimpse into the region's rich heritage, situated 3.9 km from the apartment. Independence Square, a notable landmark, is also within proximity, just 4.1 km away.
 
 Travelers arriving from afar will find Tirana International Mother Teresa Airport to be the nearest gateway, located 153 km from ARSEN Apartment. This makes the apartment an accessible retreat for both domestic and international visitors, promising a memorable stay in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

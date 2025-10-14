@@ -4,9 +4,16 @@ description: Upon arrival, visitors are greeted with the luxury of a private bal
 featuredImage: "/images/accommodation/picture-163.jpeg"
 language: en
 slug: danis-apartments
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Sarandë"
+amenities:
+  - "Air Conditioning"
+  - "Spa"
+  - "Balcony"
 ---
 
 Upon arrival, visitors are greeted with the luxury of a private balcony, accessible through each apartment, allowing for an intimate experience of the city's vibrant atmosphere. The establishment prides itself on its commitment to guest satisfaction, offering round-the-clock front desk support, unwavering security, and even currency exchange services to cater to international visitors.
@@ -19,14 +26,3 @@ Situated merely 700 meters from La Petite Beach and a short drive from VIP Beach
 
 Dani's Apartments emerges as a top-tier accommodation choice, promising an unforgettable stay in the heart of Sarandë, where comfort meets convenience in an exquisite setting.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

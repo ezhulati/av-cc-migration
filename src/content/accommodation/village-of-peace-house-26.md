@@ -1,28 +1,5 @@
----
-title: Village of Peace - House 26
-description: The apartment itself is thoughtfully designed with a cozy bedroom, spacious living room, fully equipped kitchen, dining area, and a bathroom stocked with compli
-featuredImage: "/images/accommodation/486788555.jpg"
-language: en
-slug: village-of-peace-house-26
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is thoughtfully designed with a cozy bedroom, spacious living room, fully equipped kitchen, dining area, and a bathroom stocked with complimentary toiletries. The addition of a private entrance underscores the accommodation's commitment to guest privacy and comfort.
+---\ntitle: "Village of Peace - House 26"\ndescription: "Village of Peace - House 26 stands out as a recently updated gem in Shkodër, offering guests a serene garden and welcoming bar to enhance their stay."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486788555.jpg?k=4125f5326b68ac1002f136fe50dd89f4656ae1b590b34e7ae0198383bfdac900&o=&hp=1"\nlanguage: en\nslug: village-of-peace-house-26\naddress: "Rruga Kazenës, 4002 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.05210096\n  lng: 19.48880193\nprice: "US$19"\npriceFrom: 19\nstarRating: 3\nrating: 7.4\nratingWords: "Good"\nnumberOfReviews: 4\nratings:\n  overall: 7.4\n  location: 8\n  cleanliness: 8.1\n  facilities: 6.3\n  value: 8.8\n  comfort: 6.3\n  staff: 6.9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486788555.jpg?k=4125f5326b68ac1002f136fe50dd89f4656ae1b590b34e7ae0198383bfdac900&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486788537.jpg?k=7d16f877f25284f130323c211e780d0e4a2ae7f52ad6c28c4faf825dbbf96f6d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486788524.jpg?k=5531bbf362c5b9c8efbf3875cc7231ab6c68cc0b2cd5fa979353633abec517e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484585223.jpg?k=46cf65b4e0f9e425357efb77a6cd4cc6622bea4cb1569706f0f8db5a0ce815f2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486788021.jpg?k=78f859288f4de65030237174eba0de58e3e7f39249ea79d6dda29fc8bb3b500a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486787022.jpg?k=c11c5c1163a692484f5cdaf4f6bfbe397aa32b3246b9d56f925c60394123dc12&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484585278.jpg?k=38a5f28a8ff487da6adfa92682ffa5f5e8ca70b49362e813698227cd044ad334&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484585119.jpg?k=5eb4d5aafd3bdea3db36658e37d87aff08d8db7eaa4f30ff5051361833bf3893&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486786728.jpg?k=e5e79c087dbda9f8ade4b5c74a3448788bc092a5a2d4875ce18ac800ac8ae15d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fast free WiFi (99 Mbps)"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Elvisi 150 m"\n  - "Restorant Vataksi 250 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 750 m"\n  - "National Park Skadar Lake 9 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 72 km"\n  - "Tivat Airport 73 km"\nbookingURL: "https://www.booking.com/hotel/al/village-of-peace-house-5.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nThe apartment itself is thoughtfully designed with a cozy bedroom, spacious living room, fully equipped kitchen, dining area, and a bathroom stocked with complimentary toiletries. The addition of a private entrance underscores the accommodation's commitment to guest privacy and comfort.
 
 Morning starts are made delightful with a variety of breakfast options, including buffet, continental, and halal choices, catering to diverse tastes and dietary requirements.
 
 For travelers looking to explore beyond Shkodër, Podgorica Airport is conveniently located 63 km away, making Village of Peace - House 26 an ideal base for both relaxation and adventure in this captivating region.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

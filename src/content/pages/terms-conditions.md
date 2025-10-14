@@ -5,9 +5,10 @@ featuredImage: ""
 language: en
 slug: terms-conditions
 seo:
-  metaTitle: Terms & Conditions
-  metaDescription: ""
   canonicalURL: https://albaniavisit.com/terms-conditions/
+  focusKeyword: "terms & conditions"
+  metaTitle: "Read our %title% %sep% %sitename%"
+  focusKeyword: "terms & conditions"
 ---
 
 # Terms & Conditions

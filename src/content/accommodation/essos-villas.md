@@ -1,28 +1,6 @@
----
-title: Essos Villas
-description: Each unit at Essos Villas is meticulously designed to enhance the guest experience, featuring air conditioning for comfort, a seating area for relaxation, and a
-featuredImage: "/images/accommodation/380361786.jpg"
-language: en
-slug: essos-villas
-location: ""
-amenities: []
-images: []
----
-
-Each unit at Essos Villas is meticulously designed to enhance the guest experience, featuring air conditioning for comfort, a seating area for relaxation, and a flat-screen TV equipped with streaming services for entertainment. The safety deposit box, private bathroom complete with a bidet, slippers, and hair dryer, ensure both security and convenience. Moreover, the inclusion of a balcony in every unit, boasting an outdoor dining area and captivating sea views, invites guests to dine amidst nature's splendor.
+---\ntitle: "Essos Villas"\ndescription: "Essos Villas emerges as a prime choice for travelers seeking a serene beachfront escape, located just a stone's throw away from the pristine Palasa Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/380361786.jpg?k=a4e08f4679b8f7bfed216f7f906a1ac6d9182d99eeaae85877a2f2aeea4d9cb6&o=&hp=1"\nlanguage: en\nslug: essos-villas\naddress: "Rruga Megali Hora, Dhërmi, Albania"\ncity: "Dhërmi"\nlocation: "Dhërmi"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.14543688\n  lng: 19.63050578\nprice: "US$27"\npriceFrom: 27\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 100\nratings:\n  overall: 9.4\n  location: 9.4\n  cleanliness: 9.3\n  facilities: 8.7\n  value: 9.6\n  comfort: 9.3\n  staff: 9.7\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/380361786.jpg?k=a4e08f4679b8f7bfed216f7f906a1ac6d9182d99eeaae85877a2f2aeea4d9cb6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481548369.jpg?k=289474327bf0e5828fc7859d5fa73b5d4bc48d5bdfe81d0dff5df8147f051644&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/380361500.jpg?k=aff4c8f634b8553e094073600f1ce943e23958af6b77c656980cd1650a3b8773&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481548329.jpg?k=2ed97c1c4f693ca68872fe220d94af5ff09e2d12ac3811247d804dafd3bd3006&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447910056.jpg?k=e90e67bb934e41c8140a0597be1f660a2c5d3c9087e676fd0be7894d60beb114&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481548355.jpg?k=ac270283fda0dc31fc0af5452281d60e822e8bc615576c74d9f339d8fdbc6730&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nroomTypes:\n  - "Holiday Home"\nnearbyRestaurants:\n  - "Hotel 2000 , Bar Restorant , Piceri 150 m"\n  - "Piratet 250 m"\nnearbyBeaches:\n  - "Dhermi Beach 350 m"\n  - "Palasa Beach 1.1 km"\n  - "Gjipe Beach 3.9 km"\n  - "Nazar Beach 4.1 km"\n  - "Beach Me Shpella 4.5 km"\nwhatsNearby:\n  - "Llogora National Park 6 km"\nairports:\n  - "Corfu International Airport 64 km"\nreviews:\n  - name: "Natálie"\n    country: "Czech Republic"\n    text: "“The spot of accomodation is beautiful, near the beach and the lady was so nice to us.:)”"\n  - name: "Neil"\n    country: "United Kingdom"\n    text: "“Really nice location, nice modern comfortable villa, nice gardens and very helpful. Great value for money. Right by the sea.”"\n  - name: "Vasso"\n    country: "Albania"\n    text: "“Fantastic gardens
+Less than 5 minutes walk to beach front”"\nbookingURL: "https://www.booking.com/hotel/al/jonev-beach-villas.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach unit at Essos Villas is meticulously designed to enhance the guest experience, featuring air conditioning for comfort, a seating area for relaxation, and a flat-screen TV equipped with streaming services for entertainment. The safety deposit box, private bathroom complete with a bidet, slippers, and hair dryer, ensure both security and convenience. Moreover, the inclusion of a balcony in every unit, boasting an outdoor dining area and captivating sea views, invites guests to dine amidst nature's splendor.
 
 Families will find Essos Villas particularly appealing, thanks to its thoughtful amenities such as an indoor play area and a dedicated kids' club, making it an ideal setting for guests of all ages. The property also boasts a picnic area, perfect for those wishing to enjoy a day outdoors surrounded by natural beauty.
 
 Located a brief drive from the scenic Dhermi Beach and within reach of Ioannina Airport, Essos Villas positions itself as a gateway to exploring the enchanting surroundings while offering a secluded haven for relaxation and leisure.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

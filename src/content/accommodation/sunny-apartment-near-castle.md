@@ -1,15 +1,4 @@
----
-title: Sunny Apartment near Castle
-description: This air-conditioned apartment doesn't just offer a place to stay; it provides a home away from home with its spacious layout that includes 2 separate bedrooms,
-featuredImage: "/images/accommodation/494693975.jpg"
-language: en
-slug: sunny-apartment-near-castle
-location: ""
-amenities: []
-images: []
----
-
-This air-conditioned apartment doesn't just offer a place to stay; it provides a home away from home with its spacious layout that includes 2 separate bedrooms, a bathroom, and a living room equipped with a flat-screen TV for those relaxing evenings in. The fully equipped kitchen, complete with a dining area and oven, invites guests to prepare their meals just the way they like them. Moreover, the inclusion of an outdoor dining area allows for meals to be enjoyed against the backdrop of the local scenery, adding an extra layer of enjoyment to the dining experience.
+---\ntitle: "Sunny Apartment near Castle"\ndescription: "Sunny Apartment near Castle emerges as a prime choice for travelers seeking a blend of comfort and convenience in Elbasan."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494693975.jpg?k=cfeae679001b53416fd234b436f0453a164cd813d53fa98783b964753d88c240&o=&hp=1"\nlanguage: en\nslug: sunny-apartment-near-castle\naddress: "Rruga Dyli Haxhire Rezidenca 3HS , 8th floor, 3001 Elbasan, Albania"\ncity: "Elbasan"\nlocation: "Elbasan"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.11373612\n  lng: 20.07801771\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 7\nratings:\n  overall: 9.8\n  location: 9.6\n  cleanliness: 9.6\n  facilities: 10\n  value: 9.6\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494693975.jpg?k=cfeae679001b53416fd234b436f0453a164cd813d53fa98783b964753d88c240&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494693942.jpg?k=72465a97645f2133dfcc703703f2dd4300e042bbb8bdb2c2820d4e124e21c2eb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494693954.jpg?k=fcc234a3f8293a9a6141766fb78d277fa5c1fd430f97d72fe4e0179c39517ae6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494694006.jpg?k=f33e18af615572fc5e9f3966b26ad087a11eecd2bb89a458cb3b95db38abc4d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494693972.jpg?k=a430285a41a7a279f72dc98627ea25617ab0fec02239acebcc91a8f49b1205e0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494693929.jpg?k=64dc01ae03d9474298e189e0e1d4dd9a5ab7ec1869c4ef22e9095f1ab20cb072&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494693948.jpg?k=60794ba71cb272c8a6b03b4ff2699fe3a26f274b2930d05f45071a917ff00501&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494694019.jpg?k=0b86647a95097a099251620c2f40bdc6e279835290035c5f70eb0ceb5a1f28d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494693913.jpg?k=9f3da496b83e2996dc1dcaab93d8802ae2f5a7d96ea83e365764cb43efcf2066&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Kondor 2 100 m"\n  - "Divino Play 150 m"\nwhatsNearby:\n  - "Dajti Mountain National Park 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 43 km"\n  - "Ohrid Airport 56 km"\nreviews:\n  - name: "Orjald"\n    country: "Albania"\n    text: "“Easily accessible, comfortable and very clean new apartment, less than 5 minutes away from the castle and the city centre. Staff were very polite and ready to help with anything you needed.”"\n  - name: "Manos"\n    country: "Greece"\n    text: "“Το σπίτι πρόσφερε άνεση και όλα ήταν πεντακάθαρα και καλοσυντηριμενα, ευγενικοτατος και μερακλής ο ιδιοκτήτης”"\n  - name: "Marij"\n    country: "Italy"\n    text: "“Appartamento perfetto, con la disponibilità di ogni confort. Molto carino e in ottima zona.”"\nbookingURL: "https://www.booking.com/hotel/al/sunny-apartment-near-castle.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis air-conditioned apartment doesn't just offer a place to stay; it provides a home away from home with its spacious layout that includes 2 separate bedrooms, a bathroom, and a living room equipped with a flat-screen TV for those relaxing evenings in. The fully equipped kitchen, complete with a dining area and oven, invites guests to prepare their meals just the way they like them. Moreover, the inclusion of an outdoor dining area allows for meals to be enjoyed against the backdrop of the local scenery, adding an extra layer of enjoyment to the dining experience.
 
 Connectivity is never an issue, as guests are treated to complimentary WiFi, ensuring that they stay connected with the world or plan their next day's adventures with ease. The property's commitment to a non-smoking environment ensures a pleasant and healthy stay for all guests.
 
@@ -18,15 +7,3 @@ For those interested in exploring the cultural aspects of the area, the apartmen
 For spiritual or cultural exploration, the Bektashi World Centre is also within reach, located 42 km from the apartment. When it's time to say goodbye, the Tirana International Mother Teresa Airport is just 52 km away, making departures as smooth as the arrival.
 
 Sunny Apartment near Castle stands out as a thoughtful choice for those who value both the freedom of a self-catering accommodation and the accessibility to local attractions, making every stay a memorable one.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,7 @@
----
-title: Loli Apartment Luxury white Residence
-description: "Each apartment is designed to maximize the guest experience, featuring a terrace that presents breathtaking sea views."
-featuredImage: "/images/accommodation/449096738.jpg"
-language: en
-slug: loli-apartment-luxury-white-residence
-location: ""
-amenities: []
-images: []
----
-
-Each apartment is designed to maximize the guest experience, featuring a terrace that presents breathtaking sea views. The interiors are thoughtfully appointed with a cable flat-screen TV, a dining area, and a kitchen that comes fully equipped with an oven, fridge, stovetop, coffee machine, and kettle, ensuring all the comforts of home are at guests' fingertips. Additionally, the provision of bed linen and towels adds a touch of convenience to the stay.
+---\ntitle: "Loli Apartment Luxury white Residence"\ndescription: "Loli Apartment Luxury White Residence emerges as a prime choice for travelers seeking comfort and convenience in Sarandë, Vlorë County."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449096738.jpg?k=a5014a2870475d164aa5a45d08eeb36810f3f8bb5d09898699876308616a8023&o=&hp=1"\nlanguage: en\nslug: loli-apartment-luxury-white-residence\naddress: "Rruga Butrinti, 9702 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.8569624\n  lng: 20.02038732\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 6\nratings:\n  overall: 9\n  location: 9.2\n  cleanliness: 8.8\n  facilities: 9.2\n  value: 8.3\n  comfort: 9.2\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449096738.jpg?k=a5014a2870475d164aa5a45d08eeb36810f3f8bb5d09898699876308616a8023&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449095639.jpg?k=8bb872ef7460c244fef5909cafe4ac0a9b2a2e42ef759cea2a2a04b45f91d5e2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449097815.jpg?k=387560d9aa30c1ebc7ce68dcaca16a9a433f1e3a4fd9dcaae809b3e95f9bfd96&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449095590.jpg?k=c9410345fc1d477b66ed77ac02c7c1089a3c60c9f6315b28500429830bc88b74&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449097203.jpg?k=0ddb6d9d65b4608dbfb5cab5cbca3dc9ae772a726664d75626cc9d949a2867ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365089476.jpg?k=0192cb55b01413a8b14336b010614d4597265ef9d00b80ee3adcf8c0a8cdb9ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449097289.jpg?k=015b8581d9c712b47d2e1047366cff5c1189754d956659c15c2f886aea3312ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449096287.jpg?k=f8a4fd2cbbf14585415a7fb1b4f888cb80fdfbe936190c5126a21e93c0e83601&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449097921.jpg?k=aabfcfc1fb0c5deea5a37ff44d4e1d7adee25320b50f5456061e3fe76a38b119&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\nnearbyBeaches:\n  - "Santa Quaranta Beach 100 m"\n  - "Flamingo Beach 100 m"\n  - "VIP Beach 200 m"\n  - "Mango Beach 300 m"\n  - "Maestral Beach 1.1 km"\nreviews:\n  - name: "Anastasija"\n    country: "North Macedonia"\n    text: "“Our stay at this apartment was excellent. The location was top tier, the best beaches and restaurants are all around. It was very clean and the interior is very new and modern. And the best thing is that you can enjoy the sea view and the most...”"\n  - name: "Carmine"\n    country: "Italy"\n    text: "“Casa perfetta, nuova e moderna, completa di ogni servizio, con ampio terrazzo molto accogliente”"\n  - name: "Nahama"\n    country: "France"\n    text: "“The view from this apartment is worth every euro. Absolutely beautiful from morning to night”"\nbookingURL: "https://www.booking.com/hotel/al/lolis-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach apartment is designed to maximize the guest experience, featuring a terrace that presents breathtaking sea views. The interiors are thoughtfully appointed with a cable flat-screen TV, a dining area, and a kitchen that comes fully equipped with an oven, fridge, stovetop, coffee machine, and kettle, ensuring all the comforts of home are at guests' fingertips. Additionally, the provision of bed linen and towels adds a touch of convenience to the stay.
 
 For those who prefer to dine in or need quick essentials, a minimarket on the premises caters to these needs effortlessly. Moreover, Loli Apartment Luxury White Residence positions itself as a gateway to the vibrant life and activities Sarandë has to offer, with hiking being a popular choice among guests.
 
 The property is also strategically located near other sought-after beaches such as Mango Beach, VIP Beach, and Santa Quaranta Beach, making it an ideal base for beach lovers. For travelers coming from afar, Ioannina Airport is the nearest, located 97 km away, making the apartments accessible for international visitors.
 
 In summary, Loli Apartment Luxury White Residence stands out for its strategic location, comprehensive amenities, and the promise of a memorable stay, making it a highly recommended option for those planning a visit to Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

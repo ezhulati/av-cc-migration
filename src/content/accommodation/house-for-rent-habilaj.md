@@ -1,30 +1,7 @@
----
-title: House For Rent Habilaj
-description: This apartment doesn't just offer a place to stay; it provides a spacious sanctuary equipped with modern amenities. Guests can enjoy the luxury of a large bedro
-featuredImage: "/images/accommodation/505774459.jpg"
-language: en
-slug: house-for-rent-habilaj
-location: ""
-amenities: []
-images: []
----
-
-This apartment doesn't just offer a place to stay; it provides a spacious sanctuary equipped with modern amenities. Guests can enjoy the luxury of a large bedroom, a cozy living room for relaxation, a fully equipped kitchen for those who love to cook, and a bathroom that caters to all the essentials. Entertainment is readily available with a flat-screen TV, ensuring that guests have a comfortable and enjoyable stay.
+---\ntitle: "House For Rent Habilaj"\ndescription: "House For Rent Habilaj emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505774459.jpg?k=ab50e65884177e21f64308201df956e98de5bbfff8ffe57a2c36c9816f40b5ed&o=&hp=1"\nlanguage: en\nslug: house-for-rent-habilaj\naddress: "Rruga Faik Konica, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45892209\n  lng: 19.48530964\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505774459.jpg?k=ab50e65884177e21f64308201df956e98de5bbfff8ffe57a2c36c9816f40b5ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505774454.jpg?k=62127dc0225a0503cc14b1fd7ddb8aefe4429d139ee90af61fe4eff1d7281369&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505774462.jpg?k=6a1a47420272ed32204f56a5e473e4e0a3059d94cfc05407851a385fc6a7add3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505774471.jpg?k=550b2acaab739d5bedf9c84c2ecfe648e306a86320746597a367278a07a29375&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505774479.jpg?k=431ad36c5255c87a61b4b4bf9b3ed98c6b769531a7945509e2c877da6dca625b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505774483.jpg?k=ae73e416ef33503f8f352e645730170d04e26aac41adac785b5e02acab380c9c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505774489.jpg?k=033f466db5927f9a2f29809fa20714a9f680b7bb473c078401b9db8dee2734bc&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "BSB 100 m"\n  - "Fast Food Angjelos 250 m"\nnearbyBeaches:\n  - "Vjetër Beach 800 m"\n  - "Vlore Beach 1.4 km"\n  - "Ri Beach 2.7 km"\n  - "Beach at Government Villas 4.3 km"\n  - "Liro Beach 4.9 km"\nwhatsNearby:\n  - "Kuzum Baba 1.2 km"\n  - "Independence Square 1.4 km"\n  - "Scooby Doo Vlore 2.7 km"\nbookingURL: "https://www.booking.com/hotel/al/house-for-rent-habilaj.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nThis apartment doesn't just offer a place to stay; it provides a spacious sanctuary equipped with modern amenities. Guests can enjoy the luxury of a large bedroom, a cozy living room for relaxation, a fully equipped kitchen for those who love to cook, and a bathroom that caters to all the essentials. Entertainment is readily available with a flat-screen TV, ensuring that guests have a comfortable and enjoyable stay.
 
 The commitment to guest convenience is further underscored by the inclusion of complimentary WiFi accessible throughout the premises, allowing visitors to stay connected with the world or plan their next adventure in Vlorë. Additionally, the availability of private parking on-site is a testament to the thoughtful amenities designed to enhance the guest experience.
 
 For those venturing from afar, the Tirana International Mother Teresa Airport is located 150 km away, making House For Rent Habilaj a viable option for international travelers seeking a seamless connection to their accommodation.
 
 In essence, House For Rent Habilaj is not just an apartment; it's a gateway to experiencing the charm and beauty of Vlorë, all while ensuring the comfort and convenience of its guests.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

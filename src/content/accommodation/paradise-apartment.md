@@ -1,30 +1,8 @@
----
-title: PARADISE APARTMENT
-description: Guests are welcomed into a world of comfort with each apartment boasting air conditioning, a private bathroom, a flat-screen TV, and a fully equipped kitchen. T
-featuredImage: "/images/accommodation/375865546.jpg"
-language: en
-slug: paradise-apartment
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into a world of comfort with each apartment boasting air conditioning, a private bathroom, a flat-screen TV, and a fully equipped kitchen. The addition of a terrace or balcony in every unit allows for private outdoor relaxation, where one can breathe in the fresh sea air or enjoy a quiet meal under the stars.
+---\ntitle: "PARADISE APARTMENT"\ndescription: "PARADISE APARTMENT stands as a serene retreat in the vibrant heart of Sarandë, a stone's throw away from the pristine shores of Flamingo Beach, Mango Beach, and Santa Quaranta Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375865546.jpg?k=d7bbd0813dc96821a1ce7b48f5f9783e1c831de7643ab3e655544926ac5f50ce&o=&hp=1"\nlanguage: en\nslug: paradise-apartment\naddress: "Lagjia 1, turizem kanali qukes, Sarande, 9702 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.85511237\n  lng: 20.02267388\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 35\nratings:\n  overall: 9.6\n  location: 8.8\n  cleanliness: 9.6\n  facilities: 9.4\n  value: 9.6\n  comfort: 9.9\n  staff: 10\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375865546.jpg?k=d7bbd0813dc96821a1ce7b48f5f9783e1c831de7643ab3e655544926ac5f50ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375887188.jpg?k=3eb302d1c98667a7aa7af7f1fc79ffd547a2249c1b2d45c3fec773c14cefab06&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375865450.jpg?k=04ee1affc409379dea3a47ab7cb030122e98a566796b37816a60304078de80ea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464578068.jpg?k=d17fe14ff720b79edaa3934587cc98381dd1d4d55d85c307e105d147697e2e31&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464938501.jpg?k=12c9bc341d7cc6de90cd9dced428079d137bd2e125cd39ebfb5a002e29d646f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464580113.jpg?k=0ba3ff622fcc9d42432b4175dd8a7212f7d6dc50251fb0b838b37738dc15bb67&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375864751.jpg?k=89dc41121cd9f75ab1d1930c9925f984df2002d78118219c579b870a29c78c00&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372831896.jpg?k=4b93f4307f891b83690481b35363ba2272f01263cbba043f6ef4f6c642ed12f0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464939056.jpg?k=6a9c0bfb0e5ff9173222060182e600309be6be0434d647a34136f5b3d7b062c7&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\nnearbyRestaurants:\n  - "SeaSide Artist Terrace 100 m"\n  - "Zgara Tradicionale 100 m"\nnearbyBeaches:\n  - "Flamingo Beach 250 m"\n  - "Mango Beach 250 m"\n  - "Santa Quaranta Beach 400 m"\n  - "VIP Beach 450 m"\n  - "Maestral Beach 1.4 km"\nwhatsNearby:\n  - "Parc National de Butrint 450 m"\n  - "Butrint National Park 600 m"\n  - "Plazhi I Krorezes 6 km"\n  - "Parku Kombetar I Butrintit 10 km"\n  - "Butrint National Park 10 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 69 km"\nreviews:\n  - name: "Xheni"\n    country: "Albania"\n    text: "“Great experience and amazing view! Best place I stayed in Sarande
+Large and very clean space The apartments are located on a very great neighbourhood of Sarande where you can have a splendid view in front of you! The hostess was very...”"\n  - name: "Diana"\n    country: "Romania"\n    text: "“I loved it!! Good location, close to the beach, very affordable. The hosts were very very nice and hospitable. I totally recommend.”"\n  - name: "Fede"\n    country: "Italy"\n    text: "“Very clean apartments with parking, the staff is very kind and helpful; the view from the rooftop is amazing”"\nbookingURL: "https://www.booking.com/hotel/al/paradise-apartment-sarande.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into a world of comfort with each apartment boasting air conditioning, a private bathroom, a flat-screen TV, and a fully equipped kitchen. The addition of a terrace or balcony in every unit allows for private outdoor relaxation, where one can breathe in the fresh sea air or enjoy a quiet meal under the stars.
 
 The convenience of complimentary private parking and WiFi throughout the property ensures that guests' needs are seamlessly met, allowing for a worry-free stay. Families will find the spacious family rooms particularly appealing, providing ample space for both relaxation and play.
 
 Situated just 13 km from the lush landscapes of Butrint National Park and 47 km from the historical site of Ancient Fanoti, PARADISE APARTMENT serves as an ideal base for explorers keen to uncover the natural and historical treasures of the region. For those traveling further afield, Ioannina Airport is located 97 km away, making the apartment a convenient choice for international and domestic travelers alike.
 
 In summary, PARADISE APARTMENT offers a perfect blend of location, comfort, and convenience, making it a top choice for travelers seeking a memorable stay in Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

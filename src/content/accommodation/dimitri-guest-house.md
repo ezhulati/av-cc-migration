@@ -1,28 +1,7 @@
----
-title: Dimitri Guest House
-description: "Each room at Dimitri Guest House is thoughtfully equipped with air conditioning for those warm summer days, and a flat-screen TV for entertainment at any time."
-featuredImage: "/images/accommodation/218398416.jpg"
-language: en
-slug: dimitri-guest-house
-location: ""
-amenities: []
-images: []
----
-
-Each room at Dimitri Guest House is thoughtfully equipped with air conditioning for those warm summer days, and a flat-screen TV for entertainment at any time. Guests will appreciate the private bathrooms that come with a bath and complimentary toiletries, ensuring a comfortable stay. Additionally, the presence of a wardrobe in each unit makes it easy for guests to organize their belongings and feel at home.
+---\ntitle: "Dimitri Guest House"\ndescription: "Dimitri Guest House emerges as a charming accommodation choice in Përmet, providing guests with the convenience of complimentary WiFi and on-site parking without any additional cost."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218398416.jpg?k=26f42ecc7cd9ce9b3195edbec8c1a7c99b1d937dd557112b2730231b8f58c7f1&o=&hp=1"\nlanguage: en\nslug: dimitri-guest-house\naddress: "Musa Ohri Street nr. 14, 6400 Përmet, Albania"\ncity: "Përmet"\nlocation: "Përmet"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.23314739\n  lng: 20.35163376\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 167\nratings:\n  overall: 9.5\n  location: 9.3\n  cleanliness: 9.5\n  facilities: 9.1\n  value: 9.5\n  comfort: 9.2\n  staff: 9.7\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218398416.jpg?k=26f42ecc7cd9ce9b3195edbec8c1a7c99b1d937dd557112b2730231b8f58c7f1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204377471.jpg?k=7ab2a92e4d0f258af74964f0df0ceacb63a96b1949f21ca6f807b1db4ef0b44f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204377545.jpg?k=5667742f305c6b4af9dc6f0e8cf9db45797288d17129e865af8ce9e0612292eb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204377684.jpg?k=d79d3787827f3278afa802948c85cc0901f012b04cd0c2fbfb8bd4307f19d46f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/222218627.jpg?k=61f2bebc4f68d1cb9c0fadfbcb682b08cde6c8f049943e076b1db57d28c4f7de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204377927.jpg?k=f6f7756dcf010504dd711a10b9aa73758d2ff3dde052e932c2b43dc3780b1ad6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204377552.jpg?k=27c2833d93670e5bf495c6aea84dfd5b182a3add2720ff11b3349ea0ab0a8afc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204377566.jpg?k=7656c636d79ed19d4c2b130ff5a8b74f0698dc578ca2bd6d77d7cfc932d4f235&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/222040146.jpg?k=f5644aefa424a139324c2b82b78ec5936d3275e6eacbb2486ebfa80bf382ca89&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Superb breakfast"\nroomTypes:\n  - "Triple Room"\n  - "Family Room"\nnearbyRestaurants:\n  - "Trifilia 50 m"\n  - "piazza 100 m"\nwhatsNearby:\n  - "Fir of Hotova National Park 16 km"\nairports:\n  - "Ioannina Airport 70 km"\n  - "Corfu International Airport 79 km"\n  - "Kastoria National Airport 82 km"\nreviews:\n  - name: "Tomasz"\n    country: "Poland"\n    text: "“Perfect communication. Really clean and tidy accommodation. Tasty breakfast. We arrived late at night and were welcomed really nice.”"\n  - name: "Patrick"\n    country: "United Kingdom"\n    text: "“I really enjoyed my stay at Dimitri Guest House.
+It was everything I wanted and more.
+It was spotlessly clean, very comfortable, the breakfast was excellent, it is in an excellent location, and I received a very warm welcome.”"\n  - name: "Isuf"\n    country: "Albania"\n    text: "“Very Nice guest house close to the city center. Staff is very friendly. Rooms clean.”"\nbookingURL: "https://www.booking.com/hotel/al/dimitri-guest-house.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nEach room at Dimitri Guest House is thoughtfully equipped with air conditioning for those warm summer days, and a flat-screen TV for entertainment at any time. Guests will appreciate the private bathrooms that come with a bath and complimentary toiletries, ensuring a comfortable stay. Additionally, the presence of a wardrobe in each unit makes it easy for guests to organize their belongings and feel at home.
 
 For those moments of relaxation or a quick catch-up with friends, the guest house boasts a cozy coffee shop and bar, perfect for sipping a morning espresso or enjoying an evening drink.
 
 Situated 90 km from Ioannina Airport, Dimitri Guest House offers a serene retreat with the promise of a memorable stay in Përmet, making it an ideal choice for travelers seeking both comfort and convenience.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

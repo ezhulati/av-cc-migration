@@ -1,28 +1,5 @@
----
-title: Hotel Verzaci
-description: "A select number of rooms boast furnished balconies, offering a private outdoor space for guests to enjoy."
-featuredImage: "/images/accommodation/301169646.jpg"
-language: en
-slug: hotel-verzaci
-location: ""
-amenities: []
-images: []
----
-
-A select number of rooms boast furnished balconies, offering a private outdoor space for guests to enjoy. The assurance of a bathroom equipped with a shower in every room, alongside the availability of laundry and ironing services for a nominal fee, ensures that guests' needs are met with attention to detail. The entire hotel benefits from free Wi-Fi access, allowing visitors to stay connected effortlessly.
+---\ntitle: "Hotel Verzaci"\ndescription: "Hotel Verzaci stands out as a prime choice for travelers seeking convenience and comfort right at the heart of Tiranë Airport Mother Theresa."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301169646.jpg?k=32b72f1aaf8168e8e856128ba9c1eeb8259736658b98c66f4e736eb4558bbe01&o=&hp=1"\nlanguage: en\nslug: hotel-verzaci\naddress: "Rinas Airport, 1001 Rinas, Albania"\ncity: "Rinas"\nlocation: "Rinas"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.42445521\n  lng: 19.71225679\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 3718\nratings:\n  overall: 8.4\n  location: 8.9\n  cleanliness: 8.4\n  facilities: 7.8\n  value: 8.3\n  comfort: 8.2\n  staff: 8.9\n  wifi: 8.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301169646.jpg?k=32b72f1aaf8168e8e856128ba9c1eeb8259736658b98c66f4e736eb4558bbe01&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443982425.jpg?k=2c7ef3efe6286e9ea3adc4e591e2e95aa9bef0881c496ef8d05e6bfa07ae2a46&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197838544.jpg?k=f5af36d00eb7cc520c59e647afd67ea56ea2b2cf3e9981538153caacd7aef5b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500732557.jpg?k=107f546d57f4f9b4ab21b9106c608b63adcafa38dfba8d8b6baf851a59e37625&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500732423.jpg?k=567dd7c54b474f5a3d0be3494702fef0e63afaa5aa34d9959e346f5c417073d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500732543.jpg?k=7caed9d80f9707f9bff4121d859f0982e20d02b2660350be8cd6bb818526b420&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Bar"\n  - "Good breakfast"\nroomTypes:\n  - "Standard Double Room"\n  - "King Room with Balcony"\n  - "Triple Room"\nnearbyAttractions:\n  - "National Museum of History Albania 14 km"\n  - "House of Leaves 14 km"\n  - "Skanderbeg Square 14 km"\n  - "Clock Tower Tirana 14 km"\n  - "Rinia Park 14 km"\n  - "National Gallery of Arts Tirana 14 km"\n  - "Tanners' Bridge 15 km"\n  - "Former Residence of Enver Hoxha 15 km"\n  - "Bunk'Art 1 Museum 15 km"\n  - "Grand Park of Tirana 16 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Xiaoman"\n    country: "Italy"\n    text: "“It’s near the airport and convenient to go there. The stuffs are kind and can help you to print the boarding pass. Everything is okay.”"\n  - name: "Aleksandar"\n    country: "Montenegro"\n    text: "“The hotel is really wonderful, clean, comfortable. It is close to the airport. The staff is friendly.”"\n  - name: "Robert"\n    country: "Australia"\n    text: "“It was very close to the airport we flew in one day and out the next perfect location for this.”"\nbookingURL: "https://www.booking.com/hotel/al/verzaci.en-gb.html?aid=8035640"\nbestFor: "Best for Airport Access"\nbestCategories: "Airport Access"\ncategory: "Airport Access"\n---\n\nA select number of rooms boast furnished balconies, offering a private outdoor space for guests to enjoy. The assurance of a bathroom equipped with a shower in every room, alongside the availability of laundry and ironing services for a nominal fee, ensures that guests' needs are met with attention to detail. The entire hotel benefits from free Wi-Fi access, allowing visitors to stay connected effortlessly.
 
 For those needing to pick up essentials or snacks, a grocery store is conveniently located just 300 meters from the hotel. Guests looking to explore the vibrant center of Tiranë will find it a mere 20 km away, with a bus stop offering frequent services to the city center similarly positioned 300 meters from Hotel Verzaci. The railway station, also 20 km away, provides further options for regional travel.
 
 Hotel Verzaci emerges as a strategic location for both the transient traveler and those wishing to explore the broader Tiranë area, offering a blend of convenience, comfort, and connectivity.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

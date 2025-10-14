@@ -1,30 +1,7 @@
----
-title: Summer Home
-description: "This non-smoking apartment complex ensures a restful stay in its spacious accommodations, which boast a balcony that invites guests to unwind in the fresh air."
-featuredImage: "/images/accommodation/465546655.jpg"
-language: en
-slug: summer-home
-location: ""
-amenities: []
-images: []
----
-
-This non-smoking apartment complex ensures a restful stay in its spacious accommodations, which boast a balcony that invites guests to unwind in the fresh air. The two-bedroom setup is complemented by a cozy living room, making it an ideal choice for families or groups seeking a home away from home. The kitchen doesn't disappoint either, coming fully equipped and even featuring a minibar for those evening refreshments.
+---\ntitle: "Summer Home"\ndescription: "Summer Home emerges as a serene retreat in the vibrant city of Vlorë, offering guests a unique blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465546655.jpg?k=4107bdb9b45e4de0c6a0d4e696514d3ac578d53827d7f17f8bf8735bedc82a9c&o=&hp=1"\nlanguage: en\nslug: summer-home\naddress: "Rruga Zenel Murra, 9403 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44706906\n  lng: 19.49592006\nprice: "US$98"\npriceFrom: 98\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465546655.jpg?k=4107bdb9b45e4de0c6a0d4e696514d3ac578d53827d7f17f8bf8735bedc82a9c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465546697.jpg?k=b5a1604dc39bf954085bd23c0d96dc436c4699c312c0164377d1b8db4ba9fe72&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465546702.jpg?k=270ad15ceb41f2185c3f206cd5c20bda89a5cf4d63ed89571c35d0dc679eb467&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465546723.jpg?k=00be98ffd98b6e79e474b60f2ba2b0afa108607d1586e68cd9214784bcb88953&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465546720.jpg?k=240c736b698b2f680ea8e9cc4130a76dae5b261135024b755977dfc5bb19e225&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465546682.jpg?k=d31557c2a5263c0c35374108048e9abd4ab04d24ef6626c24f0d65d39de46491&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465546692.jpg?k=e687ed641ba293b02c54c7a67fc9efaa5cb6e4fc8e261175aac556e47edca3fe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465546713.jpg?k=4823473163ab29b9cfcc3b260a0c4e9c6931976bd8e46c996595299ee628243a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465546688.jpg?k=11a66ed6a14bda21ca37a17f55daf65d6fe68204b3471096e75107b994fb5862&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Patio 150 m"\n  - "Primo Gusto 150 m"\nnearbyBeaches:\n  - "Vlore Beach 150 m"\n  - "Ri Beach 1.3 km"\n  - "Vjetër Beach 1.4 km"\n  - "Beach at Government Villas 3.1 km"\n  - "Liro Beach 3.8 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.2 km"\n  - "Kuzum Baba 2.3 km"\n  - "Independence Square 2.7 km"\nreviews:\n  - name: "Darko"\n    country: "North Macedonia"\n    text: "“The location of the apartment was 2 min from the beach and the main street with the restaurants. The place is very comfortable with all facilities, perfect for 4 people, clean and modern designed, vey comfortable beds. It have a nice terrace with...”"\nbookingURL: "https://www.booking.com/hotel/al/summer-home-vlore1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis non-smoking apartment complex ensures a restful stay in its spacious accommodations, which boast a balcony that invites guests to unwind in the fresh air. The two-bedroom setup is complemented by a cozy living room, making it an ideal choice for families or groups seeking a home away from home. The kitchen doesn't disappoint either, coming fully equipped and even featuring a minibar for those evening refreshments.
 
 Entertainment needs are well catered to with a flat-screen TV, ensuring that guests have access to their favorite shows after a day of exploration. Moreover, the convenience of complimentary WiFi and private parking on-site adds to the seamless experience at Summer Home.
 
 For those looking to enjoy a drink without venturing far, the on-site bar serves as a cozy spot to relax and socialize. And when it's time to delve into the local culture, Independence Square is just 3 km away, offering a glimpse into the heart of Vlorë's vibrant community.
 
 Located 152 km from Tirana International Mother Teresa Airport, Summer Home presents an accessible escape for both local and international travelers seeking the perfect blend of relaxation and adventure in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

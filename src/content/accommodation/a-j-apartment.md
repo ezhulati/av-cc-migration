@@ -1,26 +1,3 @@
----
-title: A & J Apartment
-description: The apartment itself is a testament to spacious living, featuring a well-appointed bedroom, a sleek flat-screen TV, and a kitchen equipped with modern amenities
-featuredImage: "/images/accommodation/508425189.jpg"
-language: en
-slug: a-j-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to spacious living, featuring a well-appointed bedroom, a sleek flat-screen TV, and a kitchen equipped with modern amenities including an oven, microwave, washing machine, fridge, and an array of kitchenware. Guests will appreciate the thoughtful inclusion of towels and bed linen, adding a touch of home to this seaside retreat.
+---\ntitle: "A & J Apartment"\ndescription: "A & J Apartment stands as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë, just a stone's throw away from the pristine Vlore Beach and a short stroll from Ri Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508425189.jpg?k=0fc14a45d9ba6ebb3ca0546d4f34ecf9976ada642e3afd8a256c6bdbebd49017&o=&hp=1"\nlanguage: en\nslug: a-j-apartment\naddress: "Lungomare , \"Murat Terbaci\" Building Nr. 55, Ap.Nr 39, 7th floor, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44376243\n  lng: 19.49646144\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508425189.jpg?k=0fc14a45d9ba6ebb3ca0546d4f34ecf9976ada642e3afd8a256c6bdbebd49017&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/508416196.jpg?k=f1564e5319b86bc05f811bbef1324a16d8ba5695b8f7877b4b45895a9bfa0009&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/508416206.jpg?k=937896023ec0648ee3b11a2a34634fb77f07a2486872db6dd5e6cc11978295d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/508416144.jpg?k=ab4ccace6200d963dc5b6239e336df2dab975993f50de268859dad671d08c353&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/508416194.jpg?k=2030cbc10de3632d6836800b243de484bc05365f2bea94c88509ff1f10c105b8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/508416201.jpg?k=78ed61e50f5c52516308dc6355af699b3684d3617074e1de0c8e26f0bb7a3d8c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/508416209.jpg?k=a74d10054349f0c36f58ecce15cdd6c60b7bb187edb25e676757264686d2284c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/508416197.jpg?k=a2fa86ce70f158af05cfdb2552b0d1155f32edd74b603e4099e8c9100b1cdc1c&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Amo Pizza 30 m"\n  - "Da Vinci 100 m"\nnearbyBeaches:\n  - "Vlore Beach 150 m"\n  - "Ri Beach 900 m"\n  - "Vjetër Beach 1.6 km"\n  - "Beach at Government Villas 2.7 km"\n  - "Liro Beach 3.5 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 850 m"\n  - "Kuzum Baba 2.7 km"\n  - "Independence Square 3 km"\nbookingURL: "https://www.booking.com/hotel/al/a-amp-j-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to spacious living, featuring a well-appointed bedroom, a sleek flat-screen TV, and a kitchen equipped with modern amenities including an oven, microwave, washing machine, fridge, and an array of kitchenware. Guests will appreciate the thoughtful inclusion of towels and bed linen, adding a touch of home to this seaside retreat.
 
 Situated a mere 2.3 km from the serene Vjetër Beach and 3.1 km from the historic Kuzum Baba, A & J Apartment invites guests to explore the rich cultural tapestry of Vlorë. Independence Square is also within easy reach, located just 3.3 km away. For those venturing from afar, Tirana International Mother Teresa Airport is 152 km from the property, making A & J Apartment an accessible haven for both local and international visitors.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

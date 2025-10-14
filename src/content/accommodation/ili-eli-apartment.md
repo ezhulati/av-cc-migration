@@ -1,28 +1,5 @@
----
-title: Ili & Eli Apartment
-description: The apartment itself is a haven of comfort, featuring air conditioning for those warm Mediterranean days. It boasts a layout that includes a separate bedroom, a
-featuredImage: "/images/accommodation/481408464.jpg"
-language: en
-slug: ili-eli-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of comfort, featuring air conditioning for those warm Mediterranean days. It boasts a layout that includes a separate bedroom, a cozy living room for relaxation, a fully equipped kitchen for those who enjoy preparing their own meals, and a bathroom. Beyond its well-appointed interiors, guests are treated to delightful city views, adding an urban touch to the natural beauty that surrounds.
+---\ntitle: "Ili & Eli Apartment"\ndescription: "Ili & Eli Apartment emerges as a prime choice for travelers seeking a serene retreat in the heart of Sarandë, just a stone's throw away from the pristine Mango Beach and a leisurely stroll from the scenic Flamingo Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481408464.jpg?k=be70359c305d37836b070e5bae2fcd5090c4adc4511b296e85bf666c33ac5325&o=&hp=1"\nlanguage: en\nslug: ili-eli-apartment\naddress: "Rruga Butrinti, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.85022466\n  lng: 20.02170961\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 6.6\nratingWords: "Average"\nnumberOfReviews: 3\nratings:\n  overall: 6.6\n  location: 6.7\n  cleanliness: 6.7\n  facilities: 5.8\n  value: 6.7\n  comfort: 6.7\n  staff: 6.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481408464.jpg?k=be70359c305d37836b070e5bae2fcd5090c4adc4511b296e85bf666c33ac5325&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481408559.jpg?k=a29fbb9596737b20b0732cf1137d79742325263822f972cb343d63d5addc5f73&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481408564.jpg?k=f4a28ad5f5b3b2b6468aebc31efbcde27e19633d1018eada13a4fc4efb4bba7b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481408536.jpg?k=96da1806a9fcedf20bd359ea4459dbf47d89f90edc98988afaed350743e4f74a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481408579.jpg?k=684a01601939fc72197838f5def3388e48430da02be451ff3f54da63acfc314d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481408540.jpg?k=b69fa18eeeebf987903f9d2430eeed2230ee9290a74e5f18742cae6cefd5b747&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481408569.jpg?k=13d52b204007b0e4b51af93bc2047471ff54ec1c82810a5408194e15590461e6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481408510.jpg?k=36b7e7c4cce464e86a003b37df5d196a76ebfe30360cdffe9ebcb2d67754c9a1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481570349.jpg?k=77ca1d3934b52b6a3cd1cbbf4a4aaa6f3e309203880593b3306a458582c67230&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "River View 100 m"\n  - "Sunrise 250 m"\nnearbyBeaches:\n  - "Mango Beach 100 m"\n  - "Flamingo Beach 450 m"\n  - "Santa Quaranta Beach 850 m"\n  - "VIP Beach 950 m"\n  - "Heaven Beach 1.6 km"\nwhatsNearby:\n  - "Butrint National Park 250 m"\n  - "Parc National de Butrint 1 km"\n  - "Plazhi I Krorezes 6 km"\n  - "Parku Kombetar I Butrintit 9 km"\n  - "Butrint National Park 10 km"\nairports:\n  - "Corfu International Airport 28 km"\n  - "Ioannina Airport 69 km"\nbookingURL: "https://www.booking.com/hotel/al/ili-amp-eli-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of comfort, featuring air conditioning for those warm Mediterranean days. It boasts a layout that includes a separate bedroom, a cozy living room for relaxation, a fully equipped kitchen for those who enjoy preparing their own meals, and a bathroom. Beyond its well-appointed interiors, guests are treated to delightful city views, adding an urban touch to the natural beauty that surrounds.
 
 For those intrigued by history and nature, Ili & Eli Apartment serves as an ideal base, located merely 13 km from the enchanting Butrint National Park. Further afield, the ancient ruins of Fanoti invite exploration, situated 47 km from the apartment, offering a glimpse into the region's rich past.
 
 Accessibility is also a highlight, with Ioannina Airport located 98 km away, making the apartment a convenient option for international travelers. Whether it's the allure of Sarandë's beaches or the call of historical exploration, Ili & Eli Apartment provides a welcoming and strategically located home away from home.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

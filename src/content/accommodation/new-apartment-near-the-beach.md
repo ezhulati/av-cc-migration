@@ -1,28 +1,5 @@
----
-title: New apartment near the beach
-description: Guests will find themselves enveloped in comfort within the spacious confines of the apartment, which features a well-appointed bedroom, a sleek flat-screen TV,
-featuredImage: "/images/accommodation/495452269.jpg"
-language: en
-slug: new-apartment-near-the-beach
-location: ""
-amenities: []
-images: []
----
-
-Guests will find themselves enveloped in comfort within the spacious confines of the apartment, which features a well-appointed bedroom, a sleek flat-screen TV, and a fully equipped kitchen complete with an oven, fridge, washing machine, and stovetop. The inclusion of towels and bed linen adds a touch of home, ensuring a comfortable stay. Additionally, the apartment offers an inviting outdoor dining area, perfect for enjoying meals with a view.
+---\ntitle: "New apartment near the beach"\ndescription: "Discover the charm of Vlorë with a stay at this modern apartment, perfectly positioned just a short stroll from the pristine Vlore Beach and within easy reach of the serene Ri Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495452269.jpg?k=4b627372d62a103a56cf444ff6b4e8ed633f70c71c178fdeff36f97fc7dbeca8&o=&hp=1"\nlanguage: en\nslug: new-apartment-near-the-beach\naddress: "Rruga Shaban Demiraj, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44821068\n  lng: 19.49586229\nprice: "US$59"\npriceFrom: 59\nstarRating: 3\nrating: 7.7\nratingWords: "Good"\nnumberOfReviews: 4\nratings:\n  overall: 7.7\n  location: 8.1\n  cleanliness: 6.3\n  facilities: 6.9\n  value: 8.1\n  comfort: 8.1\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495452269.jpg?k=4b627372d62a103a56cf444ff6b4e8ed633f70c71c178fdeff36f97fc7dbeca8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495452296.jpg?k=4e44298bdaa08c13cddcd98d535cd048a667e885efc7d6e3024fdf49b74d6fae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495452277.jpg?k=9ffb57b5c4eb9e912b4ef9c8fdf800e4ac8186a687caa0fe8929ff5b52834f7b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495452276.jpg?k=0a56f99c82f2cf5c94bba829c3ade8063fd17c5dcb36324acd443fb11e300ad8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495452283.jpg?k=5875c00d6952c8e68f9c6d9cd3ce81444e56fa64b2253cdb649bbd01eb96b6fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475812705.jpg?k=625f292a34c3c5277795800f86858b2635ae00ee387bc650ec6d46f08abedcb9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495452279.jpg?k=466535abb46cdfcaee7b7787586f266084efddf9ac28dfd3fef0ffdbc24e6fd1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475424080.jpg?k=c3dc4b2ad3013cfb936939a7d0da295b9bace60ade9b77ffe317297740934465&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485180115.jpg?k=689f8ce41b5eba9b119c12164a5527b372a2c9546d60aec97781758e12919dac&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyBeaches:\n  - "Vlore Beach 200 m"\n  - "Vjetër Beach 1.3 km"\n  - "Ri Beach 1.4 km"\n  - "Beach at Government Villas 3.2 km"\n  - "Liro Beach 3.9 km"\nbookingURL: "https://www.booking.com/hotel/al/new-apartment-near-the-beach-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests will find themselves enveloped in comfort within the spacious confines of the apartment, which features a well-appointed bedroom, a sleek flat-screen TV, and a fully equipped kitchen complete with an oven, fridge, washing machine, and stovetop. The inclusion of towels and bed linen adds a touch of home, ensuring a comfortable stay. Additionally, the apartment offers an inviting outdoor dining area, perfect for enjoying meals with a view.
 
 For those seeking leisure within the premises, a welcoming bar is conveniently located on-site, offering a selection of refreshments to enjoy after a day of exploring the city's sights.
 
 Situated 152 kilometers from Tirana International Mother Teresa Airport, this apartment stands as an ideal choice for travelers seeking a blend of comfort, convenience, and scenic beauty in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

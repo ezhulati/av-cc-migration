@@ -4,9 +4,18 @@ description: This apartment doesn't just offer a place to stay; it provides a ho
 featuredImage: "/images/accommodation/379806914.jpg"
 language: en
 slug: apartments-11-jovanna-апартаменты-11-джованна
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "Parking"
+  - "Bar"
+  - "Spa"
+  - "Kitchen"
+  - "Balcony"
 ---
 
 This apartment doesn't just offer a place to stay; it provides a home away from home. With its air-conditioned spaces, guests can find solace from the Mediterranean heat. The inclusion of a garden adds a touch of tranquility, allowing visitors to unwind in a serene setting. For those arriving by car, the availability of private parking, albeit at an additional cost, is a convenient perk.
@@ -17,14 +26,3 @@ For those who enjoy a good drink, the on-site bar serves as a cozy spot to unwin
 
 Located 36 km from Tirana International Mother Teresa Airport, Apartments 1+1 Jovanna positions itself as an accessible retreat for both local and international travelers. Whether it's the allure of the nearby beaches or the comfort of a well-equipped apartment, this property promises a memorable stay in the heart of Durrës.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

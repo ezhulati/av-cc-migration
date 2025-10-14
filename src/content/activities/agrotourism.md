@@ -5,6 +5,10 @@ category: Agrotourism
 featuredImage: /images/activities/agrotourism.jpg
 language: en
 slug: agrotourism
+seo:
+  metaTitle: "%term% -  Where Sustainability Meets Local Rural Culture"
+  metaDescription: "Discover Albania's burgeoning agrotourism. Enjoy hands-on activities like olive harvesting and wine-making, while soaking in the scenic beauty of rural Albania."
+  focusKeyword: "agrotourism"
 ---
 
 Discover Albania’s Agritourism Farms
@@ -161,10 +165,3 @@ Plan Your Farmstay
 
 Choose destinations based on regions and interests. Check schedules for grape harvests or cheesemaking. Book early for peak season. Farm visits facilitate deeper connections through hands-on activities and cuisine from seasonal ingredients. It’s a taste of genuine Albania.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

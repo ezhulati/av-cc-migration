@@ -4,9 +4,18 @@ description: Upon entering the apartment, guests are greeted with a thoughtfully
 featuredImage: "/images/accommodation/467131132.jpg"
 language: en
 slug: ak-sea-view-apartament-7
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "Air Conditioning"
+  - "Spa"
+  - "Kitchen"
+  - "Balcony"
+  - "Sea View"
 ---
 
 Upon entering the apartment, guests are greeted with a thoughtfully designed space that includes one bedroom, a fully equipped kitchen, and a bathroom, all enhanced by the luxury of air conditioning. The addition of a balcony allows for uninterrupted views of the sea, providing a serene backdrop for morning coffees or evening relaxation.
@@ -17,14 +26,3 @@ Explorers eager to venture beyond the comfort of their apartment will find the D
 
 A&K Sea View Apartment 7 stands out as a stellar accommodation choice, providing the perfect mix of location, amenities, and services to ensure a memorable stay in Durrës.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

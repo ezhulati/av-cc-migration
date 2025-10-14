@@ -1,15 +1,4 @@
----
-title: Herges Hotel
-description: The hotel prides itself on offering air-conditioned accommodations with complimentary WiFi access. Each room, designed with the guest's comfort in mind, include
-featuredImage: "/images/accommodation/67300335.jpg"
-language: en
-slug: herges-hotel
-location: ""
-amenities: []
-images: []
----
-
-The hotel prides itself on offering air-conditioned accommodations with complimentary WiFi access. Each room, designed with the guest's comfort in mind, includes a private bathroom stocked with free toiletries, ensuring a stay that combines both luxury and practicality. For those who appreciate a view, select rooms offer cityscapes that can be enjoyed from the privacy of a balcony, adding a touch of elegance to the stay.
+---\ntitle: "Herges Hotel"\ndescription: "Herges Hotel, located a mere 1."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67300335.jpg?k=b887a62e2945ab8005da0872c6a1992cc87faee1772522dc217eab54d05c3e67&o=&hp=1"\nlanguage: en\nslug: herges-hotel\naddress: "Rruga Lazer Murati, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.32308301\n  lng: 19.47098672\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 8.7\nratingWords: "Very Good"\nnumberOfReviews: 154\nratings:\n  overall: 8.7\n  location: 7\n  cleanliness: 9.1\n  facilities: 8.5\n  value: 9\n  comfort: 8.9\n  staff: 9.3\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67300335.jpg?k=b887a62e2945ab8005da0872c6a1992cc87faee1772522dc217eab54d05c3e67&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/103612210.jpg?k=46d9c01e441a66a8c3375bafb04bc557ee0335f9abcee7ba9d4286fd73ea8214&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67393063.jpg?k=b88e087c4147036b09d72b13d4221205ca90f6ac76b81a473886eb9720eba101&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/143470692.jpg?k=f87214710adcbaa46411ac10a6e374dac89ceb1b678001f196451abc83f5dbbe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/103617817.jpg?k=05a92e832abd14c8104f5db8074d6ba2b368cb118bd76728e8c43ce5a3fab9d6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/103611827.jpg?k=ac13d33026c9d55c1bd6d802b15a84dc6f73fe4b3a8f1597b85a63f64bb54364&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Deluxe Room"\n  - "Triple Room"\n  - "Comfort Quadruple Room"\nnearbyRestaurants:\n  - "Bar Milano 350 m"\n  - "Kleo 400 m"\nnearbyBeaches:\n  - "Durres Beach 900 m"\n  - "Currila Beach 2.7 km"\n  - "Kallmi Beach 3.3 km"\n  - "West End Beach 4.1 km"\n  - "Shkëmbi i Kavajës Beach 5 km"\nwhatsNearby:\n  - "Bekimi 850 m"\n  - "Sheshi Demokracia 2 km"\n  - "Wine Dhe Pooh 2 km"\n  - "Sotir Noka 2.1 km"\n  - "Yje Dhe Hena 2.1 km"\n  - "Durres Amphiteatre 2.5 km"\n  - "1. Maj 2.7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Bartosz"\n    country: "Poland"\n    text: "“We had the fantastic 6 night stay in Herges Hotel. Comfortable beds, tasty breakfasts, magic omlettes, good coffee. The location is perfect - just 5 minutes to the beach and markets by feet. Big salute for Oliger - amazing service, very helpful...”"\n  - name: "Merima"\n    country: "Bosnia and Herzegovina"\n    text: "“The staff was very kind and helpful and friendly. Breakfast was delicious, nice restaurant, fresh food. The room was big, comfortable and so clean and beautiful. The hotel was great. All best!”"\n  - name: "Said"\n    country: "Serbia"\n    text: "“Enson the guy working at the reception was very kind. greetings for him and the woman who works in the restaurant. all recommendations for this hotel”"\nbookingURL: "https://www.booking.com/hotel/al/herges.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe hotel prides itself on offering air-conditioned accommodations with complimentary WiFi access. Each room, designed with the guest's comfort in mind, includes a private bathroom stocked with free toiletries, ensuring a stay that combines both luxury and practicality. For those who appreciate a view, select rooms offer cityscapes that can be enjoyed from the privacy of a balcony, adding a touch of elegance to the stay.
 
 Entertainment and connectivity are guaranteed with the inclusion of flat-screen TVs in all guest rooms, making downtime enjoyable after a day of exploring the city. The hotel's commitment to convenience is further highlighted by its room service, a 24-hour front desk, and currency exchange services, catering to guests' needs at any hour.
 
@@ -18,15 +7,3 @@ Morning risers are greeted with a diverse breakfast selection, ranging from buff
 Situated 36 km from Skanderbeg Square and 39 km from the Dajti Ekspres Cable Car, the hotel's location offers an excellent base for exploring the local attractions. Moreover, its proximity to Tirana International Mother Teresa Airport, just 30 km away, makes it an ideal choice for both international visitors and those on the go.
 
 In summary, Herges Hotel emerges as a top contender for guests seeking a blend of relaxation, convenience, and attentive service in the heart of Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

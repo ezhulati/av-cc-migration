@@ -1,28 +1,5 @@
----
-title: Sea View Studio Apartment Golem
-description: Guests are welcomed into a space where convenience meets comfort, with the apartment boasting a breezy balcony that invites relaxation at any time of day. The i
-featuredImage: "/images/accommodation/469647290.jpg"
-language: en
-slug: sea-view-studio-apartment-golem
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into a space where convenience meets comfort, with the apartment boasting a breezy balcony that invites relaxation at any time of day. The interior is thoughtfully designed with modern living in mind, featuring air conditioning for those warm Mediterranean days, a fully equipped kitchen for home-cooked meals, and a flat-screen TV for entertainment.
+---\ntitle: "Sea View Studio Apartment Golem"\ndescription: "Sea View Studio Apartment Golem emerges as a prime choice for travelers seeking a serene getaway, located just a stone's throw away from the pristine shores of Golem Beach and within easy walking distance of Qerret Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469647290.jpg?k=39b8df7a59156bc9ef3304865c5c8e7a7f6610c35c93447662f1e5f44af3f0d5&o=&hp=1"\nlanguage: en\nslug: sea-view-studio-apartment-golem\naddress: "Rruga Bulevardi i Pishave, 1001 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.23922713\n  lng: 19.51783684\nprice: "US$58"\npriceFrom: 58\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469647290.jpg?k=39b8df7a59156bc9ef3304865c5c8e7a7f6610c35c93447662f1e5f44af3f0d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469869068.jpg?k=4dc3f71df6b46edea22c7fee431f6edfbe06519331509fd15351caa6bf247cef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469868978.jpg?k=6d6cf0e65255668c3f3609adf05f4dd1a2be8759f61ae0dcc6df14b9ea6ecb2a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469647300.jpg?k=af30312a068c96a0975ff4d64bad71fa55daf0fab7f079f439b2fbb8868c81eb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469869492.jpg?k=fdf2f8d881374c0afb2b0d465312f5ce658d39b1575721eaf4b14fbb4a593f77&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469694157.jpg?k=5ca94587d1b7ef9ad19976db6166a102bb316877d5e4c4687cca78ba660f047f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469647293.jpg?k=4c48b1bb7da55aa67825a246715601a237e9eb4bf3ec855a4c823ee5b77372c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469869165.jpg?k=459e71e9dc3cde9e54afd6967b9dea0ae4d8bda23894c2577d258d6ac22de2f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469869284.jpg?k=8aa490cb7b424a14f998ff9d3feb5016a5dcfb81152dadec2d03e1d443aab0a3&o=&hp=1"\namenities:\n  - "Free parking"\nroomTypes:\n  - "Studio Apartment with Sea View"\nnearbyRestaurants:\n  - "Beer House Golem 20 m"\n  - "El Sabor Restauran 50 m"\nnearbyBeaches:\n  - "Mali I Robit Beach 100 m"\n  - "Golem Beach 950 m"\n  - "Qerret Beach 1.1 km"\n  - "Shkëmbi i Kavajës Beach 2.9 km"\n  - "Durres Beach 5 km"\nwhatsNearby:\n  - "Durres Amphiteatre 10 km"\n  - "1. Maj 10 km"\n  - "Wine Dhe Pooh 10 km"\n  - "Yje Dhe Hena 10 km"\n  - "Bekimi 10 km"\n  - "Sheshi Demokracia 11 km"\n  - "Sotir Noka 11 km"\nairports:\n  - "Tirana International Airport Mother Teresa 24 km"\nbookingURL: "https://www.booking.com/hotel/al/sea-view-apartment-golem-durres1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into a space where convenience meets comfort, with the apartment boasting a breezy balcony that invites relaxation at any time of day. The interior is thoughtfully designed with modern living in mind, featuring air conditioning for those warm Mediterranean days, a fully equipped kitchen for home-cooked meals, and a flat-screen TV for entertainment.
 
 For those interested in exploring the rich history and culture of the area, the House of Leaves and Rinia Park are both located 47 km away, offering a glimpse into the country's past and present. Additionally, the convenience of being just 41 km from Tirana International Mother Teresa Airport makes Sea View Studio Apartment Golem an attractive option for international travelers.
 
 Positioned a mere 100 meters from the tranquil Mali I Robit Beach, this property ensures a stay that is both refreshing and rejuvenating, making it an ideal spot for those looking to unwind by the sea.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

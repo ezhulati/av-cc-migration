@@ -1,26 +1,3 @@
----
-title: The Lake Houses
-description: Each air-conditioned unit within the villa is meticulously appointed with a private bathroom, a flat-screen TV for entertainment, a fully equipped kitchen for t
-featuredImage: "/images/accommodation/477057860.jpg"
-language: en
-slug: the-lake-houses
-location: ""
-amenities: []
-images: []
----
-
-Each air-conditioned unit within the villa is meticulously appointed with a private bathroom, a flat-screen TV for entertainment, a fully equipped kitchen for those who love to cook, and a terrace that offers a space to unwind. The property is enveloped by a lush garden, inviting guests to relax in a tranquil outdoor setting.
+---\ntitle: "The Lake Houses"\ndescription: "The Lake Houses in Shirokë presents an exclusive retreat with its own private pool, ensuring a serene and private experience for guests."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477057860.jpg?k=db02f5d419bfed324c2e2325d4a5ba66e5c8299a486fe85706dc88c000487d7c&o=&hp=1"\nlanguage: en\nslug: the-lake-houses\naddress: "Rruga Zogaj, 1000 Shirokë, Albania"\ncity: "Shirokë"\nlocation: "Shirokë"\naccommodationType: "villa"\ncoordinates:\n  lat: 42.06319723\n  lng: 19.43860171\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477057860.jpg?k=db02f5d419bfed324c2e2325d4a5ba66e5c8299a486fe85706dc88c000487d7c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477057523.jpg?k=23cac7df97fde4127a4981a6afcbcd15882533461e11da3cd0264dfedb405ae6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477057289.jpg?k=30ec38e5366f08ece8afcbf6638c83c19c75b7185f77b681cb53b029fa4eef77&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477057249.jpg?k=b6d0df9c888197ff57d1d7bcf8ae175a5c85ed510e3036a393dadb801e676f8a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477057122.jpg?k=bb9118ab9618c38024eddd57660f44528075cd28f28b474c0d0673e1db21d072&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477057571.jpg?k=9b04b3818dd8d03259a712b6e29e93676b33cf2d0e3342e6f8b8b1b505b634a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477057667.jpg?k=77d545403b6d0f25a8fa810f005cfea2adaf3cc0021b2af5ed730df59e434f04&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477057015.jpg?k=f19fc69a25e1f309c3f002ed8539ad4cbba1f1697ca01023e569437ac0a4918e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477057101.jpg?k=f1c4f8ef9ca41b789f6b9784ae5b053b8bfe479de62d86b724905ce3fc7993b8&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Restorant Real 300 m"\n  - "Taverna Shkodrane 900 m"\nwhatsNearby:\n  - "National Park Skadar Lake 4.4 km"\n  - "Rozafa Castle Shkodra 4.9 km"\nairports:\n  - "Podgorica Airport 35 km"\n  - "Tivat Airport 69 km"\n  - "Tirana International Airport Mother Teresa 74 km"\nbookingURL: "https://www.booking.com/hotel/al/the-lake-houses-shiroka1.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nEach air-conditioned unit within the villa is meticulously appointed with a private bathroom, a flat-screen TV for entertainment, a fully equipped kitchen for those who love to cook, and a terrace that offers a space to unwind. The property is enveloped by a lush garden, inviting guests to relax in a tranquil outdoor setting.
 
 Located a mere 67 km from Podgorica Airport, The Lake Houses offers a blend of convenience and luxury, making it an ideal choice for travelers seeking a peaceful escape in Shirokë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

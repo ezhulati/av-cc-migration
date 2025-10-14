@@ -1,28 +1,7 @@
----
-title: Hotel Pernoca
-description: Each room at Hotel Pernoca is thoughtfully equipped with satellite TV and a desk, catering to both leisure and business travelers. The attention to detail exten
-featuredImage: "/images/accommodation/366741596.jpg"
-language: en
-slug: hotel-pernoca
-location: ""
-amenities: []
-images: []
----
-
-Each room at Hotel Pernoca is thoughtfully equipped with satellite TV and a desk, catering to both leisure and business travelers. The attention to detail extends to the private bathrooms, which are outfitted with showers, hairdryers, bidets, and complimentary toiletries, adding a touch of home-like comfort to the guest experience.
+---\ntitle: "Hotel Pernoca"\ndescription: "Hotel Pernoca emerges as a distinguished choice for travelers seeking comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366741596.jpg?k=22458a3218fda3f4e32a2fdde5e464c2719b2a53e7c3b1121c332ceb332daa48&o=&hp=1"\nlanguage: en\nslug: hotel-pernoca\naddress: "Rruga Aleksander Goga Lagjia, 8, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.3310613\n  lng: 19.44528714\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 74\nratings:\n  overall: 8.4\n  location: 7.3\n  cleanliness: 8.8\n  facilities: 8.5\n  value: 8.9\n  comfort: 8.8\n  staff: 8.7\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366741596.jpg?k=22458a3218fda3f4e32a2fdde5e464c2719b2a53e7c3b1121c332ceb332daa48&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366741604.jpg?k=c5d7975cdaa70a088dfe09a1011e021c2f9829d059ea0df044be4910ed8aaf13&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366741589.jpg?k=419959c184dc26712c23c29ba4f846af341b09310e4a5bc1aa781bb7729cf134&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366741598.jpg?k=d599daa3908a2b68deffc9434e7cd1afcfd2bfc2e2f2804d730ec420a64c68b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366741592.jpg?k=e39bfd2cee61b60cd4080d29149cd0ff80027318895ee6acf019643f9fc7be4b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366741583.jpg?k=0e8c7a70f295cf1583dede6077c9ab952de54574b0d2aff880b54a8e9800b9d1&o=&hp=1"\namenities:\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\nroomTypes:\n  - "Double Room with Private Bathroom"\n  - "Double Room with Private Bathroom"\n  - "Double Room with Private Bathroom"\nnearbyBeaches:\n  - "Kallmi Beach 1.7 km"\n  - "Currila Beach 1.9 km"\n  - "West End Beach 2 km"\n  - "Durres Beach 2.6 km"\n  - "Ohana Beach 6 km"\nreviews:\n  - name: "Xavi"\n    country: "Germany"\n    text: "“Unexpectedly clean and nice hotel room. Full equipped room with fridge, hair drier, TV, nice bathroom and amazingly comfy beds.
+There is a supermarket 1 min walking, and the bar is open from early in the morning for your daily coffee.”"\n  - name: "Robert"\n    country: "Italy"\n    text: "“Modern, recently furnished comfortable room and bathroom. They gave us free coffee for breakfast from the bar below the hotel, and the staff were very pleasant. Not very cental, but does have free parking off the street, and is ideal if you need...”"\n  - name: "Antonio"\n    country: "Italy"\n    text: "“Everything fine as per description.
+Very good value for money.”"\nbookingURL: "https://www.booking.com/hotel/al/pernoca.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach room at Hotel Pernoca is thoughtfully equipped with satellite TV and a desk, catering to both leisure and business travelers. The attention to detail extends to the private bathrooms, which are outfitted with showers, hairdryers, bidets, and complimentary toiletries, adding a touch of home-like comfort to the guest experience.
 
 Beyond the rooms, Hotel Pernoca boasts a welcoming bar and a shared lounge, perfect for unwinding after a day of exploration. For those looking to explore the local area or venture further afield, the hotel offers the convenience of on-site car hire, along with the benefit of free parking.
 
 A stone's throw away, the historic Durrës Amphitheatre awaits at a mere 2 km distance, inviting guests to immerse themselves in the rich tapestry of the region's history. For those traveling to or from the international stage, Tirana International Airport is located 33 km from the hotel, making Hotel Pernoca an ideal gateway for international travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

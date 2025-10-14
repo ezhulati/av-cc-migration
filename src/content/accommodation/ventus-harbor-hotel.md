@@ -1,28 +1,10 @@
----
-title: Ventus Harbor Hotel
-description: The hotel's guest rooms, each boasting air-conditioning and complimentary WiFi, are designed with the modern traveler in mind. The allure of the sea is ever-pre
-featuredImage: "/images/accommodation/106504217.jpg"
-language: en
-slug: ventus-harbor-hotel
-location: ""
-amenities: []
-images: []
----
-
-The hotel's guest rooms, each boasting air-conditioning and complimentary WiFi, are designed with the modern traveler in mind. The allure of the sea is ever-present, with rooms offering serene views that promise a tranquil backdrop to your stay. Convenience meets luxury in each space, equipped with a flat-screen satellite TV, a desk for any work or planning needs, and a private bathroom that includes either a bath or a shower, alongside a hairdryer for guest use.
+---\ntitle: "Ventus Harbor Hotel"\ndescription: "Ventus Harbor Hotel emerges as a distinguished destination for travelers seeking a blend of comfort and culture in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106504217.jpg?k=bd8e0d955b41215770d3fe926f9799e9256128450136b0fde57f04414fca28c3&o=&hp=1"\nlanguage: en\nslug: ventus-harbor-hotel\naddress: "Rruga Taulantia, Lagjia 1, 1010 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.30881858\n  lng: 19.43907179\nprice: "US$75"\npriceFrom: 75\nstarRating: 4\nrating: 8.6\nratingWords: "Very Good"\nnumberOfReviews: 430\nratings:\n  overall: 8.6\n  location: 9.4\n  cleanliness: 8.3\n  facilities: 7.9\n  value: 8.2\n  comfort: 8.4\n  staff: 9\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106504217.jpg?k=bd8e0d955b41215770d3fe926f9799e9256128450136b0fde57f04414fca28c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105503105.jpg?k=d9546ec9b667284e7dc8767c18223f6670784cfdc7eda5355b2e352ec904ee52&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105503101.jpg?k=64e780774a74cc8b32d5fceacb534f28878b544f4c6db406b99b022838cc4e4a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/164155496.jpg?k=092972fcec98e63733b25a096ece0e46e6ce57c65f311ba2714e0389197de336&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106503411.jpg?k=9d586c85b0a24b0b85bba2ce7eb8dc61ad1d1cf085c6b4164a59306a6e5c9fd0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105503075.jpg?k=db698dd2efe26e9c38da835377ab87c84537415f5def5571cbb358fd0b27b203&o=&hp=1"\namenities:\n  - "Indoor swimming pool"\n  - "Airport shuttle"\n  - "Fitness centre"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Good breakfast"\nroomTypes:\n  - "Double Room with Balcony and Sea View"\n  - "Standard Triple Room with Sea View"\nnearbyRestaurants:\n  - "The Wall 2 200 m"\n  - "Bar Restorant Piceri Troplini 200 m"\nnearbyBeaches:\n  - "Currila Beach 150 m"\n  - "Kallmi Beach 1.2 km"\n  - "West End Beach 2.3 km"\n  - "Durres Beach 2.5 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nwhatsNearby:\n  - "1. Maj 450 m"\n  - "Durres Amphiteatre 650 m"\n  - "Yje Dhe Hena 1.1 km"\n  - "Wine Dhe Pooh 1.1 km"\n  - "Sheshi Demokracia 1.2 km"\n  - "Sotir Noka 1.5 km"\n  - "Bekimi 3.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Stacey"\n    country: "United Kingdom"\n    text: "“Amazing location, couldn’t beat the views. Was like being in the Maldives, out on the water like that”"\n  - name: "Arafath"\n    country: "United Kingdom"\n    text: "“Dream stay in the hotel at sea. The sound of the sea and the views are exceptional.”"\n  - name: "Ondřej"\n    country: "Czech Republic"\n    text: "“Very original accommodation.
+Great enjoyment.
+Nice and cozy room with spacious bathroom.
+Really lovely terrace with spectacular view of the sea and the city.
+Super friendly staff helpful with everything.
+Great and tasty breakfast with fresh...”"\nbookingURL: "https://www.booking.com/hotel/al/ventus-harbor-durres.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe hotel's guest rooms, each boasting air-conditioning and complimentary WiFi, are designed with the modern traveler in mind. The allure of the sea is ever-present, with rooms offering serene views that promise a tranquil backdrop to your stay. Convenience meets luxury in each space, equipped with a flat-screen satellite TV, a desk for any work or planning needs, and a private bathroom that includes either a bath or a shower, alongside a hairdryer for guest use.
 
 Morning at Ventus Harbor Hotel begins with a continental breakfast, setting the tone for a day of exploration or relaxation. For those seeking rejuvenation, the hotel's spa facilities stand ready to pamper, featuring a wellness and fitness center designed to cater to all levels of fitness and relaxation needs.
 
 Just a short stroll away, the historic Durres Amphitheatre awaits at 600 meters from the hotel, offering a glimpse into the rich tapestry of the area's past. For guests arriving by air, Tirana Airport is conveniently located 34 km away, making Ventus Harbor Hotel an accessible gateway to the charms of Durrës and beyond.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

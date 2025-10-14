@@ -1,28 +1,7 @@
----
-title: Sandri Apartment
-description: Guests are welcomed into a generously sized apartment that opens up to breathtaking balcony views of the city. The living space is thoughtfully designed with tw
-featuredImage: "/images/accommodation/260977473.jpg"
-language: en
-slug: sandri-apartment
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Sandri Apartment"\ndescription: "Sandri Apartment stands as a prime beachfront gem in Himare, boasting an enviable location just 60 meters from the serene Spille Beach and a short stroll from the picturesque Maracit Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260977473.jpg?k=5b8e9fd4aa3fe4e3374c51bbfe5e8943b595d2f9b503868bd41a195784202165&o=&hp=1"\nlanguage: en\nslug: sandri-apartment\naddress: "20 SH8, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.10180435\n  lng: 19.74393072\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 19\nratings:\n  overall: 8.5\n  location: 9.7\n  cleanliness: 8.3\n  facilities: 8.7\n  value: 8.3\n  comfort: 8.6\n  staff: 8.7\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260977473.jpg?k=5b8e9fd4aa3fe4e3374c51bbfe5e8943b595d2f9b503868bd41a195784202165&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260983030.jpg?k=529880a69599b6c4ad0aaf0f43d2105425809c598f99ad45ec9029b73bb79f9c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260980237.jpg?k=52b49f30b47747192957be4f087a421a9bae7011232aa98640cacb62acd6dcdf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/261142341.jpg?k=d1cbc1462edc2efedf4e1f2720f71310eb6ddddda0c9ab3309240ca88d1e329b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304378562.jpg?k=92fdc155003f3aecc4c42cae5a86ccc8c35acf8408ba2f8c278d5c2a23fff990&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/261219943.jpg?k=b242ab0788617f8be1ca0c5a72a9d4a3b1d397ffe62c0a94b972bb274945ee6f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304378974.jpg?k=6e049c61558aed23eea4b84aab8fcc57e10732093ca5000f581881a73d8a7427&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304378876.jpg?k=3958e6d9f02d08fbe14f7c14c13cf3b7d3043f21401157392d069608c1431f59&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304378812.jpg?k=c1df35e5f1c29fc823b6ded1a47324b5a9ecc6d60c58e7c4be7411c3f07ed697&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304378643.jpg?k=bd7eb7dc2b02920c0636774096dc68f22d7eabf094c650b499c3799fa6661bc3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304378485.jpg?k=afdd2cd7f18ad658f61e4e82eee6503369243da88137e087ad19941b28e77474&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304379040.jpg?k=563d538ef2354aea871ac6e6bc5dee4c2f575ebb5bfb18afbe1987081540a0c2&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Manolo's 40 m"\n  - "Pit & Pan 50 m"\nnearbyBeaches:\n  - "Spille Beach 50 m"\n  - "Maracit Beach 450 m"\n  - "Prinos Beach 700 m"\n  - "Potam Beach 1.1 km"\n  - "Livadhi Beach 1.1 km"\nwhatsNearby:\n  - "Llogora National Park 16 km"\nairports:\n  - "Corfu International Airport 56 km"\nreviews:\n  - name: "Alisa"\n    country: "Albania"\n    text: "“We were two couples
+Very good location
+We enjoyed”"\n  - name: "H_veronika"\n    country: "Slovakia"\n    text: "“Near the sea, near the center. Around shops, bars and restaurants.”"\n  - name: "Federica"\n    country: "Italy"\n    text: "“Everything! I loved it so much I would buy that apartment!”"\nbookingURL: "https://www.booking.com/hotel/al/apartament-sandri.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into a generously sized apartment that opens up to breathtaking balcony views of the city. The living space is thoughtfully designed with two bedrooms, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen featuring a dishwasher and an oven, ensuring a home-away-from-home experience. The inclusion of a private bathroom with a shower and a private entrance to the apartment adds an extra layer of privacy and comfort.
 
-Guests are welcomed into a generously sized apartment that opens up to breathtaking balcony views of the city. The living space is thoughtfully designed with two bedrooms, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen featuring a dishwasher and an oven, ensuring a home-away-from-home experience. The inclusion of a private bathroom with a shower and a private entrance to the apartment adds an extra layer of privacy and comfort.
-
-For those with a penchant for outdoor adventures, the area surrounding Sandri Apartment is a haven for skiing and fishing enthusiasts. The convenience of on-site ski equipment hire further enhances the appeal for active guests.
+For those with a penchant for outdoor adventures, the area surrounding Sandri Apartment is a haven for skiing and fishing enthusiasts. The convenience of on-site ski equipment hire further enhances the appeal for active guests. 
 
 Located less than 1 km from the tranquil Prinos Beach and 143 km from Ioannina Airport, Sandri Apartment offers an ideal retreat for travelers seeking a blend of relaxation and adventure in the heart of Himare.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

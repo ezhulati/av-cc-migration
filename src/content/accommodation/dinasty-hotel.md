@@ -1,34 +1,7 @@
----
-title: Dinasty Hotel
-description: Each room at Dinasty Hotel is thoughtfully equipped with modern amenities including an LCD satellite TV, a private bathroom, and complimentary Wi-Fi, ensuring a
-featuredImage: "/images/accommodation/65087670.jpg"
-language: en
-slug: dinasty-hotel
-location: ""
-amenities: []
-images: []
----
-
-Each room at Dinasty Hotel is thoughtfully equipped with modern amenities including an LCD satellite TV, a private bathroom, and complimentary Wi-Fi, ensuring a seamless and comfortable experience. For those desiring a bit more luxury, the suites offer a patio that presents serene views of the nearby Tirana Park, perfect for a tranquil retreat.
+---\ntitle: "Dinasty Hotel"\ndescription: "Discover the charm of Dinasty Hotel, a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/65087670.jpg?k=a76b38efaafb6332ecd41f79931a3dde0a1ed66e0cb33d5350ced278b2cb9688&o=&hp=1"\nlanguage: en\nslug: dinasty-hotel\naddress: "Rruga e Kosovarëve, 1019 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.31506162\n  lng: 19.81276318\nprice: "US$75"\npriceFrom: 75\nstarRating: 4\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 143\nratings:\n  overall: 9.4\n  location: 9.2\n  cleanliness: 9.5\n  facilities: 9.2\n  value: 9.2\n  comfort: 9.4\n  staff: 9.7\n  wifi: 9.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/65087670.jpg?k=a76b38efaafb6332ecd41f79931a3dde0a1ed66e0cb33d5350ced278b2cb9688&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484528229.jpg?k=0a975e2c089a64a3a33772ffb580c28d322ad7aee7f2e1f7f08d90bb4f3194f4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483928879.jpg?k=ad35a3f768366914819619851002e9f0d0d7e577ab256e3a7fc6e7f1506e0c25&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/65097885.jpg?k=8a7bf274befd7242a0f5549af701271fac66631912c99e66466daf1e623a3f02&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484515493.jpg?k=e1a0f0e560d4cc06b432d3e808343180add5b589179794ab2c6b86aab83a2c63&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/65131140.jpg?k=8c0eaf638fc14748a659ffe938ce1200733154936f40c4283f0cb12ba8a3334b&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Superb breakfast"\nroomTypes:\n  - "Standard Single Room"\n  - "Superior Double Room"\n  - "Superior Double Room"\n  - "Superior Twin Room"\n  - "Suite"\n  - "Triple Room"\n  - "Comfort Triple Room"\n  - "Family Room"\nnearbyAttractions:\n  - "House of Leaves 1.3 km"\n  - "National Gallery of Arts Tirana 1.4 km"\n  - "Skanderbeg Square 1.5 km"\n  - "Clock Tower Tirana 1.5 km"\n  - "National Museum of History Albania 1.6 km"\n  - "Tanners' Bridge 1.7 km"\n  - "Bunk'Art 1 Museum 6 km"\nnearbyRestaurants:\n  - "Fraterie 50 m"\n  - "Confusion 100 m"\nwhatsNearby:\n  - "Parku I Madh I Tiranës (Grand Park) 300 m"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 400 m"\n  - "Sheshi Rekreativ Komuna e Parisit 500 m"\n  - "Shesh Rekreativ 750 m"\n  - "Former Residence of Enver Hoxha 750 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 800 m"\n  - "Sheshi Rekreativ tek Arena Kombëtare 1.1 km"\n  - "Grand Park of Tirana 1.1 km"\n  - "Rinia Park 1.2 km"\n  - "Sheshi Rekreativ Piramida 1.2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Ruth"\n    country: "United Kingdom"\n    text: "“Location within walking distance of city centre. Beautiful rooms and comfortable bed. Breakfast was varied and tasty.”"\n  - name: "Colin"\n    country: "United Kingdom"\n    text: "“All aspects of the hotel - the room, the staff, the food, the location. It is the perfect hotel run by the perfect host”"\n  - name: "Graham"\n    country: "Australia"\n    text: "“The staff were exceptional and the breakfast outstanding”"\nbookingURL: "https://www.booking.com/hotel/al/dinasty-rezidence.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach room at Dinasty Hotel is thoughtfully equipped with modern amenities including an LCD satellite TV, a private bathroom, and complimentary Wi-Fi, ensuring a seamless and comfortable experience. For those desiring a bit more luxury, the suites offer a patio that presents serene views of the nearby Tirana Park, perfect for a tranquil retreat.
 
 Culinary delights await at The Tavern Restaurant, where guests can savor traditional Albanian specialties alongside international dishes, all prepared with a contemporary twist. The morning starts on a high note with a diverse breakfast buffet, setting the tone for the day ahead.
 
 Located just a 15-minute walk from the iconic Skanderbeg Square and close to the intriguing Piramida, the hotel serves as an ideal base for exploring the city's rich history and culture. The National Art Gallery, a mere kilometer away, offers a deep dive into the artistic heritage of the region. For those looking to venture further, the hotel provides a reasonably priced shuttle service to Tirana International Airport, ensuring a hassle-free connection to your next destination.
 
 In summary, Dinasty Hotel offers a blend of traditional hospitality, modern comforts, and a strategic location, making it a compelling choice for visitors to Tirana.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Traditional GuestHouse Permet
-description: "Accommodations at Traditional GuestHouse Permet are thoughtfully designed, featuring work desks for those needing to stay connected."
-featuredImage: "/images/accommodation/449562834.jpg"
-language: en
-slug: traditional-guesthouse-permet
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Traditional GuestHouse Permet are thoughtfully designed, featuring work desks for those needing to stay connected. The option to have wine or champagne, fruits, and chocolates or cookies delivered directly to rooms adds a touch of luxury to the stay. Moreover, each unit is well-appointed with essential toiletries and a smartphone, ensuring a comfortable and convenient experience for all guests.
+---\ntitle: "Traditional GuestHouse Permet"\ndescription: "Traditional GuestHouse Permet emerges as a charming choice for travelers seeking a blend of comfort and convenience in Përmet."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449562834.jpg?k=ae08231c3b8352356ba90e95a94ef361f34743bb0db8a637ebfc3581dd01f7c1&o=&hp=1"\nlanguage: en\nslug: traditional-guesthouse-permet\naddress: "Bual, Albania Lagje golemas, 6400 Përmet, Albania"\ncity: "Përmet"\nlocation: "Përmet"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.25223707\n  lng: 20.29958817\nprice: "US$30"\npriceFrom: 30\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 241\nratings:\n  overall: 9.2\n  location: 9.3\n  cleanliness: 9.4\n  facilities: 9.1\n  value: 9.7\n  comfort: 9.4\n  staff: 9.9\n  wifi: 7.9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449562834.jpg?k=ae08231c3b8352356ba90e95a94ef361f34743bb0db8a637ebfc3581dd01f7c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/393878309.jpg?k=2adb457a0a19110f958a3ebf37a6a93893087c27793ef759a6cd1063856bfc3b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262817393.jpg?k=268e0ac51d8122e30215f4b8bbc9f276b685bbc65c72452f5e5a5d5f05f26aee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262817114.jpg?k=5e55188415d75b0fbfd001846be4a511d6f565409547a594a0c6b83f2a0170be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/341897169.jpg?k=94a610d4df72053139a204e13959cf285a08581d895fbb6420c23c6332b7bd25&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302155018.jpg?k=48d3673aa657e8267e607847d73c15d52f1d820fa4ee1228ea3cc1d3d264265c&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\nroomTypes:\n  - "Twin Room with View"\n  - "Standard Twin Room with Mountain View"\n  - "Classic Quadruple Room"\n  - "Economy Triple Room with Shared Bathroom"\nnearbyRestaurants:\n  - "Restorant Aroma 3.1 km"\n  - "Krenar Nurce Homemade Jam 4.3 km"\nwhatsNearby:\n  - "Fir of Hotova National Park 17 km"\nairports:\n  - "Ioannina Airport 75 km"\n  - "Corfu International Airport 78 km"\n  - "Kastoria National Airport 85 km"\nreviews:\n  - name: "Sara"\n    country: "France"\n    text: "“We've had a fantastic stay at Permet Traditional Guesthouse! The house is absolutely stunning, and the view is absolutely breathtaking. Breakfasts and dinners were delicious. We highly recommend spending multiple days :)”"\n  - name: "Rosa"\n    country: "Germany"\n    text: "“extremely good home-prepared food, lovely hosts, super nice house”"\n  - name: "Rolf"\n    country: "Sweden"\n    text: "“Very nice genuine place. Beautifully renovated building, nice company on the place. Place to resrestregthen your soul.”"\nbookingURL: "https://www.booking.com/hotel/al/cullufe.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Traditional GuestHouse Permet are thoughtfully designed, featuring work desks for those needing to stay connected. The option to have wine or champagne, fruits, and chocolates or cookies delivered directly to rooms adds a touch of luxury to the stay. Moreover, each unit is well-appointed with essential toiletries and a smartphone, ensuring a comfortable and convenient experience for all guests.
 
 For those keen on exploring the outdoors, the guest house offers easy access to hiking and walking tours, allowing guests to immerse themselves in the natural beauty of the surrounding area. The meticulously maintained garden provides an ideal setting for a leisurely stroll or a moment of reflection.
 
 Situated 96 km from Ioannina Airport, Traditional GuestHouse Permet presents an appealing option for both leisure and adventure seekers, promising an unforgettable stay in the heart of Përmet.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

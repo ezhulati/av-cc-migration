@@ -1,28 +1,8 @@
----
-title: Vila Marina apartments
-description: Each apartment at Vila Marina is designed with guest comfort in mind, featuring air-conditioned spaces complemented by a private balcony. The convenience of fre
-featuredImage: "/images/accommodation/255357571.jpg"
-language: en
-slug: vila-marina-apartments
-location: ""
-amenities: []
-images: []
----
-
-Each apartment at Vila Marina is designed with guest comfort in mind, featuring air-conditioned spaces complemented by a private balcony. The convenience of free WiFi and the luxury of a fully equipped kitchen, complete with a dining table, allow guests to feel right at home. Entertainment is readily available through the flat-screen TV with cable channels, and the private bathroom comes equipped with a walk-in shower and complimentary slippers, adding a touch of home comfort. Storage needs are met with the inclusion of a wardrobe in each unit.
+---\ntitle: "Vila Marina apartments"\ndescription: "Vila Marina Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Saranda."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/255357571.jpg?k=46387d36fd3acac003109a851bcf42619de243b8c0dd4e559f8c568ff83a7566&o=&hp=1"\nlanguage: en\nslug: vila-marina-apartments\naddress: "Rruga Idriz Alidhima, 9702 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87511592\n  lng: 19.98800883\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 212\nratings:\n  overall: 9\n  location: 8.3\n  cleanliness: 9.5\n  facilities: 9.2\n  value: 9.6\n  comfort: 9.3\n  staff: 9.5\n  wifi: 7.9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/255357571.jpg?k=46387d36fd3acac003109a851bcf42619de243b8c0dd4e559f8c568ff83a7566&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475559184.jpg?k=d6aa46eda50c54f060b3d3039b875a8edb40319d4ac409cc786d8438b9d6ffd9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475560321.jpg?k=fccf4ddc7678c0f6c8bb61adf39b22296b0309fe0e8734b1c84e359089324172&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/255357399.jpg?k=b5419de6369b2685f0403619133b800a8ce20a5072aa3a595c05bfc086508cf0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475559696.jpg?k=535ea34c61387b824a05c52fdc915dd82831c520b9f78649f94750ee1f90f33c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475560356.jpg?k=f302a71a77bb458bb70adb250c4cced5a77f5ffc277a4008e25541661883bf6f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527103620.jpg?k=fafbe8df1401f4e467b1a0fa51ccefb6886cbaa99a2b74170488ad536925a68e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475560554.jpg?k=c7af391c4d2f518535e7733c261ddd9764ca9118e02ab73da4240304c27fa025&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475560954.jpg?k=e36836253235266f5c842abdd46beabb69e50a0535ed22c7f4d76c2dd2f2bc31&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\nroomTypes:\n  - "Standard Studio"\nnearbyRestaurants:\n  - "La Vista del Marine 20 m"\n  - "Leos Grill House 200 m"\nnearbyBeaches:\n  - "Sarande Main Beach 450 m"\n  - "Saranda Bay Beach 550 m"\n  - "Saranda City Beach 1.8 km"\n  - "La Petite Beach 2.4 km"\n  - "Maestral Beach 2.5 km"\nwhatsNearby:\n  - "Parc National de Butrint 3.6 km"\n  - "Butrint National Park 4.2 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 73 km"\nreviews:\n  - name: "Chloe"\n    country: "Montenegro"\n    text: "“The room was super clean and had everything I needed”"\n  - name: "Filip"\n    country: "Serbia"\n    text: "“Apartment was really nice, accommodation and comfort also. With great hospitality, this was our best choice for vaccation in Saranda.”"\n  - name: "Панасюк"\n    country: "Ukraine"\n    text: "“I liked everything.
+The owners are polite and caring, the apartment is very clean and comfortable.
+The vacation was better than expected.
+The sea is not too close (0.8 - 1.5 km), it is not a problem, a large selection of beaches.”"\nbookingURL: "https://www.booking.com/hotel/al/vila-marina.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach apartment at Vila Marina is designed with guest comfort in mind, featuring air-conditioned spaces complemented by a private balcony. The convenience of free WiFi and the luxury of a fully equipped kitchen, complete with a dining table, allow guests to feel right at home. Entertainment is readily available through the flat-screen TV with cable channels, and the private bathroom comes equipped with a walk-in shower and complimentary slippers, adding a touch of home comfort. Storage needs are met with the inclusion of a wardrobe in each unit.
 
 For those looking to explore beyond the immediate comforts of their apartment, Saranda City Beach lies just 2.4 km away, offering another picturesque option for sun-seekers. Meanwhile, history and nature enthusiasts will appreciate the proximity to Butrint National Park, located 18 km from the property, presenting an opportunity for an enriching day trip. For guests arriving by air, Ioannina Airport is the nearest gateway, situated 98 km from Vila Marina Apartments, making it a feasible option for international travelers.
 
 Vila Marina Apartments stands out as an ideal accommodation choice for those wishing to explore the vibrant city of Saranda, whether their visit is for leisure or exploration.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

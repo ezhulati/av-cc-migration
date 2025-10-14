@@ -1,30 +1,8 @@
----
-title: Villa EnSalv
-description: Accommodations at Villa EnSalv vary, with some units boasting private entrances that ensure an exclusive and undisturbed experience. These rooms are thoughtfull
-featuredImage: "/images/accommodation/476693646.jpg"
-language: en
-slug: villa-ensalv
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Villa EnSalv"\ndescription: "Villa EnSalv, located in the picturesque city of Berat, stands out as a serene retreat for travelers seeking both tranquility and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476693646.jpg?k=74343f19612346d1f4b0d84a58a332ea222bb560531cb9afa34eaa8cda8028e2&o=&hp=1"\nlanguage: en\nslug: villa-ensalv\naddress: "Rruga Antipatrea, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.71222233\n  lng: 19.9390535\nprice: "US$31"\npriceFrom: 31\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 48\nratings:\n  overall: 9.5\n  location: 8.8\n  cleanliness: 9.7\n  facilities: 9.5\n  value: 9.7\n  comfort: 9.7\n  staff: 9.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476693646.jpg?k=74343f19612346d1f4b0d84a58a332ea222bb560531cb9afa34eaa8cda8028e2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522146072.jpg?k=6429fa046573f3dd2fcf116a857da401279cc44c5b6489820c41de5b62e80bb0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476688553.jpg?k=7e250a531c795087eb096ad80e9d9afaf9b5dbc01d50f41cc1cd9754c73aa558&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476935540.jpg?k=c9d67823915b8f07fdf771c5872a49e6ae9fb01ddf9a444e3be23f1a7d76c1d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522146380.jpg?k=a97dd5c3257d2484968c57adb66c11e598c9f7b5fa9c1580ff75d3977a610cf0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476955448.jpg?k=7d1fa5f763eb474316ffe147e9ca5b42323a5aeea8ee4cdd00cc31d50f8831d2&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Airport shuttle"\n  - "Free parking"\n  - "Good free WiFi (40 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "Family Room with Private Bathroom"\n  - "Quadruple Room with Private Bathroom"\nnearbyRestaurants:\n  - "Fast Food Polovina 50 m"\n  - "Pasticeri Landi 450 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 10 km"\n  - "Sheshi Tomorri 18 km"\nairports:\n  - "Tirana International Airport Mother Teresa 78 km"\n  - "Ohrid Airport 84 km"\nreviews:\n  - name: "Barbara"\n    country: "Slovenia"\n    text: "“The location was excellent, 15 min walk to the old town or castle. The property has parking. The host was very kind and helpful with information about restaurants, she also arranged a laundry service for 5€/laundry basket.
+Good internet...”"\n  - name: "Pauline"\n    country: "France"\n    text: "“Nice flat, everything was really clean. The host was lovely and caring. Great location !”"\n  - name: "Sven"\n    country: "Germany"\n    text: "“The host is super nice, the apartment was very clean and there are a supermarket, a good bakery, Confiserie and little grocery store close by. The apartment is in a quiet area, not the most touristic one, so you are closer to the local life.”"\nbookingURL: "https://www.booking.com/hotel/al/guest-house-ensal.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nAccommodations at Villa EnSalv vary, with some units boasting private entrances that ensure an exclusive and undisturbed experience. These rooms are thoughtfully equipped with essentials such as a desk and wardrobe, catering to both leisure and business travelers. For those in search of home comforts, select units feature air conditioning, a flat-screen TV, washing machine, and kettle, alongside a fully equipped kitchen, making them ideal for longer stays or those who prefer to prepare their own meals.
 
-Accommodations at Villa EnSalv vary, with some units boasting private entrances that ensure an exclusive and undisturbed experience. These rooms are thoughtfully equipped with essentials such as a desk and wardrobe, catering to both leisure and business travelers. For those in search of home comforts, select units feature air conditioning, a flat-screen TV, washing machine, and kettle, alongside a fully equipped kitchen, making them ideal for longer stays or those who prefer to prepare their own meals.
-
-A notable highlight is the sun terrace, where guests can connect with nature or simply soak up the sun, enhancing the overall relaxation experience. The convenience of complimentary WiFi and private parking adds to the appeal, ensuring that guests' needs are met with ease.
+A notable highlight is the sun terrace, where guests can connect with nature or simply soak up the sun, enhancing the overall relaxation experience. The convenience of complimentary WiFi and private parking adds to the appeal, ensuring that guests’ needs are met with ease.
 
 For travelers concerned with allergens, Villa EnSalv offers allergy-free accommodations, demonstrating a commitment to guest comfort and well-being. Although the property is situated 116 km from Tirana International Mother Teresa Airport, the availability of a paid airport shuttle service provides seamless connectivity for arriving and departing guests.
 
 Villa EnSalv emerges as a top choice for those visiting Berat, offering a harmonious blend of comfort, convenience, and natural beauty.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

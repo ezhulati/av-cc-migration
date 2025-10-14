@@ -1,30 +1,7 @@
----
-title: shomez apartaments
-description: The apartment itself is a haven of space and comfort, boasting two well-appointed bedrooms and a cozy living room complete with a flat-screen TV, ensuring guest
-featuredImage: "/images/accommodation/501480697.jpg"
-language: en
-slug: shomez-apartaments
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of space and comfort, boasting two well-appointed bedrooms and a cozy living room complete with a flat-screen TV, ensuring guests feel at home. The inclusion of an equipped kitchen adds a touch of convenience for those who prefer to prepare their meals, while the bathroom, complete with a bath and complimentary slippers, provides a relaxing retreat.
+---\ntitle: "shomez apartaments"\ndescription: "Shomez Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501480697.jpg?k=bef9d76cc69be3a5524e3fefe0d2783b8c87101433210f769cafe67510970caf&o=&hp=1"\nlanguage: en\nslug: shomez-apartaments\naddress: "Rruga Besim Daja, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.338829\n  lng: 19.8235602\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501480697.jpg?k=bef9d76cc69be3a5524e3fefe0d2783b8c87101433210f769cafe67510970caf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501480731.jpg?k=b9b8eef5e22376a2588b37d3437531ead4c04dc91fe9b5b8651f0df4be50af0f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501480727.jpg?k=85f6226f5567a3e68d1b71e795c096f14b8fa8693f738fe878a4eaacfe5e129d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501480724.jpg?k=2f834b85494ecc1b4e4a1f947fb2a52c3e21f849cb968445b33ca94a9079e67b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501480716.jpg?k=ac816c32c3372ab58fc2e859c3ad17b7e18428b925b109df69bb51933c61e84d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501480719.jpg?k=ecb7b48deb5bf64f28572f1e384b38c8523c961e02abb5a44e4ebcd80b5dd5c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501480720.jpg?k=59794d8b9b28d9361df5be6a1fdf9191c6787f1d234b1079469498d93335163a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501480718.jpg?k=742dcf4a14af4fb517eb46bdee24d3e3e93d6e0f67c1380d9d30a3fe42768615&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501480717.jpg?k=56af3ccc8b1b694969f7bc1a95c88083db369cae430303496e58d8145cdc79d3&o=&hp=1"\namenities:\n  - "Parking on site"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyAttractions:\n  - "Tanners' Bridge 1.4 km"\n  - "National Gallery of Arts Tirana 1.4 km"\n  - "House of Leaves 1.5 km"\n  - "Rinia Park 1.6 km"\n  - "Former Residence of Enver Hoxha 2.1 km"\n  - "Grand Park of Tirana 3 km"\n  - "Bunk'Art 1 Museum 3.3 km"\nnearbyRestaurants:\n  - "Bar Restorant Niagora 50 m"\n  - "Bar Kafe Restorant Durrsi 150 m"\nwhatsNearby:\n  - "Amazing Nature 700 m"\n  - "Sheshi Sulejman Pasha 1.1 km"\n  - "Sheshi Jjosef Shtraus 1.2 km"\n  - "National Museum of History Albania 1.2 km"\n  - "Sheshi Rekreativ tek ish ATSh 1.2 km"\n  - "Sheshi Skënderbej 1.2 km"\n  - "Sheshi Paris 1.3 km"\n  - "Clock Tower Tirana 1.3 km"\n  - "Skanderbeg Square 1.3 km"\n  - "Parku Europa 1.3 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Dr"\n    country: "Germany"\n    text: "“The host was so kind. Always on time when I asked questions, I really felt at home. Really loved it. The place was calm, no noise. It was clean.”"\nbookingURL: "https://www.booking.com/hotel/al/shomez-apartaments-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a haven of space and comfort, boasting two well-appointed bedrooms and a cozy living room complete with a flat-screen TV, ensuring guests feel at home. The inclusion of an equipped kitchen adds a touch of convenience for those who prefer to prepare their meals, while the bathroom, complete with a bath and complimentary slippers, provides a relaxing retreat.
 
 Adding to the appeal is the apartment's terrace, a perfect spot for guests to unwind while staying connected with the outside world through the complimentary WiFi. The balcony further enhances the living space, offering a private outdoor area to enjoy.
 
 For those keen to explore, Shomez Apartments is ideally situated near several of Tirana's key attractions. The National Theatre of Opera and Ballet of Albania, National Museum of History Albania, and Toptani Shopping Centre are all within proximity, making it an excellent base for cultural excursions and shopping sprees alike. Moreover, with Tirana International Mother Teresa Airport just 14 km away, the apartment ensures a hassle-free arrival and departure for international guests.
 
 In summary, Shomez Apartments presents a compelling option for those looking to immerse themselves in the culture and convenience of Tirana, all while enjoying the comforts of a thoughtfully appointed accommodation.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

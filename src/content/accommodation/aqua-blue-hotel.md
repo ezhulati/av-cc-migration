@@ -1,30 +1,7 @@
----
-title: Aqua Blue Hotel
-description: Guests are treated to air-conditioned accommodations, each featuring a private bathroom that promises privacy and comfort. What sets Aqua Blue Hotel apart is th
-featuredImage: "/images/accommodation/493538374.jpg"
-language: en
-slug: aqua-blue-hotel
-location: ""
-amenities: []
-images: []
----
-
-Guests are treated to air-conditioned accommodations, each featuring a private bathroom that promises privacy and comfort. What sets Aqua Blue Hotel apart is the breathtaking sea views from the balconies of its rooms, complemented by modern amenities such as a desk and a flat-screen TV, catering to both leisure and business travelers.
+---\ntitle: "Aqua Blue Hotel"\ndescription: "Aqua Blue Hotel stands out as a serene oasis in Vlorë, merely 60 meters from the pristine Beach at Government Villas."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493538374.jpg?k=c65711be8a41e56265819381209cc9b39529b2b1823fd22bd8653b9adfff6372&o=&hp=1"\nlanguage: en\nslug: aqua-blue-hotel\naddress: "Rruga Aleksandër Moisiu, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.41841557\n  lng: 19.48739954\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 2\nratings:\n  overall: 8.8\n  location: 7.5\n  cleanliness: 8.8\n  facilities: 8.8\n  value: 8.8\n  comfort: 8.8\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493538374.jpg?k=c65711be8a41e56265819381209cc9b39529b2b1823fd22bd8653b9adfff6372&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493533374.jpg?k=b19183ac1582163f077a3f8f6ddd7798f52d647adc480dfe71a19190e2741e00&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493533482.jpg?k=c9a0031262e72e66daa85e3dadb37f784cb4ab04d74aecbf0081c71d2b32a399&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494336197.jpg?k=3fb3f2be26edc5e3c3494641d45234dd03620ffd9fc1e0208605ecc1605c5c49&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493533507.jpg?k=201b99fff1d69061569b5c3cc0c5a9aaf8d2fdd56fc5ca5d4e6b4266658e290d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493533541.jpg?k=f8b19f1fc4a81d6d01e6f0566350ce4e3fc74c935c36fb9e041ec025f8980e9b&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Private Bathroom"\n  - "Quadruple Room with Private Bathroom"\nnearbyRestaurants:\n  - "Il Tramonto 3 200 m"\n  - "Tekada 200 m"\nnearbyBeaches:\n  - "Beach at Government Villas 50 m"\n  - "Liro Beach 650 m"\n  - "Ri Beach 1.4 km"\n  - "Coco Bongo Beach 1.7 km"\n  - "Sunny Beach 1.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 2.1 km"\n  - "Kuzum Baba 6 km"\n  - "Independence Square 6 km"\nairports:\n  - "Corfu International Airport 97 km"\nbookingURL: "https://www.booking.com/hotel/al/aqua-blue-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are treated to air-conditioned accommodations, each featuring a private bathroom that promises privacy and comfort. What sets Aqua Blue Hotel apart is the breathtaking sea views from the balconies of its rooms, complemented by modern amenities such as a desk and a flat-screen TV, catering to both leisure and business travelers.
 
 The hotel's multilingual staff, proficient in English and Italian, are always on hand at the reception to offer valuable insights and practical advice about the local area, enhancing guests' experiences.
 
 Located less than a kilometer from the tranquil Liro Beach and a short drive from the vibrant Ri Beach, 1.6 km away, Aqua Blue Hotel serves as an ideal base for exploring the natural beauty of Vlorë. The historic Kuzum Baba is also within easy reach, just 6.7 km from the hotel. For those arriving from afar, the property is conveniently situated 156 km from Tirana International Mother Teresa Airport, with a paid shuttle service available to ensure a hassle-free arrival and departure.
 
 Aqua Blue Hotel emerges as a top choice for travelers seeking a blend of tranquility, convenience, and attentive service in the heart of Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

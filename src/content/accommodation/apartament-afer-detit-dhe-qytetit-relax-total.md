@@ -1,28 +1,5 @@
----
-title: Apartament afer detit dhe qytetit. Relax total
-description: "This apartment doesn't just offer a place to stay; it provides a haven of relaxation."
-featuredImage: "/images/accommodation/407102553.jpg"
-language: en
-slug: apartament-afer-detit-dhe-qytetit-relax-total
-location: ''
-amenities: []
-images: []
----
-
-This apartment doesn't just offer a place to stay; it provides a haven of relaxation. With air-conditioned interiors, guests are welcomed into a space designed for utmost comfort. The accommodation boasts a bedroom that promises restful nights, a fully equipped kitchen for culinary exploits, and a bathroom that caters to all your needs. The inclusion of a flat-screen TV ensures entertainment is always at hand, while the garden views serve as a constant reminder of the natural beauty surrounding the property.
+---\ntitle: "Apartament afer detit dhe qytetit. Relax total"\ndescription: "Discover the serene oasis of \"Apartament afer detit dhe qytetit."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407102553.jpg?k=34f0c32dda8f95a86f464caa3841142819afee638ada99f366a6944653f7684b&o=&hp=1"\nlanguage: en\nslug: apartament-afer-detit-dhe-qytetit-relax-total\naddress: "Rruga Liria, Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.2342724\n  lng: 19.51899\nprice: "US$28"\npriceFrom: 28\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407102553.jpg?k=34f0c32dda8f95a86f464caa3841142819afee638ada99f366a6944653f7684b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/407102564.jpg?k=8e6145926ddabab4afe936818e36fb1b5c61c4884e443b0e34fbaea74fde4e7b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/407102569.jpg?k=6dde969c74462b85eece0db5f16fe0fa248c6016fd00cc4ded5068a559655d0f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/407102563.jpg?k=2272a1e0da53d20c75e48068d6041ea1bcf415eea0dc25e0e0731b7429edc5fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/407102565.jpg?k=d46384b31241ecb8897fb59c89fe84cf46a847577ddd934c385496b559b6f84d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/407102568.jpg?k=fedc90f6a98dc80dd7f82e321b9e61d572631c80f425213ad0a60c8f257a0782&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/407102570.jpg?k=aaac57ffd11be1b31136ded87dabe7b1995447d281e9da9c665dee5b9de19ec1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/407102572.jpg?k=eb3d577a5ef1897c2c74ed997eba728ed783b1ede37a4415842ec44ae8248d4b&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Ujvara Hotel & Bar Restorant Piceri 150 m"\n  - "Te Berti Golem 300 m"\nnearbyBeaches:\n  - "Mali I Robit Beach 300 m"\n  - "Qerret Beach 650 m"\n  - "Golem Beach 1.5 km"\n  - "Shkëmbi i Kavajës Beach 3.4 km"\n  - "Durres Beach 6 km"\nwhatsNearby:\n  - "Durres Amphiteatre 11 km"\n  - "1. Maj 11 km"\n  - "Wine Dhe Pooh 11 km"\n  - "Yje Dhe Hena 11 km"\n  - "Bekimi 11 km"\n  - "Sheshi Demokracia 11 km"\n  - "Sotir Noka 11 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\nbookingURL: "https://www.booking.com/hotel/al/apartament-afer-detit-dhe-qytetit-relax-total.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment doesn't just offer a place to stay; it provides a haven of relaxation. With air-conditioned interiors, guests are welcomed into a space designed for utmost comfort. The accommodation boasts a bedroom that promises restful nights, a fully equipped kitchen for culinary exploits, and a bathroom that caters to all your needs. The inclusion of a flat-screen TV ensures entertainment is always at hand, while the garden views serve as a constant reminder of the natural beauty surrounding the property.
 
 For those interested in delving into Albania's rich history, the former Residence of Enver Hoxha is located 48 km away, offering a glimpse into the country's past. Meanwhile, the Durres Amphitheatre, 17 km from the apartment, stands as a testament to the architectural prowess of ancient civilizations. Conveniently, Tirana International Mother Teresa Airport is the nearest airport, situated 42 km away, making "Apartament afer detit dhe qytetit. Relax total" an accessible retreat for both domestic and international travelers.
 
 With private parking on site and complimentary WiFi, guests are assured of both security and connectivity throughout their stay. The property's commitment to a non-smoking environment further enhances the quality of the air and the overall guest experience. Situated less than 1 km from Qerret Beach, this apartment is not just a place to stay; it's a gateway to the serene and the sublime, promising a total relaxation experience for those who choose to make it their temporary home away from home.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

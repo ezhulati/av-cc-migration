@@ -1,28 +1,5 @@
----
-title: Cosy sea view studio
-description: "The highlight of this apartment is undoubtedly its balcony, offering breathtaking sea views that promise to enchant every guest."
-featuredImage: "/images/accommodation/473514774.jpg"
-language: en
-slug: cosy-sea-view-studio
-location: ""
-amenities: []
-images: []
----
-
-The highlight of this apartment is undoubtedly its balcony, offering breathtaking sea views that promise to enchant every guest. Inside, the studio is equipped with a cable flat-screen TV and a kitchen that boasts a microwave, fridge, and stovetop, ensuring all the comforts of home. The inclusion of a bathroom equipped with a shower and hairdryer, alongside an outdoor dining area, adds to the appeal, making it an ideal retreat for those seeking a blend of convenience and relaxation.
+---\ntitle: "Cosy sea view studio"\ndescription: "Cosy Sea View Studio emerges as a prime beachfront gem in Vlorë, strategically positioned just a stone's throw away from Vlore Beach and a short stroll from Ri Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473514774.jpg?k=ad37e4e4fb7e8de0bebb2cce234243c4b4173abed86992176660a7313239fa8f&o=&hp=1"\nlanguage: en\nslug: cosy-sea-view-studio\naddress: "Rruga Mehmet Agalliu 4 floor, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4407266\n  lng: 19.4959301\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.3\nratingWords: "Very Good"\nnumberOfReviews: 3\nratings:\n  overall: 8.3\n  location: 10\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 9.2\n  comfort: 7.5\n  staff: 8.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473514774.jpg?k=ad37e4e4fb7e8de0bebb2cce234243c4b4173abed86992176660a7313239fa8f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473514931.jpg?k=ec2138d9dfa3b31400f26f8ea2aed0738a353394cf19823a9accd8e749cafe90&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473514968.jpg?k=d987a9636122492512513d32234a9ac66b9ed5af21b49eb4f54a1cb5a067d93b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473514927.jpg?k=32adbcd15341dbc2ea5e2b3b08656cac981ca55a047a12e76d0999b5dfcaf6d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473514937.jpg?k=e6810d1e73622813dfb9f6818666dc3e46e3fada51ca4f04fac1592055d9f8ca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473734838.jpg?k=47336cdc90db9e92923ada01cf99013c146c8ded4e0fd9d75efa9bd55279b32b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473514958.jpg?k=b5369c19189ad5e8d95a45ff142d6706eb89177850de538bc50a9810e26851fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473734563.jpg?k=857f3d9e09b42aa7b0ad39a73be4ab16a6e332393722fa72b6572113b550f65c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477697636.jpg?k=4338f5039e641e1265929c8de5c7bcff839c7510a74ce5a98959512d84ee8dc0&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyBeaches:\n  - "Vlore Beach 250 m"\n  - "Ri Beach 600 m"\n  - "Vjetër Beach 1.8 km"\n  - "Beach at Government Villas 2.4 km"\n  - "Liro Beach 3.1 km"\nreviews:\n  - name: "Margit"\n    country: "Hungary"\n    text: "“Elhelyezkedés nagyon jó, ár érték aránynak megfelel. Kedves házigazda.”"\n  - name: "Марта"\n    country: "Ukraine"\n    text: "“Відпочивали у цьому помешканні з 15 по 29 липня 2023 р. Фото відповідають дійсності. Все чисто, і дійсно берегова лінія, з балкону видно море, поруч супермаркети, кафешки. Власниця дуже привітна, надала всю інформацію на наші запитання, а також...”"\nbookingURL: "https://www.booking.com/hotel/al/cosy-sea-view-studio.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe highlight of this apartment is undoubtedly its balcony, offering breathtaking sea views that promise to enchant every guest. Inside, the studio is equipped with a cable flat-screen TV and a kitchen that boasts a microwave, fridge, and stovetop, ensuring all the comforts of home. The inclusion of a bathroom equipped with a shower and hairdryer, alongside an outdoor dining area, adds to the appeal, making it an ideal retreat for those seeking a blend of convenience and relaxation.
 
 For those looking to bask in the sun, the sun terrace offers a perfect spot to unwind and soak in the panoramic views.
 
 Situated a mere 3.5 km from the historic Kuzum Baba and 3.7 km from the vibrant Independence Square, guests are perfectly positioned to explore the rich cultural tapestry of Vlorë. For international travelers, the Tirana International Mother Teresa Airport is 152 km away, making Cosy Sea View Studio an accessible haven for both local and global visitors seeking a tranquil escape by the sea.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

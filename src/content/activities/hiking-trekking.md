@@ -193,10 +193,3 @@ However, some trails, like the one to the Blue Eye, are best visited during the 
 
 While many trails are well-marked, a guide can provide valuable insights and ensure safety, especially for challenging hikes.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

@@ -1,30 +1,7 @@
----
-title: Daily Apartment 2
-description: The apartment itself boasts a spacious layout, complete with air conditioning for those warm Albanian afternoons. Guests will appreciate the private balcony, of
-featuredImage: "/images/accommodation/511263166.jpg"
-language: en
-slug: daily-apartment-2
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself boasts a spacious layout, complete with air conditioning for those warm Albanian afternoons. Guests will appreciate the private balcony, offering a serene spot to unwind after a day of exploration. Complimentary WiFi ensures that staying connected is hassle-free, while the option for private parking adds an extra layer of convenience for those arriving by car.
+---\ntitle: "Daily Apartment 2"\ndescription: "Daily Apartment 2 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511263166.jpg?k=bde97025a6286eee7fbfa7bb5111c7f2f110b3e0de09c9c58ba69ac1ea707339&o=&hp=1"\nlanguage: en\nslug: daily-apartment-2\naddress: "Rruga Selaudin Zorba 2 floor, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3443519\n  lng: 19.83107422\nprice: "US$59"\npriceFrom: 59\nstarRating: 3\nrating: 7.8\nratingWords: "Good"\nnumberOfReviews: 4\nratings:\n  overall: 7.8\n  location: 7.5\n  cleanliness: 7.5\n  facilities: 8.1\n  value: 7.5\n  comfort: 8.1\n  staff: 8.1\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511263166.jpg?k=bde97025a6286eee7fbfa7bb5111c7f2f110b3e0de09c9c58ba69ac1ea707339&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511262863.jpg?k=f8280263efc2abcb39a055165f9d18ab5e187d7ea275f0122282d8a7e93255c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511263179.jpg?k=def1a34cac3b5512645f0da434be959693f7e474febcba66603e02d17c075bb5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511263068.jpg?k=887e6f0cd2f30cc5421653c7f2b8e6abd009aa7b9103ca898cf3779f15b66d2b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511263077.jpg?k=b2814589889c44bfaa6f29b0f32e66e29d815e7b0aef8e5de8549ec1deb8ab4c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353581671.jpg?k=1f3e84635d1f3fda536f02e1dd297a2002b25fdaede285cadd3f811879d604bc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511262868.jpg?k=b921280339e6b12e3217395a83b35378642e5efdf735e796accb5b85ca82c033&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511263271.jpg?k=384ec0db68f2956b577ec38eaf170aac445280f637ce160cb368fe38f7ba8026&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353581697.jpg?k=e6d7e83dc2db3ffb01db93ce70ea8167f6d2cec7fda37e4628dbc06be738803f&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Skanderbeg Square 2.1 km"\n  - "National Gallery of Arts Tirana 2.2 km"\n  - "House of Leaves 2.3 km"\n  - "Rinia Park 2.4 km"\n  - "Bunk'Art 1 Museum 2.6 km"\n  - "Former Residence of Enver Hoxha 2.8 km"\n  - "Grand Park of Tirana 3.6 km"\nnearbyRestaurants:\n  - "Vila 5 200 m"\n  - "Nevada Caffe 300 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Allias 600 m"\n  - "Sheshi Rekreativ Gjolek Kokona 1,000 m"\n  - "Sheshi Jjosef Shtraus 1.1 km"\n  - "Amazing Nature 1.6 km"\n  - "Sheshi Rekreativ tek ish ATSh 1.8 km"\n  - "Sheshi Sulejman Pasha 1.9 km"\n  - "National Museum of History Albania 2 km"\n  - "Tanners' Bridge 2 km"\n  - "Clock Tower Tirana 2.1 km"\n  - "Sheshi Skënderbej 2.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 78 km"\nbookingURL: "https://www.booking.com/hotel/al/daily-apartment-2.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself boasts a spacious layout, complete with air conditioning for those warm Albanian afternoons. Guests will appreciate the private balcony, offering a serene spot to unwind after a day of exploration. Complimentary WiFi ensures that staying connected is hassle-free, while the option for private parking adds an extra layer of convenience for those arriving by car.
 
 Accommodation at Daily Apartment 2 includes a well-appointed bedroom, a fully equipped kitchen featuring an oven and a fridge, and a cozy seating area perfect for relaxing evenings in. The presence of a flat-screen TV ensures entertainment is always at hand. The bathroom, equipped with a bidet, underscores the apartment's commitment to comfort. For guests' convenience, towels and linens are available upon request.
 
 Situated a mere 2.2 km from the National Theatre of Opera and Ballet of Albania, and within easy reach of the Rock of Kavaje, the apartment's location is ideal for both culture enthusiasts and nature lovers. Tirana International Mother Teresa Airport is just 14 km away, with the apartment offering a paid shuttle service for a smooth transition to and from your flights.
 
 Daily Apartment 2 stands out as a non-smoking establishment, ensuring a clean and fresh environment for all guests. Whether in town for business or leisure, this apartment promises a stay that is as comfortable as it is convenient, making it a top pick for visitors to Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

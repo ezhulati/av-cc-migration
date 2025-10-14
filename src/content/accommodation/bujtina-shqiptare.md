@@ -1,30 +1,9 @@
----
-title: Bujtina Shqiptare
-description: "The establishment prides itself on offering complimentary WiFi across its premises, ensuring guests stay connected during their visit."
-featuredImage: "/images/accommodation/195269524.jpg"
-language: en
-slug: bujtina-shqiptare
-location: ""
-amenities: []
-images: []
----
-
-The establishment prides itself on offering complimentary WiFi across its premises, ensuring guests stay connected during their visit. For those who prefer the comforts of home cooking, select rooms are equipped with a kitchen, complete with an oven, adding a touch of convenience for longer stays.
+---\ntitle: "Bujtina Shqiptare"\ndescription: "Bujtina Shqiptare emerges as a prime choice for travelers seeking a blend of convenience and comfort in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195269524.jpg?k=8de6698e48c71e120278813645cb46a7e99dcc6b8519db4edcfa94dff39f1f27&o=&hp=1"\nlanguage: en\nslug: bujtina-shqiptare\naddress: "RRUGA BARDHOK BIBA nr 9/1, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33148702\n  lng: 19.81853251\nprice: "US$42"\npriceFrom: 42\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 451\nratings:\n  overall: 9.2\n  location: 9.7\n  cleanliness: 9\n  facilities: 8.7\n  value: 9.3\n  comfort: 9\n  staff: 9.6\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195269524.jpg?k=8de6698e48c71e120278813645cb46a7e99dcc6b8519db4edcfa94dff39f1f27&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405278697.jpg?k=38465074164b6b91cfafb7dac0973c0f83b859ac133fefdaf7c67ee7929d123b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195269615.jpg?k=446678a01f078f8d8a5ddc75ab697927383e003e1f66abafa9696f3efe6712db&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195269421.jpg?k=2d28410f33d0313719edfaaaaaa6f4f57a6e731fd3470c05af0b3b826196fe14&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195269426.jpg?k=8ea0ac8758b4f2c61a86c54a2155ff31c9c6d164a849c4e590aca02d598e1932&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405279087.jpg?k=d4b288b2367823c7f9e131daf4587608b8e01b2e5ef459d07dbf8e55cdb1831a&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\nroomTypes:\n  - "Apartment with Balcony"\n  - "Triple Room with Private Bathroom"\n  - "Apartment with Balcony"\nnearbyAttractions:\n  - "Rinia Park 750 m"\n  - "Tanners' Bridge 850 m"\n  - "Former Residence of Enver Hoxha 1.2 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 4.1 km"\nnearbyRestaurants:\n  - "Taverna Dajkua 40 m"\n  - "Fast Food Magic Hand 50 m"\nwhatsNearby:\n  - "Amazing Nature 200 m"\n  - "National Museum of History Albania 250 m"\n  - "Sheshi Skënderbej 350 m"\n  - "Sheshi Paris 400 m"\n  - "Skanderbeg Square 400 m"\n  - "Sheshi Sulejman Pasha 400 m"\n  - "Clock Tower Tirana 450 m"\n  - "Parku Europa 450 m"\n  - "House of Leaves 550 m"\n  - "National Gallery of Arts Tirana 600 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Kari"\n    country: "Iceland"\n    text: "“The location is perfect, the room was clean and comfortable and the staff were friendly.”"\n  - name: "Ozan"\n    country: "Netherlands"\n    text: "“Check in: Our check in was with Ferdi, who is also the host.
+He is a friendly, helpfull and funny person. He helped us with the parking at our arrival.
+Appartment: The appartment is large, accesable with a elevator. Its high up and we had no...”"\n  - name: "Tjerk"\n    country: "Netherlands"\n    text: "“I was very satisfied with the apartment. Its spacious with a balcony and nice view. The reception is a bit sketchy to find (on the left side of the painted building), but ask a local and it's no problem. The reception lady was very friendly. It's...”"\nbookingURL: "https://www.booking.com/hotel/al/bujtina-shqiptare.en-gb.html?aid=8035640"\nbestFor: "Best for Hostel Experience"\nbestCategories: "Hostel Experience"\ncategory: "Hostel Experience"\n---\n\nThe establishment prides itself on offering complimentary WiFi across its premises, ensuring guests stay connected during their visit. For those who prefer the comforts of home cooking, select rooms are equipped with a kitchen, complete with an oven, adding a touch of convenience for longer stays.
 
 Mornings at Bujtina Shqiptare begin with an Italian breakfast, served daily, providing a delightful start to the day. The hostel's commitment to guest service is further underscored by its 24-hour front desk, ready to assist with any needs or inquiries.
 
 Art enthusiasts will appreciate the proximity to the National Arts Gallery, located less than 1 km away, making it an easy addition to any itinerary. For travelers flying in or out, the Tirana International Mother Teresa Airport is conveniently 17 km from the hostel, facilitating stress-free travel arrangements.
 
 Bujtina Shqiptare not only offers a strategic location for exploring Tirana's rich cultural landscape but also ensures a comfortable and welcoming stay for all its guests.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

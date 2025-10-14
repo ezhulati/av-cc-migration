@@ -1,30 +1,7 @@
----
-title: Blue Pearl 720
-description: The apartment itself is a testament to thoughtful accommodation, boasting a balcony that presents breathtaking sea views. It is well-appointed with a bedroom, a
-featuredImage: "/images/accommodation/434160157.jpg"
-language: en
-slug: blue-pearl-720
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to thoughtful accommodation, boasting a balcony that presents breathtaking sea views. It is well-appointed with a bedroom, a cozy living room, and a flat-screen TV for entertainment. The kitchen comes fully equipped with an oven and a microwave, catering to guests' culinary needs, while the bathroom is complete with a bidet. For added convenience, towels and bed linen are readily available, ensuring a comfortable stay.
+---\ntitle: "Blue Pearl 720"\ndescription: "Blue Pearl 720 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434160157.jpg?k=9fde7efdc8d6db7a4bc049bc4370c476f1532994056b3fcd40ee2a0d5337b796&o=&hp=1"\nlanguage: en\nslug: blue-pearl-720\naddress: "7GP7+H2M, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.28628937\n  lng: 19.51146289\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 1\nratings:\n  overall: 9.2\n  location: 10\n  cleanliness: 7.5\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434160157.jpg?k=9fde7efdc8d6db7a4bc049bc4370c476f1532994056b3fcd40ee2a0d5337b796&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434160199.jpg?k=3a4a541b9fc1a032aa0a0a62c102eddb0827881dc87b3a15a1f8d880a8dc5f3e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434160163.jpg?k=7c4dc48a728be2ad5c8e4f66673c99107cdb24268b023a05761e6a0736b91567&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434160192.jpg?k=70577b2724c95669089fd939b14bf3666c88b78e45ba565e257557be26cd7a1c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434160176.jpg?k=3aaff8318e19e710ec7ef879ae6595592275e10e13637a3ccb1576d6024292e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434160172.jpg?k=c3ab53bc17a66c6b9ffa905669301c461f819f2aa9f7c1c3c7e25fe2d6bf31cd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434160160.jpg?k=1a2aaf8a14f42a4eff105b361ae6fbfd13cf8b11a4fd18f00e83166e6d6d2d47&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434160170.jpg?k=4045b7263d1ff32770cc895d48acd4ba071ce4dfbf6074268b194e33397eff20&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434160167.jpg?k=ac47bf40c394af467c22833001f17df54dd4252cbf2e55a7967f1a53532a610d&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free parking"\n  - "Free WiFi"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Hasani 20 m"\n  - "Restorant Riviera 150 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 150 m"\n  - "Durres Beach 200 m"\n  - "Golem Beach 2.4 km"\n  - "Mali I Robit Beach 4.3 km"\n  - "Currila Beach 6 km"\nwhatsNearby:\n  - "Bekimi 5 km"\n  - "Wine Dhe Pooh 6 km"\n  - "Durres Amphiteatre 6 km"\n  - "Yje Dhe Hena 6 km"\n  - "Sheshi Demokracia 6 km"\n  - "1. Maj 6 km"\n  - "Sotir Noka 7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/1-bedroom-apartment-720.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to thoughtful accommodation, boasting a balcony that presents breathtaking sea views. It is well-appointed with a bedroom, a cozy living room, and a flat-screen TV for entertainment. The kitchen comes fully equipped with an oven and a microwave, catering to guests' culinary needs, while the bathroom is complete with a bidet. For added convenience, towels and bed linen are readily available, ensuring a comfortable stay.
 
 Beyond the confines of the apartment, guests will appreciate the added perks such as free WiFi access throughout the property, a lift for easy navigation, and the exclusivity of private check-in and check-out services. The presence of a minimarket on-site is a notable convenience, allowing guests to easily procure essentials without venturing far.
 
 For those looking to explore beyond the beach, Blue Pearl 720 is positioned within a reasonable distance from notable attractions. Skanderbeg Square and the Dajti Ekspres Cable Car are within reach, offering unique experiences and scenic views. Additionally, the property is located 36 km from Tirana International Mother Teresa Airport, with a paid shuttle service available, making travel arrangements seamless for guests.
 
 In summary, Blue Pearl 720 is not just an accommodation but a gateway to a memorable Durrës experience, combining the comforts of home with the ease of access to beautiful beaches and local attractions.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,7 @@
----
-title: Miramare Boutique Hotel
-description: Accommodations at Miramare Boutique Hotel are thoughtfully designed, featuring flat-screen TVs and mini fridges for a touch of home. Select rooms elevate the gu
-featuredImage: "/images/accommodation/469351105.jpg"
-language: en
-slug: miramare-boutique-hotel
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Miramare Boutique Hotel are thoughtfully designed, featuring flat-screen TVs and mini fridges for a touch of home. Select rooms elevate the guest experience with captivating views of the sea, mountains, or serene hotel gardens, ensuring every wake-up is as inspiring as the last. Private bathrooms in each room are well-appointed with showers, bathrobes, slippers, and hairdryers, emphasizing comfort and convenience.
+---\ntitle: "Miramare Boutique Hotel"\ndescription: "Miramare Boutique Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Vlorë, located just a kilometer from the bustling city center."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469351105.jpg?k=988c446a1780bccf50c5f89bdb49938508351b3927c2b8553211dc692feceb8f&o=&hp=1"\nlanguage: en\nslug: miramare-boutique-hotel\naddress: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.441778\n  lng: 19.495644\nprice: "US$70"\npriceFrom: 70\nstarRating: 4\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 53\nratings:\n  overall: 8.9\n  location: 9.1\n  cleanliness: 9\n  facilities: 8.4\n  value: 8.1\n  comfort: 8.9\n  staff: 8.7\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469351105.jpg?k=988c446a1780bccf50c5f89bdb49938508351b3927c2b8553211dc692feceb8f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483294339.jpg?k=4c41c1109dcc802de4fbba00fcd89e345f32189705eb7431e0f2a19ad0ae11ec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469351016.jpg?k=704e8d1ed12fa99d41d44571d0ce9876746862964981b0d0bc679b86b9ff1407&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483294481.jpg?k=be76a9ddb269e1cefa8947a83a799c3b4bf1d174c437bf1278509262f78cee71&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483294402.jpg?k=5034cd240a1ebce70be582c003e3f5e4fe85f3ec73c0db5d734c5b94fef4cf4e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483294417.jpg?k=05751b45c4cb4df2550f701196cab563e8d7a8cae79813c61884669f416ea214&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Restaurant"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Private beach area"\nroomTypes:\n  - "Double Room with Side Sea View"\n  - "Deluxe Double Room with Sea View"\nnearbyRestaurants:\n  - "Bar \Season Gastro\\"\" 40 m"\n  - "Bizzare 40 m"\nnearbyBeaches:\n  - "Vlore Beach 100 m"\n  - "Ri Beach 700 m"\n  - "Vjetër Beach 1.7 km"\n  - "Beach at Government Villas 2.5 km"\n  - "Liro Beach 3.2 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 600 m"\n  - "Kuzum Baba 2.9 km"\n  - "Independence Square 3.2 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Marketa"\n    country: "Austria"\n    text: "“The sea view was fantastic, close to the sea, the location”"\n  - name: "Filipe"\n    country: "Portugal"\n    text: "“Localização ótima, mesmo à frente da praia e em plena avenida. Limpo e novo. Ótimo preco”"\n  - name: "Alessia"\n    country: "Italy"\n    text: "“La posizione fronte mare con balcone con vista era assolutamente splendida, la stanza era pulita con un bagno ampio ben arredato e kit per gli ospiti completo persino di ciabattine e dentifricio e spazzolino. Gli infissi permettevano una volta...”"\nbookingURL: "https://www.booking.com/hotel/al/miramare-boutique-hotel.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Miramare Boutique Hotel are thoughtfully designed, featuring flat-screen TVs and mini fridges for a touch of home. Select rooms elevate the guest experience with captivating views of the sea, mountains, or serene hotel gardens, ensuring every wake-up is as inspiring as the last. Private bathrooms in each room are well-appointed with showers, bathrobes, slippers, and hairdryers, emphasizing comfort and convenience.
 
 The on-site restaurant offers a culinary journey, inviting guests to savor local and international flavors, while the bar serves as a cozy retreat for evening drinks. The hotel's commitment to service is underscored by its 24-hour front desk, ensuring assistance is always at hand.
 
 For those looking to explore, the Port of Vlore is a mere 2.3 km away, making the hotel an ideal base for maritime adventures. Further afield, the capital city of Tirana is 150 km away, promising an easy excursion for a day trip or deeper exploration of Albania.
 
 Miramare Boutique Hotel stands out as a beacon of hospitality, offering a harmonious blend of location, amenities, and service, making it a compelling choice for visitors to Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

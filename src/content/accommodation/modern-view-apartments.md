@@ -1,28 +1,5 @@
----
-title: Modern View Apartments
-description: Guests are welcomed into a generously sized apartment featuring two bedrooms, each thoughtfully designed to provide a restful night's sleep. The living space is
-featuredImage: "/images/accommodation/475083609.jpg"
-language: en
-slug: modern-view-apartments
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Modern View Apartments"\ndescription: "Modern View Apartments stands as a prime choice for travelers seeking a blend of comfort and convenience, with its prime location just 200 meters from the pristine shores of Durres Beach and a scenic 37 km drive from the historic Skanderbeg Square."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475083609.jpg?k=246609dd14fdfc72e16343fd8e4e238f25d82b78aa86f41673d0b1732aff8da1&o=&hp=1"\nlanguage: en\nslug: modern-view-apartments\naddress: "Rr PAVARESIA 2008, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3149275\n  lng: 19.47250383\nprice: "US$92"\npriceFrom: 92\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475083609.jpg?k=246609dd14fdfc72e16343fd8e4e238f25d82b78aa86f41673d0b1732aff8da1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475083661.jpg?k=528ba82df5d12546ef7ddd75ab9a49fa7fb269a783cf9c215020c8cea1ac2bf3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475084203.jpg?k=20def86500d45a63b147fea30bd40131b22fa2ecf7eb0cc901b6c30089ce5f49&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475083984.jpg?k=ea830d40cd0d7a100d151369c364ed5b875baecafb1b778789b8f857f4d39952&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475083688.jpg?k=19bb4412b38da10e48a7f2956b636cc8b6d2579b63b302e8609450140e5c8bc6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475084211.jpg?k=b11afc98abcda5f123af766891a9521bb3c8cba99692bcc8fdf633c9b94ba2f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475084432.jpg?k=22d1bc67bd7c70bcbb1df1a6e96340ff956ca0058a89e120169db608fa7f2e9b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475084187.jpg?k=0df80a185269959e9a2a096bff9669b52bf3715ea509bf7a66f1ef27d0b9b098&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475083681.jpg?k=be9056da349980685d8314dc7c3a5f36b2727df66eef3029aaba19a30f571f4b&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "On off 40 m"\n  - "Pizza Napoli 150 m"\nnearbyBeaches:\n  - "Durres Beach 50 m"\n  - "Currila Beach 2.3 km"\n  - "Kallmi Beach 3.4 km"\n  - "West End Beach 4.3 km"\n  - "Shkëmbi i Kavajës Beach 4.4 km"\nwhatsNearby:\n  - "Bekimi 1.6 km"\n  - "Wine Dhe Pooh 2 km"\n  - "Sheshi Demokracia 2 km"\n  - "Yje Dhe Hena 2.1 km"\n  - "Sotir Noka 2.3 km"\n  - "Durres Amphiteatre 2.3 km"\n  - "1. Maj 2.5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 23 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/modern-view-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into a generously sized apartment featuring two bedrooms, each thoughtfully designed to provide a restful night's sleep. The living space is equipped with a TV for entertainment and a kitchenette that caters to every culinary need, including a dishwasher, oven, washing machine, microwave, and toaster. The addition of a private entrance enhances the sense of exclusivity and privacy for those staying.
 
-Guests are welcomed into a generously sized apartment featuring two bedrooms, each thoughtfully designed to provide a restful night's sleep. The living space is equipped with a TV for entertainment and a kitchenette that caters to every culinary need, including a dishwasher, oven, washing machine, microwave, and toaster. The addition of a private entrance enhances the sense of exclusivity and privacy for those staying.
-
-For convenience, a minimarket on the premises ensures that essentials are always within reach.
+For convenience, a minimarket on the premises ensures that essentials are always within reach. 
 
 Explorers will appreciate the apartment's proximity to local attractions, with the Rock of Kavaje just 7.8 km away and the historical Former Residence of Enver Hoxha 37 km from the doorstep. For those traveling by air, Tirana International Mother Teresa Airport is conveniently located 31 km away, making Modern View Apartments an ideal base for both short and extended stays in the region.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

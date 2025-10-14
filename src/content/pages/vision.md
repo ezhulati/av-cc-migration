@@ -5,9 +5,8 @@ featuredImage: "/images/pages/AlbaniaVisit_logo_plane_black.png"
 language: en
 slug: vision
 seo:
-  metaTitle: Our Vision
-  metaDescription: ""
   canonicalURL: https://albaniavisit.com/vision/
+  metaTitle: "Our Vision %sep% %sitename%"
 ---
 
 ![AlbaniaVisit.com logo 

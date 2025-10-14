@@ -1,26 +1,5 @@
----
-title: Vila Proi
-description: The accommodations at Vila Proi are thoughtfully designed with the modern traveler in mind. Each air-conditioned unit is equipped with a private bathroom, a fla
-featuredImage: "/images/accommodation/480215933.jpg"
-language: en
-slug: vila-proi
-location: ""
-amenities: []
-images: []
----
-
-The accommodations at Vila Proi are thoughtfully designed with the modern traveler in mind. Each air-conditioned unit is equipped with a private bathroom, a flat-screen TV for entertainment, a fully equipped kitchen for those who love to cook, and a balcony to enjoy the tranquil views. The family rooms make it an ideal choice for those traveling with loved ones, ensuring a comfortable and memorable stay.
+---\ntitle: "Vila Proi"\ndescription: "Vila Proi emerges as a charming retreat in Ksamil, boasting a prime location merely a stone's throw away from the pristine shores of Ksamil Beach 9."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480215933.jpg?k=1fb4717a4d7f0746947b02b4d4065b153943ae57add1539cf36f805980885238&o=&hp=1"\nlanguage: en\nslug: vila-proi\naddress: "Rruga Cameria, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.76393486\n  lng: 20.00078161\nprice: "US$215"\npriceFrom: 215\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 2\nratings:\n  overall: 9\n  location: 8.8\n  cleanliness: 8.8\n  facilities: 8.8\n  value: 8.8\n  comfort: 8.8\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480215933.jpg?k=1fb4717a4d7f0746947b02b4d4065b153943ae57add1539cf36f805980885238&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480215919.jpg?k=c38c33b3e98fb8c24172a085aeba78bd470e2bd50248d123fa63c78fc741019b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480215901.jpg?k=ba1a1ad1c266c23b016cc23b190b9d13716ed61e7f04cf15b8d1341bf1f78c26&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480215864.jpg?k=56d7c3d5b919160a0c9c0211d96f0ccc5792c724578f1a7d30f6bc8c2846c423&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480215929.jpg?k=0a558fe8ba62d96a316139fb48fb96130995f38b67c225699978d5939573da13&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480215811.jpg?k=f76e80ac4068e6eedb48fc791d300c21d38fb3511184d07f4bcb830ebd6ff50c&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Museum of Banknotes 17 km"\n  - "New Fortress 17 km"\n  - "Serbian Museum 17 km"\n  - "Theotoki G. Square 17 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 18 km"\n  - "Trion Martiron Park 18 km"\n  - "Mon Repos Palace 19 km"\n  - "Kapodistrias Museum 19 km"\nnearbyRestaurants:\n  - "Krenari Grill Station 50 m"\n  - "Mario Seafood 200 m"\nnearbyBeaches:\n  - "Paradise Beach 450 m"\n  - "Ksamil Beach 9 450 m"\n  - "Lori Beach 550 m"\n  - "Puerto Rico Beach 650 m"\n  - "Bora Bora Beach 800 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 400 m"\n  - "Butrint National Park 2.7 km"\n  - "Plazhi I Krorezes 4 km"\n  - "Parc National de Butrint 11 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 17 km"\n  - "Old Fortress 17 km"\nairports:\n  - "Corfu International Airport 19 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Anonymous"\n    country: "Bosnia and Herzegovina"\n    text: "“Jako cist aparman Vlasnici jako ljubazni i fini
+Slike od apartmana 100% orginal
+🇧🇦🇧🇦”"\n  - name: "Izzo"\n    country: "Italy"\n    text: "“La posizione strategica, vicinissima alla spiaggia.”"\nbookingURL: "https://www.booking.com/hotel/al/vila-proi.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodations at Vila Proi are thoughtfully designed with the modern traveler in mind. Each air-conditioned unit is equipped with a private bathroom, a flat-screen TV for entertainment, a fully equipped kitchen for those who love to cook, and a balcony to enjoy the tranquil views. The family rooms make it an ideal choice for those traveling with loved ones, ensuring a comfortable and memorable stay.
 
 For moments of relaxation, guests are invited to unwind in the lush garden, a peaceful oasis away from the hustle and bustle. And for those looking to explore beyond, the Corfu International Airport is 92 km away, making Vila Proi a convenient base for both local and international travelers seeking a serene getaway by the Albanian Riviera.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

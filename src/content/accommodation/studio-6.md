@@ -1,15 +1,4 @@
----
-title: Studio 6
-description: Guests at Studio 6 are treated to modern amenities designed to ensure a seamless stay. The apartment features complimentary WiFi, allowing visitors to stay conn
-featuredImage: "/images/accommodation/505765692.jpg"
-language: en
-slug: studio-6
-location: ""
-amenities: []
-images: []
----
-
-Guests at Studio 6 are treated to modern amenities designed to ensure a seamless stay. The apartment features complimentary WiFi, allowing visitors to stay connected with ease. Entertainment needs are met with a flat-screen TV, perfect for unwinding after a day of exploration. The kitchen is well-equipped with a refrigerator and stovetop, catering to those who prefer home-cooked meals. Additionally, the provision of towels and bed linen adds a touch of convenience to the lodging experience.
+---\ntitle: "Studio 6"\ndescription: "Studio 6 emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505765692.jpg?k=75f8ff49854a1924ad78903b3d0f704f05579d3fff5dd38af7f9dadd4d3af769&o=&hp=1"\nlanguage: en\nslug: studio-6\naddress: "Rruga Sazani,, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4579281\n  lng: 19.4688035\nprice: "US$24"\npriceFrom: 24\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505765692.jpg?k=75f8ff49854a1924ad78903b3d0f704f05579d3fff5dd38af7f9dadd4d3af769&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505765648.jpg?k=5211f748177a8b3257ceb79dd1d7038c55ed83581aec395a5335afc36f4c9551&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505765685.jpg?k=f67eb4d515c82e8a2190e28277ea300594769663287108f9a9a3471b60fcf004&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505765690.jpg?k=83733f3d9be3dd08a43538151acf0473485fcdf7ee7f4fb5022dac757a2bed94&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505765695.jpg?k=72c843060356e312f582d417d84a1e51871b5dbc785246123156d3c5b2fbf3ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505765697.jpg?k=ce7712af5f3bf8bb8b548611e1434083d969931619459603e5674b275e293f08&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505765701.jpg?k=d3b1551f8fa195145bca5028f54b893f158566607f96a73de78af5c3ed3551e8&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Bar Restorant F. Feimi 150 m"\n  - "Vlora, Minimalist 150 m"\nnearbyBeaches:\n  - "Vjetër Beach 50 m"\n  - "Vlore Beach 2.3 km"\n  - "Ri Beach 3.3 km"\n  - "Narta Beach 4.3 km"\n  - "Beach at Government Villas 4.4 km"\nwhatsNearby:\n  - "Kuzum Baba 2.3 km"\n  - "Independence Square 2.3 km"\n  - "Scooby Doo Vlore 3.3 km"\nbookingURL: "https://www.booking.com/hotel/al/studio-6.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Studio 6 are treated to modern amenities designed to ensure a seamless stay. The apartment features complimentary WiFi, allowing visitors to stay connected with ease. Entertainment needs are met with a flat-screen TV, perfect for unwinding after a day of exploration. The kitchen is well-equipped with a refrigerator and stovetop, catering to those who prefer home-cooked meals. Additionally, the provision of towels and bed linen adds a touch of convenience to the lodging experience.
 
 From the comfort of Studio 6, guests can enjoy captivating city views, adding an urban flair to the beachside getaway. For quick essentials or snacks, a minimarket on the premises offers added convenience.
 
@@ -18,15 +7,3 @@ The apartment's location is not only ideal for beach enthusiasts but also for th
 For travelers arriving by air, Tirana International Mother Teresa Airport is the nearest gateway, situated 151 km from Studio 6, making it a feasible option for international visitors.
 
 Studio 6 presents itself as a smart choice for those looking to experience the best of Vlorë, combining the comforts of home with the excitement of travel.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

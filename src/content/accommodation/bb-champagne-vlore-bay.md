@@ -4,9 +4,22 @@ description: Guests arriving by car will appreciate the complimentary private pa
 featuredImage: "/images/accommodation/372817445.jpg"
 language: en
 slug: bb-champagne-vlore-bay
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Air Conditioning"
+  - "Parking"
+  - "Restaurant"
+  - "Bar"
+  - "Breakfast"
+  - "Sea View"
+  - "Room Service"
+  - "TV"
 ---
 
 Guests arriving by car will appreciate the complimentary private parking, a rarity in such a prime location. The property doesn't just stop at offering convenience; it extends its hospitality to include a range of facilities designed to enhance the stay of every guest. From the on-site restaurant serving a variety of delectable dishes to the availability of free WiFi across the premises, B&B Champagne, Vlore Bay ensures a seamless and connected stay. The inclusion of a lift and room service further underscores the property's commitment to guest comfort and satisfaction.
@@ -19,14 +32,3 @@ Located just 1.2 km from Baro Beach and 15 km from the historic Kuzum Baba, B&B 
 
 In summary, B&B Champagne, Vlore Bay stands out as a premier choice for guests seeking a memorable stay in Vlorë, offering a harmonious blend of location, comfort, and service.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

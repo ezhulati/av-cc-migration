@@ -1,30 +1,8 @@
----
-title: Bellesuite Tirana
-description: This air-conditioned abode is thoughtfully designed to cater to the modern traveler's needs, featuring a cozy bedroom, a welcoming living room, and a fully equi
-featuredImage: "/images/accommodation/352183156.jpg"
-language: en
-slug: bellesuite-tirana
-location: ""
-amenities: []
-images: []
----
-
-This air-conditioned abode is thoughtfully designed to cater to the modern traveler's needs, featuring a cozy bedroom, a welcoming living room, and a fully equipped kitchen boasting amenities like a dishwasher and kettle. The inclusion of a bathroom equipped with a bidet and slippers adds a touch of home-like comfort. Entertainment needs are well met with a flat-screen TV, and the added benefit of a private entrance ensures guests' privacy is paramount.
+---\ntitle: "Bellesuite Tirana"\ndescription: "Bellesuite Tirana emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352183156.jpg?k=80fa55ed4c4ec7dbead8710e0f069c50aa40abdc77beb7eda25011507a019e0d&o=&hp=1"\nlanguage: en\nslug: bellesuite-tirana\naddress: "Rruga Thanas Ziko 46, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3348016\n  lng: 19.8268881\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 114\nratings:\n  overall: 9.6\n  location: 9.3\n  cleanliness: 9.6\n  facilities: 9.6\n  value: 9.5\n  comfort: 9.7\n  staff: 9.3\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352183156.jpg?k=80fa55ed4c4ec7dbead8710e0f069c50aa40abdc77beb7eda25011507a019e0d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347574895.jpg?k=6e96da8e1c6e7bf3f9b20e78940f3c5d25e63562a4e3cac49cc633f028ae8dd8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347575900.jpg?k=59b30c5ac5e0876d5984ba415e0d4c7d9183c5afd5b0545b1e90e8df99ab1f60&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347575250.jpg?k=e6373e8eb4ca952662644327359ce9bb635e70026fa1716aea2ddc2f3bfcf220&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/215210983.jpg?k=a1f45f8a3e449d2c9a51c4f933d5574dd160ba30f4d09895406293ae7d49498e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347575908.jpg?k=7c303737f27a9dac1b1b92513084c1918bbd48e364ddb478a9d92d50b7660020&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347575707.jpg?k=7d8c1a7ed6b60831257c7fcd98df80f79b313af57d481f51f2fe1127e3eabda7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/215211161.jpg?k=20993d78c13133a54e4ae3a8cb42ca9434b43f33ad177a46f1b61d8b0e9ca1ef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/163084539.jpg?k=055903925782c040de12b912cae619cad0d79ad2c3141b3a2840e04cb76071b4&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Holiday Home"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 1.1 km"\n  - "House of Leaves 1.3 km"\n  - "Rinia Park 1.3 km"\n  - "Former Residence of Enver Hoxha 1.7 km"\n  - "Grand Park of Tirana 2.5 km"\n  - "Bunk'Art 1 Museum 3.3 km"\nreviews:\n  - name: "Franceska"\n    country: "Albania"\n    text: "“Excellent Location, Clean Rooms, Great value for money.
+The best place to stay in Tirana.”"\n  - name: "Ricarda"\n    country: "Germany"\n    text: "“Great place to stay, really suited to stay for multiple days”"\n  - name: "Tereza"\n    country: "Czech Republic"\n    text: "“One of the best value for money apartment I have ever visited. The bed is extra comfortable, everything seemed new/in good condition, location was 15 minutes walk to city center and there was a big private parking spot in the yard. Communication...”"\nbookingURL: "https://www.booking.com/hotel/al/bellesuite-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis air-conditioned abode is thoughtfully designed to cater to the modern traveler's needs, featuring a cozy bedroom, a welcoming living room, and a fully equipped kitchen boasting amenities like a dishwasher and kettle. The inclusion of a bathroom equipped with a bidet and slippers adds a touch of home-like comfort. Entertainment needs are well met with a flat-screen TV, and the added benefit of a private entrance ensures guests' privacy is paramount.
 
 Beyond the confines of this inviting holiday home, guests are encouraged to unwind in the serene garden, a perfect spot for relaxation. The property prides itself on offering complimentary private parking and WiFi, ensuring a hassle-free stay.
 
 For those keen to explore, Bellesuite Tirana serves as an ideal launchpad. The National Museum of History Albania, Toptani Shopping Centre, and the Clock Tower Tirana are all within easy reach, promising a blend of cultural and retail therapy. For further convenience, the property is located 15 km from Tirana International Mother Teresa Airport, with a paid shuttle service available to ensure seamless travel arrangements.
 
 Bellesuite Tirana not only offers a comfortable stay but also positions guests at the heart of Albania's capital, making it a compelling choice for those looking to immerse themselves in the city's charm.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,5 @@
----
-title: Castle Hotel
-description: Dining at Castle Hotel is an experience in itself, with an à la carte restaurant and a bar that boasts a terrace directly facing the sea. Here, guests can savor
-featuredImage: "/images/accommodation/27716001.jpg"
-language: en
-slug: castle-hotel
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Castle Hotel"\ndescription: "Castle Hotel emerges as a charming retreat in the heart of Gjirokastër, offering guests a blend of comfort and convenience with its array of amenities."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498980378.jpg?k=81765282d2da71808387145819b08aae26ac6d1d479159defad1b141229c39a7&o=&hp=1"\nlanguage: en\nslug: castle-hotel\naddress: "Astrit Karagjozi 15, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.07171555\n  lng: 20.1369058\nprice: "US$65"\npriceFrom: 65\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 271\nratings:\n  overall: 9.2\n  location: 9.2\n  cleanliness: 9.3\n  facilities: 8.7\n  value: 9.2\n  comfort: 9\n  staff: 9.7\n  wifi: 9.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498980378.jpg?k=81765282d2da71808387145819b08aae26ac6d1d479159defad1b141229c39a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472514890.jpg?k=a91ff092984a262eaefb02181d2f1ba9863d21b52bbbc0af3ff3ab055918b1e1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464906397.jpg?k=5bc0ffd8647d68ff949ebd5352afbf05e4412ed34062c940afae87103791dd85&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498981829.jpg?k=fb4a535d0005bbafd793e836f5aa1f67220b0e0de827f36903b350bc18555685&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498981654.jpg?k=2b10947971ac34247bb72a15794255cc1d775437facba46ab1479eab55ead089&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150118176.jpg?k=a723cf13480e4d8ad061e166e51128c325d34476140e447ff31e6b335a14a1f2&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Bar"\n  - "Fabulous breakfast"\nroomTypes:\n  - "Triple Room"\nnearbyRestaurants:\n  - "Restorant Tradicional Urat 50 m"\n  - "Taverna Tradicionale Kardhashi 50 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Sonette"\n    country: "Malta"\n    text: "“Our stay was really lovely. The historic house has been professionally renovated and looks amazing. Beautiful views and very large rooms. The castle is in full view on the mountain.”"\n  - name: "Aida"\n    country: "Albania"\n    text: "“Very nice clean and comfortable hotel i recommended 👌”"\n  - name: "Amanda"\n    country: "Netherlands"\n    text: "“We loved to stay there! It is a family run business, that they take a lot of care with love. Location and view are stunning! It is simply magic to have breakfast on the balcony!”"\nbookingURL: "https://www.booking.com/hotel/al/castle-gjirokaster.en-gb.html?aid=8035640"\nbestFor: "Best for Historical Sites Proximity"\nbestCategories: "Historical Sites Proximity"\ncategory: "Historical Sites Proximity"\n---\n\nThe property is distinguished by its beautifully manicured garden, a shared lounge perfect for unwinding, a welcoming terrace, and an inviting bar, creating an atmosphere that caters to both leisure and social interaction. The hotel's commitment to service is evident through its 24-hour front desk and the thoughtful provision of luggage storage space, catering to the needs of every guest.
 
-Dining at Castle Hotel is an experience in itself, with an à la carte restaurant and a bar that boasts a terrace directly facing the sea. Here, guests can savor exquisite meals while being caressed by the gentle sea breeze, making every dining experience memorable.
+Accommodations at Castle Hotel are thoughtfully designed, featuring essential amenities such as a wardrobe for personal belongings. Entertainment is not overlooked, with each room equipped with a flat-screen TV. Select rooms elevate the experience further, offering captivating city views that promise to enchant guests. Comfort is paramount, with each room outfitted with quality bed linen and towels, ensuring a restful night's sleep.
 
-Located merely a kilometer away from the heart of Himare, the hotel ensures that guests have the perfect balance between tranquility and the vibrant local life. For those who wish to explore further, the Main Bus Station, offering routes to Tirana, is just 1.3 km away, making it convenient for guests to venture out.
-
-Castle Hotel is committed to providing an effortless stay with services such as a 24-hour front desk, luggage storage, and a safety deposit box. Moreover, guests arriving by car will find the complimentary on-site parking to be a significant convenience.
-
-With free Wi-Fi access throughout the property, guests can stay connected with the world or share their memorable moments at Castle Hotel. This establishment is not just a place to sleep; it's a destination that offers a blend of relaxation, convenience, and the beauty of the Albanian coastline.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}
+Situated 44 km from the serene Zaravina Lake and 83 km from Ioannina Airport, Castle Hotel's location offers a perfect base for exploring the rich surroundings or embarking on a tranquil retreat away from the hustle and bustle. This hotel stands out as a preferred choice for travelers seeking a blend of comfort, convenience, and attentive service in Gjirokastër.

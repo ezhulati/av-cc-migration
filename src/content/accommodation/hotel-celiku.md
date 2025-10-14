@@ -1,26 +1,5 @@
----
-title: Hotel Celiku
-description: "Each room at Hotel Celiku is thoughtfully appointed, featuring essential storage with a wardrobe and the luxury of a private bathroom."
-featuredImage: "/images/accommodation/473228335.jpg"
-language: en
-slug: hotel-celiku
-location: ""
-amenities: []
-images: []
----
-
-Each room at Hotel Celiku is thoughtfully appointed, featuring essential storage with a wardrobe and the luxury of a private bathroom. The inclusion of a bidet and complimentary toiletries adds a touch of elegance, while the presence of a flat-screen TV and air conditioning in every room guarantees comfort. Select accommodations also boast a balcony, offering guests a private space to enjoy the peaceful garden views.
+---\ntitle: "Hotel Celiku"\ndescription: "Hotel Celiku emerges as a serene retreat in Muriqan, located a mere 33 km from the bustling Port of Bar."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473228335.jpg?k=342d2a7a603e045aac616cdaa9ee8bdbf2f9d6deffee6f38d64324b9caf6b674&o=&hp=1"\nlanguage: en\nslug: hotel-celiku\naddress: "SH41 rruga shtuf dogane, 4001 Muriqan, Albania"\ncity: "Muriqan"\nlocation: "Muriqan"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.0177261\n  lng: 19.37541448\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 13\nratings:\n  overall: 8.8\n  location: 9\n  cleanliness: 9\n  facilities: 8.3\n  value: 9\n  comfort: 8.3\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473228335.jpg?k=342d2a7a603e045aac616cdaa9ee8bdbf2f9d6deffee6f38d64324b9caf6b674&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473228464.jpg?k=3974caacafa7f41ebd156545fce682dca49df62a6779164855e9130da4131304&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422518855.jpg?k=36fcdfb2aeccb3a01cac00492395d8b7bd93bc7edf7fedd68b4f4476aa0ca3ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422514894.jpg?k=3b792a30da311bb117af9f44d47444b2ef435175704d64aebdbe9a9218cb3b23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420704834.jpg?k=9d8c49a9ead6c13acdd29a60cdee18ddea92b7a879e79b932fe041e0029c211f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420704417.jpg?k=f3b07e544dd92dd5a22efdff11be8ea961f9a4991bc113832b23c27f6628cf15&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Double Room"\n  - "Double Room with Private Bathroom"\n  - "Budget Double Room"\n  - "Double or Twin Room"\n  - "Budget Double or Twin Room"\n  - "Double Room with Garden View"\n  - "Budget Double Room"\n  - "Double Room"\n  - "King Room"\nnearbyAttractions:\n  - "Old Town Ulcinj 18 km"\nnearbyRestaurants:\n  - "Bar Restorant Çeliku 40 m"\n  - "Shasi 5 km"\nwhatsNearby:\n  - "National Park Skadar Lake 7 km"\n  - "Rozafa Castle Shkodra 10 km"\n  - "Cola Beach 15 km"\n  - "Tropicana 15 km"\n  - "Copacabana 15 km"\n  - "Imperiam Beach 15 km"\n  - "Msm Beach 16 km"\n  - "Plaža Safari 16 km"\n  - "Bukurija Beach 16 km"\n  - "Saranda 16 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tivat Airport 67 km"\n  - "Tirana International Airport Mother Teresa 71 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Diter"\n    country: "France"\n    text: "“Court arrêt dans le cadre du retour
+Accueil très correct alimentation correcte
+Logement fonctionnel”"\n  - name: "Philippine"\n    country: "Netherlands"\n    text: "“Dit was onze eerste stop in Albanie, 300 meter na de grens. En we zijn zeer positief en vriendelijk ontvangen door een super aardige medewerker. We kregen een hele mooie en schone kamer. Goed werkende airco en een heerlijk (groot!!) bed. We hebben...”"\n  - name: "Anonymous"\n    country: "Belarus"\n    text: "“Приветливый персонал, можно с животными, удобно что в комплексе есть ресторан.”"\nbookingURL: "https://www.booking.com/hotel/al/celiku.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nEach room at Hotel Celiku is thoughtfully appointed, featuring essential storage with a wardrobe and the luxury of a private bathroom. The inclusion of a bidet and complimentary toiletries adds a touch of elegance, while the presence of a flat-screen TV and air conditioning in every room guarantees comfort. Select accommodations also boast a balcony, offering guests a private space to enjoy the peaceful garden views.
 
 Strategically positioned, Hotel Celiku is a comfortable 70 km journey from Podgorica Airport, making it an accessible choice for travelers seeking both convenience and tranquility.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

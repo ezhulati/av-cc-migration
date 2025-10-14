@@ -1,30 +1,7 @@
----
-title: Cano Apartament
-description: "The apartment itself is a testament to modern living, featuring two well-appointed bedrooms, a fully equipped kitchen for those who prefer to prepare..."
-featuredImage: "/images/accommodation/463733171.jpg"
-language: en
-slug: cano-apartament
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to modern living, featuring two well-appointed bedrooms, a fully equipped kitchen for those who prefer to prepare their own meals, and a bathroom. Entertainment needs are catered to with the inclusion of a flat-screen TV, making it an ideal retreat for families or groups.
+---\ntitle: "Cano Apartament"\ndescription: "Cano Apartment emerges as a prime choice for travelers seeking comfort and convenience in Durrës, located within the scenic Durres County."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463733171.jpg?k=4eff2e2c3ee18c837bff637ed6354cf6d1f7ce986d1abccd3f64d2539e1af8f8&o=&hp=1"\nlanguage: en\nslug: cano-apartament\naddress: "Rruga Pavaresia, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31116388\n  lng: 19.48397814\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 7.2\nratingWords: "Good"\nnumberOfReviews: 17\nratings:\n  overall: 7.2\n  location: 7.9\n  cleanliness: 6.6\n  facilities: 6.9\n  value: 7.4\n  comfort: 6.9\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463733171.jpg?k=4eff2e2c3ee18c837bff637ed6354cf6d1f7ce986d1abccd3f64d2539e1af8f8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463733191.jpg?k=709de9843264960af5ea1e1d787ed1ad703382d86f22dac9ef8406864a5c039e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469632960.jpg?k=6bbf7e5c2e0518581e6d47dda2a15c9be52d7929f171e36f6bb1ad0bce039d9d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463733183.jpg?k=0d31d64b602207744c10f257fde8cad7a025f53908babb8c7d67745ff3bf0061&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469632961.jpg?k=530ca1a63fe0984987df9c5393fa448fa7971b763dc4a40d501bf35da3e86a70&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463733187.jpg?k=b64d074387c6d8f3be04f4bbb5bef64e5626e907d9acac39a1a3f15874a51f03&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469632957.jpg?k=600a3208948702339a5766f80e16b84547c9026b7e43ee8a99db599497e59469&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463733174.jpg?k=b94eac936bd34b63c799b04d91ee32791fc9a2a96f62d809fe6dfea5edb0565f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463733154.jpg?k=d424ffdfc504a50634a1728a35d721868a04952aaa2c1d26bc6b7b0ede22480f&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Skrapari 100 m"\n  - "Prince 200 m"\nnearbyBeaches:\n  - "Durres Beach 100 m"\n  - "Currila Beach 3.1 km"\n  - "Shkëmbi i Kavajës Beach 3.5 km"\n  - "Kallmi Beach 4.4 km"\n  - "West End Beach 5 km"\nwhatsNearby:\n  - "Bekimi 1.9 km"\n  - "Wine Dhe Pooh 3 km"\n  - "Sheshi Demokracia 3 km"\n  - "Yje Dhe Hena 3.1 km"\n  - "Durres Amphiteatre 3.3 km"\n  - "Sotir Noka 3.3 km"\n  - "1. Maj 3.4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/cano-apartament.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to modern living, featuring two well-appointed bedrooms, a fully equipped kitchen for those who prefer to prepare their own meals, and a bathroom. Entertainment needs are catered to with the inclusion of a flat-screen TV, making it an ideal retreat for families or groups.
 
 One of Cano Apartment's most notable features is its terrace, offering a space for guests to relax and unwind. Its proximity to key attractions adds to its appeal; Durres Beach is a mere 600 meters away, inviting guests to enjoy the sun and sea. For those interested in exploring further, the Rock of Kavaje is just 6.8 km away, and the Dajti Ekspres Cable Car, offering breathtaking views, is within a 42 km drive.
 
 Located 38 km from Skanderbeg Square, the apartment provides an excellent base for visitors looking to explore the historical and cultural offerings of the area. Additionally, the convenience of being 32 km from Tirana International Mother Teresa Airport makes Cano Apartment a compelling choice for both domestic and international travelers.
 
 In summary, Cano Apartment offers a blend of comfort, convenience, and accessibility, making it a highly recommended stay for anyone visiting Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,26 +1,3 @@
----
-title: Crox Appartaments
-description: The interior of the apartment reveals a spacious layout, complete with a bedroom, bathroom, and a living area that includes a flat-screen TV and dining space. T
-featuredImage: "/images/accommodation/472970616.jpg"
-language: en
-slug: crox-appartaments
-location: ""
-amenities: []
-images: []
----
-
-The interior of the apartment reveals a spacious layout, complete with a bedroom, bathroom, and a living area that includes a flat-screen TV and dining space. The kitchen is fully equipped, catering to guests' culinary needs, while the terrace invites serene moments overlooking the sea. Notably, the apartment features a private entrance and soundproofing, providing an undisturbed haven for guests.
+---\ntitle: "Crox Appartaments"\ndescription: "Crox Appartaments emerges as a serene retreat in the vibrant city of Sarandë, offering guests a unique blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472970616.jpg?k=b313bbcc73dc10712bb1a8951cf18c83c7bbe2c414430b2af4419746a65604b8&o=&hp=1"\nlanguage: en\nslug: crox-appartaments\naddress: "57 Rruga Guri Nazifi, 2110 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.8724832\n  lng: 19.9904157\nprice: "US$67"\npriceFrom: 67\nstarRating: 3\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 1\nratings:\n  overall: 7.5\n  location: 7.5\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 7.5\n  comfort: 7.5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472970616.jpg?k=b313bbcc73dc10712bb1a8951cf18c83c7bbe2c414430b2af4419746a65604b8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472968006.jpg?k=3e91c6819049728617e6eaf527d46947976d0f69b4264227c436139d97e49450&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472968028.jpg?k=85dd8831d781c1a579af1071ec7bc6411ef21c68547352b194aa13394fdaf9de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472968008.jpg?k=e0f53e169b0c9eeae5d7d8e0d94364c74761d5849d8bcee507764c973c3bbc70&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472968030.jpg?k=3ecf103d6fa7155176b6860cedb6cbc5f2d350fa0d3c36ee9115081201d16533&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472968071.jpg?k=42430cfd5447fed800bd9f6a438db36e32df8ab868c657168be45913946ea282&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472967994.jpg?k=7b9a1748973e3a141f94509d8e9f117c809be89736929cb9724f9037cd0c720e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472967999.jpg?k=5ab09ac98350e396729d68ec7a5ad2783311a20a9bb37829d9471e47b241d31e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472967951.jpg?k=00c97a9bbb9b0cd93fbda8a1e2a29c038895dc82628be885b9bba3734dd5fbe6&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "TAVERNA FISH LAND 100 m"\n  - "Taverna del Mare 150 m"\nnearbyBeaches:\n  - "Sarande Main Beach 100 m"\n  - "Saranda Bay Beach 850 m"\n  - "Saranda City Beach 1.6 km"\n  - "La Petite Beach 2.1 km"\n  - "Maestral Beach 2.2 km"\nwhatsNearby:\n  - "Parc National de Butrint 3.3 km"\n  - "Butrint National Park 3.9 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 73 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nbookingURL: "https://www.booking.com/hotel/al/crox-appartaments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe interior of the apartment reveals a spacious layout, complete with a bedroom, bathroom, and a living area that includes a flat-screen TV and dining space. The kitchen is fully equipped, catering to guests' culinary needs, while the terrace invites serene moments overlooking the sea. Notably, the apartment features a private entrance and soundproofing, providing an undisturbed haven for guests.
 
 Strategically located, Crox Appartaments is a stone's throw away from Sarande Main Beach, Saranda Bay Beach, and Saranda City Beach, making it an ideal base for exploring the city's coastal attractions. For those venturing further, Ioannina Airport is within a manageable distance, 98 km away, facilitating travel plans. This property stands out as a top choice for travelers seeking a blend of tranquility, convenience, and scenic beauty in Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

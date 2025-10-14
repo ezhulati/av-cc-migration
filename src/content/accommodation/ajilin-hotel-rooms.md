@@ -1,30 +1,7 @@
----
-title: Ajilin Hotel Rooms
-description: Each room at Ajilin Hotel Rooms is a testament to thoughtful hospitality, featuring a balcony that opens up to captivating city views. The private bathrooms are
-featuredImage: "/images/accommodation/369592011.jpg"
-language: en
-slug: ajilin-hotel-rooms
-location: ""
-amenities: []
-images: []
----
-
-Each room at Ajilin Hotel Rooms is a testament to thoughtful hospitality, featuring a balcony that opens up to captivating city views. The private bathrooms are well-appointed with showers and complimentary toiletries, ensuring a comfortable stay. Moreover, the provision of bed linen and towels in every room adds a touch of home-like warmth.
+---\ntitle: "Ajilin Hotel Rooms"\ndescription: "Ajilin Hotel Rooms stands as a beacon of comfort and relaxation in the heart of Korçë, a mere 44 km away from the serene Ohrid Lake Springs."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369592011.jpg?k=5e1ed3430c5edf4b8f84ec38f65b4c4fa6dd79c08468738bc8346628412d7775&o=&hp=1"\nlanguage: en\nslug: ajilin-hotel-rooms\naddress: "Rruga 28 Nëntori, 7001 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.61349686\n  lng: 20.77649233\nprice: "US$45"\npriceFrom: 45\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 243\nratings:\n  overall: 9.3\n  location: 9.3\n  cleanliness: 9.5\n  facilities: 9\n  value: 9.4\n  comfort: 9.3\n  staff: 9.4\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369592011.jpg?k=5e1ed3430c5edf4b8f84ec38f65b4c4fa6dd79c08468738bc8346628412d7775&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369605056.jpg?k=cdc6f6a7fd119f17d211c50fca30cd208cf16c40c3867ba1dda66633bba15157&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369605698.jpg?k=495d3545fc48d760302a41b0185c18826504414bf409102ace719782b3db2e44&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501725564.jpg?k=ce2756c2bc6c00a53d1a1e9cd9dbb8000d5634e36acf936e623d5a6dfa4845ea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501725526.jpg?k=445cca5b7eba0fc14f864b1d620f5284118c02e2f36b322c955215626cb6252a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369630008.jpg?k=608d64c693054e952f4f600bd449c79cc22cb94ba721604e3dbbbad791c8872b&o=&hp=1"\namenities:\n  - "Spa and wellness centre"\n  - "Non-smoking rooms"\n  - "Airport shuttle (free)"\n  - "Room service"\n  - "Free parking"\n  - "Family rooms"\n  - "Bar"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Budget Double Room"\nnearbyRestaurants:\n  - "Xh & M 40 m"\n  - "Benvenuti in Calabria 100 m"\nwhatsNearby:\n  - "Parku Vangjush Mio 250 m"\n  - "Parku Rinia 250 m"\n  - "Sheshi Patriku Joasaf 600 m"\n  - "Parku Themistokli Gërmenji 750 m"\n  - "Field of Tears 800 m"\n  - "Parku Rinia 1.6 km"\n  - "Sheshi Panxhar 5 km"\n  - "Sheshi Koço Plaku 12 km"\n  - "Sheshi Penetori 13 km"\nairports:\n  - "Kastoria National Airport 45 km"\n  - "Ohrid Airport 61 km"\n  - "Kozani National Airport 96 km"\nreviews:\n  - name: "Sergii"\n    country: "Ukraine"\n    text: "“Breakfast was good, and the value for money was great. House owners extremely friendly.”"\n  - name: "Dorina"\n    country: "Greece"\n    text: "“Një hotel për të cilin kam padyshim vlerësimin më të mirë. Cilësia e shërbimit tepër e lartë. Pastërtia, komoditeti dhe vendodhja meritojnë fjalët më të mira. Zonjat Lina dhe Ana tepër të sjellshme dhe mikepritëse. Mëngjesi i këndshëm i shërbyer...”"\n  - name: "Jonida"\n    country: "Albania"\n    text: "“It exceeded my expectations, very good location and a nice breakfast. Perfect place for a quiet stay. Friendly staff, ready to help you in everything.”"\nbookingURL: "https://www.booking.com/hotel/al/ajilin-rooms-korce.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nEach room at Ajilin Hotel Rooms is a testament to thoughtful hospitality, featuring a balcony that opens up to captivating city views. The private bathrooms are well-appointed with showers and complimentary toiletries, ensuring a comfortable stay. Moreover, the provision of bed linen and towels in every room adds a touch of home-like warmth.
 
 Guests can expect unparalleled service around the clock at Ajilin Hotel Rooms. The reception is staffed with multilingual personnel fluent in Greek, English, and Albanian, ready to assist with any inquiries or needs.
 
 For those looking to explore the surrounding area, the Monastery Saint Naum is located just 43 km away, making for an easy day trip. Additionally, the Kastoria National Airport is conveniently situated 71 km from the hotel, facilitating travel arrangements for guests.
 
 Ajilin Hotel Rooms emerges as a prime choice for travelers seeking a blend of comfort, convenience, and attentive service in Korçë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

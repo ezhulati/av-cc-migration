@@ -1,30 +1,7 @@
----
-title: Elite Gardens 681
-description: The accommodation at Elite Gardens 681 is thoughtfully designed with guest comfort in mind. The air-conditioned apartment features a spacious bedroom, a cozy li
-featuredImage: "/images/accommodation/433218514.jpg"
-language: en
-slug: elite-gardens-681
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Elite Gardens 681"\ndescription: "Elite Gardens 681 emerges as a distinguished choice for travelers seeking a blend of convenience and comfort in Durrës, Durres County."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433218514.jpg?k=dbacd274e6ac82bc7a3a84cf979da17d2d2dfb8c835dafca00e07e0fba5913f2&o=&hp=1"\nlanguage: en\nslug: elite-gardens-681\naddress: "8F6M+P58, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31179616\n  lng: 19.48288457\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433218514.jpg?k=dbacd274e6ac82bc7a3a84cf979da17d2d2dfb8c835dafca00e07e0fba5913f2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433218623.jpg?k=b11f707618ad2c068e9bcf9fe3613bf950799a2f62f5c2abe20aee01345e0bc4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433218526.jpg?k=1648fc35a02a78518a650c01a42eacb9435a78fc9541d1d8bd39329965a5181b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433218561.jpg?k=3b7653d4ce7436bdee669a73400131518b7578005a3947d0bae63cee86e30f54&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433218619.jpg?k=47dc99219fb8f81cca9f9f9195302ff7b37c9982275b8bd7c22c36c77da56e01&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433218575.jpg?k=a715bbdbd64b0a8524ca0253e9202bcef7b833c43f41a0990aa0abfb3b2898d6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433218586.jpg?k=d74524fbedc2820ce4a84650ab9a360f5c8ecc050968c246bfc46fe36950338b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433218300.jpg?k=8aa56c4de2651bf9725651aea83776f0f7fb09f0b0a0c265126be3bf1629bb9e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433218470.jpg?k=de77b01acda880e89d939db3d5ae427665b30ff8f15fe218b2a7c369150821e9&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free parking"\n  - "Free WiFi"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Antigua 100 m"\n  - "Restorant de Lux 150 m"\nnearbyBeaches:\n  - "Durres Beach 100 m"\n  - "Currila Beach 3 km"\n  - "Shkëmbi i Kavajës Beach 3.6 km"\n  - "Kallmi Beach 4.3 km"\n  - "West End Beach 5 km"\nwhatsNearby:\n  - "Bekimi 1.9 km"\n  - "Wine Dhe Pooh 2.9 km"\n  - "Sheshi Demokracia 2.9 km"\n  - "Yje Dhe Hena 3 km"\n  - "Durres Amphiteatre 3.2 km"\n  - "Sotir Noka 3.2 km"\n  - "1. Maj 3.4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/1-bedroom-apartment-681.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodation at Elite Gardens 681 is thoughtfully designed with guest comfort in mind. The air-conditioned apartment features a spacious bedroom, a cozy living room, and a fully equipped kitchen boasting modern appliances such as an oven and a kettle. The bathroom is well-appointed with a bidet and hair dryer, enhancing the home-away-from-home experience. For added convenience, towels and bed linen are readily provided.
 
-The accommodation at Elite Gardens 681 is thoughtfully designed with guest comfort in mind. The air-conditioned apartment features a spacious bedroom, a cozy living room, and a fully equipped kitchen boasting modern appliances such as an oven and a kettle. The bathroom is well-appointed with a bidet and hair dryer, enhancing the home-away-from-home experience. For added convenience, towels and bed linen are readily provided.
-
-For those needing to pick up essentials or snacks, a minimarket on-site means everything you need is within easy reach.
+For those needing to pick up essentials or snacks, a minimarket on-site means everything you need is within easy reach. 
 
 Location-wise, Elite Gardens 681 is strategically positioned for exploring beyond its immediate surroundings. Skanderbeg Square is located 38 km away, offering a glimpse into the rich history and culture of the area, while the Dajti Ekspres Cable Car, 42 km away, presents an opportunity for an unforgettable adventure with its scenic rides. For guests arriving by air, the Tirana International Mother Teresa Airport is a mere 32 km away, with the property offering a paid shuttle service for a seamless transfer experience.
 
 Elite Gardens 681 stands out as a prime choice for those desiring a serene retreat with the convenience of modern amenities and easy access to local attractions.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

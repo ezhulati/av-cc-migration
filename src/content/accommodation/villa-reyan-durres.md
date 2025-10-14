@@ -4,9 +4,12 @@ description: Security is paramount, with round-the-clock surveillance, alongside
 featuredImage: "/images/accommodation/468951071.jpg"
 language: en
 slug: villa-reyan-durres
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 3
+rating: 3
+accommodationType: "villa"
+location: "Tirana"
 ---
 
 Security is paramount, with round-the-clock surveillance, alongside the exclusivity of private check-in and check-out services, enhancing the personalized experience. Additionally, the convenience of a currency exchange service on-site caters to the international traveler.
@@ -17,14 +20,3 @@ Located a mere 100 meters from the inviting Durres Beach and within a manageable
 
 Villa ReyAn Durrës is not just a place to stay; it's a gateway to experiencing the vibrant culture and scenic beauty of Durrës, making it a top recommendation for discerning travelers.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

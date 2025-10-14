@@ -7,6 +7,10 @@ featuredImage: /images/attractions/blloku.jpg
 images: []
 language: en
 slug: blloku
+seo:
+  metaTitle: "Blloku - From Communist Hub to Cosmopolitan Heart of Tirana"
+  metaDescription: "Once a communist-era restricted zone, Tirana's Blloku district now thrums as Albania's most progressive hub.
+"
 ---
 
 Why Visit Blloku
@@ -73,10 +77,3 @@ While small-scale, Blloku offers much to uncover over repeated visits. Consult t
 
 Whether seeking heritage or nightlife, gastronomy, or artistry, Blloku entices global travelers to immerse themselves within Tirana’s most remarkable and storied quarter. Let your own story unfold over days, diving into the pulse of Albania’s progressive capital.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

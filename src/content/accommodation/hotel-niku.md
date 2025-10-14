@@ -1,30 +1,9 @@
----
-title: Hotel Niku
-description: Parking woes are a thing of the past, as Hotel Niku provides complimentary private parking, alongside a paid airport shuttle service for those coming from or go
-featuredImage: "/images/accommodation/202171264.jpg"
-language: en
-slug: hotel-niku
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Hotel Niku"\ndescription: "Hotel Niku stands out as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202171264.jpg?k=9ed4ba97ddded1f68491982846d73fc105d04b016b9ca3324b11d93dd99eb7ec&o=&hp=1"\nlanguage: en\nslug: hotel-niku\naddress: "Rruga Siri Kodra, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.33396409\n  lng: 19.82219495\nprice: "US$37"\npriceFrom: 37\nstarRating: 3\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 388\nratings:\n  overall: 8.4\n  location: 9\n  cleanliness: 8\n  facilities: 7.4\n  value: 8.4\n  comfort: 8\n  staff: 8.9\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202171264.jpg?k=9ed4ba97ddded1f68491982846d73fc105d04b016b9ca3324b11d93dd99eb7ec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202180764.jpg?k=9ab90740d15d4d1cca2b3b89754d57d5158828c4b8a4f516924c92ddfaf75480&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202175401.jpg?k=68f72d41e2a33751a5ee0b33bd2e117bb5b3063dc57b8b72006b0230886f280a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202180696.jpg?k=e61768364eecc4c8356bf75283a0a71859c1f5ba265acff53a98ef91e8475e7d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202177181.jpg?k=c6d828a69be8d98515e574d8785e137fcff5decf370378dd710f51c318f4162e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202173653.jpg?k=55b70905d8624fb781792ada9a7c7dd6d76031763666ff5b76c1c9c3f55d4b73&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202175390.jpg?k=8580b440f12b4eab4a757539854d5dbe8dc6203192d1845bc44a9e9962c99edf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202182885.jpg?k=94aebc1d1cf5dc258c42c0bd972373a61859ecf4056c92b17bb5396b3eabc0e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202245508.jpg?k=4202e7825620f5d9c19da5cbcda8da9dc91479268674585f674b7e9332feedd9&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\nroomTypes:\n  - "Standard Double Room"\n  - "Comfort Triple Room with Shower"\n  - "Classic Triple Room"\nnearbyAttractions:\n  - "Tanners' Bridge 900 m"\n  - "House of Leaves 950 m"\n  - "Rinia Park 1.1 km"\n  - "Former Residence of Enver Hoxha 1.5 km"\n  - "Grand Park of Tirana 2.5 km"\n  - "Bunk'Art 1 Museum 3.7 km"\nnearbyRestaurants:\n  - "Klub 20 m"\n  - "Blua Fish 100 m"\nwhatsNearby:\n  - "Amazing Nature 250 m"\n  - "Sheshi Sulejman Pasha 600 m"\n  - "National Museum of History Albania 650 m"\n  - "Sheshi Skënderbej 700 m"\n  - "Clock Tower Tirana 700 m"\n  - "Skanderbeg Square 750 m"\n  - "Sheshi Rekreativ tek ish ATSh 750 m"\n  - "Parku Europa 750 m"\n  - "Sheshi Paris 800 m"\n  - "National Gallery of Arts Tirana 850 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Cristina"\n    country: "Romania"\n    text: "“Pretty close to the city center
+The rooms are clean and nice
+The staff is nice”"\n  - name: "Davor"\n    country: "North Macedonia"\n    text: "“The owners were awesome. Very good and kind people. Recommend!”"\n  - name: "Richard"\n    country: "United Kingdom"\n    text: "“Great location, close to Skanderbeg Square and with a supermarket and restaurants nearby. Very helpful and friendly staff. Nice to have a balcony. Good value.”"\nbookingURL: "https://www.booking.com/hotel/al/niku.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nParking woes are a thing of the past, as Hotel Niku provides complimentary private parking, alongside a paid airport shuttle service for those coming from or going to Tirana International Mother Teresa Airport, which is just 14 kilometers away. The convenience doesn't end there; each room is thoughtfully equipped with a wardrobe, a desk, and a flat-screen TV. Select rooms even boast a balcony, offering a perfect nook for guests to enjoy their morning coffee or unwind after a day of exploration.
 
-Parking woes are a thing of the past, as Hotel Niku provides complimentary private parking, alongside a paid airport shuttle service for those coming from or going to Tirana International Mother Teresa Airport, which is just 14 kilometers away. The convenience doesn't end there; each room is thoughtfully equipped with a wardrobe, a desk, and a flat-screen TV. Select rooms even boast a balcony, offering a perfect nook for guests to enjoy their morning coffee or unwind after a day of exploration.
-
-The hotel's multilingual staff, proficient in English, Spanish, and Italian, are always on hand at the reception to offer valuable insights and tips about the city, ensuring guests make the most of their stay in Tirana.
+The hotel's multilingual staff, proficient in English, Spanish, and Italian, are always on hand at the reception to offer valuable insights and tips about the city, ensuring guests make the most of their stay in Tirana. 
 
 For those keen to explore the local culture and history, Hotel Niku is ideally situated near several key attractions, including the Former Residence of Enver Hoxha, the National Theatre of Opera and Ballet of Albania, and the National Museum of History Albania. This makes it an excellent base for guests eager to immerse themselves in the rich heritage of Albania.
 
 In summary, Hotel Niku presents a compelling package of comfort, convenience, and insightful local experiences, making it a top recommendation for travelers visiting Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

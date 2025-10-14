@@ -1,28 +1,5 @@
----
-title: Vila Isi
-description: Upon entering the rooms at Vila Isi, guests are greeted with a harmonious blend of functionality and comfort. Each room is thoughtfully equipped with a desk, ai
-featuredImage: "/images/accommodation/375943060.jpg"
-language: en
-slug: vila-isi
-location: ""
-amenities: []
-images: []
----
-
-Upon entering the rooms at Vila Isi, guests are greeted with a harmonious blend of functionality and comfort. Each room is thoughtfully equipped with a desk, air conditioning, and a flat-screen TV for those moments of relaxation. The attention to detail extends to the private bathrooms, which are outfitted with showers and complimentary toiletries, ensuring a refreshing and hassle-free experience. For those seeking a touch more luxury, select rooms boast balconies, offering a private oasis to unwind.
+---\ntitle: "Vila Isi"\ndescription: "Vila Isi emerges as a serene retreat in the heart of Korçë, a mere stone's throw away from the enchanting Ohrid Lake Springs, located 43 km away, and the historic Monastery Saint Naum, just 42 km from its doorstep."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375943060.jpg?k=44efb44fd61a17574c8d0d03affe90259bfd3b4c81f460068b76f2b1610d64a4&o=&hp=1"\nlanguage: en\nslug: vila-isi\naddress: "Rruga Riza Mance, 7001 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.626722\n  lng: 20.768344\nprice: "US$39"\npriceFrom: 39\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 23\nratings:\n  overall: 9.5\n  location: 9.2\n  cleanliness: 9.7\n  facilities: 9.2\n  value: 9.6\n  comfort: 9.8\n  staff: 9.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375943060.jpg?k=44efb44fd61a17574c8d0d03affe90259bfd3b4c81f460068b76f2b1610d64a4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506892701.jpg?k=e145ee52a77371bd54e83f8495e69e57f39642582e3d7847ed10cf9a30ca22d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375943075.jpg?k=6bfc1b3980b881bab8be36eee212c0793c8c3c77215e1bd7207f7fbf25be59d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506892754.jpg?k=4003a2c8798140abd2e25971f1108b73468285a59aaad09b8ab552fbee908513&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506892774.jpg?k=334ed21c61c1f3d3ff05d5511634aaee1b57c20e93795f8dae26b7cab06d64ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506892728.jpg?k=5ab61f16968882f24867d8e476143da94330de10c6278f50212456b14b94810e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Breakfast"\nroomTypes:\n  - "Standard King Room"\n  - "Deluxe Double Room with Bath"\n  - "Family Room with Bathroom"\n  - "Family Room with Private Bathroom"\nnearbyRestaurants:\n  - "Konti 200 m"\n  - "Viktoria Coffee Winners 600 m"\nwhatsNearby:\n  - "Parku Rinia 1.4 km"\n  - "Parku Vangjush Mio 1.4 km"\n  - "Parku Themistokli Gërmenji 1.5 km"\n  - "Field of Tears 1.5 km"\n  - "Parku Rinia 1.6 km"\n  - "Sheshi Patriku Joasaf 1.7 km"\n  - "Sheshi Panxhar 4.1 km"\n  - "Sheshi Penetori 11 km"\n  - "Sheshi Koço Plaku 13 km"\nairports:\n  - "Kastoria National Airport 46 km"\n  - "Ohrid Airport 60 km"\n  - "Kozani National Airport 97 km"\nreviews:\n  - name: "Induela"\n    country: "Albania"\n    text: "“Very nice place, easy to find ,and very clean 👌 the staff are very friendly and helpful. Thank you 😊”"\n  - name: "Arjola"\n    country: "Albania"\n    text: "“Very comfortable room, clean and with all the facilities needed. Nice breakfast and very hospital guest.”"\n  - name: "Ola"\n    country: "Albania"\n    text: "“Everything was perfect. The location, free parking, room with all the comforts. Everything in the room was new and with an adorable smell and purity. For a modest price, there was a super abundant and delicious breakfast. Let's not talk about the...”"\nbookingURL: "https://www.booking.com/hotel/al/vila-isi-korce.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nUpon entering the rooms at Vila Isi, guests are greeted with a harmonious blend of functionality and comfort. Each room is thoughtfully equipped with a desk, air conditioning, and a flat-screen TV for those moments of relaxation. The attention to detail extends to the private bathrooms, which are outfitted with showers and complimentary toiletries, ensuring a refreshing and hassle-free experience. For those seeking a touch more luxury, select rooms boast balconies, offering a private oasis to unwind.
 
 The multilingual staff at Vila Isi, proficient in Greek, English, Italian, and Albanian, stand ready at the reception to assist guests, ensuring that every need is met with the utmost care and attention.
 
 For travelers venturing from afar, the proximity to Kastoria National Airport, located 71 km away, makes Vila Isi an accessible haven for both international and domestic visitors seeking tranquility and convenience in Korçë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

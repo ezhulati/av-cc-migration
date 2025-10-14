@@ -1,28 +1,5 @@
----
-title: Lulu Suites - Blueberry
-description: "The suite boasts a well-equipped kitchen, featuring an oven and toaster for those who enjoy preparing their meals, alongside a cozy seating area, a fl..."
-featuredImage: "/images/accommodation/481853301.jpg"
-language: en
-slug: lulu-suites-blueberry
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Lulu Suites - Blueberry"\ndescription: "Lulu Suites - Blueberry emerges as a prime choice for travelers seeking comfort and convenience in Golem."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481853301.jpg?k=f071ac8d75dcd4c3fc648ab6cf6f5f2e948a2aa4917cdb59b1d9092fa35168a7&o=&hp=1"\nlanguage: en\nslug: lulu-suites-blueberry\naddress: "Rruga Iliria, Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.26756105\n  lng: 19.52252934\nprice: "US$77"\npriceFrom: 77\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481853301.jpg?k=f071ac8d75dcd4c3fc648ab6cf6f5f2e948a2aa4917cdb59b1d9092fa35168a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470484710.jpg?k=b521295f357f403cc0d34708777cbe7297ef7c718543039e6cb589461dd808a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470484745.jpg?k=b0ad57406f7fd978d3aed52137c37fb4aa05c18416f152c3762decdb83d41998&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470484734.jpg?k=f501a4999d60a02c229b4532a95b36c436980cafbe67b53f915a89360e3f3e46&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470484664.jpg?k=c94efec184da6de3f57da8f0ecfed96e9f99cf6183c592d5d32430395111fdc2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470484309.jpg?k=b6dd494f9a2e2a5c26f3ace354111463753d8c9007d24520bd7bb04f1bf0985f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470484438.jpg?k=a495d004a07c64489e63d527b875cd802132627c81c1d1f5d0717941ad62d3b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470484797.jpg?k=562e5d884afdee08698c6f7ca8bf17860941095468a6f019c1d2253e67554398&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470483978.jpg?k=205c055c59e80064f4aeb6fb6233ac69b73dcb946bf5e383c3ef6af5fd45403e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Grill & Pizza Peja 250 m"\n  - "Sevian Pizza & Snack 350 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 350 m"\n  - "Golem Beach 400 m"\n  - "Mali I Robit Beach 2.2 km"\n  - "Durres Beach 2.3 km"\n  - "Qerret Beach 4.2 km"\nwhatsNearby:\n  - "Bekimi 8 km"\n  - "Durres Amphiteatre 8 km"\n  - "Wine Dhe Pooh 8 km"\n  - "1. Maj 8 km"\n  - "Yje Dhe Hena 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "Sotir Noka 9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/lulu-suites-blueberry.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe suite boasts a well-equipped kitchen, featuring an oven and toaster for those who enjoy preparing their meals, alongside a cozy seating area, a flat-screen TV for entertainment, and two bathrooms for added convenience, each fitted with a bidet. Complimentary towels and bed linen add a touch of home comfort to the stay. For those who relish outdoor dining, the property doesn't disappoint, offering an inviting outdoor dining area.
 
-The suite boasts a well-equipped kitchen, featuring an oven and toaster for those who enjoy preparing their meals, alongside a cozy seating area, a flat-screen TV for entertainment, and two bathrooms for added convenience, each fitted with a bidet. Complimentary towels and bed linen add a touch of home comfort to the stay. For those who relish outdoor dining, the property doesn't disappoint, offering an inviting outdoor dining area.
-
-Adding to the convenience, Lulu Suites - Blueberry includes an elevator and a sun terrace, perfect for guests to unwind and soak up the sun. On-site parking is readily available, and for adventurers eager to explore the wider area, car hire services are offered directly from the apartment.
+Adding to the convenience, Lulu Suites - Blueberry includes an elevator and a sun terrace, perfect for guests to unwind and soak up the sun. On-site parking is readily available, and for adventurers eager to explore the wider area, car hire services are offered directly from the apartment. 
 
 For beach enthusiasts, Mali I Robit Beach is just 2.8 km away, offering another spot for sun, sea, and sand. Meanwhile, culture seekers will find Skanderbeg Square, located 43 km from the apartment, worth a visit. Tirana International Mother Teresa Airport is the nearest airport, situated 37 km away, making Lulu Suites - Blueberry a convenient and comfortable base for exploring the enchanting sights of Golem and beyond.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

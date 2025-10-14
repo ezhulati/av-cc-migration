@@ -4,9 +4,18 @@ description: Guests at Liora's Place are treated to a garden that invites relaxa
 featuredImage: "/images/accommodation/459036591.jpg"
 language: en
 slug: lioras-place
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 3
+rating: 3
+accommodationType: "apartment"
+location: "Korçë"
+amenities:
+  - "WiFi"
+  - "Parking"
+  - "Kitchen"
+  - "Laundry"
+  - "TV"
 ---
 
 Guests at Liora's Place are treated to a garden that invites relaxation and contemplation. The accommodation itself boasts air-conditioning, ensuring a comfortable stay regardless of the weather outside. For those arriving by car, the convenience of private parking on-site is a notable perk, alongside complimentary WiFi that keeps guests connected during their stay. Emphasizing a healthy living environment, the property maintains a strict non-smoking policy.
@@ -17,14 +26,3 @@ For those looking to explore beyond the immediate surroundings, Kastoria Nationa
 
 Liora's Place, with its thoughtful amenities and prime location, stands as a compelling choice for travelers seeking a blend of tranquility and convenience in Korçë.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

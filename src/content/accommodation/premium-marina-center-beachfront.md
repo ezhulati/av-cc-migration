@@ -1,15 +1,4 @@
----
-title: Premium , Marina , Center , Beachfront
-description: "The apartment distinguishes itself with its commitment to guest comfort, featuring free WiFi across the premises and an allergy-free environment."
-featuredImage: "/images/accommodation/527784734.jpg"
-language: en
-slug: premium-marina-center-beachfront
-location: ""
-amenities: []
-images: []
----
-
-The apartment distinguishes itself with its commitment to guest comfort, featuring free WiFi across the premises and an allergy-free environment. The inclusion of a hot tub adds a touch of relaxation, perfect for unwinding after a day of exploration.
+---\ntitle: "Premium , Marina , Center , Beachfront"\ndescription: "Premium, Marina, Center, Beachfront emerges as a standout choice for travelers seeking a blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527784734.jpg?k=8f8bbf99df33dc66dbda2503fe97a18b9267b63ebfd25cf8489de7021ace170d&o=&hp=1"\nlanguage: en\nslug: premium-marina-center-beachfront\naddress: "Rruga Taulantia, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31020966\n  lng: 19.43936733\nprice: "US$118"\npriceFrom: 118\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527784734.jpg?k=8f8bbf99df33dc66dbda2503fe97a18b9267b63ebfd25cf8489de7021ace170d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527781712.jpg?k=48426d401c74ca033038fed02cbf4a36eaac481d5fc7aa8790cc9d5b12458599&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527782537.jpg?k=a5512dc42cf6348f4679e9b6f0c272d69f0af90841539fdd5eafad6ceacee16c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527783149.jpg?k=552a84a445bd2cc32fe8ecc00ed4398d35d484430ae7e76ee439837b2548d3cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527786069.jpg?k=e85e75f1c31186fb9c02a2dc5bfbfff4cb75a8a77cee501587b4e49b97b88e6c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527782905.jpg?k=efe43d17e3400a9e2f5e78ae4ae00b2ab08464f81702190762f6d1b01a7c3084&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527786973.jpg?k=266b6cbdf5af3444edf1b92860cb3bfdca4595b61ad9639f0b3f17abf3eab985&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527963437.jpg?k=b7c72ab0a149be152c0f1e8bbf861fe94e5dc594e96a68469a435d6ab4e87079&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527782789.jpg?k=49433be0dd3c4df3dc733788f208662fd168eeb54e6ac13013e6da6ae545ff6a&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Airport shuttle"\n  - "Spa and wellness centre"\n  - "Non-smoking rooms"\n  - "Fitness centre"\n  - "Free parking"\n  - "Fast free WiFi (55 Mbps)"\n  - "Family rooms"\n  - "Beachfront"\n  - "Private beach area"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "The Wall 2 30 m"\n  - "Italy Coffe&Food 50 m"\nnearbyBeaches:\n  - "Currila Beach 0 m"\n  - "Kallmi Beach 1.1 km"\n  - "West End Beach 2.2 km"\n  - "Durres Beach 2.4 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nwhatsNearby:\n  - "1. Maj 350 m"\n  - "Durres Amphiteatre 550 m"\n  - "Yje Dhe Hena 950 m"\n  - "Wine Dhe Pooh 1 km"\n  - "Sheshi Demokracia 1.1 km"\n  - "Sotir Noka 1.3 km"\n  - "Bekimi 3.8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\nbookingURL: "https://www.booking.com/hotel/al/premium-center-vollga-beachfront-2-bedroom.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment distinguishes itself with its commitment to guest comfort, featuring free WiFi across the premises and an allergy-free environment. The inclusion of a hot tub adds a touch of relaxation, perfect for unwinding after a day of exploration.
 
 Designed with space and elegance in mind, the apartment boasts a fully equipped kitchen, complete with an oven, microwave, and toaster, ensuring that guests have everything they need for a home-cooked meal. The living area is thoughtfully arranged with a comfortable seating and dining area, complemented by two bedrooms and two bathrooms that include walk-in showers and a hot tub, catering to the needs of both families and groups of friends. The air-conditioned unit also offers a terrace with an outdoor dining area, ideal for enjoying meals with a view. Entertainment is readily available with a flat-screen TV equipped with streaming services and a game console, while the added benefits of a private entrance and soundproofing ensure a serene and uninterrupted stay.
 
@@ -18,15 +7,3 @@ Convenience is further enhanced by the presence of a minimarket within the apart
 Situated in close proximity to popular attractions such as Currila Beach, Kallmi Beach, and the historic Durres Amphitheatre, the apartment serves as an excellent base for exploring the local area. For guests arriving by air, the Tirana International Mother Teresa Airport is just 34 km away, with the apartment offering a paid shuttle service for a hassle-free transfer.
 
 In summary, Premium, Marina, Center, Beachfront stands out as a premier choice for those seeking a memorable stay in Durrës, combining the comforts of home with the luxuries of a top-tier vacation rental.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

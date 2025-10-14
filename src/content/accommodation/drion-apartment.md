@@ -1,30 +1,8 @@
----
-title: DRION APARTMENT
-description: DRION APARTMENT is a haven of tranquility and comfort, boasting a spacious layout that includes a balcony, a cozy bedroom, a welcoming living room, and a well-e
-featuredImage: "/images/accommodation/5331e5f33c431e2d024d51a9fd336da0a8718cd9.png"
-language: en
-slug: drion-apartment
-location: ""
-amenities: []
-images: []
----
-
-DRION APARTMENT is a haven of tranquility and comfort, boasting a spacious layout that includes a balcony, a cozy bedroom, a welcoming living room, and a well-equipped kitchen. Entertainment is readily available with a flat-screen TV that features streaming services, ensuring guests have a relaxing stay. The thoughtful addition of complimentary fruits adds a personal touch to the experience.
+---\ntitle: "DRION APARTMENT"\ndescription: "Discover the charm of Vlorë with a stay at DRION APARTMENT, a prime choice for travelers seeking comfort and convenience."\nfeaturedImage: "https://lh3.googleusercontent.com/a-/AAuE7mAtJbm-Mo2fsdha1rT3T-dkahmZhJnCAmJBRT_uJM864"\nlanguage: en\nslug: drion-apartment\naddress: "Rruga Çamëria, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45286397\n  lng: 19.48850358\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 16\nratings:\n  overall: 9.9\n  location: 10\n  cleanliness: 10\n  facilities: 9.8\n  value: 9.8\n  comfort: 9.8\n  staff: 9.8\n  wifi: 0\nimages:\n  - "https://lh3.googleusercontent.com/a-/AAuE7mAtJbm-Mo2fsdha1rT3T-dkahmZhJnCAmJBRT_uJM864"\n  - "https://cf.bstatic.com/static/img/flags/12/pt/5331e5f33c431e2d024d51a9fd336da0a8718cd9.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"\n  - "https://cf.bstatic.com/static/img/flags/12/fr/80667cd1f58bba217c1ec87dea9ccd1335ed8dba.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://lh3.googleusercontent.com/a-/AOh14Gi0oEGXKkkI4Zs_JEbGKVMac0IiHCE4CZ5-pLw6=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-p/866dca38dcc31cb6fa2e9b4c475bd32e681b0080.png"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"\n  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"\n  - "https://lh6.googleusercontent.com/-8AdeK4yg-e4/AAAAAAAAAAI/AAAAAAAAAAA/AA6ZPT66ve7Th51-UWSsNhIRxmEKsFEDQg/s96-c/photo.jpg64"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Pizzeria Damiano lItaliano 30 m"\n  - "Adriatik 40 m"\nnearbyBeaches:\n  - "Vjetër Beach 600 m"\n  - "Vlore Beach 700 m"\n  - "Ri Beach 2 km"\n  - "Beach at Government Villas 3.6 km"\n  - "Liro Beach 4.3 km"\nwhatsNearby:\n  - "Kuzum Baba 1.7 km"\n  - "Scooby Doo Vlore 1.9 km"\n  - "Independence Square 2 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Anzhelika"\n    country: "Portugal"\n    text: "“good location, has a market, pharmacy, coffee shops and restaurants around, private parking in the garage, the apartment has everything you would need, and the air conditioning was a bonus!”"\n  - name: "Alvi"\n    country: "Albania"\n    text: "“Everything was great about the apartment. It has a nice location near LungoMare. It was clean and very comfy.”"\n  - name: "Ikram"\n    country: "France"\n    text: "“Appartement très sympathique Avec tout l’équipement nécessaire à disposition de quoi passer un très bon séjour. Propreté irréprochable 👍🏼
+Emplacement au top.”"\nbookingURL: "https://www.booking.com/hotel/al/drion-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nDRION APARTMENT is a haven of tranquility and comfort, boasting a spacious layout that includes a balcony, a cozy bedroom, a welcoming living room, and a well-equipped kitchen. Entertainment is readily available with a flat-screen TV that features streaming services, ensuring guests have a relaxing stay. The thoughtful addition of complimentary fruits adds a personal touch to the experience.
 
 Guests will appreciate the convenience of complimentary WiFi and on-site parking, making their stay hassle-free. The commitment to a non-smoking environment ensures a clean and healthy atmosphere for all visitors.
 
 For those needing essentials or a quick snack, a minimarket on the premises provides added convenience. The apartment's proximity to notable landmarks such as Independence Square, just 2.1 km away, and Kuzum Baba, 2.6 km away, makes it an excellent base for exploring the rich history and culture of Vlorë.
 
 Located 151 km from Tirana International Mother Teresa Airport, DRION APARTMENT is accessible yet comfortably distanced from the hustle and bustle, offering a peaceful retreat in the heart of Vlorë. Whether it's the strategic location, the array of in-room amenities, or the convenience of having everything at one's fingertips, DRION APARTMENT is a standout choice for those looking to experience the best of Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

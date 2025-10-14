@@ -1,28 +1,5 @@
----
-title: Private village home
-description: The property boasts a lush garden that invites guests to unwind in nature's lap, providing a tranquil backdrop for a morning cup of coffee or an evening of rela
-featuredImage: "/images/accommodation/485433832.jpg"
-language: en
-slug: private-village-home
-location: ""
-amenities: []
-images: []
----
-
-The property boasts a lush garden that invites guests to unwind in nature's lap, providing a tranquil backdrop for a morning cup of coffee or an evening of relaxation. The highlight of this home is its direct access to a private balcony, where guests can soak in the serene garden views, making it an ideal spot for those seeking a peaceful getaway.
+---\ntitle: "Private village home"\ndescription: "Discover the charm of Përmet with a stay at the Private Village Home, a serene retreat located in the heart of Gjirokastër County."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485433832.jpg?k=d1bf353b2f8b077b84232e3578226d11d9250b11cd07db2b49869d7e8ef897b0&o=&hp=1"\nlanguage: en\nslug: private-village-home\naddress: "Kosine, 6401 Përmet, Albania"\ncity: "Përmet"\nlocation: "Përmet"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.27205271\n  lng: 20.30250815\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485433832.jpg?k=d1bf353b2f8b077b84232e3578226d11d9250b11cd07db2b49869d7e8ef897b0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485433845.jpg?k=6c456f0831d441a7425ed339735cdd4d09a9b72a4c03bdef0f2ffb9309bd51be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485433851.jpg?k=8608dd5bd77bc6275c47bac2c991afaa03602d8e32a0970718f5d97bbc766df7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485433809.jpg?k=7a7a4e10409c79f830fc6d66af866b5b156ce19ebdb8ad6215da45b3f2d8437d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485433857.jpg?k=f310d43a39885d2dce01ac159c294c334c8977d07ecd26991d27581dbc13ae20&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485433856.jpg?k=e5897bd73f2c4db14b8a14a9635659751e53b3e81c499d7dd47f998f38cdd9e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485433841.jpg?k=2c07fe454adf0c4111c5b44e1fd88ab889f4757ceeadb29f7357c514138b1ef1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485433834.jpg?k=082c17840b611aae4e8e4e9233ba2a59a1c77004b925a10771cb8e57261a10c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485433847.jpg?k=9d7f324bd8cf3d56e4e415a45296b7e94d6e1a0bd4468c43149d48533bf8077e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Restorant Enea 2.6 km"\n  - "Krenar Nurce Homemade Jam 5 km"\nwhatsNearby:\n  - "Fir of Hotova National Park 15 km"\nairports:\n  - "Ioannina Airport 76 km"\n  - "Corfu International Airport 81 km"\n  - "Kastoria National Airport 84 km"\nbookingURL: "https://www.booking.com/hotel/al/private-village-home-with-yard.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nThe property boasts a lush garden that invites guests to unwind in nature's lap, providing a tranquil backdrop for a morning cup of coffee or an evening of relaxation. The highlight of this home is its direct access to a private balcony, where guests can soak in the serene garden views, making it an ideal spot for those seeking a peaceful getaway.
 
 Inside, the air-conditioned holiday home is thoughtfully designed with a cozy bedroom, ensuring a restful night's sleep. The fully equipped kitchen caters to culinary enthusiasts looking to prepare their meals, adding a touch of home comfort to the travel experience. Entertainment needs are met with the inclusion of a flat-screen TV, perfect for lazy afternoons or quiet evenings in.
 
 Located 96 km from Ioannina Airport, the Private Village Home offers a blend of convenience and tranquility, making it a preferred choice for travelers looking to explore Përmet and its surroundings.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

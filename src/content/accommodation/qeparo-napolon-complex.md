@@ -1,28 +1,5 @@
----
-title: Qeparo Napolon Complex
-description: Accommodations at Qeparo Napolon Complex are designed with comfort in mind, featuring air conditioning, televisions, and en-suite bathrooms equipped with shower
-featuredImage: "/images/accommodation/339944303.jpg"
-language: en
-slug: qeparo-napolon-complex
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Qeparo Napolon Complex are designed with comfort in mind, featuring air conditioning, televisions, and en-suite bathrooms equipped with showers. Select rooms elevate the experience further, offering balconies and kitchens for those who prefer a more home-like environment.
+---\ntitle: "Qeparo Napolon Complex"\ndescription: "Qeparo Napolon Complex stands as a prime beachfront oasis in Qeparo, boasting an outdoor pool and a generously sized sun terrace that promises relaxation and leisure."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/339944303.jpg?k=e40952d7813176ad813997e43f43d0826077148cdd3e7bb4aa5d071e5d394661&o=&hp=1"\nlanguage: en\nslug: qeparo-napolon-complex\naddress: "Road Qeparo Borsh Km 2, 8407 Qeparo, Albania"\ncity: "Qeparo"\nlocation: "Qeparo"\naccommodationType: "resort"\ncoordinates:\n  lat: 40.05263228\n  lng: 19.83081311\nprice: "US$124"\npriceFrom: 124\nstarRating: 3\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 335\nratings:\n  overall: 8.2\n  location: 8.5\n  cleanliness: 8.1\n  facilities: 7.8\n  value: 7.6\n  comfort: 8.2\n  staff: 8.9\n  wifi: 8.1\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/339944303.jpg?k=e40952d7813176ad813997e43f43d0826077148cdd3e7bb4aa5d071e5d394661&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305166900.jpg?k=4228a8f22374cc384448b216ade3fc2b4c0fa8c8990c1b3702b5d4db8fed6575&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444860397.jpg?k=f8bbdb7fac37c3f45135d9ab72903b79fa92fb27708e1034abb55ddb9c9feaea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444860023.jpg?k=cec5eec82f9194dc9e7f6186a105bcbfaa7da15133d818c9d9d1d35504651f60&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444860027.jpg?k=c4e09951341b497b7b2ee3badb58b34bef57f04b0c75649678abb4e23f99087b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444860013.jpg?k=f7da5d4f1551030d967007b2e1aa7f8255dbca1d852c64f06695ec15c54d22f4&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Good breakfast"\nroomTypes:\n  - "Double Room"\n  - "Triple Room"\n  - "Deluxe Suite with Sea View"\n  - "Suite with Private Pool"\n  - "Junior Suite"\n  - "Quadruple Room"\n  - "Two-Bedroom Apartment"\n  - "Two-Bedroom Suite"\nnearbyRestaurants:\n  - "Te Stefi 100 m"\n  - "Odhisea 200 m"\nnearbyBeaches:\n  - "Qeparo Beach 100 m"\n  - "Borsh Beach 500 m"\n  - "Porto Palermo Beach 3 2.4 km"\n  - "Porto Palermo Beach 2.4 km"\n  - "Palermo Beach 3.3 km"\nairports:\n  - "Corfu International Airport 49 km"\n  - "Ioannina Airport 92 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Marek"\n    country: "Czech Republic"\n    text: "“Absolutely perfect, amazing view. Happy to come back.”"\n  - name: "Anja"\n    country: "Germany"\n    text: "“The complex is nicely built into the hill. The apartment (3 beds) faced south and west with beautiful sea and sunset views. It‘s only a few steps to the shore and promenade.”"\n  - name: "Benjamin"\n    country: "United Kingdom"\n    text: "“Best place we have stayed in Albania so far. Room was huge, staff were amazing, especially the server in the restaurant. Impeccable manners and very helpful. Great location for the beach. Food was good also”"\nbookingURL: "https://www.booking.com/hotel/al/qeparo-napolon-complex.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Qeparo Napolon Complex are designed with comfort in mind, featuring air conditioning, televisions, and en-suite bathrooms equipped with showers. Select rooms elevate the experience further, offering balconies and kitchens for those who prefer a more home-like environment.
 
 The dedication to guest satisfaction is evident with the 24/7 availability of the front desk staff, ready to assist with any needs or inquiries. The addition of free on-site private parking and the use of BBQ facilities at no extra charge add layers of value and convenience to the guest experience.
 
 Located approximately 40 km from Sarandë, a city known for its ferry connections to the island of Corfu and its proximity to Butrint National Park, a UNESCO World Heritage Site, Qeparo Napolon Complex serves as an ideal base for exploring the rich cultural and natural attractions of the region. Whether it's the allure of historical sites or the call of the serene beachfront, this complex caters to a wide range of interests and preferences, making it a standout choice for travelers seeking a memorable stay in Qeparo.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

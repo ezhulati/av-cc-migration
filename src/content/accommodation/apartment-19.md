@@ -1,26 +1,3 @@
----
-title: Apartment 19
-description: Guests at Apartment 19 are treated to a suite of modern amenities within its one-bedroom space. The apartment boasts a balcony that offers a unique vantage poin
-featuredImage: "/images/accommodation/491563118.jpg"
-language: en
-slug: apartment-19
-location: ""
-amenities: []
-images: []
----
-
-Guests at Apartment 19 are treated to a suite of modern amenities within its one-bedroom space. The apartment boasts a balcony that offers a unique vantage point of the city's rhythm. Connectivity is seamless with complimentary WiFi, and entertainment is guaranteed with a flat-screen TV. Practical needs are met with a washing machine and a fully equipped kitchen, complete with a fridge, ensuring a home-away-from-home experience. The thoughtful addition of fruits adds a personal touch to the welcoming atmosphere.
+---\ntitle: "Apartment 19"\ndescription: "Apartment 19 emerges as a prime choice for travelers seeking the comfort of air-conditioned accommodations paired with the convenience of a central location in Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491563118.jpg?k=6a8f47a542e86a21abe8491de0d9589bffb907b02db0a9b7bfa88e6a9dd10205&o=&hp=1"\nlanguage: en\nslug: apartment-19\naddress: "Rruga e Kavajës, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32793415\n  lng: 19.81171539\nprice: "US$37"\npriceFrom: 37\nstarRating: 3\nrating: 7.8\nratingWords: "Good"\nnumberOfReviews: 6\nratings:\n  overall: 7.8\n  location: 8.5\n  cleanliness: 7\n  facilities: 7.5\n  value: 8\n  comfort: 8\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491563118.jpg?k=6a8f47a542e86a21abe8491de0d9589bffb907b02db0a9b7bfa88e6a9dd10205&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/504532803.jpg?k=9f2294c4a3ffbe751980f5300f6b3c6a6394d3878aa68f723721d64aa5507f99&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/491563398.jpg?k=62df673ea6a6f24f13cd63d7cd13dd45bf32b7821288e84f44b2428c99f709d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/472625989.jpg?k=ba541536e8c9338d6c5ff8064ab9dd114d59cd2ea11e134df358dc1921e0ace1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/491563099.jpg?k=a24b957e699a43ff06dfb4f61b23b97f384e26822eb93ca79648dd68c3cebfcb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/472626048.jpg?k=595c6ff22450a4f37be339ebec86fedc4fd9279c3a293357a0b4f1303e4d71e9&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 800 m"\n  - "Former Residence of Enver Hoxha 900 m"\n  - "Tanners' Bridge 1.2 km"\n  - "Grand Park of Tirana 2.1 km"\n  - "Bunk'Art 1 Museum 4.8 km"\nnearbyRestaurants:\n  - "Artur Restorant Tirana 30 m"\n  - "Pizza Hallall 50 m"\nwhatsNearby:\n  - "Sheshi Paris 300 m"\n  - "House of Leaves 400 m"\n  - "National Museum of History Albania 500 m"\n  - "Sheshi Skënderbej 500 m"\n  - "Parku Europa 600 m"\n  - "Skanderbeg Square 650 m"\n  - "Rinia Park 650 m"\n  - "Clock Tower Tirana 650 m"\n  - "Parku Rinia 700 m"\n  - "Sheshi Rekreativ Mine Peza 750 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/edas-apartment-tirane.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests at Apartment 19 are treated to a suite of modern amenities within its one-bedroom space. The apartment boasts a balcony that offers a unique vantage point of the city's rhythm. Connectivity is seamless with complimentary WiFi, and entertainment is guaranteed with a flat-screen TV. Practical needs are met with a washing machine and a fully equipped kitchen, complete with a fridge, ensuring a home-away-from-home experience. The thoughtful addition of fruits adds a personal touch to the welcoming atmosphere.
 
 The location of Apartment 19 places guests at the heart of Tirana's cultural and historical scene. A short stroll away are the Former Residence of Enver Hoxha, House of Leaves, and Rinia Park, each offering a glimpse into the rich tapestry of the city's past and present. For those arriving by air, the Tirana International Mother Teresa Airport is conveniently located 15 km away, making Apartment 19 an ideal base for both short visits and extended stays in Albania's bustling capital.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

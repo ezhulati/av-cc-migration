@@ -1,28 +1,5 @@
----
-title: Harry Apartment
-description: Boasting two spacious bedrooms, the apartment is an ideal choice for families or groups seeking a comfortable stay. The inclusion of a fully equipped kitchen ad
-featuredImage: "/images/accommodation/475615564.jpg"
-language: en
-slug: harry-apartment
-location: ""
-amenities: []
-images: []
----
-
-Boasting two spacious bedrooms, the apartment is an ideal choice for families or groups seeking a comfortable stay. The inclusion of a fully equipped kitchen adds a touch of home, allowing guests to prepare their meals with ease. Additionally, the presence of a balcony provides a delightful space for relaxation and enjoying the gentle sea breeze.
+---\ntitle: "Harry Apartment"\ndescription: "Harry Apartment, located in the charming town of Himare, presents a perfect retreat just a short walk from the pristine Maracit Beach and within easy reach of Prinos Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475615564.jpg?k=add6cd41b0e4e5b767d227afc5cf4088deb3cc6951276cb90d3ccb4c3c895b02&o=&hp=1"\nlanguage: en\nslug: harry-apartment\naddress: "Himare, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.102179\n  lng: 19.74393166\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 3\nratings:\n  overall: 8.8\n  location: 9.2\n  cleanliness: 9.2\n  facilities: 7.5\n  value: 8.3\n  comfort: 8.3\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475615564.jpg?k=add6cd41b0e4e5b767d227afc5cf4088deb3cc6951276cb90d3ccb4c3c895b02&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/475615578.jpg?k=07f597f1ce510fee03d92415e2e0c6bbb2027f8e9b52a52d01fbe0783e8dc8a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/475615507.jpg?k=4b49571a58e61caec154402d13fe7eb6c3348514af7750adb9c6aa4876d8db20&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475615561.jpg?k=a874b1c7ce2cf94268ce8a55345e6eaf042df5bc06326e8a690f8292d16ca79d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475615567.jpg?k=5fb5b20e64efbf442a83ace916e28654cb886411412e6315a94ee9f2e4b6e9b0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475615571.jpg?k=ad63ba3e1ee7b5da80f177e43512429722ed372312e085acde44f6e50403b9fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475615580.jpg?k=9ef5252861dbcb6d2ebc0ad343d27df6602612a73e3e561a002efd06b13e5e8d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475615583.jpg?k=1259d46b149bc5a140a79049382251269e12e6025b52aa0f8403bb60a876def0&o=&hp=1"\namenities:\n  - "Free WiFi"\nnearbyRestaurants:\n  - "La Pasteria 50 m"\n  - "Manolo's 100 m"\nnearbyBeaches:\n  - "Spille Beach 100 m"\n  - "Maracit Beach 450 m"\n  - "Prinos Beach 700 m"\n  - "Potam Beach 1.1 km"\n  - "Livadhi Beach 1.1 km"\nwhatsNearby:\n  - "Llogora National Park 16 km"\nairports:\n  - "Corfu International Airport 56 km"\nbookingURL: "https://www.booking.com/hotel/al/harry-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nBoasting two spacious bedrooms, the apartment is an ideal choice for families or groups seeking a comfortable stay. The inclusion of a fully equipped kitchen adds a touch of home, allowing guests to prepare their meals with ease. Additionally, the presence of a balcony provides a delightful space for relaxation and enjoying the gentle sea breeze.
 
 Guests will appreciate the commitment to comfort, as evidenced by the air conditioning and the availability of free WiFi throughout the premises, ensuring a connected and comfortable experience. The non-smoking environment further enhances the appeal of Harry Apartment, making it a clean and healthy choice for accommodation.
 
 For those arriving by air, the Ioannina Airport is located 143 km away, making the apartment accessible for international and domestic travelers alike. Harry Apartment stands out as a welcoming haven for those seeking a peaceful stay near some of Himare's most beautiful beaches.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

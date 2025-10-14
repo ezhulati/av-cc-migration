@@ -1,15 +1,8 @@
----
-title: Rooms Merlika -Inside the Castle-
-description: Guests are treated to breathtaking sea views, a serene garden, and the convenience of on-site amenities including a welcoming bar and a restaurant serving delec
-featuredImage: "/images/accommodation/304495718.jpg"
-language: en
-slug: rooms-merlika-inside-the-castle
-location: ""
-amenities: []
-images: []
----
-
-Guests are treated to breathtaking sea views, a serene garden, and the convenience of on-site amenities including a welcoming bar and a restaurant serving delectable local cuisine. With the added benefits of complimentary private parking and WiFi, Rooms Merlika ensures a stay that is both comfortable and connected.
+---\ntitle: "Rooms Merlika -Inside the Castle-"\ndescription: "Rooms Merlika -Inside the Castle- emerges as a charming retreat in the heart of Krujë, just a stone's throw away from the bustling Skanderbeg Square."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304495718.jpg?k=d943bb2f9b299196096590912701c3eb207694ed982191bd475f6c1a5682f711&o=&hp=1"\nlanguage: en\nslug: rooms-merlika-inside-the-castle\naddress: "Rruga Kala, 1501 Krujë, Albania"\ncity: "Krujë"\nlocation: "Krujë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.50666509\n  lng: 19.79452014\nprice: "US$29"\npriceFrom: 29\nstarRating: 2\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 908\nratings:\n  overall: 8.9\n  location: 9.8\n  cleanliness: 8.6\n  facilities: 8.2\n  value: 9\n  comfort: 8.5\n  staff: 9.5\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304495718.jpg?k=d943bb2f9b299196096590912701c3eb207694ed982191bd475f6c1a5682f711&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444585728.jpg?k=b6cae59464e2c65ee519e5e78a72065cc3c70afa8ff848bb8507fd518bb53192&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304981640.jpg?k=51866a70ee807122c0489b754a8a546d4d1298ee6f33ced56f85808e69c25905&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445488349.jpg?k=44da524391fdd2d8fcede5bab71c6339e32fdb741128ec729cc67346b3f999f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444586259.jpg?k=2ab433cb09e308b8fa4ce6037d7fcfd4589fcb315158e5a69f2d2a44f0debe30&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444588859.jpg?k=e8d030b380fd8d9e15b694043b438fd3e6df72690dcc2a732fbd8f6c10fc6364&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Airport shuttle"\n  - "Room service"\n  - "Restaurant"\n  - "Free parking"\n  - "Good free WiFi (34 Mbps)"\n  - "Family rooms"\n  - "Bar"\n  - "Superb breakfast"\nroomTypes:\n  - "Economy Single Room"\n  - "Double or Twin Room"\n  - "Basic Triple Room"\n  - "Quadruple Room with Bathroom"\n  - "Family Room with Bathroom"\n  - "Family Room with Side Sea View"\nnearbyAttractions:\n  - "National Museum of History Albania 20 km"\n  - "Skanderbeg Square 20 km"\n  - "Clock Tower Tirana 20 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Chris"\n    country: "United Kingdom"\n    text: "“- the main selling point are the 360 views from around the property - in the heart of the old town. So everything is walkable, just getting to the property in a car can be hard work if other cars coming the opposite way-
+- hosts were very...”"\n  - name: "Ella"\n    country: "United Kingdom"\n    text: "“Amazing hospitality.
+Incredible home cooked food from the hosts farm.
+Great value
+Unbeatable view”"\n  - name: "David"\n    country: "Czech Republic"\n    text: "“Amazing location, great views, tadty food and nice & smiling owners. You are literally next to the castle.”"\nbookingURL: "https://www.booking.com/hotel/al/bar-restaurant-merlika.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nGuests are treated to breathtaking sea views, a serene garden, and the convenience of on-site amenities including a welcoming bar and a restaurant serving delectable local cuisine. With the added benefits of complimentary private parking and WiFi, Rooms Merlika ensures a stay that is both comfortable and connected.
 
 Accommodations at Rooms Merlika are thoughtfully designed with guest comfort in mind. Select units boast private entrances, cozy dining areas, warming fireplaces, and refrigerators, making for a home-away-from-home experience. For those seeking a touch of luxury, options include terraces and state-of-the-art satellite flat-screen TVs equipped with streaming services, alongside comfortable seating areas. Privacy and convenience are paramount, with each unit featuring a well-appointed private bathroom.
 
@@ -18,15 +11,3 @@ For the active traveler, the surrounding area offers ample opportunities for cyc
 Situated 35 km from the Dajti Ekspres Cable Car and 32 km from the historical Former Residence of Enver Hoxha, Rooms Merlika serves as an ideal base for exploring the rich cultural landscape of the region. For those arriving by air, Tirana International Mother Teresa Airport is a mere 18 km away, with the property offering a paid shuttle service for a seamless travel experience.
 
 Whether seeking adventure in the great outdoors or a peaceful retreat within the castle walls, Rooms Merlika -Inside the Castle- stands out as a premier choice for travelers to Krujë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

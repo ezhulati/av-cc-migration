@@ -1,30 +1,10 @@
----
-title: HEIRESS Hotel
-description: The hotel prides itself on its well-appointed rooms, each equipped with air conditioning, a flat-screen TV featuring an array of cable channels, a refrigerator,
-featuredImage: "/images/accommodation/524600798.jpg"
-language: en
-slug: heiress-hotel
-location: ""
-amenities: []
-images: []
----
-
-The hotel prides itself on its well-appointed rooms, each equipped with air conditioning, a flat-screen TV featuring an array of cable channels, a refrigerator, and a kettle, ensuring a comfortable stay. The attention to detail extends to the provision of free toiletries, crisp bed linen, and plush towels in every room, catering to the needs of the modern traveler.
+---\ntitle: "HEIRESS Hotel"\ndescription: "HEIRESS Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524600798.jpg?k=4e1e237cf4169b7be530efc2754272d41181a9ef242d297b232cc327b615fd57&o=&hp=1"\nlanguage: en\nslug: heiress-hotel\naddress: "Saranda, AL - Corfu, GR, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.87446221\n  lng: 20.00634807\nprice: "US$102"\npriceFrom: 102\nstarRating: 4\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 15\nratings:\n  overall: 9.4\n  location: 9.7\n  cleanliness: 9.5\n  facilities: 9\n  value: 9.2\n  comfort: 9.8\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524600798.jpg?k=4e1e237cf4169b7be530efc2754272d41181a9ef242d297b232cc327b615fd57&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478996027.jpg?k=32e40359101eeec4bcef3c1854e9d4d9de126cea45e69b5232208d63d8bdbd1c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478644591.jpg?k=7eba2078baf74b11a467b9c8fcbfd648d480a002e08c6140cf5288ec32001aa3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481655866.jpg?k=e2f7d237f101ce79ff7c907b6af4232d53ebd579c33f6c524fc8cd30d1c12bf8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478644582.jpg?k=ded801e4236bdacc039a761e6c539d9343ff09a4cc6e6ef566bf360e562e1ff1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478644597.jpg?k=fee6bd00707f039c0f331ec149313dad1002a44db9c51e4607309737b5397a14&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Terrace"\n  - "Tea/coffee maker in all rooms"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe King Room"\n  - "Large Twin Room"\nnearbyRestaurants:\n  - "NamNam 50 m"\n  - "Taverna Leo 100 m"\nnearbyBeaches:\n  - "Saranda City Beach 250 m"\n  - "Sarande Main Beach 650 m"\n  - "La Petite Beach 950 m"\n  - "Maestral Beach 1.1 km"\n  - "VIP Beach 2.1 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.3 km"\n  - "Butrint National Park 3.1 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Irum"\n    country: "Pakistan"\n    text: "“Location near bus station Friendly and courteous staff
+Owner was a lovely and helpful lady
+Comfortable beds
+All amenities”"\n  - name: "Artemis"\n    country: "Albania"\n    text: "“The location was perfect for work purposes because all instructions were near by. The service was excellent and the room was very clean! Highly recommend this place!”"\n  - name: "Alessandro"\n    country: "Italy"\n    text: "“Stanza grande con bagno grande pulizia ok posizione in centro”"\nbookingURL: "https://www.booking.com/hotel/al/hh-sarande.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe hotel prides itself on its well-appointed rooms, each equipped with air conditioning, a flat-screen TV featuring an array of cable channels, a refrigerator, and a kettle, ensuring a comfortable stay. The attention to detail extends to the provision of free toiletries, crisp bed linen, and plush towels in every room, catering to the needs of the modern traveler.
 
 Beyond the comforts of the rooms, HEIRESS Hotel offers a terrace that presents an ideal spot for guests to unwind. The hotel's commitment to service is evident through its 24-hour front desk, room service, and additional facilities including luggage storage and currency exchange, ensuring a hassle-free experience for guests.
 
 For those looking to explore beyond the hotel, La Petite Beach is just over a kilometer away, offering a serene escape, while the historic Butrint National Park is a mere 16 km drive, promising a day of adventure and exploration. The nearest airport, Ioannina Airport, is 96 km away, making HEIRESS Hotel a convenient choice for both domestic and international travelers.
 
 In summary, HEIRESS Hotel stands out as a premier destination for those visiting Sarandë, offering a perfect blend of location, luxury, and service, making every stay memorable.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

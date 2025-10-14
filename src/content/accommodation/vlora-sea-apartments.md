@@ -1,26 +1,3 @@
----
-title: Vlora Sea Apartments
-description: Guests stepping into the spacious apartment will find themselves enveloped in a haven of comfort, featuring two cozy bedrooms, a welcoming living room, and a ba
-featuredImage: "/images/accommodation/473439862.jpg"
-language: en
-slug: vlora-sea-apartments
-location: ""
-amenities: []
-images: []
----
-
-Guests stepping into the spacious apartment will find themselves enveloped in a haven of comfort, featuring two cozy bedrooms, a welcoming living room, and a balcony that invites relaxation. The well-equipped kitchen caters to those who enjoy preparing their meals, adding a touch of home-away-from-home. Entertainment is readily available with the inclusion of a flat-screen TV, ensuring guests have everything they need for a memorable stay.
+---\ntitle: "Vlora Sea Apartments"\ndescription: "Vlora Sea Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473439862.jpg?k=eabbb72ab7c3655f031357c7ca5743511433d1e58f1ae323f0d83d9d1e2d567e&o=&hp=1"\nlanguage: en\nslug: vlora-sea-apartments\naddress: "Rr. Sazani 2nd floor Emigres building, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45574555\n  lng: 19.47722652\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 5\nratings:\n  overall: 8.2\n  location: 8\n  cleanliness: 8\n  facilities: 8.5\n  value: 8\n  comfort: 8\n  staff: 8.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473439862.jpg?k=eabbb72ab7c3655f031357c7ca5743511433d1e58f1ae323f0d83d9d1e2d567e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473439872.jpg?k=a4dea433198e50582d010037d64691cd28e23398e79d1251ed6151ab8c752542&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473439869.jpg?k=3ad0d067ac9c75605589f0e0dcd7371162f109e48fbd0e9c182fc537cf5496f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473439864.jpg?k=40065b74f4fad897e8bd2dbc348d7ed119cad731aeda630fb6c08d33dc266e68&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473439874.jpg?k=c39ae27c9df4d517da5636e18d4ad1ee3e498755984d92d1294fc375c66289ff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473439867.jpg?k=5baf215a836bb80ffd055d220781389a7f8a4a2df2530930f21cb0505541dd93&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473439873.jpg?k=8613e7650a91075cee5a94c13eddd4b023d12bff3cea41d223cb3df43277115d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473439865.jpg?k=54a77cb9024f82acca202f2b094cdae068d122d76546d420e292ab576642cb2d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473439871.jpg?k=3e0d062719da7c9c6edd47d6ce9efb3c119150d0b63f82e4016f4f74454e3e0a&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Restorant Taverna Lato Mezuaraj 30 m"\n  - "Bar Piazza 350 m"\nnearbyBeaches:\n  - "Vjetër Beach 150 m"\n  - "Vlore Beach 1.6 km"\n  - "Ri Beach 2.7 km"\n  - "Beach at Government Villas 4 km"\n  - "Liro Beach 4.5 km"\nwhatsNearby:\n  - "Kuzum Baba 1.9 km"\n  - "Independence Square 2 km"\n  - "Scooby Doo Vlore 2.7 km"\nreviews:\n  - name: "Igor26"\n    country: "North Macedonia"\n    text: "“Everything was just fine, as presented from the host. In the same building there is a restaurant, with solid food and prices, and in the next building there is a fish market/grill, also with great and fresh sea food and acceptable prices. The...”"\nbookingURL: "https://www.booking.com/hotel/al/vlora-sea-apartments-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests stepping into the spacious apartment will find themselves enveloped in a haven of comfort, featuring two cozy bedrooms, a welcoming living room, and a balcony that invites relaxation. The well-equipped kitchen caters to those who enjoy preparing their meals, adding a touch of home-away-from-home. Entertainment is readily available with the inclusion of a flat-screen TV, ensuring guests have everything they need for a memorable stay.
 
 Adding to the convenience, Vlora Sea Apartments provides private parking on-site and complimentary WiFi, allowing guests to stay connected and plan their adventures with ease. For those venturing from afar, the proximity to Tirana International Mother Teresa Airport, located 150 km away, makes this apartment a strategic choice for both short and extended stays in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

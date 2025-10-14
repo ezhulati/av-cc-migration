@@ -1,28 +1,5 @@
----
-title: Apartament Wendy
-description: "Guests are treated to a generously sized apartment that boasts a private balcony from which the breathtaking mountainous landscape of Berat can be admired."
-featuredImage: "/images/accommodation/475880858.jpg"
-language: en
-slug: apartament-wendy
-location: ""
-amenities: []
-images: []
----
-
-Guests are treated to a generously sized apartment that boasts a private balcony from which the breathtaking mountainous landscape of Berat can be admired. The living space is thoughtfully designed, featuring a cozy bedroom, a welcoming living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen that includes modern appliances such as an oven and a toaster. The convenience of having a private bathroom equipped with a shower adds to the comfort of the stay. For those looking to celebrate or simply enjoy a quiet evening, the apartment offers the added touch of wine or champagne available as part of its in-room amenities.
+---\ntitle: "Apartament Wendy"\ndescription: "Apartament Wendy emerges as a serene retreat in the heart of Berat, offering guests a unique blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475880858.jpg?k=2f626c358409ff7f4beb7c9c234c37fedaa5e887abcac67c2456babd7942f4ca&o=&hp=1"\nlanguage: en\nslug: apartament-wendy\naddress: "Rruga Antipatrea 4, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.69985453\n  lng: 19.97258862\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475880858.jpg?k=2f626c358409ff7f4beb7c9c234c37fedaa5e887abcac67c2456babd7942f4ca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476210080.jpg?k=e7d5ef6a258b737ac21d3d603d8e92a52041a3867b8d3195ec6dd247f02dbb79&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475881396.jpg?k=ce7f1594b634253568657562644c7cc1ea221785217e4113f8038cd453e3c22b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475881533.jpg?k=671e4b0de1d6b45827aa38d1d014b953e5bf54c6f2dbd0abe55afe5edeb58270&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475880607.jpg?k=b32c5b796588b0995649ddd3b42af717a8e2003f5ed4242b0045d5d127b0c3e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475883334.jpg?k=85d443c8f861bb7ed754e1218fee10f480ea662d19386ec15d0b28f602152f4d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476210178.jpg?k=ed36ef8f5e7d5f7560684d8cf034e0bccc1ad67820afb5178ff77a7cb208b2b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475890582.jpg?k=8524f92138dd677b0163116a56d4ef73397cf533dd6509cbbbc8ec439bcb75e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476209994.jpg?k=ba8f1de67df74f29d6e3da30acdc30fe3243d77dc8d739a299e60a5fa4b879b1&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Airport shuttle"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Sweet House 150 m"\n  - "Fatos Bajraktari 500 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 7 km"\n  - "Sheshi Tomorri 15 km"\nairports:\n  - "Tirana International Airport Mother Teresa 80 km"\n  - "Ohrid Airport 83 km"\nbookingURL: "https://www.booking.com/hotel/al/wendy.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nGuests are treated to a generously sized apartment that boasts a private balcony from which the breathtaking mountainous landscape of Berat can be admired. The living space is thoughtfully designed, featuring a cozy bedroom, a welcoming living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen that includes modern appliances such as an oven and a toaster. The convenience of having a private bathroom equipped with a shower adds to the comfort of the stay. For those looking to celebrate or simply enjoy a quiet evening, the apartment offers the added touch of wine or champagne available as part of its in-room amenities.
 
 For travelers looking to explore beyond the city's borders, Apartament Wendy is conveniently located 120 km from Tirana International Mother Teresa Airport. The property also facilitates travel arrangements by offering a paid airport shuttle service, ensuring guests can navigate their arrival and departure with ease.
 
 Apartament Wendy is more than just a place to stay; it's a gateway to experiencing the charm and beauty of Berat, all while enjoying the comforts of a home away from home.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

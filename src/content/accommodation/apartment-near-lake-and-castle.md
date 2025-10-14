@@ -1,26 +1,4 @@
----
-title: Apartment near lake and castle
-description: The apartment itself is a testament to thoughtful design and convenience, featuring two well-appointed bedrooms that promise restful nights. The heart of the sp
-featuredImage: "/images/accommodation/455772850.jpg"
-language: en
-slug: apartment-near-lake-and-castle
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to thoughtful design and convenience, featuring two well-appointed bedrooms that promise restful nights. The heart of the space is a fully equipped kitchen, complete with an oven and microwave, allowing guests the freedom to prepare meals as they wish. The living area, anchored by a flat-screen TV and comfortable seating, invites relaxation and entertainment after a day of exploration. A meticulously maintained bathroom, complete with a bidet, along with the provision of towels and bed linen, underscores the property's attention to guest comfort.
+---\ntitle: "Apartment near lake and castle"\ndescription: "Apartment near lake and castle stands as a serene retreat in Shkodër, offering guests a unique blend of scenic beauty and modern comforts."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455772850.jpg?k=f946378c2203a637269c41bae4a105ac122340969c7f7c8fdbea9d1c0c153798&o=&hp=1"\nlanguage: en\nslug: apartment-near-lake-and-castle\naddress: "Shëtitorja e Molos, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.05455599\n  lng: 19.49817203\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 4\nratings:\n  overall: 9.2\n  location: 8.8\n  cleanliness: 10\n  facilities: 8.8\n  value: 9.4\n  comfort: 8.8\n  staff: 9.4\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455772850.jpg?k=f946378c2203a637269c41bae4a105ac122340969c7f7c8fdbea9d1c0c153798&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455774403.jpg?k=216b9ea62b75b777b5a2973108a87462b8b911b05dc0f88aac24a4f42122fac9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455776648.jpg?k=31f0eb6ad475d1a313e1fbf946282b147f727f4039ba44ed85c806a3bcdca579&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455776656.jpg?k=7b705c5b679bf0de8f2a7c1bce7b5ae45074c27dd285259d395c0d91d5457bcb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480814645.jpg?k=82dd5b5460cb49371c6ec14d3ff0f40b4618795b810764c1974b1b95e03a57f6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455777106.jpg?k=bb3d26d3401b4ae921cdbe7df0bcc52d8752e2747bd198f0603e0b8005c80030&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455776652.jpg?k=6eed67e65b1ac5bf75e6e5da2a0534c63cabd5260593336d3995bd94cc92888d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455774313.jpg?k=b8c49c93902d2976d72b42a7a95cfb172f7007064d638c79f3e421fddc8442e5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455777060.jpg?k=d06eac3863dea968a6574dcd5fa5bcd47b441a9568d40c75683f8144e3baf7e3&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Flaer Bar 10 m"\n  - "CAFFE Molinari 100 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 1,000 m"\n  - "National Park Skadar Lake 9 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 72 km"\n  - "Tivat Airport 73 km"\nreviews:\n  - name: "Eloise"\n    country: "France"\n    text: "“Appartement spacieux.
+Hôte très réactif dans les demandes. Un problème technique signalé dans la matinée sur la climatisation, réglé le jour même !”"\nbookingURL: "https://www.booking.com/hotel/al/apartment-near-the-lake-amp-castle.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe apartment itself is a testament to thoughtful design and convenience, featuring two well-appointed bedrooms that promise restful nights. The heart of the space is a fully equipped kitchen, complete with an oven and microwave, allowing guests the freedom to prepare meals as they wish. The living area, anchored by a flat-screen TV and comfortable seating, invites relaxation and entertainment after a day of exploration. A meticulously maintained bathroom, complete with a bidet, along with the provision of towels and bed linen, underscores the property's attention to guest comfort.
 
 Outdoor enthusiasts will appreciate the apartment's outdoor dining area, perfect for enjoying meals al fresco against the backdrop of Shkodër's natural beauty. For those looking to venture further, Podgorica Airport is conveniently located 60 km away, making Apartment near lake and castle an ideal base for exploring the region's attractions or simply unwinding in the tranquility of this picturesque setting.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

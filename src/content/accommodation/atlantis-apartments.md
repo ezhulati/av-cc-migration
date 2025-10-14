@@ -1,28 +1,7 @@
----
-title: Atlantis Apartments
-description: Each one-bedroom apartment at Atlantis Apartments is thoughtfully designed to cater to the needs of modern travelers. Guests can enjoy the luxury of air-conditi
-featuredImage: "/images/accommodation/picture-3.jpeg"
-language: en
-slug: atlantis-apartments
-location: ""
-amenities: []
-images: []
----
-
-Each one-bedroom apartment at Atlantis Apartments is thoughtfully designed to cater to the needs of modern travelers. Guests can enjoy the luxury of air-conditioned spaces, complemented by the convenience of a fully equipped kitchen, including an oven and fridge, ensuring a home-away-from-home experience. The living room, adorned with a flat-screen TV offering cable channels, provides a cozy retreat for relaxation after a day of exploration.
+---\ntitle: "Atlantis Apartments"\ndescription: "Atlantis Apartments emerges as a prime choice for travelers seeking comfort and convenience in Orikum."\nfeaturedImage: "https://graph.facebook.com/v2.9/10205682163330136/picture?type=square&height=64&width=64"\nlanguage: en\nslug: atlantis-apartments\naddress: "Rruga Demokracia, 1001 Orikum, Albania"\ncity: "Orikum"\nlocation: "Orikum"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.32395171\n  lng: 19.47140135\nprice: "US$25"\npriceFrom: 25\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 30\nratings:\n  overall: 9.2\n  location: 8.4\n  cleanliness: 9.7\n  facilities: 9\n  value: 9.1\n  comfort: 8.9\n  staff: 9.5\n  wifi: 10\nimages:\n  - "https://graph.facebook.com/v2.9/10205682163330136/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/pr/0b72020a91703fa1497069f68cc581825d6d772d.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-p/866dca38dcc31cb6fa2e9b4c475bd32e681b0080.png"\n  - "https://cf.bstatic.com/static/img/flags/12/fr/80667cd1f58bba217c1ec87dea9ccd1335ed8dba.png"\n  - "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=64"\n  - "https://cf.bstatic.com/static/img/flags/12/fr/80667cd1f58bba217c1ec87dea9ccd1335ed8dba.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-p/866dca38dcc31cb6fa2e9b4c475bd32e681b0080.png"\n  - "https://cf.bstatic.com/static/img/flags/12/nl/7b4427cefda046f99f0efc11622be2e83b8ba511.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Apartment with Balcony"\nnearbyRestaurants:\n  - "Mats Beach Bar and Cafe 150 m"\n  - "Las Bello 450 m"\nnearbyBeaches:\n  - "Orikum Beach 1.3 km"\n  - "Nettuno Beach 1.4 km"\n  - "Baro Beach 2 km"\n  - "Al Breeze Beach 2.6 km"\n  - "Radhimë Beach 3.3 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 13 km"\n  - "Llogora National Park 13 km"\n  - "Kuzum Baba 16 km"\n  - "Independence Square 16 km"\nairports:\n  - "Corfu International Airport 87 km"\nreviews:\n  - name: "Katarzyna"\n    country: "Puerto Rico"\n    text: "“Very nice place. Helpfull host. We recomending this place.”"\n  - name: "Erjon"\n    country: "Albania"\n    text: "“All we could ask for. Quiet, clean and well furnitured. The hosts are very nice and helpful, and close to the apartment is a market and restaurants.”"\n  - name: "Klea"\n    country: "Albania"\n    text: "“The stay at the Atlantis apartments was amazing.
+The apartment had the perfect space. You could find all the necessary facilities like clean sheets, towels, shampoos, air conditioner and a full completed kitchen.
+It is just a 3 minute drive from...”"\nbookingURL: "https://www.booking.com/hotel/al/atlantis-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach one-bedroom apartment at Atlantis Apartments is thoughtfully designed to cater to the needs of modern travelers. Guests can enjoy the luxury of air-conditioned spaces, complemented by the convenience of a fully equipped kitchen, including an oven and fridge, ensuring a home-away-from-home experience. The living room, adorned with a flat-screen TV offering cable channels, provides a cozy retreat for relaxation after a day of exploration.
 
 Privacy and comfort are paramount at Atlantis Apartments, with each unit boasting a private entrance and a bathroom equipped with a bidet. The addition of free WiFi throughout the property ensures that guests remain connected and entertained throughout their stay.
 
 For those traveling to or from the area, the proximity to Tirana International Mother Teresa Airport, located 168 km away, makes Atlantis Apartments an ideal choice for both short and extended stays. This property stands out as a beacon of comfort and convenience for travelers venturing to Orikum.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

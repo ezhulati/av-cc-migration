@@ -1,26 +1,3 @@
----
-title: Shengjini Apartments
-description: The establishment prides itself on offering top-notch services, including a 24-hour front desk, round-the-clock security, and a currency exchange facility, ensu
-featuredImage: "/images/accommodation/472180336.jpg"
-language: en
-slug: shengjini-apartments
-location: ""
-amenities: []
-images: []
----
-
-The establishment prides itself on offering top-notch services, including a 24-hour front desk, round-the-clock security, and a currency exchange facility, ensuring a hassle-free stay for every guest. The apartment itself is a testament to modern living, featuring a cozy bedroom, a spacious living room with a flat-screen TV, a fully equipped kitchen with a dining area, and a bathroom complete with a bidet and washing machine. The highlight, however, is the balcony that opens up to serene pool views, promising a tranquil retreat.
+---\ntitle: "Shengjini Apartments"\ndescription: "Shengjini Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Shëngjin."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472180336.jpg?k=070a95c60b8185b9612129e24caab778cb220f24202c069ad9e18e6ed7362ba0&o=&hp=1"\nlanguage: en\nslug: shengjini-apartments\naddress: "Rruga Shengjin-Kune, 4503 Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.80507381\n  lng: 19.6003282\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.8\nratingWords: "Good"\nnumberOfReviews: 5\nratings:\n  overall: 7.8\n  location: 8.1\n  cleanliness: 7\n  facilities: 7\n  value: 6.9\n  comfort: 8.5\n  staff: 9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472180336.jpg?k=070a95c60b8185b9612129e24caab778cb220f24202c069ad9e18e6ed7362ba0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/362444448.jpg?k=76fb532cb2258b9c4b20bef4bc0785ed92e55adf2f1e392167b8593ce1fe06e7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/362444452.jpg?k=71d4d38374a84bec1a413c1308b935919fb50aa8acc3d24880fc144e34b0fb8f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/362444447.jpg?k=74988c01a3f7569b38e7e75d279b4b42d0db39137e8aa040fda0afad66ceb939&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/362444429.jpg?k=2b7f89e7be6f486bd34b506857f404fff821af8600c991445d6c2970474b2493&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/362444459.jpg?k=93eeb347866c57b0934acf572873f417b19c6dd792a7bf27b588d433562115f0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/362444457.jpg?k=cb1a09d8ce3fc6610bc81c431ce5afe52ba3d29a1aaaa1e65126ce9ef75b5985&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/362444455.jpg?k=e22a6ffc83ec01d37c1fb2ee28def7187cf6e120693db927479542644d598553&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/362444450.jpg?k=4e15677cf5bf611bfac0a83faa3806f9bfe73e036999c69e37300d5b3da31801&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Ara Shengjin 20 m"\n  - "Coral 200 m"\nnearbyBeaches:\n  - "Shëngjin Beach 100 m"\n  - "Ylberi Beach 600 m"\n  - "Rana e Hedhun Beach 3.2 km"\n  - "Laguna Park Beach 4 km"\n  - "Kune Beach 4.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 43 km"\n  - "Podgorica Airport 67 km"\n  - "Tivat Airport 97 km"\nbookingURL: "https://www.booking.com/hotel/al/shengjini-apartments-shengjin.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe establishment prides itself on offering top-notch services, including a 24-hour front desk, round-the-clock security, and a currency exchange facility, ensuring a hassle-free stay for every guest. The apartment itself is a testament to modern living, featuring a cozy bedroom, a spacious living room with a flat-screen TV, a fully equipped kitchen with a dining area, and a bathroom complete with a bidet and washing machine. The highlight, however, is the balcony that opens up to serene pool views, promising a tranquil retreat.
 
 For those keen on exploring the local attractions, Rozafa Castle Shkodra and Lake Skadar are within accessible distances, located 42 km and 43 km away, respectively. Moreover, the Tirana International Mother Teresa Airport is conveniently 49 km from the property, making Shengjini Apartments an ideal base for both leisure and exploration in this captivating region.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

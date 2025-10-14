@@ -1,28 +1,5 @@
----
-title: EcoStay 04
-description: A mere stone's throw from the historical Former Residence of Enver Hoxha, and less than a kilometer from the lush environs of Rinia Park, EcoStay 04 positions i
-featuredImage: "/images/accommodation/413304845.jpg"
-language: en
-slug: ecostay-04
-location: ""
-amenities: []
-images: []
----
-
-A mere stone's throw from the historical Former Residence of Enver Hoxha, and less than a kilometer from the lush environs of Rinia Park, EcoStay 04 positions itself as an ideal base for exploring the city's rich cultural tapestry. The Rock of Kavaje, located 45 km away, adds a touch of adventure for those willing to venture a bit further.
+---\ntitle: "EcoStay 04"\ndescription: "EcoStay 04 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413304845.jpg?k=4834b2aaaaa511f581a6d90485da4f5c45accb210de0fc62d43688cd67df26cc&o=&hp=1"\nlanguage: en\nslug: ecostay-04\naddress: "Rruga Ibrahim Rugova, 1011 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31690681\n  lng: 19.81915864\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 4.6\nratingWords: "Needs Improvement"\nnumberOfReviews: 2\nratings:\n  overall: 4.6\n  location: 7.5\n  cleanliness: 2.5\n  facilities: 5\n  value: 2.5\n  comfort: 7.5\n  staff: 2.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413304845.jpg?k=4834b2aaaaa511f581a6d90485da4f5c45accb210de0fc62d43688cd67df26cc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413304869.jpg?k=c5fe4d64c5b08d9e42f1f77c5e1fb49594b2b74ec9dfeba818057e041db5a989&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413304863.jpg?k=37371d64375030c658e192d3f290950f4d0dea77f82a440e319c467da359ba49&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413304860.jpg?k=44291b49ee6b99d52a62128258a4fcc265d59f5252774bfb0824aff0ed5bae7e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413304872.jpg?k=4b89567b2558dcffdcc4c465bcfdd27899d83cc344d8fa93c95b8034bee159f6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413304866.jpg?k=6065e911731c66c03c90b0104f6373fb35738e03680d2e4bf7197df5693c3af7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413304856.jpg?k=65a56c7eebfec8f7ad7de2747116e107a9260eaec8f320044c05b2e0dc245eaf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413304878.jpg?k=a3620beee30f3ec294676708696ba2dd6c9f7db4b8717e7c2b79b7420cf57553&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413304864.jpg?k=c3b36355280a0388bde5c39e631d30a356bd1c9c1a457e3487e1a407a5e92f8e&o=&hp=1"\namenities:\n  - "Free WiFi"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 1 km"\n  - "House of Leaves 1.1 km"\n  - "Clock Tower Tirana 1.2 km"\n  - "Skanderbeg Square 1.2 km"\n  - "Tanners' Bridge 1.2 km"\n  - "National Museum of History Albania 1.4 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Corner 30 m"\n  - "Kristin 50 m"\nwhatsNearby:\n  - "Shesh Rekreativ 300 m"\n  - "Parku I Madh I Tiranës (Grand Park) 400 m"\n  - "Former Residence of Enver Hoxha 450 m"\n  - "Sheshi Rekreativ tek Arena Kombëtare 500 m"\n  - "Sheshi Rekreativ Piramida 750 m"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 750 m"\n  - "Grand Park of Tirana 750 m"\n  - "Shesh Rekreativ 800 m"\n  - "Rinia Park 850 m"\n  - "Parku I Madh 900 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/ecostay-04.en-gb.html?aid=8035640"\nbestFor: "Best for Eco-Friendly Practices"\nbestCategories: "Eco-Friendly Practices"\ncategory: "Eco-Friendly Practices"\n---\n\nA mere stone's throw from the historical Former Residence of Enver Hoxha, and less than a kilometer from the lush environs of Rinia Park, EcoStay 04 positions itself as an ideal base for exploring the city's rich cultural tapestry. The Rock of Kavaje, located 45 km away, adds a touch of adventure for those willing to venture a bit further.
 
 The apartment itself is a study in thoughtful convenience, boasting a terrace that invites relaxation, a cozy bedroom for restful nights, and a living room that feels like home. The kitchen is well-equipped, catering to the needs of those who prefer a home-cooked meal. Essentials such as towels and bed linen are thoughtfully provided, enhancing the comfort of the stay.
 
 For those drawn to the outdoors, the Grand Park of Tirana, the historical Postbllok - Checkpoint Monument, and the iconic Pyramid of Tirana are within close proximity, making it easy for guests to immerse themselves in the local culture and history. With the Tirana International Mother Teresa Airport only 16 km away, EcoStay 04 ensures a hassle-free arrival and departure, promising a memorable stay in one of Tirana's most convenient and comfortable accommodations.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

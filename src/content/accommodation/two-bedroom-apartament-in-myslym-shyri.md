@@ -1,30 +1,7 @@
----
-title: Two bedroom apartament in Myslym Shyri
-description: This air-conditioned apartment doesn't just boast a prime location; it also provides guests with the luxury of private parking on site and complimentary WiFi, e
-featuredImage: "/images/accommodation/522171233.jpg"
-language: en
-slug: two-bedroom-apartament-in-myslym-shyri
-location: ""
-amenities: []
-images: []
----
-
-This air-conditioned apartment doesn't just boast a prime location; it also provides guests with the luxury of private parking on site and complimentary WiFi, ensuring a seamless stay from start to finish. For those who appreciate the finer details, the apartment is a strictly non-smoking environment, located a short drive from the breathtaking views offered by the Dajti Ekspres Cable Car.
+---\ntitle: "Two bedroom apartament in Myslym Shyri"\ndescription: "Discover the charm of Tirana from the comfort of the Two Bedroom Apartment in Myslym Shyri, a prime accommodation choice for travelers seeking both convenience and comfort."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522171233.jpg?k=7fcd817b05484a89016977d0c05f4b4bc2517c256e3059749e679ffe63816928&o=&hp=1"\nlanguage: en\nslug: two-bedroom-apartament-in-myslym-shyri\naddress: "Rruga Myslym Shyri, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3250741\n  lng: 19.80903712\nprice: "US$56"\npriceFrom: 56\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522171233.jpg?k=7fcd817b05484a89016977d0c05f4b4bc2517c256e3059749e679ffe63816928&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522171316.jpg?k=67a06c084e70679cdf59f276b4222c6a3dceddf13d771a7042c3d9bd3b54b27d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522171143.jpg?k=fcf2be18003c025bdf0e1538be6d01ff469f056d7a611bee90e4246c3a87775d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522171564.jpg?k=ce61c6d7cb0b13c84baab8c47f650acc51cf70e7cb93c72ec5a76d410f654dad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522171598.jpg?k=4cb69581e1b5b9693666bbdb2890788f5ea08ddba95ab27509dd326126463333&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522171197.jpg?k=8cba9c1b635ad62bc14bd321581f77016e781f93cd138b3a523eac5dc15aad4b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522171221.jpg?k=7bbe3fb2a49495a5b3412bcf4ea6b44408ea1e5ccda28f6d2ffbaedc5e6a26f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522171698.jpg?k=60f88d44e29bdc35a4679f1138746f36890db87d248eef21e5c111aef15fa4f0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522171241.jpg?k=68bbdd4e1f8d9aabc9000abbfcf384f93fee035bfc1dcd5af5991e97b2db5e27&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Good free WiFi (47 Mbps)"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "Skanderbeg Square 900 m"\n  - "Clock Tower Tirana 950 m"\n  - "National Gallery of Arts Tirana 1,000 m"\n  - "Tanners' Bridge 1.4 km"\n  - "Grand Park of Tirana 2 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "London City 5 m"\n  - "Oreksi Self Service 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Blloku 1 Maji 600 m"\n  - "Sheshi Rekreativ Shefqet Musaraj 600 m"\n  - "House of Leaves 650 m"\n  - "Sheshi Paris 700 m"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 750 m"\n  - "Rinia Park 750 m"\n  - "Sheshi Rekreativ Sali Butka 800 m"\n  - "Former Residence of Enver Hoxha 850 m"\n  - "Sheshi Skënderbej 850 m"\n  - "National Museum of History Albania 850 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 80 km"\nbookingURL: "https://www.booking.com/hotel/al/two-bedroom-apartament-in-myslym-shyri.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis air-conditioned apartment doesn't just boast a prime location; it also provides guests with the luxury of private parking on site and complimentary WiFi, ensuring a seamless stay from start to finish. For those who appreciate the finer details, the apartment is a strictly non-smoking environment, located a short drive from the breathtaking views offered by the Dajti Ekspres Cable Car.
 
 Space is abundant in this apartment, featuring a balcony that offers city views, two cozy bedrooms for a restful night's sleep, a welcoming living room for relaxation, and a well-equipped kitchen complete with a fridge for those moments when dining in feels just right. Entertainment is readily available with a flat-screen TV, making every evening a potential movie night.
 
 The apartment's location is not just about historical sites; it's also conveniently close to Rinia Park, the Clock Tower of Tirana, and the Et'hem Bey Mosque, placing guests at the heart of Tirana's cultural and natural beauty. For those traveling to or from Tirana International Mother Teresa Airport, the apartment is conveniently located just 14 km away, making arrivals and departures as smooth as possible.
 
 The Two Bedroom Apartment in Myslym Shyri stands out as a top choice for those looking to immerse themselves in the vibrant life of Tirana, offering both the comforts of home and the excitement of the city right at your doorstep.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

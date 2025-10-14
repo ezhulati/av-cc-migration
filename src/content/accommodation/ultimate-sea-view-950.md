@@ -1,30 +1,7 @@
----
-title: Ultimate Sea View 950
-description: This property doesn't just offer a place to stay; it provides a home away from home. The apartment boasts a generous layout that includes a bedroom, a living ro
-featuredImage: "/images/accommodation/487579939.jpg"
-language: en
-slug: ultimate-sea-view-950
-location: ""
-amenities: []
-images: []
----
-
-This property doesn't just offer a place to stay; it provides a home away from home. The apartment boasts a generous layout that includes a bedroom, a living room with a flat-screen TV, a fully equipped kitchen, and a bathroom with a shower. The highlight, however, is the balcony that offers unobstructed sea views, promising guests a tranquil retreat where they can unwind to the sound of the waves.
+---\ntitle: "Ultimate Sea View 950"\ndescription: "Ultimate Sea View 950 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487579939.jpg?k=1dbeb9b1f44c9c5f823446a7321df5ddaaf89439ebe90e367412666fef4a75e2&o=&hp=1"\nlanguage: en\nslug: ultimate-sea-view-950\naddress: "7GG7+XQG, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.2774375\n  lng: 19.5144531\nprice: "US$35"\npriceFrom: 35\nstarRating: 4\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487579939.jpg?k=1dbeb9b1f44c9c5f823446a7321df5ddaaf89439ebe90e367412666fef4a75e2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481272814.jpg?k=24c249b394392ddc56fdb55dea3032a71adb1418164efdd97143de91823316a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481272858.jpg?k=27e076501dcb36fb9955a4af861e613bcf1d1a684d363270907bae19d4b48d1d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481272850.jpg?k=eea27f2d4edf594520a6fc5e3141e6426b23d0e2c41718075c8c9132224efb12&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481272854.jpg?k=969adf435f839e7fe37a0f35f3a205073aec6d6c9e666a79b7e4d3fcf1db686c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487581433.jpg?k=c039a3a0f0204b4f44f1cc4b4b222492f51fc0847013875d3c2deae841558cb7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481272907.jpg?k=2601f5b00cce0ba528004fd00996c41ebb770b66d25ab46749b7a76cb210ca97&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481272861.jpg?k=e2137f9c3c979badef632c2cdd28a7441f82ae4d85623c238a9998caa8b59fe4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481272910.jpg?k=dc80eae21313dd435c29cd388731407be9db787ed826b88dfb6de224957b8f90&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Restorant Lala 50 m"\n  - "Oyster 100 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 0 m"\n  - "Durres Beach 1 km"\n  - "Golem Beach 1.4 km"\n  - "Mali I Robit Beach 3.3 km"\n  - "Qerret Beach 5 km"\nwhatsNearby:\n  - "Bekimi 6 km"\n  - "Wine Dhe Pooh 7 km"\n  - "Durres Amphiteatre 7 km"\n  - "Yje Dhe Hena 7 km"\n  - "Sheshi Demokracia 7 km"\n  - "1. Maj 7 km"\n  - "Sotir Noka 7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nbookingURL: "https://www.booking.com/hotel/al/1-bedroom-apartment-950.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis property doesn't just offer a place to stay; it provides a home away from home. The apartment boasts a generous layout that includes a bedroom, a living room with a flat-screen TV, a fully equipped kitchen, and a bathroom with a shower. The highlight, however, is the balcony that offers unobstructed sea views, promising guests a tranquil retreat where they can unwind to the sound of the waves.
 
 Ultimate Sea View 950 is distinguished by its commitment to guest convenience, offering private check-in and check-out, a minimarket for essentials, and complimentary WiFi across the premises. For those concerned about health and safety, it's reassuring to know the property maintains a strict non-smoking policy.
 
 For guests looking to explore beyond the beach, the property is within a reasonable distance from Skanderbeg Square and the Dajti Ekspres Cable Car, offering a glimpse into the rich culture and natural beauty of the area. Additionally, with Tirana International Mother Teresa Airport just 36 km away, and a paid airport shuttle service available, arriving and departing could not be more hassle-free.
 
 Ultimate Sea View 950 is more than just an accommodation; it's a gateway to a memorable coastal experience in Durrës, combining the comforts of home with the beauty of the Albanian seaside.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

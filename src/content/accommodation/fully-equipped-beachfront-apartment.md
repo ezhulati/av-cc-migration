@@ -1,28 +1,5 @@
----
-title: Fully Equipped beachfront Apartment
-description: The apartment itself is a haven of space and light, boasting a balcony that invites guests to bask in the breathtaking seaside ambiance. With one bedroom, a coz
-featuredImage: "/images/accommodation/518946217.jpg"
-language: en
-slug: fully-equipped-beachfront-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of space and light, boasting a balcony that invites guests to bask in the breathtaking seaside ambiance. With one bedroom, a cozy living room, and a kitchen that comes fully equipped, including a minibar, guests are guaranteed a stay that marries the comforts of home with the luxury of a getaway. Entertainment is readily available through the inclusion of a flat-screen TV, ensuring that leisure moments are well catered for in this non-smoking accommodation.
+---\ntitle: "Fully Equipped beachfront Apartment"\ndescription: "Discover the epitome of coastal living at the Fully Equipped Beachfront Apartment, a prime destination for travelers seeking the perfect blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518946217.jpg?k=74381e2f8cdcd41370e0a9f07cd6bd19a20594cf9c4ace6887131794c7b2de01&o=&hp=1"\nlanguage: en\nslug: fully-equipped-beachfront-apartment\naddress: "Rruga Taulantia, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31170603\n  lng: 19.43694446\nprice: "US$47"\npriceFrom: 47\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518946217.jpg?k=74381e2f8cdcd41370e0a9f07cd6bd19a20594cf9c4ace6887131794c7b2de01&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518946386.jpg?k=67cddd2ea444dd898b961fd5af25924ca483fea954c085c36a581a204a212dbf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518946437.jpg?k=b8eeea353ccae152cb247c80916246c0371596ba77c83eac23865f6fdb8e396d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518946942.jpg?k=30b0378500ecd300214c7eee123a5458bec2387da2f3c6d9d958dac705c60494&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518946579.jpg?k=884c5b1000559ffbfe81e6efe4eaca00b2086eb03c60b3e28531732842b48775&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518946844.jpg?k=f007fc0109383fe19132fb28ffb8f4a700a4eb85cc327255c278521bdfdfb18e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518946911.jpg?k=3a49751677f64f16f947de00c83deac34a7e7776c229521b279138ad85be9d32&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518946803.jpg?k=f6e60a96ccd2eeb609a409aabda80e16c420ae9b48f13b5a4337c0ecb69d4720&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518946339.jpg?k=cc9163adc0fc3224b4be53dbb85eff3c05c439b2f5ad95e3ca98bdc1c23cef2e&o=&hp=1"\namenities:\n  - "Swimming Pool"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Bohemia 20 m"\n  - "Fish House 50 m"\nnearbyBeaches:\n  - "Currila Beach 100 m"\n  - "Kallmi Beach 800 m"\n  - "West End Beach 1.9 km"\n  - "Durres Beach 2.6 km"\n  - "Shkëmbi i Kavajës Beach 7 km"\nwhatsNearby:\n  - "1. Maj 500 m"\n  - "Durres Amphiteatre 700 m"\n  - "Yje Dhe Hena 1 km"\n  - "Wine Dhe Pooh 1.1 km"\n  - "Sheshi Demokracia 1.1 km"\n  - "Sotir Noka 1.3 km"\n  - "Bekimi 3.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\nbookingURL: "https://www.booking.com/hotel/al/fully-equipped-beachfront-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of space and light, boasting a balcony that invites guests to bask in the breathtaking seaside ambiance. With one bedroom, a cozy living room, and a kitchen that comes fully equipped, including a minibar, guests are guaranteed a stay that marries the comforts of home with the luxury of a getaway. Entertainment is readily available through the inclusion of a flat-screen TV, ensuring that leisure moments are well catered for in this non-smoking accommodation.
 
 Strategically located, the apartment is not only close to the beach but also offers easy access to notable attractions. The historic Skanderbeg Square lies 40 km away, promising a cultural excursion for those inclined. For the adventurous, the Dajti Ekspres Cable Car awaits at a distance of 44 km, offering unparalleled views of the area, while the Rock of Kavaje, 12 km away, presents a unique natural landmark worth exploring.
 
 For guests arriving by air, the convenience is unparalleled, with Tirana International Mother Teresa Airport just 34 km from the property, making the Fully Equipped Beachfront Apartment an ideal choice for both domestic and international travelers looking for a memorable stay in Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Luxury Villa Saint Nikolas
-description: Inside, the villa reveals a tastefully designed interior featuring three bedrooms, a fully equipped kitchen complete with a dishwasher and an oven, and a cozy s
-featuredImage: "/images/accommodation/415171880.jpg"
-language: en
-slug: luxury-villa-saint-nikolas
-location: ""
-amenities: []
-images: []
----
-
-Inside, the villa reveals a tastefully designed interior featuring three bedrooms, a fully equipped kitchen complete with a dishwasher and an oven, and a cozy seating area centered around a warm fireplace. The presence of four modern bathrooms, each fitted with a bidet, adds a touch of luxury and comfort to the stay.
+---\ntitle: "Luxury Villa Saint Nikolas"\ndescription: "Luxury Villa Saint Nikolas, located in the serene Korçë County region of Voskopojë, presents an idyllic retreat with breathtaking mountain views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415171880.jpg?k=140311fb2087aef1ebbce6a15720413e432273ffa95b2a30151082725227c440&o=&hp=1"\nlanguage: en\nslug: luxury-villa-saint-nikolas\naddress: "Rruga Lekasit, 7029 Voskopojë, Albania"\ncity: "Voskopojë"\nlocation: "Voskopojë"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.63093182\n  lng: 20.59316244\nprice: "US$452"\npriceFrom: 452\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 4\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415171880.jpg?k=140311fb2087aef1ebbce6a15720413e432273ffa95b2a30151082725227c440&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415171930.jpg?k=82ce79e504e089967c6d7600c2e47dfe6777aeeb723cf6fd1e1a935df1e5cac0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415171889.jpg?k=491578fbfeafd1d05ffec07f38a67a55c7b3daa89df2b4776ab20c387748d199&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415171937.jpg?k=107e9591d616feb0f7dc3b3303ef16f3a082257b454035a59d59502aeb5d537a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415171916.jpg?k=b34e24fb0676216179c6f9c4972bc1da52f426aa72243c9961326b22c07c60bd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415171912.jpg?k=1585db2ac83886276908c9312dfb975461686eeac15698e75ed52f808a03085b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415171929.jpg?k=e570a5a0a3146dc9ff0c6a36aa9575c3475889cf46ca124f2b5ff681f8cc5377&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415171857.jpg?k=b6aa008403d1c5d783cca01ead052bfaa94dbedb63caf98d1c0db56467ec8515&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415171140.jpg?k=de883106c077bbd43a169184a57d22c47198871fff8af8dfa271d1c77e182b5e&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Three-Bedroom Villa"\nnearbyRestaurants:\n  - "Restorant \Ambassador\\" 350 m"\n  - "George Boutique Voskopoje 400 m"\nwhatsNearby:\n  - "Sheshi Panxhar 11 km"\n  - "Sheshi Penetori 13 km"\n  - "Parku Vangjush Mio 16 km"\n  - "Parku Rinia 16 km"\n  - "Parku Themistokli Gërmenji 16 km"\n  - "Field of Tears 16 km"\n  - "Sheshi Patriku Joasaf 16 km"\n  - "Parku Rinia 16 km"\nairports:\n  - "Kastoria National Airport 60 km"\n  - "Ohrid Airport 61 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nbookingURL: "https://www.booking.com/hotel/al/luxury-villa-saint-nikolas.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nInside, the villa reveals a tastefully designed interior featuring three bedrooms, a fully equipped kitchen complete with a dishwasher and an oven, and a cozy seating area centered around a warm fireplace. The presence of four modern bathrooms, each fitted with a bidet, adds a touch of luxury and comfort to the stay.
 
 For those looking to enjoy a day in the fresh air, the villa complex offers a charming picnic area, perfect for family gatherings or a quiet afternoon surrounded by nature.
 
 Situated a mere 89 km from Kastoria National Airport, Luxury Villa Saint Nikolas serves as an accessible escape for those seeking tranquility and comfort amidst the beauty of Voskopojë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

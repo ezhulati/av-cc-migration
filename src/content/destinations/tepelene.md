@@ -5,11 +5,14 @@ region: Southern Albania
 featuredImage: /images/destinations/tepelene.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: tepelene
 highlights: []
+seo:
+  metaDescription: "Explore the charm of [category Title] with our curated collection of unique items."
 ---
 
 Why Visit
@@ -58,10 +61,3 @@ Your Turn to Visit
 
 From its defensive mountain engineering to recent infrastructure expanding regional tourism, Tepelene’s past and future progress in parallel where visitors still encounter history in the making along idyllic Vjosë banks fed for millennia.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

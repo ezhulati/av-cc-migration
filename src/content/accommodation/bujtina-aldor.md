@@ -1,26 +1,3 @@
----
-title: Bujtina ALDOR
-description: Accommodations at Bujtina ALDOR are thoughtfully designed with guest comfort in mind. Each room is equipped with a private bathroom, featuring a bidet and compl
-featuredImage: "/images/accommodation/518833290.jpg"
-language: en
-slug: bujtina-aldor
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Bujtina ALDOR are thoughtfully designed with guest comfort in mind. Each room is equipped with a private bathroom, featuring a bidet and complimentary toiletries, ensuring a stay that is both comfortable and convenient. The presence of a flat-screen TV and air conditioning in every room adds a touch of modernity, while select rooms boast the added luxury of a balcony, offering guests a private space to unwind.
+---\ntitle: "Bujtina ALDOR"\ndescription: "Bujtina ALDOR emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Berat."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518833290.jpg?k=ea8d4aa5de87d3a2b0b77747a8fde791d5c4f213a6eb1962b4f6fd70e3ca35c5&o=&hp=1"\nlanguage: en\nslug: bujtina-aldor\naddress: "Rruga e Syzezit, Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.81827521\n  lng: 19.81600001\nprice: "US$26"\npriceFrom: 26\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518833290.jpg?k=ea8d4aa5de87d3a2b0b77747a8fde791d5c4f213a6eb1962b4f6fd70e3ca35c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521454662.jpg?k=0c6c55f6e41547b2e1be81157a7b87fdab8424fb50a8f5eba2992227f5b938bb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521459286.jpg?k=310a416f8a98ff3a3cb7cabd691459f73600049a8e2b3aa4cbd060b90a7b3953&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518809322.jpg?k=5e117e30bb068a9d4b62597374370b2dc693b90d3bf4cc461b2354db5b155b5a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521461994.jpg?k=2037eeb6d6bbd3499a19ae8c58ce4ea0051140c3c1c01d14978f5fbd0dbe4d51&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518809299.jpg?k=2a720ff7c7b010e3f2bcbd24d867ab456f0e01da4c17953158cc59c89597b8b9&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Balcony (2 Adults + 1 Child)"\nnearbyRestaurants:\n  - "Bar Kafe Niku 3.1 km"\n  - "The Castle 4.8 km"\nwhatsNearby:\n  - "Sheshi I Bashkise 17 km"\nairports:\n  - "Tirana International Airport Mother Teresa 65 km"\n  - "Ohrid Airport 87 km"\nbookingURL: "https://www.booking.com/hotel/al/bujtina-aldor.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Bujtina ALDOR are thoughtfully designed with guest comfort in mind. Each room is equipped with a private bathroom, featuring a bidet and complimentary toiletries, ensuring a stay that is both comfortable and convenient. The presence of a flat-screen TV and air conditioning in every room adds a touch of modernity, while select rooms boast the added luxury of a balcony, offering guests a private space to unwind.
 
 Situated 99 km from Tirana International Mother Teresa Airport, Bujtina ALDOR offers a tranquil retreat that remains conveniently accessible for international travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

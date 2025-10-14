@@ -1,30 +1,8 @@
----
-title: White City Hotel
-description: "Each room at White City Hotel is a testament to modern elegance, boasting air conditioning, vibrant furnishings, and equipped with satellite TV, a min..."
-featuredImage: "/images/accommodation/41891542.jpg"
-language: en
-slug: white-city-hotel
-location: ""
-amenities: []
-images: []
----
-
-Each room at White City Hotel is a testament to modern elegance, boasting air conditioning, vibrant furnishings, and equipped with satellite TV, a minibar, and a telephone for your convenience. The en-suite bathrooms are well-appointed with a shower, bidet, and complimentary toiletries, ensuring a comfortable stay.
+---\ntitle: "White City Hotel"\ndescription: "Discover the charm of White City Hotel, a serene oasis situated right in the heart of the city, mere moments from the lush Park and the captivating Museal area, along with the scenic banks of Berat City."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/41891542.jpg?k=b09d030256b691d98b21a36f7462df785d78ef3930669ce8b8e3372aedd471c6&o=&hp=1"\nlanguage: en\nslug: white-city-hotel\naddress: "Bulevardi Republika, 5000 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.70406634\n  lng: 19.95315671\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 441\nratings:\n  overall: 9.2\n  location: 9.8\n  cleanliness: 9.3\n  facilities: 8.9\n  value: 9.4\n  comfort: 9.2\n  staff: 9.2\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/41891542.jpg?k=b09d030256b691d98b21a36f7462df785d78ef3930669ce8b8e3372aedd471c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/14966980.jpg?k=33d1d6f93f0cc9bb4f6e53954b8d9723a40581efe74fd3231db66afd184423f1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/63144970.jpg?k=b7803618ae2cc6fa43a6b34df5de35f802772cb00921ff6f2a698d887e26e9b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/63122484.jpg?k=2e02e0911eabfc74854407f3af063bda230cc0e87e7534623d487619ed4481a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/14942643.jpg?k=9fc96c79bb53404fb9d426510a6d5ce0876db117c25fdc2b3375f5c5e8d2e8fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/44853740.jpg?k=37cd9b89d3b34afe5c225e34fb6108b2618a7fbea7d379be05c9e758dc090214&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Fabulous breakfast"\nroomTypes:\n  - "Single Room"\n  - "Double Room"\n  - "Comfort Single Room with Balcony"\n  - "Double Room with Balcony"\n  - "Classic Twin Room"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Cassandra"\n    country: "United Kingdom"\n    text: "“Fabulous location right on the promenade in the centre of town. My room for 2 nights was on the top (4th)floor next to the dining room which has a gorgeous view of the river and the town on the hill sides. It is 2 minutes walk to the local bus...”"\n  - name: "Argita"\n    country: "Albania"\n    text: "“Excellent hotel. Very clean, comfy, modern. Delicious breakfast. Located in the heart of the city. Totally recommend it”"\n  - name: "Mark"\n    country: "United Kingdom"\n    text: "“Friendly staff who try to help,it's low season and there are not many tourists in berat midweek,there was only 2 of us in the hotel.
+There is building work going on outside as the main square is being relaid but it doesn't effect the beauty of the...”"\nbookingURL: "https://www.booking.com/hotel/al/white-city.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach room at White City Hotel is a testament to modern elegance, boasting air conditioning, vibrant furnishings, and equipped with satellite TV, a minibar, and a telephone for your convenience. The en-suite bathrooms are well-appointed with a shower, bidet, and complimentary toiletries, ensuring a comfortable stay.
 
 The hotel prides itself on exceptional guest services, with a 24-hour front desk ready to cater to your needs, room service to enhance your stay, and even a vending machine for quick refreshments. For those looking to explore the city in a unique way, the hotel offers complimentary bike rentals.
 
 Situated just a stone's throw from the bustling city center, guests have easy access to a variety of bars, cafes, and restaurants. The historic Old Town and the majestic Castle are just a minute's walk away, promising an adventure right at your doorstep.
 
 For those looking to explore beyond, the hotel's front desk is eager to assist in organizing day trips and excursions, whether it's a coastal getaway or an exhilarating rafting experience on the nearby river. Conveniently, the Bus Station is a mere minute away on foot, and for international travelers, Tirana's airport is 80 km from the hotel, making White City Hotel an ideal choice for both convenience and exploration.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

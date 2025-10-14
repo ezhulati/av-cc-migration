@@ -1,28 +1,5 @@
----
-title: Sunset Sea View Luxury Apartment
-description: Positioned just a stone's throw away, 200 meters to be precise, from the serene Qerret Beach, this property ensures a smoke-free environment, catering to the co
-featuredImage: "/images/accommodation/400219784.jpg"
-language: en
-slug: sunset-sea-view-luxury-apartment
-location: ""
-amenities: []
-images: []
----
-
-Positioned just a stone's throw away, 200 meters to be precise, from the serene Qerret Beach, this property ensures a smoke-free environment, catering to the comfort and well-being of all guests. The apartment itself is a study in elegance and comfort, featuring a bedroom that promises restful nights, a fully equipped kitchen for culinary adventures, and a bathroom that combines functionality with style. Entertainment is readily available with the inclusion of a flat-screen TV, ensuring that guests have access to leisure at their fingertips.
+---\ntitle: "Sunset Sea View Luxury Apartment"\ndescription: "Sunset Sea View Luxury Apartment emerges as a premier choice for travelers seeking exceptional accommodation in Golem."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400219784.jpg?k=80d4aaeaaf67bd374b89230e48bcf8d1ec2220033ef52444dfd95a4870fc3c0e&o=&hp=1"\nlanguage: en\nslug: sunset-sea-view-luxury-apartment\naddress: "6G95+Q4F, Rruga e Fshatrave Turistike, Golem, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.21920405\n  lng: 19.5078377\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400219784.jpg?k=80d4aaeaaf67bd374b89230e48bcf8d1ec2220033ef52444dfd95a4870fc3c0e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/400219823.jpg?k=f446cef7a489bed1b4db6caba5e68e397e4cea53156c34e0fddd9402d8ab4350&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/400219827.jpg?k=e044131ef9a466203fd858ac829abce978d09b0c8a088a1b3a49f3ef2b5c841c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/400219829.jpg?k=ab63358ab756ffe7865fd4f0cd4449e4ad37058d333ac9abfcd58963e2289257&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/400219831.jpg?k=c651de7c41cf071aa8738ca6a2f2cf695c202b12dc9ea170c4dce283b9296e54&o=&hp=1"\namenities:\n  - "Private parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Panorama by Supreme Hotel & Spa 100 m"\n  - "Piceri Cegrani 200 m"\nnearbyBeaches:\n  - "Qerret Beach 150 m"\n  - "Mali I Robit Beach 1.3 km"\n  - "Golem Beach 3.3 km"\n  - "Shkëmbi i Kavajës Beach 5 km"\n  - "Durres Beach 7 km"\nwhatsNearby:\n  - "Durres Amphiteatre 12 km"\n  - "1. Maj 12 km"\n  - "Wine Dhe Pooh 12 km"\n  - "Yje Dhe Hena 12 km"\n  - "Sheshi Demokracia 12 km"\n  - "Bekimi 12 km"\n  - "Sotir Noka 12 km"\n  - "Divjake-Karavasta National Park 18 km"\nairports:\n  - "Tirana International Airport Mother Teresa 27 km"\nbookingURL: "https://www.booking.com/hotel/al/sunset-sea-view-luxury-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nPositioned just a stone's throw away, 200 meters to be precise, from the serene Qerret Beach, this property ensures a smoke-free environment, catering to the comfort and well-being of all guests. The apartment itself is a study in elegance and comfort, featuring a bedroom that promises restful nights, a fully equipped kitchen for culinary adventures, and a bathroom that combines functionality with style. Entertainment is readily available with the inclusion of a flat-screen TV, ensuring that guests have access to leisure at their fingertips.
 
 For those inclined to explore the surroundings, Mali I Robit Beach awaits at a mere 1.8 km distance, offering another splendid option for beach enthusiasts. Meanwhile, the historic Skanderbeg Square is located 49 km away, presenting an opportunity for a memorable day trip. Conveniently, Tirana International Mother Teresa Airport is situated 44 km from the apartment, making arrivals and departures as smooth as possible.
 
 Sunset Sea View Luxury Apartment stands out as an impeccable choice for those in pursuit of relaxation, convenience, and a touch of luxury during their visit to Golem.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

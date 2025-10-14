@@ -1,28 +1,5 @@
----
-title: Guest House Ilir
-description: Each room at Guest House Ilir is thoughtfully equipped with modern amenities such as air conditioning, a refrigerator, essential kitchenware, and a kettle, ensu
-featuredImage: "/images/accommodation/441150901.jpg"
-language: en
-slug: guest-house-ilir
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Guest House Ilir"\ndescription: "Guest House Ilir, located in the picturesque city of Berat, presents a serene garden and an inviting terrace for guests seeking tranquility and comfort."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/441150901.jpg?k=d666896a069cd98aea7faa5bf4fe067358b155c32510cc5f92d9ad64f653ca87&o=&hp=1"\nlanguage: en\nslug: guest-house-ilir\naddress: "Velabisht, Berat, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.70366444\n  lng: 19.92663548\nprice: "US$24"\npriceFrom: 24\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 40\nratings:\n  overall: 9.8\n  location: 9.2\n  cleanliness: 9.9\n  facilities: 9.5\n  value: 10\n  comfort: 9.8\n  staff: 10\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/441150901.jpg?k=d666896a069cd98aea7faa5bf4fe067358b155c32510cc5f92d9ad64f653ca87&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467827301.jpg?k=c2483a3e42b06daf2162a05664667311555190d2145eeedb12a5ab32ae3bf17a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/441152133.jpg?k=89acbe44531afe16f63152377d76c197c9c40f09708af438de283b87b4d8a9c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/441152103.jpg?k=caacb5728f59ededd428020d05c0582f0e2d26fb43478662c1d9c3ca55fb3a0f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467827306.jpg?k=41e5f41fc92743d5cf3d88a0458f4571b76051fe611b0cfc0f555172ec7fb8ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/441151050.jpg?k=dd27db96e247533f32ec3f3f0becb7370a560ea455cae185679d4c107653112d&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "Twin Room"\n  - "Family Studio"\nreviews:\n  - name: "Louise"\n    country: "Australia"\n    text: "“Quiet and scenic location. We booked the top level two bedroom apartment which is accessed up three flights of external stairs. The accommodation was very comfortable, clean and tidy. The kitchen was well equipped. Good sized living area with...”"\n  - name: "Dominique"\n    country: "Netherlands"\n    text: "“The whole family is very welcoming, and the view is very nice.”"\n  - name: "Anne"\n    country: "Australia"\n    text: "“The family are so beautiful and so welcoming. I came I. Late and I received hugs and a beautiful welcome. I absolutely loved it here and their genuine kindness. HIGHLY RECOMMEND. Breakfast was amazing too.”"\nbookingURL: "https://www.booking.com/hotel/al/guest-house-ilir-berat.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach room at Guest House Ilir is thoughtfully equipped with modern amenities such as air conditioning, a refrigerator, essential kitchenware, and a kettle, ensuring a stay that combines the warmth of home with the ease of hotel living. The presence of a bidet, hair dryer, and a capacious wardrobe further enhances the guest experience. Private bathrooms equipped with showers and complimentary toiletries, alongside the provision of free WiFi throughout the property, underscore the guest house's commitment to comfort and connectivity.
 
-Each room at Guest House Ilir is thoughtfully equipped with modern amenities such as air conditioning, a refrigerator, essential kitchenware, and a kettle, ensuring a stay that combines the warmth of home with the ease of hotel living. The presence of a bidet, hair dryer, and a capacious wardrobe further enhances the guest experience. Private bathrooms equipped with showers and complimentary toiletries, alongside the provision of free WiFi throughout the property, underscore the guest house's commitment to comfort and connectivity.
-
-Accommodations are meticulously prepared with fresh bed linen and towels, reflecting the establishment's attention to detail and dedication to guest satisfaction.
+Accommodations are meticulously prepared with fresh bed linen and towels, reflecting the establishment's attention to detail and dedication to guest satisfaction. 
 
 For travelers looking to explore beyond the city's bounds, the property is conveniently located 118 km from Tirana International Mother Teresa Airport, making Guest House Ilir an ideal base for both local exploration and broader adventures in the region.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

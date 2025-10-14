@@ -1,30 +1,7 @@
----
-title: Villa DOLCE VITA Lalzi Bay - Beach House
-description: "Perched directly on the beach, guests are treated to a lush garden and a welcoming terrace, setting the stage for a relaxing retreat."
-featuredImage: "/images/accommodation/356917791.jpg"
-language: en
-slug: villa-dolce-vita-lalzi-bay-beach-house
-location: ""
-amenities: []
-images: []
----
-
-Perched directly on the beach, guests are treated to a lush garden and a welcoming terrace, setting the stage for a relaxing retreat. The villa proudly upholds a non-smoking policy, ensuring a clean and fresh environment for all guests. Its proximity to the Dajti Ekspres Cable Car, 47 km away, adds an element of adventure for those looking to explore the natural beauty of the area.
+---\ntitle: "Villa DOLCE VITA Lalzi Bay - Beach House"\ndescription: "Villa DOLCE VITA Lalzi Bay - Beach House emerges as a premier destination for travelers seeking a serene beachfront escape in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356917791.jpg?k=725a483cdb0073b4c33c52f1a10b5433fa0fff28b201c97d87831ecc9406bfb3&o=&hp=1"\nlanguage: en\nslug: villa-dolce-vita-lalzi-bay-beach-house\naddress: "Rruga Gjiri i Lalzit, 2015 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.50459395\n  lng: 19.51903299\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 1\nratings:\n  overall: 7.5\n  location: 10\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 5\n  comfort: 7.5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356917791.jpg?k=725a483cdb0073b4c33c52f1a10b5433fa0fff28b201c97d87831ecc9406bfb3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356995329.jpg?k=df2bf9aa0abd724582d0d95ebe4e2e0c2fde6bed7362764c79cbe3a4c76eb07e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356995330.jpg?k=eed267ce9351627fedd722dfb06c39d2e62080219be4de5f500a04e514558cff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356995325.jpg?k=942158eda83a4f3cfe20fb5c1b8fbd3b868935f5b8aaea2345c116304997b0f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356996351.jpg?k=916305045e9e28c6a567b407cb10335a6268db04965256b8c9a61ba17890e50a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356995328.jpg?k=dd150cd9e8916e02148917fc4f707c36ea55b628244b14e0f05b973fe5e0e38e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356995326.jpg?k=c6e6a2d3db1758c62daa65eeaedf5ca297fc2b70b9719706675ceed806070a1b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356995338.jpg?k=f44d3dcc60aef79addfc7baed19c463e58a38f6d0315b5e76afc946888dd1af4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356995341.jpg?k=3093aa99a642f933ed8ed4db70acf5e72eb9d5de1a2a720486afb548727bd7ba&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Fitness centre"\n  - "Free parking"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Triumf 2 350 m"\n  - "Bar Restorant Oasis 400 m"\nnearbyBeaches:\n  - "Lalëz Bay Beach 400 m"\n  - "Rodoni Beach 10 km"\nwhatsNearby:\n  - "Bekimi 20 km"\nairports:\n  - "Tirana International Airport Mother Teresa 18 km"\n  - "Podgorica Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/villa-dolce-vita-lalzi-bay-beach-house.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nPerched directly on the beach, guests are treated to a lush garden and a welcoming terrace, setting the stage for a relaxing retreat. The villa proudly upholds a non-smoking policy, ensuring a clean and fresh environment for all guests. Its proximity to the Dajti Ekspres Cable Car, 47 km away, adds an element of adventure for those looking to explore the natural beauty of the area.
 
 The interior of the villa does not disappoint, with two elegantly appointed bedrooms leading out to a balcony that offers serene garden views. The air-conditioned space is complemented by a fully equipped kitchen, allowing guests the freedom to prepare their own meals in the comfort of their accommodation. Towels and bed linen, provided for convenience, ensure a comfortable stay.
 
 For those interested in exploring the local culture and history, the Rock of Kavaje and the Former Residence of Enver Hoxha are within easy reach, located 41 km and 43 km away, respectively. Additionally, the Tirana International Mother Teresa Airport is just 28 km from the villa, making arrivals and departures a breeze.
 
 Villa DOLCE VITA Lalzi Bay - Beach House stands out as a top choice for those seeking a blend of beachfront bliss and easy access to local attractions.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

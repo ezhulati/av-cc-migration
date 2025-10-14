@@ -1,26 +1,3 @@
----
-title: Apartament Serxhio
-description: The apartment itself is a testament to modern living, featuring a single bedroom, a bathroom, and a fully equipped kitchen that caters to all culinary needs. En
-featuredImage: "/images/accommodation/496581052.jpg"
-language: en
-slug: apartament-serxhio
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to modern living, featuring a single bedroom, a bathroom, and a fully equipped kitchen that caters to all culinary needs. Entertainment is readily available through the inclusion of a flat-screen TV, ensuring guests have all the comforts of home. Emphasizing a clean and healthy environment, the accommodation proudly maintains a non-smoking policy throughout its premises.
+---\ntitle: "Apartament Serxhio"\ndescription: "Apartament Serxhio emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496581052.jpg?k=23d18d6183501b2a0f778c6ae6589d6889199ba683c7d1d66d10d6041fa6713b&o=&hp=1"\nlanguage: en\nslug: apartament-serxhio\naddress: "Rruga Shaban Demiraj, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44857377\n  lng: 19.49428773\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496581052.jpg?k=23d18d6183501b2a0f778c6ae6589d6889199ba683c7d1d66d10d6041fa6713b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/417742090.jpg?k=44459e7a3ab7a5268ff6eda5de8720ca22f36f43d7a68bb326239e4b868cd505&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/476779859.jpg?k=2d8555e29ba6bd9aa112605ea5dc327060e47ed9aa54edce645f48758e120aab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/410205204.jpg?k=6f36fbb9df81315f4ea3167d417cf3c6cfeb8c34c60285c0c9bc17d49775d7e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/415452146.jpg?k=bfaecf28753a0244d051d36bab5119ae918df470b02a75da6232a580fafa36d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/476781109.jpg?k=6abf53039b99b1ec5a6d30ad0f2817b7ca9f6cc6230496dbc51e448feee77526&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/466049452.jpg?k=59d61d182c68540256a3ffc59b1aa649e79f1e1fb33156025075af6a5c83d913&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/410205213.jpg?k=0b904310ac6bf334bdba2d15d4d51726a4cd17d27a3f46e2a9fa057faaddfdbd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/415452007.jpg?k=b53e78e03c83e8a53a92dba24b0a0964af33dd64e9a0807f2cf59efe1b4803fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/399174717.jpg?k=2982fa08a9d8dd42fd8c618a19f25787b0720691d648c9ecce8d7b868d3647dd&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Tradicional Zgara 40 m"\n  - "Aiden Zgara Korcare 150 m"\nnearbyBeaches:\n  - "Vlore Beach 100 m"\n  - "Vjetër Beach 1.2 km"\n  - "Ri Beach 1.4 km"\n  - "Beach at Government Villas 3.2 km"\n  - "Liro Beach 3.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.4 km"\n  - "Kuzum Baba 2.1 km"\n  - "Independence Square 2.5 km"\npaymentMethods:\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/apartament-serxhio.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to modern living, featuring a single bedroom, a bathroom, and a fully equipped kitchen that caters to all culinary needs. Entertainment is readily available through the inclusion of a flat-screen TV, ensuring guests have all the comforts of home. Emphasizing a clean and healthy environment, the accommodation proudly maintains a non-smoking policy throughout its premises.
 
 Connectivity is never an issue, as free WiFi envelops the property, allowing guests to stay connected with the world or plan their next adventure in Vlorë. For those venturing from afar, the Tirana International Mother Teresa Airport is the nearest gateway, located 151 km from the apartment, making Apartament Serxhio an accessible retreat for international and domestic travelers alike.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

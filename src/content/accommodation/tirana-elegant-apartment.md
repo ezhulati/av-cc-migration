@@ -1,32 +1,5 @@
----
-title: Tirana Elegant Apartment
-description: This recently updated apartment boasts a tranquil atmosphere with its quiet street views, ensuring a restful stay away from the hustle and bustle. Despite its p
-featuredImage: "/images/accommodation/527536053.jpg"
-language: en
-slug: tirana-elegant-apartment
-location: ""
-amenities: []
-images: []
----
-
-This recently updated apartment boasts a tranquil atmosphere with its quiet street views, ensuring a restful stay away from the hustle and bustle. Despite its peaceful location, the apartment is merely a short distance from some of Tirana's most notable attractions, including the Rock of Kavaje and the historic Former Residence of Enver Hoxha, adding a touch of historical intrigue to your visit.
+---\ntitle: "Tirana Elegant Apartment"\ndescription: "Tirana Elegant Apartment emerges as a serene haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527536053.jpg?k=2f64bcc0cb0cb38e9eec9ac5ad14088ca84bd88f9e5ce7176afd77b9323a3a66&o=&hp=1"\nlanguage: en\nslug: tirana-elegant-apartment\naddress: "12 Rruga Shyqyri Ishmi, 1010 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3269431\n  lng: 19.8279051\nprice: "US$39"\npriceFrom: 39\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527536053.jpg?k=2f64bcc0cb0cb38e9eec9ac5ad14088ca84bd88f9e5ce7176afd77b9323a3a66&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527535999.jpg?k=8f4c276b062469c4da33f827a1a9cd7130b8d7e0fdf5fdd991a1f9a9df9cef55&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527535981.jpg?k=e2ef417b3f2e20db0541e749633edde7b60e921c544be0eddc185576d0fe4e35&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527536038.jpg?k=b2804c376085ca4c83057f88f3c3d0119f25ff016b9ee493439de8ec2f16ef16&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527536032.jpg?k=c9899e0eb8488fff68ab031191af1be1677fbd6ec107f9d49c654ee97a55aa3a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527706515.jpg?k=05fd36377928c298f414bbd2d22fbcdf019533218ab3f0002542fe5f06ee88b5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527535928.jpg?k=1c3dc6a09ba818ec33839b6e140435fafa91c61706b832c7596c4c97c17a8a3b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527535995.jpg?k=df266e204732e609bb3e97133c2840d7552b96384ba5272cbbc8f8068f698df8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527536066.jpg?k=0dbbb6572dda2202b959e8b5f5a41e00a0f429e2640b64aa3c09898134da8084&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Rinia Park 850 m"\n  - "National Museum of History Albania 900 m"\n  - "House of Leaves 950 m"\n  - "Former Residence of Enver Hoxha 1.1 km"\n  - "Grand Park of Tirana 1.7 km"\n  - "Bunk'Art 1 Museum 3.7 km"\nnearbyRestaurants:\n  - "Erlin bar 100 m"\n  - "Bar Caffe Mezeri 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ tek ish ATSh 150 m"\n  - "Tanners' Bridge 150 m"\n  - "Sheshi Sulejman Pasha 550 m"\n  - "Sheshi Rekreativ Piramida 600 m"\n  - "National Gallery of Arts Tirana 600 m"\n  - "Clock Tower Tirana 700 m"\n  - "Shesh Rekreativ 700 m"\n  - "Skanderbeg Square 750 m"\n  - "Parku Europa 750 m"\n  - "Parku Rinia 750 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/tirana-elegant-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis recently updated apartment boasts a tranquil atmosphere with its quiet street views, ensuring a restful stay away from the hustle and bustle. Despite its peaceful location, the apartment is merely a short distance from some of Tirana's most notable attractions, including the Rock of Kavaje and the historic Former Residence of Enver Hoxha, adding a touch of historical intrigue to your visit.
 
 The apartment itself is a testament to modern living, equipped with a flat-screen TV, free WiFi, and air conditioning for utmost comfort. The fully equipped kitchen, complete with an oven, fridge, washing machine, stovetop, and kitchenware, invites guests to prepare their meals just the way they like. Complimentary towels and bed linen add an extra layer of convenience to the experience.
 
 For those eager to explore the local scene, the Tirana Elegant Apartment is ideally situated near the Toptani Shopping Centre, National Gallery of Arts Tirana, and the Pyramid of Tirana, making it easy for guests to immerse themselves in the city's vibrant life. With the Tirana International Mother Teresa Airport just 17 km away, this apartment serves as the perfect base for both short-term visits and longer stays, offering a blend of tranquility, comfort, and accessibility that is hard to match.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

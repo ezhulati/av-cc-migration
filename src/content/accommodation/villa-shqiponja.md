@@ -1,26 +1,3 @@
----
-title: Villa Shqiponja
-description: Each apartment at Villa Shqiponja is thoughtfully designed to cater to the needs of families and groups, featuring private bathrooms as standard. Select units e
-featuredImage: "/images/accommodation/456628629.jpg"
-language: en
-slug: villa-shqiponja
-location: ""
-amenities: []
-images: []
----
-
-Each apartment at Villa Shqiponja is thoughtfully designed to cater to the needs of families and groups, featuring private bathrooms as standard. Select units elevate the experience further with fully equipped kitchens, allowing guests the freedom to prepare their own meals in the comfort of their accommodation.
+---\ntitle: "Villa Shqiponja"\ndescription: "Villa Shqiponja emerges as a standout choice for travelers seeking a serene retreat in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456628629.jpg?k=10ec1a458e04e0b9cbd06579e71fd28d816fed3afc41783933e3f8fdbf989a17&o=&hp=1"\nlanguage: en\nslug: villa-shqiponja\naddress: "Rruga Pandeli Bocari, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "villa"\ncoordinates:\n  lat: 39.87800574\n  lng: 20.00625359\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456628629.jpg?k=10ec1a458e04e0b9cbd06579e71fd28d816fed3afc41783933e3f8fdbf989a17&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456629765.jpg?k=36b9236cb15b02651aa22e70b167bc5e1274a23abb1906870f928a2a328c11a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456627988.jpg?k=b416f84fd6e922aabcc1d95ee0ac69319ddebd5751660ead7541366cf8ba6f26&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456629801.jpg?k=ec90004dca09c0ee068e26321705dfc4d837b919e1f7455a409e6c9e92829766&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456629956.jpg?k=69cff6b0ce4775422d4548cad70695f0d444293f3033992f17fc65d49412d213&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456627966.jpg?k=36666561a991891870678d8ff3b854c5989e752db1dfd2b9c4b27c6ba17f85e3&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Family Room"\nnearbyRestaurants:\n  - "Maliq coffee shop 100 m"\n  - "Taverna Lamce 250 m"\nnearbyBeaches:\n  - "Saranda City Beach 550 m"\n  - "Sarande Main Beach 1 km"\n  - "La Petite Beach 1.3 km"\n  - "Maestral Beach 1.4 km"\n  - "Saranda Bay Beach 2.1 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.6 km"\n  - "Butrint National Park 3.5 km"\n  - "Plazhi I Krorezes 9 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 31 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Francesca"\n    country: "Italy"\n    text: "“Molto pulito e a due passi dal mare. La casa è spaziosa, accogliente e ben illuminata. L'host Shqiponja è molto disponibile e gentile. Se volete passare una bella vacanza a Sarandë questo è il posto giusto. Ci tornerò sicuramente!”"\nbookingURL: "https://www.booking.com/hotel/al/alushi-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nEach apartment at Villa Shqiponja is thoughtfully designed to cater to the needs of families and groups, featuring private bathrooms as standard. Select units elevate the experience further with fully equipped kitchens, allowing guests the freedom to prepare their own meals in the comfort of their accommodation.
 
 For those arriving by air, Ioannina Airport is the nearest gateway, located 97 km from the property, making Villa Shqiponja an accessible destination for international and domestic travelers alike. With its strategic location, comprehensive amenities, and commitment to guest comfort, Villa Shqiponja stands out as a preferred choice for those exploring the enchanting city of Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

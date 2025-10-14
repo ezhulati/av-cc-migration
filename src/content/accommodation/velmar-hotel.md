@@ -1,30 +1,9 @@
----
-title: Velmar Hotel
-description: Accommodations at Velmar Hotel are thoughtfully appointed to enhance guest comfort. Each room, accessible via a terrace that offers tranquil garden vistas, is a
-featuredImage: "/images/accommodation/300007156.jpg"
-language: en
-slug: velmar-hotel
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Velmar Hotel are thoughtfully appointed to enhance guest comfort. Each room, accessible via a terrace that offers tranquil garden vistas, is a haven of relaxation equipped with complimentary WiFi to keep guests connected. The attention to detail is evident in the provision of modern conveniences such as a flat-screen TV, air conditioning, and a fridge. For those requiring more space, select rooms boast a seating area, providing a perfect blend of functionality and comfort.
+---\ntitle: "Velmar Hotel"\ndescription: "Velmar Hotel emerges as a charming retreat in Golem, just a stone's throw away from the serene Mali I Robit Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300007156.jpg?k=59dd3d536e4cbe68f9415a637b2d668193814c87272f46c49e5eea4493d824ca&o=&hp=1"\nlanguage: en\nslug: velmar-hotel\naddress: "Rruga Cameria Golem, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.24659773\n  lng: 19.52016234\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 68\nratings:\n  overall: 9.2\n  location: 9.7\n  cleanliness: 9.1\n  facilities: 8.4\n  value: 9.3\n  comfort: 8.7\n  staff: 9.9\n  wifi: 9.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300007156.jpg?k=59dd3d536e4cbe68f9415a637b2d668193814c87272f46c49e5eea4493d824ca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454430961.jpg?k=7784fab500c15ed24b43e8d37ac61421c64476c0b4c552053a625031f02f3441&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454428906.jpg?k=7adeea0b6e24ae53c9a306bf5f97912c5e743601876b65aceda45c3b2967c813&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/315069878.jpg?k=d96abe6fe8c7bf64c3ef554ae38635356b916f946d23ca0402c12e2c322cfa54&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454423923.jpg?k=8c8562876dc6b3095554cc9099e1e750fae4cec2255332451462b8f94dc3b54c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374674406.jpg?k=76efd32fc5a00da6a973d9f5719738f0e26a934853d5608d426dde046b4e8c59&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Facilities for disabled guests"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Breakfast"\nroomTypes:\n  - "Apartment with Mountain View"\n  - "Apartment - Ground Floor"\n  - "Penthouse Apartment"\nnearbyRestaurants:\n  - "Alto Mare 200 m"\n  - "Brutal by Flower 250 m"\nnearbyBeaches:\n  - "Mali I Robit Beach 50 m"\n  - "Golem Beach 150 m"\n  - "Qerret Beach 1.9 km"\n  - "Shkëmbi i Kavajës Beach 2.1 km"\n  - "Durres Beach 4.5 km"\nwhatsNearby:\n  - "Durres Amphiteatre 10 km"\n  - "1. Maj 10 km"\n  - "Bekimi 10 km"\n  - "Wine Dhe Pooh 10 km"\n  - "Yje Dhe Hena 10 km"\n  - "Sheshi Demokracia 10 km"\n  - "Sotir Noka 10 km"\nairports:\n  - "Tirana International Airport Mother Teresa 24 km"\nreviews:\n  - name: "Andrey"\n    country: "Russia"\n    text: "“Cozy clean apartment with a terrace.
+Very convenient to have parking.
+Good restaurant nearby”"\n  - name: "Lirat"\n    country: "Belgium"\n    text: "“Friendly staff and warm welcomed. Always there to help you out. Recommend 100%!”"\n  - name: "Majcho"\n    country: "North Macedonia"\n    text: "“The location was great, the first row on the beach, 2min to the beach, with sunbeds and umbrellas provided by the hotel for free. The breakfast was nice, a regular continental breakfast, there are nearby restaurants with affordable prices for...”"\nbookingURL: "https://www.booking.com/hotel/al/golemi-1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Velmar Hotel are thoughtfully appointed to enhance guest comfort. Each room, accessible via a terrace that offers tranquil garden vistas, is a haven of relaxation equipped with complimentary WiFi to keep guests connected. The attention to detail is evident in the provision of modern conveniences such as a flat-screen TV, air conditioning, and a fridge. For those requiring more space, select rooms boast a seating area, providing a perfect blend of functionality and comfort.
 
 Guests at Velmar Hotel start their day on the right note with a diverse breakfast selection. Whether the preference is for a hearty buffet, a classic continental, or an authentic Italian breakfast, the hotel caters to various palates and preferences.
 
 The hotel's prime location places guests within easy reach of Golem Beach, merely 300 meters away, and Qerret Beach, a short 2.5 km journey. For those arriving by air, the Tirana International Mother Teresa Airport is conveniently located 40 km from the hotel, making Velmar Hotel an accessible choice for both domestic and international travelers.
 
 Velmar Hotel stands out as a prime choice for guests seeking a blend of comfort, convenience, and a touch of local charm during their stay in Golem.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

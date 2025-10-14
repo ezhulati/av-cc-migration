@@ -1,26 +1,3 @@
----
-title: Apartments Fabio
-description: Each apartment is a haven of comfort, featuring a balcony that invites guests to enjoy the city's ambiance. The modern amenities include air conditioning, a fla
-featuredImage: "/images/accommodation/528133080.jpg"
-language: en
-slug: apartments-fabio
-location: ""
-amenities: []
-images: []
----
-
-Each apartment is a haven of comfort, featuring a balcony that invites guests to enjoy the city's ambiance. The modern amenities include air conditioning, a flat-screen TV, and a private bathroom equipped with a bidet and hair dryer, ensuring a stay that combines relaxation with the comforts of home. Select units also boast a well-appointed kitchen, complete with kitchenware, perfect for those who prefer to prepare their own meals. To further enhance the guest experience, Apartments Fabio provides bed linen and towels in all units, adding a touch of convenience to the stay.
+---\ntitle: "Apartments Fabio"\ndescription: "Apartments Fabio emerges as a prime choice for travelers seeking comfort and convenience in Ksamil, boasting exceptional city views and the luxury of complimentary WiFi and private parking."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528133080.jpg?k=b68bcc4fe963b4c9df6bc7991d7f9952c5d68112edb427d1ac0231cf119a0d64&o=&hp=1"\nlanguage: en\nslug: apartments-fabio\naddress: "Rruga Hasan Tasini Ksamil, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.76754006\n  lng: 20.00149658\nprice: "US$129"\npriceFrom: 129\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528133080.jpg?k=b68bcc4fe963b4c9df6bc7991d7f9952c5d68112edb427d1ac0231cf119a0d64&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528133066.jpg?k=ab0722720329faad130087af8bcf95201ad911ea9f3edb066ff2381aa95a4376&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528133105.jpg?k=01be5affef9487ce7d0e7e389d492dc906c7f5c43fb360f3df635e720f3d0d30&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528133149.jpg?k=39a71b7e582b440763b1a2d5e24839066b5c13f7c0786688cc8a72bd57e1c945&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528133150.jpg?k=9bab6ca0e02f73e5bf4c4a9ac2a5c1142f78856833778c43430416ab98fb2b4a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528132989.jpg?k=6c37efca6bae1b0752c8d9636160fe40658701049304507e0244b830da439672&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Deluxe Triple Room"\nnearbyAttractions:\n  - "Museum of Banknotes 17 km"\n  - "New Fortress 17 km"\n  - "Serbian Museum 18 km"\n  - "Theotoki G. Square 18 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 18 km"\n  - "Trion Martiron Park 19 km"\n  - "Mon Repos Palace 19 km"\n  - "Kapodistrias Museum 20 km"\nnearbyRestaurants:\n  - "Meat Shop&Grill Rrapa 100 m"\n  - "Agave 100 m"\nnearbyBeaches:\n  - "Ksamil Beach 9 250 m"\n  - "Bora Bora Beach 450 m"\n  - "Paradise Beach 500 m"\n  - "Ksamil Beach 7 500 m"\n  - "Ksamil Beach 550 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 100 m"\n  - "Butrint National Park 2.7 km"\n  - "Plazhi I Krorezes 3.6 km"\n  - "Parc National de Butrint 10 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 17 km"\n  - "Old Fortress 17 km"\nairports:\n  - "Corfu International Airport 19 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/apartments-fabio.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach apartment is a haven of comfort, featuring a balcony that invites guests to enjoy the city's ambiance. The modern amenities include air conditioning, a flat-screen TV, and a private bathroom equipped with a bidet and hair dryer, ensuring a stay that combines relaxation with the comforts of home. Select units also boast a well-appointed kitchen, complete with kitchenware, perfect for those who prefer to prepare their own meals. To further enhance the guest experience, Apartments Fabio provides bed linen and towels in all units, adding a touch of convenience to the stay.
 
 Situated just 2.7 km from the enchanting Butrint National Park and with Corfu International Airport 92 km away, Apartments Fabio stands out as an ideal base for exploring the natural and historical wonders of the region.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

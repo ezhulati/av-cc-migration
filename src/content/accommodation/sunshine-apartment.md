@@ -1,30 +1,8 @@
----
-title: SunShine Apartment
-description: This apartment doesn't just offer a place to rest; it provides a spacious haven complete with a balcony that invites guests to unwind in the fresh air, two cozy
-featuredImage: "/images/accommodation/472968135.jpg"
-language: en
-slug: sunshine-apartment
-location: ""
-amenities: []
-images: []
----
-
-This apartment doesn't just offer a place to rest; it provides a spacious haven complete with a balcony that invites guests to unwind in the fresh air, two cozy bedrooms for a restful night's sleep, a welcoming living room for relaxation, and a well-equipped kitchen for those who love to cook. Entertainment is readily available with a flat-screen TV, ensuring guests have all the comforts of home. Emphasizing a healthy living environment, the accommodation proudly maintains a non-smoking policy.
+---\ntitle: "SunShine Apartment"\ndescription: "SunShine Apartment emerges as a prime choice for travelers seeking comfort and convenience in Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472968135.jpg?k=4927776caf5b008e5ad8406a8d6a4a14563dc195c90a573478f2e63437fd5787&o=&hp=1"\nlanguage: en\nslug: sunshine-apartment\naddress: "Rruga Ismail Qemali, 2701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87280817\n  lng: 20.00049966\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 17\nratings:\n  overall: 9.9\n  location: 10\n  cleanliness: 9.9\n  facilities: 9.9\n  value: 9.9\n  comfort: 10\n  staff: 9.9\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472968135.jpg?k=4927776caf5b008e5ad8406a8d6a4a14563dc195c90a573478f2e63437fd5787&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472809257.jpg?k=221b78d931839c13be1b3a131ec26ce1145638155127b1ca31c372301fc44b91&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472809261.jpg?k=5ef49917c3e693961ec861585fe8e58d917c94d43c690d43b0d2fa5a4e81933b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472809267.jpg?k=29ec27fba604fb4a3b0efeb9343294acf07c6c22228657f0168c2bcd4fa2dd63&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472809218.jpg?k=559c33026d88abe56c8c1fb102b59b7de65c52e5d07c3540c48626f50729f7e2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472809283.jpg?k=d43faa7688393828f6a131b85015f9bb28af32905d911cdf20eceb27f75d7701&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472809273.jpg?k=9bd2f72fcc8166c6411c6aad8fe6d7a903a832befdf050314d403b686c526b01&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472809298.jpg?k=66a8df70f436c0328b1f271b7eb04e120d9b2e3c7d4e2b4d9cd08c4c93fb7113&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472936563.jpg?k=d42229fe49ea873c0ba4bd56cefa7c1e728844f81c5cb1e8732ce8ec0db473dd&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Taverna Rrapo 9 m"\n  - "Pizza Cimi & Grill 100 m"\nnearbyBeaches:\n  - "Sarande Main Beach 400 m"\n  - "Saranda City Beach 750 m"\n  - "La Petite Beach 1.3 km"\n  - "Maestral Beach 1.4 km"\n  - "Saranda Bay Beach 1.7 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.6 km"\n  - "Butrint National Park 3.3 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Hysni"\n    country: "Albania"\n    text: "“Everything is perfect. Clean, comfy, quite, wonderful sea view. The host is super friendly. It was easy to find the location which is very close to the city center. 100% recommended.”"\n  - name: "Noëlle"\n    country: "Netherlands"\n    text: "“Very spacious, nice apartment. Location is perfect, you’re at the boulevard in a couple of minutes. The host is super friendly & helpful!”"\n  - name: "Christos"\n    country: "Greece"\n    text: "“So great, hard to leave
+Perfect location! Incredible view! Spotlessly clean.if you’re lucky you can find public parking in front of the apartment”"\nbookingURL: "https://www.booking.com/hotel/al/sunshine-apartment-sarande2.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis apartment doesn't just offer a place to rest; it provides a spacious haven complete with a balcony that invites guests to unwind in the fresh air, two cozy bedrooms for a restful night's sleep, a welcoming living room for relaxation, and a well-equipped kitchen for those who love to cook. Entertainment is readily available with a flat-screen TV, ensuring guests have all the comforts of home. Emphasizing a healthy living environment, the accommodation proudly maintains a non-smoking policy.
 
 For guests concerned about connectivity, SunShine Apartment ensures that staying in touch is effortless with free WiFi available throughout the premises. Additionally, the convenience of Sarande Main Beach being just 500 meters away means that the sea's calming presence is always within easy reach.
 
 Travelers will find the journey to SunShine Apartment facilitated by the proximity of Ioannina Airport, located 97 km away, making it a manageable gateway for international and domestic visitors alike.
 
 In essence, SunShine Apartment offers a blend of comfort, convenience, and connectivity, making it an ideal choice for those looking to explore the beauty of Sarandë and its surroundings.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

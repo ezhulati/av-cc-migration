@@ -1,26 +1,3 @@
----
-title: Lulu Suites - Sunset
-description: Each suite at Lulu Suites - Sunset is thoughtfully designed to cater to the needs of modern travelers, featuring a well-equipped kitchen complete with an oven a
-featuredImage: "/images/accommodation/470532373.jpg"
-language: en
-slug: lulu-suites-sunset
-location: ""
-amenities: []
-images: []
----
-
-Each suite at Lulu Suites - Sunset is thoughtfully designed to cater to the needs of modern travelers, featuring a well-equipped kitchen complete with an oven and toaster, a cozy seating area for relaxation, and a flat-screen TV for entertainment. The convenience of having a private bathroom fitted with a bidet, along with the provision of towels and bed linen, adds to the homely experience. Guests also have the luxury of enjoying meals in an outdoor dining area, perfect for those balmy evenings.
+---\ntitle: "Lulu Suites - Sunset"\ndescription: "Lulu Suites - Sunset emerges as a prime choice for travelers seeking a blend of comfort and convenience in Golem."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470532373.jpg?k=c145724882cc7ac4de52315e0c6a6767164dbae38e0303c6ced0a911a55f3463&o=&hp=1"\nlanguage: en\nslug: lulu-suites-sunset\naddress: "Rruga Iliria, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.26763867\n  lng: 19.52254796\nprice: "US$77"\npriceFrom: 77\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 2\nratings:\n  overall: 9.2\n  location: 8.8\n  cleanliness: 10\n  facilities: 8.8\n  value: 7.5\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470532373.jpg?k=c145724882cc7ac4de52315e0c6a6767164dbae38e0303c6ced0a911a55f3463&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470533327.jpg?k=0ed7d587ba8ec03003ef2275931bd6a29237a36b11f94b623060eef2b1cceea6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470532834.jpg?k=5b135550b4f10bf844c657ad404772b3837701b4e2cabf0c0c58f47d0c612bf1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470532632.jpg?k=5ead9e8c36c87c08582af9c8f6f200ba7fbdb28fa757a34a1273cc549416c618&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470533388.jpg?k=4b97f07e805b01c2a9aa2cd68bfa351d05910e101ef27536d948f25147f72089&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470532985.jpg?k=f573849e9f141ca15dd300fb13cad664705a055c421055baddc0fe8241681a83&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470532530.jpg?k=0c2b772f928db06197e953d7ef21f3311fb4c97a52ac5192292ed28051611711&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470533143.jpg?k=3b71888e5e95e6d91ad0c37a039c9e0848949587b6878026279ee2c97527deab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470532573.jpg?k=c187fab34a210f486ea3944d1f3c32711c180b9f65547e7eb3ba861108d0355d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Grill & Pizza Peja 250 m"\n  - "Sevian Pizza & Snack 400 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 350 m"\n  - "Golem Beach 400 m"\n  - "Mali I Robit Beach 2.2 km"\n  - "Durres Beach 2.3 km"\n  - "Qerret Beach 4.2 km"\nwhatsNearby:\n  - "Bekimi 8 km"\n  - "Durres Amphiteatre 8 km"\n  - "Wine Dhe Pooh 8 km"\n  - "1. Maj 8 km"\n  - "Yje Dhe Hena 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "Sotir Noka 9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/lulu-suites-sunset.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach suite at Lulu Suites - Sunset is thoughtfully designed to cater to the needs of modern travelers, featuring a well-equipped kitchen complete with an oven and toaster, a cozy seating area for relaxation, and a flat-screen TV for entertainment. The convenience of having a private bathroom fitted with a bidet, along with the provision of towels and bed linen, adds to the homely experience. Guests also have the luxury of enjoying meals in an outdoor dining area, perfect for those balmy evenings.
 
 Situated 2.8 km from the picturesque Mali I Robit Beach, the property offers easy access to local attractions, with Skanderbeg Square located 43 km away, and the Dajti Ekspres Cable Car, a must-visit for adventure seekers, 47 km from the suites. For guests traveling by air, the Tirana International Mother Teresa Airport is conveniently 37 km away, making Lulu Suites - Sunset an excellent base for exploring the beauty and charm of Golem and its surroundings.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

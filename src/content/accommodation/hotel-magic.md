@@ -1,28 +1,5 @@
----
-title: Hotel Magic
-description: What sets Hotel Magic apart is its comprehensive array of services designed to ensure a hassle-free stay. Guests can benefit from the convenience of dry cleanin
-featuredImage: "/images/accommodation/74115890.jpg"
-language: en
-slug: hotel-magic
-location: ""
-amenities: []
-images: []
----
-
-What sets Hotel Magic apart is its comprehensive array of services designed to ensure a hassle-free stay. Guests can benefit from the convenience of dry cleaning services, a helpful tour desk, and the luxury of complimentary WiFi accessible throughout the premises. Moreover, the hotel prides itself on its attentive room service, a 24-hour front desk ready to address any inquiries, and a currency exchange facility, making international travel worries a thing of the past.
+---\ntitle: "Hotel Magic"\ndescription: "Hotel Magic, located in the historic city of Gjirokastër and a mere 44 km from the serene Zaravina Lake, stands out as a prime choice for travelers seeking both comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/74115890.jpg?k=9046e4e771b528260a10133966cac83f5ed91c2f198f7d99df03d91a9826452d&o=&hp=1"\nlanguage: en\nslug: hotel-magic\naddress: "Rruga Xhorxh Sorros, 6004 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.08014633\n  lng: 20.13885407\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 106\nratings:\n  overall: 9.4\n  location: 8.8\n  cleanliness: 9.6\n  facilities: 9.2\n  value: 9.5\n  comfort: 9.4\n  staff: 9.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/74115890.jpg?k=9046e4e771b528260a10133966cac83f5ed91c2f198f7d99df03d91a9826452d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373059316.jpg?k=9032278a737db7bd76e16999ca2e9441318cb7c573280b3ae42d1af6045e576b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373056675.jpg?k=fbbfd17ca7bfba903ef3dfdeefea1ba11e702fa3b78e6ac381b21706992de824&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205565112.jpg?k=8a0a0d00992e1432549996998daa4edb8da332adb72a5d09879c3201d58cd27b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373059121.jpg?k=3709128577f589ef267dc65ad705d8861faf62343a08555d3549f5636ac79445&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373059306.jpg?k=cd091a60da95381704b939a0325f1bac29f695467eab2d8af9e07ff3b2802f8f&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Deluxe Double Room (1 adult + 1 child)"\n  - "Deluxe Double Room (2 Adults + 1 Child)"\n  - "Deluxe Triple Room"\n  - "Deluxe Family Room"\nnearbyRestaurants:\n  - "Cabeli 20 m"\n  - "Shehu Family Café 50 m"\nairports:\n  - "Corfu International Airport 56 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Gerardo"\n    country: "Spain"\n    text: "“The guy at the reception was super nice and helpful. Very passionate about his job. Room was perfect and location was also pretty good.”"\n  - name: "Michael"\n    country: "Netherlands"\n    text: "“Good, central location with parking with a very helpful hotel manager.”"\n  - name: "M_m123"\n    country: "Italy"\n    text: "“The host was incredibly nice and available to help us in any way! The location is perfect to reach the main attractions.”"\nbookingURL: "https://www.booking.com/hotel/al/magic.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nWhat sets Hotel Magic apart is its comprehensive array of services designed to ensure a hassle-free stay. Guests can benefit from the convenience of dry cleaning services, a helpful tour desk, and the luxury of complimentary WiFi accessible throughout the premises. Moreover, the hotel prides itself on its attentive room service, a 24-hour front desk ready to address any inquiries, and a currency exchange facility, making international travel worries a thing of the past.
 
 Accommodations at Hotel Magic are thoughtfully designed with guest comfort in mind. Each room is equipped with air conditioning, a cozy seating area, and a flat-screen TV with satellite channels for entertainment needs. The safety of valuables is guaranteed with an in-room safety deposit box. Private bathrooms come standard with a bidet, complimentary toiletries, and a hairdryer, ensuring a refreshing start to each day. Additionally, the provision of bed linen and towels in every room underscores the hotel's commitment to guest convenience.
 
 For those concerned about travel logistics, the nearest airport, Ioannina Airport, is located 83 km away, making Hotel Magic an accessible option for both domestic and international travelers. This hotel not only promises a comfortable stay but also serves as a gateway to the rich history and natural beauty of Gjirokastër and its surroundings.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

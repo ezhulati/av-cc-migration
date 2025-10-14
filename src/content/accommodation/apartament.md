@@ -1,34 +1,7 @@
----
-title: Apartament
-description: Apartament is a haven of tranquility, offering guests a cozy one-bedroom space equipped with air conditioning for those warm Mediterranean days. The inclusion o
-featuredImage: "/images/accommodation/527736364.jpg"
-language: en
-slug: apartament
-location: ""
-amenities: []
-images: []
----
-
-Apartament is a haven of tranquility, offering guests a cozy one-bedroom space equipped with air conditioning for those warm Mediterranean days. The inclusion of a fully equipped kitchen ensures that visitors have everything they need to feel at home, while the presence of a flat-screen TV caters to the entertainment needs of all guests. The added luxury of a private balcony invites guests to enjoy their morning coffee or evening wine with a view, making every moment spent here special.
+---\ntitle: "Apartament"\ndescription: "Discover the charm of Lezhë with a stay at Apartament, a prime choice for travelers seeking comfort and convenience mere steps from Shëngjin Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527736364.jpg?k=afd07f61ab3d273e2da087b7e1ec61c08e4d29f8ea6fdf9ba0cd487c3d7117a5&o=&hp=1"\nlanguage: en\nslug: apartament\naddress: "Rruga Shëngjin - Kune, Lezhë, Albania"\ncity: "Lezhë"\nlocation: "Lezhë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.81092192\n  lng: 19.5955465\nprice: "US$55"\npriceFrom: 55\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527736364.jpg?k=afd07f61ab3d273e2da087b7e1ec61c08e4d29f8ea6fdf9ba0cd487c3d7117a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/527736363.jpg?k=5d9f5079750a9dcca75c992f4d17be919cd0e161b8d9559efc40638695dd8ebb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/527736318.jpg?k=aee16a3a6e6ba5b2b2fac6df38c6bcc8170b109e4fa0635ba67ab2ccabe8c1d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/527736357.jpg?k=0669c088f1640eea47f8b34672fdc37b23a44f60b4a91dc55ce4a98afe1da7f6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/527736361.jpg?k=bd076b09c7f85960a92c5671b998d6f7b698b98b4519bcbb1bb9b65b3c078f8d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/527736366.jpg?k=ddd2da2a73573f94a50e9ce061fbc77385746fe1fdb9c4689a50e3da6c05034d&o=&hp=1"\namenities:\n  - "Free parking"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Restorant Detari 20 m"\n  - "Restorant Pizeri Mari 100 m"\nnearbyBeaches:\n  - "Shëngjin Beach 30 m"\n  - "Ylberi Beach 1.3 km"\n  - "Rana e Hedhun Beach 2.6 km"\n  - "Kune Beach 4.6 km"\n  - "Laguna Park Beach 4.7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 44 km"\n  - "Podgorica Airport 66 km"\n  - "Tivat Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/apartament-lezhe4.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nApartament is a haven of tranquility, offering guests a cozy one-bedroom space equipped with air conditioning for those warm Mediterranean days. The inclusion of a fully equipped kitchen ensures that visitors have everything they need to feel at home, while the presence of a flat-screen TV caters to the entertainment needs of all guests. The added luxury of a private balcony invites guests to enjoy their morning coffee or evening wine with a view, making every moment spent here special.
 
 For those arriving by car, the convenience of complimentary private parking removes any worries about the safety of their vehicle. Emphasizing a smoke-free environment, Apartament ensures a clean and healthy stay for all guests.
 
 Situated 42 km from the historic Rozafa Castle Shkodra and 44 km from the picturesque Lake Skadar, the apartment serves as an ideal base for explorers eager to delve into the rich culture and natural beauty of the region. Moreover, with Tirana International Mother Teresa Airport just 49 km away, accessibility is never an issue for international travelers.
 
 Apartament is more than just a place to stay; it's a gateway to experiencing the enchanting coast of Lezhë and the surrounding wonders, offering both the peace of a beachside escape and the adventure of exploring Albania's historical landmarks.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -5,11 +5,14 @@ region: Southern Albania
 featuredImage: /images/destinations/gjirokaster.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: gjirokaster
 highlights: []
+seo:
+  metaDescription: "Browse Gjirokastër category for diverse listings and services. Find what you're looking for in Gjirokastër today!"
 ---
 
 Why Visit
@@ -82,10 +85,3 @@ Fly into Greece’s Corfu Airport, then ferry to Sarandë and bus to Gjirokastë
 
 Stay in an Ottoman mansion converted into an intimate hotel, or opt for a contemporary hotel’s modern amenities. Visit between spring and fall when Gjirokastër’s weather is ideal for reveling in this stunning city.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

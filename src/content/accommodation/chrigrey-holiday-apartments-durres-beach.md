@@ -1,30 +1,7 @@
----
-title: Chrigrey Holiday Apartments & Durres Beach
-description: The apartment itself is a testament to thoughtful design, boasting a spacious layout complete with air conditioning, a well-equipped kitchen featuring an oven a
-featuredImage: "/images/accommodation/519280024.jpg"
-language: en
-slug: chrigrey-holiday-apartments-durres-beach
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to thoughtful design, boasting a spacious layout complete with air conditioning, a well-equipped kitchen featuring an oven and microwave, and a cozy seating area. Entertainment needs are well catered to with a flat-screen TV, while the inclusion of a modern bathroom, complete with a bidet, ensures a comfortable stay. The provision of towels and bed linen adds a touch of convenience, and the soundproofing and private entrance underscore the apartment's commitment to privacy and tranquility.
+---\ntitle: "Chrigrey Holiday Apartments & Durres Beach"\ndescription: "Chrigrey Holiday Apartments & Durres Beach emerges as a prime choice for travelers seeking a blend of comfort and convenience along the Albanian coast."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519280024.jpg?k=c4f3ff2016840a83dc5a8ed0014a21a079d389fde5b2d792cb3efccbfac2b45c&o=&hp=1"\nlanguage: en\nslug: chrigrey-holiday-apartments-durres-beach\naddress: "Rruga Leoni dhe Koja, 2000 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30413474\n  lng: 19.49413686\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519280024.jpg?k=c4f3ff2016840a83dc5a8ed0014a21a079d389fde5b2d792cb3efccbfac2b45c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527401264.jpg?k=6f9db5a4791340b9f14457daa50e92a88253b5344ee6f02201098b0bc08034ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527668552.jpg?k=3dc8053f7eafc81db0f7bae5e0a00e8b1d76d9a6ee3f0ff72d4abc51f0e0328c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527401371.jpg?k=f6527838d1d83fd437dc05fd10c2746b795cbdd8516b456f54c2f1df5a4a3fc9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519279869.jpg?k=39b801ca3b7f4a0ad0353ae42cfac92559ecd67b599806b6c4a99525b9662e88&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519279846.jpg?k=dbef72df5eda50409a2e38393e9ae2f410916724ced9ef2b508e8fdac6920242&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519279938.jpg?k=04e828be15b1f190104f8bb47ca69c36117e779ce3d70d9541f863e192d393f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519280108.jpg?k=c4d27079bb21a04d65dd1ad375b0ad2fdc5d3a9d4cfe537bfaeaa4c4a33acd79&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527668450.jpg?k=519671464b5719c8f146b47d00ce3970f9374315732794e4673f4207596d902a&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Private beach area"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Gostivari 30 m"\n  - "Bar Pasticeri Rigelsi 40 m"\nwhatsNearby:\n  - "Bekimi 3 km"\n  - "Wine Dhe Pooh 4 km"\n  - "Sheshi Demokracia 4.1 km"\n  - "Yje Dhe Hena 4.1 km"\n  - "Durres Amphiteatre 4.2 km"\n  - "1. Maj 4.4 km"\n  - "Sotir Noka 4.4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\nbookingURL: "https://www.booking.com/hotel/al/chrigrey-holiday-apartments-amp-durres-beach.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to thoughtful design, boasting a spacious layout complete with air conditioning, a well-equipped kitchen featuring an oven and microwave, and a cozy seating area. Entertainment needs are well catered to with a flat-screen TV, while the inclusion of a modern bathroom, complete with a bidet, ensures a comfortable stay. The provision of towels and bed linen adds a touch of convenience, and the soundproofing and private entrance underscore the apartment's commitment to privacy and tranquility.
 
 Set directly on the beachfront, Chrigrey Holiday Apartments & Durres Beach offers exclusive access to a private beach area, setting the stage for unforgettable seaside moments. The property proudly upholds a non-smoking policy, ensuring a clean and healthy environment for all guests.
 
 For those eager to immerse themselves in the local area, the apartment's location offers ample opportunity for engaging activities, including walking tours that reveal the hidden gems of Durrës. Notable nearby attractions include the Rock of Kavaje and the historical Former Residence of Enver Hoxha, both easily accessible and worth a visit.
 
 Conveniently, Tirana International Mother Teresa Airport is merely 33 km away, making Chrigrey Holiday Apartments & Durres Beach an accessible retreat for international and domestic travelers alike. This property stands out as a compelling choice for those looking to experience the beauty and history of Durrës in a comfortable, welcoming setting.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

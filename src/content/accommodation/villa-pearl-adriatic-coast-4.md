@@ -1,28 +1,5 @@
----
-title: Villa Pearl Adriatic Coast 4
-description: The air-conditioned accommodation boasts a spacious balcony, allowing guests to immerse themselves in the tranquil sea breeze. Designed with a non-smoking polic
-featuredImage: "/images/accommodation/486602924.jpg"
-language: en
-slug: villa-pearl-adriatic-coast-4
-location: ""
-amenities: []
-images: []
----
-
-The air-conditioned accommodation boasts a spacious balcony, allowing guests to immerse themselves in the tranquil sea breeze. Designed with a non-smoking policy, the apartment is a mere 1.7 km from the scenic Mali I Robit Beach, ensuring a peaceful and clean environment for all guests.
+---\ntitle: "Villa Pearl Adriatic Coast 4"\ndescription: "Villa Pearl Adriatic Coast 4 emerges as a prime choice for travelers seeking a serene getaway, just a stone's throw away from the pristine Qerret Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486602924.jpg?k=d6dbe34b7661a6440779e17f1bed703d409488636f00a44ae812ec6885e67b59&o=&hp=1"\nlanguage: en\nslug: villa-pearl-adriatic-coast-4\naddress: "Rruga e Fshatrave Turistike 3, Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.22068286\n  lng: 19.50858092\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486602924.jpg?k=d6dbe34b7661a6440779e17f1bed703d409488636f00a44ae812ec6885e67b59&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484093355.jpg?k=6a3a3e9b4fadf6f248d8fcb2284b166ca2ab5510e61010165ee42f8ac06f7a32&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484093361.jpg?k=93601ca898f716e3be814004a114a28ce4aa3c4cda7ca7611118702f1b848e60&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484097763.jpg?k=5ad9b644bda9c009189208415c6628896b8ebbc74c8909032c5cb5033ed60500&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484097740.jpg?k=2a136299a9582f25eae9b6212cfee741fbc6b846cc6d2c2c8600c92feb962c67&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484093401.jpg?k=617af7d37f5f2e20908e34f0b404674dcb1803e00820f47aa55c68ae2ac04db7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484093298.jpg?k=65d87300bdf6a972e38ead71e57923f42d5ca91a5f5c6e68e6cb077281f878da&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484105917.jpg?k=7bda31e92119ebe559050954adcd448f413b1caf961ebea346786b3a27a398a2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486602807.jpg?k=d0049fa8f2f10c1c585906bb33b26ef4a9c2fdf9deafc02aecadc8b74717827f&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "AROME DETI RESTAURANT 20 m"\n  - "Piceri Cegrani 400 m"\nnearbyBeaches:\n  - "Qerret Beach 100 m"\n  - "Mali I Robit Beach 1.1 km"\n  - "Golem Beach 3.1 km"\n  - "Shkëmbi i Kavajës Beach 5 km"\n  - "Durres Beach 7 km"\nwhatsNearby:\n  - "Durres Amphiteatre 12 km"\n  - "1. Maj 12 km"\n  - "Wine Dhe Pooh 12 km"\n  - "Yje Dhe Hena 12 km"\n  - "Sheshi Demokracia 12 km"\n  - "Bekimi 12 km"\n  - "Sotir Noka 12 km"\n  - "Divjake-Karavasta National Park 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 26 km"\nbookingURL: "https://www.booking.com/hotel/al/villa-pearl-of-adriatic-4-golem.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe air-conditioned accommodation boasts a spacious balcony, allowing guests to immerse themselves in the tranquil sea breeze. Designed with a non-smoking policy, the apartment is a mere 1.7 km from the scenic Mali I Robit Beach, ensuring a peaceful and clean environment for all guests.
 
 Inside, the apartment reveals a tastefully furnished bedroom, a fully equipped kitchen complete with an oven and toaster, and a cozy seating area perfect for unwinding. The presence of a flat-screen TV ensures entertainment is always at hand. The bathroom, equipped with a bath, along with the provision of towels and bed linen, adds a touch of convenience to the stay. The added feature of a private entrance enhances the sense of exclusivity and privacy for guests.
 
 For those looking to connect with nature, the property's garden offers a tranquil retreat. Despite its secluded feel, Villa Pearl Adriatic Coast 4 remains within reach of notable attractions. Skanderbeg Square is located 49 km away, offering a glimpse into the local culture, while the Rock of Kavaje, 8 km from the apartment, presents a unique natural landmark worth exploring. For international travelers, the Tirana International Mother Teresa Airport is conveniently situated 44 km away, making Villa Pearl Adriatic Coast 4 an accessible haven of relaxation and comfort.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

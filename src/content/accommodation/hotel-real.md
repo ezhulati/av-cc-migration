@@ -1,28 +1,5 @@
----
-title: Hotel Real
-description: The hotel's accommodations are thoughtfully designed, with select rooms boasting balconies that offer captivating views of the city's vibrant life. Whether it's
-featuredImage: "/images/accommodation/292983443.jpg"
-language: en
-slug: hotel-real
-location: ""
-amenities: []
-images: []
----
-
-The hotel's accommodations are thoughtfully designed, with select rooms boasting balconies that offer captivating views of the city's vibrant life. Whether it's the bustling streets or the serene sea that guests desire to gaze upon, Hotel Real caters to these wishes with its strategically located property.
+---\ntitle: "Hotel Real"\ndescription: "Hotel Real stands out as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë, Vlorë County."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292983443.jpg?k=2786fd32dee53e7eaca2024b056505eb5ddd50a9d0a250654022e59f4623e9dc&o=&hp=1"\nlanguage: en\nslug: hotel-real\naddress: "Rr: Skenderbeu, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.87414388\n  lng: 20.00756534\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 322\nratings:\n  overall: 8.9\n  location: 9.8\n  cleanliness: 9.2\n  facilities: 8.5\n  value: 9.1\n  comfort: 9\n  staff: 9.3\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292983443.jpg?k=2786fd32dee53e7eaca2024b056505eb5ddd50a9d0a250654022e59f4623e9dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292984304.jpg?k=ff4e00abb9de13b718fec11f690d70649575dddd54ffef3b7adf34e6258247a0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292983362.jpg?k=c72925162c8dc8d3a824bfdc7f242269ebf557d0e5c9cd453474b5c98373571c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292987525.jpg?k=e0946020c140d2402972f0609488053da98c321f176f905b2d31e8d15716ec25&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292983347.jpg?k=1e9b0714362216b20e2bd1906e9c6fbe0c8c7b757d41e34bdf556b409bf54846&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292987495.jpg?k=12805985606202f0bd3a85ae7eec42593e8cf671a94d3032b1b63d4ac6ed87d9&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Double Room with Balcony"\n  - "Double Room with Sea View"\n  - "Triple Room with Balcony"\n  - "Triple Room with Sea View"\n  - "Quadruple Room with Sea View"\nnearbyRestaurants:\n  - "Pizza Manhattan 4 m"\n  - "Lemon Tree 30 m"\nnearbyBeaches:\n  - "Saranda City Beach 150 m"\n  - "Sarande Main Beach 700 m"\n  - "La Petite Beach 850 m"\n  - "Maestral Beach 1 km"\n  - "VIP Beach 2 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.2 km"\n  - "Butrint National Park 3.1 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Andrejus"\n    country: "Ireland"\n    text: "“Great little hotel, very central location, next to main promende and 5 min walk from port. Get a seaview room - and you will be amazed how beautiful Sarande laguna looks day and night. Spotless rooms, good size bed and bathroom. Basic breakfast,...”"\n  - name: "David"\n    country: "United Kingdom"\n    text: "“I stayed here over 10 years ago and how the rooms, corridors/stairs have been transformed is really excellent. Everything seems very new. Steps away from seafront and main promenade, sea views, marbled walls to bathroom, good rainfall shower with...”"\n  - name: "Hannah"\n    country: "Sweden"\n    text: "“Awesome location. View of the ocean. Close to the central beach. Close to bus and ferry. Good value for money.”"\nbookingURL: "https://www.booking.com/hotel/al/real.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe hotel's accommodations are thoughtfully designed, with select rooms boasting balconies that offer captivating views of the city's vibrant life. Whether it's the bustling streets or the serene sea that guests desire to gaze upon, Hotel Real caters to these wishes with its strategically located property.
 
 For those looking to explore beyond the immediate beaches, La Petite Beach and Maestral Beach are conveniently located just over a kilometer away, offering more secluded spots for sunbathing and swimming. Furthermore, the hotel's proximity to Ioannina Airport, 96 km away, makes it an accessible getaway for both domestic and international travelers.
 
 Hotel Real, with its blend of essential amenities, strategic location, and attentive service, positions itself as a top contender for visitors to Sarandë, promising an experience that is both enjoyable and hassle-free.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

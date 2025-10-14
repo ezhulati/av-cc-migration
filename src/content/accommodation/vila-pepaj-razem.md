@@ -1,30 +1,9 @@
----
-title: Vila Pepaj Razem
-description: The accommodations at Vila Pepaj Razem are thoughtfully designed, with select units boasting balconies or patios that offer breathtaking views of the surroundin
-featuredImage: "/images/accommodation/495445985.jpg"
-language: en
-slug: vila-pepaj-razem
-location: ""
-amenities: []
-images: []
----
-
-The accommodations at Vila Pepaj Razem are thoughtfully designed, with select units boasting balconies or patios that offer breathtaking views of the surrounding mountains. This feature alone makes it a sought-after destination for those looking to immerse themselves in the tranquility of nature without sacrificing the comforts of home.
+---\ntitle: "Vila Pepaj Razem"\ndescription: "Vila Pepaj Razem stands as a serene retreat, located just 47 km from the iconic Clock Tower in Podgorica, offering guests a unique blend of comfort and natural beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445985.jpg?k=8c2cc9fe5c09fe8df10f0f508a75f30ec2eb0ecf8d426e4da63d5a3449f35dd2&o=&hp=1"\nlanguage: en\nslug: vila-pepaj-razem\naddress: "Rruga e Razmes Razem, 4301 Razëm, Albania"\ncity: "Razëm"\nlocation: "Razëm"\naccommodationType: "villa"\ncoordinates:\n  lat: 42.34313851\n  lng: 19.55014105\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 12\nratings:\n  overall: 9.1\n  location: 9.2\n  cleanliness: 9.2\n  facilities: 8.8\n  value: 9\n  comfort: 9\n  staff: 9.4\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445985.jpg?k=8c2cc9fe5c09fe8df10f0f508a75f30ec2eb0ecf8d426e4da63d5a3449f35dd2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500932114.jpg?k=41f41de40f18ce1a06181d9093538a39d2f49314e0ef9479dfcef1ba9fbf2780&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500932228.jpg?k=d6225e33dfcdf9775f1253ef89840361fd42db8501f8bf5be5f5e19546e45453&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445991.jpg?k=00aad9875fec6045e6be6b168c2b0a03cb5ec9921dab6b87f8986ed2d0de499d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495444946.jpg?k=7d94636d8a123edb3cfa50d40538af40e23ced9b550a29a3f05f4707a489a94f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495444949.jpg?k=e25f9a5878b2c06f36aff6b41276c84548e77f46706c885baf84a143fbee9e8d&o=&hp=1"\namenities:\n  - "Restaurant"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Standard Double Room"\n  - "Comfort Quadruple Room"\nnearbyRestaurants:\n  - "Marek Dragani 4.4 km"\n  - "Restorant Kapllaj 6 km"\nwhatsNearby:\n  - "National Park Skadar Lake 11 km"\n  - "Theth National Park 16 km"\nairports:\n  - "Podgorica Airport 24 km"\n  - "Tivat Airport 67 km"\nreviews:\n  - name: "Valbona"\n    country: "Albania"\n    text: "“Everything was perfect (staff, food, room)!
+We enjoyed staying there.
+Thanks Vila Pepaj for your hospitality!🤗🤗”"\n  - name: "Amanda"\n    country: "United Kingdom"\n    text: "“We loved the location. The staff were amazing and the food was gorgeous”"\n  - name: "Xhiljola"\n    country: "Albania"\n    text: "“Everything was great.....it was extremely clean, and this matters...wonderful view from the balcony”"\nbookingURL: "https://www.booking.com/hotel/al/vila-pepaj-razem.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe accommodations at Vila Pepaj Razem are thoughtfully designed, with select units boasting balconies or patios that offer breathtaking views of the surrounding mountains. This feature alone makes it a sought-after destination for those looking to immerse themselves in the tranquility of nature without sacrificing the comforts of home.
 
 For families and outdoor enthusiasts, the lodge doesn't disappoint. A vibrant children's playground ensures younger guests are entertained, while the availability of free bikes and the proximity to cycling-friendly terrains invite all guests to explore the picturesque surroundings at their own pace.
 
 Situated 48 km from both the Parliament of Montenegro and the Natural History Museum, Vila Pepaj Razem serves as an ideal base for visitors looking to delve into the cultural and historical richness of the area. Moreover, with Podgorica Airport only 45 km away, access to this tranquil haven is both easy and convenient.
 
 In essence, Vila Pepaj Razem offers a harmonious blend of leisure and adventure, making it a perfect choice for travelers seeking a peaceful escape with the option to explore at their leisure.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

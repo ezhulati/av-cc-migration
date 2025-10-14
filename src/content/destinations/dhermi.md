@@ -5,11 +5,14 @@ region: Albanian Riviera
 featuredImage: /images/destinations/dhermi.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: dhermi
 highlights: []
+seo:
+  metaDescription: "Explore the charm of Dhërmi with our extensive range of products and services. Shop now for great deals!"
 ---
 
 Why Visit
@@ -68,10 +71,3 @@ Planning Your Dhërmi Visit
 
 Visit between May and October, when sunny days are perfect for swimming. Public transport is limited, so renting a car allows flexibility. Stay in a beachfront hotel or guesthouse in the village and sample fresh seafood at charming restaurants. With mountainous scenery, rich culture, and coastal paradise, Dhërmi offers an unforgettable Albanian experience.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

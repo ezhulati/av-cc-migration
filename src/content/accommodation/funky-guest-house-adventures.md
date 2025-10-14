@@ -1,30 +1,8 @@
----
-title: Funky Guest House & Adventures
-description: Accommodations at Funky Guest House & Adventures are designed with guest comfort in mind, featuring air-conditioned units equipped with cable flat-screen TVs fo
-featuredImage: "/images/accommodation/105062315.jpg"
-language: en
-slug: funky-guest-house-adventures
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Funky Guest House & Adventures are designed with guest comfort in mind, featuring air-conditioned units equipped with cable flat-screen TVs for a touch of modernity. The private bathrooms, complete with walk-in showers and slippers, add an extra layer of privacy and convenience. Free WiFi is available throughout, with select rooms boasting balconies for those who appreciate a view. The attention to detail extends to the provision of quality bed linen and towels in each unit, ensuring a restful night's sleep.
+---\ntitle: "Funky Guest House & Adventures"\ndescription: "Funky Guest House & Adventures emerges as a charming choice for travelers seeking a blend of comfort and adventure in Përmet."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105062315.jpg?k=3b3ff64139399955cd9509622de3fccef3a9a61c73012056fb0cf84e02c4c377&o=&hp=1"\nlanguage: en\nslug: funky-guest-house-adventures\naddress: "Sheshi Abdyl Frasheri, 6401 Përmet, Albania"\ncity: "Përmet"\nlocation: "Përmet"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.23295758\n  lng: 20.35367975\nprice: "US$31"\npriceFrom: 31\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 823\nratings:\n  overall: 9.4\n  location: 9.7\n  cleanliness: 9.4\n  facilities: 9.1\n  value: 9.5\n  comfort: 9.3\n  staff: 9.4\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105062315.jpg?k=3b3ff64139399955cd9509622de3fccef3a9a61c73012056fb0cf84e02c4c377&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409556402.jpg?k=887a0609b2a059365a2bc9498903ea4a52c1ebf6ec85eef70afa047bbb9429ad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/122549294.jpg?k=d1065e7f37e49a183336e823f965baa36b6804c53d1a9b95c1b608f6b78d4de5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409556087.jpg?k=c905659d85ee9506d5d9dadc1d2fd8126470715d6e31ef231e15cdaf3089bea1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/180918214.jpg?k=ffeb56ce31dd7943273c6339746927b41788a609077779fd51b2da1fc865efe3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/98956365.jpg?k=5ac56b7aa15bddd6dff092d8534e4992f00a3ee79f388dbf7b7e5dd54debb6b4&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Good free WiFi (32 Mbps)"\n  - "Family rooms"\n  - "Bar"\n  - "Fabulous breakfast"\nroomTypes:\n  - "Standard Double or Twin Room with Balcony"\n  - "Deluxe Family Suite"\nnearbyRestaurants:\n  - "Funky Bar 6 m"\n  - "Don Café 100 m"\nwhatsNearby:\n  - "Fir of Hotova National Park 16 km"\nairports:\n  - "Ioannina Airport 70 km"\n  - "Corfu International Airport 79 km"\n  - "Kastoria National Airport 81 km"\nreviews:\n  - name: "Ella"\n    country: "United Kingdom"\n    text: "“Lovely modern feel.
+Lovely bathroom, instant hot water and a powerful shower. Super helpful owner who allowed us to move our booking by a day as we got lost in the mountains.”"\n  - name: "Jorgena"\n    country: "Sweden"\n    text: "“Super cute and cozy. Nice view of the main city square. Super nice hosts.”"\n  - name: "Marina"\n    country: "Sweden"\n    text: "“Good breakfast, fresh rooms, friendly staff. We were proposed a smaller but more modern apartment.”"\nbookingURL: "https://www.booking.com/hotel/al/funky-guest-house-amp-bar.en-gb.html?aid=8035640"\nbestFor: "Best for Adventure Activities"\nbestCategories: "Adventure Activities"\ncategory: "Adventure Activities"\n---\n\nAccommodations at Funky Guest House & Adventures are designed with guest comfort in mind, featuring air-conditioned units equipped with cable flat-screen TVs for a touch of modernity. The private bathrooms, complete with walk-in showers and slippers, add an extra layer of privacy and convenience. Free WiFi is available throughout, with select rooms boasting balconies for those who appreciate a view. The attention to detail extends to the provision of quality bed linen and towels in each unit, ensuring a restful night's sleep.
 
 The culinary experience at Funky Guest House & Adventures is not to be missed. Guests can start their day with a choice of buffet or continental breakfast, savoring fresh pastries, pancakes, and fruits. The on-site coffee shop, bar, and lounge offer a cozy ambiance for relaxing afternoons or lively evenings.
 
 For those eager to explore the surrounding area, the guest house is perfectly positioned for engaging in activities such as cycling, allowing guests to immerse themselves in the natural beauty of Përmet. Its proximity to Ioannina Airport, located 90 km away, adds to its appeal for international travelers.
 
 In summary, Funky Guest House & Adventures stands out as a delightful retreat that promises both relaxation and adventure in the heart of Përmet, making it an ideal choice for travelers looking to experience the best of both worlds.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

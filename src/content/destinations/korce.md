@@ -5,11 +5,14 @@ region: Southern Albania
 featuredImage: /images/destinations/korce.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: korce
 highlights: []
+seo:
+  metaDescription: "Explore the vibrant city of Korçë with our diverse category listings. Find attractions, services, and more in Korçë."
 ---
 
 Why Visit
@@ -98,10 +101,3 @@ Fir of Drenova National Park is one of the largest national parks in Albania, wi
 
 Ready to explore Korçë? This city has something to offer everyone, from history to culture to nature. Plan your trip soon and get ready for the adventure of your lifetime. Don’t forget to bring your camera and capture the stunning natural beauty of the surrounding areas!
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

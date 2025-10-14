@@ -1,15 +1,4 @@
----
-title: Comfort Inn IV
-description: This accommodation doesn't just offer a place to stay; it provides a home away from home. With air-conditioned spaces throughout, guests can enjoy the luxury of
-featuredImage: "/images/accommodation/451271142.jpg"
-language: en
-slug: comfort-inn-iv
-location: ""
-amenities: []
-images: []
----
-
-This accommodation doesn't just offer a place to stay; it provides a home away from home. With air-conditioned spaces throughout, guests can enjoy the luxury of comfort in every corner. The provision of free WiFi and private parking on-site adds to the seamless experience, ensuring both connectivity and convenience are guaranteed.
+---\ntitle: "Comfort Inn IV"\ndescription: "Comfort Inn IV stands out as a prime choice for travelers seeking a blend of convenience and comfort in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451271142.jpg?k=670543837a85c354db92081c53f61e6de0212ca686360307691590cb6cd07c35&o=&hp=1"\nlanguage: en\nslug: comfort-inn-iv\naddress: "Rruga e Dibrës, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.34048192\n  lng: 19.82942061\nprice: "US$46"\npriceFrom: 46\nstarRating: 3\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 5\nratings:\n  overall: 8.5\n  location: 9\n  cleanliness: 9\n  facilities: 8\n  value: 8\n  comfort: 8.5\n  staff: 8.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451271142.jpg?k=670543837a85c354db92081c53f61e6de0212ca686360307691590cb6cd07c35&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451271141.jpg?k=ae5a5142b0e3fe2c170212da3e9eaf260021b51f9cad274a019bb293588c689c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451271137.jpg?k=6d8d2c0f22ae23868002e44a05f96ae41a70ec77d9b8357f99a1083723f4a729&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451271139.jpg?k=c7d28cfc7705060e240e1de0c51cff362d0ced8b0e8f8a8c0dc014060b150000&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451270887.jpg?k=62f82b30a86f054edba29386f35e1cb67cb4ab0dd82f2b721e87f30e5630de8c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451271140.jpg?k=18e8b866afd06e7ca61c25cc9f503a8344735dcddfc966f132ac5784691ba49b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451270886.jpg?k=9a8047d5788d57520f56b5afe0a0be0e820381773075ce895bfbc4de07176716&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451270891.jpg?k=75c3e25f6af4b8ccdee984d7fb7429557830cbfc33fd61b880031f47d293c127&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451271138.jpg?k=0abeabdbd27d2ac2980ba63dedce5da93e5339226aff041a422e78297ecc4d76&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "Skanderbeg Square 1.6 km"\n  - "National Gallery of Arts Tirana 1.7 km"\n  - "House of Leaves 1.9 km"\n  - "Rinia Park 2 km"\n  - "Former Residence of Enver Hoxha 2.4 km"\n  - "Bunk'Art 1 Museum 2.8 km"\n  - "Grand Park of Tirana 3.2 km"\nnearbyRestaurants:\n  - "Bon SE Sugar 50 m"\n  - "Bar Restorant Shoqeria 150 m"\nwhatsNearby:\n  - "Sheshi Jjosef Shtraus 850 m"\n  - "Sheshi Rekreativ Gjolek Kokona 1,000 m"\n  - "Sheshi Rekreativ Allias 1 km"\n  - "Amazing Nature 1.2 km"\n  - "Sheshi Rekreativ tek ish ATSh 1.4 km"\n  - "Sheshi Sulejman Pasha 1.5 km"\n  - "Tanners' Bridge 1.6 km"\n  - "National Museum of History Albania 1.6 km"\n  - "Clock Tower Tirana 1.6 km"\n  - "Sheshi Skënderbej 1.6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 78 km"\nreviews:\n  - name: "ابو"\n    country: "Saudi Arabia"\n    text: "“The location is excellent but far from the center but the apartment is new, clean and spacious”"\nbookingURL: "https://www.booking.com/hotel/al/comfort-inn-iv.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nThis accommodation doesn't just offer a place to stay; it provides a home away from home. With air-conditioned spaces throughout, guests can enjoy the luxury of comfort in every corner. The provision of free WiFi and private parking on-site adds to the seamless experience, ensuring both connectivity and convenience are guaranteed.
 
 The apartment itself is a spacious haven, boasting a balcony that offers a serene spot to unwind. It features two bedrooms, a cozy living room, and a well-equipped kitchen, making it ideal for families or groups. Entertainment is readily available with a flat-screen TV, and the non-smoking environment ensures a pleasant stay for all guests.
 
@@ -18,15 +7,3 @@ For those who appreciate the little conveniences, a coffee shop on the premises 
 Located close to notable attractions such as the National Theatre of Opera and Ballet of Albania, the National Museum of History, and the Toptani Shopping Centre, guests at Comfort Inn IV are never far from cultural experiences and retail therapy. For those traveling further afield, Tirana International Mother Teresa Airport is just 14 km away, with the property offering a convenient paid airport shuttle service.
 
 In summary, Comfort Inn IV is more than just a place to stay; it's a gateway to experiencing the best of Tirana, wrapped up in the comfort of a welcoming and well-appointed accommodation.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -4,9 +4,19 @@ description: This apartment doesn't just promise space; it delivers it, along wi
 featuredImage: "/images/accommodation/435872200.jpg"
 language: en
 slug: noas-happy-place
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Air Conditioning"
+  - "Spa"
+  - "Kitchen"
+  - "Balcony"
+  - "TV"
 ---
 
 This apartment doesn't just promise space; it delivers it, along with modern amenities such as air conditioning, a balcony for those tranquil morning coffees, and complimentary WiFi to keep guests connected. For those interested in exploring the cultural side of Tirana, Noa's Happy Place is conveniently positioned just 1.7 km from the intriguing Bunk'Art 1 Museum and a short distance from the Bektashi World Centre, making it an ideal base for cultural enthusiasts.
@@ -17,14 +27,3 @@ Further enhancing its appeal, the property is located within easy reach of Tanne
 
 In essence, Noa's Happy Place stands out as a top-tier accommodation option for those visiting Tirana, combining the comfort of a well-appointed apartment with the convenience of a location that puts the city's highlights within easy reach.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

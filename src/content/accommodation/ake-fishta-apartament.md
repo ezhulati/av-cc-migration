@@ -1,30 +1,7 @@
----
-title: AKE Fishta Apartament
-description: Guests of AKE Fishta Apartament are treated to the luxury of a fully air-conditioned apartment that boasts two well-appointed bedrooms, a modern flat-screen TV,
-featuredImage: "/images/accommodation/304459955.jpg"
-language: en
-slug: ake-fishta-apartament
-location: ""
-amenities: []
-images: []
----
-
-Guests of AKE Fishta Apartament are treated to the luxury of a fully air-conditioned apartment that boasts two well-appointed bedrooms, a modern flat-screen TV, and a kitchen equipped with everything needed for a comfortable stay. The addition of a balcony provides a private space to enjoy the serene surroundings and breathe in the fresh sea air.
+---\ntitle: "AKE Fishta Apartament"\ndescription: "AKE Fishta Apartament emerges as a standout choice for travelers seeking a blend of comfort and convenience in Velipojë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304459955.jpg?k=c815d988987b7d0a35a89036f26db3a084645090558abcbeddf2b0b2d29f210f&o=&hp=1"\nlanguage: en\nslug: ake-fishta-apartament\naddress: "Rruga Shtepia e Peshkatareve, 4020 Velipojë, Albania"\ncity: "Velipojë"\nlocation: "Velipojë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.86259758\n  lng: 19.42698204\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.8\nratingWords: "Good"\nnumberOfReviews: 2\nratings:\n  overall: 7.8\n  location: 8.8\n  cleanliness: 6.3\n  facilities: 8.8\n  value: 8.8\n  comfort: 6.3\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304459955.jpg?k=c815d988987b7d0a35a89036f26db3a084645090558abcbeddf2b0b2d29f210f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/368885970.jpg?k=b71da32c1a95308e860548e1af78c8ebd323c8f3f20759170703773b52bb60a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/305525100.jpg?k=fa29276e200f32b8c69a38bc813300fe054796aee2db3560b241ad997ee24d9f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/304459181.jpg?k=478a90b532bfccc90522c307193c2a314fcbf4143cd03b8eb8d6964aa3c9b1e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/304459183.jpg?k=b5f61fca1657b975526dab3e21879ecbda772e77c562b6c20ec8be701d251dcb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/481339968.jpg?k=f5bff9a7dd79a614276a0034201e80c491ad50984de8d4425c9d97f7fbc8faa8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/367345993.jpg?k=7134239b72965174c1e4882363625d8d731878fd9f1d24f0eb5214abbb60730a&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\nnearbyAttractions:\n  - "Old Town Ulcinj 20 km"\nnearbyRestaurants:\n  - "Aroma E Gostivarit 50 m"\n  - "Sunshine 100 m"\nnearbyBeaches:\n  - "Velipoja Beach 100 m"\n  - "Rana e Hedhun Beach 1.7 km"\n  - "Ada Bojana Beach 4.9 km"\n  - "Velika Plaza Beach 7 km"\nwhatsNearby:\n  - "Copacabana 10 km"\n  - "Cola Beach 11 km"\n  - "Imperiam Beach 13 km"\n  - "Msm Beach 13 km"\n  - "Tropicana 14 km"\n  - "Plaža Safari 14 km"\n  - "Bukurija Beach 15 km"\n  - "Saranda 15 km"\n  - "Plaža Toni 16 km"\n  - "Nudistička Plaža Albatros 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 54 km"\n  - "Podgorica Airport 56 km"\n  - "Tivat Airport 82 km"\nbookingURL: "https://www.booking.com/hotel/al/ake-fishta-apartament.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests of AKE Fishta Apartament are treated to the luxury of a fully air-conditioned apartment that boasts two well-appointed bedrooms, a modern flat-screen TV, and a kitchen equipped with everything needed for a comfortable stay. The addition of a balcony provides a private space to enjoy the serene surroundings and breathe in the fresh sea air.
 
 Connectivity is never an issue, as complimentary WiFi ensures that guests can stay in touch with the world or plan their next adventure in Velipojë. For those concerned about health and wellness, it's reassuring to know that the property maintains a strict non-smoking policy, ensuring a clean and fresh environment for all.
 
 Situated 84 km from Tirana International Mother Teresa Airport, AKE Fishta Apartament also offers peace of mind to international travelers, knowing that their gateway to and from Albania is within a manageable distance.
 
 Whether it's the allure of the beach just 100 meters away or the promise of exploring historical sites and natural wonders, AKE Fishta Apartament stands as a beacon for those looking to experience the best of Velipojë in a setting that feels like home.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

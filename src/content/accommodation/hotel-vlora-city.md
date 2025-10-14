@@ -1,28 +1,5 @@
----
-title: Hotel Vlora City
-description: Accommodations at Hotel Vlora City are thoughtfully designed to ensure a restful stay. Each room is equipped with a private bathroom, complete with a shower and
-featuredImage: "/images/accommodation/489718614.jpg"
-language: en
-slug: hotel-vlora-city
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Hotel Vlora City are thoughtfully designed to ensure a restful stay. Each room is equipped with a private bathroom, complete with a shower and complimentary slippers, ensuring guests can unwind in comfort after a day of adventure. The promise of free WiFi across the premises allows for seamless connectivity, while select rooms boast the added luxury of a terrace, offering a serene spot to relax and reflect. The convenience of air conditioning and the presence of a flat-screen TV in every unit underscore the establishment's commitment to guest satisfaction.
+---\ntitle: "Hotel Vlora City"\ndescription: "Hotel Vlora City emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489718614.jpg?k=5c75b8c8c78856b514b1c0449c0b500dcf9674205adee24d99dfcbd2bde71d01&o=&hp=1"\nlanguage: en\nslug: hotel-vlora-city\naddress: "Rruga Rrap Sherifi, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.46084606\n  lng: 19.4905972\nprice: "US$17"\npriceFrom: 17\nstarRating: 3\nrating: 5.8\nratingWords: "Below Average"\nnumberOfReviews: 41\nratings:\n  overall: 5.8\n  location: 6.8\n  cleanliness: 5.3\n  facilities: 5\n  value: 6.1\n  comfort: 5.6\n  staff: 6.8\n  wifi: 5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489718614.jpg?k=5c75b8c8c78856b514b1c0449c0b500dcf9674205adee24d99dfcbd2bde71d01&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489716714.jpg?k=b02c5bc8248bb4347951e2c8b9ddf896a35e7b136614fec388c77994d1454d45&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/429158277.jpg?k=b552934b445eb0b1cfe3f8218849bb33cd3195000d6c014d86f79af03bb12a8d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423737333.jpg?k=36d77ecc02b88543176717a0577dac2805e281dff67ac063f5790f97c4de7323&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489716396.jpg?k=6a05522d334cab3319ade9e1fddb121a9af8dcb5ee0c73fd2f0cc1ae45ee618e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/429158585.jpg?k=5f9d1e92168abdb6c0c5a83cd3b9528fd47c9e0b345a724f59b7e906d7e910da&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Deluxe Double Room with Extra Bed"\n  - "Budget Double Room"\n  - "Double Room"\nnearbyRestaurants:\n  - "3 Fiori 150 m"\n  - "Liking 150 m"\nnearbyBeaches:\n  - "Vjetër Beach 1.2 km"\n  - "Vlore Beach 1.5 km"\n  - "Ri Beach 2.8 km"\n  - "Beach at Government Villas 4.5 km"\n  - "Liro Beach 5 km"\nwhatsNearby:\n  - "Kuzum Baba 800 m"\n  - "Independence Square 1.1 km"\n  - "Scooby Doo Vlore 2.8 km"\nbookingURL: "https://www.booking.com/hotel/al/vlora-city-vlore1.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nAccommodations at Hotel Vlora City are thoughtfully designed to ensure a restful stay. Each room is equipped with a private bathroom, complete with a shower and complimentary slippers, ensuring guests can unwind in comfort after a day of adventure. The promise of free WiFi across the premises allows for seamless connectivity, while select rooms boast the added luxury of a terrace, offering a serene spot to relax and reflect. The convenience of air conditioning and the presence of a flat-screen TV in every unit underscore the establishment's commitment to guest satisfaction.
 
 For those traveling to or from distant locales, the proximity to Tirana International Mother Teresa Airport, located 150 km away, underscores the bed and breakfast's appeal to both domestic and international travelers. While private parking is available for an additional fee, the assurance of having a secure spot to leave one's vehicle adds to the peace of mind during their stay.
 
 Hotel Vlora City stands out as a beacon of hospitality, offering a blend of comfort, convenience, and connectivity, making it a distinguished choice for visitors to Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,15 +1,4 @@
----
-title: VIOLCA GUEST HOUSE
-description: VIOLCA GUEST HOUSE stands out for its modern, air-conditioned accommodations that boast not only a balcony but also complimentary WiFi, ensuring guests stay con
-featuredImage: "/images/accommodation/479889999.jpg"
-language: en
-slug: violca-guest-house
-location: ""
-amenities: []
-images: []
----
-
-VIOLCA GUEST HOUSE stands out for its modern, air-conditioned accommodations that boast not only a balcony but also complimentary WiFi, ensuring guests stay connected and comfortable. The highlight of each apartment is undoubtedly the city views that can be admired from a cozy patio, providing a serene backdrop for your stay. Additionally, the property prides itself on its soundproof rooms, guaranteeing a peaceful retreat amidst the bustling city surroundings.
+---\ntitle: "VIOLCA GUEST HOUSE"\ndescription: "Discover the charm of Durrës with a stay at VIOLCA GUEST HOUSE, a prime choice for travelers seeking comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479889999.jpg?k=06e8d272d032bbcddf985ddcd110bb85b55bf60ff3c965391061fe501a3200e6&o=&hp=1"\nlanguage: en\nslug: violca-guest-house\naddress: "Rruga Vegimi, 2008 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31165097\n  lng: 19.48659489\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.6\nratingWords: "Very Good"\nnumberOfReviews: 4\nratings:\n  overall: 8.6\n  location: 9.4\n  cleanliness: 8.1\n  facilities: 8.1\n  value: 8.8\n  comfort: 8.1\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479889999.jpg?k=06e8d272d032bbcddf985ddcd110bb85b55bf60ff3c965391061fe501a3200e6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479883594.jpg?k=7d9b24c2547874b725ce53fb16c0b233c98c2ab59ac49457eedae035aa8c9029&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479886255.jpg?k=e4afcf7093bd849daedb1396c8228e29eb53b200a9fdfdff916186622e314a0f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479884541.jpg?k=77b0c8f618a4ba2087cfa76efdb6279af696ca04ae966171dbbe4225f26a6b7c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479884386.jpg?k=a76407e218132fb28d6797520a3b686f57d89e0c94f4efcfddc0b36fa047c8a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479885917.jpg?k=d91649942e3cfc45780cf752ea2a8b2c9343cfc0cf048eab3ca032d8a542bb6f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479885536.jpg?k=ab00bc9804ff05c2039ee316803e734b91a5af014c803703d1c96d78c89b2bd2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479884730.jpg?k=68e0fb0689d493033e291021dc511099558b86ed47e01398c2ac64c56cbe6ed9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476383866.jpg?k=0f22c92d3a77ad128957a296681a697389b1b831bbcb51694cc8de905e27b3b4&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "FC Bayern 200 m"\n  - "Prizreni 250 m"\nnearbyBeaches:\n  - "Durres Beach 300 m"\n  - "Currila Beach 3.3 km"\n  - "Shkëmbi i Kavajës Beach 3.4 km"\n  - "Kallmi Beach 4.6 km"\n  - "West End Beach 6 km"\nwhatsNearby:\n  - "Bekimi 2 km"\n  - "Wine Dhe Pooh 3.2 km"\n  - "Sheshi Demokracia 3.2 km"\n  - "Yje Dhe Hena 3.3 km"\n  - "Durres Amphiteatre 3.5 km"\n  - "Sotir Noka 3.5 km"\n  - "1. Maj 3.7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/violca-guest-house.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nVIOLCA GUEST HOUSE stands out for its modern, air-conditioned accommodations that boast not only a balcony but also complimentary WiFi, ensuring guests stay connected and comfortable. The highlight of each apartment is undoubtedly the city views that can be admired from a cozy patio, providing a serene backdrop for your stay. Additionally, the property prides itself on its soundproof rooms, guaranteeing a peaceful retreat amidst the bustling city surroundings.
 
 The apartment is thoughtfully furnished with a bedroom, a bathroom complete with shower and dressing room, and a living area that includes a flat-screen TV with cable channels for entertainment. The fully equipped kitchen and terrace with garden views cater to those who appreciate the option of home-cooked meals and outdoor relaxation.
 
@@ -18,15 +7,3 @@ For those who enjoy spending time in nature, the guest house offers a beautifull
 Accessibility is a breeze, with Tirana International Mother Teresa Airport located only 32 km from the property, making VIOLCA GUEST HOUSE an ideal base for both international visitors and those looking to explore the wider region of Durrës.
 
 Whether it's the allure of the beach, the call of historical sites, or simply the need for a tranquil and comfortable place to rest, VIOLCA GUEST HOUSE promises an experience that combines the best of Durrës' charm with the comforts of modern living.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

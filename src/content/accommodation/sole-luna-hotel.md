@@ -1,15 +1,8 @@
----
-title: Sole Luna Hotel
-description: Guests are welcomed into air-conditioned rooms that open up to private balconies, offering a personal haven where comfort meets convenience. Each room is though
-featuredImage: "/images/accommodation/153793172.jpg"
-language: en
-slug: sole-luna-hotel
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into air-conditioned rooms that open up to private balconies, offering a personal haven where comfort meets convenience. Each room is thoughtfully equipped with a desk, a wardrobe, and a flat-screen cable TV, ensuring a stay that is both productive and leisurely. The inclusion of a private bathroom, outfitted with complimentary toiletries and a hairdryer, adds a touch of luxury to the guest experience.
+---\ntitle: "Sole Luna Hotel"\ndescription: "Sole Luna Hotel emerges as a serene oasis in Borsh, boasting its own slice of paradise with a private beach area complete with sun loungers and parasols for the ultimate relaxation."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/153793172.jpg?k=b45cc00aa8e0779906125ff4448f6fdc95a74df56ad1fcd4706abdaf15e2c390&o=&hp=1"\nlanguage: en\nslug: sole-luna-hotel\naddress: "Rruga Plazhit, , 9714 Borsh, Albania"\ncity: "Borsh"\nlocation: "Borsh"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.04695047\n  lng: 19.85058822\nprice: "US$35"\npriceFrom: 35\nstarRating: 4\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 332\nratings:\n  overall: 8.8\n  location: 8.5\n  cleanliness: 9.1\n  facilities: 8.8\n  value: 8\n  comfort: 9.1\n  staff: 8.6\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/153793172.jpg?k=b45cc00aa8e0779906125ff4448f6fdc95a74df56ad1fcd4706abdaf15e2c390&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150022368.jpg?k=8fc56a1dd1e032793fa580d7bea3b62f5dced7e1fcf259785f65fba8c1c26b95&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/153793504.jpg?k=ef4ebf45be6f3e33fa1801f378c0f165a99c84d6150f83e48eeba75384959ffd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336340497.jpg?k=6036b71627361c7982ee9af31ba1ab276f37947cf2fe8f986e29409ce9c74f07&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/153793316.jpg?k=ed3e1ad0f9fb866ec72d082041ef85aee2aa911bebaa3d8b47ba6d1b9e1baa1f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150022394.jpg?k=7da7a51843bab6b9eed01f7e07b078615372d409199fa7c907cf689ddcf8365d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336340513.jpg?k=5a1e113de3081eab31a8e646fb172729b21f5bafa84b3d03e7d481c8dffcc23d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150022918.jpg?k=94a2564430ebfad87362b3d0718b0cc8b24b5b897ffe4d7bb12a5984b30d19af&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/153793551.jpg?k=ed6954b37be71965939ed081408a30759f185c0d68ba1171bb615e3b3eb47e3b&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Fabulous breakfast"\nnearbyRestaurants:\n  - "SOLYMAR 50 m"\n  - "Bar Piceri Sunset 150 m"\nnearbyBeaches:\n  - "Borsh Beach 40 m"\n  - "Qeparo Beach 1.7 km"\n  - "Porto Palermo Beach 3 4.1 km"\n  - "Porto Palermo Beach 4.2 km"\n  - "Palermo Beach 5 km"\nairports:\n  - "Corfu International Airport 49 km"\n  - "Ioannina Airport 90 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Karen"\n    country: "United Kingdom"\n    text: "“Huge, modern, clean room. Located right on the beach. Friendly, helpful staff. Excellent”"\n  - name: "Andreas"\n    country: "Austria"\n    text: "“spacious and modern rooms,
+very nice breakfast buffet,
+free beach towels, beach beds & beach umbrellas,
+awesome personal,
+easy parking”"\n  - name: "Artan"\n    country: "United Kingdom"\n    text: "“Nice hotel with a very good private beach,service from staff excellent.very tasty pizzas and the food from the restaurant was delicious.”"\nbookingURL: "https://www.booking.com/hotel/al/sole-luna.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into air-conditioned rooms that open up to private balconies, offering a personal haven where comfort meets convenience. Each room is thoughtfully equipped with a desk, a wardrobe, and a flat-screen cable TV, ensuring a stay that is both productive and leisurely. The inclusion of a private bathroom, outfitted with complimentary toiletries and a hairdryer, adds a touch of luxury to the guest experience.
 
 Culinary adventures await at the Sole Luna Hotel, where a continental and buffet breakfast is served each morning, setting the tone for a day of exploration or relaxation. The on-site restaurant is a culinary gem, offering a taste of the Mediterranean alongside beloved local dishes, catering to the palates of discerning gourmets.
 
@@ -18,15 +11,3 @@ The hotel's commitment to guest satisfaction is evident in its round-the-clock f
 Located a mere 39 km from Sarandë, Sole Luna Hotel is a choice destination for those seeking a blend of seclusion and accessibility. The provision of free private parking further underscores the hotel's appeal to travelers arriving by car.
 
 In summary, Sole Luna Hotel stands out as a premier destination in Borsh, offering a perfect blend of relaxation, convenience, and culinary excellence, making it a must-visit for those seeking a memorable coastal getaway.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

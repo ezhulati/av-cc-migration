@@ -1,15 +1,4 @@
----
-title: DreamWeaver 894
-description: "This apartment doesn't just offer a place to stay; it provides a spacious sanctuary equipped with air conditioning, ensuring a cool retreat from the sun-soaked adventures that await outside."
-featuredImage: "/images/accommodation/487647567.jpg"
-language: en
-slug: dreamweaver-894
-location: ''
-amenities: []
-images: []
----
-
-This apartment doesn't just offer a place to stay; it provides a spacious sanctuary equipped with air conditioning, ensuring a cool retreat from the sun-soaked adventures that await outside. The living quarters are thoughtfully designed, featuring a bedroom that promises restful nights, a living room that serves as a cozy gathering space, and a fully equipped kitchen that caters to culinary whims at any hour. The inclusion of a flat-screen TV adds a touch of modern comfort to the space, making it easy for guests to unwind after a day of exploration.
+---\ntitle: "DreamWeaver 894"\ndescription: "DreamWeaver 894 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487647567.jpg?k=76d557b274686f973ee1fedcce2bcef5f380f23eadda0067d5fd65296d5c3997&o=&hp=1"\nlanguage: en\nslug: dreamweaver-894\naddress: "7GC9+PCH, Durrës, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.2718125\n  lng: 19.5186094\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 2\nratings:\n  overall: 7.5\n  location: 7.5\n  cleanliness: 6.3\n  facilities: 10\n  value: 6.3\n  comfort: 7.5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487647567.jpg?k=76d557b274686f973ee1fedcce2bcef5f380f23eadda0067d5fd65296d5c3997&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485342454.jpg?k=cc104b1892a2aeec1904701e992e7750aea26a9b9d0bc5a76919043fc3f8ed8a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487647468.jpg?k=920b9def38c1be1cc40cdd553fc813289eedeb5ecb9eb6bfa68dc0ce380af1df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485342413.jpg?k=5c2e37423fbb7f9b63a2eee173e1686436ea9be26dcc8c16ac001b15e2d675e2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485342438.jpg?k=c56b4cdbd52467e4ffbdc0fd121318bb5a12f16c2d911f5d8d6ebcbeb75512e8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487647879.jpg?k=7594ec5ba5b1054f3a509ad8bcab66b43ace2589bc1f57c8ec9b073bd82d1233&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485342449.jpg?k=c1b9feb9feb81044984c1ff9740379c61616abfd1f3a5b2f489307cc27a7a6b5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485342463.jpg?k=f831fa54f33c0e60e1b7276bcc2f328b30c9efa4ff4635653cc000787da44639&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485611878.jpg?k=503876c4030a9a899f757dcc9e3f6ee8f25e0504198879a7e9dc79a1355b9137&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Benilva 100 m"\n  - "Fresh Fish 150 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 100 m"\n  - "Golem Beach 700 m"\n  - "Durres Beach 1.7 km"\n  - "Mali I Robit Beach 2.6 km"\n  - "Qerret Beach 4.6 km"\nwhatsNearby:\n  - "Bekimi 7 km"\n  - "Wine Dhe Pooh 8 km"\n  - "Durres Amphiteatre 8 km"\n  - "Yje Dhe Hena 8 km"\n  - "1. Maj 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "Sotir Noka 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Ірина"\n    country: "Ukraine"\n    text: "“Доброго вечора)море поруч, є набережна з магазинами, кафе, ресторанами, атракціонами для дітей, біля пляжу багато шизлонгів коштують 500 lek на цілий день. В квартирі все є, на кухні для приготування абсолютно все і новеньке, високі стіни, два...”"\nbookingURL: "https://www.booking.com/hotel/al/1-bedroom-apartment-894.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment doesn't just offer a place to stay; it provides a spacious sanctuary equipped with air conditioning, ensuring a cool retreat from the sun-soaked adventures that await outside. The living quarters are thoughtfully designed, featuring a bedroom that promises restful nights, a living room that serves as a cozy gathering space, and a fully equipped kitchen that caters to culinary whims at any hour. The inclusion of a flat-screen TV adds a touch of modern comfort to the space, making it easy for guests to unwind after a day of exploration.
 
 Connectivity is never an issue at DreamWeaver 894, with free WiFi enveloping the property, ensuring guests stay connected with the world or plan their next day's adventures with ease. The commitment to a non-smoking environment underscores the property's dedication to providing a clean and healthy stay for all guests.
 
@@ -18,15 +7,3 @@ Beyond the confines of the apartment, the allure of local attractions beckons. T
 Accessibility is a breeze, with Tirana International Mother Teresa Airport merely 38 km away, making DreamWeaver 894 a convenient choice for international travelers and those looking to explore the wider region.
 
 In summary, DreamWeaver 894 stands out as a beacon of comfort and convenience, offering a well-rounded stay for those eager to discover the coastal and cultural highlights of Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

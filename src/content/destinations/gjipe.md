@@ -5,11 +5,17 @@ region: Albanian Riviera
 featuredImage: /images/destinations/gjipe.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: gjipe
 highlights: []
+seo:
+  metaTitle: "Discover Gjipe Beach - Albania’s Hidden Canyon Paradise"
+  metaDescription: "Gjipe Beach is a must-visit destination for anyone traveling to Albania who loves nature, beaches, hiking, and exploring off-the-beaten-path destinations."
+  focusKeyword: "gjipe,gjipe beach"
+  robots: "index"
 ---
 
 Albania’s Hidden Canyon Paradise
@@ -144,10 +150,3 @@ Places like this don’t last forever. Every year brings more development pressu
 
 Gjipe won’t stay hidden much longer. But for now, it’s still there – difficult to reach, impossible to forget, and absolutely worth the effort.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

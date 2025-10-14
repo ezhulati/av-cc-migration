@@ -1,28 +1,6 @@
----
-title: Hotel Nacional Durres
-description: Rooms at Hotel Nacional Durres are thoughtfully designed with air conditioning to provide a cool retreat from the sun, complemented by free WiFi and private bat
-featuredImage: "/images/accommodation/460559882.jpg"
-language: en
-slug: hotel-nacional-durres
-location: ""
-amenities: []
-images: []
----
-
-Rooms at Hotel Nacional Durres are thoughtfully designed with air conditioning to provide a cool retreat from the sun, complemented by free WiFi and private bathrooms for a seamless stay. The option of rooms with balconies or terraces adds a touch of elegance, with select accommodations offering breathtaking mountain views. Each guest room is equipped with a flat-screen TV and complimentary toiletries, catering to all the essentials needed for a comfortable stay.
+---\ntitle: "Hotel Nacional Durres"\ndescription: "Hotel Nacional Durres emerges as a prime choice for travelers seeking a blend of comfort and convenience, located just 98 meters from the pristine Shkëmbi i Kavajës Beach in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460559882.jpg?k=34ee5fe5727e48e71ff205908e76e08d56dbd48a3d747ee9a615a0860fec64ad&o=&hp=1"\nlanguage: en\nslug: hotel-nacional-durres\naddress: "Rruga Shkembi i Kavajes, 2002 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.28254511\n  lng: 19.51419062\nprice: "US$59"\npriceFrom: 59\nstarRating: 3\nrating: 8\nratingWords: "Very Good"\nnumberOfReviews: 8\nratings:\n  overall: 8\n  location: 8.1\n  cleanliness: 8.4\n  facilities: 7.8\n  value: 7.8\n  comfort: 7.8\n  staff: 8.1\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460559882.jpg?k=34ee5fe5727e48e71ff205908e76e08d56dbd48a3d747ee9a615a0860fec64ad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460550948.jpg?k=cf6e7ba96c08d2e11a65a74c27b286a23d730270912ca722a3df0b041a554955&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460550580.jpg?k=53c0ad40c56564a11013c68bd7a330fcf3444b1301d96899c210d968c1675e73&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375154703.jpg?k=074da74b1c94d629c42752f4282559265c0918991d8097674a1200bf57340f71&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460550778.jpg?k=ecc1afa8e889dd03549a82fd0c791344f2ddcc2aaa0ca83f7d4e05586521378c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460550995.jpg?k=68adb52b24d7efcce1bfe00e6d7fe6cba48b66b424d4cb0530ebb80cdd3c5b15&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Twin Room with Mountain View"\n  - "Deluxe Double Room (2 Adults + 1 Child)"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 200 m"\n  - "Durres Beach 550 m"\n  - "Golem Beach 1.9 km"\n  - "Mali I Robit Beach 3.9 km"\n  - "Qerret Beach 6 km"\nreviews:\n  - name: "Sonila"\n    country: "Albania"\n    text: "“The room had a nice view, and the beach was very near.
+The staff also was very nice. Totally recommended.”"\n  - name: "Dakavdvdv"\n    country: "Albania"\n    text: "“Good location, near beach and main road. Also Good hospitality.”"\nbookingURL: "https://www.booking.com/hotel/al/nacional-durres.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nRooms at Hotel Nacional Durres are thoughtfully designed with air conditioning to provide a cool retreat from the sun, complemented by free WiFi and private bathrooms for a seamless stay. The option of rooms with balconies or terraces adds a touch of elegance, with select accommodations offering breathtaking mountain views. Each guest room is equipped with a flat-screen TV and complimentary toiletries, catering to all the essentials needed for a comfortable stay.
 
 Morning risers are greeted with a variety of breakfast options, including buffet, continental, and Italian selections, catering to diverse palates and preferences. The hotel's commitment to service is further exemplified by its attentive staff, available around the clock at the 24-hour front desk to assist with any inquiries or needs.
 
 Situated a mere 600 meters from Durres Beach and a short 2.1 km journey from Golem Beach, the hotel's location is ideal for beach enthusiasts and explorers alike. For those traveling further afield, Tirana International Mother Teresa Airport is conveniently located 36 km away, making Hotel Nacional Durres a compelling choice for both domestic and international visitors seeking a memorable stay in Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

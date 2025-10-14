@@ -4,9 +4,17 @@ description: The accommodations at Enki's Garden Guesthouse are thoughtfully des
 featuredImage: "/images/accommodation/405244300.jpg"
 language: en
 slug: enkis-garden-guesthouse
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 3
+rating: 3
+accommodationType: "villa"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Parking"
+  - "Kitchen"
+  - "Balcony"
 ---
 
 The accommodations at Enki's Garden Guesthouse are thoughtfully designed with guest comfort in mind, featuring essential amenities such as a wardrobe, and complemented by the inclusion of bed linen and towels in every unit. The presence of a shared kitchen and a sun-drenched terrace further enhances the homely atmosphere, allowing guests to prepare their meals or unwind in the open air.
@@ -17,14 +25,3 @@ Not to be overlooked, the guesthouse boasts a picturesque picnic area, inviting 
 
 Situated just 15 km from Tirana International Mother Teresa Airport, Enki's Garden Guesthouse stands out as a welcoming haven for those looking to experience the best of Tirana's hospitality and charm.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

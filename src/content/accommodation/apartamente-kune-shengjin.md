@@ -1,32 +1,9 @@
----
-title: Apartamente Kune Shengjin
-description: "Guests are greeted with the luxury of a private entrance, ensuring a seamless and personalized experience from the moment of arrival."
-featuredImage: "/images/accommodation/478705641.jpg"
-language: en
-slug: apartamente-kune-shengjin
-location: ""
-amenities: []
-images: []
----
-
-Guests are greeted with the luxury of a private entrance, ensuring a seamless and personalized experience from the moment of arrival. The apartment itself is a haven of comfort, boasting family-friendly rooms and accessible facilities that cater to all guests, including those with disabilities.
+---\ntitle: "Apartamente Kune Shengjin"\ndescription: "Discover the charm of Apartamente Kune Shengjin, a gem situated in the heart of Lezhë, offering guests a unique blend of convenience and serenity."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478705641.jpg?k=46494625d03d405f22708326f930467773d23ed90ffacb7dfd312d1c2e652ebb&o=&hp=1"\nlanguage: en\nslug: apartamente-kune-shengjin\naddress: "Rruga Kënallë - Kune, Lezhë, Albania"\ncity: "Lezhë"\nlocation: "Lezhë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.79516219\n  lng: 19.60452053\nprice: "US$60"\npriceFrom: 60\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 9.6\n  location: 10\n  cleanliness: 10\n  facilities: 7.5\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478705641.jpg?k=46494625d03d405f22708326f930467773d23ed90ffacb7dfd312d1c2e652ebb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478705735.jpg?k=8d7f34d113d2cd5239779b9fb8de94c64403c363616d715c04c65068ff87df9b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478705766.jpg?k=1b982f0d26204fb69febd03971c1e0a91ee14fca9fe6140876f9660235539bd0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478705729.jpg?k=c3bd3a643cb6947a0ac54245086dca347deb1a2710d363688fcfd32a128189c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478705795.jpg?k=291af01ccd11e8ca444a111414bc73ec41ddb1a6f47f1cf3e38b9455baa7cfaf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478705788.jpg?k=631c74c24ce31b3993cd7486d835b0167f82733813bb2d47aedacf75b7bee9e8&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Facilities for disabled guests"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Hotel Restorant Molla 200 m"\n  - "Soleil 400 m"\nnearbyBeaches:\n  - "Ylberi Beach 200 m"\n  - "Shëngjin Beach 600 m"\n  - "Laguna Park Beach 2.9 km"\n  - "Kune Beach 3.1 km"\n  - "Rana e Hedhun Beach 4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 42 km"\n  - "Podgorica Airport 68 km"\nbookingURL: "https://www.booking.com/hotel/al/kompleksi-jukoil-kune.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are greeted with the luxury of a private entrance, ensuring a seamless and personalized experience from the moment of arrival. The apartment itself is a haven of comfort, boasting family-friendly rooms and accessible facilities that cater to all guests, including those with disabilities.
 
 The living space is thoughtfully designed to maximize comfort and enjoyment, featuring a balcony that offers breathtaking sea views. The seating area, complemented by a flat-screen TV, provides a cozy nook for relaxation. Culinary enthusiasts will appreciate the fully equipped kitchen, complete with an oven and fridge, perfect for whipping up meals with a local flair. The private bathroom, equipped with a bidet, adds an extra layer of convenience.
 
 In a commitment to ensuring a comfortable stay for everyone, the apartment complex prides itself on being allergy-free and soundproof. Each unit is equipped with air conditioning and a wardrobe, catering to the needs of modern travelers seeking a blend of comfort and functionality.
 
-For those last-minute needs or local delicacies, a minimarket on the premises offers convenience at your doorstep.
+For those last-minute needs or local delicacies, a minimarket on the premises offers convenience at your doorstep. 
 
 Situated 43 km from the tranquil Lake Skadar and 47 km from Tirana International Mother Teresa Airport, Apartamente Kune Shengjin is not just a place to stay but a gateway to the wonders of the region. Whether it's the allure of the beaches, the call of historical sites, or simply the desire for a peaceful retreat, this property promises an unforgettable experience for all who visit.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -5,11 +5,14 @@ region: Northern Albania
 featuredImage: /images/destinations/shkoder.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: shkoder
 highlights: []
+seo:
+  metaDescription: "Discover the wonders of Shkodër. From historical sites to natural beauty, find the best places to visit, stay, and dine in Shkodër."
 ---
 
 Custom Audio Player 
@@ -310,10 +313,3 @@ In Shkodër, I’ve found not just a gateway to northern Albania’s natural won
 
 This northern city may lack the instant Instagram appeal of some Albanian destinations, but it offers something more valuable—authenticity. In its weathered castle walls, its vibrant streets, its lakeside tranquility, and its mountain backdrop, Shkodër embodies the resilience and warmth that define the Albanian spirit.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

@@ -1,30 +1,10 @@
----
-title: Hotel Delta
-description: Accommodations at Hotel Delta are designed with the modern traveler in mind, featuring air-conditioned rooms equipped with flat-screen TVs and minibars for a to
-featuredImage: "/images/accommodation/90607494.jpg"
-language: en
-slug: hotel-delta
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Hotel Delta are designed with the modern traveler in mind, featuring air-conditioned rooms equipped with flat-screen TVs and minibars for a touch of luxury. Select units elevate the experience further, offering seating areas where guests can unwind in privacy. The assurance of a private bathroom with a bidet in every room adds to the comfort and convenience.
+---\ntitle: "Hotel Delta"\ndescription: "Hotel Delta emerges as a modern oasis of comfort and convenience, offering guests a serene garden setting complete with a cozy lounge area."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/90607494.jpg?k=1b52374d80245cf71278d35a8d39cf2302ecb6718d9c56590c37853e3c6a4251&o=&hp=1"\nlanguage: en\nslug: hotel-delta\naddress: "Autostrada Durrës-Tiranë KM5. Durrës, 1005 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.3469704\n  lng: 19.50823825\nprice: "US$50"\npriceFrom: 50\nstarRating: 4\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 100\nratings:\n  overall: 9.3\n  location: 8\n  cleanliness: 9.6\n  facilities: 9.3\n  value: 9.2\n  comfort: 9.6\n  staff: 9.5\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/90607494.jpg?k=1b52374d80245cf71278d35a8d39cf2302ecb6718d9c56590c37853e3c6a4251&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444028168.jpg?k=46f28323db0a15f1cabb04f8f4a826aefba671664c59b3192c21b4e1d7c9aa57&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/94530413.jpg?k=6ce32ddf9405f6c002d73177099821724ee51f3029dd92e405ef7c3809779d58&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/273739159.jpg?k=8258809c7f4139bc1561897be5717d4c14ed7ebdacabe0eab5a3d4943daf876a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443983586.jpg?k=7778f9ad00a6b506335a4c5f3b8e9e6ff6b5e1fa947d186391feb9e632a37414&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322505721.jpg?k=e8b8c3f22801eabcb4304f130a81bcb166b37bda0cc9703c9e01fd8ffc47eb12&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Superb breakfast"\nroomTypes:\n  - "Standard Twin Room"\n  - "Standard Double Room"\n  - "Superior Triple Room"\n  - "Superior Triple Room"\n  - "Suite with Garden View"\nnearbyRestaurants:\n  - "Cifligu Resort 800 m"\n  - "Bleon 2.1 km"\nnearbyBeaches:\n  - "Durres Beach 4.6 km"\n  - "Currila Beach 7 km"\n  - "Shkëmbi i Kavajës Beach 7 km"\n  - "Kallmi Beach 7 km"\n  - "West End Beach 8 km"\nwhatsNearby:\n  - "Bekimi 3.2 km"\n  - "Sotir Noka 6 km"\n  - "Sheshi Demokracia 6 km"\n  - "Wine Dhe Pooh 6 km"\n  - "Yje Dhe Hena 6 km"\n  - "Durres Amphiteatre 7 km"\n  - "1. Maj 7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 18 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Milorad"\n    country: "Serbia"\n    text: "“Breakfast at the request of the guest. Varied menu, delicious food.”"\n  - name: "G"\n    country: "Albania"\n    text: "“I recently stayed at the Delta Hotel in Durres and had an outstanding experience. Efficient and welcoming check-in by the front desk staff. Clean, comfortable room with a stunning view of the garden. Fantastic breakfast spread. Impeccable room...”"\n  - name: "Butuc"\n    country: "Moldova"\n    text: "“I recommend this hotel.
+Comfortable and clean.
+Very kind staff .
+Delicios breakfast.”"\nbookingURL: "https://www.booking.com/hotel/al/delta-amp-events.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nAccommodations at Hotel Delta are designed with the modern traveler in mind, featuring air-conditioned rooms equipped with flat-screen TVs and minibars for a touch of luxury. Select units elevate the experience further, offering seating areas where guests can unwind in privacy. The assurance of a private bathroom with a bidet in every room adds to the comfort and convenience.
 
 Beyond the rooms, Hotel Delta & Events excels in providing attentive services around the clock, thanks to its 24-hour front desk. The hotel also caters to a variety of events with its well-appointed banquet facilities. For families, the on-site playground is a delightful touch, ensuring that younger guests are entertained throughout their stay.
 
 Strategically located, the hotel offers easy access to notable attractions such as the Durrës Amphitheatre and Durrës Port, both situated 7 km away. For those traveling further afield, Tirana Airport is conveniently 27 km from the hotel, making arrivals and departures a breeze.
 
 Hotel Delta & Events stands as a testament to modern hospitality, where every stay promises comfort, convenience, and memorable moments for all guests.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

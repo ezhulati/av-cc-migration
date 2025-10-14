@@ -1,30 +1,9 @@
----
-title: Blue Apartment
-description: This property distinguishes itself with its commitment to a smoke-free environment, ensuring a clean and fresh stay for all guests. The convenience is further a
-featuredImage: "/images/accommodation/338776218.jpg"
-language: en
-slug: blue-apartment
-location: ""
-amenities: []
-images: []
----
-
-This property distinguishes itself with its commitment to a smoke-free environment, ensuring a clean and fresh stay for all guests. The convenience is further amplified by the inclusion of complimentary private parking and WiFi, catering to the needs of modern travelers.
+---\ntitle: "Blue Apartment"\ndescription: "Blue Apartment stands as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338776218.jpg?k=9c5d4bf75e738d7035a4c10ff9068c0e3c1f2dced00dba0fcdde9a555fe0025f&o=&hp=1"\nlanguage: en\nslug: blue-apartment\naddress: "Rruga Butrinti, 9702 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.85956324\n  lng: 20.0208106\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 16\nratings:\n  overall: 8.4\n  location: 8.6\n  cleanliness: 8.1\n  facilities: 8.4\n  value: 8.9\n  comfort: 8\n  staff: 8.1\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338776218.jpg?k=9c5d4bf75e738d7035a4c10ff9068c0e3c1f2dced00dba0fcdde9a555fe0025f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338776205.jpg?k=5789e8d04a6d4d4a4b128e84a5c37e625825f816662e250d0c7fbe7d20fa52d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338776236.jpg?k=0926dd5b6001f9c8bca78ab921776b25fb336830599749c788f8b6f157b56696&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338776237.jpg?k=8504eaad0fd5e7463f88f7a47ff89911b57741885f1f09e9a95b57f6195158a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338776231.jpg?k=21d094aa5df8c300d0dce43ebcd2b1e46a85a0ebdbf13e39931540693e31782f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338776254.jpg?k=cc25791d497294182393aff0a7d3dd10c618a3ffeb724f113cb2ec30e94313b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338776279.jpg?k=169c3a1e6a481f0be02d9dc600afc304ef1977d62ae9a593f729bdac4e49bb64&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338776259.jpg?k=fd2dfc0f383203f3ab1cd31b53b78d3eebe2a1f920beb80b4c224f0486a46540&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338776215.jpg?k=d0f3560fa9b9156eb5b389d55b8cf1b94675d8fce7dd5ff4e725febdd91718c0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338776018.jpg?k=95cfe3448dd9fb435d526d5ce28d472d67e74bcf25e5754a0bf625c3bb7f5274&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338776222.jpg?k=0e01cbbcd0568d1ab1fb94997ff8831bac0acb14ed5651de57c3e8dbfbc59df9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338776227.jpg?k=4274e4fd1d8c89e1b56ecf8cba03fc7cd90ee55d09baad19fb8105ef7d6742a1&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Free parking"\n  - "Family rooms"\n  - "Beachfront"\n  - "Private beach area"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Koral 20 m"\n  - "The Meat House Sarande 30 m"\nnearbyBeaches:\n  - "VIP Beach 100 m"\n  - "Santa Quaranta Beach 200 m"\n  - "Flamingo Beach 400 m"\n  - "Mango Beach 600 m"\n  - "Maestral Beach 850 m"\nwhatsNearby:\n  - "Parc National de Butrint 350 m"\n  - "Butrint National Park 1.1 km"\n  - "Plazhi I Krorezes 7 km"\n  - "Parku Kombetar I Butrintit 10 km"\n  - "Butrint National Park 11 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 70 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Anonymous"\n    country: "Albania"\n    text: "“The apartment was great!
+Clean, comfortable, good wifi, great location, amazing vew!
+We felt like home…”"\n  - name: "Rose"\n    country: "Spain"\n    text: "“The views from the apartment are spectacular. Parking space is essential in the area.”"\n  - name: "Ruslan"\n    country: "Moldova"\n    text: "“Good location. Beautiful view from the balcony. There is a beautiful beach within walking distance. Private underground parking.”"\nbookingURL: "https://www.booking.com/hotel/al/blue-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis property distinguishes itself with its commitment to a smoke-free environment, ensuring a clean and fresh stay for all guests. The convenience is further amplified by the inclusion of complimentary private parking and WiFi, catering to the needs of modern travelers.
 
 Accommodation at Blue Apartment is generously spacious, featuring two well-appointed bedrooms, a bathroom, and a living room designed for relaxation. The fully equipped kitchen, complete with a dining area and oven, invites guests to prepare and enjoy their meals with a view. While the apartment boasts city views, its proximity to the beach ensures that the allure of the sea is never far away.
 
 For those looking to explore beyond the immediate comforts of the apartment, Butrint National Park offers a natural escape just 14 km away, promising a day of adventure and exploration. Ancient Fanoti, located 48 km from the property, presents a historical journey for the culturally inclined traveler. Additionally, the convenience of Ioannina Airport, 96 km away, facilitates easy access for international and domestic visitors alike.
 
 Blue Apartment emerges as a top recommendation for those in search of a serene beachfront retreat in Sarandë, combining the comforts of home with the beauty of the Albanian coast.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

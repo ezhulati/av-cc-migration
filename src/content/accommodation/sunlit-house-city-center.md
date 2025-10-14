@@ -1,30 +1,7 @@
----
-title: SUNLIT HOUSE City Center
-description: "This modern apartment, situated less than 5 km from the Dajti Ekspres Cable Car and just under 2 km from the historical Former Residence of Enver Hoxh..."
-featuredImage: "/images/accommodation/297338311.jpg"
-language: en
-slug: sunlit-house-city-center
-location: ""
-amenities: []
-images: []
----
-
-This modern apartment, situated less than 5 km from the Dajti Ekspres Cable Car and just under 2 km from the historical Former Residence of Enver Hoxha, offers guests a serene retreat with its garden-view balcony. The space is thoughtfully designed with air conditioning to ensure a comfortable stay regardless of the weather. Guests will appreciate the convenience of free WiFi available throughout the property, allowing for easy planning of their city adventures or a simple connection to the outside world.
+---\ntitle: "SUNLIT HOUSE City Center"\ndescription: "SUNLIT HOUSE City Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/297338311.jpg?k=161e760c0194635c8510041171d0562428c9880f3ba4f1f1785a9639358c6c0e&o=&hp=1"\nlanguage: en\nslug: sunlit-house-city-center\naddress: "5 Rruga Mahmut Fortuzi, 1017 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3350133\n  lng: 19.8189339\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 5\nratings:\n  overall: 9.4\n  location: 10\n  cleanliness: 9.5\n  facilities: 9\n  value: 9.5\n  comfort: 9.5\n  staff: 9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/297338311.jpg?k=161e760c0194635c8510041171d0562428c9880f3ba4f1f1785a9639358c6c0e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/297338345.jpg?k=f5a7789cdaad2eb3891e85844737d0a963e087f35715d1950db02cc53c520963&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/297338354.jpg?k=719f92102eca1fdb60b8c90644b4afc362858b947f7481b3c9176e7575770bea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/297338324.jpg?k=2af2939c9ead3440d53069da43b1e5f80390e42a84884ee6b7490da17267e947&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/297338317.jpg?k=f45d7141c2469de5a5280979edff8d23350f55624fb0cd45abd0580a5618e5b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/297338325.jpg?k=fd1a7575442711c106b5651bc12ca4c5361f602c74ec081f32a355a6d855379f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/297338346.jpg?k=a071854fa6fe9402822b4f26524cbba35b4c95366c19ae5f14f13b06447832d7&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Parking"\n  - "Free WiFi"\nroomTypes:\n  - "Standard Apartment"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 1,000 m"\n  - "Tanners' Bridge 1.1 km"\n  - "Rinia Park 1.1 km"\n  - "Former Residence of Enver Hoxha 1.6 km"\n  - "Grand Park of Tirana 2.6 km"\n  - "Bunk'Art 1 Museum 3.9 km"\nnearbyRestaurants:\n  - "AC Longue 50 m"\n  - "Mneri 150 m"\nwhatsNearby:\n  - "Amazing Nature 200 m"\n  - "National Museum of History Albania 650 m"\n  - "Sheshi Paris 700 m"\n  - "Sheshi Skënderbej 750 m"\n  - "Sheshi Sulejman Pasha 750 m"\n  - "Skanderbeg Square 800 m"\n  - "Clock Tower Tirana 800 m"\n  - "Parku Europa 850 m"\n  - "House of Leaves 950 m"\n  - "Sheshi Rekreativ Mine Peza 950 m"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/sunlit-erisis-new-house-city-center.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis modern apartment, situated less than 5 km from the Dajti Ekspres Cable Car and just under 2 km from the historical Former Residence of Enver Hoxha, offers guests a serene retreat with its garden-view balcony. The space is thoughtfully designed with air conditioning to ensure a comfortable stay regardless of the weather. Guests will appreciate the convenience of free WiFi available throughout the property, allowing for easy planning of their city adventures or a simple connection to the outside world.
 
 The SUNLIT HOUSE City Center boasts a spacious layout that includes one bedroom, a bathroom, and a fully equipped kitchen, catering to the needs of both short and long-term visitors. The inclusion of bed linen, towels, and a flat-screen TV adds a touch of home comfort to the stay. Moreover, the property's commitment to a non-smoking environment ensures a fresh and welcoming atmosphere for all guests.
 
 Accessibility is also a highlight, with the property featuring a lift, making it suitable for guests of all mobility levels. For those arriving by air, the Tirana International Mother Teresa Airport is conveniently located just 13 km away, ensuring a hassle-free transition from air to accommodation.
 
 In summary, SUNLIT HOUSE City Center offers a compelling blend of location, comfort, and amenities, making it a top consideration for travelers looking to immerse themselves in the charm and history of Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

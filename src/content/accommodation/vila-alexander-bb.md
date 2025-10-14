@@ -4,9 +4,18 @@ description: Accommodations at Vila Alexander B&B are thoughtfully designed with
 featuredImage: "/images/accommodation/378616861.jpg"
 language: en
 slug: vila-alexander-bb
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Valbonë"
+amenities:
+  - "Air Conditioning"
+  - "Spa"
+  - "Breakfast"
+  - "Kitchen"
+  - "TV"
 ---
 
 Accommodations at Vila Alexander B&B are thoughtfully designed with guest comfort in mind. Select rooms boast the luxury of a private entrance, ensuring a secluded and intimate experience. These spaces are well-appointed with modern amenities including air conditioning, desks, and outdoor furniture for a touch of home. Entertainment and convenience are not overlooked, with satellite flat-screen TVs and fully equipped kitchens available in certain units, alongside private bathrooms complete with bidets and slippers. The attention to detail extends to the provision of crisp bed linen and soft towels in every room.
@@ -17,14 +26,3 @@ Families visiting Vila Alexander B&B will find thoughtful amenities such as outd
 
 Located 131 km from Pristina International Airport, Vila Alexander B&B offers a tranquil escape from the hustle and bustle, inviting guests into a world where nature's tranquility and hospitality converge to create unforgettable memories.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

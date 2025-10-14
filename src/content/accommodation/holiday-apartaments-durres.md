@@ -1,28 +1,5 @@
----
-title: Holiday Apartaments Durres
-description: The apartment itself is a testament to spacious living, featuring a well-appointed bedroom, a cozy living room for relaxation, a fully equipped kitchen for thos
-featuredImage: "/images/accommodation/472862641.jpg"
-language: en
-slug: holiday-apartaments-durres
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to spacious living, featuring a well-appointed bedroom, a cozy living room for relaxation, a fully equipped kitchen for those who love to cook, and a modern bathroom. Entertainment needs are catered to with a flat-screen TV, ensuring guests have a comfortable stay.
+---\ntitle: "Holiday Apartaments Durres"\ndescription: "Holiday Apartments Durres emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on their visit to Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472862641.jpg?k=fbb1b56800b8e8c658dc012813b11a3f3bdbdd8d1d3ef4b59225ee13a991fced&o=&hp=1"\nlanguage: en\nslug: holiday-apartaments-durres\naddress: "Rruga Bajram Curri, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30814525\n  lng: 19.49238307\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.1\nratingWords: "Good"\nnumberOfReviews: 2\nratings:\n  overall: 7.1\n  location: 6.3\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 7.5\n  comfort: 5\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472862641.jpg?k=fbb1b56800b8e8c658dc012813b11a3f3bdbdd8d1d3ef4b59225ee13a991fced&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/472638299.jpg?k=c0a61ccba6c1592a0971f5765e024738cb3c894828a1b145cfe00d7848122263&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/472638384.jpg?k=5847907e1e23e212b79edafab7f3b3c2cb0b4d6b2b1a56860375ed20bfdbb4c4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/472638391.jpg?k=aadd729c0901fd18eee31a9f5cf7f97fb82e231d545da52ce9876cf2ab4dbaae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/472638406.jpg?k=8cace48c583145b84df861c167b83c03bc575802bbd410683ceae288b3b9550d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/472638413.jpg?k=8d5d525e9440b9ce05e5922b478f9048f9c27b92ec9483e234fe61102bcc6062&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "ANTIGUA 150 m"\n  - "Bar Restorant Ke Daja Gatime Trradicionale 150 m"\nnearbyBeaches:\n  - "Durres Beach 350 m"\n  - "Shkëmbi i Kavajës Beach 2.8 km"\n  - "Currila Beach 3.8 km"\n  - "Kallmi Beach 5 km"\n  - "Golem Beach 5 km"\nwhatsNearby:\n  - "Bekimi 2.5 km"\n  - "Wine Dhe Pooh 3.7 km"\n  - "Sheshi Demokracia 3.8 km"\n  - "Yje Dhe Hena 3.9 km"\n  - "Durres Amphiteatre 4 km"\n  - "Sotir Noka 4.1 km"\n  - "1. Maj 4.2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\nbookingURL: "https://www.booking.com/hotel/al/kristi-home-2.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to spacious living, featuring a well-appointed bedroom, a cozy living room for relaxation, a fully equipped kitchen for those who love to cook, and a modern bathroom. Entertainment needs are catered to with a flat-screen TV, ensuring guests have a comfortable stay.
 
 Adding to the convenience, guests at Holiday Apartments Durres enjoy complimentary access to high-speed WiFi and the luxury of private parking at no extra cost. For those eager to explore the surroundings, the Rock of Kavaje is a short drive away at 5.8 km, offering a glimpse into the local landscape, while the historical Former Residence of Enver Hoxha is 38 km away, presenting an opportunity for a cultural excursion.
 
 Travelers will find the Tirana International Mother Teresa Airport conveniently located 32 km from the property, making arrivals and departures a breeze. Holiday Apartments Durres stands as a beacon for those in search of a serene beachfront retreat coupled with the ease of access to local attractions and amenities.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

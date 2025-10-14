@@ -1,28 +1,8 @@
----
-title: Hotel Adria
-description: "For those who appreciate the convenience of home-cooked meals while traveling, select rooms at Hotel Adria are equipped with a kitchen, complete with..."
-featuredImage: "/images/accommodation/488483256.jpg"
-language: en
-slug: hotel-adria
-location: ""
-amenities: []
-images: []
----
-
-For those who appreciate the convenience of home-cooked meals while traveling, select rooms at Hotel Adria are equipped with a kitchen, complete with a fridge, adding a touch of home comfort to the stay.
+---\ntitle: "Hotel Adria"\ndescription: "Hotel Adria emerges as a standout choice for travelers seeking a blend of comfort and convenience in Shëngjin."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488483256.jpg?k=8d7eda3fb8fa15ddbe6cfd7213234e3543f28c8fef7c28388d6d0faeeab296e1&o=&hp=1"\nlanguage: en\nslug: hotel-adria\naddress: "Bulevardi Nënë Tereza Kompleksi Adriatik, 4503 Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.80948524\n  lng: 19.59881948\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.6\nratingWords: "Very Good"\nnumberOfReviews: 45\nratings:\n  overall: 8.6\n  location: 9.2\n  cleanliness: 8.6\n  facilities: 8.4\n  value: 8.7\n  comfort: 8.9\n  staff: 8.8\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488483256.jpg?k=8d7eda3fb8fa15ddbe6cfd7213234e3543f28c8fef7c28388d6d0faeeab296e1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487604919.jpg?k=a8592c975df59ad16c335b4af151df5bd21bcf39bf8919deb11d27d5f76a8cff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487604303.jpg?k=359774aae3ecfdaf00fb8820594ba9686710150b0aa361b390f6b88b7f516e8a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487614019.jpg?k=c0b9c0a197c1b7f4f732fc965f0f078ff87dbded510de094f82ff3a8904747d1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487613931.jpg?k=e4143c3974c484d564dd4fb7ba916cd3e15dac4f03feebd88d08d63806135312&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487598108.jpg?k=911ba8c6b6d3ad901e74acd701294472ea7364e90ff5cdfc744b8186bf3522a0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487599176.jpg?k=46efa02926ed1dcb640caf436a4d3d59c398c5220f7cf8d4f5c82474048c4e9d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487603039.jpg?k=a0ae5d9a3fce8fadba8b98eebe46edcf2630c51d12f77718d5a2215cd46dbcec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487598503.jpg?k=07de9257e5bd24bd05dcc0ecc69d17843d5b029c590ee00acc51c50c904a7a9d&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "Facilities for disabled guests"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Pizza Bella Vita 40 m"\n  - "Kolonat Shengjin 150 m"\nnearbyBeaches:\n  - "Shëngjin Beach 150 m"\n  - "Ylberi Beach 1.1 km"\n  - "Rana e Hedhun Beach 2.9 km"\n  - "Laguna Park Beach 4.5 km"\n  - "Kune Beach 4.5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 43 km"\n  - "Podgorica Airport 66 km"\n  - "Tivat Airport 96 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Vjose"\n    country: "Kosovo"\n    text: "“Hotel is very close to the beach. The breakfast had many options and was fresh every day. The room was nice and clean. Also the staff was very friendly and helpful. Definitively would visit again.”"\n  - name: "Matthias"\n    country: "Germany"\n    text: "“Good Breakfast, Quiet, Big Room, Bed was comfortable.
+When i lost my phone the personal was really helpful.
+They also drove us to a beach that was some distance away.
+Had a great stay here !”"\n  - name: "Oliver"\n    country: "Germany"\n    text: "“Tolles Hotel am Strand. Alles Bestens. Wir kommen gerne wieder”"\nbookingURL: "https://www.booking.com/hotel/al/adria.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nFor those who appreciate the convenience of home-cooked meals while traveling, select rooms at Hotel Adria are equipped with a kitchen, complete with a fridge, adding a touch of home comfort to the stay.
 
 Strategically located, Hotel Adria is a mere 200 meters from the pristine sands of Shëngjin Beach, making it an ideal base for beach lovers. Ylberi Beach, known for its tranquil ambiance, is also within easy reach at just 1.3 km away. For guests arriving by air, Tirana International Mother Teresa Airport is 48 km from the hotel, ensuring a relatively smooth transition from air to relaxation.
 
 Hotel Adria stands out as a prime choice for those seeking a harmonious blend of accessibility to beautiful beaches, essential amenities, and dedicated service, promising a memorable stay in Shëngjin.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

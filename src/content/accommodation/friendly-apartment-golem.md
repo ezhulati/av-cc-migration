@@ -1,28 +1,5 @@
----
-title: Friendly Apartment Golem
-description: This inviting apartment is not just about its prime location; it offers guests a serene garden, the luxury of air conditioning, and the convenience of complimen
-featuredImage: "/images/accommodation/363125386.jpg"
-language: en
-slug: friendly-apartment-golem
-location: ""
-amenities: []
-images: []
----
-
-This inviting apartment is not just about its prime location; it offers guests a serene garden, the luxury of air conditioning, and the convenience of complimentary private parking and WiFi. For those who appreciate the tranquility of nature, the garden views presented here promise a refreshing backdrop to a leisurely stay.
+---\ntitle: "Friendly Apartment Golem"\ndescription: "Friendly Apartment Golem emerges as a charming retreat for travelers seeking the perfect blend of comfort and convenience in the heart of Golem."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363125386.jpg?k=e704472336b6deb1450b53cde9da1d9c2becb06dca6d3a577147351cfa3f34dc&o=&hp=1"\nlanguage: en\nslug: friendly-apartment-golem\naddress: "Rruga Kristal, 2054 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.25147573\n  lng: 19.52268358\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 4\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363125386.jpg?k=e704472336b6deb1450b53cde9da1d9c2becb06dca6d3a577147351cfa3f34dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363125372.jpg?k=2ba354a5c7f6f68e119922cef73d489ebdccdd4dca35f6e0b413229586aec4f5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363125359.jpg?k=e51d6ff1f6f0b7b31c754040cc6b7071aa92276c234aba516dcd706fe7ef4809&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363125377.jpg?k=6a40341a41de9353c48251fc6e032303939b8266126138cacd23b2d412a016fd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363125375.jpg?k=ac5ae7dd9105b517298676510d37d2ccf42b487663713a948cf540a9161fe5ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438804382.jpg?k=e19c44309f262d7c6fee800de26f01de46dbc935d821a1bcead9ac3746425bad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363125362.jpg?k=a9b3ec08089e5cc15a65ebe78d496eef8432d210f6da7077e07556ea76f1e9cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363125379.jpg?k=8477fa94dbbff82e955a012aee5c4b2e9037dbf40dedd2854421ff72b1404bb6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363125358.jpg?k=3e5223ac59ad405679fd759254a4b0aee7a8fcdd450a4c13e0bd84a87b09c2cc&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Kleant 150 m"\n  - "al&Ri 150 m"\nwhatsNearby:\n  - "Bekimi 9 km"\n  - "Durres Amphiteatre 9 km"\n  - "Wine Dhe Pooh 9 km"\n  - "1. Maj 10 km"\n  - "Yje Dhe Hena 10 km"\n  - "Sheshi Demokracia 10 km"\n  - "Sotir Noka 10 km"\nairports:\n  - "Tirana International Airport Mother Teresa 23 km"\nreviews:\n  - name: "Maria"\n    country: "Poland"\n    text: "“Apartament blisko plaży, gospodarz Endri bardzo pomocny we wszystkim, lokalizacja idealna do zwiedzania i plażowania.”"\n  - name: "Żorżeta"\n    country: "Poland"\n    text: "“Lokalizacja doskonała .Blisko plaża ,sklepy ,restauracje, ale jednocześnie nie przy głównej ulicy co zapewniało ciszę w nocy .”"\n  - name: "Siniša"\n    country: "Serbia"\n    text: "“Bili smo izuzetno zadovoljni smeštajem,sve po dogovoru,odlična komunikacija sa ljubaznim domaćinom.”"\nbookingURL: "https://www.booking.com/hotel/al/appartment-freskia-golem.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis inviting apartment is not just about its prime location; it offers guests a serene garden, the luxury of air conditioning, and the convenience of complimentary private parking and WiFi. For those who appreciate the tranquility of nature, the garden views presented here promise a refreshing backdrop to a leisurely stay.
 
 Accommodation at Friendly Apartment Golem includes a cozy 1-bedroom setup, complemented by a living room equipped with a flat-screen TV boasting cable channels, a fully equipped kitchen for those who love to cook, and a bathroom adorned with plush bathrobes, adding a touch of home-like comfort to the bathing experience.
 
 Beyond the confines of this delightful apartment, guests will find the Rock of Kavaje, a notable landmark, just 5 km away, while history enthusiasts can explore the Former Residence of Enver Hoxha, located 47 km from the property. For ease of travel, Tirana International Mother Teresa Airport is conveniently 41 km away, making Friendly Apartment Golem an ideal choice for both short getaways and extended stays in the enchanting city of Golem.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

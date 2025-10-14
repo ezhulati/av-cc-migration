@@ -4,9 +4,17 @@ description: Accommodations at Vila F&M Ksamil are thoughtfully designed to cate
 featuredImage: "/images/accommodation/383400747.jpg"
 language: en
 slug: vila-fm-ksamil
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Ksamil"
+amenities:
+  - "Air Conditioning"
+  - "Spa"
+  - "Kitchen"
+  - "TV"
 ---
 
 Accommodations at Vila F&M Ksamil are thoughtfully designed to cater to the needs of families and groups alike, with select units boasting fully equipped kitchens for those who enjoy the comforts of home-cooked meals. Each room is a haven of comfort, featuring air conditioning, a flat-screen TV for entertainment, and a private bathroom with a walk-in shower, promising a refreshing start to each day. The added convenience of a desk in every unit makes it an ideal choice for guests who may need to attend to work or personal matters during their stay.
@@ -17,14 +25,3 @@ Strategically located, Vila F&M Ksamil is within walking distance of not only Ks
 
 Vila F&M Ksamil stands as a testament to the charm and hospitality of Ksamil, offering a memorable stay for those who seek comfort, convenience, and a touch of nature during their travels.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,26 +1,6 @@
----
-title: Vila AMA Kruje
-description: Guests are treated to well-appointed accommodations, each featuring a private bathroom with a walk-in shower and complimentary slippers, ensuring a touch of lux
-featuredImage: "/images/accommodation/478411286.jpg"
-language: en
-slug: vila-ama-kruje
-location: ""
-amenities: []
-images: []
----
-
-Guests are treated to well-appointed accommodations, each featuring a private bathroom with a walk-in shower and complimentary slippers, ensuring a touch of luxury and privacy. The presence of a flat-screen TV and air conditioning in every room adds a layer of comfort, while select rooms boast terraces, offering expansive views and a chance to immerse oneself in the peaceful surroundings. The commitment to guest comfort is further evidenced by the provision of quality bed linen and towels in all units.
+---\ntitle: "Vila AMA Kruje"\ndescription: "Vila AMA Kruje emerges as a serene retreat in the heart of Krujë, a mere 31 km from the bustling Skanderbeg Square."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478411286.jpg?k=2edd449152b8c327b1071e57722d8886917644faf19d3ede53487055709af03c&o=&hp=1"\nlanguage: en\nslug: vila-ama-kruje\naddress: "Rruga Bakias KRUJE, 1500 Krujë, Albania"\ncity: "Krujë"\nlocation: "Krujë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.51641062\n  lng: 19.78870748\nprice: "US$51"\npriceFrom: 51\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 252\nratings:\n  overall: 9.1\n  location: 8.6\n  cleanliness: 9.5\n  facilities: 9.1\n  value: 9.2\n  comfort: 9.4\n  staff: 9.3\n  wifi: 8.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478411286.jpg?k=2edd449152b8c327b1071e57722d8886917644faf19d3ede53487055709af03c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482800763.jpg?k=03f826207b6841b92255402df2bb85455b947e63f931ec72f65b6b7ff31be828&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/130326189.jpg?k=ff0e67a1ebc3e591da0bb26cee53dd4655a4f7349a3bf52d21ed9819ec3b85c0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216848909.jpg?k=574919ce7fcdc566da31927fdc8e0e9e56ce13f3cb467d2718de49c3f6a7cf49&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483298688.jpg?k=bb4defc39e43e80527a95a80492399d13b32b33ed9175f5e0e1dfa36a073d6dd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/130328618.jpg?k=a782f41bebb1dcb17e7c455329bf884edb46406a14136f28df34277ecfefd5ba&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fast free WiFi (100 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "Standard Triple Room"\n  - "Classic Quadruple Room"\n  - "Standard Triple Room"\n  - "Family Room"\n  - "Family Room with Balcony"\nnearbyRestaurants:\n  - "Garden 200 m"\n  - "Pamja e Qyteteve 400 m"\nwhatsNearby:\n  - "Dajti Mountain National Park 3.2 km"\n  - "Sheshi Rekreativ Allias 19 km"\n  - "Bunk'Art 1 Museum 20 km"\n  - "Sheshi Rekreativ Lord Bajron 20 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 88 km"\nreviews:\n  - name: "Fitore"\n    country: "United Kingdom"\n    text: "“Property was beautiful, very spacious, very clean, rooms good size, good location! Besnik the owner was easy to be in contact. The view from the house was amazing. The workers Mr & Mrs Saba were wonderful we had a great chat with them great...”"\n  - name: "James"\n    country: "United Kingdom"\n    text: "“Really friendly. Good safe place for bikes behind house. Quiet.”"\n  - name: "Marc"\n    country: "Germany"\n    text: "“- Really cute hosts
+- super super clean
+- great common kitchen
+- Good spacious parking - comfortable beds”"\nbookingURL: "https://www.booking.com/hotel/al/vila-ama.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nGuests are treated to well-appointed accommodations, each featuring a private bathroom with a walk-in shower and complimentary slippers, ensuring a touch of luxury and privacy. The presence of a flat-screen TV and air conditioning in every room adds a layer of comfort, while select rooms boast terraces, offering expansive views and a chance to immerse oneself in the peaceful surroundings. The commitment to guest comfort is further evidenced by the provision of quality bed linen and towels in all units.
 
 Located 49 km from the Rock of Kavaje and 31 km from the House of Leaves, Vila AMA Kruje serves as a gateway to the region's notable attractions. For those traveling by air, the convenience of being just 18 km from Tirana International Mother Teresa Airport makes it an accessible choice for both domestic and international travelers. With its combination of free WiFi, private parking, and family-friendly rooms, this bed and breakfast stands out as a premier choice for those seeking a blend of exploration and relaxation in Krujë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

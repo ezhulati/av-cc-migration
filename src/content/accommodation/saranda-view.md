@@ -1,28 +1,5 @@
----
-title: Saranda View
-description: This generously sized apartment boasts a well-appointed bedroom, a cozy living room for relaxation, a fully equipped kitchen for those who love to cook, and a m
-featuredImage: "/images/accommodation/483452951.jpg"
-language: en
-slug: saranda-view
-location: ""
-amenities: []
-images: []
----
-
-This generously sized apartment boasts a well-appointed bedroom, a cozy living room for relaxation, a fully equipped kitchen for those who love to cook, and a modern bathroom. Entertainment needs are catered to with the inclusion of a flat-screen TV, ensuring guests have all the comforts of home at their fingertips. The entire space is a smoke-free environment, ensuring a clean and healthy stay for all guests.
+---\ntitle: "Saranda View"\ndescription: "Saranda View emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483452951.jpg?k=5d756994b9ab0e2bdca922e0264f30c401486aff3a7d66eabaceb3935ec4ae34&o=&hp=1"\nlanguage: en\nslug: saranda-view\naddress: "Saranda, AL - Corfu, GR, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87422852\n  lng: 20.01406388\nprice: "US$108"\npriceFrom: 108\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483452951.jpg?k=5d756994b9ab0e2bdca922e0264f30c401486aff3a7d66eabaceb3935ec4ae34&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483452987.jpg?k=42a16dcde262401933f23485b6581d70763e9a3cdb8f281dacd514107d93f15c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483453109.jpg?k=afbac4ac18f15846868ba832184285ddb447e5aa70b998b3f1e71b317ba9984d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483452980.jpg?k=54d7a157573c7ccc68ebb468790047deb7f5b72ad05f3fdc48debe8bec6c0c0d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483453062.jpg?k=e2658b5fcaa3cbc8827ccb836c205d6e83c5128345bce1bdee641637e6281d03&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483453047.jpg?k=7e5d05b2d0f09af702e4cc4213e281ca4dfb92e985fe141b4c624566c06b6a52&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483453101.jpg?k=4db541ece8b75c1fda0a0aa46fcc34b5e8d3347d6f41f98127578efb27dfea6b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483452993.jpg?k=196202aa8cea6aed0fe76f36a01fa37755fe37e260d0279c351222fd7f718a76&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483452975.jpg?k=771de138d98636f19cd25647339b778f21b51297add890f9b56e9a79f9f76e11&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "La Brasseria da Franco 150 m"\n  - "TUNELI RESTAURANT 150 m"\nnearbyBeaches:\n  - "Saranda City Beach 150 m"\n  - "La Petite Beach 650 m"\n  - "Maestral Beach 800 m"\n  - "Sarande Main Beach 1.1 km"\n  - "VIP Beach 1.8 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.9 km"\n  - "Butrint National Park 2.8 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nbookingURL: "https://www.booking.com/hotel/al/saranda-view-sarande2.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis generously sized apartment boasts a well-appointed bedroom, a cozy living room for relaxation, a fully equipped kitchen for those who love to cook, and a modern bathroom. Entertainment needs are catered to with the inclusion of a flat-screen TV, ensuring guests have all the comforts of home at their fingertips. The entire space is a smoke-free environment, ensuring a clean and healthy stay for all guests.
 
 Connectivity is never an issue, as free WiFi blankets the property, allowing visitors to stay connected with the world or plan their next day's adventures without hassle. For those looking to explore beyond the city's borders, Butrint National Park offers a natural escape just 16 km away, promising a day of exploration and discovery in one of Albania's most treasured landscapes.
 
 Accessibility is also a highlight, with Ioannina Airport located 96 km away, making Saranda View an accessible retreat for international and domestic travelers alike. Whether it's the allure of the nearby beaches or the comfort and convenience of the apartment itself, Saranda View stands as a testament to the beauty and hospitality of Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

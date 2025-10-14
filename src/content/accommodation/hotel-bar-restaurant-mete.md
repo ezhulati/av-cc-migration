@@ -1,26 +1,3 @@
----
-title: Hotel Bar Restaurant Mete
-description: Strategically positioned, the hotel is a mere 12 km away from the historic Kuzum Baba, making it an ideal base for guests keen on exploring the local culture an
-featuredImage: "/images/accommodation/442066754.jpg"
-language: en
-slug: hotel-bar-restaurant-mete
-location: ""
-amenities: []
-images: []
----
-
-Strategically positioned, the hotel is a mere 12 km away from the historic Kuzum Baba, making it an ideal base for guests keen on exploring the local culture and landmarks. Additionally, Independence Square is just 13 km away, offering further insight into the area's rich heritage.
+---\ntitle: "Hotel Bar Restaurant Mete"\ndescription: "Hotel Bar Restaurant Mete emerges as a charming retreat in Peshkëpi, offering guests a harmonious blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442066754.jpg?k=e6db7fe2e1d5baaf947ee983894759e40d1d3f303fba687c365ccb3e3678cd5b&o=&hp=1"\nlanguage: en\nslug: hotel-bar-restaurant-mete\naddress: "Peshkepi Vlore, Albania Piano terra, edificio a 3 piani, 9401 Peshkëpi, Albania"\ncity: "Peshkëpi"\nlocation: "Peshkëpi"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.47351489\n  lng: 19.58476261\nprice: "US$14"\npriceFrom: 14\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 30\nratings:\n  overall: 9\n  location: 8.4\n  cleanliness: 9.1\n  facilities: 8\n  value: 9.1\n  comfort: 8.9\n  staff: 9.5\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442066754.jpg?k=e6db7fe2e1d5baaf947ee983894759e40d1d3f303fba687c365ccb3e3678cd5b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517656922.jpg?k=5ea3f3ac6b95fe0e703a9299fa18915e75657006e459cbbf70b8efc2c493f42a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506013089.jpg?k=882f354c2ba833cdd9efe9e1e928280c9a4bf67c7e28c73d3baef4bfd3af521a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451044134.jpg?k=ebc5adf88b760b6fb6142078e9e33326f5e5cd71faefb2100e788c608066711b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517660625.jpg?k=d8957e51cccf01c55ff755cdc2cda662721f67436202f34ca42844eada758d1a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526956069.jpg?k=1ed08d7869bc2e229cb8bc8a650cb7b01ad2bd95c39919a87822cfed7f5d45e3&o=&hp=1"\namenities:\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Standard Family Room"\n  - "Budget Double or Twin Room"\n  - "Deluxe Family Room"\n  - "Deluxe Suite"\n  - "Budget Double or Twin Room"\nnearbyRestaurants:\n  - "Jetish Gjakova 8 km"\n  - "Taverna Azzurro Vlore 8 km"\nnearbyBeaches:\n  - "Vlore Beach 8 km"\n  - "Ri Beach 9 km"\n  - "Vjetër Beach 9 km"\nwhatsNearby:\n  - "Kuzum Baba 8 km"\n  - "Independence Square 8 km"\n  - "Scooby Doo Vlore 9 km"\nreviews:\n  - name: "Eemeli"\n    country: "Finland"\n    text: "“Excellent value for money; great öocation if you travel by car”"\n  - name: "Nicky"\n    country: "United Kingdom"\n    text: "“Good size room, very clean and comfortable and great value. Staff prepared vegetarian meal for us in the evening.”"\n  - name: "Rafael"\n    country: "Netherlands"\n    text: "“The Mete family showed us unparalleled hospitality.”"\nbookingURL: "https://www.booking.com/hotel/al/bar-restaurant-mete.en-gb.html?aid=8035640"\nbestFor: "Best Value for Money"\nbestCategories: "Best Value for Money"\ncategory: "Best Value for Money"\n---\n\nStrategically positioned, the hotel is a mere 12 km away from the historic Kuzum Baba, making it an ideal base for guests keen on exploring the local culture and landmarks. Additionally, Independence Square is just 13 km away, offering further insight into the area's rich heritage.
 
 For those traveling from afar, the Tirana International Mother Teresa Airport is located 160 km from the property, ensuring that arrivals and departures are as smooth as possible. Hotel Bar Restaurant Mete prides itself on exceptional guest services, including room service, a 24-hour front desk, and currency exchange facilities, ensuring a hassle-free and enjoyable stay for all visitors.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

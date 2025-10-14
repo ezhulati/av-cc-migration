@@ -4,9 +4,18 @@ description: This apartment doesn't just offer a place to stay; it provides a ho
 featuredImage: "/images/accommodation/437726757.jpg"
 language: en
 slug: neris-apartment
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Spa"
+  - "Kitchen"
+  - "Balcony"
+  - "TV"
 ---
 
 This apartment doesn't just offer a place to stay; it provides a home away from home. Guests are treated to a generously sized living space that boasts a balcony for those serene morning coffees or tranquil evening reflections. The layout includes two cozy bedrooms, a living area designed for relaxation, and a kitchen that comes fully equipped with modern appliances, including a dishwasher, ensuring that every need is met with ease.
@@ -17,14 +26,3 @@ For those looking to explore beyond the city's confines, the Rock of Kavaje pres
 
 Neri's Apartment stands as a testament to thoughtful accommodation that prioritizes guest comfort and convenience, making it a highly recommended stay for anyone visiting Tirana.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

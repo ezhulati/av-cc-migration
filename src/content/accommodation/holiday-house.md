@@ -1,28 +1,5 @@
----
-title: Holiday House
-description: Strategically positioned, Holiday House is a mere stone's throw away from some of the region's most notable landmarks. It is situated 40 km from the historic Sk
-featuredImage: "/images/accommodation/477003925.jpg"
-language: en
-slug: holiday-house
-location: ""
-amenities: []
-images: []
----
-
-Strategically positioned, Holiday House is a mere stone's throw away from some of the region's most notable landmarks. It is situated 40 km from the historic Skanderbeg Square, 44 km from the scenic views of the Dajti Ekspres Cable Car, and a short 33 km journey from the natural beauty of the Rock of Kavaje. Additionally, the intriguing Former Residence of Enver Hoxha and the ancient Durres Amphitheatre are within easy reach, located 41 km and 28 km away, respectively.
+---\ntitle: "Holiday House"\ndescription: "Holiday House presents a serene retreat in the heart of Durrës, Durres County, offering guests a blend of comfort and convenience with its prime location close to Lalëz Bay Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477003925.jpg?k=f8cedc25ab65a714bb133c675b43e52d589175272d2d119b1081c0fda7609f68&o=&hp=1"\nlanguage: en\nslug: holiday-house\naddress: "Hamallaj, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.48654591\n  lng: 19.52123311\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477003925.jpg?k=f8cedc25ab65a714bb133c675b43e52d589175272d2d119b1081c0fda7609f68&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Bedouin 1.2 km"\n  - "Oasis Bar 2.2 km"\nnearbyBeaches:\n  - "Lalëz Bay Beach 900 m"\nwhatsNearby:\n  - "Bekimi 18 km"\n  - "Sotir Noka 19 km"\n  - "Sheshi Demokracia 20 km"\n  - "Yje Dhe Hena 20 km"\n  - "Wine Dhe Pooh 20 km"\nairports:\n  - "Tirana International Airport Mother Teresa 17 km"\nbookingURL: "https://www.booking.com/hotel/al/shtepi-pushimi-jahelezi.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nStrategically positioned, Holiday House is a mere stone's throw away from some of the region's most notable landmarks. It is situated 40 km from the historic Skanderbeg Square, 44 km from the scenic views of the Dajti Ekspres Cable Car, and a short 33 km journey from the natural beauty of the Rock of Kavaje. Additionally, the intriguing Former Residence of Enver Hoxha and the ancient Durres Amphitheatre are within easy reach, located 41 km and 28 km away, respectively.
 
 The holiday home itself is a testament to thoughtful accommodation, featuring a single bedroom complemented by a fully equipped kitchen and a bathroom designed for comfort. Entertainment is readily available through the inclusion of a flat-screen TV, and guests are treated to delightful garden views, adding a touch of tranquility to their stay.
 
 For those keen on exploring further, the House of Leaves and the National Museum of History Albania are both 40 km from the property, offering a glimpse into Albania's rich cultural heritage. Convenience is further enhanced by the proximity to Tirana International Mother Teresa Airport, just 32 km away, making Holiday House an ideal choice for travelers seeking a blend of relaxation and exploration in Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,7 @@
----
-title: Meti Guest House
-description: "The accommodations at Meti Guest House are thoughtfully equipped with essential amenities to enhance guest comfort."
-featuredImage: "/images/accommodation/397063978.jpg"
-language: en
-slug: meti-guest-house
-location: ""
-amenities: []
-images: []
----
-
-The accommodations at Meti Guest House are thoughtfully equipped with essential amenities to enhance guest comfort. Every unit features a wardrobe and a shared bathroom complete with a bidet, slippers, a hairdryer, and complimentary toiletries, ensuring a home-away-from-home experience. Additionally, the convenience of an oven in each unit adds a touch of homeliness to the guest experience.
+---\ntitle: "Meti Guest House"\ndescription: "Meti Guest House emerges as a serene retreat, situated a mere 31 km from the bustling Skanderbeg Square, offering guests a unique blend of comfort and natural beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397063978.jpg?k=40226ad0aabe20699af2517f6470d650f42b71fe58cd2cce7ac31f387e7b038f&o=&hp=1"\nlanguage: en\nslug: meti-guest-house\naddress: "Rruga Lek Dukagjini, 1501 Krujë, Albania"\ncity: "Krujë"\nlocation: "Krujë"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 41.51574715\n  lng: 19.78825309\nprice: "US$23"\npriceFrom: 23\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 179\nratings:\n  overall: 9.3\n  location: 8.8\n  cleanliness: 9.5\n  facilities: 8.8\n  value: 9.3\n  comfort: 9.3\n  staff: 9.6\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397063978.jpg?k=40226ad0aabe20699af2517f6470d650f42b71fe58cd2cce7ac31f387e7b038f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506736070.jpg?k=cca3c554c61a9de8459f64bd763288a0a80e09e448bd5361f3cd5211f199b3a2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468903477.jpg?k=d6c16de147de2c89d5f6fb0cd0a8f3feb4de892e541babaa4255cfe6438a46f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506610598.jpg?k=dda43388739fb87ab08fb4b1368059a060c286b3339f8fb7988d27a5f3b50783&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506736538.jpg?k=cd93cacedc92d18614f5cea70b53a85f2d194cdc2d974cb9ef740267b6234fb7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506610600.jpg?k=11454c0959286e00d5636ff0c8f279a441056f611dd7e04781710b6e01f3aebf&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Economy Quadruple Room"\n  - "Double Room"\nnearbyRestaurants:\n  - "Chocolate Bar 200 m"\n  - "Pamja e Qyteteve 450 m"\nwhatsNearby:\n  - "Dajti Mountain National Park 3.2 km"\n  - "Sheshi Rekreativ Allias 19 km"\n  - "Bunk'Art 1 Museum 19 km"\n  - "Sheshi Rekreativ Lord Bajron 20 km"\n  - "Sheshi Rekreativ Don Bosko 20 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 88 km"\nreviews:\n  - name: "Jeasmon"\n    country: "United Kingdom"\n    text: "“Very welcoming , rooms where very clean , well served breakfast”"\n  - name: "Katrina"\n    country: "Belarus"\n    text: "“Very cozy house with very spacious and clean room, kitchen and bathrooms. Cool location,not far from the Kruje castle. Maja is tiny cute kitten 🐈 in the yard, made my stay even better. Good view, terrace. Hostess is very kind and nice woman. Love...”"\n  - name: "Richard"\n    country: "United Kingdom"\n    text: "“Amazing location, beautiful view from the balcony. Wonderful host. Exceptionally clean. Very comfy bed. Great breakfast. I would definitely book again”"\nbookingURL: "https://www.booking.com/hotel/al/meti-guest-house.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe accommodations at Meti Guest House are thoughtfully equipped with essential amenities to enhance guest comfort. Every unit features a wardrobe and a shared bathroom complete with a bidet, slippers, a hairdryer, and complimentary toiletries, ensuring a home-away-from-home experience. Additionally, the convenience of an oven in each unit adds a touch of homeliness to the guest experience.
 
 For those seeking leisure within the premises, the guest house offers a cozy coffee shop and bar, perfect for relaxing afternoons or evenings. Moreover, Meti Guest House facilitates exploration and adventure by providing a car rental service, allowing guests to discover the surrounding areas at their own pace.
 
 Strategically located, the guest house is a stone's throw away from significant landmarks, including the Former Residence of Enver Hoxha, 32 km away, and the Rock of Kavaje, 49 km distant. For guests arriving by air, the Tirana International Mother Teresa Airport is conveniently 18 km away, with the guest house offering a paid airport shuttle service for ease of travel.
 
 Meti Guest House stands out as an ideal choice for travelers seeking a blend of tranquility, convenience, and a touch of adventure during their stay.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

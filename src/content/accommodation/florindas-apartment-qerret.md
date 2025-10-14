@@ -1,32 +1,9 @@
----
-title: Florindas Apartment Qerret
-description: "The apartment distinguishes itself with its commitment to a smoke-free environment, ensuring a fresh and clean atmosphere for all guests."
-featuredImage: "/images/accommodation/f69a0f45af414641ac0371c1f139c49637969c6c.png"
-language: en
-slug: florindas-apartment-qerret
-location: ""
-amenities: []
-images: []
----
-
-The apartment distinguishes itself with its commitment to a smoke-free environment, ensuring a fresh and clean atmosphere for all guests. Its prime location is complemented by the convenience of free WiFi access, allowing guests to stay connected with the world or plan their next adventure in the area.
+---\ntitle: "Florindas Apartment Qerret"\ndescription: "Florindas Apartment Qerret emerges as a charming choice for travelers seeking a serene beachfront escape in Golem."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"\nlanguage: en\nslug: florindas-apartment-qerret\naddress: "Rruga Qerret Plazh, 2405 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.21939362\n  lng: 19.50713058\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.8\nratingWords: "Good"\nnumberOfReviews: 3\nratings:\n  overall: 7.8\n  location: 9.2\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 6.7\n  comfort: 7.5\n  staff: 8.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"\n  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308566048.jpg?k=8471b11a9f226c4961410fea9046f8014af8e3cb09e770580f2153b4ed295333&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/308566053.jpg?k=0f5a8ae5b183618991ac654d8c4b0f2f57b7d236c57217589ad6fe310a79f37f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/308566023.jpg?k=7247ad8eeef3042ec1c9cddbd3df493db0eacab2dc28e6577577156a81613aeb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/308566058.jpg?k=30823d5cd7fc34f92fb09bb3d6a27d3bcb2e515b22804db96040bb877b6f4c54&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/308566051.jpg?k=2d3bb743b20253f691a9a538362bc0ed011703320b586104520d887c510a2d51&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/308566055.jpg?k=88e6857cd0c9aaf347acce31c2e0c5f32dda5958f4cfb2ba44ed1b3668daaecf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/308566065.jpg?k=8cd72b146b45c78b7224dc14d6e4aa2facdc5a3f1895a76263ba5f4b50a96858&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Panorama by Supreme Hotel & Spa 50 m"\n  - "Piceri Cegrani 200 m"\nnearbyBeaches:\n  - "Qerret Beach 50 m"\n  - "Mali I Robit Beach 1.3 km"\n  - "Golem Beach 3.3 km"\n  - "Shkëmbi i Kavajës Beach 5 km"\n  - "Durres Beach 7 km"\nwhatsNearby:\n  - "Durres Amphiteatre 12 km"\n  - "1. Maj 12 km"\n  - "Wine Dhe Pooh 12 km"\n  - "Yje Dhe Hena 12 km"\n  - "Sheshi Demokracia 12 km"\n  - "Bekimi 12 km"\n  - "Sotir Noka 12 km"\n  - "Divjake-Karavasta National Park 18 km"\nairports:\n  - "Tirana International Airport Mother Teresa 27 km"\nreviews:\n  - name: "Jens"\n    country: "Germany"\n    text: "“Location is perfect only 10 meters from the beach. The apartment is very clean inside and very nicely furnished. Very good hospitality, The area near the building is very good and with all facilities ,bar, restaurant, market.”"\nbookingURL: "https://www.booking.com/hotel/al/florindas-apartment-qerret.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment distinguishes itself with its commitment to a smoke-free environment, ensuring a fresh and clean atmosphere for all guests. Its prime location is complemented by the convenience of free WiFi access, allowing guests to stay connected with the world or plan their next adventure in the area. 
 
 Accommodation at Florindas Apartment Qerret is thoughtfully designed with comfort and convenience in mind. The air-conditioned space boasts a cozy bedroom, a living room that invites relaxation, and a dining area perfect for enjoying meals. The fully equipped kitchen, complete with a refrigerator, offers guests the freedom to prepare their own meals, adding a touch of home. The inclusion of a cable flat-screen TV ensures entertainment options are never far away. For those valuing their privacy, the apartment's private entrance is a welcome feature.
 
-For essentials or quick snacks, the on-site minimarket provides a hassle-free solution, adding to the apartment's appeal for an effortless stay.
+For essentials or quick snacks, the on-site minimarket provides a hassle-free solution, adding to the apartment's appeal for an effortless stay. 
 
 Explorers eager to delve into the local culture will find the Rock of Kavaje, located 8.2 km away, an intriguing visit, while history enthusiasts will appreciate the proximity to the Former Residence of Enver Hoxha, 50 km from the apartment. For guests arriving by air, the Tirana International Mother Teresa Airport is conveniently 44 km away, making Florindas Apartment Qerret an accessible haven for both short and extended stays.
 
 In summary, Florindas Apartment Qerret stands out as a delightful retreat for those looking to enjoy the beauty of Golem's beaches, offering a blend of comfort, convenience, and serene views.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

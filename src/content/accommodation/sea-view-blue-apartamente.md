@@ -1,28 +1,5 @@
----
-title: Sea View Blue Apartamente
-description: A mere 1.4 km from the inviting sands of Golem Beach and within a reasonable distance from notable landmarks such as Skanderbeg Square and the Dajti Ekspres Cab
-featuredImage: "/images/accommodation/475590964.jpg"
-language: en
-slug: sea-view-blue-apartamente
-location: ""
-amenities: []
-images: []
----
-
-A mere 1.4 km from the inviting sands of Golem Beach and within a reasonable distance from notable landmarks such as Skanderbeg Square and the Dajti Ekspres Cable Car, the apartment's location is unbeatable for explorers eager to uncover the rich tapestry of the area. The historic Durres Amphitheatre and the intriguing House of Leaves museum are also accessible, adding a dash of culture to your beach getaway.
+---\ntitle: "Sea View Blue Apartamente"\ndescription: "Sea View Blue Apartamente emerges as a prime choice for travelers seeking comfort and convenience in Durrës, located just a stone's throw away from the serene Shkëmbi i Kavajës Beach and within easy reach of Durres Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475590964.jpg?k=6fb2b1587723a9882b5bf305cf97d31e80b06008be9e0ebf13d8aa06b66254bf&o=&hp=1"\nlanguage: en\nslug: sea-view-blue-apartamente\naddress: "Rruga Iliria, 2021 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.27636907\n  lng: 19.51556531\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 3\nratings:\n  overall: 8.2\n  location: 10\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 9.2\n  comfort: 7.5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475590964.jpg?k=6fb2b1587723a9882b5bf305cf97d31e80b06008be9e0ebf13d8aa06b66254bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482726296.jpg?k=f1bdd0a0888b8405e6bf3c14c0cbe5c627aca54a8ac4bf083798a4ac19233cb3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475590998.jpg?k=c03b7344b80d529923eacfba4f1940c2456bb240a01c9052fda7f93dbe4aaf93&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475590849.jpg?k=75496125a5a02ac746920365992d2e47504c2e493c826e5b2377e03c6acf243d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475590972.jpg?k=91575a0b2ae2e881be57411e8a585bc74aeedecdc1878e05741ed69c7dd562d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475590979.jpg?k=5dd58733b221e7360ec0811b3a08b1c234bda5dfd3c4ee2730f9b4e08c79c9ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482726104.jpg?k=b4594952eeafb99c19978753e6e2ee44916f28a0bff6ae685dbc4c70cc9e64d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482726470.jpg?k=6b218af815f4a83919ad8ab60b06885de128e11e8eee6533e06cb6db4bc987d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482725988.jpg?k=a3f726bbea1c36c033a4d6d91e8b1252bbbb7a3e9a69c07150fde920d27741be&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Private beach area"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Restorant Orkide 50 m"\n  - "Restorant Lala 150 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 40 m"\n  - "Durres Beach 1.2 km"\n  - "Golem Beach 1.2 km"\n  - "Mali I Robit Beach 3.2 km"\n  - "Qerret Beach 5 km"\nwhatsNearby:\n  - "Bekimi 7 km"\n  - "Wine Dhe Pooh 7 km"\n  - "Durres Amphiteatre 7 km"\n  - "Yje Dhe Hena 7 km"\n  - "Sheshi Demokracia 7 km"\n  - "1. Maj 7 km"\n  - "Sotir Noka 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/sea-view-blue-apartamente.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nA mere 1.4 km from the inviting sands of Golem Beach and within a reasonable distance from notable landmarks such as Skanderbeg Square and the Dajti Ekspres Cable Car, the apartment's location is unbeatable for explorers eager to uncover the rich tapestry of the area. The historic Durres Amphitheatre and the intriguing House of Leaves museum are also accessible, adding a dash of culture to your beach getaway.
 
 The apartment itself is thoughtfully designed with guests' comfort in mind, featuring a bedroom that promises restful nights, a fully equipped kitchen for those inspired to cook, and a bathroom that provides a refreshing retreat.
 
 For those intrigued by history, the Rock of Kavaje is a mere 500 meters away, offering a glimpse into the area's past. Further afield, the Former Residence of Enver Hoxha presents an opportunity for a deeper dive into Albania's history, located 42 km from the apartment. Conveniently, Tirana International Mother Teresa Airport is just 36 km away, making Sea View Blue Apartamente an ideal base for both short stays and extended explorations in Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

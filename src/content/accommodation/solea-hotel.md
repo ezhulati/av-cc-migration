@@ -1,30 +1,7 @@
----
-title: Solea Hotel
-description: The hotel prides itself on offering well-appointed, air-conditioned accommodations that ensure a restful stay. Each room is equipped with complimentary WiFi and
-featuredImage: "/images/accommodation/489299830.jpg"
-language: en
-slug: solea-hotel
-location: ""
-amenities: []
-images: []
----
-
-The hotel prides itself on offering well-appointed, air-conditioned accommodations that ensure a restful stay. Each room is equipped with complimentary WiFi and a private bathroom, catering to the needs of modern travelers. For added convenience, guests will find a wardrobe, a flat-screen TV, and a hairdryer in every room, reflecting the hotel's attention to detail.
+---\ntitle: "Solea Hotel"\ndescription: "Solea Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489299830.jpg?k=8700abe6b47a4f78dc517974c8f32c222cff99e06bed2dd3e132baf5c764faaf&o=&hp=1"\nlanguage: en\nslug: solea-hotel\naddress: "Rruga Hektor Shyti Second floor, 9402 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.454317\n  lng: 19.48329\nprice: "US$30"\npriceFrom: 30\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 103\nratings:\n  overall: 9.4\n  location: 9.2\n  cleanliness: 9.4\n  facilities: 9\n  value: 9.4\n  comfort: 9.5\n  staff: 9.3\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489299830.jpg?k=8700abe6b47a4f78dc517974c8f32c222cff99e06bed2dd3e132baf5c764faaf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491039558.jpg?k=df19123fcae4340a9f9491e805835fb501969713611681269587b9cdf3bf86d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491039349.jpg?k=a00887c60db30f1a686c1147e4a68a3d4282435920656b219f8aaa6fc09c15df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489316989.jpg?k=22b5a9724653c464755da3b48d5782766c7b03a33e1c67c30f97e7ed80cb7701&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489316802.jpg?k=14547db47562a61d4ae6a344c45e5ee8e496fe08007bd161460d57308d37c5c7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489318247.jpg?k=12dcf418ebc0886b0ae2b044547547194dc224dee0b6c3e834c2b28219691ee0&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Deluxe Double Room"\n  - "Executive Triple Room"\n  - "Triple Room with View"\n  - "Deluxe Triple Room"\nnearbyRestaurants:\n  - "Argelon 50 m"\n  - "El Dorado Street Food 100 m"\nnearbyBeaches:\n  - "Vjetër Beach 300 m"\n  - "Vlore Beach 1.1 km"\n  - "Ri Beach 2.3 km"\n  - "Beach at Government Villas 3.8 km"\n  - "Liro Beach 4.4 km"\nwhatsNearby:\n  - "Kuzum Baba 1.7 km"\n  - "Independence Square 1.9 km"\n  - "Scooby Doo Vlore 2.2 km"\nreviews:\n  - name: "Jd"\n    country: "United States"\n    text: "“This is a modern well-furnished room with big TV and little fridge. Very comfortable and quiet. Good location.”"\n  - name: "Rick"\n    country: "Spain"\n    text: "“Clean modern room. In the center. Friendly owner. Excellent quality for the money”"\n  - name: "Klajdi"\n    country: "Albania"\n    text: "“Super clean, comfortable, very close to the center”"\nbookingURL: "https://www.booking.com/hotel/al/solea.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe hotel prides itself on offering well-appointed, air-conditioned accommodations that ensure a restful stay. Each room is equipped with complimentary WiFi and a private bathroom, catering to the needs of modern travelers. For added convenience, guests will find a wardrobe, a flat-screen TV, and a hairdryer in every room, reflecting the hotel's attention to detail.
 
 Families visiting Vlorë will appreciate the hotel's family-friendly rooms, designed to provide a comfortable stay for guests of all ages. The terrace offers a tranquil space where one can unwind after a day of exploration.
 
 Located a mere 2.8 km from the picturesque Ri Beach and 2.3 km from the historic Independence Square, Solea Hotel serves as a perfect gateway to explore the rich cultural tapestry and natural beauty of the area. For those traveling further afield, Tirana International Mother Teresa Airport is conveniently 150 km away, making the hotel a strategic choice for both domestic and international travelers.
 
 In summary, Solea Hotel stands out for its prime location, thoughtful amenities, and commitment to guest satisfaction, promising an enjoyable and hassle-free stay in the heart of Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

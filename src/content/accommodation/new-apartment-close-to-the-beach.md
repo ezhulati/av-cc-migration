@@ -1,28 +1,5 @@
----
-title: New apartment close to the beach
-description: The apartment itself is a haven of comfort and convenience, boasting a spacious layout that includes a bedroom, a living area with a flat-screen TV, and a fully
-featuredImage: "/images/accommodation/313591954.jpg"
-language: en
-slug: new-apartment-close-to-the-beach
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of comfort and convenience, boasting a spacious layout that includes a bedroom, a living area with a flat-screen TV, and a fully equipped kitchen. Here, guests will find everything needed for a self-sufficient stay, from an oven and fridge to a washing machine and stovetop. The inclusion of towels and bed linen ensures a hassle-free experience, allowing more time to explore or simply relax.
+---\ntitle: "New apartment close to the beach"\ndescription: "Discover the charm of Vlorë with a stay at this prime beachfront apartment, merely a stone's throw away from Vlore Beach and within easy reach of Ri and Vjetër Beaches."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/313591954.jpg?k=541560d6b3072ad0c9d2361aff7f1a334701152c21a87885a27cea38004da44e&o=&hp=1"\nlanguage: en\nslug: new-apartment-close-to-the-beach\naddress: "Rruga Shaban Demiraj, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44836775\n  lng: 19.49583955\nprice: "US$59"\npriceFrom: 59\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/313591954.jpg?k=541560d6b3072ad0c9d2361aff7f1a334701152c21a87885a27cea38004da44e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Family rooms"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Tradicional Zgara 150 m"\n  - "Restorant Xhokla 200 m"\nnearbyBeaches:\n  - "Vlore Beach 200 m"\n  - "Vjetër Beach 1.3 km"\n  - "Ri Beach 1.4 km"\n  - "Beach at Government Villas 3.2 km"\n  - "Liro Beach 3.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.3 km"\n  - "Kuzum Baba 2.1 km"\n  - "Independence Square 2.5 km"\nbookingURL: "https://www.booking.com/hotel/al/new-apartment-close-to-the-beach.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of comfort and convenience, boasting a spacious layout that includes a bedroom, a living area with a flat-screen TV, and a fully equipped kitchen. Here, guests will find everything needed for a self-sufficient stay, from an oven and fridge to a washing machine and stovetop. The inclusion of towels and bed linen ensures a hassle-free experience, allowing more time to explore or simply relax.
 
 Situated just a short drive from the historical landmarks of Kuzum Baba and Independence Square, the apartment serves as an ideal base for those looking to immerse themselves in the local culture and history. Moreover, with Tirana International Mother Teresa Airport 152 km away, it offers a perfect retreat for both domestic and international travelers seeking the ultimate Vlorë experience.
 
 This beachfront gem is more than just a place to stay; it's a gateway to the delights of the Albanian coast, offering comfort, convenience, and a touch of luxury for an unforgettable getaway.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

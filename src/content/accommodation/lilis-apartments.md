@@ -4,9 +4,21 @@ description: Guests at Lili's Apartments are treated to spacious accommodations 
 featuredImage: "/images/accommodation/481146078.jpg"
 language: en
 slug: lilis-apartments
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Vlorë"
+amenities:
+  - "WiFi"
+  - "Parking"
+  - "Bar"
+  - "Spa"
+  - "Kitchen"
+  - "Balcony"
+  - "Mountain View"
+  - "TV"
 ---
 
 Guests at Lili's Apartments are treated to spacious accommodations that boast a balcony with breathtaking mountain views. The apartment includes two bedrooms, four living rooms, and a modern kitchen equipped with an oven and microwave, ensuring all the comforts of home are at hand. The inclusion of a flat-screen TV and a bathroom with a walk-in shower adds a touch of luxury to the stay. For those in need of it, towels and linens are available upon request, ensuring every need is met with the utmost attention to detail.
@@ -17,14 +29,3 @@ For those looking to unwind with a drink, the on-site bar serves as a cozy spot 
 
 Lili's Apartments is not just a place to stay; it's a gateway to experiencing the beauty and charm of Vlorë, all while enjoying the comforts of a thoughtfully appointed beachfront property. Whether it's the allure of the nearby beaches or the convenience of the amenities offered, this accommodation is a standout choice for travelers seeking both relaxation and adventure.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

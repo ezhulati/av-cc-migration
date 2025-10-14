@@ -4,9 +4,18 @@ description: "CAPTAIN'S RESIDENCE ensures a hassle-free stay with amenities desi
 featuredImage: "/images/accommodation/66449774.webp"
 language: en
 slug: captains-residence
-location: ''
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Ksamil"
+amenities:
+  - "Restaurant"
+  - "Kitchen"
+  - "Balcony"
+  - "Sea View"
+  - "TV"
 ---
 
 CAPTAIN'S RESIDENCE ensures a hassle-free stay with amenities designed to cater to every guest's needs. Each air-conditioned unit is thoughtfully equipped with modern conveniences such as a desk, kettle, oven, toaster, safety deposit box, flat-screen TV, and a balcony for soaking in the city or sea views. The private bathrooms come with a bath, adding a touch of luxury to your stay. For those who love to cook, the apartments boast a dining area and a fully equipped kitchen, complete with a fridge, stovetop, and all necessary kitchenware. Additionally, the provision of bed linen and towels adds an extra layer of comfort.
@@ -17,14 +26,3 @@ Exploring the area is a breeze with the available car rental service, allowing g
 
 In summary, CAPTAIN'S RESIDENCE offers a perfect blend of location, comfort, and amenities, making it an excellent choice for anyone looking to experience the best of Ksamil.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Sea House
-description: The accommodation at Sea House is thoughtfully designed to cater to the needs of modern travelers. Guests will find themselves in a spacious apartment featuring
-featuredImage: "/images/accommodation/106506025.jpg"
-language: en
-slug: sea-house
-location: ""
-amenities: []
-images: []
----
-
-The accommodation at Sea House is thoughtfully designed to cater to the needs of modern travelers. Guests will find themselves in a spacious apartment featuring a separate bedroom, a cozy living room, a fully equipped kitchenette for those who prefer to prepare their meals, and a well-appointed bathroom, ensuring a comfortable and self-sufficient stay.
+---\ntitle: "Sea House"\ndescription: "Sea House emerges as a prime choice for travelers seeking a serene beachfront getaway in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106506025.jpg?k=c9b3a3bc3dd2b42ac5d2ea8ca16b28aa21913b98e2c3b1cd218b3e89da2647b6&o=&hp=1"\nlanguage: en\nslug: sea-house\naddress: "28 Rruga Çamëria Skele, Rruga Shyqyri Ali Merka, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45122887\n  lng: 19.49027985\nprice: "US$26"\npriceFrom: 26\nstarRating: 3\nrating: 8.6\nratingWords: "Very Good"\nnumberOfReviews: 68\nratings:\n  overall: 8.6\n  location: 9.5\n  cleanliness: 8.1\n  facilities: 7.6\n  value: 8.5\n  comfort: 7.9\n  staff: 9\n  wifi: 9.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106506025.jpg?k=c9b3a3bc3dd2b42ac5d2ea8ca16b28aa21913b98e2c3b1cd218b3e89da2647b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454675737.jpg?k=242c79b241cccfc7a558f348e8c0df323638eb1a6a62e59e71f035607a85bd35&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454677355.jpg?k=f6d7d0dfc3b17dd17e259a4ad6022d5402058227391b3af2caf863ae5778ee64&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454676791.jpg?k=bfb0fa682bee526f35af4e341c0f16b3a362db12febb6ef32bbdb409ea2f7c81&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454676244.jpg?k=580c721ef294816ef63071aeea6636821b94052456bf00fd829331660305b71b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/116246651.jpg?k=1d82b54463b3c47e4723cd82cf122655bf68e1c25627033aacff3a85bd552234&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454675559.jpg?k=451f7f8fecb2bb59abbcf52158ce5aeb852f9d53187029a0d8ae3bfb654e6677&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454676967.jpg?k=7c18b97a681014b5386f058fe6813ec53866fb2986d35d05440524b355f57dbd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454677992.jpg?k=00ef9163782e853163f160252d3a0910978ddbd21cfd88a6ba7f06982070d199&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Carraro 50 m"\n  - "Brooklyn 150 m"\nnearbyBeaches:\n  - "Vlore Beach 450 m"\n  - "Vjetër Beach 750 m"\n  - "Ri Beach 1.8 km"\n  - "Beach at Government Villas 3.5 km"\n  - "Liro Beach 4.1 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.7 km"\n  - "Kuzum Baba 1.8 km"\n  - "Independence Square 2.2 km"\nreviews:\n  - name: "Christian"\n    country: "Germany"\n    text: "“Great location, very friendly owners. Nice small apartment. I liked it a lot.”"\n  - name: "Karyna"\n    country: "Ukraine"\n    text: "“Location is perfect ,near lots of bars and restaurants as well as supermarkets .Walking distance to the beach.Apartment is on the first floor of the house ,on the second floor lives family owning this place .We were met by mom of host ,she didn’t...”"\n  - name: "Brendan"\n    country: "United Kingdom"\n    text: "“Super nice family. Good location. Lots of blankets”"\nbookingURL: "https://www.booking.com/hotel/al/sea-house.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodation at Sea House is thoughtfully designed to cater to the needs of modern travelers. Guests will find themselves in a spacious apartment featuring a separate bedroom, a cozy living room, a fully equipped kitchenette for those who prefer to prepare their meals, and a well-appointed bathroom, ensuring a comfortable and self-sufficient stay.
 
 For those interested in exploring the local culture and history, Independence Square is located just 2.5 km away, while the historic Kuzum Baba awaits at a distance of 3 km. For international travelers, the Tirana International Mother Teresa Airport is the nearest gateway, situated 151 km from the property, making Sea House an accessible choice for both domestic and international visitors.
 
 In summary, Sea House presents itself as an ideal lodging option for those in pursuit of a tranquil beachside retreat coupled with the convenience of home-like amenities and proximity to local attractions in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,7 @@
----
-title: Dimitri Hotel
-description: Accommodations at Dimitri Hotel are thoughtfully designed to ensure a comfortable stay. Each air-conditioned room is equipped with free WiFi and a private bathr
-featuredImage: "/images/accommodation/356326167.jpg"
-language: en
-slug: dimitri-hotel
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Dimitri Hotel are thoughtfully designed to ensure a comfortable stay. Each air-conditioned room is equipped with free WiFi and a private bathroom, ensuring privacy and connectivity throughout the stay. For guests seeking a view, select rooms boast balconies that offer breathtaking vistas of the sea, providing a perfect backdrop for a morning coffee or an evening unwind.
+---\ntitle: "Dimitri Hotel"\ndescription: "Dimitri Hotel emerges as a charming retreat in the heart of Himare, mere steps away from the pristine Livadhi Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356326167.jpg?k=481f9a747c870af2d6195909ad39dedf4118e7d82257823a8967a4d20924b4e3&o=&hp=1"\nlanguage: en\nslug: dimitri-hotel\naddress: "Livadhi Beach, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.11008348\n  lng: 19.72243376\nprice: "US$35"\npriceFrom: 35\nstarRating: 2\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 279\nratings:\n  overall: 9.4\n  location: 9.5\n  cleanliness: 9.5\n  facilities: 9.2\n  value: 9.2\n  comfort: 9.4\n  staff: 9.7\n  wifi: 9.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356326167.jpg?k=481f9a747c870af2d6195909ad39dedf4118e7d82257823a8967a4d20924b4e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460957891.jpg?k=3e8ca2718db92cb135f400568685a105cfc8950e7f9f4e34511b01230bc1f6db&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488759457.jpg?k=216fb9aedf4950b1ca261e878458ed29ab06f367c90c2ae7db181cf460eb6f48&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483323810.jpg?k=6e6ad82e42ef92f932c934b25307ffe7062652c11a561f116bc8a57019783c4f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488676900.jpg?k=165df70f439e3705f8cadcf72094c787af21ea973a9951fca615fd8d6788fa5d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483323897.jpg?k=bdf83027521ec6afd2f2e5f0413a88532a178a2878ca180e83a0438962f3a4e8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460989062.jpg?k=bbf5142e0e913e1f593deb86f89e7062d4b889576d30d63332998d5fb3febdbc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464630783.jpg?k=64d153671ea248e99a4226edf6f7e83be61507409ce5b6e67b1b4ab2141a5fa5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460989333.jpg?k=4372dfb70447681d99d6fdc4d0cb7efe939befe3f24ad6118a069764f8f57936&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Tea/coffee maker in all rooms"\n  - "Private beach area"\n  - "Exceptional breakfast"\nnearbyRestaurants:\n  - "Orestis Restorant 20 m"\n  - "Ostria 100 m"\nnearbyBeaches:\n  - "Livadhi Beach 0 m"\n  - "Akuariumit Beach 1,000 m"\n  - "Spille Beach 1.9 km"\n  - "Jale Beach 2 km"\n  - "Folie Marine Beach 2.3 km"\nwhatsNearby:\n  - "Llogora National Park 14 km"\nairports:\n  - "Corfu International Airport 58 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Adriannasalves"\n    country: "Portugal"\n    text: "“Very nice staff and well decorated and comfortable room”"\n  - name: "Stephen"\n    country: "United Kingdom"\n    text: "“Excellent staff...room was very clean as was everywhere else. Quite location Everything was good.....”"\n  - name: "Guillermo"\n    country: "Germany"\n    text: "“EVERYTHING!! There is so much love, care and attention to details in this hotel! From the beginning Amalia made us feel like at home! The communication, the attention to details, cleanliness and services provided from this hotel make a big...”"\nbookingURL: "https://www.booking.com/hotel/al/dimitri.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Dimitri Hotel are thoughtfully designed to ensure a comfortable stay. Each air-conditioned room is equipped with free WiFi and a private bathroom, ensuring privacy and connectivity throughout the stay. For guests seeking a view, select rooms boast balconies that offer breathtaking vistas of the sea, providing a perfect backdrop for a morning coffee or an evening unwind.
 
 The attention to detail extends to the amenities provided in each room. Guests can expect a flat-screen TV with satellite channels, a fridge, and a kettle among the conveniences. Additionally, the hotel offers rooms with kitchen facilities and a minibar, catering to those who prefer a more homely experience. Complimentary toiletries, along with bed linen and towels, underscore Dimitri Hotel's commitment to guest comfort.
 
 Morning at Dimitri Hotel begins with a choice of à la carte or continental breakfast options, ensuring a delightful start to the day. For explorers eager to venture beyond, Akuariumit Beach is just 1.5 km away, promising a day of seaside activities and relaxation.
 
 Situated 147 km from Ioannina Airport, Dimitri Hotel stands as a beacon of hospitality, offering a memorable stay for travelers seeking both adventure and tranquility in Himare.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

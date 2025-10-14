@@ -1,15 +1,4 @@
----
-title: Seaview Apartment, Durres Beach
-description: The apartment itself is a spacious haven, boasting a balcony that offers breathtaking sea views. Designed to accommodate the modern traveler, it features a well
-featuredImage: "/images/accommodation/470689391.jpg"
-language: en
-slug: seaview-apartment-durres-beach
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a spacious haven, boasting a balcony that offers breathtaking sea views. Designed to accommodate the modern traveler, it features a well-appointed bedroom, a cozy living room with a flat-screen TV, and a fully equipped kitchen complete with a fridge and kitchenware. The inclusion of a bathroom with a bidet adds to the comfort, while the private entrance ensures exclusivity. Guests are welcomed to unwind with some wine or champagne, enhancing the overall experience of luxury and relaxation.
+---\ntitle: "Seaview Apartment, Durres Beach"\ndescription: "Seaview Apartment, Durres Beach, emerges as a prime choice for travelers seeking a blend of comfort and convenience on the Albanian coast."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470689391.jpg?k=7847e6629c6eec2884c876d518213256a9024dd67f3f6453ed425da985a3fa1d&o=&hp=1"\nlanguage: en\nslug: seaview-apartment-durres-beach\naddress: "13 Rruga Venecia Third Floor Apartment, 2002 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30185297\n  lng: 19.49483132\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 5\nratings:\n  overall: 9.2\n  location: 9\n  cleanliness: 9.5\n  facilities: 9\n  value: 9.5\n  comfort: 9\n  staff: 9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470689391.jpg?k=7847e6629c6eec2884c876d518213256a9024dd67f3f6453ed425da985a3fa1d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470689464.jpg?k=83bdff927ca3d3292dea5e5105113a7f5ed351d01a245ab6ab54a29cd5e92122&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470689515.jpg?k=0478ed032a4d638068eb9fa5af1c2afcf2dce48dd899f5b0aabf54d4af5e7a41&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470689509.jpg?k=a065e7e837c28559df6d5da2261acdb34633bda5d248173359c8396018d5f7f6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470689483.jpg?k=c4b97f8547d3a77b4ab613fe47a5e19eff4e8c5d438fc9586a14c369189e5e3d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470689459.jpg?k=804a549074d00725756ba0d30bb092975702a0cb8e5432b8840456cee0c68e2c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470699837.jpg?k=24593d1a912695e24d6d86b303e61cedfd89613844bf1f845f6a22cc02782a8b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470689505.jpg?k=25675cefb2795fc3e3645f7192d653763aaa4c9a4e1cd11eed1fcebb01541767&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478609001.jpg?k=7981e37b9dd163f0a379082e87420b6d3333c990a4ff143f6e91b52b1cd392bb&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Beachfront"\n  - "Bar"\nnearbyRestaurants:\n  - "Olivia 20 m"\n  - "Verona 100 m"\nnearbyBeaches:\n  - "Durres Beach 20 m"\n  - "Shkëmbi i Kavajës Beach 2.1 km"\n  - "Currila Beach 4 km"\n  - "Golem Beach 4.5 km"\n  - "Kallmi Beach 6 km"\nwhatsNearby:\n  - "Bekimi 3.2 km"\n  - "Wine Dhe Pooh 4.2 km"\n  - "Sheshi Demokracia 4.2 km"\n  - "Yje Dhe Hena 4.3 km"\n  - "Durres Amphiteatre 4.3 km"\n  - "1. Maj 4.5 km"\n  - "Sotir Noka 4.6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nreviews:\n  - name: "Mario"\n    country: "Albania"\n    text: "“I loved the sea view, also the bed was really comfortable”"\nbookingURL: "https://www.booking.com/hotel/al/seaview-apartment-durres-beach.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a spacious haven, boasting a balcony that offers breathtaking sea views. Designed to accommodate the modern traveler, it features a well-appointed bedroom, a cozy living room with a flat-screen TV, and a fully equipped kitchen complete with a fridge and kitchenware. The inclusion of a bathroom with a bidet adds to the comfort, while the private entrance ensures exclusivity. Guests are welcomed to unwind with some wine or champagne, enhancing the overall experience of luxury and relaxation.
 
 Adding to the appeal, the property provides full-day security and private check-in and check-out services, ensuring a hassle-free stay. Complimentary WiFi access throughout the apartment allows guests to stay connected, whether for leisure or work. The commitment to a non-smoking environment further underscores the property's dedication to providing a clean and healthy atmosphere.
 
@@ -18,15 +7,3 @@ For those looking to savor the outdoors, the apartment features an outdoor dinin
 Adventure seekers and culture enthusiasts will find plenty to do, with walking tours available in and around Durrës. The property's proximity to notable attractions, including the Dajti Ekspres Cable Car and the Rock of Kavaje, invites exploration and discovery.
 
 Located 34 km from Tirana International Mother Teresa Airport, Seaview Apartment, Durres Beach, presents an accessible retreat for those looking to immerse themselves in the beauty and charm of the Albanian Riviera.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

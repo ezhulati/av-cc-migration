@@ -1,28 +1,5 @@
----
-title: Shtepi Pushimi Tek Rruga Belavista
-description: "Guests will find themselves in a haven of comfort in the air-conditioned holiday home, which boasts a tastefully furnished separate bedroom, a cozy li..."
-featuredImage: "/images/accommodation/478133286.jpg"
-language: en
-slug: shtepi-pushimi-tek-rruga-belavista
-location: ""
-amenities: []
-images: []
----
-
-Guests will find themselves in a haven of comfort in the air-conditioned holiday home, which boasts a tastefully furnished separate bedroom, a cozy living room for relaxation, a fully equipped kitchenette for those who love to cook, and a bathroom that caters to all your needs. The inclusion of a flat-screen TV ensures entertainment is never far away.
+---\ntitle: "Shtepi Pushimi Tek Rruga Belavista"\ndescription: "Shtepi Pushimi Tek Rruga Belavista emerges as a serene retreat in the vibrant town of Velipojë, just a stone's throw away from the pristine Velipoja Beach and within easy reach of historical landmarks such as Rozafa Castle Shkodra and Lake Skadar."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478133286.jpg?k=4226c190d555989145e12774f662cc46b7c80610173cb0e6595c242673beae07&o=&hp=1"\nlanguage: en\nslug: shtepi-pushimi-tek-rruga-belavista\naddress: "Rruga Nr.1, 4020 Velipojë, Albania"\ncity: "Velipojë"\nlocation: "Velipojë"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.86457666\n  lng: 19.40745504\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 4\nratingWords: "Needs Improvement"\nnumberOfReviews: 3\nratings:\n  overall: 4\n  location: 4.2\n  cleanliness: 6.3\n  facilities: 2.5\n  value: 4.2\n  comfort: 2.5\n  staff: 4.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478133286.jpg?k=4226c190d555989145e12774f662cc46b7c80610173cb0e6595c242673beae07&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478133357.jpg?k=5f716871b131b589a4f0ce4d06fdd27540fc5ebff2c53548b2af7e3c0fcfac35&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478133364.jpg?k=cbcf68d83998c5087c33670d56fdfcb2d72ed13743dde7bf277dea02e95e8a53&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478133367.jpg?k=f2be44f757c66642c195200e0a70d54502d4318a97f826136d19763ccb15d9bc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/478133371.jpg?k=25e914809cf6c97fd7d3794e9be26e416aee0592e5141c08f900adf3f677e3c0&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\nnearbyAttractions:\n  - "Old Town Ulcinj 18 km"\nnearbyRestaurants:\n  - "Bar Restorant Familja 250 m"\n  - "Bar Restorant Vllaznia 300 m"\nnearbyBeaches:\n  - "Velipoja Beach 250 m"\n  - "Rana e Hedhun Beach 3.4 km"\n  - "Ada Bojana Beach 3.5 km"\n  - "Velika Plaza Beach 6 km"\nwhatsNearby:\n  - "Copacabana 9 km"\n  - "Cola Beach 10 km"\n  - "Imperiam Beach 11 km"\n  - "Msm Beach 12 km"\n  - "Tropicana 12 km"\n  - "Plaža Safari 13 km"\n  - "Bukurija Beach 13 km"\n  - "Saranda 14 km"\n  - "Plaža Toni 14 km"\n  - "Nudistička Plaža Albatros 17 km"\nairports:\n  - "Tirana International Airport Mother Teresa 55 km"\n  - "Podgorica Airport 55 km"\n  - "Tivat Airport 81 km"\nbookingURL: "https://www.booking.com/hotel/al/shtepi-pushimi-tek-rruga-belavista-velipoje.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests will find themselves in a haven of comfort in the air-conditioned holiday home, which boasts a tastefully furnished separate bedroom, a cozy living room for relaxation, a fully equipped kitchenette for those who love to cook, and a bathroom that caters to all your needs. The inclusion of a flat-screen TV ensures entertainment is never far away.
 
 Privacy and ease are paramount, with free private parking and complimentary WiFi enhancing the stay. The commitment to a non-smoking environment underscores the property's dedication to providing a clean and healthy atmosphere.
 
 Located just 82 km from Tirana International Mother Teresa Airport, Shtepi Pushimi Tek Rruga Belavista represents an ideal choice for travelers seeking a blend of tranquility, convenience, and a touch of adventure by the Albanian coast.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,7 @@
----
-title: Dallga Suites
-description: The hotel prides itself on its array of amenities designed to cater to the needs of modern travelers. Each room is a haven of relaxation, equipped with a flat-s
-featuredImage: "/images/accommodation/524356521.jpg"
-language: en
-slug: dallga-suites
-location: ""
-amenities: []
-images: []
----
-
-The hotel prides itself on its array of amenities designed to cater to the needs of modern travelers. Each room is a haven of relaxation, equipped with a flat-screen TV boasting satellite channels, ensuring guests are entertained throughout their stay. The attention to detail is evident in the private bathrooms, which come with a bidet and complimentary toiletries, adding a touch of luxury to the guest experience. Moreover, the promise of free WiFi and select rooms offering picturesque city views further enhance the appeal of Dallga Suites. The inclusion of air conditioning and a desk in every room underscores the hotel's commitment to providing a comfortable and productive environment for all guests.
+---\ntitle: "Dallga Suites"\ndescription: "Dallga Suites emerges as a serene oasis in Tushemisht, offering a unique blend of comfort and convenience just a stone's throw away from the enchanting Ohrid Lake Springs."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524356521.jpg?k=3113879b793ac8d22b215335e71edc148f626e0cfe8d404f65097a54f7995631&o=&hp=1"\nlanguage: en\nslug: dallga-suites\naddress: "Deshmoret e Pojskes, 7304 Tushemisht, Albania"\ncity: "Tushemisht"\nlocation: "Tushemisht"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.90223188\n  lng: 20.72263884\nprice: "US$53"\npriceFrom: 53\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524356521.jpg?k=3113879b793ac8d22b215335e71edc148f626e0cfe8d404f65097a54f7995631&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524365295.jpg?k=99c84ab375d744ab63e5d966d96594fd246b5654d84020263f0b2dbd03d901e6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524365609.jpg?k=585601f1dd17f23d3391b4aa29cc494974ccbec7a2f3dfc0ea8abcc48b2c44ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524365645.jpg?k=cd872d4503f6f818413ed1a76dc0a5aecd2932da361dbf63eaccc55513a74a74&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524356571.jpg?k=102ba34c46f6bb77337cc356f092d319e61e1f21a4cac516bb9af574b9875681&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524364185.jpg?k=b3eda1fe4194c165f6883071f8d04e99097e17d1989c143c60aa2b29a14ccd94&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Facilities for disabled guests"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Breakfast"\nroomTypes:\n  - "Double Room"\nnearbyRestaurants:\n  - "Restorant Korca 100 m"\n  - "Dallga 200 m"\nwhatsNearby:\n  - "National Park Galicica 2.2 km"\n  - "Driloni National Park 4.5 km"\n  - "National Park Galicica 10 km"\n  - "Bay of Bones 12 km"\nairports:\n  - "Ohrid Airport 29 km"\n  - "Kastoria National Airport 68 km"\nbookingURL: "https://www.booking.com/hotel/al/dallga-suites.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nThe hotel prides itself on its array of amenities designed to cater to the needs of modern travelers. Each room is a haven of relaxation, equipped with a flat-screen TV boasting satellite channels, ensuring guests are entertained throughout their stay. The attention to detail is evident in the private bathrooms, which come with a bidet and complimentary toiletries, adding a touch of luxury to the guest experience. Moreover, the promise of free WiFi and select rooms offering picturesque city views further enhance the appeal of Dallga Suites. The inclusion of air conditioning and a desk in every room underscores the hotel's commitment to providing a comfortable and productive environment for all guests.
 
 Morning at Dallga Suites begins with a delightful buffet breakfast, setting the tone for a day of exploration or relaxation. Whether guests are drawn to the property's private beach area for a day under the sun or to the cozy bar for an evening of leisure, Dallga Suites caters to a wide range of preferences.
 
 For those looking to venture beyond the hotel's peaceful confines, Port Ohrid and the Church of St. John at Kaneo are both situated 34 km away, offering a glimpse into the region's rich cultural tapestry. Conveniently, Ohrid Airport is located 40 km from the hotel, making Dallga Suites an accessible choice for international and domestic travelers alike.
 
 With its comprehensive concierge service, luggage storage space, and currency exchange facilities, Dallga Suites ensures a hassle-free stay, allowing guests to immerse themselves fully in the beauty and charm of Tushemisht.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

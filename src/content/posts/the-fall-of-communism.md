@@ -9,6 +9,13 @@ tags: []
 featuredImage: "/images/posts/Hoxha-statue-falls-in-Albania-1991.jpeg"
 language: en
 slug: the-fall-of-communism
+seo:
+  focusKeyword: "The Fall of Communism"
+  robots: "index"
+  metaTitle: "The Fall of Communism - Albania's Democratic Transition"
+  metaDescription: "Albania's journey from the fall of communism to its ongoing democracy. From economic reforms to EU aspirations, discover how Albania is embracing change."
+  focusKeyword: "The Fall of Communism"
+  robots: "index"
 ---
 
 ## The Fall of Communism
@@ -55,14 +62,3 @@ The total collapse of the state required rebuilding institutions and mindsets sc
 
 Yet its struggles offered optimism to Albanians who, for decades, only knew systemic immiseration and state terror. Half a century of darkness had ended, and [hopes of resurrecting a nation](https://albaniavisit.com/modern-day-albania/) to take its place in Europe and writing a new destiny no longer circumscribed by the paranoid Stalinism of Enver Hoxha had now dawned.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

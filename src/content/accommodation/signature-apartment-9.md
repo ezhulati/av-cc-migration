@@ -1,34 +1,7 @@
----
-title: Signature apartment 9
-description: The apartment's interior is thoughtfully designed to cater to the needs of modern travelers. It houses three generously sized bedrooms, each promising a restful
-featuredImage: "/images/accommodation/528131045.jpg"
-language: en
-slug: signature-apartment-9
-location: ""
-amenities: []
-images: []
----
-
-The apartment's interior is thoughtfully designed to cater to the needs of modern travelers. It houses three generously sized bedrooms, each promising a restful night's sleep. Entertainment is readily available through a flat-screen TV equipped with the latest streaming services, perfect for unwinding after a day of exploration. The kitchen doesn't disappoint either; it's fully stocked with a dishwasher, oven, washing machine, fridge, and stovetop, making meal preparation not just possible but a pleasure.
+---\ntitle: "Signature apartment 9"\ndescription: "Signature Apartment 9 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528131045.jpg?k=1e550052e22862db01d0b85fb5f6497c1d951abe91f07156373e89e0a4899a34&o=&hp=1"\nlanguage: en\nslug: signature-apartment-9\naddress: "Rruga Çerçiz Topulli, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33335925\n  lng: 19.8199225\nprice: "US$87"\npriceFrom: 87\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528131045.jpg?k=1e550052e22862db01d0b85fb5f6497c1d951abe91f07156373e89e0a4899a34&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528131042.jpg?k=f70b7b7a396f4142b937e33bbc97b200f75abf7a2161d37d5f47f87bc7bbf805&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528131112.jpg?k=ee3f81afa4f0d495048c59acbad9cec223036da147fea259fb5eb8306bcdcc7c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528131061.jpg?k=8057f7c967dc57804032dd805cf94cd5839efa7d4e6521b3d560d2713fee6b03&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528131044.jpg?k=4c3cdb1a18ecec6e189e01330174c6e408088421954d20433eba3fc5488d653f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528131093.jpg?k=3695395929bcbde5953d37da25f338ddd80233f83c5e5b736303e00aa15ded9c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528131106.jpg?k=c2de36d954cdd254d26aba9440d4d7b6a8f8743d563653d50bdf79c3daf87b8d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528131058.jpg?k=e3ae1ae1b24bfd2f63db3df1c72e881f1836f1934b9b9d3b0242f2d18f408066&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528131051.jpg?k=9924aca57cb4d8b5207127c6ec412f0ed88b2221288174db85de4a73325e829f&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Three-Bedroom Apartment"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 800 m"\n  - "Tanners' Bridge 900 m"\n  - "Rinia Park 950 m"\n  - "Former Residence of Enver Hoxha 1.4 km"\n  - "Grand Park of Tirana 2.4 km"\n  - "Bunk'Art 1 Museum 3.9 km"\nnearbyRestaurants:\n  - "Mneri 100 m"\n  - "Harli 150 m"\nwhatsNearby:\n  - "Amazing Nature 50 m"\n  - "National Museum of History Albania 500 m"\n  - "Sheshi Sulejman Pasha 550 m"\n  - "Sheshi Skënderbej 550 m"\n  - "Sheshi Paris 600 m"\n  - "Skanderbeg Square 600 m"\n  - "Clock Tower Tirana 600 m"\n  - "Parku Europa 650 m"\n  - "Sheshi Rekreativ tek ish ATSh 800 m"\n  - "House of Leaves 800 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/signature-apartment-9.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nThe apartment's interior is thoughtfully designed to cater to the needs of modern travelers. It houses three generously sized bedrooms, each promising a restful night's sleep. Entertainment is readily available through a flat-screen TV equipped with the latest streaming services, perfect for unwinding after a day of exploration. The kitchen doesn't disappoint either; it's fully stocked with a dishwasher, oven, washing machine, fridge, and stovetop, making meal preparation not just possible but a pleasure.
 
 Privacy and tranquility are paramount at Signature Apartment 9, underscored by soundproofing and a private entrance for each accommodation unit. The convenience extends beyond the apartment's walls, with a minimarket on the premises ensuring essentials are always within reach.
 
 For those looking to embrace the outdoors, a well-maintained garden offers a peaceful retreat. Meanwhile, the apartment's location places guests within arm's reach of Tirana's most sought-after attractions, including Skanderbeg Square, the Former Residence of Enver Hoxha, and the National Museum of History Albania. For those arriving by air, Tirana International Mother Teresa Airport is a mere 14 km away, with the apartment offering a paid shuttle service for effortless transfers.
 
 Signature Apartment 9 stands out as an impeccable choice for travelers who value both the freedom of a self-catering stay and the proximity to cultural landmarks, all wrapped up in a package of modern comfort and security.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

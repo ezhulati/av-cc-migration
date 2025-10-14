@@ -1,30 +1,7 @@
----
-title: Luxury Suites Pogradec
-description: Each apartment at Luxury Suites Pogradec is designed to be an allergy-free haven, ensuring a serene stay with soundproof rooms that cater to the most discerning
-featuredImage: "/images/accommodation/433696931.jpg"
-language: en
-slug: luxury-suites-pogradec
-location: ""
-amenities: []
-images: []
----
-
-Each apartment at Luxury Suites Pogradec is designed to be an allergy-free haven, ensuring a serene stay with soundproof rooms that cater to the most discerning guests. The accommodations feature terraces that open up to breathtaking mountain views, creating a perfect backdrop for a morning coffee or an evening unwind. The living spaces are thoughtfully furnished with comfortable seating areas and equipped with cable flat-screen TVs for entertainment. The fully equipped kitchens, complete with microwaves and fridges, offer guests the freedom to prepare their meals, while the private bathrooms come with bidets and plush bathrobes, adding a touch of luxury to the daily routine. For added convenience, all units are supplied with fresh bed linen and towels.
+---\ntitle: "Luxury Suites Pogradec"\ndescription: "Luxury Suites Pogradec emerges as a modern oasis of comfort and tranquility, situated just 7."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433696931.jpg?k=aefc70648a1bfc13344cc34aa2f91c52fe9dd1d1ea44749b823cbffa1077e79d&o=&hp=1"\nlanguage: en\nslug: luxury-suites-pogradec\naddress: "1 Rruga Dëshmorët e Pojskës, 7301 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.90167644\n  lng: 20.66372416\nprice: "US$64"\npriceFrom: 64\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 5\nratings:\n  overall: 9.4\n  location: 10\n  cleanliness: 10\n  facilities: 9\n  value: 8.5\n  comfort: 9.5\n  staff: 9.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433696931.jpg?k=aefc70648a1bfc13344cc34aa2f91c52fe9dd1d1ea44749b823cbffa1077e79d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434639596.jpg?k=d5ad30bdb46770f14c20c22f56a0234397539a3b76764b8ac9a519429dc02856&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433708182.jpg?k=1d4d356aa692f9a56fa2d9f0cab3c74305087f06dde6d1d55ed016e50616424c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433708191.jpg?k=d07e1f60b623e941507b840e2d092ef3ce982dcced610005d92fe01b7d776dce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433708187.jpg?k=a25e1b524d6082e3c4940855265b1375b97ac6701c4a4276dd04c86134987235&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433708196.jpg?k=c0bffaf0e03b71aee0295c363f011d283f13e71021dff405b72600ea14d1d24e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fast free WiFi (63 Mbps)"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\nroomTypes:\n  - "Superior King Suite"\n  - "Presidential Suite"\nnearbyRestaurants:\n  - "Max Lloto 1 m"\n  - "De Paris 9 m"\nwhatsNearby:\n  - "Driloni National Park 550 m"\n  - "National Park Galicica 7 km"\n  - "National Park Galicica 14 km"\n  - "Bay of Bones 15 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 71 km"\n  - "Tirana International Airport Mother Teresa 96 km"\nbookingURL: "https://www.booking.com/hotel/al/luxury-suites-pogradec-pogradec.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach apartment at Luxury Suites Pogradec is designed to be an allergy-free haven, ensuring a serene stay with soundproof rooms that cater to the most discerning guests. The accommodations feature terraces that open up to breathtaking mountain views, creating a perfect backdrop for a morning coffee or an evening unwind. The living spaces are thoughtfully furnished with comfortable seating areas and equipped with cable flat-screen TVs for entertainment. The fully equipped kitchens, complete with microwaves and fridges, offer guests the freedom to prepare their meals, while the private bathrooms come with bidets and plush bathrobes, adding a touch of luxury to the daily routine. For added convenience, all units are supplied with fresh bed linen and towels.
 
 For those looking to enjoy a drink without straying far, the on-site bar serves a variety of beverages in a cozy setting. The property also features a lush garden, inviting guests to relax and soak in the serene atmosphere.
 
 Situated 22 km from the historical Bay of Bones and 38 km from the Early Christian Basilica, Luxury Suites Pogradec serves as an ideal base for exploring the rich cultural heritage of the region. With Ohrid Airport located just 45 km away, the property ensures ease of travel for international and domestic visitors alike.
 
 Luxury Suites Pogradec stands out as a premier choice for travelers seeking a blend of modern amenities, peaceful surroundings, and convenient access to some of the area's most captivating attractions.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

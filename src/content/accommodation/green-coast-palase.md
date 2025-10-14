@@ -1,28 +1,5 @@
----
-title: Green Coast Palase
-description: The holiday home itself is a testament to thoughtful accommodation, featuring a terrace that offers breathtaking sea views. Inside, guests will find a cozy arra
-featuredImage: "/images/accommodation/475886869.jpg"
-language: en
-slug: green-coast-palase
-location: ""
-amenities: []
-images: []
----
-
-The holiday home itself is a testament to thoughtful accommodation, featuring a terrace that offers breathtaking sea views. Inside, guests will find a cozy arrangement comprising two bedrooms, a living room equipped with a flat-screen TV, and a kitchen that doesn't skimp on amenities, including a dishwasher and a fridge. The inclusion of a bathroom with a bath, along with towels and bed linen, underscores the property's commitment to guest comfort. An added luxury is the outdoor dining area, perfect for enjoying meals with a view.
+---\ntitle: "Green Coast Palase"\ndescription: "Green Coast Palase emerges as a serene retreat in Palasë, perfectly positioned between the tranquility of Nazar Beach, just 1."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475886869.jpg?k=ec90678b985cb4d17764e8ea02ad71776e9c93415199aabcd10d512a8bdc23a0&o=&hp=1"\nlanguage: en\nslug: green-coast-palase\naddress: "Rruga Coral, Vila 190, 9425 Palasë, Albania"\ncity: "Palasë"\nlocation: "Palasë"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.17347032\n  lng: 19.58749423\nprice: "US$312"\npriceFrom: 312\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475886869.jpg?k=ec90678b985cb4d17764e8ea02ad71776e9c93415199aabcd10d512a8bdc23a0&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Private beach area"\nroomTypes:\n  - "Two-Bedroom House"\nnearbyRestaurants:\n  - "Fishop Coast 400 m"\n  - "Beachside Cafe 900 m"\nnearbyBeaches:\n  - "Nazar Beach 450 m"\n  - "Palasa Beach 1.5 km"\n  - "Dhermi Beach 5 km"\n  - "Gjipe Beach 9 km"\n  - "Beach Me Shpella 9 km"\nwhatsNearby:\n  - "Llogora National Park 2.4 km"\nairports:\n  - "Corfu International Airport 68 km"\nbookingURL: "https://www.booking.com/hotel/al/vila-190-green-coast-palase.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe holiday home itself is a testament to thoughtful accommodation, featuring a terrace that offers breathtaking sea views. Inside, guests will find a cozy arrangement comprising two bedrooms, a living room equipped with a flat-screen TV, and a kitchen that doesn’t skimp on amenities, including a dishwasher and a fridge. The inclusion of a bathroom with a bath, along with towels and bed linen, underscores the property's commitment to guest comfort. An added luxury is the outdoor dining area, perfect for enjoying meals with a view.
 
 For those who like to keep their shopping close, the property houses a minimarket, ensuring essentials are never far away. Wellness enthusiasts will appreciate the yoga classes available on-site, providing a perfect blend of relaxation and activity. Moreover, the picnic area invites guests to enjoy leisurely days outdoors, immersed in the natural beauty surrounding the property.
 
 Located 169 km from Ioannina Airport, Green Coast Palase is not just a holiday home but a gateway to a memorable coastal escape, offering both the privacy of a secluded retreat and the convenience of modern amenities.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

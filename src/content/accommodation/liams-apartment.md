@@ -4,9 +4,17 @@ description: Perched at a strategic distance from notable landmarks, the apartme
 featuredImage: "/images/accommodation/478859691.jpg"
 language: en
 slug: liams-apartment
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "Spa"
+  - "Kitchen"
+  - "Balcony"
+  - "TV"
 ---
 
 Perched at a strategic distance from notable landmarks, the apartment is a mere 44 km from the historic Skanderbeg Square and 48 km from the scenic Dajti Ekspres Cable Car, making it an ideal base for explorers. Moreover, the Rock of Kavaje is conveniently situated just 5.6 km away, with Mali I Robit Beach further enhancing the locale's appeal at a distance of 1.8 km.
@@ -17,14 +25,3 @@ The terrace and garden views offer a tranquil backdrop for relaxation, inviting 
 
 With the nearest airport, Tirana International Mother Teresa Airport, situated just 39 km away, Liam's Apartment stands out as a compelling choice for travelers seeking both tranquility and adventure in the heart of Golem.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

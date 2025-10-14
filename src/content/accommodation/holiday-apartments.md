@@ -1,28 +1,7 @@
----
-title: Holiday Apartments
-description: Each apartment is thoughtfully equipped with a kitchen, ensuring guests have everything they need for a comfortable stay. The addition of a terrace adds a touch
-featuredImage: "/images/accommodation/369838284.jpg"
-language: en
-slug: holiday-apartments
-location: ""
-amenities: []
-images: []
----
-
-Each apartment is thoughtfully equipped with a kitchen, ensuring guests have everything they need for a comfortable stay. The addition of a terrace adds a touch of luxury, providing the perfect setting for a morning coffee or an evening unwind. Convenience is further enhanced by complimentary amenities such as private parking and WiFi, ensuring a hassle-free experience from start to finish.
+---\ntitle: "Holiday Apartments"\ndescription: "Holiday Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369838284.jpg?k=d487b9eb68bcddeb212d0f9f7ad7c7d5950da818cd519d0a509ad77d3fbd9f78&o=&hp=1"\nlanguage: en\nslug: holiday-apartments\naddress: "Rruga Petrit Llaftiu, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33651448\n  lng: 19.44966311\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 21\nratings:\n  overall: 9.6\n  location: 8.7\n  cleanliness: 9.8\n  facilities: 9.6\n  value: 9.9\n  comfort: 9.6\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369838284.jpg?k=d487b9eb68bcddeb212d0f9f7ad7c7d5950da818cd519d0a509ad77d3fbd9f78&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467228839.jpg?k=78bc152987a20345a13478a6edab2cf8cd2f850fc24e350e1cda28e3d564229b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369838319.jpg?k=10253ca9ecca70d88a58dd12e45307a6f0bd86591fcd3965b4883b72cfd29ad6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467228657.jpg?k=eb8dc2681e11468b75764c0fcbb683ee0eddffa8f5fc31aea35c1a5c80673fc2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/380038632.jpg?k=4036626fcbfd66018f5163901b4f20d35f08ef0ed15974aec9fef2b62167b88d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455962101.jpg?k=d0ee7a594b62e6757ce54309a6516096e6dfa4468224ee94ac5bd56bcbdb8790&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/380042734.jpg?k=8252a0725ed508770dec0b59bf41f07f8cd654537e23e4496f26b53b6e91ba26&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384216561.jpg?k=3dfd453c36eadea265d5e2f10931defe1b9f6a2fd10fe0fd0a5566a9ad301cd8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463804254.jpg?k=d0ed820265c3b726de548e8f064a8152e23f841d46b782c23138380732bd9934&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Bar Lenia 100 m"\n  - "Eldo Bar 400 m"\nnearbyBeaches:\n  - "Kallmi Beach 2.3 km"\n  - "Currila Beach 2.6 km"\n  - "West End Beach 2.6 km"\n  - "Durres Beach 2.8 km"\n  - "Ohana Beach 5 km"\nwhatsNearby:\n  - "Sotir Noka 1.8 km"\n  - "Sheshi Demokracia 2 km"\n  - "Yje Dhe Hena 2.3 km"\n  - "Wine Dhe Pooh 2.3 km"\n  - "Bekimi 2.6 km"\n  - "Durres Amphiteatre 2.7 km"\n  - "1. Maj 2.8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 23 km"\npaymentMethods:\n  - "Visa"\nreviews:\n  - name: "Yu"\n    country: "Japan"\n    text: "“The room was clean, had enough space, and was very comfortable.The owner is very kind and responds to messages promptly. I felt very safe.”"\n  - name: "Diana"\n    country: "Estonia"\n    text: "“One of the most special and wonderful host we have ever met.
+On the arrival we were welcomed with ice coffees and home made pie.
+The host was just so lovely and gave us some tomatoes and cucumbers from her garden, also we could eat grapes and...”"\n  - name: "Milosevic"\n    country: "Serbia"\n    text: "“Domaćini ljubazni. Sve je proteklo po dogovoru. Čisto udobno uvek topla voda i sve ispoštovano maksimalno.”"\nbookingURL: "https://www.booking.com/hotel/al/standart-studio-for-rent.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nEach apartment is thoughtfully equipped with a kitchen, ensuring guests have everything they need for a comfortable stay. The addition of a terrace adds a touch of luxury, providing the perfect setting for a morning coffee or an evening unwind. Convenience is further enhanced by complimentary amenities such as private parking and WiFi, ensuring a hassle-free experience from start to finish.
 
 For those keen on outdoor relaxation, the property boasts a well-maintained garden, inviting guests to enjoy serene moments in a lush setting. The Rock of Kavaje, a notable landmark, is located just 12 km away, offering an easy day trip option. Additionally, the historical Former Residence of Enver Hoxha is within a 40 km reach, presenting an opportunity for a cultural excursion.
 
 Situated 34 km from Tirana International Mother Teresa Airport, Holiday Apartments presents an accessible retreat for both local and international travelers, promising a memorable stay in the heart of Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

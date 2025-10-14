@@ -1,26 +1,3 @@
----
-title: AAA Apartment
-description: "Connectivity is seamless, as free WiFi is available throughout the property, catering to the needs of both leisure and business travelers."
-featuredImage: "/images/accommodation/458540315.jpg"
-language: en
-slug: aaa-apartment
-location: ""
-amenities: []
-images: []
----
-
-Connectivity is seamless, as free WiFi is available throughout the property, catering to the needs of both leisure and business travelers. Select rooms elevate the experience further with the inclusion of a balcony, inviting guests to soak in the city's atmosphere from the privacy of their accommodation. Comfort is paramount, with all units boasting air conditioning and a flat-screen TV, ensuring a relaxing stay.
+---\ntitle: "AAA Apartment"\ndescription: "AAA Apartment emerges as a charming choice for travelers seeking a blend of comfort and convenience in Berat."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458540315.jpg?k=73bdd3bb8b1ae9518a7a4ae0b0f00e8a3f0245126fe33dc343cd61b6d66b559d&o=&hp=1"\nlanguage: en\nslug: aaa-apartment\naddress: "Bulevardi Republika, Lagja;30 Vjetori 2nd floor, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.70054991\n  lng: 19.96083166\nprice: "US$30"\npriceFrom: 30\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 178\nratings:\n  overall: 9.8\n  location: 9.3\n  cleanliness: 9.7\n  facilities: 9.7\n  value: 9.8\n  comfort: 9.9\n  staff: 9.9\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458540315.jpg?k=73bdd3bb8b1ae9518a7a4ae0b0f00e8a3f0245126fe33dc343cd61b6d66b559d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458542560.jpg?k=56325845141785520f709e00974c83e98c23452309708153fb1194e043437382&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455262841.jpg?k=b9eabc398d896cc9e207870de549d85507ffa25bab12ef4091f0084df13434c7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469849692.jpg?k=383dd5442b9ea016ac3dcf2e4d7a9e36923ea28980602eba8fef0fac1f025d7d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458542132.jpg?k=e2af99f5a0ce8921ca7a00162f120a002908a5e6a8c7c65e862df05d3444ddf1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458545759.jpg?k=974d6640443430e78a537c96c27286df11db6d910fe32634d5e9e49be25bf323&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Tea/coffee maker in all rooms"\nroomTypes:\n  - "Classic Triple Room"\n  - "Triple Room with Balcony"\n  - "Quadruple Room with Balcony"\nnearbyRestaurants:\n  - "Zgara Zaloshnja 150 m"\n  - "Pizza Aksa 200 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 8 km"\n  - "Sheshi Tomorri 15 km"\nairports:\n  - "Tirana International Airport Mother Teresa 80 km"\n  - "Ohrid Airport 83 km"\nreviews:\n  - name: "Anxhi"\n    country: "Albania"\n    text: "“The owners are very friendly, the gave us a welcome drink, then in the morning they prepared cake for us. Very friendly and nice people, definitely will go back again. The room was very spacious and clean. Very near the center.”"\n  - name: "Noah"\n    country: "Netherlands"\n    text: "“Owner is the super friendly and helpful, bed was super comfortable, shower was really nice, there was free drinkwater and coffee, walking distance to the centre”"\n  - name: "Aicha"\n    country: "Netherlands"\n    text: "“The family who owns the apartment is really nice and helpful ! The location is perfect. It’s just outside the busy old town which ensures a quiet night of sleep. In the meanwhile, you can walk to the old town in a few minutes.”"\nbookingURL: "https://www.booking.com/hotel/al/aaa-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nConnectivity is seamless, as free WiFi is available throughout the property, catering to the needs of both leisure and business travelers. Select rooms elevate the experience further with the inclusion of a balcony, inviting guests to soak in the city's atmosphere from the privacy of their accommodation. Comfort is paramount, with all units boasting air conditioning and a flat-screen TV, ensuring a relaxing stay.
 
 Situated 119 km from Tirana International Mother Teresa Airport, AAA Apartment offers a blend of accessibility and tranquility, making it an appealing choice for those exploring the historical city of Berat.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

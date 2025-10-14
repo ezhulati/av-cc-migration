@@ -1,26 +1,7 @@
----
-title: River Bridge private room
-description: Each room, adorned with a welcoming balcony, is a testament to comfort and modernity. Air conditioning ensures a pleasant environment regardless of the weather,
-featuredImage: "/images/accommodation/471520872.jpg"
-language: en
-slug: river-bridge-private-room
-location: ""
-amenities: []
-images: []
----
-
-Each room, adorned with a welcoming balcony, is a testament to comfort and modernity. Air conditioning ensures a pleasant environment regardless of the weather, while the presence of a flat-screen TV caters to entertainment needs. The private bathrooms are equipped with a bath and hair dryer, adding a touch of home-like comfort. For those who appreciate the convenience of in-room refreshments, a fridge, coffee machine, and kettle are readily available.
+---\ntitle: "River Bridge private room"\ndescription: "River Bridge Private Room emerges as a serene haven in the heart of Gjirokastër, a mere 44 km from the tranquil Zaravina Lake."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471520872.jpg?k=5c9d09b6ae32f5e544cf1ed82669c97422b2ac0172a78ee5346703a9c40a5840&o=&hp=1"\nlanguage: en\nslug: river-bridge-private-room\naddress: "Rruga Valere, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.08708496\n  lng: 20.1465711\nprice: "US$28"\npriceFrom: 28\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 28\nratings:\n  overall: 9.7\n  location: 9.1\n  cleanliness: 9.8\n  facilities: 9.6\n  value: 10\n  comfort: 9.8\n  staff: 9.9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471520872.jpg?k=5c9d09b6ae32f5e544cf1ed82669c97422b2ac0172a78ee5346703a9c40a5840&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471741815.jpg?k=50c5e6f476d440f4c0b7331385af7ddd673be4dee730c6da446d2cb5383219d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471520919.jpg?k=29cf641849a5921078a4346d281703ab0dcbaf9d30b88cf9aa41152ce83d3346&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471520924.jpg?k=36bd08caa51e17f79ed5481f43243d75c3e77422fa94495d7e6ffce98fca7733&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471741812.jpg?k=6775e7c08c0174a961a779aa676d7da1aff2cd5cdb8f57ef06e77adbe5e6a085&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471520926.jpg?k=b00cfe9a4db8731c4fec9d2eb1949fe0692088a63aa7ae1fb71830abf02a9425&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Tea/coffee maker in all rooms"\nroomTypes:\n  - "Double Room with Private Bathroom"\nnearbyRestaurants:\n  - "House of Beer 350 m"\n  - "Traditional Pajtimi 350 m"\nairports:\n  - "Corfu International Airport 56 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Savannah"\n    country: "Netherlands"\n    text: "“We had the warmest welcome and a very nice stay! Very good and nice hosts”"\n  - name: "Tetiana"\n    country: "Ukraine"\n    text: "“Amazing people, very hospitable and cheerful
+The apartment was really clean, comfortable and with picturesque view.
+Really recommend it to everyone!!!”"\n  - name: "George"\n    country: "Greece"\n    text: "“The hosts were amazing, very friendly and polite.
+The room was clean with many amenities.
+Great value.”"\nbookingURL: "https://www.booking.com/hotel/al/river-bridge-private-room.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nEach room, adorned with a welcoming balcony, is a testament to comfort and modernity. Air conditioning ensures a pleasant environment regardless of the weather, while the presence of a flat-screen TV caters to entertainment needs. The private bathrooms are equipped with a bath and hair dryer, adding a touch of home-like comfort. For those who appreciate the convenience of in-room refreshments, a fridge, coffee machine, and kettle are readily available.
 
 Situated 83 km from Ioannina Airport, River Bridge Private Room offers an accessible retreat for travelers seeking both relaxation and adventure in the picturesque setting of Gjirokastër.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

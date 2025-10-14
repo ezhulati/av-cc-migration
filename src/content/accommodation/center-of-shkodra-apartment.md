@@ -1,26 +1,4 @@
----
-title: Center of Shkodra Apartment
-description: The apartment is well-equipped to meet the needs of modern travelers, featuring complimentary WiFi, a flat-screen TV for entertainment, and a washing machine fo
-featuredImage: "/images/accommodation/475553461.jpg"
-language: en
-slug: center-of-shkodra-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment is well-equipped to meet the needs of modern travelers, featuring complimentary WiFi, a flat-screen TV for entertainment, and a washing machine for longer stays. The kitchen is fully furnished, complete with a minibar, ensuring guests can feel at home, preparing meals at their leisure. Importantly, the entire accommodation maintains a non-smoking policy, ensuring a clean and fresh environment for all guests.
+---\ntitle: "Center of Shkodra Apartment"\ndescription: "Center of Shkodra Apartment offers a refreshing stay in the heart of Shkodër, presenting guests with a blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475553461.jpg?k=33dc10f47112c9e7db1827e3bb8d087124e36f4027789b024ff8549b04ab957d&o=&hp=1"\nlanguage: en\nslug: center-of-shkodra-apartment\naddress: "Sheshi Parruce, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.06475111\n  lng: 19.50799167\nprice: "US$39"\npriceFrom: 39\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 21\nratings:\n  overall: 8.9\n  location: 9.3\n  cleanliness: 8.1\n  facilities: 8.2\n  value: 8.9\n  comfort: 8.2\n  staff: 9.6\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475553461.jpg?k=33dc10f47112c9e7db1827e3bb8d087124e36f4027789b024ff8549b04ab957d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475553527.jpg?k=e0d67c08346f4852cb3bc09f90fbcc8936c2a3df131629ef0b9bbd0b09eb38ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475553538.jpg?k=334d758b4e24338195a6f119a676dc136e592cf7d899138ba0ff2fa85c9159d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475553532.jpg?k=b5388739f3c4825fc6581b00859d400e624c61b70e2c4e242ba73fdfdf2b249b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475553540.jpg?k=cae845ddbfcdbbd6b15e01a3c78a97ba8348dd183a5ce57b4fd5e4e8f1aacb8c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475553549.jpg?k=b35cec7af75b027bba3e54a6f3f0a99c873c2d1dae847371d91d3b6e85f0f473&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475553543.jpg?k=6bf55e5837d414c0b2cbe437ca4d47c2a79150373f409b8a11024aff7aab43c0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475553528.jpg?k=44b583aeafd1f5ba2a8e5bcd88dc3f81ac912401e113b318e88c566e8a08df0e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475553496.jpg?k=364945cd1d86551a39a28598c9836513538cac04c4ac217719d7941c81698942&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "Two-Bedroom Apartment"\nreviews:\n  - name: "Stanislav"\n    country: "Serbia"\n    text: "“Location in the center of city, very large apartment with windows on 3 sides and picturesque views outside.”"\n  - name: "Steven"\n    country: "Ireland"\n    text: "“The apartment was much then it looked in the pictures. Had everything we needed it. It is a much higher quality apartment compared to others in Albania.
+The host was also very nice, helped us with every question we had and even took me and my...”"\n  - name: "Joris"\n    country: "Netherlands"\n    text: "“Super friendly hosts. So much space, perfect for families or friend groups! Really enjoyed our stay here and would defenitly recommend: )”"\nbookingURL: "https://www.booking.com/hotel/al/center-of-shkodra-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment is well-equipped to meet the needs of modern travelers, featuring complimentary WiFi, a flat-screen TV for entertainment, and a washing machine for longer stays. The kitchen is fully furnished, complete with a minibar, ensuring guests can feel at home, preparing meals at their leisure. Importantly, the entire accommodation maintains a non-smoking policy, ensuring a clean and fresh environment for all guests.
 
 Located just 48 km from the Port of Bar and 58 km from Podgorica Airport, the Center of Shkodra Apartment is ideally situated for guests looking to explore the region or those in transit. This apartment stands out as a prime choice for travelers seeking a blend of serenity, accessibility, and the comforts of home while exploring the vibrant city of Shkodër.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

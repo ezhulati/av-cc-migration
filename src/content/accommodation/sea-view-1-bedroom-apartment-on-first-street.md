@@ -1,28 +1,5 @@
----
-title: Sea View 1 bedroom Apartment on first street
-description: Guests are treated to a well-appointed space that boasts a generous layout, including a bedroom, a living area, and a balcony that presents breathtaking sea vie
-featuredImage: "/images/accommodation/472596074.jpg"
-language: en
-slug: sea-view-1-bedroom-apartment-on-first-street
-location: ""
-amenities: []
-images: []
----
-
-Guests are treated to a well-appointed space that boasts a generous layout, including a bedroom, a living area, and a balcony that presents breathtaking sea views. The apartment is equipped with modern amenities such as air conditioning, a flat-screen TV, and a fully equipped kitchen complete with an oven and toaster, ensuring a comfortable stay. The inclusion of a bathroom with a bath, along with complimentary towels and bed linen, adds to the comfort and convenience.
+---\ntitle: "Sea View 1 bedroom Apartment on first street"\ndescription: "Sea View 1 Bedroom Apartment on First Street emerges as a prime choice for travelers seeking a serene getaway in Sarandë, just a stone's throw away from the pristine Santa Quaranta Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472596074.jpg?k=4cce07e0759ab49c991535cfb4753574dbcb0559b116f48a84498f171d602da7&o=&hp=1"\nlanguage: en\nslug: sea-view-1-bedroom-apartment-on-first-street\naddress: "Rruga Butrinti 3/2, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86064032\n  lng: 20.01943538\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472596074.jpg?k=4cce07e0759ab49c991535cfb4753574dbcb0559b116f48a84498f171d602da7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/472596006.jpg?k=33c341b2a6feae42867c5b9aa7baa30f201552d7603261af29fd7b8e06e12cb4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/472596064.jpg?k=4dbdd486654bb4701b880ca8cae1fb558ac5fb2d9022d2f7dc83a2b4cb700072&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/472596080.jpg?k=02fb39d36013a464b442cf9a574ec0ad84e832ae21b64a8e3ef55fa1ba9cd6e5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/472596087.jpg?k=401bca143da9725a34a5ede05a57c9b0bea1416724be4a0972695ef3511466ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/472596095.jpg?k=44be1ad253f50f5588215f06a7fdc93379f45845b77034999de7055617bb0d39&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/472596099.jpg?k=b49546b9c4481c9c7474ac338ac316b8afe4edb238f6cc41426283f3d0d27120&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Why Not? Burger 20 m"\n  - "Asi Rooftop Resto Lounge 20 m"\nnearbyBeaches:\n  - "VIP Beach 200 m"\n  - "Santa Quaranta Beach 250 m"\n  - "Flamingo Beach 500 m"\n  - "Maestral Beach 700 m"\n  - "Mango Beach 700 m"\nwhatsNearby:\n  - "Parc National de Butrint 500 m"\n  - "Butrint National Park 1.3 km"\n  - "Plazhi I Krorezes 7 km"\n  - "Parku Kombetar I Butrintit 10 km"\n  - "Butrint National Park 11 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/sea-view-1-bedroom-apartment-on-first-street.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are treated to a well-appointed space that boasts a generous layout, including a bedroom, a living area, and a balcony that presents breathtaking sea views. The apartment is equipped with modern amenities such as air conditioning, a flat-screen TV, and a fully equipped kitchen complete with an oven and toaster, ensuring a comfortable stay. The inclusion of a bathroom with a bath, along with complimentary towels and bed linen, adds to the comfort and convenience.
 
 For those who appreciate the ease of access to essentials, the presence of a minimarket on the premises is a notable advantage. The apartment's strategic location also serves as a perfect base for exploring the region's natural wonders, with Butrint National Park only 14 km away and the ancient site of Fanoti within a 48 km radius. Furthermore, Ioannina Airport is the nearest major airport, located 96 km from the accommodation, making it relatively straightforward for international travelers to reach this charming retreat.
 
 With its combination of strategic location, comprehensive amenities, and the promise of a tranquil stay amidst natural beauty, Sea View 1 Bedroom Apartment on First Street stands out as a top recommendation for those planning a visit to Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

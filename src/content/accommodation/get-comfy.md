@@ -1,30 +1,7 @@
----
-title: Get comfy
-description: This apartment distinguishes itself with its commitment to a smoke-free environment, ensuring a clean and fresh stay for all guests. The inclusion of free priva
-featuredImage: "/images/accommodation/473287199.jpg"
-language: en
-slug: get-comfy
-location: ""
-amenities: []
-images: []
----
-
-This apartment distinguishes itself with its commitment to a smoke-free environment, ensuring a clean and fresh stay for all guests. The inclusion of free private parking adds a layer of convenience for those arriving by car, allowing for an effortless start to their vacation.
+---\ntitle: "Get comfy"\ndescription: "Get Comfy emerges as a serene retreat in the vibrant heart of Sarandë, boasting a picturesque garden and sweeping sea views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473287199.jpg?k=008ca53c98888ffa1592fb1df739b33e177dbe44223711a4006df26d26334a4b&o=&hp=1"\nlanguage: en\nslug: get-comfy\naddress: "Rruga Gjergj Araniti, 9106 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87784511\n  lng: 20.01061712\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473287199.jpg?k=008ca53c98888ffa1592fb1df739b33e177dbe44223711a4006df26d26334a4b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473287217.jpg?k=d363aea5b9feec5b0923c2a9df164338fcd5beb8384f02593d54b75d42543f95&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473287237.jpg?k=021c8a9208d01f92d2097ad82f79cb78834119650d258e4d739ce086afc2801a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473287205.jpg?k=1a5c358148f20ad67f956416aec202ccae45d3dee79f2b2974281e8dad78bda5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473885215.jpg?k=58282797c1b7edac9ebd5792714455d13309a4e84d0da0a95fd8b1f4fec87d97&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473287220.jpg?k=5eae135b1c535a3b850657bf204466700e3b8145b9e9bfe613d34cd277c25430&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473287239.jpg?k=f56ea31153329b226b3635df0f5f31119190b3d8935a3924f13f6af01997af73&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473287226.jpg?k=e88156726b1d7e07f0a1b76ce11d246e257315b157113243a11714751f36c398&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473287209.jpg?k=593695c4f016fde8e017081e0dad942d4f13259477e02fb5a3df5e9836189802&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\nnearbyRestaurants:\n  - "Isufi 300 m"\n  - "Pizza le Amiche 350 m"\nnearbyBeaches:\n  - "Saranda City Beach 450 m"\n  - "La Petite Beach 1.1 km"\n  - "Sarande Main Beach 1.2 km"\n  - "Maestral Beach 1.3 km"\n  - "VIP Beach 2.2 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.4 km"\n  - "Butrint National Park 3.3 km"\n  - "Plazhi I Krorezes 9 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 31 km"\n  - "Ioannina Airport 71 km"\nbookingURL: "https://www.booking.com/hotel/al/get-comfy-sarande.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment distinguishes itself with its commitment to a smoke-free environment, ensuring a clean and fresh stay for all guests. The inclusion of free private parking adds a layer of convenience for those arriving by car, allowing for an effortless start to their vacation.
 
 Guests will find themselves enveloped in comfort with the apartment's modern amenities. The presence of free WiFi, a flat-screen TV, and a washing machine ensures that all needs are met, whether for entertainment or practical purposes. The kitchen comes fully equipped with a toaster and fridge, catering to those who prefer to prepare their own meals, while the private entrance to the accommodation enhances the sense of privacy and exclusivity.
 
 For those looking to explore beyond the immediate surroundings, Butrint National Park offers a rich tapestry of history and nature just 17 km away. Additionally, the nearest airport, Ioannina Airport, is located 97 km from the apartment, making Get Comfy an accessible choice for international and domestic travelers alike.
 
 In summary, Get Comfy stands out as a top selection for guests seeking a blend of comfort, convenience, and a touch of luxury during their stay in Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

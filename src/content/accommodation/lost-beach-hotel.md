@@ -1,15 +1,6 @@
----
-title: Lost Beach Hotel
-description: The Lost Beach Hotel goes above and beyond to ensure guest satisfaction with a range of top-notch amenities. An ATM, concierge service, and complimentary WiFi a
-featuredImage: "/images/accommodation/477659936.jpg"
-language: en
-slug: lost-beach-hotel
-location: ""
-amenities: []
-images: []
----
-
-The Lost Beach Hotel goes above and beyond to ensure guest satisfaction with a range of top-notch amenities. An ATM, concierge service, and complimentary WiFi across the premises underscore the hotel's dedication to convenience and care. Whether it's room service, the 24-hour front desk, or the currency exchange service, guests' needs are met with promptness and professionalism.
+---\ntitle: "Lost Beach Hotel"\ndescription: "Discover the charm of Sarandë at the Lost Beach Hotel, a gem located just a stone's throw away from the pristine Maestral Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477659936.jpg?k=e875a1241e848d8a1b73fc8446d9cf71d3f7fedc8d97efe34bf362670c3e8c60&o=&hp=1"\nlanguage: en\nslug: lost-beach-hotel\naddress: "Rruga Nacionale Sarande-Ksamil, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.86471281\n  lng: 20.016667\nprice: "US$97"\npriceFrom: 97\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 104\nratings:\n  overall: 8.8\n  location: 9.2\n  cleanliness: 9.3\n  facilities: 9.2\n  value: 8.4\n  comfort: 9.5\n  staff: 8.6\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477659936.jpg?k=e875a1241e848d8a1b73fc8446d9cf71d3f7fedc8d97efe34bf362670c3e8c60&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492365590.jpg?k=a65d89fe20abe282c6a6407227b09d4a4e12d938f5ed35983ed75037df3583a8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492367662.jpg?k=cec56601e5b8fca527d225d477251fd8fe3e896e0b6b604559242042ab0d41bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473428811.jpg?k=2d25877161fd617b81839072190cc9586a5dde122bccade0e9b26610b0b00a59&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473430528.jpg?k=519107a6d64348920c78ba53e56d1e504f35cbc2557209daec8575c4b29eddbc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473430388.jpg?k=cb6dbc375ed2be2d9a527f6d5449c3726be4670dbb311b60f7615a8b0eef717a&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Good breakfast"\nroomTypes:\n  - "Deluxe Room"\n  - "Junior Suite"\n  - "Executive Suite"\nnearbyRestaurants:\n  - "Lost Seaside 10 m"\n  - "Manxurane - & Wines 50 m"\nnearbyBeaches:\n  - "Maestral Beach 200 m"\n  - "La Petite Beach 400 m"\n  - "VIP Beach 700 m"\n  - "Santa Quaranta Beach 700 m"\n  - "Saranda City Beach 800 m"\nwhatsNearby:\n  - "Parc National de Butrint 950 m"\n  - "Butrint National Park 1.8 km"\n  - "Plazhi I Krorezes 7 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 11 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 70 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Dera"\n    country: "United Kingdom"\n    text: "“It was a beautiful hotel with everything as explained.
+We were really happy for the place and all the surroundings.
+The rooms were breathtaking”"\n  - name: "Rafał"\n    country: "Poland"\n    text: "“Lost Beach hotel is one of the nicest hotels I have ever been to. Great and extremely friendly service. A jacuzzi on the terrace is a great idea, allowing you to watch beautiful sunsets. Breakfasts are served at the highest level and in a very...”"\n  - name: "Rose"\n    country: "United Kingdom"\n    text: "“I love everything about the property it was perfect”"\nbookingURL: "https://www.booking.com/hotel/al/lost-seaside.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe Lost Beach Hotel goes above and beyond to ensure guest satisfaction with a range of top-notch amenities. An ATM, concierge service, and complimentary WiFi across the premises underscore the hotel's dedication to convenience and care. Whether it's room service, the 24-hour front desk, or the currency exchange service, guests' needs are met with promptness and professionalism.
 
 Accommodations at the Lost Beach Hotel are designed with comfort and elegance in mind. Each room is a haven of relaxation, featuring air conditioning, a work desk, and a balcony that offers captivating city views. The private bathrooms, flat-screen TVs, and the thoughtful addition of bed linen and towels enhance the home-away-from-home experience. For added convenience, rooms are equipped with a wardrobe and a kettle, ensuring a stay that is both comfortable and practical.
 
@@ -18,15 +9,3 @@ Morning at the hotel begins with a choice of buffet, continental, or vegetarian 
 Exploration is effortless from the Lost Beach Hotel, with La Petite Beach just 500 meters away and VIP Beach within a 1.1 km reach. For those traveling further afield, Ioannina Airport is 96 km away, making the hotel a convenient base for both local and international travelers.
 
 The Lost Beach Hotel is not just a place to stay; it's a gateway to the enchanting experiences that Sarandë has to offer.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

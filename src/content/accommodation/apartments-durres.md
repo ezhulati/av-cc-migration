@@ -1,28 +1,5 @@
----
-title: Apartments Durres
-description: The property boasts air-conditioned units, ensuring a restful retreat from the bustling city life. Guests are treated to the luxury of private bathrooms and the
-featuredImage: "/images/accommodation/471911418.jpg"
-language: en
-slug: apartments-durres
-location: ""
-amenities: []
-images: []
----
-
-The property boasts air-conditioned units, ensuring a restful retreat from the bustling city life. Guests are treated to the luxury of private bathrooms and the convenience of complimentary WiFi across the board. Select rooms elevate the experience further with the addition of balconies, allowing for serene moments of relaxation while taking in the local ambiance.
+---\ntitle: "Apartments Durres"\ndescription: "Apartments Durres emerges as a prime choice for travelers seeking a blend of comfort and convenience, situated a mere 400 meters from the inviting shores of Durres Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471911418.jpg?k=4e0a16ebd1e42575d3d52ba93e552eed3148bca88ae70746f3d8dc5ed2a4b0c3&o=&hp=1"\nlanguage: en\nslug: apartments-durres\naddress: "Rruga Vegimi, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31108375\n  lng: 19.48741681\nprice: "US$87"\npriceFrom: 87\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 9.6\n  location: 10\n  cleanliness: 10\n  facilities: 7.5\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471911418.jpg?k=4e0a16ebd1e42575d3d52ba93e552eed3148bca88ae70746f3d8dc5ed2a4b0c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471911440.jpg?k=9b9dc9805e040ee4fe3c7de30ccc6d89b6ea37ae5cfa883d811117ddb6e97aa5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471911455.jpg?k=b8064517675fe9b4bd3d546bcd52f463b4ef8c2bbc16033da6c239c9ebc85942&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471911437.jpg?k=ba4029c1abc886c740d6a24eeb3593e2a9283ae1ab7b9a4c5301793abc514009&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471911459.jpg?k=f55063a1b1fc3be9878b8066b90f29997215d53cf3c6fb21c77ae1544fdbcc63&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471911457.jpg?k=83700138eef092093148af37a0be5218e7e8ed4616d813afbc57aee423ec6d96&o=&hp=1"\namenities:\n  - "Private parking"\n  - "Free WiFi"\nroomTypes:\n  - "Apartment - Ground Floor"\nnearbyRestaurants:\n  - "Galaxy 200 m"\n  - "Peshk I Fresket Brace 250 m"\nnearbyBeaches:\n  - "Durres Beach 300 m"\n  - "Shkëmbi i Kavajës Beach 3.3 km"\n  - "Currila Beach 3.4 km"\n  - "Kallmi Beach 4.7 km"\n  - "West End Beach 6 km"\nwhatsNearby:\n  - "Bekimi 2 km"\n  - "Wine Dhe Pooh 3.3 km"\n  - "Sheshi Demokracia 3.3 km"\n  - "Yje Dhe Hena 3.4 km"\n  - "Durres Amphiteatre 3.5 km"\n  - "Sotir Noka 3.6 km"\n  - "1. Maj 3.7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nreviews:\n  - name: "Nadia"\n    country: "Italy"\n    text: "“Vicino al mare, in prossimità di negozi e ristoranti. i proprietari veramente adorabili, hanno fatto di tutto per facilitarci il soggiorno.”"\nbookingURL: "https://www.booking.com/hotel/al/apartments-durres-durres1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe property boasts air-conditioned units, ensuring a restful retreat from the bustling city life. Guests are treated to the luxury of private bathrooms and the convenience of complimentary WiFi across the board. Select rooms elevate the experience further with the addition of balconies, allowing for serene moments of relaxation while taking in the local ambiance.
 
 For visitors arriving by car, the provision of private parking, available for an additional charge, adds an extra layer of ease to the travel experience. Positioned 38 km from the vibrant Skanderbeg Square and 42 km from the Dajti Ekspres Cable Car, Apartments Durres serves as an ideal base for exploring the broader Durrës area. Moreover, the proximity to Tirana International Mother Teresa Airport, just 32 km away, ensures smooth transitions for international travelers.
 
 In summary, Apartments Durres presents a compelling option for those in pursuit of a comfortable stay, highlighted by its advantageous location near both the beach and cultural landmarks, making it a noteworthy consideration for your next visit to Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

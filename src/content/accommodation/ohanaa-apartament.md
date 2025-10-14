@@ -1,28 +1,5 @@
----
-title: Ohanaa Apartament
-description: The apartment itself is a haven of tranquility, featuring a balcony that offers serene garden views. With air conditioning, two cozy bedrooms, and a fully equip
-featuredImage: "/images/accommodation/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
-language: en
-slug: ohanaa-apartament
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of tranquility, featuring a balcony that offers serene garden views. With air conditioning, two cozy bedrooms, and a fully equipped kitchen, guests have everything they need for a comfortable stay. Entertainment is readily available with the inclusion of a flat-screen TV, making it an ideal choice for both short and long-term stays.
+---\ntitle: "Ohanaa Apartament"\ndescription: "Ohanaa Apartament emerges as a serene retreat for travelers seeking the perfect blend of comfort and convenience in Sarandë."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"\nlanguage: en\nslug: ohanaa-apartament\naddress: "Rruga Idriz Alidhima, Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87927434\n  lng: 19.9847981\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 5\nratings:\n  overall: 9.3\n  location: 8\n  cleanliness: 9\n  facilities: 9\n  value: 10\n  comfort: 9.5\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"\n  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482522130.jpg?k=629ee7e6b5d5e342158ee9a0513a06baf567d73b80b281b9be47b04a7142fb32&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/482522060.jpg?k=8841e8acb1bb12996b17acd19fd290436570354bfbcd3930f4407079a7e3a657&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/482522133.jpg?k=8a174166f0b20a8a4c851e98009cf467493f5beb4b0e763b0599b5fe9c812991&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/482522135.jpg?k=37d3710da65268b709e85fbc442c4d2be8a5b564a7d69fb3fc2c60d1d45a161e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/482522137.jpg?k=4d67dccd7a9d47662eb0120fb8e57afd23a18bc7e1425571c47f8d8193bde24b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/482522144.jpg?k=bb20612fc5e920722269c26e1ef82aea8ef0950e8dbbc7c0a6fe1554f83870df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/482522145.jpg?k=b6e7f071c33c13b0bea73ba787c7372a7812b49cb7b49dfcb6ec93cd79114e7b&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Terrace"\nnearbyRestaurants:\n  - "Kozi Bistro 250 m"\n  - "Siro Beach 500 m"\nnearbyBeaches:\n  - "Saranda Bay Beach 400 m"\n  - "Sarande Main Beach 1,000 m"\n  - "Saranda City Beach 2.2 km"\n  - "La Petite Beach 2.8 km"\n  - "Maestral Beach 2.9 km"\nwhatsNearby:\n  - "Parc National de Butrint 4.1 km"\n  - "Butrint National Park 4.7 km"\n  - "Plazhi I Krorezes 9 km"\n  - "Parku Kombetar I Butrintit 13 km"\n  - "Butrint National Park 14 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 73 km"\nreviews:\n  - name: "Sylwester"\n    country: "Poland"\n    text: "“Apartament czysty i dobrze wyposażony. Sąsiaduje bezpośrednio z domem gospodarzy, którzy dodają temu miejscu uroku. Bardzo mili i ciepli ludzie, ostatni wieczór spędziliśmy wspólnie, słuchając ich lokalnych opowieści.”"\nbookingURL: "https://www.booking.com/hotel/al/ohanaa-apartament.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of tranquility, featuring a balcony that offers serene garden views. With air conditioning, two cozy bedrooms, and a fully equipped kitchen, guests have everything they need for a comfortable stay. Entertainment is readily available with the inclusion of a flat-screen TV, making it an ideal choice for both short and long-term stays.
 
 For those keen on exploring the natural beauty of the area, Butrint National Park is just 19 km away, offering a glimpse into the region's rich history and breathtaking landscapes. Additionally, the convenience of Ioannina Airport being 99 km away facilitates easy access for international travelers.
 
 Ohanaa Apartament not only promises a memorable stay with its array of amenities but also serves as a gateway to the enchanting surroundings of Sarandë, making it a top pick for discerning guests.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

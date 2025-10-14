@@ -1,30 +1,5 @@
----
-title: Olive house.
-description: "The accommodation boasts a well-appointed bedroom, complemented by a bathroom equipped with fresh bed linen and towels, enhancing the comfort of your stay."
-featuredImage: "/images/accommodation/374570306.jpg"
-language: en
-slug: olive-house
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Olive House"\ndescription: "Olive House emerges as a serene retreat in the heart of Golem, offering air-conditioned accommodations complete with a welcoming balcony."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481752955.jpg?k=4b2214b0d842f194798e06cc10bf042184c212f77e08a80cc56292a00722cb2e&o=&hp=1"\nlanguage: en\nslug: olive-house\naddress: "Bulevardi i Palmave First floor, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.24749438\n  lng: 19.52617197\nprice: "US$53"\npriceFrom: 53\nstarRating: 3\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 2\nratings:\n  overall: 8.4\n  location: 6.3\n  cleanliness: 8.8\n  facilities: 7.5\n  value: 8.8\n  comfort: 10\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481752955.jpg?k=4b2214b0d842f194798e06cc10bf042184c212f77e08a80cc56292a00722cb2e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483704537.jpg?k=1bea80bc56fc93e92d2b232e7e3d2a8e59fff28a56219b054411cb06783bada1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483705071.jpg?k=bf406c6daee00514d8c00a767fa4d90ed89efdf26c3fe7e8447d1062bed43249&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483705244.jpg?k=a0e98a5ae117df879ad788224d47a9880ff1ff9fd60a3376acfe9ce0303303a1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483705149.jpg?k=a2c40c73b70c6ad7c8844f3610ed58853c86b48de945cbee9a35c4a37f903730&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483705346.jpg?k=864f7f0fcc4b6ed984e8322158c3acb4a48c2c4aa2955f5ff4133808aa78554f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483704839.jpg?k=f276b4c09c8abf19a5ea993011c93187d0b9ce191282795696c415e8fc68aa5e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483704739.jpg?k=2955e1e54475052b6c81958fc448c7a1a4f4c420e9d57d91b9f9dbc2da2ff52b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483704444.jpg?k=23135317c19d37d4cb75dd3403eb0548df80f92d320d5306c03cf13ffddfbd7e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Brutal Steakhouse 300 m"\n  - "Furrë Buke Drini 350 m"\nnearbyBeaches:\n  - "Golem Beach 550 m"\n  - "Mali I Robit Beach 550 m"\n  - "Shkëmbi i Kavajës Beach 2.1 km"\n  - "Qerret Beach 2.2 km"\n  - "Durres Beach 4.5 km"\nwhatsNearby:\n  - "Bekimi 10 km"\n  - "Durres Amphiteatre 10 km"\n  - "Wine Dhe Pooh 10 km"\n  - "1. Maj 10 km"\n  - "Yje Dhe Hena 10 km"\n  - "Sheshi Demokracia 10 km"\n  - "Sotir Noka 11 km"\nairports:\n  - "Tirana International Airport Mother Teresa 23 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nbookingURL: "https://www.booking.com/hotel/al/olive-house-golem.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself boasts a thoughtful layout, featuring a single bedroom that promises restful nights, a fully equipped kitchen for culinary adventures, and a bathroom designed with comfort in mind. Guests will appreciate the commitment to a smoke-free environment, ensuring a fresh and inviting atmosphere throughout their stay.
 
-The accommodation boasts a well-appointed bedroom, complemented by a bathroom equipped with fresh bed linen and towels, enhancing the comfort of your stay. The living space is thoughtfully designed, featuring a flat-screen TV with a variety of cable channels, a dining area perfect for intimate meals, and a fully equipped kitchen for those who prefer to prepare their own food. Perhaps the most captivating feature is the balcony, offering breathtaking sea views, ideal for guests who appreciate the beauty of the ocean from the comfort of their accommodation.
+Adventure seekers and nature enthusiasts will find the Dajti Ekspres Cable Car, located 49 km away, an irresistible attraction, offering breathtaking views and a unique perspective of the area. Meanwhile, the Rock of Kavaje, just 4.1 km from Olive House, presents an opportunity for memorable explorations close to home. For those traveling by air, the convenience of Tirana International Mother Teresa Airport, situated 40 km away, ensures a hassle-free arrival and departure.
 
-For dining al fresco, there is an inviting outdoor area where guests can savor their meals amidst the tranquil garden views. The guest house also prides itself on offering a private entrance, ensuring an exclusive and undisturbed experience for visitors.
-
-Leisure moments can be enjoyed on the sun terrace, providing a perfect spot for relaxation under the warm Mediterranean sun. For those looking to explore the local beaches, Ri Beach is a mere 700 meters away, while the more secluded Vjetër Beach is within a 2.5 km reach, offering a variety of coastal experiences.
-
-Located 152 km from Tirana International Mother Teresa Airport, Olive House presents an ideal retreat for travelers seeking a blend of relaxation and convenience in the picturesque setting of Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}
+Positioned a mere 500 meters from the tranquil Mali I Robit Beach, Olive House stands as an ideal choice for travelers seeking a blend of relaxation, convenience, and the opportunity to explore the natural beauty and cultural richness of Golem and its surroundings.

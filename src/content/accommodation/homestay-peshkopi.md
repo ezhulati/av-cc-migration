@@ -1,28 +1,5 @@
----
-title: Homestay Peshkopi
-description: "This charming bed and breakfast, located a mere 45 km from the historic Saint Jovan Bigorski Monastery and 27 km from the revered Monastery of Saint G..."
-featuredImage: "/images/accommodation/511270653.jpg"
-language: en
-slug: homestay-peshkopi
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Homestay Peshkopi"\ndescription: "Homestay Peshkopi emerges as a serene retreat in the heart of Peshkopi, offering guests a unique blend of comfort and tranquility."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511270653.jpg?k=ff55d7df5d2a9486d79cebe81ff717215280dce470ff9639855d71a7d69746cb&o=&hp=1"\nlanguage: en\nslug: homestay-peshkopi\naddress: "Peshkopi Blvd, 8301 Peshkopi, Albania"\ncity: "Peshkopi"\nlocation: "Peshkopi"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.6844282\n  lng: 20.43170853\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511270653.jpg?k=ff55d7df5d2a9486d79cebe81ff717215280dce470ff9639855d71a7d69746cb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/511270616.jpg?k=ea6bb4d627fca871d78b353104c8801a5aad3020e5b7cf18350cd0d9934ef47c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/511270620.jpg?k=b2b1c1484a63fcdbb2140c2c8b10f594c534c7e7e875db33bad234e536405635&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/511270541.jpg?k=1794f7777ee9962dab8bf5080bc7deac12dfdf4c5036cadc692a4731f3797a20&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/511270638.jpg?k=11e73ea74edcd066a80144fccfb25f680c537c2a349b06edc1911adcd1a97317&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/511270633.jpg?k=bac41dfbe1b886f80b96db0d838fff89fee76186d4589c27ccb950301b1ad0a4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/511270643.jpg?k=13d05a0c929e9f045ea1503efd2f5a597bc42f3a868391c9339f5a3c4eb6ceba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/511270630.jpg?k=4c3b9c0be21703285b4f4ffe5efbedca150b069e80ff37fd2a1f3980b880c527&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/511270625.jpg?k=660b2b9cb04b1e78c3e8d03f8797511e688c1fceccd1ef47769fa0a467476d9b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/511270648.jpg?k=a1ae761e8d96c7587acd8d003a44bceb8f0ce84fb09550c3a7dd32d5bd77ecbb&o=&hp=1"\namenities:\n  - "Free parking"\nnearbyRestaurants:\n  - "Restorant Piceri Qendra 150 m"\n  - "Vip Beer lottosport 300 m"\nwhatsNearby:\n  - "Llixhat Peshkopi 1.4 km"\n  - "Llixhat e Peshkopi 1.4 km"\n  - "Lure National Park 19 km"\nairports:\n  - "Ohrid Airport 61 km"\n  - "Tirana International Airport Mother Teresa 66 km"\nbookingURL: "https://www.booking.com/hotel/al/homestay-peshkopi.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThis charming bed and breakfast, located a mere 45 km from the historic Saint Jovan Bigorski Monastery and 27 km from the revered Monastery of Saint George the Victorious, provides an ideal base for exploring the region's rich cultural tapestry. 
 
-This charming bed and breakfast, located a mere 45 km from the historic Saint Jovan Bigorski Monastery and 27 km from the revered Monastery of Saint George the Victorious, provides an ideal base for exploring the region's rich cultural tapestry.
-
-With its commitment to a smoke-free environment, guests can enjoy the purity of the air, enhancing the peaceful atmosphere. The property boasts a beautifully maintained garden and a welcoming terrace, inviting guests to relax and unwind in a picturesque setting.
+With its commitment to a smoke-free environment, guests can enjoy the purity of the air, enhancing the peaceful atmosphere. The property boasts a beautifully maintained garden and a welcoming terrace, inviting guests to relax and unwind in a picturesque setting. 
 
 For those traveling from afar, the convenience of Ohrid Airport, being just 85 km away, makes Homestay Peshkopi an accessible haven for both short stays and extended getaways.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

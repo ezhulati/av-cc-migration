@@ -4,9 +4,19 @@ description: Following a recent renovation, the apartment boasts a modern and in
 featuredImage: "/images/accommodation/514132840.jpg"
 language: en
 slug: kellys-cozy-hideaway-central-tirana
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "hotel"
+location: "Tirana"
+amenities:
+  - "Restaurant"
+  - "Spa"
+  - "Kitchen"
+  - "Balcony"
+  - "Mountain View"
+  - "TV"
 ---
 
 Following a recent renovation, the apartment boasts a modern and inviting atmosphere. Guests will find themselves enveloped in comfort with two well-appointed bedrooms, a bathroom equipped with a bidet and dressing room, and the added convenience of allergy-free and non-smoking premises. The inclusion of bed linen, towels, and a flat-screen TV with streaming services ensures a stay that combines the comforts of home with the luxuries of a hotel.
@@ -17,14 +27,3 @@ Situated just 600 meters from the historical Former Residence of Enver Hoxha and
 
 Accessibility is also a highlight, with Tirana International Mother Teresa Airport located just 15 km away, ensuring smooth arrivals and departures for international guests. With its strategic location, comprehensive amenities, and tranquil ambiance, Kelly's Cozy Hideaway - Central Tirana stands out as a top-tier accommodation choice for those looking to immerse themselves in the charm and dynamism of Tirana.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

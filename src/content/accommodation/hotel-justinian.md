@@ -1,28 +1,5 @@
----
-title: Hotel Justinian
-description: The hotel prides itself on its family-friendly accommodations, with each room boasting a balcony that offers a personal outdoor space for guests to enjoy. Wheth
-featuredImage: "/images/accommodation/472069491.jpg"
-language: en
-slug: hotel-justinian
-location: ""
-amenities: []
-images: []
----
-
-The hotel prides itself on its family-friendly accommodations, with each room boasting a balcony that offers a personal outdoor space for guests to enjoy. Whether it's a view of the bustling city or a quiet moment under the stars, these balconies add a touch of personal retreat to the hotel experience.
+---\ntitle: "Hotel Justinian"\ndescription: "Hotel Justinian stands as a prime choice for travelers seeking comfort and convenience in Pogradec, located just 9."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472069491.jpg?k=2d03bda7768012569b54ac8bdaea7f84ec83304fe042414a81ad30b41d0fe7ca&o=&hp=1"\nlanguage: en\nslug: hotel-justinian\naddress: "Rruga Reshit Çollaku, 7301 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.90627222\n  lng: 20.65170495\nprice: "US$24"\npriceFrom: 24\nstarRating: 3\nrating: 8\nratingWords: "Very Good"\nnumberOfReviews: 3\nratings:\n  overall: 8\n  location: 8.3\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 8.3\n  comfort: 8.3\n  staff: 8.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472069491.jpg?k=2d03bda7768012569b54ac8bdaea7f84ec83304fe042414a81ad30b41d0fe7ca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472069591.jpg?k=d85af00d4b004d8e51dc172143ec18b2a7ecb039dd0ee4c81c492c0744aba066&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472069599.jpg?k=ecbecc98d06bf47fdf53185c2a83ae648f82477ac9e85f94c0fd19e2b997a8b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472069616.jpg?k=4e49e396f6338e3a370731b16215b1333d43a75df2c826097adee86c09324d37&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472069623.jpg?k=7f4bcef90ee177a72532443eaa2662bb6443730b363e1f34d316f803f096c285&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472069629.jpg?k=c9de3cc4ee8b9d59263d2eb75f4b7e19f46f51204a5d8e5d5c24a27bc4ceb517&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472069637.jpg?k=bc767dc8068ec3d925993c6244a27939eea83e516ec17fd5a4669747bd73f620&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472069633.jpg?k=76fc3a47e475fd9d85918aab88f8b21a46e61869a124f36f60c4090cb6b462e5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472069613.jpg?k=bf5379f1aa97c9b6944be94cb2e2d7f97570cf521e7a04610d20bd0a32809c1b&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Double or Twin Room"\nnearbyRestaurants:\n  - "Zgara Pogradecare 350 m"\n  - "Bakery Kosovari 500 m"\nwhatsNearby:\n  - "Driloni National Park 1.7 km"\n  - "National Park Galicica 8 km"\n  - "National Park Galicica 15 km"\n  - "Bay of Bones 16 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 72 km"\n  - "Tirana International Airport Mother Teresa 95 km"\npaymentMethods:\n  - "Mastercard"\nbookingURL: "https://www.booking.com/hotel/al/justinian.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nThe hotel prides itself on its family-friendly accommodations, with each room boasting a balcony that offers a personal outdoor space for guests to enjoy. Whether it's a view of the bustling city or a quiet moment under the stars, these balconies add a touch of personal retreat to the hotel experience.
 
 For those looking to venture further, Hotel Justinian serves as a perfect gateway, with Port Ohrid and the Church of St. John at Kaneo within a 40 km radius. The proximity to these sites allows for easy planning of day trips and excursions, ensuring that guests have the opportunity to fully immerse themselves in the local culture and scenic landscapes.
 
 Accessibility is also a highlight, with Ohrid Airport merely 47 km away, making arrivals and departures as smooth as possible for international and domestic travelers alike. Hotel Justinian emerges not just as a place to stay, but as a cornerstone of convenience and exploration for those visiting Pogradec.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,7 @@
----
-title: Gjiri i Lalzit - Lura 3 - SanMia 3 Bedroom apartment
-description: Perched 43 km away from the historical Former Residence of Enver Hoxha and a mere 41 km from the majestic Rock of Kavaje, this property provides an ideal base f
-featuredImage: "/images/accommodation/471448592.jpg"
-language: en
-slug: gjiri-i-lalzit-lura-3-sanmia-3-bedroom-apartment
-location: ""
-amenities: []
-images: []
----
-
-Perched 43 km away from the historical Former Residence of Enver Hoxha and a mere 41 km from the majestic Rock of Kavaje, this property provides an ideal base for exploring the rich cultural tapestry and natural beauty of the area. The Durres Amphitheatre, another notable landmark, is also within easy reach, located just 37 km away.
+---\ntitle: "Gjiri i Lalzit - Lura 3 - SanMia 3 Bedroom apartment"\ndescription: "Discover the serene beauty and comfort of Gjiri i Lalzit - Lura 3 - SanMia, a 3-bedroom apartment that stands out for its prime location and exceptional amenities."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471448592.jpg?k=2d3c48eea86a83c4b2ac2cf574a2fbb9f0f791cfebc1afeb0f4691e733900a17&o=&hp=1"\nlanguage: en\nslug: gjiri-i-lalzit-lura-3-sanmia-3-bedroom-apartment\naddress: "Plazhi San Pietro, Kompleksi Lura 3, Gjiri i Lalzit, 2015 Mullini i Danit, Albania"\ncity: "Mullini"\nlocation: "Mullini"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.5040392\n  lng: 19.51854298\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471448592.jpg?k=2d3c48eea86a83c4b2ac2cf574a2fbb9f0f791cfebc1afeb0f4691e733900a17&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471448693.jpg?k=0d8748df4606b1e1672e5e727f1d4061d337b210fc055d56dfedbaec3b07c8b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471448722.jpg?k=df42286b91838642a527c25ac2400682093c8840ac324acd8bf16c062fe0c9b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471448740.jpg?k=ec4a7b9fe9e48e28da4fea609aa87e9d195601248625197abfb425c6746a43db&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471448841.jpg?k=9021c38db55c043ee2a9334e0de3be5c598880ae9d1ddf258a2ab905617cafd7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471448614.jpg?k=75f92b660353c331cb7c38f490852ec55b6d6228c1ff39def5f635b4c9884796&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471448891.jpg?k=0db5abcc8336e2fc99987a0d1356980a6d8d90ea35e8a59912ed6ea025264fae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471448660.jpg?k=4d0519ac706cdd6b0aa0dcf6ee3857eb7d1fc02597cc283c05573f551aa75685&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471448617.jpg?k=530de5bce25063f0b3363506ad84b00da38bf3e38275424a02807b4353b7cc8f&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Triumf 2 350 m"\n  - "Oasis Bar 350 m"\nnearbyBeaches:\n  - "Lalëz Bay Beach 350 m"\n  - "Rodoni Beach 10 km"\nwhatsNearby:\n  - "Bekimi 20 km"\nairports:\n  - "Tirana International Airport Mother Teresa 18 km"\n  - "Podgorica Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/gjiri-i-lalzit-lura-3.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nPerched 43 km away from the historical Former Residence of Enver Hoxha and a mere 41 km from the majestic Rock of Kavaje, this property provides an ideal base for exploring the rich cultural tapestry and natural beauty of the area. The Durres Amphitheatre, another notable landmark, is also within easy reach, located just 37 km away.
 
 The apartment itself is a haven of comfort, boasting a spacious terrace that offers stunning garden views. Inside, guests will find a cozy living room equipped with a flat-screen TV, an equipped kitchen complete with a dishwasher and an oven, and a pristine bathroom featuring a bidet. For those who appreciate the finer details, towels and linens are available upon request.
 
 Outdoor enthusiasts will be delighted with the property's outdoor dining area, perfect for enjoying meals in the fresh air. Moreover, the apartment offers the opportunity for guests to engage in table tennis, adding a touch of fun to their stay. For moments of relaxation, the garden invites guests to unwind in its peaceful embrace.
 
 Conveniently located just 28 km from Tirana International Mother Teresa Airport, Gjiri i Lalzit - Lura 3 - SanMia ensures a hassle-free arrival and departure experience. Whether seeking adventure or relaxation, this 3-bedroom apartment is a perfect choice for travelers looking for a memorable stay in a picturesque setting.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

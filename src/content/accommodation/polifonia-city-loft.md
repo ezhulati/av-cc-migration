@@ -1,30 +1,9 @@
----
-title: POLIFONIA City Loft
-description: The establishment prides itself on offering a suite of amenities designed to cater to the modern traveler's needs. Each room is a sanctuary of comfort, equipped
-featuredImage: "/images/accommodation/461818698.jpg"
-language: en
-slug: polifonia-city-loft
-location: ""
-amenities: []
-images: []
----
-
-The establishment prides itself on offering a suite of amenities designed to cater to the modern traveler's needs. Each room is a sanctuary of comfort, equipped with air conditioning, a flat-screen TV boasting an array of cable channels, a refrigerator, and a kettle for those much-needed moments of relaxation. The convenience of a private bathroom, complete with a shower, hairdryer, and fresh bed linen, ensures a stay that combines the comforts of home with the luxury of hotel living.
+---\ntitle: "POLIFONIA City Loft"\ndescription: "POLIFONIA City Loft emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461818698.jpg?k=2fc0981ff1fc9f9771bffaf2f31f7e9db72d63199d1e4df14523282661e87e09&o=&hp=1"\nlanguage: en\nslug: polifonia-city-loft\naddress: "Blv. Ismail Qemali, Lagjia Pavaresia, 9404 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.45540597\n  lng: 19.48764374\nprice: "US$58"\npriceFrom: 58\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 34\nratings:\n  overall: 9.6\n  location: 9.7\n  cleanliness: 9.6\n  facilities: 9.3\n  value: 9.3\n  comfort: 9.3\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461818698.jpg?k=2fc0981ff1fc9f9771bffaf2f31f7e9db72d63199d1e4df14523282661e87e09&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461818934.jpg?k=ef64d63d97748b5d99c730f5e1f43f7f8bed27241b02b42a531e18821a12f53c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471729293.jpg?k=c0227644c99acc800d962d58e19718c2a4be21996885b68a6ef3043121698072&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468324474.jpg?k=e0b1d11b6f1492586d55046fbd4b6bc3b65ca8dfae58f0aa5d0e24e99b4f301f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468324402.jpg?k=3b29e9cc9598bebc0cac81250702c4941c41b3859017c76c77795dbf069cfb05&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467752670.jpg?k=18ef8aa497baaa19ab30f2539a2f6351b8c72dd39c45d0d1433e91943b718b59&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Tea/coffee maker in all rooms"\n  - "Breakfast"\nroomTypes:\n  - "King Studio with Sofa Bed"\n  - "Deluxe Double or Twin Room"\n  - "Family Junior Suite"\n  - "Deluxe Double Room with Sea View"\n  - "Double or Twin Room with View"\nnearbyRestaurants:\n  - "Rimix Bar 50 m"\n  - "Pulebardha 50 m"\nnearbyBeaches:\n  - "Vjetër Beach 650 m"\n  - "Vlore Beach 950 m"\n  - "Ri Beach 2.3 km"\n  - "Beach at Government Villas 3.9 km"\n  - "Liro Beach 4.5 km"\nwhatsNearby:\n  - "Kuzum Baba 1.4 km"\n  - "Independence Square 1.7 km"\n  - "Scooby Doo Vlore 2.2 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Isaac"\n    country: "Spain"\n    text: "“Our room was really specious and the bed was comfortable. All the rooms look new and very fresh. We had a few amenities in the bathroom. The hotel is located in the heart of the touristic Vlorë, near the beach, the promenade, but also the...”"\n  - name: "Adam"\n    country: "Switzerland"\n    text: "“Super friendly and accommodating staff. They will go an extra mile to help you out with anything. Great job! Thanks a lot!”"\n  - name: "Judith"\n    country: "Australia"\n    text: "“great position very helpful,knowledgeable,and friendly owner manager
+completely like a new modern hotel at an amazing rate
+quite and well appointed”"\nbookingURL: "https://www.booking.com/hotel/al/polifonia.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe establishment prides itself on offering a suite of amenities designed to cater to the modern traveler's needs. Each room is a sanctuary of comfort, equipped with air conditioning, a flat-screen TV boasting an array of cable channels, a refrigerator, and a kettle for those much-needed moments of relaxation. The convenience of a private bathroom, complete with a shower, hairdryer, and fresh bed linen, ensures a stay that combines the comforts of home with the luxury of hotel living.
 
 Beyond the rooms, POLIFONIA City Loft enhances the guest experience with a shared lounge, perfect for socializing or unwinding after a day of exploration. The commitment to guest comfort is further evidenced by the provision of allergy-free rooms and complimentary WiFi accessible throughout the property. For those looking to explore the local area, the hotel offers a bicycle rental service, adding a touch of adventure to the stay.
 
 Accessibility is seamlessly addressed with airport transfers, ensuring a hassle-free journey to and from the property. For international travelers, the Tirana International Mother Teresa Airport is located 151 km away, making POLIFONIA City Loft an accessible option for both domestic and international visitors.
 
 In summary, POLIFONIA City Loft stands as a testament to thoughtful hospitality, where every detail is curated to enhance the guest experience. Its prime location, coupled with an array of amenities, positions it as an ideal choice for travelers seeking the perfect blend of exploration and relaxation in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

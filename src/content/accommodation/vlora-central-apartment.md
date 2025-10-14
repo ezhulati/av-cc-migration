@@ -1,28 +1,5 @@
----
-title: Vlora Central Apartment
-description: This generously sized apartment doesn't just offer a place to stay; it provides a home away from home. Guests can enjoy the luxury of space with two bedrooms, a
-featuredImage: "/images/accommodation/476558826.jpg"
-language: en
-slug: vlora-central-apartment
-location: ""
-amenities: []
-images: []
----
-
-This generously sized apartment doesn't just offer a place to stay; it provides a home away from home. Guests can enjoy the luxury of space with two bedrooms, a cozy living room, and a balcony ideal for morning coffees or evening relaxation. The kitchen comes fully equipped with modern appliances, including an oven and a microwave, catering to all culinary needs. For convenience, towels and bed linen are readily available, ensuring a comfortable stay.
+---\ntitle: "Vlora Central Apartment"\ndescription: "Vlora Central Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476558826.jpg?k=2fea5ff0a03354e06aca370ce36377a19e76d3c541614b830645324bf8a74dfc&o=&hp=1"\nlanguage: en\nslug: vlora-central-apartment\naddress: "veledin kollozi, 9402 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.46499129\n  lng: 19.48797257\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476558826.jpg?k=2fea5ff0a03354e06aca370ce36377a19e76d3c541614b830645324bf8a74dfc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476559059.jpg?k=4c30069e96690750a212723652bcf3d8161fb409653a8e2af13ea5b6d0befaec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476559086.jpg?k=337737bcf26497e872505732467c4789bfe0d30a2d7b1f3c74ccec9fae74d12c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476559050.jpg?k=1d37b6a3ff07a167f0e5913f21f6becbab9c96011abf0d6c3a8bd9457fad085b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476559043.jpg?k=2b5f0f58a612977980ff674fd83156c06f1f6b3e9a1b812fd1ece7052d1386d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476559112.jpg?k=d742e34bfdeed2c484d797ede9421292203f9767618083d0a514335904f41fdb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476558971.jpg?k=b8dd646b0e34705b9ae8995e59067181a1eaff9c481dd1cd91a469e70996ae1f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476559082.jpg?k=35200ae99b04e0676f4941427c62deef6da10a680557a227f88190f4711cf313&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476558918.jpg?k=6e531c87c94c42e4d35c069f6f4d4634ed15ff7567dcb4138bde57d42bd82e07&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Poema Bistro 100 m"\n  - "Quaranta 150 m"\nnearbyBeaches:\n  - "Vjetër Beach 1.5 km"\n  - "Vlore Beach 2 km"\n  - "Ri Beach 3.3 km"\n  - "Beach at Government Villas 5 km"\n  - "Narta Beach 5 km"\nwhatsNearby:\n  - "Kuzum Baba 550 m"\n  - "Independence Square 700 m"\n  - "Scooby Doo Vlore 3.2 km"\nbookingURL: "https://www.booking.com/hotel/al/vlora-central-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis generously sized apartment doesn't just offer a place to stay; it provides a home away from home. Guests can enjoy the luxury of space with two bedrooms, a cozy living room, and a balcony ideal for morning coffees or evening relaxation. The kitchen comes fully equipped with modern appliances, including an oven and a microwave, catering to all culinary needs. For convenience, towels and bed linen are readily available, ensuring a comfortable stay.
 
 Adding to the appeal is the apartment's thoughtful design, featuring a private entrance that guarantees guests their privacy and peace. Connectivity is never an issue, as free WiFi is accessible throughout the premises, allowing visitors to stay connected with the world or plan their next day's adventures.
 
 For those venturing from afar, the Tirana International Mother Teresa Airport is 149 km away, making Vlora Central Apartment a feasible and welcoming option for international and domestic travelers alike.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

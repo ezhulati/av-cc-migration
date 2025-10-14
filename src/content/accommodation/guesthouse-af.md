@@ -4,9 +4,21 @@ description: Guesthouse A&F prides itself on its thoughtfully designed rooms, ea
 featuredImage: "/images/accommodation/342210976.jpg"
 language: en
 slug: guesthouse-af
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 3
+rating: 3
+accommodationType: "apartment"
+location: "Ksamil"
+amenities:
+  - "WiFi"
+  - "Air Conditioning"
+  - "Parking"
+  - "Restaurant"
+  - "Kitchen"
+  - "Balcony"
+  - "Mountain View"
+  - "TV"
 ---
 
 Guesthouse A&F prides itself on its thoughtfully designed rooms, each boasting a balcony that presents breathtaking mountain views, setting the stage for a tranquil retreat. The rooms are equipped with modern amenities including a satellite flat-screen TV, a dining area, and a well-appointed kitchen, ensuring guests feel right at home. The private bathrooms come with a shower and complimentary toiletries, adding a touch of convenience to your stay. Moreover, each unit features a patio with an outdoor dining area, perfect for enjoying city views while savoring a meal.
@@ -17,14 +29,3 @@ Located merely 500 meters from Ksamil Beach 7 and a short drive from the enchant
 
 With the added perks of air conditioning, free private parking, and complimentary WiFi, Guesthouse A&F promises a stay that combines comfort, convenience, and the allure of Ksamil's stunning landscapes.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,26 +1,3 @@
----
-title: Vila pushimi Gjergji Joga
-description: Guests are welcomed into a cozy chalet, equipped with a modern flat-screen TV and a single, well-appointed bedroom. The living space is enhanced by a comfortabl
-featuredImage: "/images/accommodation/515608474.jpg"
-language: en
-slug: vila-pushimi-gjergji-joga
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into a cozy chalet, equipped with a modern flat-screen TV and a single, well-appointed bedroom. The living space is enhanced by a comfortable seating area and a warm fireplace, creating an inviting atmosphere for relaxation.
+---\ntitle: "Vila pushimi Gjergji Joga"\ndescription: "Vila Pushimi Gjergji Joga, located in the picturesque Korçë County of Voskopojë, presents a serene garden setting for guests seeking tranquility and comfort."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515608474.jpg?k=a5d121e1351353e80d216276816fa0068c0df25d1d3462d9ab457df631744928&o=&hp=1"\nlanguage: en\nslug: vila-pushimi-gjergji-joga\naddress: "Rruga \"SHEN PRODHROMI\" NR.4, Voskopojë, 7029 Voskopojë, Albania"\ncity: "Voskopojë"\nlocation: "Voskopojë"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.63383131\n  lng: 20.59221335\nprice: "US$65"\npriceFrom: 65\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515608474.jpg?k=a5d121e1351353e80d216276816fa0068c0df25d1d3462d9ab457df631744928&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515608449.jpg?k=7f69c3f15a2cf61293ea52d86debbefbdda23ca821788e441e4a710ee210c989&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515608450.jpg?k=4193d2ce038a0f7f60b933676e6567a30437c8f6d4ea8863a6e1cbca89610490&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/515663642.jpg?k=530616eccaeaa6dd34bbc4cbfed862d93c23747f200745cb198834c8aba1a07c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/515608476.jpg?k=ea218bc8063f9bc05b196037f27b7de3e06c0586389ffb340476c024fbd9038a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/515608473.jpg?k=ad4a9811a3d33450f7fd5dc1c1a8228a3ff90ad8935eb16a42612e179b7c9d9d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/515663711.jpg?k=0845f20820945811fcf71e92be1aeeb25112d3b1c4870cd614c33e508491be4f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/515608454.jpg?k=ace68d7f88e2c1e150b11c10bcd219bf16aea0a0889a855a96ef97254e51319a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/515608452.jpg?k=2637d59de8693e109f48e77e989feb7dedc1500fc248cbe7dac9b378a150625a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/515608453.jpg?k=154620a4263e2b7c81631b651000c719cdc1d4d95c4a3c58759125bd93b423f0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/515608467.jpg?k=2e8fd7fa7d457d2685ab3e8659c070a2f2b1f3eccf6a2044f3dca96e1bd51b23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/515608472.jpg?k=2a2bc8935d893f1fe12a28b85322c991f515f0b1086664d472fbd7bad4777341&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Chalet"\nnearbyRestaurants:\n  - "Taverna Voskopoje 150 m"\n  - "Restorant \Ambassador\\" 250 m"\nwhatsNearby:\n  - "Sheshi Panxhar 11 km"\n  - "Sheshi Penetori 12 km"\n  - "Parku Vangjush Mio 16 km"\n  - "Parku Rinia 16 km"\n  - "Parku Themistokli Gërmenji 16 km"\n  - "Field of Tears 16 km"\n  - "Sheshi Patriku Joasaf 16 km"\n  - "Parku Rinia 17 km"\nairports:\n  - "Ohrid Airport 60 km"\n  - "Kastoria National Airport 61 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/vila-pushimi-gjergji-joga.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nGuests are welcomed into a cozy chalet, equipped with a modern flat-screen TV and a single, well-appointed bedroom. The living space is enhanced by a comfortable seating area and a warm fireplace, creating an inviting atmosphere for relaxation.
 
 For those traveling to or from the area, Kastoria National Airport is situated 89 km away, making Vila Pushimi Gjergji Joga an accessible retreat for both local and international visitors.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

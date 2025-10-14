@@ -1,28 +1,5 @@
----
-title: Hotel Frojd - Beach Front Resort
-description: The resort prides itself on its array of amenities, including a welcoming restaurant, attentive room service, and a 24-hour front desk, ensuring every need is m
-featuredImage: "/images/accommodation/302255880.jpg"
-language: en
-slug: hotel-frojd-beach-front-resort
-location: ""
-amenities: []
-images: []
----
-
-The resort prides itself on its array of amenities, including a welcoming restaurant, attentive room service, and a 24-hour front desk, ensuring every need is met with the utmost care. For those seeking entertainment, the property also features lively karaoke sessions and provides secure luggage storage space.
+---\ntitle: "Hotel Frojd - Beach Front Resort"\ndescription: "Hotel Frojd - Beach Front Resort stands as a distinguished 4-star haven in Shëngjin, boasting direct beachfront access that promises an unforgettable stay."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302255880.jpg?k=2ab3559d9bb54c1f09913289c9705779d7711f7c923a7e5283dbe9006dbe9d4a&o=&hp=1"\nlanguage: en\nslug: hotel-frojd-beach-front-resort\naddress: "Qender Shengjin Shetitorja Wilson, 1234 Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "resort"\ncoordinates:\n  lat: 41.81184732\n  lng: 19.59443271\nprice: "US$65"\npriceFrom: 65\nstarRating: 4\nrating: 7.7\nratingWords: "Good"\nnumberOfReviews: 89\nratings:\n  overall: 7.7\n  location: 8.6\n  cleanliness: 7.6\n  facilities: 7.4\n  value: 7.4\n  comfort: 7.8\n  staff: 7.9\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302255880.jpg?k=2ab3559d9bb54c1f09913289c9705779d7711f7c923a7e5283dbe9006dbe9d4a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302255890.jpg?k=6a1d6273a3d7f9d412d2afb0858570a5a91799664e5f5c4c882ff97b27174732&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399087582.jpg?k=d4c8f96cc453423cccdd8672ac38a97582fae6c11c7f05c96e7ea3b83bc31272&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323457040.jpg?k=5a1408e1fe429ef28453259c54a3be51044c5bf850b654fdf8eaeebc70ca59fe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256521608.jpg?k=2e1bc784e10a53b6541d993548cd94c567aa39b6ff153957debd0a7db67bb432&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302255885.jpg?k=0914a44936bb979c0e21bc92504438d3073b40c79e6208285689e3026c0cefd8&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Good breakfast"\nroomTypes:\n  - "Deluxe Double Room"\n  - "Deluxe Triple Room"\n  - "Deluxe Quadruple Room"\n  - "Family Room with Sea View"\n  - "Family Room"\nnearbyRestaurants:\n  - "Restorant Pizzeria Kosovari 100 m"\n  - "Restorant Pjeromo 100 m"\nnearbyBeaches:\n  - "Shëngjin Beach 40 m"\n  - "Ylberi Beach 1.4 km"\n  - "Rana e Hedhun Beach 2.5 km"\n  - "Kune Beach 4.7 km"\n  - "Laguna Park Beach 4.8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 44 km"\n  - "Podgorica Airport 66 km"\n  - "Tivat Airport 96 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nbookingURL: "https://www.booking.com/hotel/al/frojd.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe resort prides itself on its array of amenities, including a welcoming restaurant, attentive room service, and a 24-hour front desk, ensuring every need is met with the utmost care. For those seeking entertainment, the property also features lively karaoke sessions and provides secure luggage storage space.
 
 Accommodations at Hotel Frojd are designed with comfort and convenience in mind. Each air-conditioned room is equipped with a desk, a safety deposit box, a flat-screen TV, and a private bathroom with a shower, ensuring a restful and secure stay. The thoughtful inclusion of bed linen and towels in every room adds a touch of home.
 
 Located a mere 600 meters from the pristine Shëngjin Beach and 1.5 km from the serene Ylberi Beach, the resort offers easy access to some of the area's most beautiful coastlines. For those traveling from afar, Tirana International Mother Teresa Airport is conveniently situated just 49 km away, making Hotel Frojd - Beach Front Resort an ideal choice for both local and international visitors seeking a peaceful beachfront retreat.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

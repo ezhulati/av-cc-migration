@@ -1,30 +1,7 @@
----
-title: Flor Apartment in Durres
-description: The apartment itself is a haven of modern living, featuring air conditioning for those warm Mediterranean days. Guests will find themselves at home in a space t
-featuredImage: "/images/accommodation/484292126.jpg"
-language: en
-slug: flor-apartment-in-durres
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of modern living, featuring air conditioning for those warm Mediterranean days. Guests will find themselves at home in a space that boasts a separate bedroom, a cozy living room for relaxation, a fully equipped kitchen for culinary adventures, and a bathroom that caters to all the essentials. The inclusion of a flat-screen TV ensures entertainment is never far away.
+---\ntitle: "Flor Apartment in Durres"\ndescription: "Flor Apartment in Durres emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience along the Albanian coastline."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484292126.jpg?k=af1692e5e28a787c15a3003236384ea4e4de0f45219b167a18dbf66875e2b17c&o=&hp=1"\nlanguage: en\nslug: flor-apartment-in-durres\naddress: "Rruga Shkembi i Kavajes, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.28404781\n  lng: 19.511628\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 4\nratings:\n  overall: 9.9\n  location: 10\n  cleanliness: 10\n  facilities: 9.4\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484292126.jpg?k=af1692e5e28a787c15a3003236384ea4e4de0f45219b167a18dbf66875e2b17c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471905808.jpg?k=9fd7aa87a0491f6dca45829269ddd48131a597c4e7240d6367f78252df91bd48&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471906405.jpg?k=4b53811abffe8afae8ea87f934f075757a483f6fecca6eaf9e8c5910e66076a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471905069.jpg?k=cfea6f866275c1f4c04b4e5209f23e56839f011d24a6f9bfa0cd2a4297a8837a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471905975.jpg?k=77029757f58e303cff01449afef9b12201182d89d3b7c0e09efe7e1b777ef16f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406839934.jpg?k=89ee730d9cb47aeb562df56098f01e525d8e095ce9f162f1a61f77654c36ebb7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471905500.jpg?k=d9d12dff5cd1d0c305f25090a66328a3051200d19d15448136c43b32520a3993&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471905845.jpg?k=c5c97fc9e707d3415e38e1fac29cc106f4caf421c20afe4d84792bac1d37252d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472158369.jpg?k=3507d352ac7750d0956c51a0cda2dce1723d23ed38544f3191a31b59169cdb33&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Vila Verde 100 m"\n  - "Kosova 100 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 100 m"\n  - "Durres Beach 300 m"\n  - "Golem Beach 2.2 km"\n  - "Mali I Robit Beach 4.1 km"\n  - "Currila Beach 6 km"\nwhatsNearby:\n  - "Bekimi 6 km"\n  - "Wine Dhe Pooh 6 km"\n  - "Durres Amphiteatre 6 km"\n  - "Yje Dhe Hena 7 km"\n  - "Sheshi Demokracia 7 km"\n  - "1. Maj 7 km"\n  - "Sotir Noka 7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\nreviews:\n  - name: "Ketrina"\n    country: "Bulgaria"\n    text: "“My stay at Flor apartment was amazing! The location was ideal, with shops, restaurants, and bars nearby. Additionally, there were plenty of public parking options available, making it incredibly convenient. The host was incredibly friendly and...”"\nbookingURL: "https://www.booking.com/hotel/al/flor-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of modern living, featuring air conditioning for those warm Mediterranean days. Guests will find themselves at home in a space that boasts a separate bedroom, a cozy living room for relaxation, a fully equipped kitchen for culinary adventures, and a bathroom that caters to all the essentials. The inclusion of a flat-screen TV ensures entertainment is never far away.
 
 Adding to the charm is a balcony that presents an inviting outdoor space, perfect for soaking in the coastal ambiance or enjoying a quiet moment under the sky. The location is not just about the beach; it's a gateway to exploring. The intriguing Rock of Kavaje is just a short distance away, while the historical Former Residence of Enver Hoxha is accessible for those looking to delve into Albania's past.
 
 For guests venturing further, Skanderbeg Square offers a cultural excursion 41 km from the doorstep, and the Dajti Ekspres Cable Car, 45 km away, promises breathtaking views from above. Conveniently, Tirana International Mother Teresa Airport is located 36 km from Flor Apartment, making arrivals and departures a breeze.
 
 Flor Apartment in Durres stands out as an inviting destination for those eager to experience the beauty and history of this enchanting region, all while enjoying the comforts of a thoughtfully appointed home away from home.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

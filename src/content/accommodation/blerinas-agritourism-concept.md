@@ -4,9 +4,15 @@ description: "Set against a backdrop of lush gardens, each accommodation at Bler
 featuredImage: "/images/accommodation/469656603.jpg"
 language: en
 slug: blerinas-agritourism-concept
-location: ''
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "Restaurant"
+  - "TV"
 ---
 
 Set against a backdrop of lush gardens, each accommodation at Blerina's Agritourism Concept is thoughtfully designed to ensure guests' comfort and convenience. Air-conditioned units feature cozy seating areas, flat-screen TVs equipped with streaming services, and private bathrooms outfitted with walk-in showers, bathrobes, and slippers for a touch of luxury. Select units boast balconies, offering guests a private slice of nature's beauty, while all are furnished with coffee machines, crisp bed linen, and plush towels to enhance the stay.
@@ -17,14 +23,3 @@ Located conveniently close to historical landmarks such as the Former Residence 
 
 Blerina's Agritourism Concept stands out as a distinctive choice for travelers looking to experience the warmth and authenticity of Albanian hospitality, wrapped in the comfort of modern amenities.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

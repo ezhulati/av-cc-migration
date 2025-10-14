@@ -1,28 +1,5 @@
----
-title: Casa di Bruno
-description: This accommodation offers a smoke-free environment, ensuring a clean and fresh stay for all guests. Private parking is available for a nominal fee for those ar
-featuredImage: "/images/accommodation/500546628.jpg"
-language: en
-slug: casa-di-bruno
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Casa di Bruno"\ndescription: "Casa di Bruno is a serene retreat in Shkodër, conveniently 50 km from the Port of Bar."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500546628.jpg?k=ad07dee0224d0dc9c7c17a6f136f347cfdcd8d574669390bd560eadd529f9ddd&o=&hp=1"\nlanguage: en\nslug: casa-di-bruno\naddress: "Rruga Berdicej, Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.06597375\n  lng: 19.51757665\nprice: "US$36"\npriceFrom: 36\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500546628.jpg?k=ad07dee0224d0dc9c7c17a6f136f347cfdcd8d574669390bd560eadd529f9ddd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/500546654.jpg?k=398036ed1d4741ffe606faf4d173df761379e78f99546dc0f140fbb2eae85bf2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/500546657.jpg?k=3bf9e26537b6ca9e14643b26e39cd238c0149c2dee0084d7836c6cf6e87934db&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/500546660.jpg?k=7d731e8ad26f0a594b30ab1b9d60a2461d858a3e06095430e588b3e67e9547d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/500546661.jpg?k=e90b6605c353f91099214623461d1bdfbf0a827d0c3724e5cd343a1f8d5bc3e6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/500546663.jpg?k=e24610de93e7421fe7cd1cf6688dc48997cb8f2947ec784fdbd0ee01dd14f161&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/500546664.jpg?k=efd90a2aa5c21fd7417116756cecbd4673a463463d6fa017da1419ce347e8efb&o=&hp=1"\namenities:\n  - "Private parking"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "ArtiZanave 20 m"\n  - "Pastiçeri Enoteka 50 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 2.9 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 73 km"\n  - "Tivat Airport 74 km"\nbookingURL: "https://www.booking.com/hotel/al/casa-di-bruno.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nThis accommodation offers a smoke-free environment, ensuring a clean and fresh stay for all guests. 
 
-This accommodation offers a smoke-free environment, ensuring a clean and fresh stay for all guests.
-
-Private parking is available for a nominal fee for those arriving by car, adding an extra layer of convenience.
+Private parking is available for a nominal fee for those arriving by car, adding an extra layer of convenience. 
 
 Moreover, Podgorica Airport is merely 58 km away, making Casa di Bruno an accessible choice for travelers seeking comfort and ease in their lodging options.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

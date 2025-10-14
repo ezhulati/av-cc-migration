@@ -1,30 +1,7 @@
----
-title: Hotel Sunrise
-description: Each room at Hotel Sunrise is equipped with a television for entertainment. Select accommodations boast a seating area, providing a perfect nook for unwinding a
-featuredImage: "/images/accommodation/146331954.jpg"
-language: en
-slug: hotel-sunrise
-location: ""
-amenities: []
-images: []
----
-
-Each room at Hotel Sunrise is equipped with a television for entertainment. Select accommodations boast a seating area, providing a perfect nook for unwinding after a day filled with activities. Comfort is paramount, as evidenced by the private bathrooms in every room, complete with either a bath or shower, ensuring a refreshing start or end to the day. Additionally, guests can stay connected with the outside world through the free WiFi available throughout the hotel.
+---\ntitle: "Hotel Sunrise"\ndescription: "Hotel Sunrise, located in the serene town of Golem and a mere 29 km away from the bustling city of Tirana, offers a tranquil retreat with its air-conditioned accommodations and complimentary private parking."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/146331954.jpg?k=8a6fa850e8cf9e18a3ffa080defc6c6ceba8e039bd4a77bc09fb6a492b86116d&o=&hp=1"\nlanguage: en\nslug: hotel-sunrise\naddress: "Rruga e Fshatrave Turistike, Qerret, Albania, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.21927372\n  lng: 19.50824948\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 7.4\nratingWords: "Good"\nnumberOfReviews: 47\nratings:\n  overall: 7.4\n  location: 8.3\n  cleanliness: 7.4\n  facilities: 7.2\n  value: 7.6\n  comfort: 7.4\n  staff: 8.3\n  wifi: 5.6\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/146331954.jpg?k=8a6fa850e8cf9e18a3ffa080defc6c6ceba8e039bd4a77bc09fb6a492b86116d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478521721.jpg?k=921ae38fda4602c7db8a8248525df10b354b0df3c6ae6f6a98bc51b3bdb3307d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478521745.jpg?k=8e85b6b3b2e1068c93bca2cb861e68877324f70c55331d2eb964625262bf0a30&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478521833.jpg?k=34d08b7415f4632ee832113f7c11846d5de790a4d4b54b9b2f638a2a916ccbc7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478521671.jpg?k=b7dfda02983239a250d4bde706bb9976f581247f4e8b45a98c2f89bf18743002&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478540782.jpg?k=7a059e4e39548b9ea573a54769fa8e30fc2d154b51d5439dbe2247273478e0d5&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Private Bathroom"\n  - "Triple Room with Private Bathroom"\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Panorama by Supreme Hotel & Spa 100 m"\n  - "Piceri Cegrani 250 m"\nnearbyBeaches:\n  - "Qerret Beach 150 m"\n  - "Mali I Robit Beach 1.3 km"\n  - "Golem Beach 3.3 km"\n  - "Shkëmbi i Kavajës Beach 5 km"\n  - "Durres Beach 7 km"\nwhatsNearby:\n  - "Durres Amphiteatre 12 km"\n  - "1. Maj 12 km"\n  - "Wine Dhe Pooh 12 km"\n  - "Yje Dhe Hena 12 km"\n  - "Sheshi Demokracia 12 km"\n  - "Bekimi 12 km"\n  - "Sotir Noka 12 km"\n  - "Divjake-Karavasta National Park 18 km"\nairports:\n  - "Tirana International Airport Mother Teresa 27 km"\nbookingURL: "https://www.booking.com/hotel/al/sunrise-golem.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach room at Hotel Sunrise is equipped with a television for entertainment. Select accommodations boast a seating area, providing a perfect nook for unwinding after a day filled with activities. Comfort is paramount, as evidenced by the private bathrooms in every room, complete with either a bath or shower, ensuring a refreshing start or end to the day. Additionally, guests can stay connected with the outside world through the free WiFi available throughout the hotel.
 
 The convenience of guests is taken to heart with a 24-hour front desk, ready to assist with any needs or inquiries. For those looking to relax with a beverage, the hotel bar serves as an inviting spot to enjoy a drink and socialize.
 
 For travelers arriving or departing from Tirana Airport, which is conveniently located 28 km away, Hotel Sunrise offers an airport shuttle service upon request and for an additional fee, making travel arrangements smoother and less stressful.
 
 Hotel Sunrise stands out as a choice destination for those seeking a blend of comfort, convenience, and attentive service during their stay in Golem.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

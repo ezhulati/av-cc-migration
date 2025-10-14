@@ -1,26 +1,3 @@
----
-title: SunsetView Apartment
-description: Boasting comprehensive air conditioning and uninterrupted free WiFi access across the premises, SunsetView ensures a comfortable stay for all its guests. The ap
-featuredImage: "/images/accommodation/484298007.jpg"
-language: en
-slug: sunsetview-apartment
-location: ""
-amenities: []
-images: []
----
-
-Boasting comprehensive air conditioning and uninterrupted free WiFi access across the premises, SunsetView ensures a comfortable stay for all its guests. The apartment features a tastefully designed bedroom, a fully equipped kitchen for those who love to cook, and a well-appointed bathroom, catering to the needs of modern travelers. Importantly, the accommodation maintains a strict non-smoking policy, ensuring a fresh and clean environment for guests.
+---\ntitle: "SunsetView Apartment"\ndescription: "SunsetView Apartment emerges as a serene retreat in the vibrant heart of Sarandë, a mere stone's throw from the pristine Saranda City Beach and a short drive from the tranquil La Petite Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484298007.jpg?k=f320c041eb6af4a1917f4c1b3cc8996b5aee022acafd1bae9f7ad66bfb15bfb8&o=&hp=1"\nlanguage: en\nslug: sunsetview-apartment\naddress: "85 Rruga Mitat Hoxha 5, Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86869982\n  lng: 19.99973266\nprice: "US$129"\npriceFrom: 129\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484298007.jpg?k=f320c041eb6af4a1917f4c1b3cc8996b5aee022acafd1bae9f7ad66bfb15bfb8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484298094.jpg?k=767ac4a6fa1af38307787d7d38b3612aa21de0d6985ba5f88203a84eb81df057&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484298191.jpg?k=02f60f90cc37efe19d02e08f10bacf0cfb1477f04ea2391616ceffb419775bd9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484298197.jpg?k=1ada4412811f33fb29cc7e1d8c7363cfeb7e9b30ff4985dc99b77bbc90d93891&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484298160.jpg?k=478320a3cbf6b48419882b93f61519b378da630b0da47a796bd604a21395a74a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484298174.jpg?k=30e65415a9b23e27e3a40da49e663a1707636c5b0e7bc566dfa9f3e2b4c5c146&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484298101.jpg?k=e70632f0ac448948ddce40c87977d3b1ea0533e6af54ced7c587eb4d412b5287&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484298105.jpg?k=a3ed842096eaf35fed171f1a98041a5961f6f776643a2f5084a33048f341cbf9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484298074.jpg?k=b710f044d9100130249b9638ed9f6400f9d5c7da74d0e9377a7677fee245d3af&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Alban 20 m"\n  - "Liku, Pllakat Beach 30 m"\nnearbyBeaches:\n  - "Sarande Main Beach 50 m"\n  - "Saranda City Beach 1,000 m"\n  - "La Petite Beach 1.2 km"\n  - "Maestral Beach 1.3 km"\n  - "Saranda Bay Beach 1.8 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.4 km"\n  - "Butrint National Park 3 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 72 km"\nbookingURL: "https://www.booking.com/hotel/al/sunsetview-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nBoasting comprehensive air conditioning and uninterrupted free WiFi access across the premises, SunsetView ensures a comfortable stay for all its guests. The apartment features a tastefully designed bedroom, a fully equipped kitchen for those who love to cook, and a well-appointed bathroom, catering to the needs of modern travelers. Importantly, the accommodation maintains a strict non-smoking policy, ensuring a fresh and clean environment for guests.
 
 For those flying in, Ioannina Airport is the nearest hub, situated 97 km away, making SunsetView Apartment an accessible choice for international and domestic visitors alike. Positioned just a few steps from the lively Sarande Main Beach, this apartment promises an unforgettable stay filled with breathtaking sunsets and the soothing sounds of the sea.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

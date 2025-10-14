@@ -1,28 +1,5 @@
----
-title: Paradise Point
-description: Guests at Paradise Point are treated to rooms boasting balconies that open up to captivating city views, enhancing the experience of every stay. The accommodati
-featuredImage: "/images/accommodation/394909904.jpg"
-language: en
-slug: paradise-point
-location: ""
-amenities: []
-images: []
----
-
-Guests at Paradise Point are treated to rooms boasting balconies that open up to captivating city views, enhancing the experience of every stay. The accommodations are thoughtfully designed with the guest's comfort in mind, featuring private bathrooms equipped with showers and complimentary toiletries. For entertainment and connectivity, each room is outfitted with a flat-screen TV and free WiFi, catering to the needs of the modern traveler.
+---\ntitle: "Paradise Point"\ndescription: "Paradise Point emerges as a distinguished choice for travelers seeking comfort and convenience in Korçë, located within striking distance of the serene Ohrid Lake Springs and the historic Monastery Saint Naum."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/394909904.jpg?k=b1d9cf2c37895447d6fe71a7f342efc898d427b51e48a7cc40d524691927e7a3&o=&hp=1"\nlanguage: en\nslug: paradise-point\naddress: "7 Rruga 6 Deshmoret 54, 7001 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.614238\n  lng: 20.777004\nprice: "US$74"\npriceFrom: 74\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 89\nratings:\n  overall: 9.9\n  location: 9.9\n  cleanliness: 9.9\n  facilities: 9.9\n  value: 9.8\n  comfort: 9.9\n  staff: 10\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/394909904.jpg?k=b1d9cf2c37895447d6fe71a7f342efc898d427b51e48a7cc40d524691927e7a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/394908187.jpg?k=501ec01332d83dc8cea4d4e90062cde24d2d3202f1af6aab3f4e550b85436bde&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/394904449.jpg?k=faa3080d922f229c5be8702c1024cf8ddfbc6cb97ab4787c3b53717ae1c698b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/394905191.jpg?k=e961ea345cbfc5a10a7431085ba36df4a9e26d3cee469f51cd6ab2d5405ddd4d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/394905257.jpg?k=e9e1253b344b605215d36d72d246e5c36cf59a025ef04a4177b71ccedc203191&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/394909716.jpg?k=ed80f37b91818cc3f9189b5a6c65fccdc162be6960ee63de9109b43c416b1830&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Triple Room"\nnearbyRestaurants:\n  - "O2 Boutique 50 m"\n  - "Fast Food Romeo Grill 100 m"\nwhatsNearby:\n  - "Parku Vangjush Mio 150 m"\n  - "Parku Rinia 150 m"\n  - "Sheshi Patriku Joasaf 500 m"\n  - "Parku Themistokli Gërmenji 650 m"\n  - "Field of Tears 700 m"\n  - "Parku Rinia 1.5 km"\n  - "Sheshi Panxhar 5 km"\n  - "Sheshi Koço Plaku 12 km"\n  - "Sheshi Penetori 13 km"\nairports:\n  - "Kastoria National Airport 45 km"\n  - "Ohrid Airport 61 km"\n  - "Kozani National Airport 96 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Tea"\n    country: "Albania"\n    text: "“The hotel was very clean and comfortable. It was near with every attraction and the breakfast was perfect. Those pancakes were amazing.The hosts were very polite and kind too. We would suggest this hotel and definitely would come back again.”"\n  - name: "Marsida"\n    country: "Albania"\n    text: "“Absolutely worth it. Great location, very clean room, the staff were kind and helpful all the time. Would recommend 10/10”"\n  - name: "Gencth"\n    country: "Kosovo"\n    text: "“The staff was very friendly and the room was superb.”"\nbookingURL: "https://www.booking.com/hotel/al/paradise-point.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nGuests at Paradise Point are treated to rooms boasting balconies that open up to captivating city views, enhancing the experience of every stay. The accommodations are thoughtfully designed with the guest's comfort in mind, featuring private bathrooms equipped with showers and complimentary toiletries. For entertainment and connectivity, each room is outfitted with a flat-screen TV and free WiFi, catering to the needs of the modern traveler.
 
 The multilingual staff at Paradise Point stand ready to offer valuable insights and recommendations, ensuring guests fully explore and appreciate the local culture and attractions. Their proficiency in Greek, English, and Italian allows for seamless communication and an enriched guest experience.
 
 Located 72 km from Kastoria National Airport, Paradise Point serves as an ideal base for exploring the enchanting surroundings of Korçë, promising an unforgettable stay marked by convenience, comfort, and exceptional hospitality.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

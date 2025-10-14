@@ -7,6 +7,9 @@ featuredImage: /images/attractions/shala-river.jpg
 images: []
 language: en
 slug: shala-river
+seo:
+  metaTitle: "The Shala River - A Pristine Natural Attraction in Albania"
+  metaDescription: "Adventure awaits at Albania's Shala River. Experience turquoise waters, thrilling activities, boat tours, and relaxation surrounded by majestic mountain peaks."
 ---
 
 Why Visit
@@ -33,10 +36,3 @@ Plan Your Adventure
 
 Let the Shala River transport you to a world of turquoise waters, adventure thrills, and relaxation surrounded by Albania’s soaring peaks and emerald forests. Its unspoiled beauty promises an unforgettable summer memory.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

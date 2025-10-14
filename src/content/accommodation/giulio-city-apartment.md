@@ -1,28 +1,5 @@
----
-title: Giulio City Apartment
-description: This apartment doesn't just boast an enviable location; it offers a haven of comfort for its guests. The air-conditioned unit is designed with space and conveni
-featuredImage: "/images/accommodation/481332716.jpg"
-language: en
-slug: giulio-city-apartment
-location: ""
-amenities: []
-images: []
----
-
-This apartment doesn't just boast an enviable location; it offers a haven of comfort for its guests. The air-conditioned unit is designed with space and convenience in mind, featuring a generous living room, a well-appointed kitchen, and a balcony that invites guests to unwind in privacy. Entertainment is readily available through the inclusion of a flat-screen TV, ensuring that guests have all they need for a relaxing stay.
+---\ntitle: "Giulio City Apartment"\ndescription: "Giulio City Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481332716.jpg?k=5ca11be71072de0d1d1e23401428bd286d3e0e9b5d7eea14cc0ed4e591210a42&o=&hp=1"\nlanguage: en\nslug: giulio-city-apartment\naddress: "Rruga Dervish Ali Dukati 3, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45950633\n  lng: 19.48484239\nprice: "US$52"\npriceFrom: 52\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 9.8\n  location: 8.8\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481332716.jpg?k=5ca11be71072de0d1d1e23401428bd286d3e0e9b5d7eea14cc0ed4e591210a42&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481332804.jpg?k=8c6e6d66b8ffd1b847cfcd50d73260d4df58ed2312e11de05d41f51f69646a78&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481332854.jpg?k=1fd67004bcc2cdf16a012aa098ea8a05d3f7a236c0596d9a9be92f284362139a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481332840.jpg?k=a45488f88677de013ecf9f92a2faef364a83f72d70cb3d0e861fa65cb56ff0a8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481332787.jpg?k=996c1533175ce975fe5602f852a29ea735c6711da4bfe97b2b7ddcfbab5642dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481332797.jpg?k=66bb2913795e388d611009a4f233559f0b9452712bbb3bebc18e6d75658cd34c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481332847.jpg?k=23b48b1542c5aff4ee0955bfc7fcb676481887fc253de81cfb4291f5fee51101&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481936483.jpg?k=c3106cf055fb96cc4c8fb9541b61e317b48205acf6506ced648a93d3a7d00346&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481332812.jpg?k=06bbf97bbb2adf9eb4716288e7a437d9564eaa6211c28b4d0fe4c01fd76040a9&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "BSB 200 m"\n  - "Xhoni 250 m"\nnearbyBeaches:\n  - "Vjetër Beach 800 m"\n  - "Vlore Beach 1.5 km"\n  - "Ri Beach 2.8 km"\n  - "Beach at Government Villas 4.4 km"\n  - "Liro Beach 5 km"\nwhatsNearby:\n  - "Kuzum Baba 1.2 km"\n  - "Independence Square 1.4 km"\n  - "Scooby Doo Vlore 2.7 km"\nreviews:\n  - name: "Natalie"\n    country: "Australia"\n    text: "“Clean and modern apartment, well equipped with washing machine and basic kitchen utensils, only 15min walk to the beach or 20min to Old Town (it felt like a safe residential area, I walked around alone without any worry), friendly host who was...”"\nbookingURL: "https://www.booking.com/hotel/al/giulio-city-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Location"\nbestCategories: "Location"\ncategory: "Location"\n---\n\nThis apartment doesn't just boast an enviable location; it offers a haven of comfort for its guests. The air-conditioned unit is designed with space and convenience in mind, featuring a generous living room, a well-appointed kitchen, and a balcony that invites guests to unwind in privacy. Entertainment is readily available through the inclusion of a flat-screen TV, ensuring that guests have all they need for a relaxing stay.
 
 For those concerned with connectivity and convenience, Giulio City Apartment addresses these needs with complimentary WiFi and on-site parking, both provided without additional charges. The commitment to a smoke-free environment further enhances the appeal for those seeking a clean and healthy stay.
 
 Situated 150 km from Tirana International Mother Teresa Airport, the apartment also offers peace of mind for international travelers, providing a comfortable base after a long journey. Whether it's the strategic location, the thoughtful amenities, or the promise of a hassle-free stay, Giulio City Apartment stands out as a top-tier option for visitors to Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

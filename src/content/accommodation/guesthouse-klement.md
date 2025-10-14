@@ -1,28 +1,6 @@
----
-title: Guesthouse Klement
-description: Privacy and comfort are paramount at Guesthouse Klement, where each room is meticulously soundproofed and features a private entrance, ensuring a restful and un
-featuredImage: "/images/accommodation/502866069.jpg"
-language: en
-slug: guesthouse-klement
-location: ""
-amenities: []
-images: []
----
-
-Privacy and comfort are paramount at Guesthouse Klement, where each room is meticulously soundproofed and features a private entrance, ensuring a restful and undisturbed stay. The accommodations are well-appointed with modern amenities including free WiFi, private bathrooms equipped with showers and slippers, and a cozy seating area for moments of relaxation.
+---\ntitle: "Guesthouse Klement"\ndescription: "Guesthouse Klement emerges as a serene haven for travelers seeking tranquility and natural beauty, located approximately 45 km from the serene Zaravina Lake."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502866069.jpg?k=cfccbe41bed48a3b0944a447858f5676fccc9583486440dda8c1888165fd52ed&o=&hp=1"\nlanguage: en\nslug: guesthouse-klement\naddress: "Rruga Selam Musai, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.07283783\n  lng: 20.13634201\nprice: "US$26"\npriceFrom: 26\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 17\nratings:\n  overall: 9.4\n  location: 9.6\n  cleanliness: 9.3\n  facilities: 9\n  value: 9.7\n  comfort: 9.4\n  staff: 9.6\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502866069.jpg?k=cfccbe41bed48a3b0944a447858f5676fccc9583486440dda8c1888165fd52ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502100876.jpg?k=1746a031bf3b9684b5eadaca0d1fd09d9d6dc1654a45e37725e5749ec4e2f7d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502101380.jpg?k=d6f904e1575009cb13d34927137c371c97019f84e68d3158a81d92ac5c2ef4c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502101374.jpg?k=661f78046685e523bf334e06705d1aa97984782256d174c09b73b693f1349dd9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502859485.jpg?k=1b8bc982c632a4691f2a7bd3ae47da8ff3cd76430187804866c21f6221586b8b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502866033.jpg?k=492c4b8072ef951aab607460c5f173a92ed67434a2aa123ee5ded5729d7632dd&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Double Room with Castle View"\nnearbyRestaurants:\n  - "Tradicional Kotoni 100 m"\n  - "Naka 150 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Lika"\n    country: "Georgia"\n    text: "“It's exceptional because of the local experience one might get there.
+The location is amazing. You need to walk up to get there, but it's worth it. The house is an authentic style, located in a beautiful yard. It's a beautiful house both...”"\n  - name: "Laurent"\n    country: "France"\n    text: "“Very nice place in a great location close to everything.Good breakfaet.Amazing view .The owners were lovely people.Hope to be back again”"\n  - name: "Agata"\n    country: "Poland"\n    text: "“The host was very kind and helpful. Everything was perfectly clean and tidy. Stunnig old house with thick stone walls, really climatic. The home-made breakfest on the balcony at the highest floor of the building, with the beautiful panorama on the...”"\nbookingURL: "https://www.booking.com/hotel/al/guesthouse-klement.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nPrivacy and comfort are paramount at Guesthouse Klement, where each room is meticulously soundproofed and features a private entrance, ensuring a restful and undisturbed stay. The accommodations are well-appointed with modern amenities including free WiFi, private bathrooms equipped with showers and slippers, and a cozy seating area for moments of relaxation.
 
 Culinary needs are catered to with a choice of continental or vegetarian breakfast options, providing a delightful start to the day. For those eager to explore the surrounding landscapes, Guesthouse Klement offers a bicycle rental service, making it easy to venture out into the countryside for cycling and hiking adventures.
 
 Situated a distance of 83 km from Ioannina Airport, the guesthouse is conveniently accessible for international and domestic travelers alike. Guesthouse Klement stands out as an ideal retreat for those looking to immerse themselves in nature's tranquility while enjoying the comforts of thoughtful hospitality.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

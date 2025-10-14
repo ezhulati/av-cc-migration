@@ -1,30 +1,7 @@
----
-title: Kel Rooms
-description: The accommodations at Kel Rooms are designed with comfort and elegance in mind. Each room opens up to a balcony, offering guests a private outdoor space to enjo
-featuredImage: "/images/accommodation/519452237.jpg"
-language: en
-slug: kel-rooms
-location: ""
-amenities: []
-images: []
----
-
-The accommodations at Kel Rooms are designed with comfort and elegance in mind. Each room opens up to a balcony, offering guests a private outdoor space to enjoy the scenic views. Inside, the air-conditioned units are equipped with modern amenities including a flat-screen TV, while the en-suite bathrooms come complete with a bath and complimentary slippers. For added convenience, bed linen and towels are provided in every room, ensuring a comfortable stay.
+---\ntitle: "Kel Rooms"\ndescription: "Kel Rooms emerges as a serene retreat in Ksamil, boasting breathtaking mountain views and lush garden surroundings."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519452237.jpg?k=fb88423ea3d18a7bc8f346d2a8af45980f80d00d89fafe8b291700132e8f7c00&o=&hp=1"\nlanguage: en\nslug: kel-rooms\naddress: "Rruga Laberia ,Ksamil, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.76316012\n  lng: 20.00120871\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519452237.jpg?k=fb88423ea3d18a7bc8f346d2a8af45980f80d00d89fafe8b291700132e8f7c00&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519452493.jpg?k=f38accf26ae1b0e3680e9c252f2459e1c26d971bb5ef5e70740444a1d2d35471&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519452376.jpg?k=306474311fa1d335ee746460cbaff0590617e3846d98295ba58bd19e71fa0f46&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519452398.jpg?k=9d8ed08c6d3986a651043968d1355652665186cc6d99303748952e0fb34414ef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519452404.jpg?k=f98535cbe453e14040b987b38230b5e4c288132ed25cabc81b64cfcdcaae4f05&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519452357.jpg?k=f7e89bb42660c80dd4090cdf91de904a1124bd867eb26a1656b7e8c19699f735&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room"\nnearbyAttractions:\n  - "Museum of Banknotes 17 km"\n  - "New Fortress 17 km"\n  - "Serbian Museum 17 km"\n  - "Theotoki G. Square 17 km"\n  - "Archaeological Museum 17 km"\n  - "Ntougkla Square 18 km"\n  - "Trion Martiron Park 18 km"\n  - "Mon Repos Palace 19 km"\n  - "Kapodistrias Museum 19 km"\nnearbyRestaurants:\n  - "Krenari Grill Station 100 m"\n  - "Mario Seafood 300 m"\nnearbyBeaches:\n  - "Paradise Beach 500 m"\n  - "Ksamil Beach 9 550 m"\n  - "Lori Beach 650 m"\n  - "Puerto Rico Beach 750 m"\n  - "Bora Bora Beach 900 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 500 m"\n  - "Butrint National Park 2.7 km"\n  - "Plazhi I Krorezes 4.1 km"\n  - "Parc National de Butrint 11 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 17 km"\n  - "Old Fortress 17 km"\nairports:\n  - "Corfu International Airport 18 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/kel-rooms.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe accommodations at Kel Rooms are designed with comfort and elegance in mind. Each room opens up to a balcony, offering guests a private outdoor space to enjoy the scenic views. Inside, the air-conditioned units are equipped with modern amenities including a flat-screen TV, while the en-suite bathrooms come complete with a bath and complimentary slippers. For added convenience, bed linen and towels are provided in every room, ensuring a comfortable stay.
 
 Guests can start their day with a delightful buffet breakfast served at the property, with the option to unwind at the on-site bar later in the day. The bed and breakfast also prides itself on offering a picnic area for those looking to enjoy a meal outdoors, alongside the benefit of free WiFi available throughout the premises.
 
 For those seeking adventure beyond the beach, Butrint National Park is located just 2.8 km away, offering a glimpse into the area's rich history and natural beauty. Furthermore, Kel Rooms is situated 92 km from Corfu International Airport, making it a convenient choice for international travelers.
 
 With its 24-hour front desk, Kel Rooms ensures that guests' needs are attended to at any hour, promising a stay that is as relaxing as it is memorable.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

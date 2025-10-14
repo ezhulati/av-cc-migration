@@ -4,9 +4,17 @@ description: This property stands out not only for its enviable location but als
 featuredImage: "/images/accommodation/103685698.jpg"
 language: en
 slug: jons-penthouse
-location: ""
-amenities: []
 images: []
+category: "4-Star"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Sarandë"
+amenities:
+  - "Spa"
+  - "Kitchen"
+  - "Balcony"
+  - "TV"
 ---
 
 This property stands out not only for its enviable location but also for the array of amenities designed to enhance every stay. The apartment itself is a spacious retreat, boasting a well-appointed bedroom, a cozy living room complete with a flat-screen TV, and a fully equipped kitchen that includes an oven and a fridge. The highlight, however, is the terrace that offers guests a chance to dine al fresco while soaking in the garden's tranquil beauty.
@@ -17,14 +25,3 @@ Adventure seekers and nature enthusiasts will find the location of Jon's Penthou
 
 In summary, Jon's Penthouse presents a compelling package of comfort, convenience, and scenic beauty, making it a highly recommended stay for anyone visiting Sarandë.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

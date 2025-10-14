@@ -1,28 +1,5 @@
----
-title: XHELILI Apartment
-description: The apartment itself is a haven of space and comfort, boasting air-conditioned interiors that are a welcome retreat from the bustling city. Guests can enjoy the
-featuredImage: "/images/accommodation/473560952.jpg"
-language: en
-slug: xhelili-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of space and comfort, boasting air-conditioned interiors that are a welcome retreat from the bustling city. Guests can enjoy the luxury of a private balcony, offering views of the cityscape, alongside the convenience of complimentary WiFi throughout their stay. The accommodation features a well-equipped kitchen, complete with an oven and fridge, a cozy seating area, and a modern bathroom fitted with a bidet. For those concerned with peace and quiet, the apartment's soundproofing ensures a tranquil escape from the outside world.
+---\ntitle: "XHELILI Apartment"\ndescription: "XHELILI Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473560952.jpg?k=e951692b0729218fd087db54ee2417aca9f25e97ca29fa53395ee4fecbfa9bc0&o=&hp=1"\nlanguage: en\nslug: xhelili-apartment\naddress: "Rruga Skënderbeu, (yes market), 9702 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86929394\n  lng: 20.01887768\nprice: "US$35"\npriceFrom: 35\nstarRating: 5\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473560952.jpg?k=e951692b0729218fd087db54ee2417aca9f25e97ca29fa53395ee4fecbfa9bc0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473559621.jpg?k=b67a140a908627af5d20a4e09f8eddc4454c0bd0f2d3c6d40b17f1170de61671&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473559605.jpg?k=737d8738860e986c1bee51073297e085f72401ee26a8559e1fcee9020ed4d6ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473559671.jpg?k=bd6518ca409d8c7c7b7de8b89cc27aaab43d573c555bcda93c2962b84f254f3f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473559640.jpg?k=5950a935712ec3dae71cb8ec82fd7c81db46fe501905f9dca5bd5583a6e3cd81&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473559581.jpg?k=7636dfaae299a11458a3fb9eb7756edb7418a4ad7247943e44d3f578966a8c54&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473559584.jpg?k=d841f9a5f2449538eb628d4a5bc5ebb333c984922cf2578ca34ce281d4f3392f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473559576.jpg?k=623ed20e13bb261ae4852521771dd62a41a33924c3413685f4574d5380a052d1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473559627.jpg?k=4cc063d02b4c42165a11ad7237ce90dc0f18e2e128c9e04fb899cd04b1e64e28&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Kafe Bar Joana 100 m"\n  - "Pizzeri Mejdani 300 m"\nnearbyBeaches:\n  - "Maestral Beach 350 m"\n  - "La Petite Beach 400 m"\n  - "Saranda City Beach 500 m"\n  - "VIP Beach 1.1 km"\n  - "Santa Quaranta Beach 1.2 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.3 km"\n  - "Butrint National Park 2.2 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/xhelili-apartment-2.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of space and comfort, boasting air-conditioned interiors that are a welcome retreat from the bustling city. Guests can enjoy the luxury of a private balcony, offering views of the cityscape, alongside the convenience of complimentary WiFi throughout their stay. The accommodation features a well-equipped kitchen, complete with an oven and fridge, a cozy seating area, and a modern bathroom fitted with a bidet. For those concerned with peace and quiet, the apartment's soundproofing ensures a tranquil escape from the outside world.
 
 Adding to the appeal, XHELILI Apartment is a strictly non-smoking establishment, ensuring a clean and fresh environment for all guests. For those traveling from afar, the nearest airport, Ioannina Airport, is located 95 km away, making the apartment accessible for international and domestic travelers alike.
 
 In summary, XHELILI Apartment stands out as an exemplary choice for those looking to immerse themselves in the vibrant culture of Sarandë while enjoying the comforts of a well-appointed, strategically located accommodation.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

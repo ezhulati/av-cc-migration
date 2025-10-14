@@ -1,26 +1,6 @@
----
-title: Beach Appartment 101
-description: Guests are welcomed into a generously sized apartment that boasts a balcony offering breathtaking sea views. The accommodation features two well-appointed bedro
-featuredImage: "/images/accommodation/photo.jpg"
-language: en
-slug: beach-appartment-101
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into a generously sized apartment that boasts a balcony offering breathtaking sea views. The accommodation features two well-appointed bedrooms, a cozy living room complete with a TV for entertainment, and a fully equipped kitchen with an oven and fridge, ensuring all the comforts of home. The inclusion of a bathroom with a bidet adds a touch of convenience to the stay, while views of the inner courtyard provide a peaceful backdrop.
+---\ntitle: "Beach Appartment 101"\ndescription: "Beach Apartment 101 emerges as a prime choice for travelers seeking a serene beachfront escape in Golem, perfectly positioned just a stone's throw away from Mali I Robit Beach and a leisurely stroll from Golem Beach."\nfeaturedImage: "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=64"\nlanguage: en\nslug: beach-appartment-101\naddress: "Rruga Ismail Qemali, kompleksi \"Verria\", appartment no:10, 4th floor, Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.24376217\n  lng: 19.5210067\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 9.6\n  location: 9.2\n  cleanliness: 9.2\n  facilities: 9.2\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=64"\n  - "https://cf.bstatic.com/static/img/flags/12/sk/56a1d925109e43be99a13eaca238ed9650a991c4.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360167565.jpg?k=04cfcc3b5ef2a454c4f2b8615f86200cc583e344561afe5f3bac5cfceb3897c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/360167536.jpg?k=86ffdfd76745c601d7bf806331ace47bebea9d232d4c4f7cb6b2792044f4fc77&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/360167569.jpg?k=0cb3b81a4cd2bac0f2ab0a8a916ae23999107960a00feb576119f1e63b3e4efe&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Serena 200 m"\n  - "Brutal by Flower 350 m"\nnearbyBeaches:\n  - "Mali I Robit Beach 200 m"\n  - "Golem Beach 500 m"\n  - "Qerret Beach 1.6 km"\n  - "Shkëmbi i Kavajës Beach 2.4 km"\n  - "Durres Beach 4.8 km"\nwhatsNearby:\n  - "Durres Amphiteatre 10 km"\n  - "1. Maj 10 km"\n  - "Wine Dhe Pooh 10 km"\n  - "Bekimi 10 km"\n  - "Yje Dhe Hena 10 km"\n  - "Sheshi Demokracia 10 km"\n  - "Sotir Noka 11 km"\nairports:\n  - "Tirana International Airport Mother Teresa 24 km"\nreviews:\n  - name: "Beata"\n    country: "Slovakia"\n    text: "“Enton nás čakal, počas celého pobytu promptne odpovedal na naše otázky.
+Našli sme si peknú pláž.
+Super lehátka, káva, pivko, reštaurácie...
+Rezort hotelov bol veľmi blízko, bolo to tam upravené, čisté.”"\nbookingURL: "https://www.booking.com/hotel/al/beach-appartment-101.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into a generously sized apartment that boasts a balcony offering breathtaking sea views. The accommodation features two well-appointed bedrooms, a cozy living room complete with a TV for entertainment, and a fully equipped kitchen with an oven and fridge, ensuring all the comforts of home. The inclusion of a bathroom with a bidet adds a touch of convenience to the stay, while views of the inner courtyard provide a peaceful backdrop.
 
 For those looking to explore beyond the beach, Beach Apartment 101 serves as an ideal base, with Skanderbeg Square and the iconic Rock of Kavaje just a short drive away. The proximity to Tirana International Mother Teresa Airport, located 41 km from the property, ensures seamless travel arrangements for international guests. Beach Apartment 101 stands out as a top-tier accommodation choice for those in pursuit of a relaxing beachside retreat coupled with the allure of nearby historical and cultural attractions.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,7 @@
----
-title: Green-Garden Apartmets
-description: The apartments are designed with privacy in mind, featuring a private entrance that ensures a secluded and intimate experience for all guests. Inside, each unit
-featuredImage: "/images/accommodation/443875922.jpg"
-language: en
-slug: green-garden-apartmets
-location: ""
-amenities: []
-images: []
----
-
-The apartments are designed with privacy in mind, featuring a private entrance that ensures a secluded and intimate experience for all guests. Inside, each unit is a testament to comfort and convenience, equipped with air conditioning, complimentary private parking, and free WiFi to keep guests connected and comfortable throughout their stay.
+---\ntitle: "Green-Garden Apartmets"\ndescription: "Green-Garden Apartments emerges as a serene haven in Sarandë, boasting both garden and city views that promise a tranquil retreat from the bustling city life."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443875922.jpg?k=e04061133feb41acc4634274699e52b0f3fd29bb6c173df3705fd9f7e1edbfc6&o=&hp=1"\nlanguage: en\nslug: green-garden-apartmets\naddress: "Rruga Adem Sheme, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.8805062\n  lng: 19.99959915\nprice: "US$22"\npriceFrom: 22\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 6\nratings:\n  overall: 9\n  location: 7.5\n  cleanliness: 9\n  facilities: 8.5\n  value: 10\n  comfort: 9\n  staff: 9\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443875922.jpg?k=e04061133feb41acc4634274699e52b0f3fd29bb6c173df3705fd9f7e1edbfc6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443875967.jpg?k=5bd5acc83f85530365795a684747a5646c690383446533848b0c06dc2d754758&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443875954.jpg?k=44838e5e0a0a43d0494511a5d023e7d6f389527ca049a4a9f8357cf8c0612851&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460472088.jpg?k=291b9573f926850dcef8dc3099d96af332096674cff8451fbe7e6716d3031cf7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447686383.jpg?k=45f4ca9a4938a1da90b8187b62c11b7f75b1e4d7b7ea2c1c73f56aacbea20c36&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443875930.jpg?k=0b5f2c1bf0d7031cf7365a367a4606c8e403f117f22695aa58e484aeb12d2c6e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Free parking"\n  - "Family rooms"\n  - "Terrace"\nroomTypes:\n  - "Apartment with Terrace"\nnearbyRestaurants:\n  - "Coffee House 350 m"\n  - "Ali Pasha 500 m"\nnearbyBeaches:\n  - "Sarande Main Beach 1.1 km"\n  - "Saranda City Beach 1.1 km"\n  - "Saranda Bay Beach 1.6 km"\n  - "La Petite Beach 1.8 km"\n  - "Maestral Beach 2 km"\nwhatsNearby:\n  - "Parc National de Butrint 3.2 km"\n  - "Butrint National Park 4 km"\n  - "Plazhi I Krorezes 9 km"\n  - "Parku Kombetar I Butrintit 13 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 31 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Valeriobologna"\n    country: "Italy"\n    text: "“Fantastic apartment, large tidy, functional, clean, with parking in front of the house, they had a lot of patience because we arrived late and were super helpful and very kind. The owner Erald, wonderful, also speaks Italian very well and...”"\nbookingURL: "https://www.booking.com/hotel/al/green-garden-apartmets-sarande.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartments are designed with privacy in mind, featuring a private entrance that ensures a secluded and intimate experience for all guests. Inside, each unit is a testament to comfort and convenience, equipped with air conditioning, complimentary private parking, and free WiFi to keep guests connected and comfortable throughout their stay.
 
 Attention to detail is evident in the layout of each apartment. Guests can enjoy the breathtaking sea views from the terrace or savor their meals in the outdoor dining area on the balcony, surrounded by lush garden views. The interiors are thoughtfully appointed with a flat-screen TV, a cozy dining area, a well-equipped kitchen, and a private bathroom stocked with a hair dryer and free toiletries. The inclusion of a wardrobe in all units adds an extra layer of convenience for guests.
 
 Beyond the confines of Green-Garden Apartments, Saranda Bay Beach awaits at a mere 2.1 km distance, offering a perfect spot for sun-seekers and water enthusiasts. For those inclined towards cultural exploration, Butrint National Park, located 18 km away, provides a glimpse into the rich history and natural beauty of the region. The nearest airport, Ioannina Airport, is 98 km away, making the apartments accessible for international and domestic travelers alike.
 
 Green-Garden Apartments stands out as a prime choice for those seeking a blend of serenity, comfort, and convenience in the heart of Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

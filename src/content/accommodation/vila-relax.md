@@ -1,30 +1,5 @@
----
-title: Vila Relax
-description: Each apartment within Vila Relax is a testament to modern living, boasting air-conditioned rooms complemented by tiled floors for a touch of elegance. The prese
-featuredImage: "/images/accommodation/0e43c9b9a23d334b52510a328641c048847226bc.png"
-language: en
-slug: vila-relax
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Vila Relax"\ndescription: "Vila Relax emerges as a serene retreat in the heart of Shëngjin, Lezhë County, offering guests a unique blend of convenience and scenic beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487623454.jpg?k=69ee1452f0afb83c3104cd5f9e76395ba358ebb38292dbabbbfd793ba2143d29&o=&hp=1"\nlanguage: en\nslug: vila-relax\naddress: "Rruga Shkreli, 4503 Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.81397415\n  lng: 19.5825381\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487623454.jpg?k=69ee1452f0afb83c3104cd5f9e76395ba358ebb38292dbabbbfd793ba2143d29&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487623506.jpg?k=25cd2e70133a512e8e85ec5cf7aab24072890b82b44d12e2c572c89245e43399&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487623518.jpg?k=7264e5163a3db03ae0ec5e5496c69347cea5f437bd50ce8eb667d2b80b43d6cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487623528.jpg?k=5bc5c492dbc75b5e9eb54b3ad3ed17ad2dccf47a6b635fc58d74fdfca008ae42&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487623537.jpg?k=5f245c4f10d4cbd9b6144f4f0b023fca2d56ee1b387b9fb2ffe311df7998caec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487623548.jpg?k=d868b091bcc2173c20a01073d0832d1b13714264d0f025e51943882b453e7b89&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487623555.jpg?k=e853d2810b7abc9a0da22333569cb4c0224a78219953525c285f96e489650c44&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487623564.jpg?k=4ba920d8ac5e9adcbd42f91d6babef004439fee20787a0aaed36fa562a348588&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487623571.jpg?k=c8aaeb6c8fbac25aca68783ed73bcfd9ab029dc77c7a08d9139afdf99edec629&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Sarda 750 m"\n  - "Carpe Diem 900 m"\nnearbyBeaches:\n  - "Shëngjin Beach 750 m"\n  - "Rana e Hedhun Beach 1.4 km"\n  - "Ylberi Beach 2.2 km"\n  - "Kune Beach 4.9 km"\n  - "Laguna Park Beach 5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 44 km"\n  - "Podgorica Airport 65 km"\n  - "Tivat Airport 95 km"\nbookingURL: "https://www.booking.com/hotel/al/vila-relax-shengjin4.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are treated to well-appointed accommodations, each featuring air conditioning for comfort, a fully equipped kitchenette for those who love to whip up their own meals, and a flat-screen TV for entertainment. The inclusion of a private bathroom with a bidet adds a touch of luxury to the stay. Families find a welcoming haven here, thanks to the thoughtful provision of spacious family rooms designed to cater to the needs of both adults and children alike.
 
-Each apartment within Vila Relax is a testament to modern living, boasting air-conditioned rooms complemented by tiled floors for a touch of elegance. The presence of a fully equipped kitchenette, complete with a refrigerator, allows guests the freedom to craft their meals. Entertainment and connectivity are assured with the provision of a flat-screen TV and complimentary WiFi, making it an ideal choice for both leisure and business travelers.
+For those arriving by air, the convenience of being just 50 km away from Tirana International Mother Teresa Airport ensures a hassle-free transition from plane to relaxation. With the promise of free private parking, guests can enjoy the freedom of exploring the area without the worry of finding a secure spot for their vehicle.
 
-Attention to detail is evident in the allergy-free units, which are meticulously prepared with bed linen and towels, ensuring a comfortable and worry-free stay. The private bathrooms are equipped with a bidet and free toiletries, adding an extra layer of convenience.
-
-For those looking to explore the surrounding area, Vila Relax offers a car rental service, making it effortless to venture to nearby attractions. Lori Beach and the picturesque Ksamil Beach 9 are within easy reach, promising a memorable beach experience. Moreover, the proximity to Corfu International Airport, located 92 km away, positions Vila Relax as a strategic gateway for international travelers.
-
-In essence, Vila Relax is not just a place to stay; it's a destination that promises an unforgettable escape, where every detail is curated to enhance the guest experience.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}
+Vila Relax is not just a place to stay; it's a gateway to experiencing the enchanting beauty and rich history of Shëngjin and its surroundings, all while enjoying the comforts of a home away from home.

@@ -5,11 +5,15 @@ region: Southern Albania
 featuredImage: /images/destinations/zhulat.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: zhulat
 highlights: []
+seo:
+  metaTitle: "%title% - Albania's Historic Village of Law and Legend"
+  metaDescription: "Explore Zhulat, birthplace of the Kanun of Labëria and home to ancient castle ruins. Discover authentic Albanian village life and centuries of cultural heritage."
 ---
 
 A Timeless Albanian Village with a Legacy of Law and Legend
@@ -108,10 +112,3 @@ As someone who carries the village’s name as my family identity, I invite you 
 
 ![](/images/destinations/Zhulati-Crest-1.png)
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

@@ -1,30 +1,7 @@
----
-title: Glam Apartments
-description: Guests at Glam Apartments are treated to the luxury of free WiFi and complimentary private parking, ensuring a hassle-free experience from arrival to departure.
-featuredImage: "/images/accommodation/378001559.jpg"
-language: en
-slug: glam-apartments
-location: ""
-amenities: []
-images: []
----
-
-Guests at Glam Apartments are treated to the luxury of free WiFi and complimentary private parking, ensuring a hassle-free experience from arrival to departure. The property is equipped with an elevator, ensuring easy access to all floors, while full-day security and a currency exchange service add an extra layer of convenience and peace of mind.
+---\ntitle: "Glam Apartments"\ndescription: "Glam Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378001559.jpg?k=393e028a7ca1dd6e529a8756162b56a0167cd6c6297a8c865c9d7945e13c233a&o=&hp=1"\nlanguage: en\nslug: glam-apartments\naddress: "Rruga Jusuf Myzyri Plazh Durres, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30824898\n  lng: 19.49078409\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378001559.jpg?k=393e028a7ca1dd6e529a8756162b56a0167cd6c6297a8c865c9d7945e13c233a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374294056.jpg?k=72d3dda1cecf9c2cf58542a45f43fcbe49992e02d7259bc83c0b43ae58f2afb4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378005803.jpg?k=8526bc946535e79007a51b09b0f31b1703b2d72f2864f4cc861123b5eafd7beb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377998590.jpg?k=ce40676b1541a8d81017536fa23e051192f4c0c851d020d7a8c5d18c5ae617be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378005794.jpg?k=da3c0ce837429bcc889f317dd90717394d48e18171b54488f6075e173d45f147&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378010486.jpg?k=4948d72fa0981d28c8bfd08007a85da9b585c05449403e704b1d6c1b173cbbe2&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Caffe Pascucci 50 m"\n  - "Pasticeri Pelikan 100 m"\nnearbyBeaches:\n  - "Durres Beach 250 m"\n  - "Shkëmbi i Kavajës Beach 2.9 km"\n  - "Currila Beach 3.6 km"\n  - "Kallmi Beach 5 km"\n  - "Golem Beach 5 km"\nwhatsNearby:\n  - "Bekimi 2.4 km"\n  - "Wine Dhe Pooh 3.6 km"\n  - "Sheshi Demokracia 3.7 km"\n  - "Yje Dhe Hena 3.7 km"\n  - "Durres Amphiteatre 3.9 km"\n  - "Sotir Noka 4 km"\n  - "1. Maj 4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/glam-appartaments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Glam Apartments are treated to the luxury of free WiFi and complimentary private parking, ensuring a hassle-free experience from arrival to departure. The property is equipped with an elevator, ensuring easy access to all floors, while full-day security and a currency exchange service add an extra layer of convenience and peace of mind.
 
 The accommodations at Glam Apartments are a testament to thoughtful design and comfort. Each air-conditioned unit is a sanctuary of relaxation, with select apartments featuring a cozy seating area complemented by a flat-screen TV, and a fully equipped kitchen with a dining area. The attention to detail extends to the private bathrooms, and select rooms elevate the experience further with balconies and serene garden views.
 
 For those eager to explore, Glam Apartments offers an ideal base. Sightseeing tours can be easily arranged, and the property facilitates adventure with both bicycle and car rental services available on-site. The Dajti Ekspres Cable Car, a mere 42 km away, presents an opportunity for breathtaking aerial views, while the Rock of Kavaje, located 6.1 km from the apartments, invites exploration.
 
 Conveniently, Tirana International Mother Teresa Airport is just 33 km away, making Glam Apartments a compelling choice for both domestic and international travelers. Whether seeking a beachside retreat or a launchpad for city exploration, guests will find Glam Apartments to be a standout accommodation in Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

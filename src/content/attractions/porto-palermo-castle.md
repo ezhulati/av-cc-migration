@@ -7,6 +7,11 @@ featuredImage: /images/attractions/porto-palermo-castle.jpg
 images: []
 language: en
 slug: porto-palermo-castle
+seo:
+  metaTitle: "%title% - A Fortress of Romance & History"
+  metaDescription: "Discover Porto Palermo in Castle Albania including the castle's fascinating history, strategic importance, and why it is a symbol of Albania's rich heritage."
+  focusKeyword: "Porto Palermo Castle"
+  robots: "index"
 ---
 
 Why Visit
@@ -85,10 +90,3 @@ So, if you’re a traveler with an appetite for the extraordinary, go to Porto P
 
 It’s not just another dot on the map; it’s a full-fledged experience that promises to deepen your appreciation for Albania and all its facets. And trust me, you won’t want to miss it.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

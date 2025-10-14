@@ -1,26 +1,3 @@
----
-title: Pine apartments
-description: "Each air-conditioned unit within Pine Apartments is a testament to comfort and convenience, featuring a private bathroom, a flat-screen TV for enterta..."
-featuredImage: "/images/accommodation/375414482.jpg"
-language: en
-slug: pine-apartments
-location: ""
-amenities: []
-images: []
----
-
-Each air-conditioned unit within Pine Apartments is a testament to comfort and convenience, featuring a private bathroom, a flat-screen TV for entertainment, a fully equipped kitchen for those who love to cook, and a balcony to enjoy the serene views. A fridge in every unit adds an extra layer of convenience for guests, ensuring refreshments are always at hand.
+---\ntitle: "Pine apartments"\ndescription: "Pine Apartments emerges as a serene retreat in Golem, boasting an enviable location mere steps from the tranquil Mali I Robit Beach and a short stroll from the vibrant Golem Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375414482.jpg?k=96349c357ab87f8f870e8db802578a3654a25278ff6e0bf8deaddee84024cc2a&o=&hp=1"\nlanguage: en\nslug: pine-apartments\naddress: "Rruga Skënderbeu, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.23928917\n  lng: 19.51776128\nprice: "US$39"\npriceFrom: 39\nstarRating: 3\nrating: 5.6\nratingWords: "Below Average"\nnumberOfReviews: 2\nratings:\n  overall: 5.6\n  location: 7.5\n  cleanliness: 5\n  facilities: 3.8\n  value: 5\n  comfort: 5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375414482.jpg?k=96349c357ab87f8f870e8db802578a3654a25278ff6e0bf8deaddee84024cc2a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462547512.jpg?k=b67d832034039a892897a037c6b5b14d9ac338a489aeeb159ac5c75bffbaf818&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375414515.jpg?k=a93ea67ef32a7f3a568747faaa0535b7a4ee53bbc4d297285364b60c36be9e74&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470497060.jpg?k=9841f7a2b2383f8acb6f82d5ec975c7f93aabafd293d31e082b7c2b2969fe485&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462548324.jpg?k=94e54d97e151481306b311f7ccf5183612ed00b73442d4bd901bf6d6c6e8ea95&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466312021.jpg?k=03f6601a00a9ed1281fc23ba9337a8e16215db9cf6056a5fb67399d1fffb0a91&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Beer House Golem 20 m"\n  - "El Sabor Restauran 50 m"\nnearbyBeaches:\n  - "Mali I Robit Beach 100 m"\n  - "Golem Beach 950 m"\n  - "Qerret Beach 1.1 km"\n  - "Shkëmbi i Kavajës Beach 2.9 km"\n  - "Durres Beach 5 km"\nwhatsNearby:\n  - "Durres Amphiteatre 10 km"\n  - "1. Maj 10 km"\n  - "Wine Dhe Pooh 10 km"\n  - "Yje Dhe Hena 10 km"\n  - "Bekimi 10 km"\n  - "Sheshi Demokracia 11 km"\n  - "Sotir Noka 11 km"\nairports:\n  - "Tirana International Airport Mother Teresa 24 km"\nbookingURL: "https://www.booking.com/hotel/al/pine-apartments-golem.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach air-conditioned unit within Pine Apartments is a testament to comfort and convenience, featuring a private bathroom, a flat-screen TV for entertainment, a fully equipped kitchen for those who love to cook, and a balcony to enjoy the serene views. A fridge in every unit adds an extra layer of convenience for guests, ensuring refreshments are always at hand.
 
 For those looking to explore beyond the immediate tranquility, Skanderbeg Square awaits at a distance of 47 km, offering a deep dive into the local culture and history. Meanwhile, the Rock of Kavaje, located just 5.6 km away, presents a unique natural attraction. The nearest gateway, Tirana International Mother Teresa Airport, is conveniently located 41 km from the apartments, making Pine Apartments an ideal choice for both domestic and international travelers seeking a blend of relaxation and exploration in Golem.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

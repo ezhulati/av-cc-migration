@@ -1,28 +1,6 @@
----
-title: VloraSeas Apartment 1
-description: This apartment doesn't just boast a coveted location; it's a haven of modern amenities. Guests can enjoy the luxury of air conditioning, a necessity for the war
-featuredImage: "/images/accommodation/476084643.jpg"
-language: en
-slug: vloraseas-apartment-1
-location: ""
-amenities: []
-images: []
----
-
-This apartment doesn't just boast a coveted location; it's a haven of modern amenities. Guests can enjoy the luxury of air conditioning, a necessity for the warm, sunny days Vlorë is known for. The living space is equipped with a flat-screen TV, ensuring entertainment is always at hand. The kitchen doesn't disappoint either, coming fully equipped with a toaster, fridge, and more, making self-catering a breeze. To add to the convenience, towels and bed linen are thoughtfully provided, ensuring a comfortable stay.
+---\ntitle: "VloraSeas Apartment 1"\ndescription: "VloraSeas Apartment 1 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476084643.jpg?k=86aa4b2d3d79a5985af82b2ec233663715e34e7e517643ff75d57d291e0d5266&o=&hp=1"\nlanguage: en\nslug: vloraseas-apartment-1\naddress: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44644917\n  lng: 19.49447405\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476084643.jpg?k=86aa4b2d3d79a5985af82b2ec233663715e34e7e517643ff75d57d291e0d5266&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476084723.jpg?k=174d62185db5bb12d9a3ca4388776c775fbaa13157de19fcb966ec0d31832ce6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476084756.jpg?k=6d3631c1a83adf1799f49e5ca5074e38a2d2a9e75500c6dfb859305862f4d545&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476084735.jpg?k=07c986cdd9f8bc18eb8f5cc5985601bea6f0c5cecd26e0bf4045e0e8756943d1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476084743.jpg?k=39411e1410332f9369de94a58f4f3c98b9339b2e82230a07676e90a96f91822f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476084747.jpg?k=aa86ba7fc8bebffa2461c8b0ba027e56f0ab01a6789ed35a078c1362b78a5fbf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479782566.jpg?k=bb7838b315520b5b5e0115f826561de5b5970dd06c120b0ca11b0005337d8bd7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476084768.jpg?k=54c92c2c247d8056d692667ae3b3ea53cfe5d165425723a7d7e3d789959d12e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476084728.jpg?k=513d69318ad89426710bd9ff9ea5fb67e404f3fdc0e91b15e39353bf0f990a1c&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Primo Gusto 30 m"\n  - "Patio 100 m"\nnearbyBeaches:\n  - "Vlore Beach 30 m"\n  - "Ri Beach 1.2 km"\n  - "Vjetër Beach 1.3 km"\n  - "Beach at Government Villas 3 km"\n  - "Liro Beach 3.7 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.1 km"\n  - "Kuzum Baba 2.4 km"\n  - "Independence Square 2.7 km"\nreviews:\n  - name: "Anna"\n    country: "Ukraine"\n    text: "“Круте місце розташування - прям в серці міста - поруч пляжі, ресторани, розваги.
+Сам номер зручний і тихий, є все необхідне”"\nbookingURL: "https://www.booking.com/hotel/al/vloraseas-apartment-1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment doesn't just boast a coveted location; it's a haven of modern amenities. Guests can enjoy the luxury of air conditioning, a necessity for the warm, sunny days Vlorë is known for. The living space is equipped with a flat-screen TV, ensuring entertainment is always at hand. The kitchen doesn't disappoint either, coming fully equipped with a toaster, fridge, and more, making self-catering a breeze. To add to the convenience, towels and bed linen are thoughtfully provided, ensuring a comfortable stay.
 
 For those intrigued by local culture and history, VloraSeas Apartment 1 serves as an ideal base. The historic Kuzum Baba and the iconic Independence Square are within easy reach, located just a few kilometers away. This makes it effortless for guests to explore the rich heritage of Vlorë.
 
 Situated 152 km from Tirana International Mother Teresa Airport, the apartment ensures that arriving and departing are as hassle-free as possible, marking it as a top pick for both domestic and international travelers looking for a memorable stay in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -63,10 +63,3 @@ Allocate an hour to appreciate the extensive collection of artifacts and cultura
 
 Ensuring the survival of Albanian heritage and identity during periods of occupation, the exhibits remind visitors of the Albanian people’s resilience, skill, and spirit. This “window to the past” provides an enriching opportunity to connect with Albania’s cultural essence.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

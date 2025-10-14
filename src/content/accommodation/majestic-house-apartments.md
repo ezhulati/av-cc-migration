@@ -1,30 +1,7 @@
----
-title: Majestic house apartments
-description: This accommodation stands out for its strategic location, a mere stone's throw away from the captivating Rock of Kavaje and a brief drive to the serene Golem Be
-featuredImage: "/images/accommodation/486898357.jpg"
-language: en
-slug: majestic-house-apartments
-location: ""
-amenities: []
-images: []
----
-
-This accommodation stands out for its strategic location, a mere stone's throw away from the captivating Rock of Kavaje and a brief drive to the serene Golem Beach. For those intrigued by history and culture, the Durres Amphitheatre is located just 11 km away, offering a glimpse into the area's rich past.
+---\ntitle: "Majestic house apartments"\ndescription: "Majestic House Apartments emerges as a prime choice for travelers seeking comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486898357.jpg?k=772b73489f1403bdeeaabbb8787ea500a34debc8c942d667e485d7c737f60e94&o=&hp=1"\nlanguage: en\nslug: majestic-house-apartments\naddress: "Shkembi i Kavajes, 2008 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.28572251\n  lng: 19.51233392\nprice: "US$57"\npriceFrom: 57\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486898357.jpg?k=772b73489f1403bdeeaabbb8787ea500a34debc8c942d667e485d7c737f60e94&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/486898375.jpg?k=ebc41a81dce71cc598f5f14edc9881f366a474857d575b2e3822eeebee7513d6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/486898378.jpg?k=f7790ddda6845053432e2c79ce2f2a0221a2077cd578d0c783b5d51c4a4c70ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/486898382.jpg?k=e919b89355afb97ecbeffd1e49c9d2f3715ed76319d1b010a583b9500c300acf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/486898384.jpg?k=a0b802f7c01a2bb6b812056ee91a682c0f86d19576d863d966cf672bac7e01bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/486898386.jpg?k=33099fb5a614f6ae6134a989d31b58e4ef382ab0534651f536dfaa7974fc6894&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Restorant Riviera 50 m"\n  - "Restorant 4 Stinet Plazh 100 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 200 m"\n  - "Durres Beach 250 m"\n  - "Golem Beach 2.3 km"\n  - "Mali I Robit Beach 4.2 km"\n  - "Currila Beach 6 km"\nwhatsNearby:\n  - "Bekimi 6 km"\n  - "Wine Dhe Pooh 6 km"\n  - "Durres Amphiteatre 6 km"\n  - "Yje Dhe Hena 6 km"\n  - "Sheshi Demokracia 6 km"\n  - "1. Maj 7 km"\n  - "Sotir Noka 7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\nbookingURL: "https://www.booking.com/hotel/al/majestic-house-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis accommodation stands out for its strategic location, a mere stone's throw away from the captivating Rock of Kavaje and a brief drive to the serene Golem Beach. For those intrigued by history and culture, the Durres Amphitheatre is located just 11 km away, offering a glimpse into the area's rich past.
 
 Each apartment at Majestic House is thoughtfully designed, featuring a bedroom, a fully equipped kitchen for those who prefer to prepare their meals, and a bathroom. The inclusion of a flat-screen TV ensures that entertainment is always at hand. Guests are treated to garden views, adding a touch of tranquility to their stay.
 
 For visitors interested in exploring beyond the local beaches, the property is conveniently positioned within driving distance of notable landmarks such as Skanderbeg Square and the Former Residence of Enver Hoxha, both located 41 km away. Additionally, the thrill of the Dajti Ekspres Cable Car awaits 45 km from the doorstep.
 
 Accessibility is a breeze, with Tirana International Mother Teresa Airport just 35 km away, making Majestic House Apartments an ideal base for both short getaways and extended stays in Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

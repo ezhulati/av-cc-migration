@@ -1,30 +1,7 @@
----
-title: Domi
-description: This apartment doesn't just boast an enviable location; it offers a sanctuary of space and privacy. Guests are welcomed into a thoughtfully composed living spac
-featuredImage: "/images/accommodation/476200040.jpg"
-language: en
-slug: domi
-location: ""
-amenities: []
-images: []
----
-
-This apartment doesn't just boast an enviable location; it offers a sanctuary of space and privacy. Guests are welcomed into a thoughtfully composed living space, featuring two cozy bedrooms, a fully equipped kitchen ready to handle any culinary challenge, and a modern bathroom. Entertainment needs are also well catered for with a flat-screen TV, ensuring relaxation is on the agenda after a day of exploration.
+---\ntitle: "Domi"\ndescription: "Domi emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476200040.jpg?k=c9008443fbceeb0141cb71a65a5fbb926458d405fe14aa2ab1a035803028a41e&o=&hp=1"\nlanguage: en\nslug: domi\naddress: "13 Rruga Pavaresia, 2000 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30746726\n  lng: 19.48890873\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 5.4\nratingWords: "Below Average"\nnumberOfReviews: 1\nratings:\n  overall: 5.4\n  location: 7.5\n  cleanliness: 5\n  facilities: 2.5\n  value: 5\n  comfort: 5\n  staff: 7.5\n  wifi: 5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476200040.jpg?k=c9008443fbceeb0141cb71a65a5fbb926458d405fe14aa2ab1a035803028a41e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/476200018.jpg?k=bcce90b8b0e5a399cd638f89ce7dd25020de60cfbdd9f9d323b17a9a073a7616&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/476200038.jpg?k=c70d0ce856f65916d43c23397469a94309c1c5ea2f7722eccf2ba4cfa1fee0e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/476200042.jpg?k=53af33a2890535f6c86c52300a1c00f1fb389513ebf8a22df938ab6730ba9e81&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/476200046.jpg?k=8ab76f74e54564df05eb5ee7ff517d26540bf5011d86ce77be20a8130c52ba0c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/476200048.jpg?k=84a2e04bded99908b0ba035030b7440d0997431618f9856246d54268be8a58c8&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Private beach area"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Relax 50 m"\n  - "Restorant Zanzi 50 m"\nnearbyBeaches:\n  - "Durres Beach 100 m"\n  - "Shkëmbi i Kavajës Beach 2.9 km"\n  - "Currila Beach 3.5 km"\n  - "Kallmi Beach 4.9 km"\n  - "Golem Beach 5 km"\nwhatsNearby:\n  - "Bekimi 2.5 km"\n  - "Wine Dhe Pooh 3.5 km"\n  - "Sheshi Demokracia 3.6 km"\n  - "Yje Dhe Hena 3.6 km"\n  - "Durres Amphiteatre 3.7 km"\n  - "Sotir Noka 3.8 km"\n  - "1. Maj 3.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/domi-durres.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment doesn't just boast an enviable location; it offers a sanctuary of space and privacy. Guests are welcomed into a thoughtfully composed living space, featuring two cozy bedrooms, a fully equipped kitchen ready to handle any culinary challenge, and a modern bathroom. Entertainment needs are also well catered for with a flat-screen TV, ensuring relaxation is on the agenda after a day of exploration.
 
 Connectivity is seamless, with free WiFi enveloping the property, ensuring guests stay connected with the world or plan their next day's adventures with ease. For those looking to delve into Albania's cultural heritage, the Durres Amphitheatre and the Former Residence of Enver Hoxha lie just a short drive away, promising a deep dive into the country's storied past.
 
 Domi's proximity to key landmarks, including Rinia Park and the National Museum of History Albania, both 38 km away, adds to its appeal for those keen to immerse themselves in Albania's vibrant history and culture. Moreover, the convenience of being just 33 km from Tirana International Mother Teresa Airport makes Domi an attractive option for international travelers.
 
 In summary, Domi stands out as a welcoming retreat for those desiring to explore the wonders of Durrës and its surroundings, offering a blend of comfort, convenience, and a touch of home-away-from-home.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

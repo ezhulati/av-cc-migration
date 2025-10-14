@@ -1,28 +1,5 @@
----
-title: Flower Apartment Sarande
-description: The apartment itself is a testament to spacious living, boasting two well-appointed bedrooms, a cozy living room complete with a flat-screen TV for entertainmen
-featuredImage: "/images/accommodation/357710396.jpg"
-language: en
-slug: flower-apartment-sarande
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to spacious living, boasting two well-appointed bedrooms, a cozy living room complete with a flat-screen TV for entertainment, a fully equipped kitchen for those who enjoy preparing their meals, and a modern bathroom equipped with a shower and hairdryer. The inclusion of air conditioning and access to a private balcony adds an extra layer of comfort, allowing guests to unwind in their own serene space.
+---\ntitle: "Flower Apartment Sarande"\ndescription: "Flower Apartment Sarande emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357710396.jpg?k=628ac73fa8afb75029b325989bb022410d96b158838fde2624728df7bde5185f&o=&hp=1"\nlanguage: en\nslug: flower-apartment-sarande\naddress: "Rruga Qazim Demi, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87163383\n  lng: 20.01643534\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 5\nratings:\n  overall: 8.4\n  location: 7\n  cleanliness: 9.5\n  facilities: 7.5\n  value: 10\n  comfort: 8\n  staff: 8.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357710396.jpg?k=628ac73fa8afb75029b325989bb022410d96b158838fde2624728df7bde5185f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357709580.jpg?k=dde7142d959d571adc0bf0f681d55a185738d6490658909796e3250345b9dbe1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357709836.jpg?k=b73c61eb98ffc32ea5f4a96e682ea1af9a1463c316d7d8dbe11bfec1031e7bd7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357708763.jpg?k=b5d5fc2108441848c28cec09b431a76ea69153c8299b69c7cf8cf5867e9afb3e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357708951.jpg?k=d85ee0ada560bad123c637929c2df07420d19f5525e5c37759259c1213194f7c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357710154.jpg?k=32ffcfb1487f3dec46678391bb5305446a322383592057c754ad8a03e90e2b47&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357709372.jpg?k=c2403737e992680849f1a13f8517287f6ffe8f0f9f7792340b24f1f1c09f7097&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357708869.jpg?k=07a85a38a4aab682b37e671576d2dbe276d48da7f78e62594f9fa21e56ceb174&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362862282.jpg?k=eeff21bd3204ddf37be7ad592611f13451049270375022e41e3d6b6322ecd9d8&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Bar Kafe \Enea\\"\" 50 m"\n  - "Casa Nostra 100 m"\nwhatsNearby:\n  - "Parc National de Butrint 1.6 km"\n  - "Butrint National Park 2.5 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Edwin86"\n    country: "Italy"\n    text: "“Appartamento come descritto nelle foto, di recente costruzione, pulito, ordinato, con tutti i servizi. Posto al quarto piano gode di uno splendido panorama.”"\nbookingURL: "https://www.booking.com/hotel/al/flower-apartment-sarande.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to spacious living, boasting two well-appointed bedrooms, a cozy living room complete with a flat-screen TV for entertainment, a fully equipped kitchen for those who enjoy preparing their meals, and a modern bathroom equipped with a shower and hairdryer. The inclusion of air conditioning and access to a private balcony adds an extra layer of comfort, allowing guests to unwind in their own serene space.
 
 For those keen on exploring the natural beauty of the area, Butrint National Park is a mere 15 km away, offering a perfect day trip opportunity. Additionally, the proximity to VIP Beach, just 2.1 km away, provides another splendid option for sun-seekers and beach lovers. With Ioannina Airport located 95 km from the property, Flower Apartment Sarande serves as an accessible retreat for both domestic and international travelers.
 
 In essence, Flower Apartment Sarande is not just a place to stay; it's a gateway to experiencing the vibrant life and beauty of Sarandë, making it an ideal choice for families, couples, and solo travelers alike.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

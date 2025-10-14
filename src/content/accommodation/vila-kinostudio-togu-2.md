@@ -1,26 +1,3 @@
----
-title: Vila Kinostudio (Togu 2)
-description: The accommodation boasts a well-appointed bedroom, a fully equipped kitchen featuring a dishwasher and an oven, and a cozy seating area perfect for unwinding. E
-featuredImage: "/images/accommodation/505841044.jpg"
-language: en
-slug: vila-kinostudio-togu-2
-location: ""
-amenities: []
-images: []
----
-
-The accommodation boasts a well-appointed bedroom, a fully equipped kitchen featuring a dishwasher and an oven, and a cozy seating area perfect for unwinding. Entertainment needs are catered to with a flat-screen TV, and the inclusion of a bathroom with a bidet adds an extra layer of convenience.
+---\ntitle: "Vila Kinostudio (Togu 2)"\ndescription: "Vila Kinostudio (Togu 2) emerges as a prime choice for travelers seeking a blend of comfort and convenience in Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505841044.jpg?k=729a0461b7ad05971a8842c4ad8027982861a56aaba00482c576c051f8894e0e&o=&hp=1"\nlanguage: en\nslug: vila-kinostudio-togu-2\naddress: "Pjetër Dungu, 1007 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.34884228\n  lng: 19.84562271\nprice: "US$53"\npriceFrom: 53\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505841044.jpg?k=729a0461b7ad05971a8842c4ad8027982861a56aaba00482c576c051f8894e0e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505841084.jpg?k=b84a9c68e01044825fb630dd8e9f4e3300c935dd029aac56b9ac3af54ca68c9c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505841087.jpg?k=afa80dc61ae7eda5141c815893d5c87fa2bd78564fb614a4b2943b5bae0c7184&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505841090.jpg?k=9d617846e197e23fb8c2ddad61dfab69102fcde53ce70e788e027ad5d6340405&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505841094.jpg?k=db3216b63cc2ffa02baa5d063fab0b492101cc135dc170c5d33e3e727c3da423&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505841098.jpg?k=b9dee6daaa5e4daad4c940c9eaa04cbe85b60b1ba2dc58050446da6cdd709ff0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505841103.jpg?k=02cb3ba9f56ebf77fa7cf58a2417a65f1d4a8c7b967eeccb9a480a4029380323&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Clock Tower Tirana 3.2 km"\n  - "National Museum of History Albania 3.2 km"\n  - "Skanderbeg Square 3.2 km"\n  - "National Gallery of Arts Tirana 3.3 km"\n  - "House of Leaves 3.5 km"\n  - "Rinia Park 3.5 km"\n  - "Former Residence of Enver Hoxha 3.9 km"\n  - "Grand Park of Tirana 4.4 km"\nnearbyRestaurants:\n  - "Bardhi 150 m"\n  - "Day&Night 200 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Allias 850 m"\n  - "Sheshi Rekreativ Gjolek Kokona 1 km"\n  - "Bunk'Art 1 Museum 1.3 km"\n  - "Sheshi Jjosef Shtraus 1.7 km"\n  - "Sheshi Rekreativ Banesat Sociale 2.4 km"\n  - "Dajti Mountain National Park 2.6 km"\n  - "Amazing Nature 2.8 km"\n  - "Sheshi Rekreativ tek ish ATSh 2.8 km"\n  - "Tanners' Bridge 3 km"\n  - "Sheshi Sulejman Pasha 3 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 77 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/vila-kinostudio-togu-2.en-gb.html?aid=8035640"\nbestFor: "Best for Airport Access"\nbestCategories: "Airport Access"\ncategory: "Airport Access"\n---\n\nThe accommodation boasts a well-appointed bedroom, a fully equipped kitchen featuring a dishwasher and an oven, and a cozy seating area perfect for unwinding. Entertainment needs are catered to with a flat-screen TV, and the inclusion of a bathroom with a bidet adds an extra layer of convenience.
 
 Located a mere 4.9 km from the historic Skanderbeg Square and 5.1 km from the intriguing Former Residence of Enver Hoxha, Vila Kinostudio (Togu 2) positions guests perfectly to discover Tirana's rich cultural tapestry. For those traveling further afield, the Tirana International Mother Teresa Airport is conveniently 16 km away, making this apartment an ideal base for both short and extended stays in the city.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,26 +1,3 @@
----
-title: YourHome
-description: "YourHome boasts a thoughtfully designed space, featuring a single bedroom that promises a restful night's sleep, a fully equipped kitchen for those who love to cook, and a modern bathroom."
-featuredImage: "/images/accommodation/515653270.jpg"
-language: en
-slug: yourhome
-location: ''
-amenities: []
-images: []
----
-
-YourHome boasts a thoughtfully designed space, featuring a single bedroom that promises a restful night's sleep, a fully equipped kitchen for those who love to cook, and a modern bathroom. Entertainment is readily available with a flat-screen TV, ensuring guests have a pleasant stay. Importantly, the entire apartment is a smoke-free zone, catering to the comfort and health of all guests.
+---\ntitle: "YourHome"\ndescription: "Discover the comfort and convenience of YourHome, a prime accommodation choice situated in the heart of Korçë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515653270.jpg?k=383d30edd96d7f5315819ecd554ae411965429b8d1ffce585a89aea920950bf9&o=&hp=1"\nlanguage: en\nslug: yourhome\naddress: "Bulevardi Gjergj Kastrioti, 7001 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.62163497\n  lng: 20.7785687\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515653270.jpg?k=383d30edd96d7f5315819ecd554ae411965429b8d1ffce585a89aea920950bf9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515653284.jpg?k=c0cd431d198eca1fd97cb01d469a58f655c2904f47c1baccab4279476eede792&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515653286.jpg?k=13a855bd826847351a7f8bae38fc78e9264179e1be54a8b85f6a8c46d80215d7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/515653287.jpg?k=f13d90a1afac5dfac59815e06b5de24d82903fef296ac26a1240428a6395bcc0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/515653289.jpg?k=9ec92a606e8f0ae364d7f2e4457922326b01757c5f14c710b84f9a374db9b3b4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/515653290.jpg?k=5a4a48370e7be4bab5c03b5c973f1d09f88cd495b27128155e6100d63fa13807&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/515653294.jpg?k=a996e62c07675ea142424018383b6c1167a2efeec94443b0546cf57c218a3922&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/515653295.jpg?k=de186a047f3e694fe6d2da716f136949bcc08c6d4c07cf3ec4db25b97250c6fb&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Medusa 50 m"\n  - "Cegora 150 m"\nwhatsNearby:\n  - "Parku Themistokli Gërmenji 450 m"\n  - "Field of Tears 500 m"\n  - "Parku Rinia 650 m"\n  - "Parku Vangjush Mio 700 m"\n  - "Sheshi Patriku Joasaf 750 m"\n  - "Parku Rinia 850 m"\n  - "Sheshi Panxhar 5 km"\n  - "Sheshi Koço Plaku 12 km"\n  - "Sheshi Penetori 12 km"\nairports:\n  - "Kastoria National Airport 45 km"\n  - "Ohrid Airport 61 km"\n  - "Kozani National Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/yourhome-korce.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nYourHome boasts a thoughtfully designed space, featuring a single bedroom that promises a restful night's sleep, a fully equipped kitchen for those who love to cook, and a modern bathroom. Entertainment is readily available with a flat-screen TV, ensuring guests have a pleasant stay. Importantly, the entire apartment is a smoke-free zone, catering to the comfort and health of all guests.
 
 Connectivity is never an issue, as free WiFi is accessible throughout the property, allowing guests to stay in touch with loved ones or manage work commitments seamlessly. For those traveling by air, the Kastoria National Airport is conveniently located 70 km away, making YourHome an ideal choice for both leisure and business travelers seeking a blend of convenience, comfort, and connectivity in Korçë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

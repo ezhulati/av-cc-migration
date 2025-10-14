@@ -1,26 +1,3 @@
----
-title: Mercato Durres 56
-description: "For those intrigued by local history and culture, the Rock of Kavaje is accessible at 10 km, offering a glimpse into the region's natural beauty."
-featuredImage: "/images/accommodation/511898871.jpg"
-language: en
-slug: mercato-durres-56
-location: ''
-amenities: []
-images: []
----
-
-For those intrigued by local history and culture, the Rock of Kavaje is accessible at 10 km, offering a glimpse into the region's natural beauty. Additionally, the Former Residence of Enver Hoxha, located 38 km away, provides a unique insight into Albania's past. Mercato Durres 56 is also conveniently positioned for further exploration, with Skanderbeg Square 38 km away and the Dajti Ekspres Cable Car, offering breathtaking views, 42 km from the guest house.
+---\ntitle: "Mercato Durres 56"\ndescription: "Mercato Durres 56 emerges as a prime choice for travelers seeking comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511898871.jpg?k=0a8eebf4ab39d09dd2a0f965a73dbd9a81c597f578db014c8ff57d28b30d26bb&o=&hp=1"\nlanguage: en\nslug: mercato-durres-56\naddress: "Rruga Profesor Halil Myrto, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 41.3196644\n  lng: 19.4539448\nprice: "US$26"\npriceFrom: 26\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511898871.jpg?k=0a8eebf4ab39d09dd2a0f965a73dbd9a81c597f578db014c8ff57d28b30d26bb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/511898893.jpg?k=000f8569d243abefec281c447e187ca2abc04348dbedd342d89ea767653a5813&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/511898895.jpg?k=d33d274bd7d88e6b42e311a648ae3a209b7946aae27e5ba332f5f86897c7ff02&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/511898896.jpg?k=d17216fc69ff3d6327693eaa6e7094a1beecccc886cf17af0d208a39242c7f56&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/511898898.jpg?k=f3b9ce5930050c0838919776cc7e2d5b149672d136dca08f283c1814ea67ac47&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/511898901.jpg?k=f6b64f749ebb53533291344b2f8c362c274a61d08caa1e434f959213e97a5c68&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/511898903.jpg?k=da8e6fa7e4af19c6a2f499d56269abfff98298c0cbbda755ee94223788f3a38a&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Twin Room"\nnearbyBeaches:\n  - "Durres Beach 1.2 km"\n  - "Currila Beach 1.4 km"\n  - "Kallmi Beach 1.8 km"\n  - "West End Beach 2.7 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nbookingURL: "https://www.booking.com/hotel/al/mercato-durres-56.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nFor those intrigued by local history and culture, the Rock of Kavaje is accessible at 10 km, offering a glimpse into the region's natural beauty. Additionally, the Former Residence of Enver Hoxha, located 38 km away, provides a unique insight into Albania's past. Mercato Durres 56 is also conveniently positioned for further exploration, with Skanderbeg Square 38 km away and the Dajti Ekspres Cable Car, offering breathtaking views, 42 km from the guest house.
 
 Travelers will find the proximity to Tirana International Mother Teresa Airport, just 32 km away, an added convenience, facilitating easy arrivals and departures. Mercato Durres 56 stands out as an ideal spot for those looking to explore the enchanting city of Durrës and its surroundings, offering a blend of comfort, convenience, and cultural immersion.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

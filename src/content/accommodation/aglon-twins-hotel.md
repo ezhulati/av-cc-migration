@@ -4,9 +4,19 @@ description: Upon stepping into Aglon Twin's Hotel, guests are greeted with a pl
 featuredImage: "/images/accommodation/468776183.jpg"
 language: en
 slug: aglon-twins-hotel
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "hotel"
+location: "Tirana"
+amenities:
+  - "Air Conditioning"
+  - "Spa"
+  - "Breakfast"
+  - "Balcony"
+  - "Sea View"
+  - "TV"
 ---
 
 Upon stepping into Aglon Twin's Hotel, guests are greeted with a plethora of amenities designed to enhance their stay. The hotel prides itself on its around-the-clock front desk service, ensuring assistance is always on hand, regardless of the hour. The allure of the sea is ever-present, with captivating sea views available to guests, serving as a constant reminder of the hotel's exceptional location.
@@ -19,14 +29,3 @@ For those traveling to or from distant locales, the Tirana International Mother 
 
 In summary, Aglon Twin's Hotel stands out as a beacon of hospitality in Vlorë, providing guests with a comfortable, convenient, and memorable stay. Whether it's the proximity to stunning beaches, the array of in-room amenities, or the welcoming breakfast that starts each day, this hotel ensures a stay that's as pleasant as it is unforgettable.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

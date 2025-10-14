@@ -1,15 +1,4 @@
----
-title: Lovely apt.1-7
-description: Positioned merely 4.3 km from the breathtaking views offered by the Dajti Ekspres Cable Car and a stone's throw away from the historical Former Residence of Env
-featuredImage: "/images/accommodation/452160855.jpg"
-language: en
-slug: lovely-apt-1-7
-location: ""
-amenities: []
-images: []
----
-
-Positioned merely 4.3 km from the breathtaking views offered by the Dajti Ekspres Cable Car and a stone's throw away from the historical Former Residence of Enver Hoxha, Lovely apt.1-7 serves as an ideal base for both adventure seekers and history enthusiasts. The Rock of Kavaje, a natural marvel, is also within a manageable 44 km, making it a perfect day trip destination.
+---\ntitle: "Lovely apt.1-7"\ndescription: "Discover the charm of Tirana with a stay at Lovely apt."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452160855.jpg?k=e02be98c56a0d850830f97d592097d7810411670e0d341db2a00cdead30c704e&o=&hp=1"\nlanguage: en\nslug: lovely-apt-1-7\naddress: "Rruga Gani Strazimiri, 1012 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.34444515\n  lng: 19.8264407\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 1\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452160855.jpg?k=e02be98c56a0d850830f97d592097d7810411670e0d341db2a00cdead30c704e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459219578.jpg?k=4bd73e2e239b030981945ee5c0938a6e9431a1b982515086f3aa7a3f2cc040f8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452160886.jpg?k=75f46899806fc047baf01bed2ef4ddbb8b6bba6f81c829ca64933448d966128e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455481867.jpg?k=d10c74a3e17caec2b6823a7e0603425ec965ce4b9022f3a6e9afdfc204065e2f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455481276.jpg?k=b36613bf1495f16eee2d3e601228b31a320eec7e4d35959f8af5ebd87feddb01&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485756972.jpg?k=bf477acc45b42d22bc922352c7b611a3239e344ef621db1c89f069bb8d2cfa26&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455481275.jpg?k=eec10ef5f234468aaa1c93e918adeb8ca83091d3c84f9e37e21ddfc183fb6a91&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459219577.jpg?k=ab110c452f76b14678ce18b45a78c8e5e1edcd2090eb2dbcf966324c7783871c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452160880.jpg?k=7ee2ab9f5ecd77e125864d795f95b3cb9e1d7a78f63bbfddbd9b22a7809d9bdb&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Clock Tower Tirana 1.9 km"\n  - "Skanderbeg Square 1.9 km"\n  - "Tanners' Bridge 2 km"\n  - "National Gallery of Arts Tirana 2.1 km"\n  - "House of Leaves 2.1 km"\n  - "Rinia Park 2.3 km"\n  - "Former Residence of Enver Hoxha 2.7 km"\n  - "Bunk'Art 1 Museum 2.9 km"\n  - "Grand Park of Tirana 3.6 km"\nnearbyRestaurants:\n  - "Byrektore 100 m"\n  - "Vila 5 150 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Allias 850 m"\n  - "Sheshi Rekreativ Gjolek Kokona 1.3 km"\n  - "Sheshi Jjosef Shtraus 1.3 km"\n  - "Amazing Nature 1.4 km"\n  - "Sheshi Sulejman Pasha 1.8 km"\n  - "Sheshi Rekreativ tek ish ATSh 1.8 km"\n  - "National Museum of History Albania 1.8 km"\n  - "Sheshi Skënderbej 1.9 km"\n  - "Sheshi Paris 1.9 km"\n  - "Sheshi Rekreativ Don Bosko 1.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/lovely-apt-1-7.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nPositioned merely 4.3 km from the breathtaking views offered by the Dajti Ekspres Cable Car and a stone's throw away from the historical Former Residence of Enver Hoxha, Lovely apt.1-7 serves as an ideal base for both adventure seekers and history enthusiasts. The Rock of Kavaje, a natural marvel, is also within a manageable 44 km, making it a perfect day trip destination.
 
 Cultural aficionados will appreciate the apartment's proximity to the National Theatre of Opera and Ballet of Albania and the National Museum of History Albania, located 2 km and 2.5 km away, respectively. For those who enjoy a bit of retail therapy, the Toptani Shopping Centre is just 2.7 km away, offering a variety of shopping options.
 
@@ -20,15 +9,3 @@ Connectivity is never an issue, as free WiFi is available throughout the propert
 Accessibility is a breeze, with Tanners' Bridge and the Clock Tower of Tirana both within a 3 km radius. For international travelers, the Tirana International Mother Teresa Airport is conveniently located 14 km from the apartment, making arrivals and departures as smooth as possible.
 
 Lovely apt.1-7 stands out as a beacon of comfort and convenience, promising an unforgettable stay in the heart of Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

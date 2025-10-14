@@ -1,30 +1,10 @@
----
-title: Nice House next to a beautiful park
-description: This holiday home is a haven of comfort and convenience, featuring air-conditioned accommodations complete with a welcoming balcony. Guests are treated to a spa
-featuredImage: "/images/accommodation/368910498.jpg"
-language: en
-slug: nice-house-next-to-a-beautiful-park
-location: ""
-amenities: []
-images: []
----
-
-This holiday home is a haven of comfort and convenience, featuring air-conditioned accommodations complete with a welcoming balcony. Guests are treated to a spacious layout that includes 2 bedrooms, ensuring ample space for relaxation. The living area is equipped with a flat-screen TV, perfect for unwinding after a day of sightseeing. A fully equipped kitchen, boasting an oven and a fridge, invites guests to prepare their meals at their leisure, while a washing machine adds to the convenience. The presence of a cozy fireplace enhances the home's warm and inviting atmosphere.
+---\ntitle: "Nice House next to a beautiful park"\ndescription: "Discover the charm of Tirana with a stay at Nice House, a serene holiday home located adjacent to a picturesque park."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368910498.jpg?k=8863c43172e2f6e8be73951eeaeb7ade961b52e82b4b418fe8ff02f6fbb1fdd2&o=&hp=1"\nlanguage: en\nslug: nice-house-next-to-a-beautiful-park\naddress: "Rruga e Dafinave, Nd. 169 Floor 1, 1023 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3340426\n  lng: 19.78970469\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 9.5\n  location: 9.2\n  cleanliness: 9.2\n  facilities: 10\n  value: 9.2\n  comfort: 10\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368910498.jpg?k=8863c43172e2f6e8be73951eeaeb7ade961b52e82b4b418fe8ff02f6fbb1fdd2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387460814.jpg?k=b545c4239d83178da0b8b7403a5115d023019b2b1d238806fe44d47a9389816c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368910516.jpg?k=ead718dac5168f9aeb13ddd1a3119b6c2529a16349d21f4a7e6bc3902cffe419&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/380276395.jpg?k=3de870527bc78d3cacefe9dabe5ef0ec8aec14c45817ebb8efd45b8bfdbae7a8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/380276400.jpg?k=d20c5ad79bfb19f4152e12c2e5dae2308b589d8e8284e3fb02b554ee371409d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387460821.jpg?k=912b287cd5c468a00b8b9f21e45caa06b0ae5b8856ff884a360139cca5726cd6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387460755.jpg?k=382dd6d48889dff98a282294b321368e924e6b7b4fd96a38ac78e62dfb03c7bb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387460805.jpg?k=a99a570d09cbd3baae43259ba021af778512cce9dd8d3bcda9741831d2c3f190&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368910512.jpg?k=4c385682d0a54c1a66b32b4cbb4275c5a2c090852ebbf4814e1ceb0bb864f894&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyAttractions:\n  - "National Museum of History Albania 2.4 km"\n  - "House of Leaves 2.4 km"\n  - "Skanderbeg Square 2.6 km"\n  - "Rinia Park 2.6 km"\n  - "Clock Tower Tirana 2.6 km"\n  - "Former Residence of Enver Hoxha 2.7 km"\n  - "National Gallery of Arts Tirana 2.7 km"\n  - "Tanners' Bridge 3.2 km"\n  - "Grand Park of Tirana 3.9 km"\n  - "Bunk'Art 1 Museum 6 km"\nnearbyRestaurants:\n  - "Deja Vu Bar 200 m"\n  - "Select 250 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Lord Bajron 500 m"\n  - "Sheshi Rekreativ Parku 1Km 700 m"\n  - "Shesh Rekreativ Yzberisht 700 m"\n  - "Park Lojrash 700 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 1.2 km"\n  - "Sheshi Rekreativ Pallati me Shigjeta 1.4 km"\n  - "Sheshi Rekreativ Don Bosko 1.4 km"\n  - "Sheshi Rekreativ Mine Peza 1.4 km"\n  - "Sheshi Rekreativ Sali Butka 1.5 km"\n  - "Sheshi Rekreativ Shefqet Musaraj 1.5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 9 km"\n  - "Ohrid Airport 81 km"\nreviews:\n  - name: "Chi-hao"\n    country: "Taiwan"\n    text: "“雖然住宿期間房東不在，但房東提供詳細的入住資訊，並請鄰居協助轉交鑰匙與處理付款事宜，過程非常順利。
+房屋位置位於前機場跑道所改建的長型公園旁，有一排的餐廳、酒吧，附近的鄰居都很友善，十分愜意。
+房屋空間非常的大，房東所提供的備品和生活用品也十分足夠，廚房調味料和餐具一應俱全。
+WiFi網速快速，不過稍微要找一下訊號源，避免被房屋的牆壁所遮蔽訊號。”"\nbookingURL: "https://www.booking.com/hotel/al/nice-house-next-to-a-beautiful-park.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nThis holiday home is a haven of comfort and convenience, featuring air-conditioned accommodations complete with a welcoming balcony. Guests are treated to a spacious layout that includes 2 bedrooms, ensuring ample space for relaxation. The living area is equipped with a flat-screen TV, perfect for unwinding after a day of sightseeing. A fully equipped kitchen, boasting an oven and a fridge, invites guests to prepare their meals at their leisure, while a washing machine adds to the convenience. The presence of a cozy fireplace enhances the home's warm and inviting atmosphere.
 
 The property prides itself on offering a range of amenities designed to enhance the guest experience. Complimentary WiFi and private parking are available, ensuring a hassle-free stay. For those seeking moments of tranquility, the garden provides a peaceful oasis where one can relax and rejuvenate.
 
 Adventure seekers will appreciate the proximity to Dajti Ekspres Cable Car, located 7.4 km away, offering breathtaking views and an unforgettable experience. Additionally, the Former Residence of Enver Hoxha is just 3.7 km from the property, presenting an opportunity to delve into the country's rich history.
 
 With its strategic location near Tirana International Mother Teresa Airport, only 11 km away, Nice House next to a beautiful park is not only accessible but also stands as a perfect retreat for those looking to experience the best of Tirana in a comfortable and serene setting.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

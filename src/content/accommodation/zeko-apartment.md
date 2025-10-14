@@ -1,30 +1,7 @@
----
-title: Zeko Apartment
-description: The apartment itself boasts a modern, air-conditioned space equipped with all the essentials for a relaxing stay. Guests can enjoy the convenience of a fully eq
-featuredImage: "/images/accommodation/399649306.jpg"
-language: en
-slug: zeko-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself boasts a modern, air-conditioned space equipped with all the essentials for a relaxing stay. Guests can enjoy the convenience of a fully equipped kitchen, complete with an oven, making self-catering a breeze. The living area, complemented by a flat-screen TV and comfortable dining space, ensures guests have a cozy retreat after a day of exploration. The inclusion of towels and bed linen underscores the property's attention to guest comfort.
+---\ntitle: "Zeko Apartment"\ndescription: "Zeko Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Golem."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399649306.jpg?k=f588ec17ab7c35c52921c266e4f5d35f9078049a2b5c0dfa07ccee9c8703d041&o=&hp=1"\nlanguage: en\nslug: zeko-apartment\naddress: "7G9C+43V, Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.2679148\n  lng: 19.51999889\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 9\nratings:\n  overall: 9\n  location: 8.3\n  cleanliness: 8.9\n  facilities: 8.9\n  value: 9.2\n  comfort: 9.2\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399649306.jpg?k=f588ec17ab7c35c52921c266e4f5d35f9078049a2b5c0dfa07ccee9c8703d041&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399649254.jpg?k=a3d3524033509492e1b371a82ee1da21f79bcc67b0722f57d6c33211959ffe52&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399649298.jpg?k=157654c29d2be7017368ea440e128be0cff3b1975588790f05f7a00275ef35af&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400601424.jpg?k=a518d8cca28f41b97de1a6fbe81d7a0da081ddcb8f0ab85f287a70d25c47c022&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399649309.jpg?k=2a1d4052e31db662a2b34d47169e0395ff05da677b92a27088f73c64de0cfbb4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400601396.jpg?k=5412e4364ac3c31930a19234d2d60eedbea17041feebe4153fcf4956ee45bbdd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399649289.jpg?k=3a3c92141e41d6c317985df88b18d3087dbe1e874cb52cb3ba3379e54aaf8ccf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399649296.jpg?k=1a2068b9939644df29148b4381c16286173976c1ba44fa92a4470c13cbdf1ffc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400601548.jpg?k=046886d8e53c937d7276b706cb9f5cf2af7ca9f50274aab68657f02ea6558898&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Grill & Pizza Peja 50 m"\n  - "Fresh Fish 250 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 150 m"\n  - "Golem Beach 300 m"\n  - "Durres Beach 2.2 km"\n  - "Mali I Robit Beach 2.2 km"\n  - "Qerret Beach 4.2 km"\nwhatsNearby:\n  - "Bekimi 8 km"\n  - "Durres Amphiteatre 8 km"\n  - "Wine Dhe Pooh 8 km"\n  - "1. Maj 8 km"\n  - "Yje Dhe Hena 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "Sotir Noka 9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nreviews:\n  - name: "Flavia"\n    country: "Albania"\n    text: "“Everything inclused. You only need to take your clothes with you, for the rest thinks Zeko Apartment. Comfortable, clean, safe. Highly recommended. Coming back again for sure.”"\nbookingURL: "https://www.booking.com/hotel/al/zeko-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself boasts a modern, air-conditioned space equipped with all the essentials for a relaxing stay. Guests can enjoy the convenience of a fully equipped kitchen, complete with an oven, making self-catering a breeze. The living area, complemented by a flat-screen TV and comfortable dining space, ensures guests have a cozy retreat after a day of exploration. The inclusion of towels and bed linen underscores the property's attention to guest comfort.
 
 With free WiFi enveloping the premises, staying connected or planning the next day's adventures is effortlessly easy. Notably, the property maintains a non-smoking environment, ensuring a fresh and welcoming atmosphere for all guests.
 
 Located just a short drive from the former Residence of Enver Hoxha and within easy reach of Tirana International Mother Teresa Airport, Zeko Apartment not only offers a gateway to exploring Albania's coastal charm but also ensures seamless travel logistics for international visitors.
 
 In summary, Zeko Apartment stands out as a meticulously designed haven that promises a memorable stay for those venturing into the heart of Golem, whether it's for the sun-kissed beaches, historical explorations, or simply a peaceful getaway.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

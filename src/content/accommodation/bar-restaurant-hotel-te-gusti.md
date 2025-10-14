@@ -1,15 +1,4 @@
----
-title: Bar Restaurant Hotel "Te Gusti"
-description: Each room at Bar Restaurant Hotel "Te Gusti" is thoughtfully equipped with modern amenities such as air conditioning, a flat-screen TV, and a private bathroom c
-featuredImage: "/images/accommodation/388220470.jpg"
-language: en
-slug: bar-restaurant-hotel-te-gusti
-location: ""
-amenities: []
-images: []
----
-
-Each room at Bar Restaurant Hotel "Te Gusti" is thoughtfully equipped with modern amenities such as air conditioning, a flat-screen TV, and a private bathroom complete with a hairdryer, ensuring a stay that combines convenience with the comforts of home.
+---\ntitle: "Bar Restaurant Hotel ''Te Gusti''"\ndescription: "Discover the charm of Tamarë at the Bar Restaurant Hotel \"Te Gusti,\" a serene retreat located just a stone's throw away from the iconic Church of the Holy Heart of Jesus."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388220470.jpg?k=9f42e37e62489ce267c524aa23c5baf7a594d42b099c9b222d61afa9561dc159&o=&hp=1"\nlanguage: en\nslug: bar-restaurant-hotel-te-gusti\naddress: "SH20 Center of TAMARE, Malesi e Madhe, Albania, 4304 Tamarë, Albania"\ncity: "Tamarë"\nlocation: "Tamarë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.46238391\n  lng: 19.56126749\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 90\nratings:\n  overall: 9.2\n  location: 9.5\n  cleanliness: 9.2\n  facilities: 8.9\n  value: 9\n  comfort: 9.3\n  staff: 9.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388220470.jpg?k=9f42e37e62489ce267c524aa23c5baf7a594d42b099c9b222d61afa9561dc159&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382518799.jpg?k=0dbe2e2db3cf1fa96405f98edfd0ee9e23fdd3feef41e19073a53c30ffb28907&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382523752.jpg?k=880b779fa2a0461f9e9ff7581803321b86420da9f03cf02480fba635db8cc616&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/266382436.jpg?k=65fbcff5b9023a8f6ab4e4bc3ff5b45c7e70d37306c0ea65a324f3742ca37c52&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382523763.jpg?k=082162666d5dbc798e6061662a0436a31d0fb67f3810800c974ca9cf1bb7e1b4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382523084.jpg?k=27e9945cc3dba893604e65d6c3630665ca6aec3cb0317540a6389d6ae6f73ef2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382523747.jpg?k=812e08ce8efba55351675d7e07ef6b3aefd19a8d045da282f2563eb339d2374f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/266382428.jpg?k=004e34da455d40ea0dda98351d8d0be72a610a9445272604b6aa3153747fdd2a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388220353.jpg?k=e56da7ea370ed41b085a47057eef4540bffe89b880c6896a60fec46201fd69d1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/266382407.jpg?k=c8c448b6d6e014a24f126f0b245635e873626f63e7aa749fc5942979aa83cf91&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388220653.jpg?k=f22a427ff0523940409c2cac621698f7fc1abaa071e6d3549fa1adcbf81d89ef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382529247.jpg?k=99ade81928da2bc38beccc3d22c42e7a68987c13c0474ba0014850b6ff7032b0&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Double or Twin Room"\n  - "Deluxe Double or Twin Room"\n  - "Deluxe Family Room"\nnearbyRestaurants:\n  - "Bar te Cemi 50 m"\n  - "Ujevara Bar 300 m"\nwhatsNearby:\n  - "Theth National Park 13 km"\n  - "Prokletije National Park 18 km"\n  - "National Park Skadar Lake 19 km"\n  - "Theth National Park 19 km"\nairports:\n  - "Podgorica Airport 27 km"\n  - "Tivat Airport 68 km"\nreviews:\n  - name: "Anisa"\n    country: "Albania"\n    text: "“Everything was perfect. The owners were very very nice. The food was delicious and the prices were affordable. Tamara is a must visit destination. Enjoy a stay!”"\n  - name: "Krisztina"\n    country: "Hungary"\n    text: "“We stayed here for 1 night on the way to Theth. The accommodation is right in the town centre. You can park your car a few metres away. The room is clean and comfortable. We had dinner there as well. It was really good, the best meal we had in...”"\n  - name: "Jacob"\n    country: "Netherlands"\n    text: "“new, clean and very helpfull staff. the food is great. the prices are reasonable.”"\nbookingURL: "https://www.booking.com/hotel/al/bar-restaurant-39-39-te-gusti-39-39.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach room at Bar Restaurant Hotel "Te Gusti" is thoughtfully equipped with modern amenities such as air conditioning, a flat-screen TV, and a private bathroom complete with a hairdryer, ensuring a stay that combines convenience with the comforts of home.
 
 The hotel prides itself on its exceptional service, with a team of bilingual staff (English and Albanian) available around the clock at the 24-hour front desk. Whether it's providing local travel tips or assisting with guest inquiries, the team is dedicated to making every stay memorable.
 
@@ -18,15 +7,3 @@ For those looking to explore, the hotel's location serves as a perfect base. It'
 Not to be overlooked, the hotel's in-house restaurant and bar present an opportunity to savor local cuisine and unwind with a drink, all while taking in the breathtaking mountain backdrop.
 
 Situated conveniently 36 km from Podgorica Airport, Bar Restaurant Hotel "Te Gusti" promises an accessible and unforgettable escape into the heart of Tamarë's picturesque landscape.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

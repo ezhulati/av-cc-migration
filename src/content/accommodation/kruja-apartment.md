@@ -1,15 +1,4 @@
----
-title: Kruja Apartment
-description: The apartment itself is a testament to thoughtful design and comfort, boasting a spacious layout that includes a bedroom, a living room with a flat-screen TV, a
-featuredImage: "/images/accommodation/483718309.jpg"
-language: en
-slug: kruja-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to thoughtful design and comfort, boasting a spacious layout that includes a bedroom, a living room with a flat-screen TV, and a balcony that offers sweeping sea views. The kitchen is fully equipped with modern appliances including an oven and a microwave, ensuring guests have everything they need for a comfortable stay. The inclusion of a bathroom with a bidet, along with the option to request towels and linens, adds a layer of convenience for guests.
+---\ntitle: "Kruja Apartment"\ndescription: "Kruja Apartment emerges as a serene retreat in the heart of Krujë, offering a blend of comfort and convenience for travelers seeking an authentic Albanian experience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483718309.jpg?k=43355120891fbfb1874c2a813e041e0d90587f19186c9260116bcd5574dcc3e4&o=&hp=1"\nlanguage: en\nslug: kruja-apartment\naddress: "Rruga e Malit, 1501 Krujë, Albania"\ncity: "Krujë"\nlocation: "Krujë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.51088039\n  lng: 19.79503262\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 7.1\nratingWords: "Good"\nnumberOfReviews: 6\nratings:\n  overall: 7.1\n  location: 7.5\n  cleanliness: 7.1\n  facilities: 7.1\n  value: 6.7\n  comfort: 6.7\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483718309.jpg?k=43355120891fbfb1874c2a813e041e0d90587f19186c9260116bcd5574dcc3e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/529369115.jpg?k=ab25dc8786fee02a5c31ef3c65710ee5d9b00f4fda21f9877d8996e9e4844acf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/529369117.jpg?k=8dedaab043bd0473250b9ca17572df739b6a184da3307e7f7562586bbc7f3810&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/529368971.jpg?k=79c2572f21866eb6a0e11bd1a0d57fa24ec782e74f8a798a6dd1821868b01db7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/529369111.jpg?k=f8ff4aca88e379eb188a058eb98e18ff70622b30a2b43f98792e6939820518e8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/529369118.jpg?k=a52b4c7335e07770643dced9a9a5a017999260887e218c163b89542460a3fef2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/529369121.jpg?k=b74dcc4b47577eaad3dc6327e7a0d68338bf3e911c56e1358b17e7c8773dc827&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/529369123.jpg?k=d5ed8dc8b0dd63f902dd3b3a42a7422e1c2c9423517cb10c2c09e42fc18ebf1f&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Apartment with Balcony"\nnearbyRestaurants:\n  - "Pizzeri Kupa Hallall 150 m"\n  - "Bar Kafe \Turizmi\\"\" 200 m"\nwhatsNearby:\n  - "Dajti Mountain National Park 3 km"\n  - "Sheshi Rekreativ Allias 18 km"\n  - "Bunk'Art 1 Museum 19 km"\n  - "Sheshi Rekreativ Lord Bajron 19 km"\n  - "Sheshi Rekreativ Gjolek Kokona 19 km"\n  - "Sheshi Rekreativ Don Bosko 19 km"\n  - "Sheshi Rekreativ Mine Peza 20 km"\n  - "Amazing Nature 20 km"\n  - "Sheshi Jjosef Shtraus 20 km"\n  - "Shesh Rekreativ Yzberisht 20 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 87 km"\nbookingURL: "https://www.booking.com/hotel/al/kruja-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe apartment itself is a testament to thoughtful design and comfort, boasting a spacious layout that includes a bedroom, a living room with a flat-screen TV, and a balcony that offers sweeping sea views. The kitchen is fully equipped with modern appliances including an oven and a microwave, ensuring guests have everything they need for a comfortable stay. The inclusion of a bathroom with a bidet, along with the option to request towels and linens, adds a layer of convenience for guests.
 
 One of the standout features of Kruja Apartment is its commitment to providing a welcoming environment for all guests, as evidenced by its allergy-free and non-smoking rooms. Additionally, the provision of complimentary WiFi and on-site parking enhances the overall guest experience, allowing for ease of access and connectivity throughout the stay.
 
@@ -18,15 +7,3 @@ For those looking to immerse themselves in the local culture and landscape, Kruj
 Not to be overlooked, the apartment complex houses a minimarket, providing guests with easy access to essentials without having to venture far. Additionally, the area around Krujë is ripe for exploration, with hiking opportunities that promise to enchant nature lovers and adventure seekers alike.
 
 In summary, Kruja Apartment stands out as a premier choice for those looking to immerse themselves in the beauty and history of Albania, offering a harmonious blend of comfort, convenience, and cultural immersion.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,7 @@
----
-title: Vila Ardi
-description: The apartment at Vila Ardi is a haven of comfort, featuring air conditioning for those warm summer days. It boasts a fully equipped kitchenette, ideal for those
-featuredImage: "/images/accommodation/370309317.jpg"
-language: en
-slug: vila-ardi
-location: ""
-amenities: []
-images: []
----
-
-The apartment at Vila Ardi is a haven of comfort, featuring air conditioning for those warm summer days. It boasts a fully equipped kitchenette, ideal for those who enjoy the flexibility of preparing their own meals. The living space is thoughtfully designed with a cozy seating area, a dining space for intimate meals, and a flat-screen TV for entertainment. The inclusion of a balcony adds a touch of luxury, providing the perfect setting for morning coffees or evening relaxation.
+---\ntitle: "Vila Ardi"\ndescription: "Vila Ardi stands as a serene retreat in the heart of Ksamil, a stone's throw away from the pristine shores of Paradise Beach and Lori Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370309317.jpg?k=7feb29ace56be8281119ee16a9b8add972c67cca3b1e594825bcb316d7d13975&o=&hp=1"\nlanguage: en\nslug: vila-ardi\naddress: "Rruga Riviera, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.76689137\n  lng: 19.99794244\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370309317.jpg?k=7feb29ace56be8281119ee16a9b8add972c67cca3b1e594825bcb316d7d13975&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371024909.jpg?k=6e7760f265857b75df074da4b31ddd7cb5e0a72530c45cebb6af7e22af81b70a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371024981.jpg?k=3bac8430d05bd91e9ef56ceb1ca301b8b5ccb423071cab8102db68c4594f7c67&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371024882.jpg?k=18ca0a7a5a22be16d48cc9d50bf558f25a2fbe22dbd7039ccb71e60d0e7bc819&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370309377.jpg?k=dca0cd264d7a001a9e3e381c160a2a764a4fd204f707cd82062df79120f7776c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370309382.jpg?k=8be587f721ea65f1974358f4cebfdc28a14e514b0717e3a7c36fbcd75c7e246a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370309386.jpg?k=c9d271a91dbbaf64198978709ec71c7e8aa98f9556e7c5b7df0d258524f81e08&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370309390.jpg?k=be94c2b340d6f94e4e3f3735afa86b4a94f739891d3f4d002a8dc39c7ecaa10c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370309392.jpg?k=0bba8548416cabacd58159ee21d3fc3ac982ca84781106034a3090b0d055a96b&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Family rooms"\n  - "Beachfront"\nnearbyAttractions:\n  - "Museum of Banknotes 17 km"\n  - "New Fortress 17 km"\n  - "Serbian Museum 17 km"\n  - "Theotoki G. Square 18 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 18 km"\n  - "Trion Martiron Park 19 km"\n  - "Mon Repos Palace 19 km"\n  - "Kapodistrias Museum 20 km"\nnearbyRestaurants:\n  - "Arome Shtepie 40 m"\n  - "Fastfood Koko 40 m"\nnearbyBeaches:\n  - "Ksamil Beach 9 50 m"\n  - "Paradise Beach 150 m"\n  - "Lori Beach 300 m"\n  - "Puerto Rico Beach 300 m"\n  - "Bora Bora Beach 450 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 400 m"\n  - "Butrint National Park 3 km"\n  - "Plazhi I Krorezes 3.7 km"\n  - "Parc National de Butrint 11 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 17 km"\n  - "Old Fortress 17 km"\nairports:\n  - "Corfu International Airport 19 km"\n  - "Ioannina Airport 70 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/vila-ardi-ksamil.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment at Vila Ardi is a haven of comfort, featuring air conditioning for those warm summer days. It boasts a fully equipped kitchenette, ideal for those who enjoy the flexibility of preparing their own meals. The living space is thoughtfully designed with a cozy seating area, a dining space for intimate meals, and a flat-screen TV for entertainment. The inclusion of a balcony adds a touch of luxury, providing the perfect setting for morning coffees or evening relaxation.
 
 For those who appreciate the tranquility of nature, the property's garden offers a peaceful escape, inviting guests to unwind in its lush surroundings.
 
 Situated a mere 3 km from the historical wonders of Butrint National Park, Vila Ardi serves as an excellent base for explorers keen to immerse themselves in the area's rich heritage. Moreover, with Corfu International Airport 92 km away, it remains conveniently accessible for international travelers.
 
 Vila Ardi not only promises a stay marked by comfort and convenience but also provides a smoke-free environment, ensuring a clean and healthy atmosphere for all guests. With its prime location, well-appointed amenities, and serene ambiance, Vila Ardi is a standout choice for those seeking a memorable stay in Ksamil.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

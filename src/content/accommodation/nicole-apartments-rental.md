@@ -1,30 +1,8 @@
----
-title: Nicole Apartments Rental
-description: Each apartment at Nicole Apartments Rental is designed with guest comfort in mind, featuring air conditioning, a flat-screen TV, and a private bathroom equipped
-featuredImage: "/images/accommodation/520881305.jpg"
-language: en
-slug: nicole-apartments-rental
-location: ""
-amenities: []
-images: []
----
-
-Each apartment at Nicole Apartments Rental is designed with guest comfort in mind, featuring air conditioning, a flat-screen TV, and a private bathroom equipped with a modern walk-in shower and complimentary slippers. The addition of free WiFi across the premises ensures that guests remain connected, whether for leisure or work. Moreover, select units boast balconies, offering a private outdoor space to relax and soak in the surroundings.
+---\ntitle: "Nicole Apartments Rental"\ndescription: "Nicole Apartments Rental emerges as a prime choice for travelers seeking comfort and convenience in the heart of Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520881305.jpg?k=c056f14e8fb71fe51412c31484d432f23f9d4196966890eabb0964be64d0669c&o=&hp=1"\nlanguage: en\nslug: nicole-apartments-rental\naddress: "Rruga Iljaz Reka Building nr. 8, 2008 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31720793\n  lng: 19.45352974\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 30\nratings:\n  overall: 9.4\n  location: 9.3\n  cleanliness: 9.3\n  facilities: 9.5\n  value: 9.4\n  comfort: 9.4\n  staff: 9.4\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520881305.jpg?k=c056f14e8fb71fe51412c31484d432f23f9d4196966890eabb0964be64d0669c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475339266.jpg?k=5bd75a9ececd7bea549a4e61d2f3098c797a222ccd8aa068f68abb1f962ae71e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523295976.jpg?k=39d630e3ef526e9ae0d731d1918bec520ab3cc87527b0109a5dfad0e34bb0d2a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475339399.jpg?k=79375318e2e0e8ecef08fa5c885b404a27817c2f2ff826648044ebb9016ae123&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474115712.jpg?k=2a16aa7183d65de48db0d20eca86122c0634ba3ce896d1fb046ad9c0b03e1561&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474116028.jpg?k=f2b4dcba081927322d12065e0f0611e5085b65f0a164fbe698b362d94feb25fd&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Superior Apartment"\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Tedis Bar 40 m"\n  - "Liburnia Vitamin Aga 100 m"\nnearbyBeaches:\n  - "Currila Beach 1.1 km"\n  - "Durres Beach 1.2 km"\n  - "Kallmi Beach 1.8 km"\n  - "West End Beach 2.7 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nwhatsNearby:\n  - "Sheshi Demokracia 400 m"\n  - "Wine Dhe Pooh 450 m"\n  - "Yje Dhe Hena 500 m"\n  - "Sotir Noka 700 m"\n  - "Durres Amphiteatre 900 m"\n  - "1. Maj 1.1 km"\n  - "Bekimi 2.4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 24 km"\nreviews:\n  - name: "Lea"\n    country: "Germany"\n    text: "“Self check in worked perfectly, everything was clear and easy to follow. The apartment is really big and clean, we had everything we needed.
+It's possible to park for free close to the apartment, we didn't have any issues with finding a slot.”"\n  - name: "Victor"\n    country: "Ukraine"\n    text: "“Fully equipped with all necessary toiletries, kitchen and all other supplies for comfortable stay. Clean, honest, spacious and just cosy inviting apartment. Quick helpful support. Best value for money we’ve seen so far. Awesomeness we’ll...”"\n  - name: "Leah"\n    country: "United Kingdom"\n    text: "“Walking distance to everything. Very spacious, ideal for families couples or friends. Nice kitchen area perfect for cooking and relaxing.”"\nbookingURL: "https://www.booking.com/hotel/al/nicole-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nEach apartment at Nicole Apartments Rental is designed with guest comfort in mind, featuring air conditioning, a flat-screen TV, and a private bathroom equipped with a modern walk-in shower and complimentary slippers. The addition of free WiFi across the premises ensures that guests remain connected, whether for leisure or work. Moreover, select units boast balconies, offering a private outdoor space to relax and soak in the surroundings.
 
 Privacy and ease of access are paramount, with each apartment benefiting from a private entrance. This detail underscores the property's commitment to providing a seamless and hassle-free experience for all guests, including families, who will appreciate the spacious family rooms available.
 
 Beyond the confines of the apartment, guests will find themselves conveniently positioned to explore the wider area. The historic Skanderbeg Square lies 38 km away, offering a glimpse into the country's rich heritage, while the Dajti Ekspres Cable Car, 42 km from the property, presents an opportunity for an unforgettable adventure with its panoramic views. For those traveling by air, the proximity to Tirana International Mother Teresa Airport, just 32 km away, adds an extra layer of convenience to the stay at Nicole Apartments Rental.
 
 In summary, Nicole Apartments Rental stands as a testament to thoughtful accommodation that caters to the needs of modern travelers, making it an excellent choice for those looking to explore Durrës and its picturesque surroundings.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

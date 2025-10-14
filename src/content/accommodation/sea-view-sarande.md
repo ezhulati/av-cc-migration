@@ -1,30 +1,7 @@
----
-title: Sea view Sarande
-description: Occupying a coveted spot, the apartment boasts a generous layout with two well-appointed bedrooms, ensuring ample space for guests. The living area, adorned wit
-featuredImage: "/images/accommodation/482507095.jpg"
-language: en
-slug: sea-view-sarande
-location: ""
-amenities: []
-images: []
----
-
-Occupying a coveted spot, the apartment boasts a generous layout with two well-appointed bedrooms, ensuring ample space for guests. The living area, adorned with a sleek flat-screen TV and a cozy fireplace, invites relaxation after a day of exploration. A fully equipped kitchen, complete with modern appliances such as an oven, fridge, washing machine, and stovetop, caters to the culinary needs of guests, making it feel like a home away from home.
+---\ntitle: "Sea view Sarande"\ndescription: "Sea View Sarande emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482507095.jpg?k=0eb5a27deb93de1ca5cdc50f62a1f81151d0ca482a2f3cbd99d5031769efbee6&o=&hp=1"\nlanguage: en\nslug: sea-view-sarande\naddress: "42 Rruga Qazim Demi 3rd floor, Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87594913\n  lng: 20.01151695\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482507095.jpg?k=0eb5a27deb93de1ca5cdc50f62a1f81151d0ca482a2f3cbd99d5031769efbee6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482507176.jpg?k=014083ff4f9e911df4acba6cb856b56ca5fefda02b05d8dc039517be74a7b196&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482507198.jpg?k=c626e9ab04ea495904df18c5cf3f31f94ee0bdcc23c194a2ef5912fd86cbd735&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482507168.jpg?k=6b3697118d2cc4f83603db2cf1c47eafa0dc5090f9a9e248d11cbfed619be347&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482526549.jpg?k=5f8c98a2152550692c27b5e010586b3f3ca5fc5cb5c2c58feb278bc28777e36a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482507205.jpg?k=a2f21ecef994c2ccb013b2bdc00d2eed22b03d3054050a5bc7feb06b5b3de1ea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482507181.jpg?k=4b40629e6fe76f1f59a5a374e86fe245e66fe682b50669de10313911e865b072&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482525925.jpg?k=b6b4f3b3702dabaec497ba51ff4621bb32d7f12ce9de4dbdab65de5fad9c4115&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482526143.jpg?k=f007572de09bff07697b6639b8ec54512f5df31e60ddb2d5ddd0abe07a8f372b&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Terrace"\nnearbyRestaurants:\n  - "Nona Qebaptore 100 m"\n  - "Nasto 200 m"\nnearbyBeaches:\n  - "Saranda City Beach 250 m"\n  - "La Petite Beach 850 m"\n  - "Maestral Beach 1 km"\n  - "Sarande Main Beach 1.1 km"\n  - "VIP Beach 2 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.2 km"\n  - "Butrint National Park 3.1 km"\n  - "Plazhi I Krorezes 9 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 31 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Antoine"\n    country: "France"\n    text: "“Une petite dame âgée nous accueille et prend le règlement elle est très gentille. Tout le 3 eme étage nous est dédié avec une vue splendide sur Sarandë !! La location est comme sur les photos, il y a tout ce qu’il faut, une épicerie à proximité et...”"\nbookingURL: "https://www.booking.com/hotel/al/sea-view-sarande-sarande.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nOccupying a coveted spot, the apartment boasts a generous layout with two well-appointed bedrooms, ensuring ample space for guests. The living area, adorned with a sleek flat-screen TV and a cozy fireplace, invites relaxation after a day of exploration. A fully equipped kitchen, complete with modern appliances such as an oven, fridge, washing machine, and stovetop, caters to the culinary needs of guests, making it feel like a home away from home.
 
 The allure of Sea View Sarande is further enhanced by its thoughtful amenities. Guests can enjoy the luxury of air-conditioned interiors, soundproofing for a peaceful stay, and the convenience of free private parking and complimentary WiFi. The addition of an outdoor dining area offers the perfect setting for an alfresco meal against the backdrop of the city.
 
 For those keen on exploring the natural beauty of the area, Butrint National Park is accessible within a 17 km drive, promising a day filled with adventure and historical discovery. Moreover, the proximity to Ioannina Airport, located 97 km away, ensures ease of travel for international guests.
 
 In essence, Sea View Sarande presents an inviting retreat for those looking to immerse themselves in the charm of Sarandë, offering a blend of comfort, convenience, and serene city views.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

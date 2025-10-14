@@ -1,28 +1,5 @@
----
-title: Ajsi Apartments
-description: The apartment itself is a haven of tranquility and practicality. Guests are treated to an air-conditioned space that boasts a separate bedroom, ensuring privacy
-featuredImage: "/images/accommodation/518887616.jpg"
-language: en
-slug: ajsi-apartments
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of tranquility and practicality. Guests are treated to an air-conditioned space that boasts a separate bedroom, ensuring privacy and a peaceful night's sleep. The inclusion of a fully equipped kitchenette, complete with a fridge and kitchenware, adds a touch of home, allowing visitors the freedom to prepare meals as they wish. The convenience of free private parking and complimentary WiFi further enhances the stay, ensuring that both digital and physical connectivity is seamless.
+---\ntitle: "Ajsi Apartments"\ndescription: "Ajsi Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518887616.jpg?k=f52431014d061e288bbe93ec0d3585ab0fae10dd423d04413df5ffa4c1496f44&o=&hp=1"\nlanguage: en\nslug: ajsi-apartments\naddress: "Lagja 13 Plazh ,rruga Juvenilja, 2008 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3103114\n  lng: 19.49459472\nprice: "US$18"\npriceFrom: 18\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518887616.jpg?k=f52431014d061e288bbe93ec0d3585ab0fae10dd423d04413df5ffa4c1496f44&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/527908476.jpg?k=7a1008ff7303d2ed9148f8dfe2c9128bb1523cc01a9fab988479b566f9fb9c64&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/518887675.jpg?k=86f75490b8f665cef3041e1ed07e7f5cee4944ed1dc2b4b01286cac03f90fdde&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/527909115.jpg?k=3bcb5a2212e002cc2e45aaef2f7c8ad37fc1aceba5cb1848b1c4f91f3517225e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/518887681.jpg?k=945c139099903599f18039e3d8007945c210fe087551a52876998cdf7d483860&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/518887668.jpg?k=cdae57d9249903b4991153721f76e0757ba46ba1eeef02db3787b215042b15dd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/527908513.jpg?k=28e3fb9152b3290254673147d1fc2e67c2ccbfb9dd03b439ff0a72e3dcf2c8b5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/527908751.jpg?k=2e7878501a2f1b235b087e6f467bf36e064bcb26805d4f1895c4afc6b275a679&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/527908583.jpg?k=44b34da0e3df8d072004865b4d0d708fe6228d1269629d8f7e799cccbf9b5fb5&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "ANTIGUA 450 m"\n  - "Colombo 450 m"\nnearbyBeaches:\n  - "Durres Beach 650 m"\n  - "Shkëmbi i Kavajës Beach 3 km"\n  - "Currila Beach 4 km"\n  - "Kallmi Beach 5 km"\n  - "Golem Beach 5 km"\nwhatsNearby:\n  - "Bekimi 2.4 km"\n  - "Wine Dhe Pooh 3.9 km"\n  - "Sheshi Demokracia 3.9 km"\n  - "Yje Dhe Hena 4 km"\n  - "Durres Amphiteatre 4.2 km"\n  - "Sotir Noka 4.2 km"\n  - "1. Maj 4.3 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\nbookingURL: "https://www.booking.com/hotel/al/ajsi-apartments-durres.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of tranquility and practicality. Guests are treated to an air-conditioned space that boasts a separate bedroom, ensuring privacy and a peaceful night's sleep. The inclusion of a fully equipped kitchenette, complete with a fridge and kitchenware, adds a touch of home, allowing visitors the freedom to prepare meals as they wish. The convenience of free private parking and complimentary WiFi further enhances the stay, ensuring that both digital and physical connectivity is seamless.
 
 Notably, Ajsi Apartments is strategically placed for those eager to delve into the local culture and history. The Rock of Kavaje is a mere 5.6 km away, while the Former Residence of Enver Hoxha is accessible at 38 km. For those fascinated by ancient architecture, the Durres Amphitheatre is just 6.3 km from the doorstep, and the House of Leaves stands 37 km away, offering a glimpse into the country's past.
 
 For travelers arriving by air, the Tirana International Mother Teresa Airport is conveniently located 32 km from the property, making Ajsi Apartments an ideal base for both short visits and extended stays in Durrës. Whether it's the allure of the beach or the call of historical exploration, this apartment serves as a perfect launchpad for all kinds of adventures in the region.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

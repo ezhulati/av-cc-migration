@@ -1,28 +1,7 @@
----
-title: Vila Alba
-description: Each apartment within Vila Alba is equipped with a cable flat-screen TV, ensuring entertainment is always within reach. The attention to detail is evident in th
-featuredImage: "/images/accommodation/489967603.jpg"
-language: en
-slug: vila-alba
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Vila Alba"\ndescription: "Vila Alba emerges as a serene retreat in the heart of Korçë, a mere stone's throw away from the enchanting Ohrid Lake Springs and the historic Monastery Saint Naum."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489967603.jpg?k=b0b98452b3615bf7c4218759f881b4e831b55dfec869dcbe20b7a026550d476d&o=&hp=1"\nlanguage: en\nslug: vila-alba\naddress: "Rruga Foqon Postoli, 7002 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.62036993\n  lng: 20.78535474\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 12\nratings:\n  overall: 9.5\n  location: 9.4\n  cleanliness: 9.4\n  facilities: 9.8\n  value: 10\n  comfort: 9.4\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489967603.jpg?k=b0b98452b3615bf7c4218759f881b4e831b55dfec869dcbe20b7a026550d476d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478068257.jpg?k=61fddbb516baa2b0c53c72bcdd5705a60141f45c2868d2a18085272c7844e08c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490062053.jpg?k=1492bc050395787474b5d2173d2a9f9bf063afbd656dc5bbaebbfe0cfa155d0f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521997319.jpg?k=aafb0ec5b7c82ef0c6ef5489fafa16bfdf1fd338be092454d54328263b80d1a2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478068252.jpg?k=6f8c3c42b53c2e661a2812060bde2d2d58b121b3a4ac11450b33db6b675e5001&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521997335.jpg?k=15335e341b6d7f3a8de94849a8337d98a7996f97ddc02035275f174a924435ad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478068255.jpg?k=5959fe128d89401dd21a0af7897e0e5b5b9a1b2840be9f978fd1f10c851cf2de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521997274.jpg?k=b926fce0ecaee8e8e002376d45d0cf39a84cce226e5a743a2bb93cd732093d7b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478068231.jpg?k=950ff9ce4f212a64553762ede0b1dbd695478b66fc585a0ecf70b02501c4978d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Standard Family Room"\nnearbyRestaurants:\n  - "Vila 95 200 m"\n  - "Proper Pizza Korce 200 m"\nwhatsNearby:\n  - "Field of Tears 300 m"\n  - "Parku Themistokli Gërmenji 350 m"\n  - "Sheshi Patriku Joasaf 550 m"\n  - "Parku Rinia 600 m"\n  - "Parku Rinia 850 m"\n  - "Parku Vangjush Mio 850 m"\n  - "Sheshi Panxhar 6 km"\n  - "Sheshi Koço Plaku 11 km"\n  - "Sheshi Penetori 12 km"\nairports:\n  - "Kastoria National Airport 45 km"\n  - "Ohrid Airport 61 km"\n  - "Kozani National Airport 96 km"\nreviews:\n  - name: "Ana"\n    country: "Albania"\n    text: "“perfect location. perfect service. clean and comfortable rooms. It is worth staying in Vila Alba”"\n  - name: "Jora"\n    country: "Albania"\n    text: "“The place was very clean and comfortable. A beautiful villa recently restored in a more modern set up. The place was very close to the main boulevard also.
+We enjoyed our stay and the host was very responsive.”"\n  - name: "Mònica"\n    country: "Andorra"\n    text: "“En ple casc antic de Korçe. Molt tranquil, agradable i net.
+Amb el detall de trobar-te cafè i aigua.”"\nbookingURL: "https://www.booking.com/hotel/al/vila-alba-korce.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nEach apartment within Vila Alba is equipped with a cable flat-screen TV, ensuring entertainment is always within reach. The attention to detail is evident in the provision of quality bed linen, towels, and a meticulous housekeeping service, all designed to create a seamless and worry-free stay for guests.
 
-Each apartment within Vila Alba is equipped with a cable flat-screen TV, ensuring entertainment is always within reach. The attention to detail is evident in the provision of quality bed linen, towels, and a meticulous housekeeping service, all designed to create a seamless and worry-free stay for guests.
-
-For those seeking moments of relaxation, the property boasts a beautifully maintained garden, inviting guests to unwind in a peaceful setting.
+For those seeking moments of relaxation, the property boasts a beautifully maintained garden, inviting guests to unwind in a peaceful setting. 
 
 Located 71 km from Kastoria National Airport, Vila Alba presents an accessible escape for travelers seeking a blend of comfort, convenience, and a touch of tranquility amidst the vibrant surroundings of Korçë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

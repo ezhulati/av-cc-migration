@@ -5,11 +5,17 @@ region: Southern Albania
 featuredImage: /images/destinations/apollonia.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: apollonia
 highlights: []
+seo:
+  metaTitle: "The Apollonia Archaeological Park: A Window into the Past"
+  metaDescription: "%excerpt%"
+  focusKeyword: "apollonia"
+  robots: "index"
 ---
 
 Why Visit Apollonia
@@ -110,10 +116,3 @@ Wander through Albania’s window to the ancient world, immerse yourself in the 
 
 The opportunity to uncover history where it happened makes Apollonia an unforgettable destination.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

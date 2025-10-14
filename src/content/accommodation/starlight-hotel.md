@@ -1,15 +1,6 @@
----
-title: StarLight Hotel
-description: Guests are treated to breathtaking city views from each room, complemented by the modern comforts of free WiFi, ensuring connectivity is never an issue. The hot
-featuredImage: "/images/accommodation/435837760.jpg"
-language: en
-slug: starlight-hotel
-location: ""
-amenities: []
-images: []
----
-
-Guests are treated to breathtaking city views from each room, complemented by the modern comforts of free WiFi, ensuring connectivity is never an issue. The hotel prides itself on being an allergy-free environment, making it a safe haven for all guests. For those looking to explore, the Dajti Ekspres Cable Car is located just 4.7 km away, offering an adventure not to be missed.
+---\ntitle: "StarLight Hotel"\ndescription: "StarLight Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435837760.jpg?k=e4210098eedb0f955e78a02526c8816fef370afc26f863d5f118ef9a4ec72d50&o=&hp=1"\nlanguage: en\nslug: starlight-hotel\naddress: "Rruga Ali Begeja, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.331391\n  lng: 19.822577\nprice: "US$65"\npriceFrom: 65\nstarRating: 4\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 995\nratings:\n  overall: 9.3\n  location: 9.3\n  cleanliness: 9.3\n  facilities: 9\n  value: 9.1\n  comfort: 9.4\n  staff: 9.3\n  wifi: 9.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435837760.jpg?k=e4210098eedb0f955e78a02526c8816fef370afc26f863d5f118ef9a4ec72d50&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435837556.jpg?k=c3c440314dce3a1c6f3dcb41b26e4ebf3aeaff1b7fce5bf294f7557cc23cb502&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433585348.jpg?k=7ed25f5bc68ca12828b22b452ea43233e88e4e5a5f33362516752f7b03c14333&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503614861.jpg?k=55d2678b0309024c53c6d8ae0e5e8e8b73bb1dd33855a491ff921efd34e28aae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435837762.jpg?k=0e8133869535b9e1b495d541c410864aec3291edabf620a131c773f878d36b8b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435907219.jpg?k=8cb62e53a6b1bf33efc61fb866283628490cc1e86fbdfb64ce28b47dc3b829ce&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Good breakfast"\nroomTypes:\n  - "Deluxe Double or Twin Room"\n  - "Twin Room"\n  - "Deluxe Double Room with Balcony"\n  - "Superior King Room"\n  - "Deluxe Room"\n  - "Superior Triple Room"\nnearbyAttractions:\n  - "House of Leaves 750 m"\n  - "Rinia Park 800 m"\n  - "Former Residence of Enver Hoxha 1.2 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 3.8 km"\nnearbyRestaurants:\n  - "Fratellis Fish House 50 m"\n  - "Coffee Spot 100 m"\nwhatsNearby:\n  - "Sheshi Sulejman Pasha 300 m"\n  - "Amazing Nature 350 m"\n  - "Clock Tower Tirana 450 m"\n  - "Sheshi Rekreativ tek ish ATSh 500 m"\n  - "National Museum of History Albania 500 m"\n  - "Skanderbeg Square 500 m"\n  - "Sheshi Skënderbej 500 m"\n  - "Parku Europa 500 m"\n  - "National Gallery of Arts Tirana 600 m"\n  - "Tanners' Bridge 600 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Janet"\n    country: "United Kingdom"\n    text: "“Location was brilliant Very clean and comfortable”"\n  - name: "Maurizio"\n    country: "Italy"\n    text: "“First of all: the kindness of receptionists.
+This Is a simple design hotel with comfortable rooms,close to main Square and shopping area.
+My room was really nice with a small balcony,complimentary water in the fridge and a wide...”"\n  - name: "Maria"\n    country: "United Kingdom"\n    text: "“I loved the view I had from my room. The mountains looked amazing even in the night. I would definitely return soon.”"\nbookingURL: "https://www.booking.com/hotel/al/starlight.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests are treated to breathtaking city views from each room, complemented by the modern comforts of free WiFi, ensuring connectivity is never an issue. The hotel prides itself on being an allergy-free environment, making it a safe haven for all guests. For those looking to explore, the Dajti Ekspres Cable Car is located just 4.7 km away, offering an adventure not to be missed.
 
 The accommodations at StarLight Hotel are thoughtfully designed with the guest's comfort in mind. Each room is equipped with a desk, a private bathroom featuring a shower and hairdryer, a flat-screen TV, and air conditioning for those warm Tirana days. Select rooms also boast a balcony, offering a private outdoor space to relax and take in the city's vibrant atmosphere. For added peace of mind, all rooms include a safety deposit box.
 
@@ -18,15 +9,3 @@ The hotel's multilingual staff, proficient in Greek, English, Italian, and Alban
 For those keen to explore Tirana's rich cultural landscape, StarLight Hotel is conveniently located near several key attractions, including the Former Residence of Enver Hoxha, the National Theatre of Opera and Ballet of Albania, and the National Museum of History Albania. Additionally, the Tirana International Mother Teresa Airport is just 14 km away, making arrivals and departures a breeze.
 
 StarLight Hotel stands out as a premier destination for those looking to immerse themselves in the vibrant life of Tirana, offering a perfect blend of location, amenities, and service.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -4,9 +4,12 @@ description: Accommodations at Villa Sunset Sarande Ajdi are thoughtfully design
 featuredImage: "/images/accommodation/203304783.jpg"
 language: en
 slug: villa-sunset-sarande-⤖-a-paradise-collection
-location: ""
-amenities: []
 images: []
+category: "4-Star"
+starRating: 4
+rating: 4
+accommodationType: "hotel"
+location: "Sarandë"
 ---
 
 Accommodations at Villa Sunset Sarande Ajdi are thoughtfully designed, with select units featuring comfortable seating areas perfect for unwinding. Guests can enjoy a variety of views from their rooms, whether it's the serene sea, the majestic mountains, or the tranquil garden, each adding a unique backdrop to their stay. The assurance of a private bathroom in every room enhances the comfort and privacy of the experience.
@@ -17,14 +20,3 @@ The hotel's location is ideal for adventurers and nature lovers alike, with the 
 
 In summary, Villa Sunset Sarande Ajdi presents a compelling option for those looking to enjoy Sarande's natural beauty, historical sites, and the comfort of a hotel that feels like home.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

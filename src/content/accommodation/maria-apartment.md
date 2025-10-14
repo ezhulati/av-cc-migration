@@ -1,26 +1,3 @@
----
-title: Maria Apartment
-description: The apartment itself boasts a generous layout, featuring a balcony that invites guests to enjoy their morning coffee or evening relaxation outdoors. With two be
-featuredImage: "/images/accommodation/478322728.jpg"
-language: en
-slug: maria-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself boasts a generous layout, featuring a balcony that invites guests to enjoy their morning coffee or evening relaxation outdoors. With two bedrooms, a cozy living room, and a well-equipped kitchen complete with an oven, Maria Apartment caters to the needs of families, friends, or anyone looking for a spacious retreat. Guests can rest easy knowing that the premises are dedicated to providing a smoke-free environment.
+---\ntitle: "Maria Apartment"\ndescription: "Maria Apartment emerges as a charming choice for travelers seeking comfort and convenience in the heart of Gjirokastër."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478322728.jpg?k=ad50a6801610fa2ef5c9149930927a1123f8f53f66b8f38d8f47d8226538b053&o=&hp=1"\nlanguage: en\nslug: maria-apartment\naddress: "Rruga Granicë, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.07911471\n  lng: 20.13070461\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 8\nratings:\n  overall: 9.2\n  location: 7.5\n  cleanliness: 9.7\n  facilities: 9.1\n  value: 9.7\n  comfort: 9.4\n  staff: 9.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478322728.jpg?k=ad50a6801610fa2ef5c9149930927a1123f8f53f66b8f38d8f47d8226538b053&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481170134.jpg?k=83d7d604a2e112c96d7e5f2505ea3e5ba1a3a0d78c3b3645a6d517dfd5649628&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481169647.jpg?k=d8a65e44c6e2191607432d736e718aea00c9bf650013725f7b6883044195f8b5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481170116.jpg?k=9be42465baadf045ae862ae9a25f06ab1f50170ebfc057537b36c45f5be6e2f6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478322779.jpg?k=c1c02c4a1211b8f7c6ac4d2cd23d2a908c37b5b64580be247ccd3a7d108fd9a2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481169142.jpg?k=96aeb48f7ba8c9e48de1ebf6054c1ff3068f8dd99896c6207121b7d3dd1f39fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494464707.jpg?k=858e35138273a07d191bcb865b38d86bc5f0a609c393c37848751918e607aa29&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478322802.jpg?k=6a267bd45a935b5c26cb609cb4d0b94387eb9e75fadc1a341e01e7cfc979e63e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494464788.jpg?k=7fdc1d7a698a7c1bf404a563b1bcf8329c4c44062b8fbbf7d502cde80c708138&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Feda 150 m"\n  - "Halal Klajdi 500 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Gioula"\n    country: "Greece"\n    text: "“Πολυ κοντα στην παλια πολη ,ολα αψογα και η καθαριοτητα αλλο πραγμα,ολα μυριζαν φρεσκαδα και καθαριοτητα,καλυτερα και απο το σπιτι μας,χιλια ευχαριστω για την πραγματικα φιλικη και οικογενειακη φιλοξενια,την αγαπη μας στους φιλους που μειναμε...θα...”"\n  - name: "Miguel"\n    country: "Spain"\n    text: "“Una casa muy confortable y muy amable su propietaria. La casa muy limpia y las camas muy cómodas.”"\n  - name: "Isabella"\n    country: "Italy"\n    text: "“La struttura è nuova, accogliente, cucina ben attrezzata, pulitissima, la proprietaria, Dorina, persona gentilissima e molto disponibile. Consiglio questa struttura”"\nbookingURL: "https://www.booking.com/hotel/al/maria-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nThe apartment itself boasts a generous layout, featuring a balcony that invites guests to enjoy their morning coffee or evening relaxation outdoors. With two bedrooms, a cozy living room, and a well-equipped kitchen complete with an oven, Maria Apartment caters to the needs of families, friends, or anyone looking for a spacious retreat. Guests can rest easy knowing that the premises are dedicated to providing a smoke-free environment.
 
 For those concerned about travel logistics, the convenience of Ioannina Airport being just 84 km away makes Maria Apartment an accessible option for international and domestic travelers alike.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

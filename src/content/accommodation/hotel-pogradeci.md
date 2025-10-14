@@ -1,15 +1,9 @@
----
-title: Hotel Pogradeci
-description: Accommodations at Hotel Pogradeci are thoughtfully equipped with modern amenities including flat-screen cable TVs, safes, and desks. The attention to detail ext
-featuredImage: "/images/accommodation/176116515.jpg"
-language: en
-slug: hotel-pogradeci
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Hotel Pogradeci are thoughtfully equipped with modern amenities including flat-screen cable TVs, safes, and desks. The attention to detail extends to the en-suite bathrooms, which are outfitted with showers, hairdryers, and complimentary slippers, adding a touch of home-like comfort to the experience.
+---\ntitle: "Hotel Pogradeci"\ndescription: "Hotel Pogradeci stands as a serene retreat on the shores of Lake Ohrid, merely a stone's throw from the vibrant heart of Pogradec."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176116515.jpg?k=6a0edd62713f991176fd954ae8a4c4740a4ea834e34fe8059a244e99b10bdf3c&o=&hp=1"\nlanguage: en\nslug: hotel-pogradeci\naddress: "Rruga Deshmoret E Pojskes, 7301 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.90182894\n  lng: 20.6634821\nprice: "US$51"\npriceFrom: 51\nstarRating: 4\nrating: 8.7\nratingWords: "Very Good"\nnumberOfReviews: 200\nratings:\n  overall: 8.7\n  location: 9.5\n  cleanliness: 8.6\n  facilities: 8.2\n  value: 8.6\n  comfort: 8.6\n  staff: 9\n  wifi: 8.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176116515.jpg?k=6a0edd62713f991176fd954ae8a4c4740a4ea834e34fe8059a244e99b10bdf3c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/33008648.jpg?k=694d465f81e4dca6052fa91c8a1ca7565a0567f189cf7718467e7adb1451d22f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/161027288.jpg?k=231474164ad9a89fd237ef3b425b82ecefa47a4b5346219f78a6ac13bb3f008f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/59246893.jpg?k=acb852cccf41b2c282328cc91d7c4690d64e01f9ae21aba3ca912661d75c8199&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/180819937.jpg?k=ea2ac1ead4fe941fc23296a5b37c0125323b7f7751e50984692c51942b8e57c4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/33008597.jpg?k=aa4be355870ed329677c4f69fd315238f6f4c7d6bf29cb065d0a68c9be4cf8b5&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Restaurant"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Good breakfast"\nroomTypes:\n  - "Twin Room with Garden View"\nnearbyRestaurants:\n  - "Restorant Pogradeci 2 m"\n  - "Max Lloto 30 m"\nwhatsNearby:\n  - "Driloni National Park 600 m"\n  - "National Park Galicica 7 km"\n  - "National Park Galicica 14 km"\n  - "Bay of Bones 15 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 71 km"\n  - "Tirana International Airport Mother Teresa 96 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Alexander"\n    country: "Germany"\n    text: "“Located at sea front, well run hotel, good bathroom, comfy bed”"\n  - name: "Chantal"\n    country: "Netherlands"\n    text: "“The room was clean and enough space. Good bathroom. We had a room next to the elevator, but no noise of it.
+Parking place for the car.
+Friendly staff.”"\n  - name: "Glenn"\n    country: "Australia"\n    text: "“Location right on the promenade opposite the lake, surrounded by good restaurants and coffee shops.
+The bed and pillows were great, can't comment on the breakfast as we had an early bus.
+The staff are lovely and spoke excellent English.
+The hotel...”"\nbookingURL: "https://www.booking.com/hotel/al/pogradeci.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nAccommodations at Hotel Pogradeci are thoughtfully equipped with modern amenities including flat-screen cable TVs, safes, and desks. The attention to detail extends to the en-suite bathrooms, which are outfitted with showers, hairdryers, and complimentary slippers, adding a touch of home-like comfort to the experience.
 
 Culinary delights await at the hotel's restaurant, where a menu of international dishes and traditional Albanian cuisine tempts the palate. The on-site bar serves as a cozy nook for guests to unwind with a drink. The hotel's terrace and garden offer additional spaces for relaxation and contemplation, inviting guests to immerse themselves in the natural beauty of the area.
 
@@ -20,15 +14,3 @@ The hotel's prime location offers more than just scenic lake views; the Pogradec
 For adventurers looking to explore further, the Prespa National Park lies within a 40 km radius, presenting a natural haven for exploration. Convenience is also a priority, with free private parking provided on-site, ensuring a hassle-free experience for those traveling by car.
 
 Hotel Pogradeci emerges as a distinguished choice for travelers seeking a blend of comfort, culture, and natural beauty in Pogradec.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

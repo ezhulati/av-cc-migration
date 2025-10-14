@@ -1,28 +1,7 @@
----
-title: Hotel Picasso
-description: Accommodations at Hotel Picasso are thoughtfully designed with guest comfort in mind. Each room is air-conditioned, featuring a flat-screen TV for entertainment
-featuredImage: "/images/accommodation/117589355.jpg"
-language: en
-slug: hotel-picasso
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Hotel Picasso are thoughtfully designed with guest comfort in mind. Each room is air-conditioned, featuring a flat-screen TV for entertainment. Select rooms elevate the relaxation experience with a cozy seating area, perfect for decompressing after a day of exploration. The convenience of private bathrooms equipped with a bidet, shower, and complimentary toiletries adds to the seamless stay.
+---\ntitle: "Hotel Picasso"\ndescription: "Hotel Picasso emerges as a prime choice for travelers seeking a blend of comfort and adventure in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/117589355.jpg?k=795e7f722cefc80e58cfa733c8bc5c8afbc5b4577418956a99bf2eb1df12828b&o=&hp=1"\nlanguage: en\nslug: hotel-picasso\naddress: "Rruga Rradhime - Orikum, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.36327838\n  lng: 19.48097108\nprice: "US$35"\npriceFrom: 35\nstarRating: 4\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 645\nratings:\n  overall: 9\n  location: 9\n  cleanliness: 9.1\n  facilities: 9\n  value: 9\n  comfort: 9.2\n  staff: 9.6\n  wifi: 8.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/117589355.jpg?k=795e7f722cefc80e58cfa733c8bc5c8afbc5b4577418956a99bf2eb1df12828b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361363681.jpg?k=cd4b45675edcaeac354c0887b9ab6ea1ff8bce822aeabd7c495b138f61837841&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/151023902.jpg?k=bea1423fc1ab66d154950c1e7c686dd33682207c94ed2ff9abec76ca80215fe8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/190672989.jpg?k=87d895de31a381b09e7d09c8ee03aed19acb7b457e60c55917242ca03aa35e12&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/190672322.jpg?k=a1eb58ef7e281577b16504be2acdb388be623bc052067a6e358f080deb801457&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/190673062.jpg?k=5d14cee13e19e5fa43d368f8d58039e6104593aa61fc271ef04cdcf96f589855&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/190672794.jpg?k=b3e32ab0cbea3957764c123e9386c3cf1715c39c281f575349a1d6c3c4c3f156&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/190672610.jpg?k=99e7fde129af58eab4fb5a48df3e2a245d40904f16b3b4a03514d8391c750966&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150680015.jpg?k=a2667edecd037a8e6867ac7e777e69bc14153371ffe0695608890d59522451a5&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Very good breakfast"\nnearbyRestaurants:\n  - "Restorant Ramosaco 50 m"\n  - "Giri I Varkadhe 200 m"\nnearbyBeaches:\n  - "Radhimë Beach 30 m"\n  - "Kevi Beach 1.3 km"\n  - "Radhimë Beach 1.6 km"\n  - "Al Breeze Beach 1.7 km"\n  - "Baro Beach 2.1 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 8 km"\n  - "Kuzum Baba 12 km"\n  - "Independence Square 12 km"\n  - "Llogora National Park 16 km"\nairports:\n  - "Corfu International Airport 91 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Wim"\n    country: "Belgium"\n    text: "“Nice breakfast with a view.
+Comfy chairs at the beach.
+Spacious room.”"\n  - name: "Clara"\n    country: "Romania"\n    text: "“Hospitality - great. Cleaning in the hotel - great. Breakfast - very good.”"\n  - name: "Aveek"\n    country: "India"\n    text: "“We chose deluxe room with balcony and sun lounge, excellent views same as what is shown from pictures. Room very cosy (though slightly smaller than I thought) and cleaned daily. Very good breakfast. Hosts were helpful to arrange taxis and also...”"\nbookingURL: "https://www.booking.com/hotel/al/picasso.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Hotel Picasso are thoughtfully designed with guest comfort in mind. Each room is air-conditioned, featuring a flat-screen TV for entertainment. Select rooms elevate the relaxation experience with a cozy seating area, perfect for decompressing after a day of exploration. The convenience of private bathrooms equipped with a bidet, shower, and complimentary toiletries adds to the seamless stay.
 
 The hotel prides itself on its round-the-clock front desk service, ensuring guests' needs are promptly met at any hour. For those drawn to the allure of the ocean, Hotel Picasso boasts a private beach area, setting the stage for an array of water-based activities. Whether it's snorkeling, windsurfing, or diving, adventure seekers will find plenty to satisfy their thirst for the aquatic.
 
 Situated a mere 8 km from the historic Kuzum Baba and 9 km from Independence Square, the hotel offers easy access to some of Vlorë's most significant landmarks. Hotel Picasso stands out as a destination that combines the tranquility of seaside lodging with the excitement of outdoor activities, making it an ideal choice for travelers looking to experience the best of both worlds.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

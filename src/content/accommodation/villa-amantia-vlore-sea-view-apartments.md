@@ -1,28 +1,5 @@
----
-title: Villa Amantia Vlore- Sea View Apartments
-description: "A mere 1. 5 km from the picturesque Liro Beach and within easy reach of local landmarks such as Kuzum Baba and Independence Square, Villa Amantia Vlore provides an ideal base for exploring the beauty and history of Vlorë."
-featuredImage: "/images/accommodation/406640403.jpg"
-language: en
-slug: villa-amantia-vlore-sea-view-apartments
-location: ""
-amenities: []
-images: []
----
-
-A mere 1.5 km from the picturesque Liro Beach and within easy reach of local landmarks such as Kuzum Baba and Independence Square, Villa Amantia Vlore provides an ideal base for exploring the beauty and history of Vlorë. The property boasts a selection of family rooms, each thoughtfully equipped with air conditioning to ensure a comfortable stay regardless of the season.
+---\ntitle: "Villa Amantia Vlore- Sea View Apartments"\ndescription: "Villa Amantia Vlore - Sea View Apartments emerges as a prime choice for travelers seeking a serene getaway in Vlorë, perfectly positioned just a stone's throw away from both Ri Beach and the Beach at Government Villas."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406640403.jpg?k=ecad946523f9d9ca0518cc180773286630b2016cb6974acbd009b89ed7ee5669&o=&hp=1"\nlanguage: en\nslug: villa-amantia-vlore-sea-view-apartments\naddress: "Rruga Dhimitër Konomi, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.42276757\n  lng: 19.49243259\nprice: "US$28"\npriceFrom: 28\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 3\nratings:\n  overall: 7.9\n  location: 7.5\n  cleanliness: 9.2\n  facilities: 6.7\n  value: 8.3\n  comfort: 8.3\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406640403.jpg?k=ecad946523f9d9ca0518cc180773286630b2016cb6974acbd009b89ed7ee5669&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406640358.jpg?k=49c5e57cd1b3e4084c550c4cae108504cc73c5da17b34afe112cc6b223c188ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406640382.jpg?k=8ee9f40643b0265c5e2305479c4124cb23834833fc0aa29c9c8f52931a969d1f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406640352.jpg?k=bdc84a7bc75f00db4f4eeeafffa0fbcfe0eeddea9a88d0e6aec8dc85e3ef9671&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406640387.jpg?k=62e492bcda8568ad7543f7d84692cc5d03b0a79eb98b81083abeb7ede937edb0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406640390.jpg?k=e370f71eff4df4ebfa26c99fa91b54c4c7fcaeee52b3f05f14c202378aa765f2&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "One-Bedroom Apartment"\n  - "One-Bedroom Apartment"\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Donatelo 100 m"\n  - "Tiku & Mato 200 m"\nnearbyBeaches:\n  - "Beach at Government Villas 600 m"\n  - "Ri Beach 850 m"\n  - "Liro Beach 1.3 km"\n  - "Vlore Beach 2.2 km"\n  - "Coco Bongo Beach 2.3 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.5 km"\n  - "Kuzum Baba 5 km"\n  - "Independence Square 5 km"\nairports:\n  - "Corfu International Airport 97 km"\nreviews:\n  - name: "Anikó"\n    country: "Hungary"\n    text: "“Maximális tisztaság, erkély, hajszárító, kiváló klíma és internet, kényelmes dupla ágy, rugalmasság és készségesség a szállásadó részéről. A strand vize tiszta.”"\nbookingURL: "https://www.booking.com/hotel/al/villa-amantia-vlore-sea-view-apartments-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nA mere 1.5 km from the picturesque Liro Beach and within easy reach of local landmarks such as Kuzum Baba and Independence Square, Villa Amantia Vlore provides an ideal base for exploring the beauty and history of Vlorë. The property boasts a selection of family rooms, each thoughtfully equipped with air conditioning to ensure a comfortable stay regardless of the season.
 
 Guests can expect to find well-appointed units complete with private bathrooms, flat-screen TVs, fully equipped kitchens, and balconies that invite you to unwind while soaking in the breathtaking views. Whether planning a family vacation or a solo retreat, the amenities and location of Villa Amantia Vlore - Sea View Apartments promise a memorable stay.
 
 For those traveling to or from the area, the convenience of being located 155 km from Tirana International Mother Teresa Airport adds to the appeal, making it a straightforward choice for international and domestic travelers alike.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,9 @@
----
-title: Bella Vista
-description: Guests are treated to the comfort of air-conditioned rooms, equipped with flat-screen TVs and private bathrooms complete with a bidet and hair dryer. The attent
-featuredImage: "/images/accommodation/309004079.jpg"
-language: en
-slug: bella-vista
-location: ""
-amenities: []
-images: []
----
-
-Guests are treated to the comfort of air-conditioned rooms, equipped with flat-screen TVs and private bathrooms complete with a bidet and hair dryer. The attention to detail extends to the provision of towels and linens, ensuring a comfortable stay. Storage is no issue, as each room includes a wardrobe, alongside the added convenience of a kettle.
+---\ntitle: "Bella Vista"\ndescription: "Bella Vista stands as a serene retreat in Shkodër, boasting breathtaking mountain views and direct access to the beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309004079.jpg?k=c9ad0dc9e2652745839342810898f9ba003deb4ef5744b4cc4d229d37177f3b3&o=&hp=1"\nlanguage: en\nslug: bella-vista\naddress: "Rruga Zogaj, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.0622947\n  lng: 19.44143474\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 620\nratings:\n  overall: 8.9\n  location: 9.3\n  cleanliness: 8.8\n  facilities: 8.5\n  value: 9.2\n  comfort: 8.8\n  staff: 8.9\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309004079.jpg?k=c9ad0dc9e2652745839342810898f9ba003deb4ef5744b4cc4d229d37177f3b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367750815.jpg?k=74a0b9f41b26fc819ecea0b38c9ca412dcab052c6961b649d41fd20db340131b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470247733.jpg?k=070fdfcc25c2110903b8f38b4959a8ba47e1aba99d042722849a2d9b34a3394a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357672849.jpg?k=5e12cd949aefa22d2640aaca1b3f8d531579247d10e607af61d065f8b6be919f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366166430.jpg?k=194c02835f439c4aaa46ab20129516b48f85db1973dd03c9334e2f0f2d603ed9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367752998.jpg?k=38a2f52ef98868582fcb1b8f77f89e42a26340ed71b4aa55b57832e2f0eb77ba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309741298.jpg?k=eef71cb19ce567e333b633eef9636436087baa162fcac992debb2704d5bd86d1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524423609.jpg?k=895d66d2567343e7e79bff1e2128347a1283557c31e101983083468206fbf3b5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367751207.jpg?k=4986d2091b8be5d421aeeb3f54412d55c8dc2a38992643e49f06bb34878e8b3c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470247589.jpg?k=20418ffdcf29ce278b0024685224681a6529a7f1fabb613c378519e6355d10ca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470222432.jpg?k=0e95fa63edd959dd56073cb2a13e1f2fdf062ec0f6fd7e22a2afa177dc75b8bb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477630144.jpg?k=c2eed7bc1951c12eabd7da900678cda75bfba5a6932370d4832a55f77ca6177c&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Good free WiFi (20 Mbps)"\n  - "Family rooms"\n  - "Beachfront"\n  - "Very good breakfast"\nroomTypes:\n  - "Double Room with Lake View"\n  - "Double Room with Lake View"\n  - "Twin Room with Lake View"\n  - "Double Room"\n  - "King Room with Lake View"\n  - "Family Room with Lake View"\n  - "Family Room with Balcony"\nnearbyRestaurants:\n  - "Shiroka 96 400 m"\n  - "Blunote 800 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 4.7 km"\n  - "National Park Skadar Lake 4.7 km"\nairports:\n  - "Podgorica Airport 35 km"\n  - "Tivat Airport 69 km"\n  - "Tirana International Airport Mother Teresa 74 km"\nreviews:\n  - name: "Amanda"\n    country: "Belgium"\n    text: "“The view was priceless. The host was very friendly and ensured we had the best time.”"\n  - name: "Indrit"\n    country: "United Kingdom"\n    text: "“Amazing view of the lake with an unbeatable price. In a quite area with no neighbours around that offers an absolute relax.”"\n  - name: "Debra"\n    country: "New Zealand"\n    text: "“Everything... the hosts were very welcoming and accommodating when we asked for some hot water for a cup of tea.
+The views over the lake were amazing.
+The bed was very comfortable.
+The bathroom was good.
+The room was very modern and nicely...”"\nbookingURL: "https://www.booking.com/hotel/al/bella-vista-shkoder.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nGuests are treated to the comfort of air-conditioned rooms, equipped with flat-screen TVs and private bathrooms complete with a bidet and hair dryer. The attention to detail extends to the provision of towels and linens, ensuring a comfortable stay. Storage is no issue, as each room includes a wardrobe, alongside the added convenience of a kettle.
 
 Morning at Bella Vista begins with a culinary delight, offering guests a choice between à la carte and continental breakfasts. The menu showcases local specialties, accompanied by fresh juice and cheese, promising a flavorful start to the day.
 
 Situated a mere 67 km from Podgorica Airport, Bella Vista offers an escape that combines the tranquility of a beachfront location with the majestic beauty of mountain scenery, making it a prime choice for travelers seeking both relaxation and adventure.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

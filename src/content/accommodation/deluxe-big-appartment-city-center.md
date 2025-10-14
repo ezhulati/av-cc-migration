@@ -1,26 +1,4 @@
----
-title: Deluxe & Big Appartment City center
-description: Guests will find themselves enveloped in modern amenities, including complimentary WiFi that keeps them connected, a flat-screen TV for entertainment, and a was
-featuredImage: "/images/accommodation/405008736.jpg"
-language: en
-slug: deluxe-big-appartment-city-center
-location: ""
-amenities: []
-images: []
----
-
-Guests will find themselves enveloped in modern amenities, including complimentary WiFi that keeps them connected, a flat-screen TV for entertainment, and a washing machine for longer stays. The fully equipped kitchen, complete with a refrigerator, invites guests to prepare their own meals, adding a touch of home. The presence of a cozy fireplace elevates the experience, ensuring warmth and relaxation during their stay.
+---\ntitle: "Deluxe & Big Appartment City center"\ndescription: "Deluxe & Big Apartment City Center emerges as a prime choice for travelers seeking comfort and convenience in Fier."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405008736.jpg?k=7143aae3430302ff5a0b3aa2f7f938527cf05e8449981c6923a58babb6c1178a&o=&hp=1"\nlanguage: en\nslug: deluxe-big-appartment-city-center\naddress: "Rruga Jakov Xoxa, 9301 Fier, Albania"\ncity: "Fier"\nlocation: "Fier"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.72923573\n  lng: 19.56401365\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 6\nratings:\n  overall: 8.9\n  location: 9.5\n  cleanliness: 9\n  facilities: 7.5\n  value: 9.5\n  comfort: 8.5\n  staff: 9.4\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405008736.jpg?k=7143aae3430302ff5a0b3aa2f7f938527cf05e8449981c6923a58babb6c1178a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405008837.jpg?k=15791f353d33aa57e7be717bff4e6c8ce4f2808680e60b0801b37ce3e9d29545&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405008779.jpg?k=cef28850682e5c0036a7fe21ce80a9afb23964aea4e5ead38df5349c865f710a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405008808.jpg?k=cc49da1cbcb8a12bce3f45b22f78e85d54eab877116057b0a96aea4379476edc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405008793.jpg?k=212607a085b3572669b2d50b0249ff87feb69fbd86707a95c14472d1eedb598c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405008814.jpg?k=251e413b30cc10d7fa245e7d884a3dca4f68b09c98ed3a896c3f552de7bc46d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405008783.jpg?k=4188654bea490bf61d4f019f362cbbaae469f8717c7db8f71a752debf663bc2e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405008806.jpg?k=4a241fac34de8ac57be32d5e80a28892bb3b5b3d7099352533eac045ac3ec8f2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405008771.jpg?k=ea49572d0d0f44f96f239cf72c792cc5287c5f29b676afc35484db8e5bb82d89&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Good free WiFi (36 Mbps)"\n  - "Family rooms"\n  - "Bar"\nnearbyRestaurants:\n  - "Flamingo Bar 7 m"\n  - "Stories Coffee 10 m"\nwhatsNearby:\n  - "Divjake-Karavasta National Park 15 km"\nairports:\n  - "Tirana International Airport Mother Teresa 75 km"\nreviews:\n  - name: "Joana"\n    country: "Germany"\n    text: "“Diese Wohnung befindet sich in einer zentraler Lage . Ich fand alles was man braucht für eine Angenehmen Aufenthalt.
+Man merkt auch von die kleinen Aufmerksamkeiten dass man die Besitzer beachtet darauf dass die kunden sich wohl fühlen in die...”"\n  - name: "Ahmet"\n    country: "Turkey"\n    text: "“Konumu, yatakların rahatlığı, otopark imkanı, ferahlığı.”"\n  - name: "Bernabè"\n    country: "Italy"\n    text: "“casa accogliente e centrale nel paese con servizi a portata di mano”"\nbookingURL: "https://www.booking.com/hotel/al/deluxe-amp-big-appartment-city-center.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests will find themselves enveloped in modern amenities, including complimentary WiFi that keeps them connected, a flat-screen TV for entertainment, and a washing machine for longer stays. The fully equipped kitchen, complete with a refrigerator, invites guests to prepare their own meals, adding a touch of home. The presence of a cozy fireplace elevates the experience, ensuring warmth and relaxation during their stay.
 
 For those flying in, the Tirana International Mother Teresa Airport is conveniently located 107 km away, making Deluxe & Big Apartment City Center an accessible retreat for international and domestic travelers alike.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

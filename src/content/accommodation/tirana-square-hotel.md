@@ -1,28 +1,5 @@
----
-title: Tirana Square Hotel
-description: The hotel prides itself on offering well-appointed, air-conditioned rooms complemented by complimentary WiFi and private bathrooms, ensuring a restful and conne
-featuredImage: "/images/accommodation/503300040.jpg"
-language: en
-slug: tirana-square-hotel
-location: ""
-amenities: []
-images: []
----
-
-The hotel prides itself on offering well-appointed, air-conditioned rooms complemented by complimentary WiFi and private bathrooms, ensuring a restful and connected stay. Beyond the comfort of the rooms, guests can enjoy the convenience of room service, a welcoming bar to unwind in, and the assurance of a 24-hour front desk ready to attend to any need. For those with further travel plans, the availability of luggage storage is a thoughtful touch.
+---\ntitle: "Tirana Square Hotel"\ndescription: "Tirana Square Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503300040.jpg?k=80455394ba474c4509716838f928a3a2667c1607ebfb03e5a6e3d0a431ee9807&o=&hp=1"\nlanguage: en\nslug: tirana-square-hotel\naddress: "Rruga Bardhok Biba Nr 40, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.33123996\n  lng: 19.81792612\nprice: "US$23"\npriceFrom: 23\nstarRating: 3\nrating: 7.7\nratingWords: "Good"\nnumberOfReviews: 275\nratings:\n  overall: 7.7\n  location: 9.1\n  cleanliness: 7.5\n  facilities: 7\n  value: 8\n  comfort: 7.4\n  staff: 8.4\n  wifi: 6.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503300040.jpg?k=80455394ba474c4509716838f928a3a2667c1607ebfb03e5a6e3d0a431ee9807&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511160252.jpg?k=60f760f45419912b4871041b1a4b3b5e83ec897c4ca69c2eec5803f904264359&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437887502.jpg?k=8d399f7d51cced6ead73fc1165a313cb6da398211fb4e6ac5949f727cf89638e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511160027.jpg?k=58a9e171fbdff274f1e8a9837f77834a1e0b98582bc329c00e73d5feb2ad56eb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444593084.jpg?k=70a88463dca8003d3dfc0b275102a145baf2487c3f28d1d94216032a41e8a210&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511160184.jpg?k=9790477c4c27dda90209adb7a011e6839efa5153742c4a6ad84138d99d807898&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "24-hour front desk"\n  - "Bar"\nroomTypes:\n  - "Standard Double Room"\n  - "Standard Double Room"\n  - "Standard Double Room"\n  - "Standard Double Room"\n  - "Standard Triple Room"\nnearbyAttractions:\n  - "Rinia Park 700 m"\n  - "Tanners' Bridge 850 m"\n  - "Former Residence of Enver Hoxha 1.1 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 4.1 km"\nnearbyRestaurants:\n  - "Mase 40 m"\n  - "London 50 m"\nwhatsNearby:\n  - "National Museum of History Albania 200 m"\n  - "Amazing Nature 250 m"\n  - "Sheshi Skënderbej 300 m"\n  - "Sheshi Paris 300 m"\n  - "Skanderbeg Square 400 m"\n  - "Clock Tower Tirana 400 m"\n  - "Parku Europa 450 m"\n  - "Sheshi Sulejman Pasha 450 m"\n  - "House of Leaves 500 m"\n  - "National Gallery of Arts Tirana 600 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/tirana-square-tirane1.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe hotel prides itself on offering well-appointed, air-conditioned rooms complemented by complimentary WiFi and private bathrooms, ensuring a restful and connected stay. Beyond the comfort of the rooms, guests can enjoy the convenience of room service, a welcoming bar to unwind in, and the assurance of a 24-hour front desk ready to attend to any need. For those with further travel plans, the availability of luggage storage is a thoughtful touch.
 
 For explorers arriving from afar, the proximity to Tirana International Mother Teresa Airport, just 14 km away, is a significant advantage, especially with the hotel's provision of a paid airport shuttle service, making the journey to and from the airport as seamless as possible.
 
 Tirana Square Hotel stands out not just for its prime location and essential amenities but for its commitment to making every guest's stay memorable. Whether visiting for business or leisure, this hotel offers a blend of convenience, comfort, and accessibility to the best of Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

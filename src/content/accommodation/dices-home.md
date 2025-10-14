@@ -1,28 +1,5 @@
----
-title: Dices Home
-description: Guests at Dices Home are treated to the convenience of complimentary private parking and the luxury of free WiFi throughout the property. The establishment prid
-featuredImage: "/images/accommodation/475209128.jpg"
-language: en
-slug: dices-home
-location: ""
-amenities: []
-images: []
----
-
-Guests at Dices Home are treated to the convenience of complimentary private parking and the luxury of free WiFi throughout the property. The establishment prides itself on exceptional guest services, including a 24-hour front desk, efficient luggage storage, and a hassle-free currency exchange, ensuring a smooth and comfortable stay for all visitors.
+---\ntitle: "Dices Home"\ndescription: "Dices Home emerges as a serene retreat in the vibrant city of Vlorë, strategically positioned to offer easy access to both Vlore Beach and Vjetër Beach, with the historic Kuzum Baba in close proximity."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475209128.jpg?k=8487cd10880a65b47eac31ea4184db281cf368b48e86e1199c9fb246ec9ce5a9&o=&hp=1"\nlanguage: en\nslug: dices-home\naddress: "Rruga Harilla Panajoti, 9404 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.45491382\n  lng: 19.49604054\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.7\nratingWords: "Good"\nnumberOfReviews: 5\nratings:\n  overall: 7.7\n  location: 6.5\n  cleanliness: 8\n  facilities: 7\n  value: 7.5\n  comfort: 8.5\n  staff: 8.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475209128.jpg?k=8487cd10880a65b47eac31ea4184db281cf368b48e86e1199c9fb246ec9ce5a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477524442.jpg?k=55c5f7c4fb1053d9303ec7df9f7d25ef8c8fb1da85ac78000e221c80bd48d967&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477524821.jpg?k=cbb5960fbb44d274eab79b5ef70a16b4c1c00fa6a68acc68ca8e932c5ca7bf32&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475209226.jpg?k=88461e1b6e1128530d3c7a45486ec558b6a1047c6288b575b7b70c51735bd3cb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477524836.jpg?k=a916dbb5ca513f1ea6273416db6d6d353f9f6bbc51784d08f2c51a6e02798206&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475209247.jpg?k=aae455a0ef0410ae42bc3aabc7d0d7495522f9df08f91e023428d79cd9d62986&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477524956.jpg?k=57438350080ec3a89ae382f1551c7e4706c4c84c1eeb3a76228d52983dea3d10&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477524834.jpg?k=9823406895278d1d68593e6cb3f9defe3a5da6c1d0079d796fba756fde441539&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475209187.jpg?k=2fae4784a25d1e363efc981b92537cbefe47735a160dabaa08642b83679bae80&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Taverna Azzurro Vlore 200 m"\n  - "Le 5 Terre - Ristorante 600 m"\nnearbyBeaches:\n  - "Vlore Beach 800 m"\n  - "Vjetër Beach 1.3 km"\n  - "Ri Beach 2.2 km"\n  - "Beach at Government Villas 3.9 km"\n  - "Liro Beach 4.6 km"\nwhatsNearby:\n  - "Kuzum Baba 1.4 km"\n  - "Independence Square 1.8 km"\n  - "Scooby Doo Vlore 2.1 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/dices-home.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Dices Home are treated to the convenience of complimentary private parking and the luxury of free WiFi throughout the property. The establishment prides itself on exceptional guest services, including a 24-hour front desk, efficient luggage storage, and a hassle-free currency exchange, ensuring a smooth and comfortable stay for all visitors.
 
 Each air-conditioned unit within Dices Home is thoughtfully designed to cater to the needs of modern travelers. Accommodations boast private bathrooms, flat-screen TVs for entertainment, fully equipped kitchens for those who love to cook, and terraces that offer a breath of fresh air and a moment of tranquility.
 
 Situated just 2.7 km from the picturesque Ri Beach and a mere 2.2 km from the historic Independence Square, Dices Home offers an ideal base for exploring the rich cultural tapestry and natural beauty of Vlorë. For those traveling from afar, the Tirana International Mother Teresa Airport is located 151 km away, making Dices Home an accessible haven for both local and international guests seeking a memorable stay in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

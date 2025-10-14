@@ -1,30 +1,10 @@
----
-title: Sarande15
-description: The apartment itself is a haven of modern amenities and comfort. Guests will find themselves in a meticulously air-conditioned space that houses two cozy bedroo
-featuredImage: "/images/accommodation/475932018.jpg"
-language: en
-slug: sarande15
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of modern amenities and comfort. Guests will find themselves in a meticulously air-conditioned space that houses two cozy bedrooms, a welcoming living room, and a fully equipped kitchen that boasts an oven and a coffee machine, ensuring that home-cooked meals are a delightful option during their stay. The convenience of two bathrooms, equipped with a bidet and a hairdryer, adds to the seamless experience, while a flat-screen TV stands ready to entertain.
+---\ntitle: "Sarande15"\ndescription: "Sarande15 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475932018.jpg?k=68edc140a692002f3b3ec63e8a1488583e1e72b16f11fd803ab0fcf877e73d45&o=&hp=1"\nlanguage: en\nslug: sarande15\naddress: "Rruga Onhezmi, Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87500919\n  lng: 20.00593602\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 1\nratings:\n  overall: 9.2\n  location: 10\n  cleanliness: 10\n  facilities: 7.5\n  value: 7.5\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475932018.jpg?k=68edc140a692002f3b3ec63e8a1488583e1e72b16f11fd803ab0fcf877e73d45&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479437635.jpg?k=4681e60e534807947d69ca4d7aea6b1ded16fd0b62a6574e61a0555548a30e95&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475932069.jpg?k=bb137765c87e55ed1810867d88e7a58b7c65f730669b9e243b727c5b0c6a8796&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475932036.jpg?k=791c184b54f48ac561d2f36c6943d269f3d6b76862f64e54831dc02e429a3917&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475932033.jpg?k=1c2d82da8186ebca086065eba6f3f87b8d6893f6306fb4f53dd019b679fcfc6c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475932044.jpg?k=7cdeaa4ed400ca13c955cb5c6fd916a6cc54313f091bf9de5906af672f777359&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475931983.jpg?k=df02c3c60be76fdc3fdc361e6898e898a1cd352d70edeb8c76cd045d75d9b691&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475932053.jpg?k=165724898d239662282aaf3fc9a7f5ce5a5369eb2f75eedfcc2c25aba0a98d87&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477786246.jpg?k=fe168a4c188f9a4b3f3f85872fa4e6dad1b5a8e3c358f487f606e8eb0ab129c3&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\n  - "Terrace"\nnearbyRestaurants:\n  - "Nona Qebaptore 40 m"\n  - "NamNam 100 m"\nnearbyBeaches:\n  - "Saranda City Beach 300 m"\n  - "Sarande Main Beach 700 m"\n  - "La Petite Beach 1 km"\n  - "Maestral Beach 1.2 km"\n  - "Saranda Bay Beach 2.1 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.4 km"\n  - "Butrint National Park 3.2 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\npaymentMethods:\n  - "Mastercard"\nreviews:\n  - name: "Antonio"\n    country: "Italy"\n    text: "“La casa è molto grande, perfetta per 4 persone.
+Situata in una zona che ti permette di accedere al porto senza la necessità di utilizzare la macchina.
+Parcheggio proprio sotto la struttura a 5€ al giorno.. TOP!
+La proprietaria / il proprietario di...”"\nbookingURL: "https://www.booking.com/hotel/al/sarande15.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of modern amenities and comfort. Guests will find themselves in a meticulously air-conditioned space that houses two cozy bedrooms, a welcoming living room, and a fully equipped kitchen that boasts an oven and a coffee machine, ensuring that home-cooked meals are a delightful option during their stay. The convenience of two bathrooms, equipped with a bidet and a hairdryer, adds to the seamless experience, while a flat-screen TV stands ready to entertain.
 
 Connectivity is never an issue at Sarande15, as guests can enjoy the benefit of complimentary WiFi throughout the premises. Additionally, the provision of private parking on site addresses any concerns about vehicle security, making it a worry-free zone for those traveling with cars.
 
 For those intrigued by the natural beauty and historical significance of the area, Butrint National Park presents a compelling day trip option, located just 17 km away. Furthermore, the proximity to Ioannina Airport, 97 km from the property, facilitates ease of access for international travelers.
 
 In essence, Sarande15 is not just a place to stay; it's a gateway to exploring the vibrant life and beauty of Sarandë, offering a blend of comfort, convenience, and connectivity that caters to the needs of modern travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

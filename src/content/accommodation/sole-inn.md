@@ -1,28 +1,5 @@
----
-title: SOLE INN
-description: This guest house is a testament to modern amenities and homely comfort, featuring complimentary WiFi, a cable flat-screen TV, and a washing machine. The fully e
-featuredImage: "/images/accommodation/484677236.jpg"
-language: en
-slug: sole-inn
-location: ""
-amenities: []
-images: []
----
-
-This guest house is a testament to modern amenities and homely comfort, featuring complimentary WiFi, a cable flat-screen TV, and a washing machine. The fully equipped kitchen, complete with a fridge and stovetop, invites guests to feel at home. The outdoor dining area, offering breathtaking sea views, provides an idyllic setting for meals. Comfort is further ensured by air conditioning, heating, and a private bathroom, making every stay a pleasure.
+---\ntitle: "SOLE INN"\ndescription: "SOLE INN emerges as a charming retreat in Vlorë, offering guests a unique blend of comfort and scenic beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484677236.jpg?k=e26286f0681c33d7eff9d0314cb22deb0ab15e8b89c402717f25026faa2a3eb5&o=&hp=1"\nlanguage: en\nslug: sole-inn\naddress: "Rruga Aleksandër Moisiu, 9403 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.41529198\n  lng: 19.48671211\nprice: "US$35"\npriceFrom: 35\nstarRating: 5\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 8\nratings:\n  overall: 9.8\n  location: 9.4\n  cleanliness: 9.7\n  facilities: 9.7\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484677236.jpg?k=e26286f0681c33d7eff9d0314cb22deb0ab15e8b89c402717f25026faa2a3eb5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487389703.jpg?k=a26c13488f7356a2923c6b9e732752ecd319244eb9441aef29ee51b1ba830a93&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487389955.jpg?k=5027f48bc2037e93312226a3ecc161580fdb7f017b9b4925a3f0cb60f75a281b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487390062.jpg?k=596d447d8c73eb02e98d8443cfd455fb37902d4928f361beae5155145e9bfdc3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484677309.jpg?k=1cecfb3edfb44d1714df02e2e892d221eee7108e5feb55ecfade81f8d50a51f1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484677299.jpg?k=78ad4ecad1218dc528f32c6588566dd194f606bfd05775caf9ab6b85d83c6e89&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484677306.jpg?k=85a5ce3dea88254af95fe9fa8362b64772239f865695a7b50542496e1f4db1f2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484677327.jpg?k=a8e82a117402684c52d43bba081f960bd710c9429d157ef9d05219a7bdb53229&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523005405.jpg?k=2ed5acaceff67cfbb2aed68f00f204c16603533385d3b0486df1c7a1bae21a43&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Movida 150 m"\n  - "Rooftop - Lounge Bar 150 m"\nnearbyBeaches:\n  - "Beach at Government Villas 300 m"\n  - "Liro Beach 500 m"\n  - "Coco Bongo Beach 1.4 km"\n  - "Sunny Beach 1.6 km"\n  - "Ri Beach 1.7 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 2.4 km"\n  - "Kuzum Baba 6 km"\n  - "Independence Square 6 km"\nairports:\n  - "Corfu International Airport 96 km"\nreviews:\n  - name: "Mirela"\n    country: "Albania"\n    text: "“Outside and inside exellent. Veranda nice view.”"\n  - name: "Flo"\n    country: "Albania"\n    text: "“Very clean place, polite hostess, quite place. You can hear only the sound of nature, near to city center, perfect place to rest. Very recommended.”"\n  - name: "Adam"\n    country: "Poland"\n    text: "“Łatwo znaleść , wszystko w obiekcie nowe przemiły personel”"\nbookingURL: "https://www.booking.com/hotel/al/sole-inn.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThis guest house is a testament to modern amenities and homely comfort, featuring complimentary WiFi, a cable flat-screen TV, and a washing machine. The fully equipped kitchen, complete with a fridge and stovetop, invites guests to feel at home. The outdoor dining area, offering breathtaking sea views, provides an idyllic setting for meals. Comfort is further ensured by air conditioning, heating, and a private bathroom, making every stay a pleasure.
 
 For convenience, a minimarket on the premises caters to guests' everyday needs. SOLE INN is not just about the immediate comforts; it also serves as a perfect base for exploring the local area. The historic Kuzum Baba is 6.7 km away, while the iconic Independence Square is just a bit further at 7 km, offering a glimpse into the rich cultural tapestry of the region.
 
 Travelers looking for a seamless experience will appreciate the property's proximity to Tirana International Mother Teresa Airport, located 156 km away, ensuring easy access for international guests. SOLE INN stands as a testament to thoughtful hospitality, where every detail is curated to enhance the guest experience.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

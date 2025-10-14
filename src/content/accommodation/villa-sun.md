@@ -1,30 +1,7 @@
----
-title: Villa Sun
-description: The villa itself is a testament to modern living, boasting air-conditioned spaces that encompass two cozy bedrooms, a welcoming living room, and a fully equippe
-featuredImage: "/images/accommodation/53982398.jpg"
-language: en
-slug: villa-sun
-location: ""
-amenities: []
-images: []
----
-
-The villa itself is a testament to modern living, boasting air-conditioned spaces that encompass two cozy bedrooms, a welcoming living room, and a fully equipped kitchen complete with an oven and a coffee machine. The presence of two well-appointed bathrooms, each featuring a shower and a hairdryer, adds to the villa's appeal. Guests will particularly enjoy the patio, which serves as a charming outdoor dining area, perfect for those balmy evenings under the stars. The provision of bed linen, towels, and laundry service underscores the villa's commitment to convenience.
+---\ntitle: "Villa Sun"\ndescription: "Villa Sun emerges as a prime choice for travelers seeking a blend of comfort and convenience, located merely a short stroll from the serene Mali I Robit Beach and a stone's throw away from the picturesque Qerret Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/53982398.jpg?k=18694d9544b686a9c8c36f1f3a2cb01aa9d7f9e2f2e4df7d23d50dd54f01ceff&o=&hp=1"\nlanguage: en\nslug: villa-sun\naddress: "Qerret, 1001 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.22768918\n  lng: 19.51457296\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 2\nratings:\n  overall: 9.2\n  location: 7.5\n  cleanliness: 10\n  facilities: 8.8\n  value: 10\n  comfort: 8.8\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/53982398.jpg?k=18694d9544b686a9c8c36f1f3a2cb01aa9d7f9e2f2e4df7d23d50dd54f01ceff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/53982408.jpg?k=29182abb473b4bd42b9a522593748f210672f7337be3387a744f8ac5b9ab3be8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/53982441.jpg?k=9ba77a9f148a0f6df3098b8e1c7122840a159ded67d29bf0dd64cec4181afc0e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/53982399.jpg?k=af58199b2aad2dc1f6b22ac801fa2173f69eb4fd0fc1e248f104be3038ba9cc1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/53982438.jpg?k=94390c6bb1c0b441401ca7b2f07321004285994acf44c0ef183769575c2ea51b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/77366090.jpg?k=7ff4d036b3f36dde8910b98db348a613d8a107ea82d73df0b583617ad5c5731a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/53982414.jpg?k=67926c52f8e0af18e54726c5ab8b6129c722c58dc91da1038ab4345f0ad71a6c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209923229.jpg?k=2851b33e8049ebff69212ccc13139d11d96fbc98c96c4a4e979e7c5e77e7fb81&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/53982388.jpg?k=9ef6fbe5e8aaab51af6572b80982c7ff09d48ba778af1baab4d1fdec89f35801&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Baca 300 m"\n  - "Prestige İStanbul Kebab House 600 m"\nnearbyBeaches:\n  - "Qerret Beach 200 m"\n  - "Mali I Robit Beach 300 m"\n  - "Golem Beach 2.3 km"\n  - "Shkëmbi i Kavajës Beach 4.2 km"\n  - "Durres Beach 7 km"\nwhatsNearby:\n  - "Durres Amphiteatre 11 km"\n  - "1. Maj 11 km"\n  - "Wine Dhe Pooh 11 km"\n  - "Yje Dhe Hena 11 km"\n  - "Sheshi Demokracia 11 km"\n  - "Bekimi 12 km"\n  - "Sotir Noka 12 km"\n  - "Divjake-Karavasta National Park 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\nreviews:\n  - name: "Ilir"\n    country: "Switzerland"\n    text: "“Die Gastgeberin hat an sehr viele Assesoires gedacht und zur Verfügung gestellt (Spiele, Sonnenhüte, Sonnentücher etc.). Ausserdem ist die Kommunikation angenehm und einfach.”"\nbookingURL: "https://www.booking.com/hotel/al/villa-sun.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe villa itself is a testament to modern living, boasting air-conditioned spaces that encompass two cozy bedrooms, a welcoming living room, and a fully equipped kitchen complete with an oven and a coffee machine. The presence of two well-appointed bathrooms, each featuring a shower and a hairdryer, adds to the villa's appeal. Guests will particularly enjoy the patio, which serves as a charming outdoor dining area, perfect for those balmy evenings under the stars. The provision of bed linen, towels, and laundry service underscores the villa's commitment to convenience.
 
 For those traveling with little ones, the availability of a baby safety gate is a thoughtful touch, ensuring peace of mind for parents. Additionally, the on-site minimarket is a boon for guests, offering easy access to essentials without the need to venture far.
 
 Located just 3 km from the vibrant Golem Beach and within a reasonable distance of 49 km from the historic Skanderbeg Square, Villa Sun positions itself as an ideal base for exploring the local area. With Tirana International Mother Teresa Airport only 43 km away, the villa promises a hassle-free arrival and departure, making it a compelling choice for both short and extended stays.
 
 In essence, Villa Sun is not just a place to stay; it's a gateway to a memorable vacation experience, where convenience meets comfort in a picturesque setting.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

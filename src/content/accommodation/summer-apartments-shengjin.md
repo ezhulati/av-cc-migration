@@ -1,30 +1,11 @@
----
-title: Summer apartments Shengjin
-description: The accommodations at Summer Apartments Shengjin are designed with the modern traveler in mind, offering air-conditioned units that come complete with private b
-featuredImage: "/images/accommodation/364181332.jpg"
-language: en
-slug: summer-apartments-shengjin
-location: ""
-amenities: []
-images: []
----
-
-The accommodations at Summer Apartments Shengjin are designed with the modern traveler in mind, offering air-conditioned units that come complete with private bathrooms, flat-screen TVs, fully equipped kitchens, and balconies for that morning breath of fresh air or evening relaxation. The inclusion of family rooms makes it an ideal spot for those traveling with loved ones, ensuring a comfortable stay for all.
+---\ntitle: "Summer apartments Shengjin"\ndescription: "Summer Apartments Shengjin emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on their visit to Shëngjin."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364181332.jpg?k=f68ddb21b4887ff5e70d484b7487bd8c2762306d4770cef6e22a0d59d4327bd5&o=&hp=1"\nlanguage: en\nslug: summer-apartments-shengjin\naddress: "Rruga Shëngjin - Kune, 4503 Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.80556142\n  lng: 19.60055237\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 12\nratings:\n  overall: 8.4\n  location: 9\n  cleanliness: 8.3\n  facilities: 8.3\n  value: 8.1\n  comfort: 8.1\n  staff: 8.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364181332.jpg?k=f68ddb21b4887ff5e70d484b7487bd8c2762306d4770cef6e22a0d59d4327bd5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464170922.jpg?k=62097563182de6a6ea0490be352029f9c8866e449fdfce636d5dcb8f8cff2155&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464170917.jpg?k=fe36c009e5926e531144feec5ff4e9aef79762e0cdeead5338831970611198e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364181322.jpg?k=55718262fd780bdcd0e6db5f7bc605ff4ab4fe45b62f9b72d6fe26b4d1093bed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464170942.jpg?k=c73088d2804ef9b8e3aabf369434d084450d50ac82821e0668bf43b71d4cd8ab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364181297.jpg?k=bc177da81cd554105464993897096f2ab0bc00bafdf65b80343654f72f68a293&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464170945.jpg?k=15e9910fe495f2f3a0cea5367c71532b8c02a6a9a94f96dcadf1ccc9c1ed76e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364181324.jpg?k=fc07adbac7320323e870549c4eba777110e5a8cdb364987c25853160766c517b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464170931.jpg?k=b40850027c58f5f5db3e9e723fdf2d0b541f0e22aa0ee83a5ddc61a5080b380a&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Ara Shengjin 50 m"\n  - "Coral 150 m"\nnearbyBeaches:\n  - "Shëngjin Beach 100 m"\n  - "Ylberi Beach 650 m"\n  - "Rana e Hedhun Beach 3.2 km"\n  - "Laguna Park Beach 4.1 km"\n  - "Kune Beach 4.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 43 km"\n  - "Podgorica Airport 66 km"\n  - "Tivat Airport 97 km"\nreviews:\n  - name: "Stefania"\n    country: "Italy"\n    text: "“The apartment and all the building is new construction so everything is clean and very new!
+WiFi works fast and there is a washing machine in the apartment.
+Parking is not free and the parking partner is a bit far away but you can park the car at...”"\n  - name: "Jelena"\n    country: "Serbia"\n    text: "“Stan se nalazi na lepoj lokaciji, moderna zgrada i fantastično je sređen
+The apartment is the best, sea is on 100m, from balkom you can see sea
+The hoast is nice and everythink you can ask his aboth this place”"\n  - name: "Sabile"\n    country: "Switzerland"\n    text: "“Apartment ist wirklich sehr sauber und komfortabel es gibt einen Kühlschrank une Kochherd fals man spontan was kochen will. Besitzer war sehr freundlich und hilfsbereit. Alles verlief schnell und unkompliziert. Das Apartment befindet sich sehr nah...”"\nbookingURL: "https://www.booking.com/hotel/al/arben-kalicaj.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodations at Summer Apartments Shengjin are designed with the modern traveler in mind, offering air-conditioned units that come complete with private bathrooms, flat-screen TVs, fully equipped kitchens, and balconies for that morning breath of fresh air or evening relaxation. The inclusion of family rooms makes it an ideal spot for those traveling with loved ones, ensuring a comfortable stay for all.
 
 Guests of the apartments can enjoy the convenience of complimentary WiFi throughout the property and the peace of mind that comes with free private parking, a rarity in such a sought-after location. The lush garden provides a serene escape, inviting guests to unwind in a tranquil setting.
 
 For those looking to explore beyond the beach, the historic Rozafa Castle in Shkodra lies 42 km away, offering a glimpse into the region's rich past, while the natural beauty of Lake Skadar is just 44 km from the doorstep. Additionally, the proximity to Tirana International Mother Teresa Airport, located 49 km away, makes Summer Apartments Shengjin a hassle-free choice for international travelers.
 
 In summary, Summer Apartments Shengjin stands out as a top-tier accommodation option for those visiting Shëngjin, offering a harmonious blend of location, comfort, and amenities that cater to the needs of today's discerning traveler.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

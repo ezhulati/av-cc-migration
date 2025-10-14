@@ -1,30 +1,9 @@
----
-title: CENTER RESIDENCE
-description: The accommodation boasts a well-appointed suite featuring a bedroom, a bathroom, and inclusive of bed linen and towels. The living space is equipped with a flat
-featuredImage: "/images/accommodation/331232888.jpg"
-language: en
-slug: center-residence
-location: ""
-amenities: []
-images: []
----
-
-The accommodation boasts a well-appointed suite featuring a bedroom, a bathroom, and inclusive of bed linen and towels. The living space is equipped with a flat-screen TV offering streaming services, a dining area, a fully equipped kitchen, and a balcony that presents captivating city views. An added benefit for guests is the allergy-free environment, ensuring a comfortable stay for all.
+---\ntitle: "CENTER RESIDENCE"\ndescription: "CENTER RESIDENCE stands out as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/331232888.jpg?k=70df6d97f0a936c713dce5054f93157d083345a1097fe4024919c8610909ee52&o=&hp=1"\nlanguage: en\nslug: center-residence\naddress: "Rruga Shyqyri Ali Merka, 9404 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45320767\n  lng: 19.48813889\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.6\nratingWords: "Very Good"\nnumberOfReviews: 10\nratings:\n  overall: 8.6\n  location: 9.5\n  cleanliness: 8.3\n  facilities: 8\n  value: 8.8\n  comfort: 7.8\n  staff: 9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/331232888.jpg?k=70df6d97f0a936c713dce5054f93157d083345a1097fe4024919c8610909ee52&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/331231216.jpg?k=f9dde7b9205947948341cb813c89f876239860872bb8aece903d902189770b71&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/331231841.jpg?k=002b4f5b3151f9156c9aaef472d55eefc8a20138c80fc128049447504918dba5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348234092.jpg?k=80d82596c1851dc693ac7e14ceb4b91bb71b4c39d64206c0e8dc1675109f6e16&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/331232437.jpg?k=11cd78815c5ef19b429eaef654e00c6a7d9f8c4e5c9f0cdf5b4827750b65c393&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469219871.jpg?k=629272321716afe65a2c2573b966b3c16726168880164b0abf11e88fc5ce2ca5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/331231981.jpg?k=2b99eb5c105423f9256a90e5b8edc10ef0238a02fe6ea82c5e2fb4198b481548&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348234101.jpg?k=8fefa4ab098a96ba7d8f840b5f1c9a7b6730a837201185c1bbfba9b4c51299c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/331232539.jpg?k=233a0ab7d44b8a7544dd33b164aec54d608851629de7564d0ea7f6e6b7d54efd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/331232488.jpg?k=72b664678e80595b0d17b009f27db7bae3f4f6e75536811d9cb7fdc93a508518&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/331232359.jpg?k=07f80dd55bd713314ff51c79a49b7fc5ced44046c9432bf8d79f5d9d7f029c8c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/331232313.jpg?k=d207bdbd0ffb5cf1f2de33059a3db6ad29917c7081d508212eabc584ea1dfdee&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Fast Food & Crepes Delirium 20 m"\n  - "Adriatik 40 m"\nnearbyBeaches:\n  - "Vjetër Beach 600 m"\n  - "Vlore Beach 750 m"\n  - "Ri Beach 2 km"\n  - "Beach at Government Villas 3.7 km"\n  - "Liro Beach 4.3 km"\nwhatsNearby:\n  - "Kuzum Baba 1.7 km"\n  - "Independence Square 2 km"\n  - "Scooby Doo Vlore 2 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Svetlana"\n    country: "Ukraine"\n    text: "“As for location:
+the location is good, and all shops are close (Haso and Big market). You have to walk to the nearest beach about 5-7 minutes, good bars are very close (just opposite the Kill Grill), the apartment is situated in the beginning of...”"\n  - name: "Melanie"\n    country: "Spain"\n    text: "“Super friendly staff, everything very good, well located and with everything you need.”"\n  - name: "Noemi"\n    country: "Italy"\n    text: "“We had a great time, helpful staff.
+Location 10 minutes walk from the main street of the promenade where you can walk”"\nbookingURL: "https://www.booking.com/hotel/al/center-residence.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe accommodation boasts a well-appointed suite featuring a bedroom, a bathroom, and inclusive of bed linen and towels. The living space is equipped with a flat-screen TV offering streaming services, a dining area, a fully equipped kitchen, and a balcony that presents captivating city views. An added benefit for guests is the allergy-free environment, ensuring a comfortable stay for all.
 
 For those needing essentials or a quick snack, a minimarket on the premises caters to these needs without the necessity to leave the comfort of the aparthotel. Additionally, CENTER RESIDENCE positions its guests perfectly for exploring, with sightseeing tours readily available within close proximity. For further exploration, a car rental service is offered, making it effortless to discover the surrounding areas.
 
 Notably, the aparthotel is conveniently situated 2.3 km from the tranquil Ri Beach and 2.1 km from the historic Independence Square. For guests arriving from afar, Tirana International Mother Teresa Airport is 151 km away, with the aparthotel providing a paid airport shuttle service for a smooth transition to and from the property.
 
 CENTER RESIDENCE emerges as a top selection for those desiring a stay that combines the freedom of an apartment with the amenities and services of a hotel, all within the vibrant heart of Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

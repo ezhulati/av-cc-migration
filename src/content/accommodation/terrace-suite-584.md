@@ -1,30 +1,7 @@
----
-title: Terrace Suite 584
-description: This apartment is a haven of tranquility and comfort, boasting a balcony that offers serene sea views, a rarity in the bustling cityscape. The living spaces are
-featuredImage: "/images/accommodation/431189891.jpg"
-language: en
-slug: terrace-suite-584
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Terrace Suite 584"\ndescription: "Terrace Suite 584 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431189891.jpg?k=41d086a21e719a71f2645c2c2e9428672e5b51ab23d77d4a020c88f531711897&o=&hp=1"\nlanguage: en\nslug: terrace-suite-584\naddress: "8F3W+P69, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30443472\n  lng: 19.49566908\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431189891.jpg?k=41d086a21e719a71f2645c2c2e9428672e5b51ab23d77d4a020c88f531711897&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431189943.jpg?k=a7a9660782bc7fc8dbd627a7e2c65571427d30b609b6eaf91dabed3d9f8a7f96&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431189864.jpg?k=21af63c008b39560682232318a598af969e63a8333b4c29faa7ccbf2da1be477&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431189954.jpg?k=ce0894036f572316f37be5fcd590c10742519b5b3336ebd62b34a8721bda5771&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431193186.jpg?k=fa8121ce588d7c2487715b82216f81a891174874694816076e6fe14972cbaf2c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431189853.jpg?k=d919eb4123cdab9a06593d6a4a98782718e9b0d760f9d6774f78494fb43becc0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431189823.jpg?k=7adc7b10d1461da5a575863bc860e99c75fffb795c4aa06d5057ea068bb8c756&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431189836.jpg?k=4d3243fba3f2042c855791035029605181b59f286d270603846e55b43713e567&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431189908.jpg?k=cc5361c97b5c63384fd3901fb926161bc2cc226e5656790a7fec98f4942567b0&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Saccaria 50 m"\n  - "Koli 100 m"\nnearbyBeaches:\n  - "Durres Beach 250 m"\n  - "Shkëmbi i Kavajës Beach 2.4 km"\n  - "Currila Beach 4 km"\n  - "Golem Beach 4.7 km"\n  - "Kallmi Beach 6 km"\nwhatsNearby:\n  - "Bekimi 3 km"\n  - "Wine Dhe Pooh 4.1 km"\n  - "Sheshi Demokracia 4.2 km"\n  - "Yje Dhe Hena 4.2 km"\n  - "Durres Amphiteatre 4.3 km"\n  - "Sotir Noka 4.5 km"\n  - "1. Maj 4.5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/1-bedroom-apartment-584.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment is a haven of tranquility and comfort, boasting a balcony that offers serene sea views, a rarity in the bustling cityscape. The living spaces are thoughtfully designed, featuring a cozy bedroom, a welcoming living room equipped with a flat-screen TV, and a fully equipped kitchen that includes an oven and a microwave, catering to the culinary needs of its guests. The inclusion of a modern bathroom with a bidet, complemented by the provision of towels and bed linen, underscores the property's commitment to convenience and hygiene. Emphasizing a smoke-free environment, Terrace Suite 584 ensures a healthy and refreshing stay for all its guests.
 
-This apartment is a haven of tranquility and comfort, boasting a balcony that offers serene sea views, a rarity in the bustling cityscape. The living spaces are thoughtfully designed, featuring a cozy bedroom, a welcoming living room equipped with a flat-screen TV, and a fully equipped kitchen that includes an oven and a microwave, catering to the culinary needs of its guests. The inclusion of a modern bathroom with a bidet, complemented by the provision of towels and bed linen, underscores the property's commitment to convenience and hygiene. Emphasizing a smoke-free environment, Terrace Suite 584 ensures a healthy and refreshing stay for all its guests.
-
-For those looking to explore the surroundings without the hassle of public transport, the apartment offers a car rental service, adding a layer of ease to the discovery of local gems such as the Rock of Kavaje, the Durres Amphitheatre, and the historical insights of the Former Residence of Enver Hoxha and the House of Leaves.
+For those looking to explore the surroundings without the hassle of public transport, the apartment offers a car rental service, adding a layer of ease to the discovery of local gems such as the Rock of Kavaje, the Durres Amphitheatre, and the historical insights of the Former Residence of Enver Hoxha and the House of Leaves. 
 
 Accessibility is further enhanced by the proximity to Tirana International Mother Teresa Airport, located just 33 km away, with the added luxury of a paid airport shuttle service, ensuring a seamless transition from arrival to relaxation.
 
 Terrace Suite 584 stands out as a beacon of comfort, convenience, and thoughtful amenities, making it an ideal lodging choice for those venturing into the heart of Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

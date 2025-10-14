@@ -7,6 +7,9 @@ featuredImage: /images/attractions/kadiut-bridge.jpg
 images: []
 language: en
 slug: kadiut-bridge
+seo:
+  metaTitle: "The Storied Legacy of Albania's 17th-Century Kadiu Bridge"
+  metaDescription: "Both civil engineering achievement and artistic craftsmanship showcase the historic Kadiut Bridge with its Ottoman-era arches spanning the Langarica River."
 ---
 
 Traverse Albanian History Along Përmet’s Storied Kadiu Bridge
@@ -37,10 +40,3 @@ While the bridge deserves attention for engineering accolades, the fascinating r
 
 So next time glossy brochures pull visitors quickly between celebrated attractions, consider slowing down streamside to admire the humble yet noble Kadiu Bridge still bearing brushed lion carvings signifying regional nobility, not solely for connection, but for remembering the unsung masters whose fingerprints fade across structures still enabling pathways into Albania’s tremendous tales yet untold by those eager enough to venture inward off hurried roads.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

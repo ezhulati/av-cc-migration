@@ -1,26 +1,3 @@
----
-title: Vacation 939
-description: This non-smoking property boasts modern amenities designed to enhance the stay of every guest. With complimentary WiFi, a television for entertainment, a washin
-featuredImage: "/images/accommodation/510456052.jpg"
-language: en
-slug: vacation-939
-location: ""
-amenities: []
-images: []
----
-
-This non-smoking property boasts modern amenities designed to enhance the stay of every guest. With complimentary WiFi, a television for entertainment, a washing machine for convenience, and a fully equipped kitchenette complete with a microwave and fridge, guests have everything they need at their fingertips. The inclusion of towels and bed linen adds a touch of home comfort to the well-appointed apartment.
+---\ntitle: "Vacation 939"\ndescription: "Vacation 939 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510456052.jpg?k=0a59c9c388fdcdac0dab3e42f1e6785a5c27ea57cb46c73f55e70e95a3745531&o=&hp=1"\nlanguage: en\nslug: vacation-939\naddress: "7GV5+56J Durres, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.2930507\n  lng: 19.507672\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510456052.jpg?k=0a59c9c388fdcdac0dab3e42f1e6785a5c27ea57cb46c73f55e70e95a3745531&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510456059.jpg?k=6633502aa5d678170c8556496967c02ca298a6ddf740f9a5d27e0936b451def2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510456098.jpg?k=0848c54650ba240378721502df2ec742083c4f0be487bb51ef5544eab932c104&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510456077.jpg?k=3f8af8f7ff91765053bcf32e5bd1167b7d2e626520e792efa5df90c0a8e20229&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510456102.jpg?k=7535b2da66677197c47165317caca0f25872d42cc2255f126fc55a024a6579d1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510456083.jpg?k=e7d9f828f8cc25904f2dc1779c8539c43f0108b65228616779bec46af7e6321a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510456094.jpg?k=36761a969723f57cc818a3e522b8b73b206dc187236e0963d60e534e0f1e100a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510456107.jpg?k=48ee2b1b76b08187571325ac40a5ebeba0479a75acafde98e42e96bbeb8e186d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510456057.jpg?k=269f05ee847af370d85456ebb007a103798c3048f321177a3e6d66ae5398aa0f&o=&hp=1"\namenities:\n  - "Free WiFi"\nnearbyBeaches:\n  - "Durres Beach 300 m"\n  - "Shkëmbi i Kavajës Beach 850 m"\n  - "Golem Beach 3.2 km"\n  - "Mali I Robit Beach 5 km"\n  - "Currila Beach 5 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nbookingURL: "https://www.booking.com/hotel/al/vacation-939.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis non-smoking property boasts modern amenities designed to enhance the stay of every guest. With complimentary WiFi, a television for entertainment, a washing machine for convenience, and a fully equipped kitchenette complete with a microwave and fridge, guests have everything they need at their fingertips. The inclusion of towels and bed linen adds a touch of home comfort to the well-appointed apartment.
 
 For those interested in delving into the historical aspects of Durrës, the Durres Amphitheatre is located just 8.8 km away, offering a glimpse into the city's ancient past. Additionally, the House of Leaves, situated 40 km from the apartment, provides an insightful look into the country's history. With the Tirana International Mother Teresa Airport only 35 km away, Vacation 939 ensures ease of travel for both domestic and international visitors, making it a standout option for those looking to experience the best of Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

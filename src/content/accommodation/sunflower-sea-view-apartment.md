@@ -1,28 +1,5 @@
----
-title: Sunflower Sea View Apartment
-description: The apartment itself is a haven of space and comfort, featuring air-conditioned interiors that promise a cool retreat from the warm Mediterranean sun. The livin
-featuredImage: "/images/accommodation/404866769.jpg"
-language: en
-slug: sunflower-sea-view-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of space and comfort, featuring air-conditioned interiors that promise a cool retreat from the warm Mediterranean sun. The living space is thoughtfully designed with a fully equipped kitchen, boasting an oven and stovetop for those who enjoy preparing their meals. The inclusion of a flat-screen TV and a cozy seating area ensures guests have all they need to unwind after a day of exploration. The bathroom is well-appointed with a shower, catering to the needs of modern travelers.
+---\ntitle: "Sunflower Sea View Apartment"\ndescription: "Sunflower Sea View Apartment stands out as a prime choice for travelers seeking comfort and convenience in Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404866769.jpg?k=0e66687b6a5413e4d077884c958430486fbd0f60693a695cd757c4e817df7162&o=&hp=1"\nlanguage: en\nslug: sunflower-sea-view-apartment\naddress: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87038801\n  lng: 19.99866731\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.3\nratingWords: "Good"\nnumberOfReviews: 5\nratings:\n  overall: 7.3\n  location: 6\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 7.5\n  comfort: 7.5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404866769.jpg?k=0e66687b6a5413e4d077884c958430486fbd0f60693a695cd757c4e817df7162&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506587202.jpg?k=e4bbe323b987ee5e22afc4137427397ef0ae34f8b0eb711ab4dde15db6195c28&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506587223.jpg?k=d19a9aa2376e7567c3c0b6e9a7f085b47d2ebd5477731eb0965e09c8e461c2ef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484848420.jpg?k=55227bc0d177a7cf859fa57ff11b17e81f2dc624bd0dac07e5ef8d74c132c0ad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484848332.jpg?k=60e87adfb7d063c2c6ec6a7b31203374b3365e04a96d48ccc1b627fa60924c41&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484848398.jpg?k=0997729159f32dcaa8edf12a22c9962161e190859d3d04e7d20d831d2943e8bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506588560.jpg?k=963b1f9b07f02f6cefca038707a355dc0df7dca77e6015bd9471e96b814267e1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484848280.jpg?k=a28f25a3e671afc52375cd2b226627f90508a3b74d0bb9b85de4c0d24a865a10&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484848574.jpg?k=06be33f908d309a2aa5d24d596f41f5108c9613733342aa067c1def5bcd9baf6&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\nnearbyRestaurants:\n  - "Sunset 4 m"\n  - "Hot Dog 100 m"\nnearbyBeaches:\n  - "Sarande Main Beach 50 m"\n  - "Saranda City Beach 1,000 m"\n  - "La Petite Beach 1.3 km"\n  - "Maestral Beach 1.5 km"\n  - "Saranda Bay Beach 1.6 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.6 km"\n  - "Butrint National Park 3.2 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\nbookingURL: "https://www.booking.com/hotel/al/sunflower-sea-view-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of space and comfort, featuring air-conditioned interiors that promise a cool retreat from the warm Mediterranean sun. The living space is thoughtfully designed with a fully equipped kitchen, boasting an oven and stovetop for those who enjoy preparing their meals. The inclusion of a flat-screen TV and a cozy seating area ensures guests have all they need to unwind after a day of exploration. The bathroom is well-appointed with a shower, catering to the needs of modern travelers.
 
 One of the highlights of Sunflower Sea View Apartment is undoubtedly its terrace. Offering breathtaking sea views, the balcony is furnished, providing an ideal spot for guests to relax and soak in the picturesque surroundings. The added touch of a private entrance enhances the sense of exclusivity and privacy, making it a perfect getaway for those looking to escape the hustle and bustle.
 
 Located 98 km from Ioannina Airport, the apartment is relatively accessible for international travelers. With its combination of comfort, convenience, and captivating views, Sunflower Sea View Apartment is a standout accommodation choice for anyone visiting Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

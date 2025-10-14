@@ -1,28 +1,6 @@
----
-title: DIAMOND STAR 1
-description: The apartment itself is a haven of space and comfort, boasting a balcony that offers serene garden views, two cozy bedrooms, a welcoming living room, and a kitc
-featuredImage: "/images/accommodation/481736836.jpg"
-language: en
-slug: diamond-star-1
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of space and comfort, boasting a balcony that offers serene garden views, two cozy bedrooms, a welcoming living room, and a kitchen equipped with everything needed for a home-away-from-home experience. Entertainment is readily available with a flat-screen TV, ensuring guests have enjoyable indoor moments.
+---\ntitle: "DIAMOND STAR 1"\ndescription: "DIAMOND STAR 1 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481736836.jpg?k=81cc65ef47911c520188895397d63476bdfd204c96cb435d113eeae692153d06&o=&hp=1"\nlanguage: en\nslug: diamond-star-1\naddress: "Rruga Mitat Hoxha 1, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87101235\n  lng: 19.99715436\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 9.6\n  location: 10\n  cleanliness: 10\n  facilities: 8.8\n  value: 10\n  comfort: 8.8\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481736836.jpg?k=81cc65ef47911c520188895397d63476bdfd204c96cb435d113eeae692153d06&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481736922.jpg?k=8a975bac7922eaa56ca965449b9d60599517445f868f3025053065b572c56268&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481737036.jpg?k=715a61ca3bb8527aea5081e24a7a56969a44fde6326f47405144e339b6ece4dd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481737049.jpg?k=15184986bccd146ffc8f85e6f7cf212e260c1acbf67c4cdd8d7276d8a689f132&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481736957.jpg?k=eed09bac51c174d62a224d250dbb29b21143a3a0a766f396398dd9a8d59dfe4d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481736977.jpg?k=e87037b9e2ebeaacfb4f8a300e493d50962cb48bbf72d5e338ee90943f1d667d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481736934.jpg?k=b7b76548bd0f2c4840c2b78929ccc41702eef6f2d64b282d5608ed7a50756727&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481736908.jpg?k=aa39f0cec8eee97817d15aa4a1cd2f50151fe1552c2ad60c84836d1a84aa1993&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481736879.jpg?k=591461744da1330452d8bc28e6a546c8192bb0e3d435cd3a4abb9ec9c9250f1d&o=&hp=1"\namenities:\n  - "Swimming Pool"\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Vibes Lounge Bar 30 m"\n  - "Andon Lapa 50 m"\nnearbyBeaches:\n  - "Sarande Main Beach 100 m"\n  - "Saranda City Beach 1.1 km"\n  - "Saranda Bay Beach 1.4 km"\n  - "La Petite Beach 1.5 km"\n  - "Maestral Beach 1.6 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.7 km"\n  - "Butrint National Park 3.3 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Laurie"\n    country: "France"\n    text: "“Idéalement situé face à la mer, l appartement est spacieux, moderne, avec tout le confort nécessaire. Belle décoration Une piscine est située en bas, avec un restaurant.
+Résidence moderne, nous avons passé un agréable sejour”"\nbookingURL: "https://www.booking.com/hotel/al/diamond-star-1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of space and comfort, boasting a balcony that offers serene garden views, two cozy bedrooms, a welcoming living room, and a kitchen equipped with everything needed for a home-away-from-home experience. Entertainment is readily available with a flat-screen TV, ensuring guests have enjoyable indoor moments.
 
 For those keen to explore beyond the immediate comforts of DIAMOND STAR 1, Saranda City Beach is accessible within a short 1.3 km stroll, offering another picturesque spot for relaxation and leisure. Further afield, Saranda Bay Beach awaits at 1.9 km, presenting yet another option for beach enthusiasts. Adventure seekers and nature lovers will be thrilled to find Butrint National Park, a site of significant historical and ecological interest, located just 18 km away.
 
 Conveniently positioned with Ioannina Airport 98 km away, DIAMOND STAR 1 caters to both domestic and international travelers, making it an attractive option for those seeking a memorable stay in Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

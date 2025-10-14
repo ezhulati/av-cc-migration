@@ -1,30 +1,8 @@
----
-title: Hotel Hasmegaj
-description: Each room at Hotel Hasmegaj is a testament to comfort and convenience, featuring air conditioning, complimentary WiFi, and private bathrooms. The thoughtful inc
-featuredImage: "/images/accommodation/438403755.jpg"
-language: en
-slug: hotel-hasmegaj
-location: ""
-amenities: []
-images: []
----
-
-Each room at Hotel Hasmegaj is a testament to comfort and convenience, featuring air conditioning, complimentary WiFi, and private bathrooms. The thoughtful inclusion of a wardrobe, desk, and flat-screen TV ensures that guests have everything they need at their fingertips. Select rooms also offer the luxury of a balcony, inviting guests to soak in the surroundings in privacy.
+---\ntitle: "Hotel Hasmegaj"\ndescription: "Hotel Hasmegaj emerges as a serene retreat in Mjedë, a mere 17 km away from the historic Rozafa Castle Shkodra."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438403755.jpg?k=38f108259877a773143f460be531f1a663eecf58c47295c048f371c6661e6304&o=&hp=1"\nlanguage: en\nslug: hotel-hasmegaj\naddress: "Rruga Mjede - Vau i Dejes 35, Mjede, 4026 Mjedë, Albania"\ncity: "Mjedë"\nlocation: "Mjedë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.00127063\n  lng: 19.61715587\nprice: "US$40"\npriceFrom: 40\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 227\nratings:\n  overall: 9.1\n  location: 8.5\n  cleanliness: 9.2\n  facilities: 8.9\n  value: 9.3\n  comfort: 9.1\n  staff: 9.6\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438403755.jpg?k=38f108259877a773143f460be531f1a663eecf58c47295c048f371c6661e6304&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438393817.jpg?k=e7e291c7b201d626e30d5766cf910b7ba937869c3e3fb4776f18528007ecd7b8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438394761.jpg?k=2f62bea4bb7b0c0792b7e13be19fd145f57876480176463cd4197659168daf8b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438394258.jpg?k=098c83a9fd5722ee637dbaaa4ae61ce46ed7897f0634d05de927689b9ed88c33&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/294691162.jpg?k=99645eb11e511870e45e56bb0bf6d75c9d11804a291ac15ef112e332078ccac8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438402457.jpg?k=ab3f77c5fe2b490f2440e9ecdb0009cf6cee297b5bd60c42cd309760dd0405eb&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Airport shuttle"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Double Room with Mountain View"\n  - "Standard Double or Twin Room with Balcony"\n  - "Standard Double or Twin Room with Garden View"\n  - "Triple Room with View"\n  - "Standard Triple Room"\nnearbyRestaurants:\n  - "Bar Hotel Hasmegaj 300 m"\n  - "Ristorant Nacional 1.4 km"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 11 km"\nairports:\n  - "Podgorica Airport 49 km"\n  - "Tirana International Airport Mother Teresa 64 km"\n  - "Tivat Airport 85 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Nikola"\n    country: "Czech Republic"\n    text: "“Very nice owner. Is possible pay by card. Good starting point to Lake Komani (cca 1,5 hour away due to poor road condition). Good breakfast. Great dinner.”"\n  - name: "Molly-jane"\n    country: "Australia"\n    text: "“Clean and very very kind owners and staff who work there”"\n  - name: "Agnieszka"\n    country: "Poland"\n    text: "“Room clean and fresh. host very nice and helpful.
+I recommend 👌”"\nbookingURL: "https://www.booking.com/hotel/al/hasmegaj.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nEach room at Hotel Hasmegaj is a testament to comfort and convenience, featuring air conditioning, complimentary WiFi, and private bathrooms. The thoughtful inclusion of a wardrobe, desk, and flat-screen TV ensures that guests have everything they need at their fingertips. Select rooms also offer the luxury of a balcony, inviting guests to soak in the surroundings in privacy.
 
 Culinary delights await at the hotel's restaurant, where a menu brimming with Italian, Mediterranean, and Pizza dishes tempts the palate. The availability of vegetarian and halal options underscores the hotel's commitment to accommodating diverse dietary preferences.
 
 Families will appreciate the children's playground, while adventurers can take advantage of the hotel's location to engage in fishing and cycling in the picturesque area around Mjedë. Lake Skadar, located just 19 km away, presents further opportunities for exploration and enjoyment.
 
 For those arriving from afar, the convenience of a paid airport shuttle service from Podgorica Airport, 71 km away, ensures a hassle-free journey to Hotel Hasmegaj. This hotel not only promises a comfortable stay but also serves as a gateway to the natural beauty and cultural richness of the region.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

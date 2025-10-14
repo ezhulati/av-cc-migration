@@ -4,9 +4,18 @@ description: This one-bedroom apartment doesn't just boast a strategic location;
 featuredImage: "/images/accommodation/526478754.jpg"
 language: en
 slug: ax-santa-marta
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Spa"
+  - "Kitchen"
+  - "Laundry"
+  - "TV"
 ---
 
 This one-bedroom apartment doesn't just boast a strategic location; it also offers a sanctuary of comfort with its air-conditioned spaces, ensuring a cool retreat from the bustling city life. Guests are treated to breathtaking views of both the mountain and the city, providing a serene backdrop to their stay. The apartment is a smoke-free environment, ensuring a clean and healthy space for all guests.
@@ -15,14 +24,3 @@ A&X Santa Marta is equipped with modern amenities to cater to the needs of the c
 
 The apartment's location is a gateway to exploring Tirana's most sought-after attractions. Tanners' Bridge, Toptani Shopping Centre, and the National Theatre of Opera and Ballet of Albania are all within easy reach, offering a diverse mix of historical, cultural, and retail experiences. For guests arriving by air, the Tirana International Mother Teresa Airport is just 15 km away, making A&X Santa Marta an accessible and convenient choice for both short and extended stays in Albania's captivating capital.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

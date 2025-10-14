@@ -1,30 +1,8 @@
----
-title: Apartment for rent Durres Shkembi Kavajes
-description: Boasting panoramic city views, the apartment is strategically positioned 40 km from the historic Skanderbeg Square and 44 km from the thrilling Dajti Ekspres Ca
-featuredImage: "/images/accommodation/421712654.jpg"
-language: en
-slug: apartment-for-rent-durres-shkembi-kavajes
-location: ""
-amenities: []
-images: []
----
-
-Boasting panoramic city views, the apartment is strategically positioned 40 km from the historic Skanderbeg Square and 44 km from the thrilling Dajti Ekspres Cable Car, making it an ideal base for those looking to immerse themselves in the local culture and adventure. The Rock of Kavaje, another notable landmark, is just 2.9 km away, while the intriguing Former Residence of Enver Hoxha is accessible at 40 km distance.
+---\ntitle: "Apartment for rent Durres Shkembi Kavajes"\ndescription: "Discover the charm of Durrës from the comfort of the Apartment for Rent Durres Shkembi Kavajes, a prime beachfront property that offers more than just a place to stay."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421712654.jpg?k=67339da51013360dfb4e4cf284e441ffc610aeb5f9ed1a26a273e52412362785&o=&hp=1"\nlanguage: en\nslug: apartment-for-rent-durres-shkembi-kavajes\naddress: "Rruga Shkembi i Kavajes, 1000 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.2926557\n  lng: 19.51086354\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421712654.jpg?k=67339da51013360dfb4e4cf284e441ffc610aeb5f9ed1a26a273e52412362785&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496522088.jpg?k=d179d1123e83b975f5db656c832927c7ad3372c93f2804b6c00207b751af491b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496522326.jpg?k=c7e78e1f8e9888465ed67e09a44abf7887a8288af4d6984db4456c6a921ed129&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462511115.jpg?k=21ad8b9970330f38cef4a003c32524f90faf1fcee6350ce51cdefcd3711cd976&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462512309.jpg?k=f4e7711f696324df1af5faccdd0973cfd3ffbca37e1298a829cdf2c6a85d5150&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421712904.jpg?k=0b0739a2211ae6daf88f4161185b4a19331e97380fffd1d6bded4b30afc88ff2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421712713.jpg?k=5f3987b8df63fbfd5dc9498cbd1d1cc00927f680f4a2c3ae82c63db136008516&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496520449.jpg?k=3713182f81bce95726389444de75cf114e7a90114e5c919775f3f486044b078d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496520579.jpg?k=dde285bd8895e3544626c664163c0a1168984f3977164a602a1dde887444e34e&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Midway Cafe 100 m"\n  - "Am-PM 300 m"\nnearbyBeaches:\n  - "Durres Beach 500 m"\n  - "Shkëmbi i Kavajës Beach 800 m"\n  - "Golem Beach 3.1 km"\n  - "Mali I Robit Beach 5 km"\n  - "Currila Beach 6 km"\nwhatsNearby:\n  - "Bekimi 4.8 km"\n  - "Wine Dhe Pooh 6 km"\n  - "Sheshi Demokracia 6 km"\n  - "Durres Amphiteatre 6 km"\n  - "Yje Dhe Hena 6 km"\n  - "1. Maj 6 km"\n  - "Sotir Noka 6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\nreviews:\n  - name: "Giuseppe"\n    country: "Italy"\n    text: "“Tutto perfetto! L'appartamento è a 2 passi dal mare, con doppio balcone, cucina e tanto altro.
+Elvira, la proprietaria di casa è stata disponibile e gentile sin dal primo minuto.”"\nbookingURL: "https://www.booking.com/hotel/al/palazzo-durres2.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nBoasting panoramic city views, the apartment is strategically positioned 40 km from the historic Skanderbeg Square and 44 km from the thrilling Dajti Ekspres Cable Car, making it an ideal base for those looking to immerse themselves in the local culture and adventure. The Rock of Kavaje, another notable landmark, is just 2.9 km away, while the intriguing Former Residence of Enver Hoxha is accessible at 40 km distance.
 
 This inviting apartment features a balcony that offers breathtaking sea views, creating the perfect backdrop for a morning coffee or an evening unwind. Inside, guests will find two cozy bedrooms, a welcoming living room, and a flat-screen TV for entertainment. The equipped kitchen allows for the preparation of home-cooked meals, adding a touch of homeliness to the stay. The bathroom is well-appointed with a bidet and a shower, ensuring a comfortable and refreshing experience.
 
 For those who enjoy a good drink, the convenience of an on-site bar enhances the stay, providing a social spot to relax and meet fellow travelers. Further afield, the Durres Amphitheatre, located 9.2 km from the property, offers a glimpse into the area's rich history, while the House of Leaves, 39 km away, presents an intriguing visit.
 
 Accessibility is a breeze, with Tirana International Mother Teresa Airport just 34 km away, ensuring a smooth arrival and departure for guests. The Apartment for Rent Durres Shkembi Kavajes stands out as a delightful choice for travelers seeking a blend of comfort, convenience, and exploration in the heart of Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

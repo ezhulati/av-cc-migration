@@ -1,28 +1,5 @@
----
-title: Apartments near the Sea in Shengjin
-description: Guests will find themselves in a generously sized apartment that boasts a well-appointed bedroom, a cozy living room for unwinding, a fully equipped kitchen for
-featuredImage: "/images/accommodation/463586021.jpg"
-language: en
-slug: apartments-near-the-sea-in-shengjin
-location: ""
-amenities: []
-images: []
----
-
-Guests will find themselves in a generously sized apartment that boasts a well-appointed bedroom, a cozy living room for unwinding, a fully equipped kitchen for those who love to cook, and a modern bathroom. The entire space is dedicated to providing a smoke-free environment, ensuring a clean and healthy stay for all guests.
+---\ntitle: "Apartments near the Sea in Shengjin"\ndescription: "Discover the charm of Shëngjin with a stay at the Apartments near the Sea in Shengjin, a prime location merely steps away from the pristine Shëngjin Beach and a short stroll from the tranquil Ylberi Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463586021.jpg?k=1acfefd1ecbb804ad7123fc267df2c94ced5f3e2be217557f92ac6af17f3ae83&o=&hp=1"\nlanguage: en\nslug: apartments-near-the-sea-in-shengjin\naddress: "Shëngjin - Kune, 4503 Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.81177391\n  lng: 19.59611697\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 1\nratings:\n  overall: 7.9\n  location: 10\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 7.5\n  comfort: 7.5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463586021.jpg?k=1acfefd1ecbb804ad7123fc267df2c94ced5f3e2be217557f92ac6af17f3ae83&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456059413.jpg?k=99aaeb1118102c7699cdd91b86d04a8cb209c221a2a70e4d7c929005ca5d3f0a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456059397.jpg?k=dc4c0fa89ffa4cd29d9efc61367d202154063bb742a037b7f0d81d363ac68aed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456059407.jpg?k=4b56fa856a6ddf78fcdbe6f7faee9e96964fb8424c02f091a58d43f4183c8950&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456059470.jpg?k=2a4744ad11ecf4740bdac1fcbd003a391146b71907edde9a5363a53c1dd3e912&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456059456.jpg?k=28df2d3d8c8a65c66d038512f3892c2fbd5a50153f87a659665992c99112af00&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456059453.jpg?k=e2605f89e562b4d1545618ca546d570ee89d953a14f09e301d21daaf32ed6ce7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456059420.jpg?k=af5e1dfca559e72487ba0500fcb1e67ba32a9939eca53c7447951cad0d022fb7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456059402.jpg?k=a6e4b53124de27af7620ad950050f14e74a6b8d17ca248b54bd9bf8287c75dba&o=&hp=1"\namenities:\n  - "Private parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Apartment"\nnearbyRestaurants:\n  - "Goga Fish 40 m"\n  - "Casa di Caldo 100 m"\nnearbyBeaches:\n  - "Shëngjin Beach 150 m"\n  - "Ylberi Beach 1.4 km"\n  - "Rana e Hedhun Beach 2.6 km"\n  - "Kune Beach 4.7 km"\n  - "Laguna Park Beach 4.8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 44 km"\n  - "Podgorica Airport 66 km"\n  - "Tivat Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/apartments-near-the-sea-in-shengjin.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests will find themselves in a generously sized apartment that boasts a well-appointed bedroom, a cozy living room for unwinding, a fully equipped kitchen for those who love to cook, and a modern bathroom. The entire space is dedicated to providing a smoke-free environment, ensuring a clean and healthy stay for all guests.
 
 Connectivity is never an issue, as complimentary WiFi is provided throughout the property, allowing guests to stay connected with the world or plan their next adventure in Shëngjin. For those arriving by car, private parking is available on-site for a nominal fee, adding an extra layer of convenience.
 
 For travelers flying into Albania, the Tirana International Mother Teresa Airport is located 49 km away, making the Apartments near the Sea in Shengjin an accessible retreat for both local and international visitors seeking a serene getaway by the Albanian coast.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,26 +1,3 @@
----
-title: Hotel Ana
-description: Each guest room at Hotel Ana is thoughtfully furnished, featuring ample wardrobe space and a flat-screen TV for entertainment needs. The attention to detail ext
-featuredImage: "/images/accommodation/297177712.jpg"
-language: en
-slug: hotel-ana
-location: ""
-amenities: []
-images: []
----
-
-Each guest room at Hotel Ana is thoughtfully furnished, featuring ample wardrobe space and a flat-screen TV for entertainment needs. The attention to detail extends to the private bathrooms, which are well-appointed with a bidet and hairdryer. For those who appreciate natural beauty, select rooms provide breathtaking mountain views, adding an extra layer of tranquility to the stay. Comfort is a priority, with air conditioning and a desk available in all guest accommodations, ensuring a pleasant and productive environment for all visitors.
+---\ntitle: "Hotel Ana"\ndescription: "Hotel Ana stands out as a prime choice for travelers seeking comfort and convenience in Përmet."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/297177712.jpg?k=e9a54d529cf73d7633ea083ce19b370cb8c872b021f96125fec3ffcda381f23a&o=&hp=1"\nlanguage: en\nslug: hotel-ana\naddress: "Rruga Kongresi i Përmetit Nr. 2 Market Marjeta, 6401 Përmet, Albania"\ncity: "Përmet"\nlocation: "Përmet"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.22993659\n  lng: 20.35899642\nprice: "US$27"\npriceFrom: 27\nstarRating: 3\nrating: 7.3\nratingWords: "Good"\nnumberOfReviews: 5\nratings:\n  overall: 7.3\n  location: 6.5\n  cleanliness: 7.5\n  facilities: 7\n  value: 7.5\n  comfort: 7.5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/297177712.jpg?k=e9a54d529cf73d7633ea083ce19b370cb8c872b021f96125fec3ffcda381f23a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/297182579.jpg?k=caa33073ebf7c14cb10aeeaf287a1a3f0b06eda85f173e58024900b87c398733&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/297178098.jpg?k=f33865221422c2db239d8f569f6001790a42b3a6c65121b723cd90ac28189d20&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/268102129.jpg?k=29249934ddded356aeedc754098978d43a53a5218d097bcac1e7136a5634ed0d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/268102119.jpg?k=e6dec73ad28a98109ea2dd5d94317640b83fca92cea69825f60c0ded38784717&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/268102410.jpg?k=7f4ed48f9d4a20e5c0c0b26b3597f81f2c727088ebd83d969b2cec068506cf6c&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "Budget Double Room"\n  - "Basic Triple Room"\n  - "Classic Quadruple Room"\nnearbyRestaurants:\n  - "Cabeli 10 m"\n  - "Sky 300 m"\nwhatsNearby:\n  - "Fir of Hotova National Park 17 km"\nairports:\n  - "Ioannina Airport 70 km"\n  - "Corfu International Airport 79 km"\n  - "Kastoria National Airport 81 km"\nbookingURL: "https://www.booking.com/hotel/al/a.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach guest room at Hotel Ana is thoughtfully furnished, featuring ample wardrobe space and a flat-screen TV for entertainment needs. The attention to detail extends to the private bathrooms, which are well-appointed with a bidet and hairdryer. For those who appreciate natural beauty, select rooms provide breathtaking mountain views, adding an extra layer of tranquility to the stay. Comfort is a priority, with air conditioning and a desk available in all guest accommodations, ensuring a pleasant and productive environment for all visitors.
 
 Situated 90 km from Ioannina Airport, Hotel Ana presents an accessible retreat for both leisure and business travelers, promising a memorable stay in the heart of Përmet.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

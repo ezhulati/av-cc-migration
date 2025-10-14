@@ -1,15 +1,4 @@
----
-title: APARTMENT LUNGOMARE
-description: Boasting a generous layout, the apartment includes a terrace that invites guests to relax and unwind, a cozy bedroom for a restful night's sleep, a welcoming li
-featuredImage: "/images/accommodation/403265154.jpg"
-language: en
-slug: apartment-lungomare
-location: ""
-amenities: []
-images: []
----
-
-Boasting a generous layout, the apartment includes a terrace that invites guests to relax and unwind, a cozy bedroom for a restful night's sleep, a welcoming living room for leisure moments, and a well-equipped kitchen for those who enjoy preparing their meals. Entertainment is readily available with the inclusion of a flat-screen TV, ensuring guests have access to their favorite shows and movies.
+---\ntitle: "APARTMENT LUNGOMARE"\ndescription: "APARTMENT LUNGOMARE emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403265154.jpg?k=2edbbef606ecabaccfdccc0e3333cc9a8c63323d3d224594d06d06a2a2d0d23c&o=&hp=1"\nlanguage: en\nslug: apartment-lungomare\naddress: "Rruga Murat Tërbaçi, 9402 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45287889\n  lng: 19.48790653\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 2\nratings:\n  overall: 8.2\n  location: 8.8\n  cleanliness: 8.8\n  facilities: 7.5\n  value: 7.5\n  comfort: 8.8\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403265154.jpg?k=2edbbef606ecabaccfdccc0e3333cc9a8c63323d3d224594d06d06a2a2d0d23c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403265182.jpg?k=5df15e7d5d1ba37492615da8c3524c6d4b4a0ea8139f52673e2d83eef2832bdb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403265165.jpg?k=b5e5bcb010ccd625ab7e9b660ec68974b19685284922379f8d9a188ae6198edc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403265174.jpg?k=acf394cce95e69daab0ce6b57b4996f66ad3e6d25f0aaa52631f7bcfe772cc54&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469220723.jpg?k=492dd39c9770be41b3c227140d0e5c5cb10f4b7480ec3d22d65a509b5b31bda2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403265168.jpg?k=75b17337dcd87cecc5c323ee10d50332bf5934d34910979e86eb43837a755d9b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403265197.jpg?k=b70e5dc36c1e9765226f70f4ad6cc5e1f9b8b52882f58f9567077c10ba65176d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403264319.jpg?k=aa114e936b58d0d382d4f40815086f768bf4fe935b2b82c75d3126e834513f47&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403265157.jpg?k=d582ce18029b506b305f421729d7c2a928f786b297c238e4c0ff943f9653e78e&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Adriatik 8 m"\n  - "Fast Food & Crepes Delirium 50 m"\nnearbyBeaches:\n  - "Vjetër Beach 550 m"\n  - "Vlore Beach 700 m"\n  - "Ri Beach 2 km"\n  - "Beach at Government Villas 3.6 km"\n  - "Liro Beach 4.3 km"\nwhatsNearby:\n  - "Kuzum Baba 1.7 km"\n  - "Scooby Doo Vlore 1.9 km"\n  - "Independence Square 2 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Sefjon"\n    country: "Albania"\n    text: "“The apartment was really nice, really clean, everything where it should be, everything needed to enjoy my stay, staff was perfect, really kind and helpful.”"\nbookingURL: "https://www.booking.com/hotel/al/apartment-lungomare-vlore2.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nBoasting a generous layout, the apartment includes a terrace that invites guests to relax and unwind, a cozy bedroom for a restful night's sleep, a welcoming living room for leisure moments, and a well-equipped kitchen for those who enjoy preparing their meals. Entertainment is readily available with the inclusion of a flat-screen TV, ensuring guests have access to their favorite shows and movies.
 
 For those concerned about connectivity, free WiFi is provided, ensuring that guests can stay connected with loved ones or attend to work commitments without hassle. The commitment to a non-smoking environment underscores the property's dedication to providing a clean and healthy stay for all guests.
 
@@ -18,15 +7,3 @@ Strategically positioned, APARTMENT LUNGOMARE is a mere 2.3 km away from the tra
 For guests arriving from afar, the nearest airport is Tirana International Mother Teresa, situated 151 km from the apartment. To ease the journey, a paid airport shuttle service is available, offering a seamless transition from air to accommodation.
 
 In summary, APARTMENT LUNGOMARE stands out as a stellar accommodation option in Vlorë, perfectly marrying the convenience of location with the comforts of home.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

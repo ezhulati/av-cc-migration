@@ -1,28 +1,5 @@
----
-title: Sea Bellows Apartment
-description: This spacious apartment doesn't just promise comfort; it delivers it with three well-appointed bedrooms, a balcony for soaking in the city's atmosphere, and the
-featuredImage: "/images/accommodation/478078759.jpg"
-language: en
-slug: sea-bellows-apartment
-location: ""
-amenities: []
-images: []
----
-
-This spacious apartment doesn't just promise comfort; it delivers it with three well-appointed bedrooms, a balcony for soaking in the city's atmosphere, and the convenience of modern living with air conditioning and free WiFi throughout. The inclusion of free private parking adds an extra layer of ease for those exploring the area by car.
+---\ntitle: "Sea Bellows Apartment"\ndescription: "Sea Bellows Apartment, located in the vibrant heart of Sarandë, offers a refreshing retreat just a stone's throw away from Saranda City Beach and within easy walking distance to La Petite Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478078759.jpg?k=fec86b88e7cefc735215b8692988730d8e33aeecd08934648a7bb01b37cb3047&o=&hp=1"\nlanguage: en\nslug: sea-bellows-apartment\naddress: "Rruga Skënderbeu, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86904222\n  lng: 20.01845413\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478078759.jpg?k=fec86b88e7cefc735215b8692988730d8e33aeecd08934648a7bb01b37cb3047&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478078913.jpg?k=8da89e9eb1673449ad9f83d09b1187d6694270330d7b1449c104011dd7f310ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478078894.jpg?k=f3a31a5843360a74f095a476f747ebf5c6df297bc9428cd3980f609d5c5d100c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478078917.jpg?k=f184a25eb0b188b2c76d03dbb1d0ffefd922ac8f917922dea1ed63f9778b54bc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478078868.jpg?k=04471808432c4d9332daef4e9b471d45b32c7b9530fa85ecaa6f198c1c916eab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478078899.jpg?k=5bb4f6307dcfd9d13608a0a817bc2cbba7b8bf0daeff15265147960fd3d448fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478078853.jpg?k=d9201a3175c20a0c2c01f8ecf6e2dc0d3642caa1672ca2b65aecf694a5ccbc6b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478078857.jpg?k=373b83ee64c93692837adca68ca3d4a8125da59f00ce05068d229d4e665780fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478078859.jpg?k=66d9b61d27e1acce19f3cbba671895eb9cea5abfc91e1ef5b4ceef0ecfc4d3ab&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Kafe Bar Joana 100 m"\n  - "Loasi 300 m"\nnearbyBeaches:\n  - "Maestral Beach 300 m"\n  - "La Petite Beach 350 m"\n  - "Saranda City Beach 500 m"\n  - "VIP Beach 1.1 km"\n  - "Santa Quaranta Beach 1.2 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.2 km"\n  - "Butrint National Park 2.2 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/sea-bellows-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis spacious apartment doesn't just promise comfort; it delivers it with three well-appointed bedrooms, a balcony for soaking in the city's atmosphere, and the convenience of modern living with air conditioning and free WiFi throughout. The inclusion of free private parking adds an extra layer of ease for those exploring the area by car.
 
 Designed for relaxation and convenience, the apartment boasts a fully equipped kitchen, making it a breeze for guests to prepare their meals just the way they like. The living space is complemented by two bathrooms, ensuring privacy and comfort for all guests. Entertainment needs are also met with the provision of a flat-screen TV, perfect for winding down after a day of adventure.
 
 For travelers flying in, Ioannina Airport is the nearest hub, located 95 km away, making Sea Bellows Apartment an accessible choice for both domestic and international visitors. This non-smoking accommodation promises a serene stay, where the delights of Sarandë are just beyond the doorstep, waiting to be discovered.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

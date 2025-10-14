@@ -7,6 +7,9 @@ featuredImage: /images/attractions/durres-amphitheatre.jpg
 images: []
 language: en
 slug: durres-amphitheatre
+seo:
+  metaTitle: "Discover Albania’s Monumental Roman Amphitheatre in Durrës"
+  metaDescription: "Albania’s excavated Durrës Amphitheatre built by Trajan in 100 AD nears restored potential hosting concerts again within its elliptical coliseum ruins."
 ---
 
 Discover Durrës Magnificent Amphitheatre
@@ -37,10 +40,3 @@ Beyond the Amphitheatre: More Treasures Await The Durrës Amphitheatre anchors e
 
 The revitalization initiative reflects proven expertise in reviving important archaeological parks to showcase history, which also aims to reshape how Durrës’s storied assets can form a foundation for a thriving modern identity. While the centuries have cast a shadow, they have not extinguished the cultural wealth deserving attention from all who visit and call Durrës home. The amphitheatre restoration will rightfully restore this monument’s symbolic glory as a centerpiece that locals and tourists should not miss.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

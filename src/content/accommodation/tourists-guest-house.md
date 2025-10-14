@@ -1,26 +1,5 @@
----
-title: Tourists Guest House
-description: "Guests will appreciate the thoughtful amenities provided in select units, including a private entrance, a wardrobe, and a dressing room, ensuring a co..."
-featuredImage: "/images/accommodation/155925542.jpg"
-language: en
-slug: tourists-guest-house
-location: ""
-amenities: []
-images: []
----
-
-Guests will appreciate the thoughtful amenities provided in select units, including a private entrance, a wardrobe, and a dressing room, ensuring a comfortable and private stay. Connectivity is never an issue, as free WiFi is available throughout the property, with some rooms even offering the luxury of a balcony for those who love to start their day with a breath of fresh air.
+---\ntitle: "Tourists Guest House"\ndescription: "Discover the charm of Gjirokastër with a stay at the Tourists Guest House, a serene retreat boasting a lush garden and an inviting terrace."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155925542.jpg?k=1b7d17ccfaabf7c02f9b86529ff55c62dc43e8b8d8a55743d071358ab3b4170a&o=&hp=1"\nlanguage: en\nslug: tourists-guest-house\naddress: "Rruga Alqi Kondi 911, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.07809445\n  lng: 20.1419558\nprice: "US$19"\npriceFrom: 19\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 247\nratings:\n  overall: 9.4\n  location: 9.5\n  cleanliness: 9.4\n  facilities: 8.9\n  value: 9.7\n  comfort: 9.1\n  staff: 9.7\n  wifi: 9.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155925542.jpg?k=1b7d17ccfaabf7c02f9b86529ff55c62dc43e8b8d8a55743d071358ab3b4170a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199572266.jpg?k=ce5d498eb5bb1248847a7dd28ebbb59fa3e762ef5f76ac9321703fe6bfb43182&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155925575.jpg?k=4eb2a58ac99e5c9bade28847bf2a4fef4ecdb8b86653c90f4d22f8ebf8dc9649&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155925583.jpg?k=d43c7869c001491d20b53de992715670f5dbfce722b8b1a05afccce948a28654&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155925534.jpg?k=e546f2e2106d3139ab6ea73da5c5a3199297b6e0be5eb44976476b274e1f8e92&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155925606.jpg?k=f9b381345f683d58c025b3410b5e96949dc4fc61216c38a166fe2aad19c8379b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155925597.jpg?k=867bbe93c1762b06fce21dc17fa27761019b64eb6aef150e7b4c13cf56470572&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155925539.jpg?k=6b2ab1b8b266213e777162c2980c40cb2994fc857d1be6d39e317549ba2b00ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/206981786.jpg?k=2a2b2ab16cb40671912863cb8b69e39be456cfeb10ceff528ce7d7a2e510286d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Standard Twin Room"\nnearbyRestaurants:\n  - "Bukowski Bar 50 m"\n  - "Media Club 300 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Fran"\n    country: "Australia"\n    text: "“Great location, just on the edge of the old town, well set up, clean and comfortable. We would have liked to have stayed an extra night but they were booked.”"\n  - name: "Helen"\n    country: "New Zealand"\n    text: "“I may be doubling up on reviews … location is fabulous but tough walk up hill but that’s Girokaster for you!
+Hosts totally lovely
+Apartment dated but complete fine & workable.”"\n  - name: "Helen"\n    country: "New Zealand"\n    text: "“Location is great for old town. Bit of a hike uphill but it’s a hilly city. Very picturesque. Owners are very kind & friendly. Room was spacious & fairly quiet. Having a kitchen was great although it could be better equipped”"\nbookingURL: "https://www.booking.com/hotel/al/friends-guest-house.en-gb.html?aid=8035640"\nbestFor: "Best for Location"\nbestCategories: "Location"\ncategory: "Location"\n---\n\nGuests will appreciate the thoughtful amenities provided in select units, including a private entrance, a wardrobe, and a dressing room, ensuring a comfortable and private stay. Connectivity is never an issue, as free WiFi is available throughout the property, with some rooms even offering the luxury of a balcony for those who love to start their day with a breath of fresh air.
 
 For those traveling to or from Ioannina, the convenience of being located just 82 km from Ioannina Airport makes the Tourists Guest House an ideal choice. Whether it's the comfort of the well-appointed rooms or the tranquility of the surroundings, this guest house is a delightful base for exploring the rich heritage and natural beauty of Gjirokastër.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

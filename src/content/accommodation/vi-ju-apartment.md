@@ -1,30 +1,7 @@
----
-title: VI-JU Apartment
-description: Guests at VI-JU Apartment are treated to stunning city views, with the historical Former Residence of Enver Hoxha just 1.3 km away and the natural beauty of the
-featuredImage: "/images/accommodation/491427433.jpg"
-language: en
-slug: vi-ju-apartment
-location: ""
-amenities: []
-images: []
----
-
-Guests at VI-JU Apartment are treated to stunning city views, with the historical Former Residence of Enver Hoxha just 1.3 km away and the natural beauty of the Rock of Kavaje 44 km from their doorstep. Connectivity is a breeze, thanks to complimentary WiFi accessible throughout the premises, ensuring that guests remain connected with the world or plan their next adventure in Tirana. The iconic Skanderbeg Square is a short stroll away, less than 1 km, inviting guests to immerse themselves in the local culture and history.
+---\ntitle: "VI-JU Apartment"\ndescription: "VI-JU Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491427433.jpg?k=f7093b19c25e8f681be84d77afc19352376056cb76aed1a6437eadbf5d105ece&o=&hp=1"\nlanguage: en\nslug: vi-ju-apartment\naddress: "Rruga e Kavajës, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.328277\n  lng: 19.812215\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 8.1\nratingWords: "Very Good"\nnumberOfReviews: 16\nratings:\n  overall: 8.1\n  location: 9.1\n  cleanliness: 7.8\n  facilities: 7.3\n  value: 7.3\n  comfort: 8\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491427433.jpg?k=f7093b19c25e8f681be84d77afc19352376056cb76aed1a6437eadbf5d105ece&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/491427429.jpg?k=ff04a1ed6d819432a7c2e5dad3fb9982128981fdc6c6b60da791450cfb94785d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/491427431.jpg?k=cab82a49be87a904f9752c01edab065b51aea4a00c77417dff55a6100d716389&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/491427432.jpg?k=4c596a47eafe3593f6a0cdfe0981246f03719fd7c05e133cf47b3fade34cdc1b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/491427434.jpg?k=49955a5eb2827bd7bd611e93dd551d7bb7cc70ac8bee279c6dd6718374469c40&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Parking"\n  - "Free WiFi"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Studio Apartment"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 750 m"\n  - "Former Residence of Enver Hoxha 900 m"\n  - "Tanners' Bridge 1.2 km"\n  - "Grand Park of Tirana 2.1 km"\n  - "Bunk'Art 1 Museum 4.7 km"\nnearbyRestaurants:\n  - "Pizza Hallall 7 m"\n  - "Bar Kafe 30 m"\nwhatsNearby:\n  - "Sheshi Paris 250 m"\n  - "House of Leaves 400 m"\n  - "National Museum of History Albania 450 m"\n  - "Sheshi Skënderbej 500 m"\n  - "Parku Europa 600 m"\n  - "Skanderbeg Square 600 m"\n  - "Clock Tower Tirana 650 m"\n  - "Rinia Park 650 m"\n  - "Parku Rinia 650 m"\n  - "Sheshi Rekreativ Mine Peza 750 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/vi-ju-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests at VI-JU Apartment are treated to stunning city views, with the historical Former Residence of Enver Hoxha just 1.3 km away and the natural beauty of the Rock of Kavaje 44 km from their doorstep. Connectivity is a breeze, thanks to complimentary WiFi accessible throughout the premises, ensuring that guests remain connected with the world or plan their next adventure in Tirana. The iconic Skanderbeg Square is a short stroll away, less than 1 km, inviting guests to immerse themselves in the local culture and history.
 
 Accommodations at VI-JU are thoughtfully appointed to cater to diverse needs and preferences. Select units feature private entrances, ensuring an exclusive and uninterrupted experience. Each apartment is equipped with modern conveniences, including air conditioning, a flat-screen TV, a washing machine, and a kettle, alongside a fully equipped kitchen, allowing guests the freedom to dine in or entertain. The comfort extends to the private bathrooms available in every unit, ensuring privacy and relaxation.
 
 For those looking to explore Tirana at their own pace, VI-JU Apartment facilitates this with both bicycle and car rental services on-site, providing an easy and convenient way to discover the city's hidden gems. Noteworthy attractions nearby include the House of Leaves, Rinia Park, and the Clock Tower of Tirana, each offering a unique glimpse into the city's rich heritage and lively present.
 
 Situated 15 km from Tirana International Mother Teresa Airport, VI-JU Apartment also offers a paid airport shuttle service, ensuring a smooth transition from arrival to relaxation. This accommodation stands out as a top-tier choice for those who value the blend of strategic location, comprehensive amenities, and the autonomy of apartment living in the exploration of Tirana's charms.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

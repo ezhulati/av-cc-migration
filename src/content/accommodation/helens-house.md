@@ -4,9 +4,17 @@ description: Each apartment at Helen's House is designed to cater to the needs o
 featuredImage: "/images/accommodation/74148734.jpg"
 language: en
 slug: helens-house
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Ksamil"
+amenities:
+  - "Spa"
+  - "Kitchen"
+  - "Balcony"
+  - "TV"
 ---
 
 Each apartment at Helen's House is designed to cater to the needs of families and groups, featuring spacious family rooms that open up to terraces with stunning mountain vistas. The living areas are thoughtfully furnished with comfortable seating and equipped with flat-screen TVs, allowing guests to unwind in style. The convenience of a fully equipped kitchen, including a toaster and fridge, adds a touch of home, while the private bathrooms come with showers and hair dryers, ensuring a comfortable and hassle-free stay.
@@ -17,14 +25,3 @@ Situated merely 700 meters from Coco Beach and less than a kilometer from Ksamil
 
 In summary, Helen's House stands out as a welcoming haven that promises a memorable stay with its combination of serene views, comfortable accommodations, and strategic location close to Ksamil's top beaches.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

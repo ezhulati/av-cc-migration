@@ -1,0 +1,266 @@
+---
+/**
+ * Amenities Grid Component
+ * Display hotel amenities with icons like Booking.com
+ */
+
+interface Props {
+  amenities: string[];
+  language?: string;
+}
+
+const { amenities, language = 'en' } = Astro.props;
+
+// Map amenity keywords to icons and categories
+const amenityIcons: Record<string, { icon: string; category: string }> = {
+  // Essentials
+  'wifi': { icon: 'wifi', category: 'Essentials' },
+  'internet': { icon: 'wifi', category: 'Essentials' },
+  'parking': { icon: 'car', category: 'Essentials' },
+  'air conditioning': { icon: 'wind', category: 'Essentials' },
+  'heating': { icon: 'thermometer', category: 'Essentials' },
+
+  // Kitchen & Dining
+  'kitchen': { icon: 'utensils', category: 'Kitchen' },
+  'breakfast': { icon: 'coffee', category: 'Food & Drink' },
+  'restaurant': { icon: 'restaurant', category: 'Food & Drink' },
+  'bar': { icon: 'glass', category: 'Food & Drink' },
+  'minibar': { icon: 'fridge', category: 'Kitchen' },
+  'fridge': { icon: 'fridge', category: 'Kitchen' },
+  'refrigerator': { icon: 'fridge', category: 'Kitchen' },
+
+  // Entertainment
+  'tv': { icon: 'tv', category: 'Entertainment' },
+  'television': { icon: 'tv', category: 'Entertainment' },
+  'cable': { icon: 'tv', category: 'Entertainment' },
+
+  // Bathroom
+  'shower': { icon: 'shower', category: 'Bathroom' },
+  'bathtub': { icon: 'bath', category: 'Bathroom' },
+  'hairdryer': { icon: 'wind', category: 'Bathroom' },
+  'toiletries': { icon: 'soap', category: 'Bathroom' },
+
+  // Outdoor
+  'pool': { icon: 'pool', category: 'Outdoor' },
+  'swimming pool': { icon: 'pool', category: 'Outdoor' },
+  'garden': { icon: 'tree', category: 'Outdoor' },
+  'terrace': { icon: 'terrace', category: 'Outdoor' },
+  'balcony': { icon: 'balcony', category: 'Outdoor' },
+  'beach': { icon: 'beach', category: 'Outdoor' },
+
+  // Services
+  'room service': { icon: 'service', category: 'Services' },
+  'laundry': { icon: 'laundry', category: 'Services' },
+  'housekeeping': { icon: 'clean', category: 'Services' },
+  'concierge': { icon: 'bell', category: 'Services' },
+  'reception': { icon: 'desk', category: 'Services' },
+  '24-hour': { icon: 'clock', category: 'Services' },
+
+  // Safety
+  'safe': { icon: 'lock', category: 'Safety' },
+  'security': { icon: 'shield', category: 'Safety' },
+  'smoke detector': { icon: 'smoke', category: 'Safety' },
+  'fire extinguisher': { icon: 'fire', category: 'Safety' },
+
+  // Accessibility
+  'elevator': { icon: 'elevator', category: 'Accessibility' },
+  'wheelchair': { icon: 'accessible', category: 'Accessibility' },
+  'accessible': { icon: 'accessible', category: 'Accessibility' },
+
+  // Family
+  'family rooms': { icon: 'users', category: 'Family' },
+  'crib': { icon: 'baby', category: 'Family' },
+  'playground': { icon: 'playground', category: 'Family' },
+
+  // Business
+  'workspace': { icon: 'desk', category: 'Business' },
+  'desk': { icon: 'desk', category: 'Business' },
+  'meeting': { icon: 'meeting', category: 'Business' },
+
+  // Pets
+  'pets': { icon: 'paw', category: 'Pets' },
+  'pet-friendly': { icon: 'paw', category: 'Pets' },
+};
+
+function getAmenityIcon(amenity: string): string {
+  const lowerAmenity = amenity.toLowerCase();
+  for (const [key, value] of Object.entries(amenityIcons)) {
+    if (lowerAmenity.includes(key)) {
+      return value.icon;
+    }
+  }
+  return 'check'; // Default icon
+}
+
+function getAmenityCategory(amenity: string): string {
+  const lowerAmenity = amenity.toLowerCase();
+  for (const [key, value] of Object.entries(amenityIcons)) {
+    if (lowerAmenity.includes(key)) {
+      return value.category;
+    }
+  }
+  return 'Other';
+}
+
+// Group amenities by category
+const groupedAmenities: Record<string, string[]> = {};
+amenities.forEach(amenity => {
+  const category = getAmenityCategory(amenity);
+  if (!groupedAmenities[category]) {
+    groupedAmenities[category] = [];
+  }
+  groupedAmenities[category].push(amenity);
+});
+
+const hasAmenities = amenities && amenities.length > 0;
+---
+
+{hasAmenities && (
+  <section class="amenities-section">
+    <h2>{language === 'sq' ? 'Lehtësirat' : 'Amenities & Facilities'}</h2>
+
+    <div class="amenities-categories">
+      {Object.entries(groupedAmenities).map(([category, items]) => (
+        <div class="amenity-category">
+          <h3 class="category-title">{category}</h3>
+          <div class="amenities-grid">
+            {items.map(amenity => (
+              <div class="amenity-item">
+                <div class="amenity-icon">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="12" cy="12" r="10"></circle>
+                    <path d="M9 12l2 2 4-4"></path>
+                  </svg>
+                </div>
+                <span class="amenity-text">{amenity}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+
+    <button class="show-all-amenities">
+      {language === 'sq' ? 'Shfaq të gjitha lehtësirat' : 'Show all amenities'}
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <polyline points="6 9 12 15 18 9"></polyline>
+      </svg>
+    </button>
+  </section>
+)}
+
+<style>
+  .amenities-section {
+    margin: 3rem 0;
+    padding: 2rem 0;
+    border-top: 1px solid #eee;
+  }
+
+  .amenities-section h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #222;
+    margin-bottom: 1.5rem;
+  }
+
+  .amenities-categories {
+    display: grid;
+    gap: 2rem;
+  }
+
+  .amenity-category {
+    margin-bottom: 1rem;
+  }
+
+  .category-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #222;
+    margin-bottom: 1rem;
+  }
+
+  .amenities-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1rem;
+  }
+
+  .amenity-item {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.75rem;
+    background: #f8f8f8;
+    border-radius: 8px;
+    transition: all 0.2s;
+  }
+
+  .amenity-item:hover {
+    background: #f0f0f0;
+    transform: translateX(4px);
+  }
+
+  .amenity-icon {
+    flex-shrink: 0;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    border-radius: 6px;
+    color: #2e7d32;
+  }
+
+  .amenity-text {
+    font-size: 0.95rem;
+    color: #333;
+  }
+
+  .show-all-amenities {
+    margin-top: 1.5rem;
+    padding: 0.75rem 1.5rem;
+    background: transparent;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: #222;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    transition: all 0.2s;
+  }
+
+  .show-all-amenities:hover {
+    background: #f8f8f8;
+    border-color: #222;
+  }
+
+  /* Mobile Responsive */
+  @media (max-width: 768px) {
+    .amenities-section {
+      margin: 2rem 0;
+      padding: 1.5rem 0;
+    }
+
+    .amenities-section h2 {
+      font-size: 1.25rem;
+    }
+
+    .amenities-grid {
+      grid-template-columns: 1fr;
+      gap: 0.75rem;
+    }
+
+    .amenity-item {
+      padding: 0.6rem;
+    }
+
+    .show-all-amenities {
+      width: 100%;
+      justify-content: center;
+    }
+  }
+</style>

@@ -1,28 +1,7 @@
----
-title: ELMA Guest House
-description: Each room at ELMA Guest House is thoughtfully equipped with modern amenities to ensure a comfortable stay. Guests can enjoy the convenience of air conditioning,
-featuredImage: "/images/accommodation/338445514.jpg"
-language: en
-slug: elma-guest-house
-location: ""
-amenities: []
-images: []
----
-
-Each room at ELMA Guest House is thoughtfully equipped with modern amenities to ensure a comfortable stay. Guests can enjoy the convenience of air conditioning, a flat-screen TV, and complimentary WiFi access. The private bathrooms are well-appointed with showers and slippers, adding a touch of home-like comfort. For those desiring a little extra space, select rooms boast balconies where one can soak in the surrounding natural beauty.
+---\ntitle: "ELMA Guest House"\ndescription: "Discover the charm of ELMA Guest House, a serene haven located in the picturesque town of Përmet."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338445514.jpg?k=d015dcb39aecd61750f43d6a8d29a48be04409325a677e449ca2621c1a5ff855&o=&hp=1"\nlanguage: en\nslug: elma-guest-house\naddress: "Blv Kongres of Permeti, 6401 Përmet, Albania"\ncity: "Përmet"\nlocation: "Përmet"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.22982061\n  lng: 20.35861156\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 27\nratings:\n  overall: 8.8\n  location: 9\n  cleanliness: 9.3\n  facilities: 8.8\n  value: 9.1\n  comfort: 8.7\n  staff: 9.3\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338445514.jpg?k=d015dcb39aecd61750f43d6a8d29a48be04409325a677e449ca2621c1a5ff855&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338445788.jpg?k=87014a0f7d577e023b4c23a426408adf3c148a0efc104c49e65de56eadb61efb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369903929.jpg?k=ce4158160e23f6d4db342dbd271ab1c6297043cea4007e3828eae7c6a43d81c2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338445705.jpg?k=d7c16507140edd6dca782457dde9b2dc787cca5c61af2b0e8c61b28b24f96ed3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438180664.jpg?k=8ed5ac5028d8a2e668c929ef3ccd8127a1afbd70cfd83d931859df9a26e7ae9c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338445838.jpg?k=0396d55985c00c6899d54f16782781c31bbf21ef37aa7a386d37aa7b7df990d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369902247.jpg?k=86c663769d65be16f90230cd2145034acc5db20c7101bbed9b59ffe55f46c6b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438180668.jpg?k=f1560f2196651599b059a579bed28a5201f84a713e6777bf48398bc3212aef51&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438180663.jpg?k=c3ffa4afa5a0252be3b35e331b8a39fbd287a7f42cbea93e259fd1ede2c769a8&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Mountain View"\n  - "Double Room with Balcony"\n  - "Family Room with Private Bathroom"\n  - "Triple Room with Private Bathroom"\nnearbyRestaurants:\n  - "Cabeli 30 m"\n  - "Sky 300 m"\nwhatsNearby:\n  - "Fir of Hotova National Park 17 km"\nairports:\n  - "Ioannina Airport 70 km"\n  - "Corfu International Airport 79 km"\n  - "Kastoria National Airport 81 km"\nreviews:\n  - name: "Tünde"\n    country: "Hungary"\n    text: "“The apartment has a great location, the host was very friendly, helpful and easy to reach if needed. The room was nice and clean, we enjoyed our time there.”"\n  - name: "Luana"\n    country: "Albania"\n    text: "“The rooms are big enough, very clean and comfortable. You will find everything you need from a hotel. Very calm and relaxing place near the center of the city. The owners are really polite and friendly.
+Dhomat jane mjaftueshem te medhaja shume...”"\n  - name: "Julio"\n    country: "Albania"\n    text: "“This place is very comfortable, clean and with all the necessary amenities. The rooms are big enough ant the bathroom also.
+The owners are very friendly and willing to assist with anything needed. I highly recommend this place!!!”"\nbookingURL: "https://www.booking.com/hotel/al/elma-guest-hose.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach room at ELMA Guest House is thoughtfully equipped with modern amenities to ensure a comfortable stay. Guests can enjoy the convenience of air conditioning, a flat-screen TV, and complimentary WiFi access. The private bathrooms are well-appointed with showers and slippers, adding a touch of home-like comfort. For those desiring a little extra space, select rooms boast balconies where one can soak in the surrounding natural beauty.
 
 Beyond the comfort of the rooms, ELMA Guest House features a cozy coffee shop and bar, providing the perfect spot to start the morning with a fresh brew or unwind in the evening with a drink.
 
 Situated 90 km from Ioannina Airport, the guest house is easily accessible, making it an ideal choice for both short getaways and extended stays. Whether visiting Përmet for its natural landscapes or cultural experiences, ELMA Guest House offers a welcoming base to explore all that the area has to offer.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

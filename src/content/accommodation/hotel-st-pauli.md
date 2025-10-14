@@ -1,30 +1,9 @@
----
-title: Hotel St.Pauli
-description: Accommodations at Hotel St.Pauli are thoughtfully designed with guest comfort in mind. Each room is outfitted with a flat-screen cable TV for entertainment need
-featuredImage: "/images/accommodation/525499495.jpg"
-language: en
-slug: hotel-st-pauli
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Hotel St.Pauli"\ndescription: "Hotel St."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525499495.jpg?k=fe0470974271e74e6cd8cea07a5938eef9f6d94b8dd421bc16d3e3c4eb0aed3f&o=&hp=1"\nlanguage: en\nslug: hotel-st-pauli\naddress: "Lagja Mark Lula, Rr Milan Shuflaj, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.05601587\n  lng: 19.51784487\nprice: "US$27"\npriceFrom: 27\nstarRating: 3\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 249\nratings:\n  overall: 8.2\n  location: 7.7\n  cleanliness: 8.1\n  facilities: 8\n  value: 8.5\n  comfort: 8.1\n  staff: 8.5\n  wifi: 8.6\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525499495.jpg?k=fe0470974271e74e6cd8cea07a5938eef9f6d94b8dd421bc16d3e3c4eb0aed3f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382840899.jpg?k=cc3ad2ecdd054dc3d52651a6971d822d4003977794c6317be6c6ce2585c4401a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344099902.jpg?k=7bac5b7481f76942a8cb6f7fdf556faaecb65467cf97ae8a97300c13ec39fa03&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/381450256.jpg?k=c71717504edd5a63e431a3b40a9882a7cdcfc6dd5a45f4a61361635fd88e15de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344100263.jpg?k=c0ceaa1eea47ea8f4878fde80d0c4828ee0c0fc691dc2f311fa4db4aa303f22c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/381444696.jpg?k=82ee97f12c591ef5efa57b9ed5114608c3694876d6794427f074cefa42249bf3&o=&hp=1"\namenities:\n  - "Spa and wellness centre"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Parking on site"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Budget Double Room"\n  - "Deluxe Double Room"\n  - "Triple Room with Bath"\n  - "Deluxe Suite with Spa Bath"\n  - "Budget Double or Twin Room"\n  - "Economy Quadruple Room"\nnearbyRestaurants:\n  - "PJERO 400 m"\n  - "Hotel Bicaj 500 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 2.3 km"\n  - "National Park Skadar Lake 11 km"\nairports:\n  - "Podgorica Airport 39 km"\n  - "Tirana International Airport Mother Teresa 72 km"\n  - "Tivat Airport 75 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Vilada"\n    country: "United States"\n    text: "“I like stay in this hotel because is very clean and quite . Its very nice for relaxing”"\n  - name: "Rebeka"\n    country: "Canada"\n    text: "“Very comfortable and quiet environment.
+The city center is very close and Rozafa Castle as well”"\n  - name: "Fashion"\n    country: "Germany"\n    text: "“The breakfast was delicious.
+Very good location, quiet environment and very close to tourist centers”"\nbookingURL: "https://www.booking.com/hotel/al/vellezerit-delija.en-gb.html?aid=8035640"\nbestFor: "Best for Pet-Friendly Stays"\nbestCategories: "Pet-Friendly Stays"\ncategory: "Pet-Friendly Stays"\n---\n\nAccommodations at Hotel St.Pauli are thoughtfully designed with guest comfort in mind. Each room is outfitted with a flat-screen cable TV for entertainment needs, while select rooms elevate the experience with enchanting views of the garden or the cityscape. A cozy seating area provides a perfect nook for relaxation. The private bathrooms, complete with either a bath or shower, are stocked with slippers and complimentary toiletries, adding a touch of luxury to the stay.
 
-Accommodations at Hotel St.Pauli are thoughtfully designed with guest comfort in mind. Each room is outfitted with a flat-screen cable TV for entertainment needs, while select rooms elevate the experience with enchanting views of the garden or the cityscape. A cozy seating area provides a perfect nook for relaxation. The private bathrooms, complete with either a bath or shower, are stocked with slippers and complimentary toiletries, adding a touch of luxury to the stay.
-
-The convenience of a 24-hour front desk ensures that guests' needs are promptly met at any hour, making for a worry-free stay.
+The convenience of a 24-hour front desk ensures that guests' needs are promptly met at any hour, making for a worry-free stay. 
 
 Situated just a short drive from the historic Rozafa Castle Shkodra (3.3 km) and the serene Lake Skadar (3.9 km), Hotel St.Pauli serves as an ideal base for exploring the local sights. For those traveling further afield, Tirana Airport is 91 km away, making the hotel a convenient stopover or starting point for international travelers.
 
 Hotel St.Pauli, with its blend of essential amenities and prime location, is a standout option for visitors to Shkodër, offering a comfortable and convenient stay in one of Albania's most charming cities.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

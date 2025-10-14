@@ -1,28 +1,6 @@
----
-title: Vila Alpini
-description: The hotel's commitment to guest satisfaction is evident through its comprehensive amenities, including complimentary WiFi accessible throughout the premises and
-featuredImage: "/images/accommodation/501096295.jpg"
-language: en
-slug: vila-alpini
-location: ""
-amenities: []
-images: []
----
-
-The hotel's commitment to guest satisfaction is evident through its comprehensive amenities, including complimentary WiFi accessible throughout the premises and the convenience of free private parking for those arriving by car. The property's garden adds a touch of tranquility, inviting guests to unwind in a peaceful setting.
+---\ntitle: "Vila Alpini"\ndescription: "Vila Alpini stands out as a serene retreat in Razëm, offering a harmonious blend of comfort and natural beauty for travelers seeking tranquility away from the bustling city life."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484400065.jpg?k=7842b69fd5469417f570fc9bc3c5cec1608335e838709d72b2a12ddd87780058&o=&hp=1"\nlanguage: en\nslug: vila-alpini\naddress: "razem, 4305 Razëm, Albania"\ncity: "Razëm"\nlocation: "Razëm"\naccommodationType: "villa"\ncoordinates:\n  lat: 42.34003963\n  lng: 19.55082913\nprice: "US$65"\npriceFrom: 65\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 7\nratings:\n  overall: 9.9\n  location: 10\n  cleanliness: 10\n  facilities: 9.6\n  value: 9.6\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484400065.jpg?k=7842b69fd5469417f570fc9bc3c5cec1608335e838709d72b2a12ddd87780058&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501096295.jpg?k=fab2c307d3724600146d1a96290f93e27098edfc981df75852763826f233be88&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490602552.jpg?k=e754f498f489f2cc5a81b201f5eb1d71fd8517d1bd646a5e8274512e4724c390&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484386585.jpg?k=6fff3202b06af7ed9dc5794757e990f02fa500be714ae3c3e635ce4bfd576167&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490599953.jpg?k=aca629d525227752093ad992e0359c584c39260fe8fa46a7ecff0b5e59a247ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484386559.jpg?k=0b4b51675b0b04160192a6b8b3de8703e9d747b965c178d0a02ca8282e981c11&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Balcony"\n  - "Double Room with Private Bathroom"\n  - "Deluxe Suite"\n  - "Family Room with Balcony"\nnearbyRestaurants:\n  - "Marek Dragani 4.2 km"\n  - "Pizzeri Murati 6 km"\nwhatsNearby:\n  - "National Park Skadar Lake 11 km"\n  - "Theth National Park 16 km"\nairports:\n  - "Podgorica Airport 25 km"\n  - "Tivat Airport 67 km"\nreviews:\n  - name: "Aferdite"\n    country: "Italy"\n    text: "“Ottima e abbondante colazione!
+Profumi piacevoli in stanza e nella biancheria.”"\nbookingURL: "https://www.booking.com/hotel/al/vila-alpini-malesi-e-madhe.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe hotel's commitment to guest satisfaction is evident through its comprehensive amenities, including complimentary WiFi accessible throughout the premises and the convenience of free private parking for those arriving by car. The property's garden adds a touch of tranquility, inviting guests to unwind in a peaceful setting.
 
 Accommodations at Vila Alpini are thoughtfully designed with guest comfort in mind. Rooms are well-appointed with a cozy seating area, a flat-screen TV for entertainment, and a safety deposit box for personal security. The attention to detail extends to the private bathrooms, equipped with a bidet, complimentary toiletries, and a hairdryer, ensuring a comfortable and hassle-free stay. Select rooms elevate the experience further by offering a terrace that opens up to breathtaking mountain views, allowing guests to fully immerse themselves in the natural splendor of the surroundings.
 
 For art enthusiasts and cultural explorers, the proximity to the Modern Art Gallery and the Temple of Christ's Resurrection, both approximately 49 kilometers away, presents an opportunity to delve into the rich cultural tapestry of the area. Moreover, the convenience of being just 45 kilometers from Podgorica Airport makes Vila Alpini an ideal choice for both domestic and international travelers seeking a memorable stay in Razëm.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

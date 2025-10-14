@@ -1,30 +1,7 @@
----
-title: Suka Mkushit
-description: Guests are treated to a spacious layout comprising a separate bedroom, a cozy living room, and a modern bathroom, all designed to ensure a restful stay. Enterta
-featuredImage: "/images/accommodation/524314806.jpg"
-language: en
-slug: suka-mkushit
-location: ""
-amenities: []
-images: []
----
-
-Guests are treated to a spacious layout comprising a separate bedroom, a cozy living room, and a modern bathroom, all designed to ensure a restful stay. Entertainment needs are well catered for with the inclusion of a flat-screen TV, perfect for unwinding after a day of adventure.
+---\ntitle: "Suka Mkushit"\ndescription: "Suka Mkushit emerges as a serene retreat in the heart of Shkodër, Shkoder County, offering guests a blend of comfort and convenience with its well-appointed accommodations and thoughtful amenities."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524314806.jpg?k=07de97328be52dfc577bb5b4c1dccd62f3a7ba5a60bfddba35659af8f94f02d1&o=&hp=1"\nlanguage: en\nslug: suka-mkushit\naddress: "Gropat e selces , Shkoder, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "villa"\ncoordinates:\n  lat: 42.53644334\n  lng: 19.68915018\nprice: "US$75"\npriceFrom: 75\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524314806.jpg?k=07de97328be52dfc577bb5b4c1dccd62f3a7ba5a60bfddba35659af8f94f02d1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524314803.jpg?k=568ad2e2528a4ee223540d913dbc0a6ccd90061605ba0f7d8b5ef8cbb6fda0dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524314793.jpg?k=14cd49b8190269fb9dfab9b15d3864d9d56ffaf3b55bd00cfe057c05705d8449&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524314799.jpg?k=3a61cee2e444e8e144aa3b047e1d32897426020b2c0083696ea3cb7a755ac7f4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524314800.jpg?k=430df138ad0b54fbd56b8ac26442f4378a7a9559ba56bf1f7a1110da9e6cbb85&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524314797.jpg?k=71299175d7d88df97a5f5ce846ceca04de930cea7eb9273a6b867a192ad960d6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524314798.jpg?k=a08fdd8d691db307639e5fa52f79b5b9693ec713a03c80e8444675161db38a4d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524314792.jpg?k=1473b78a2bd134d916424b400f1c0d10a520f7fd300a85df4cabb9fc8a368b34&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517704534.jpg?k=ca6ab663dafa767ec6c0e106207b6e3d18f9958497e4a4b5e8de4bb712fab7d2&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "One-Bedroom Villa"\nnearbyRestaurants:\n  - "Kafe turke 40 m"\n  - "Sebastiani 2.4 km"\nwhatsNearby:\n  - "Prokletije National Park 5 km"\n  - "Theth National Park 9 km"\n  - "Valbona Valley National Park 14 km"\n  - "Theth National Park 16 km"\n  - "Prokletije National Park 19 km"\n  - "Nacionalni Park Prokletije 20 km"\nairports:\n  - "Podgorica Airport 40 km"\n  - "Tivat Airport 80 km"\nbookingURL: "https://www.booking.com/hotel/al/suka-mkushit.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nGuests are treated to a spacious layout comprising a separate bedroom, a cozy living room, and a modern bathroom, all designed to ensure a restful stay. Entertainment needs are well catered for with the inclusion of a flat-screen TV, perfect for unwinding after a day of adventure.
 
 Each morning, the villa delights its guests with a continental breakfast, a delightful way to start the day energized and ready to explore the surrounding beauty. The convenience of free WiFi and private parking adds to the seamless experience, allowing visitors to stay connected and come and go as they please.
 
 The property is not just about its comfortable accommodations; it also boasts a lush garden and an inviting bar, creating a perfect setting for relaxation and socializing.
 
 For those traveling to or from Podgorica, the villa's location is exceptionally convenient, being just 55 km away from Podgorica Airport. Suka Mkushit stands out as a preferred choice for travelers seeking a peaceful escape with easy access to some of the region's most stunning natural attractions.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

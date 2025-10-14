@@ -1,28 +1,5 @@
----
-title: Riviera Rooms
-description: Accommodations at Riviera Rooms are thoughtfully designed, featuring private bathrooms equipped with either a bath or a shower. Select units elevate the experie
-featuredImage: "/images/accommodation/73224003.jpg"
-language: en
-slug: riviera-rooms
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Riviera Rooms are thoughtfully designed, featuring private bathrooms equipped with either a bath or a shower. Select units elevate the experience further, boasting balconies that present breathtaking sea views or private kitchenettes for those preferring a more intimate dining experience.
+---\ntitle: "Riviera Rooms"\ndescription: "Riviera Rooms emerges as a serene retreat, situated just a stone's throw away from the pristine sands of a Himare beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73224003.jpg?k=fc6cad0de8f159f31ac378f6f49e905895cac32f77dd89f4da77e77fb156b1a7&o=&hp=1"\nlanguage: en\nslug: riviera-rooms\naddress: "Road SH8, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.10225513\n  lng: 19.74733091\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 209\nratings:\n  overall: 9.4\n  location: 8.8\n  cleanliness: 9.8\n  facilities: 9.3\n  value: 9.2\n  comfort: 9.6\n  staff: 9.8\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73224003.jpg?k=fc6cad0de8f159f31ac378f6f49e905895cac32f77dd89f4da77e77fb156b1a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176691978.jpg?k=8950e4195458462742b98d5f072f24049b66960aa94bf4f5005dd8f28d9c4722&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73224016.jpg?k=0fd542329801f025eb0798e720e492c6a56d05f4abdd247f885a65749c3b4ed4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/41238692.jpg?k=6fc88ff09ae09130f220933f5712536f79b0061d0a7a5bf30c70caed643917dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/74454958.jpg?k=3887dcdc5b431296ec78fa6d09a593ff1ba85b1c26775f6335ae1be52696fe8e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176691973.jpg?k=683ba33f3601fdca5a896c7856b59eaffe80367c1c4ad18e19ea0847c1c14f53&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176691975.jpg?k=48b79874138da92b0e12ad9b491dc4f0078f59d0bf5bb6810662983c8b2b7245&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176691981.jpg?k=14114ca1f09743990e54b92b41291b71a0459125c423249742584e24ddfe6b59&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176691836.jpg?k=4202077fad2e93062138a35fc1cc7ef69ed2743fb0b741f3a6b4ea4df0addb65&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyBeaches:\n  - "Spille Beach 200 m"\n  - "Maracit Beach 300 m"\n  - "Prinos Beach 500 m"\n  - "Potam Beach 900 m"\n  - "Livadhi Beach 1.4 km"\nreviews:\n  - name: "John"\n    country: "Australia"\n    text: "“Lovely host, picked me up when I arrived and drove me back to the bus stop when I left (so I didn't miss the bus!). The WIFI was good which was important for me to do work. Nice spacious and clean room, the air conditioner worked well, had a...”"\n  - name: "Irena"\n    country: "North Macedonia"\n    text: "“The location is great, sometimes we even listened the sound of the waves. The accomodation was clean and comfortable, the host was very nice. They have their own parking. Highly recommended.”"\n  - name: "Cianti"\n    country: "Taiwan"\n    text: "“The room super clean, and the stuff super friendly !!”"\nbookingURL: "https://www.booking.com/hotel/al/himararooms.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Riviera Rooms are thoughtfully designed, featuring private bathrooms equipped with either a bath or a shower. Select units elevate the experience further, boasting balconies that present breathtaking sea views or private kitchenettes for those preferring a more intimate dining experience.
 
 Beyond the comfort of the rooms, guests have access to a shared terrace and a lush garden, perfect for moments of relaxation or contemplation. The property also addresses practical needs with services such as luggage storage and clothes cleaning, ensuring a hassle-free stay.
 
 Located a mere 50 km from the vibrant city of Sarande, Riviera Rooms offers the added convenience of free private parking, making it an ideal base for exploring the surrounding area. This property stands out as a peaceful oasis, offering a blend of natural beauty, comfort, and convenience for travelers seeking a memorable stay by the sea.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

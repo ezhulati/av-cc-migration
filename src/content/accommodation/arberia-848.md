@@ -1,28 +1,5 @@
----
-title: Arberia 848
-description: "The apartment itself is a testament to modern living, boasting a spacious layout that includes a bedroom, a living room, and a terrace that offers bre..."
-featuredImage: "/images/accommodation/487601026.jpg"
-language: en
-slug: arberia-848
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to modern living, boasting a spacious layout that includes a bedroom, a living room, and a terrace that offers breathtaking sea views. The inclusion of air conditioning, free WiFi, and a flat-screen TV ensures that guests experience the comforts of home while away. The kitchen, equipped with a dishwasher and an oven, adds a touch of convenience for those who prefer to prepare their meals.
+---\ntitle: "Arberia 848"\ndescription: "Arberia 848 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on the Albanian coast."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487601026.jpg?k=604c0508158b6a4371ce20a575de66da0c81a099ebff2cea94dfc22ee402dd7e&o=&hp=1"\nlanguage: en\nslug: arberia-848\naddress: "7GC9+46C, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.2703125\n  lng: 19.5180156\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487601026.jpg?k=604c0508158b6a4371ce20a575de66da0c81a099ebff2cea94dfc22ee402dd7e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482194957.jpg?k=0747f138a10aac4b628a4b609d75992437751a3443e7d54fd44b692559956a5a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482195060.jpg?k=8ade88a296fc9244777e6367d012faa1827440a87f6f9f47261e3608db4c1d5d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482194979.jpg?k=79f1df5f08f67ac53c34f955e4f302f42f3374f9bbd0ce9e929e35440399cb25&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482195039.jpg?k=c88ba2656665208571d550059d5821147d735aeae0a80f5a05b6a40355a64e51&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482195093.jpg?k=10d0e7c38886fa504f7ea41af57dc89ec445f0ac943bc91cad98dc84bc77f190&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482195068.jpg?k=43275c92e70f3f03f9af4850f7b16fc71daaf3b2fbb7b9ae67beb43c4d2655a8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482195020.jpg?k=cf984bf94c7e9e7ee5f21fa8bda93b4a3e28f5ce5fcf91e9dceeb7337525319f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482195014.jpg?k=bd361a527579d218290a5fb94ba0740d88e4cc0ce3726a7b6f118b59037e0038&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Bar Restorant Hotel Arberia 50 m"\n  - "Fresh Fish 100 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 30 m"\n  - "Golem Beach 550 m"\n  - "Durres Beach 1.9 km"\n  - "Mali I Robit Beach 2.5 km"\n  - "Qerret Beach 4.5 km"\nwhatsNearby:\n  - "Bekimi 7 km"\n  - "Durres Amphiteatre 8 km"\n  - "Wine Dhe Pooh 8 km"\n  - "1. Maj 8 km"\n  - "Yje Dhe Hena 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "Sotir Noka 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nbookingURL: "https://www.booking.com/hotel/al/1-bedroom-apartment-848.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to modern living, boasting a spacious layout that includes a bedroom, a living room, and a terrace that offers breathtaking sea views. The inclusion of air conditioning, free WiFi, and a flat-screen TV ensures that guests experience the comforts of home while away. The kitchen, equipped with a dishwasher and an oven, adds a touch of convenience for those who prefer to prepare their meals.
 
 For essentials, the on-site minimarket caters to guests' needs without the necessity to venture far. Those looking to explore beyond the beach will find Skanderbeg Square and the Dajti Ekspres Cable Car within reachable distances, offering a glimpse into Albania's rich culture and stunning landscapes.
 
 Situated 37 km from Tirana International Mother Teresa Airport, Arberia 848 also offers a paid airport shuttle service, making arrivals and departures as smooth as possible. This property stands out not only for its exceptional location and amenities but also for its commitment to providing a smoke-free environment, ensuring a pleasant stay for all guests.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

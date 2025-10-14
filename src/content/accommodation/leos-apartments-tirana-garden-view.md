@@ -4,9 +4,19 @@ description: This exquisite apartment boasts a refreshing balcony view, encapsul
 featuredImage: "/images/accommodation/406538751.jpg"
 language: en
 slug: leos-apartments-tirana-garden-view
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "WiFi"
+  - "Parking"
+  - "Spa"
+  - "Kitchen"
+  - "Balcony"
+  - "TV"
 ---
 
 This exquisite apartment boasts a refreshing balcony view, encapsulating the essence of Tirana's vibrant spirit. Inside, guests are treated to a modern, air-conditioned haven featuring a spacious bedroom, a cozy living room, and a fully equipped kitchen complete with an oven and a coffee machine - perfect for those who enjoy the comforts of home-cooked meals. The inclusion of a sleek bathroom equipped with a bidet and a hairdryer adds to the apartment's appeal, ensuring a comfortable stay.
@@ -19,14 +29,3 @@ Notably, Leo's Apartments Tirana Garden View is surrounded by popular landmarks,
 
 In summary, Leo's Apartments Tirana Garden View presents a compelling choice for travelers seeking a harmonious blend of comfort, convenience, and cultural immersion in the heart of Tirana.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

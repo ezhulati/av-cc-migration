@@ -1,28 +1,5 @@
----
-title: Relax Pine Villa Residence
-description: "This inviting two-bedroom villa is designed with comfort and convenience in mind, featuring a cozy living room equipped with a flat-screen TV, a fully..."
-featuredImage: "/images/accommodation/481547978.jpg"
-language: en
-slug: relax-pine-villa-residence
-location: ""
-amenities: []
-images: []
----
-
-This inviting two-bedroom villa is designed with comfort and convenience in mind, featuring a cozy living room equipped with a flat-screen TV, a fully equipped kitchen ready for culinary adventures with an oven and toaster, and a bathroom complete with slippers for that home-away-from-home feeling. The villa ensures a comfortable stay, providing towels and bed linen for guests.
+---\ntitle: "Relax Pine Villa Residence"\ndescription: "Relax Pine Villa Residence emerges as a serene retreat in the heart of Golem, just a stone's throw away from the pristine Mali I Robit Beach and a short stroll from the bustling Golem Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481547978.jpg?k=085e0af5cdf72604b39c7577b61185a9c10c22d2653faec4c1cd0074fbb10703&o=&hp=1"\nlanguage: en\nslug: relax-pine-villa-residence\naddress: "Golem,, Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.24310951\n  lng: 19.52012898\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481547978.jpg?k=085e0af5cdf72604b39c7577b61185a9c10c22d2653faec4c1cd0074fbb10703&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481548096.jpg?k=d84d80142730ec561d6a6bba683e94ee19d7e7a69072301bef3baa3d050f0882&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483708660.jpg?k=d0077f79bcefa1a6d5da378beb310b460b6d0b2a22a27802cd14e02d8c92dcc8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481548074.jpg?k=87ff6d1f38fc594fb1366fac692c672250ccbaf3515ace03d4a6152d0133a5a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483708731.jpg?k=9b9a8a6eab56638c2d40be163440aa0e0e912132e9971139cb553e8898835306&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481548066.jpg?k=5432867659cc430c0a0d2993bdd017157a2ad102c999510948532512158db713&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481548052.jpg?k=4e3e87e3ce2611b97b38a009835edb1b88ccc3be2df01f7393d7c3845b04d9b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483709075.jpg?k=476fdf6e59ab68c58a03041af0793384e7f2c834b6b2bc58bf65fed80af4a8e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483709139.jpg?k=cbab65160f4eeb30c9801b51c947d98e994ca556f0cba04a3c86e9a69abd5780&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Serena 150 m"\n  - "Primo Restorant Golem 300 m"\nnearbyBeaches:\n  - "Mali I Robit Beach 150 m"\n  - "Golem Beach 550 m"\n  - "Qerret Beach 1.5 km"\n  - "Shkëmbi i Kavajës Beach 2.5 km"\n  - "Durres Beach 4.8 km"\nwhatsNearby:\n  - "Durres Amphiteatre 10 km"\n  - "1. Maj 10 km"\n  - "Wine Dhe Pooh 10 km"\n  - "Bekimi 10 km"\n  - "Yje Dhe Hena 10 km"\n  - "Sheshi Demokracia 10 km"\n  - "Sotir Noka 11 km"\nairports:\n  - "Tirana International Airport Mother Teresa 24 km"\nbookingURL: "https://www.booking.com/hotel/al/relax-pine-villa-residence-golem.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis inviting two-bedroom villa is designed with comfort and convenience in mind, featuring a cozy living room equipped with a flat-screen TV, a fully equipped kitchen ready for culinary adventures with an oven and toaster, and a bathroom complete with slippers for that home-away-from-home feeling. The villa ensures a comfortable stay, providing towels and bed linen for guests.
 
 Beyond the comfort of the villa, guests can enjoy al fresco dining in the outdoor dining area, surrounded by the tranquil beauty of the garden. The property also boasts an outdoor fireplace, perfect for cooler evenings under the stars. With the added benefits of complimentary WiFi and private parking, guests are assured a hassle-free stay.
 
 For those keen to explore the local area, the Rock of Kavaje is just 5.2 km away, offering a glimpse into the region's natural beauty. Meanwhile, history enthusiasts will appreciate the proximity to the Former Residence of Enver Hoxha, located 47 km from the villa. Conveniently, Tirana International Mother Teresa Airport is only 41 km away, making Relax Pine Villa Residence an ideal choice for both leisure and exploration in this captivating part of Golem.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

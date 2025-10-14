@@ -1,30 +1,9 @@
----
-title: LETI APARTAMENTS KAVAJA ST
-description: The apartment itself boasts air-conditioned living spaces, complete with a welcoming balcony that invites guests to unwind after a day of exploration. The inter
-featuredImage: "/images/accommodation/41b962c4f1fcefa6bb9c4a8bc7bfed064a71691b.png"
-language: en
-slug: leti-apartaments-kavaja-st
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself boasts air-conditioned living spaces, complete with a welcoming balcony that invites guests to unwind after a day of exploration. The interior is thoughtfully designed, featuring a fully equipped kitchen with modern appliances such as a microwave and fridge, ensuring that guests feel right at home. The living area, adorned with a flat-screen TV and comfortable seating, provides a perfect setting for relaxation, while the bathroom is well-appointed with a shower, catering to the needs of modern travelers.
+---\ntitle: "LETI APARTAMENTS KAVAJA ST"\ndescription: "LETI APARTAMENTS KAVAJA ST emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-h/41b962c4f1fcefa6bb9c4a8bc7bfed064a71691b.png"\nlanguage: en\nslug: leti-apartaments-kavaja-st\naddress: "Rruga e Kavajës, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32772036\n  lng: 19.81271085\nprice: "US$51"\npriceFrom: 51\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 12\nratings:\n  overall: 8.9\n  location: 9.4\n  cleanliness: 8.9\n  facilities: 8.4\n  value: 8.9\n  comfort: 9.1\n  staff: 8.9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-h/41b962c4f1fcefa6bb9c4a8bc7bfed064a71691b.png"\n  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"\n  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397647193.jpg?k=536da923b0ff884290f6ba64ef437c7d60bb94b537849d7e1634c7097cf06796&o=&hp=1"\namenities:\n  - "Private parking"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Former Residence of Enver Hoxha 850 m"\n  - "Tanners' Bridge 1.1 km"\n  - "Grand Park of Tirana 2.1 km"\n  - "Bunk'Art 1 Museum 4.7 km"\nnearbyRestaurants:\n  - "Vila 77 50 m"\n  - "Royal Fish&Chicken 50 m"\nwhatsNearby:\n  - "Sheshi Paris 250 m"\n  - "House of Leaves 350 m"\n  - "National Museum of History Albania 450 m"\n  - "Sheshi Skënderbej 450 m"\n  - "Parku Europa 550 m"\n  - "Skanderbeg Square 550 m"\n  - "Rinia Park 550 m"\n  - "Clock Tower Tirana 600 m"\n  - "Parku Rinia 600 m"\n  - "National Gallery of Arts Tirana 700 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Hüseyin"\n    country: "Germany"\n    text: "“Super modern und sauber
+Besser ausgestattet als so manches Cityhotel
+Personal sehr freundlich”"\n  - name: "Jennifer"\n    country: "Germany"\n    text: "“Tolle geräumige Unterkunft in super Lage. 5min zum skënderbej square, Busstation um die Ecke und Einkaufsmöglichkeiten gut zu erreichen. Spontanes Anreisen war kein Problem. Preis-Leistung top.”"\nbookingURL: "https://www.booking.com/hotel/al/leti-apartaments-kavaja-st.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself boasts air-conditioned living spaces, complete with a welcoming balcony that invites guests to unwind after a day of exploration. The interior is thoughtfully designed, featuring a fully equipped kitchen with modern appliances such as a microwave and fridge, ensuring that guests feel right at home. The living area, adorned with a flat-screen TV and comfortable seating, provides a perfect setting for relaxation, while the bathroom is well-appointed with a shower, catering to the needs of modern travelers.
 
 For those who prefer the convenience of preparing their own meals, a minimarket on the premises offers a selection of essentials. This adds an extra layer of ease for guests, making their stay even more comfortable.
 
 The apartment's location is unbeatable for those keen to delve into the cultural heartbeat of Tirana. Notable landmarks such as Skanderbeg Square, the Former Residence of Enver Hoxha, and Rinia Park are within easy reach, making it effortless for guests to immerse themselves in the local culture and history. Moreover, with Tirana International Mother Teresa Airport just 16 km away, LETI APARTAMENTS KAVAJA ST stands out as a convenient gateway for international travelers.
 
 In summary, LETI APARTAMENTS KAVAJA ST offers a harmonious blend of comfort, convenience, and cultural immersion, making it an ideal choice for those looking to experience the best of Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

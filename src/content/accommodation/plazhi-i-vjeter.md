@@ -1,26 +1,3 @@
----
-title: Plazhi i vjeter
-description: The accommodation itself is thoughtfully designed, featuring a bedroom that promises restful nights, a fully equipped kitchen for those who enjoy crafting their
-featuredImage: "/images/accommodation/473766186.jpg"
-language: en
-slug: plazhi-i-vjeter
-location: ""
-amenities: []
-images: []
----
-
-The accommodation itself is thoughtfully designed, featuring a bedroom that promises restful nights, a fully equipped kitchen for those who enjoy crafting their meals, and a modern bathroom. Entertainment needs are also well catered for with the inclusion of a flat-screen TV, ensuring guests have access to their favorite shows and movies after a day of exploration.
+---\ntitle: "Plazhi i vjeter"\ndescription: "Plazhi i Vjeter stands out as a prime choice for travelers seeking comfort and convenience in Vlorë, located just a short stroll from Vjetër Beach and within easy reach of Vlore Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473766186.jpg?k=6f4bba68bec9ae0b2abcced09d15cdd2076264436f6410eed0d1d9194e75e96e&o=&hp=1"\nlanguage: en\nslug: plazhi-i-vjeter\naddress: "Rruga Gjergj Kastrioti, 9440 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45661618\n  lng: 19.48172169\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473766186.jpg?k=6f4bba68bec9ae0b2abcced09d15cdd2076264436f6410eed0d1d9194e75e96e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473766217.jpg?k=671bb305ff9192d976159256709ae21f24b13d4de0ba10b8b7503a7b74d0545f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473766231.jpg?k=7a3a7767a63f0f5006d2d1861b4e40685c52641ebb6a3e8d608dd484449b47cd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473766232.jpg?k=767936aa6af4e7c36998d9ce8b3fa92269ed288b4b4c841ac890f6787154da2a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473766212.jpg?k=8fbcf5b5c6cd8088791a9f689ab7635f57b7b0d95390f0927af093d2084ca809&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473766226.jpg?k=c25e5154be8bc539d32cc7e9d3d80db5f81ed25a0f8e18d1bbfec814869223e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473766222.jpg?k=84c19deb438f37b75b1fc3b4d72ca81460cea7ca0aa74927ffec6e672fe65c81&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473766228.jpg?k=926e6d25316c6ebffcd809291fd671bca69b365c1916d9bd23e7bf20476fc91d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473766214.jpg?k=0600aec4f015f92a0e6c5dfb55bea667566af1697fa38653483bafe8c48e91bc&o=&hp=1"\namenities:\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Bar Piazza 30 m"\n  - "Cafe Napoli 100 m"\nnearbyBeaches:\n  - "Vjetër Beach 400 m"\n  - "Vlore Beach 1.4 km"\n  - "Ri Beach 2.6 km"\n  - "Beach at Government Villas 4.1 km"\n  - "Liro Beach 4.6 km"\nwhatsNearby:\n  - "Kuzum Baba 1.6 km"\n  - "Independence Square 1.8 km"\n  - "Scooby Doo Vlore 2.5 km"\nbookingURL: "https://www.booking.com/hotel/al/plazhi-i-vjeter.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodation itself is thoughtfully designed, featuring a bedroom that promises restful nights, a fully equipped kitchen for those who enjoy crafting their meals, and a modern bathroom. Entertainment needs are also well catered for with the inclusion of a flat-screen TV, ensuring guests have access to their favorite shows and movies after a day of exploration.
 
 For those traveling to the area via air, the convenience of being 150 km from Tirana International Mother Teresa Airport adds to the appeal, making Plazhi i Vjeter a compelling choice for both short and extended stays in Vlorë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

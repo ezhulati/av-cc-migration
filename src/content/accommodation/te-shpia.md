@@ -1,26 +1,3 @@
----
-title: Te SHPIA
-description: A mere 30 km from the historic Rozafa Castle Shkodra and 32 km from the breathtaking Lake Skadar, Te SHPIA serves as an ideal base for exploring the natural and
-featuredImage: "/images/accommodation/481848125.jpg"
-language: en
-slug: te-shpia
-location: ""
-amenities: []
-images: []
----
-
-A mere 30 km from the historic Rozafa Castle Shkodra and 32 km from the breathtaking Lake Skadar, Te SHPIA serves as an ideal base for exploring the natural and cultural wonders of the area. The property itself boasts a thoughtful layout, featuring two cozy bedrooms, a fully equipped kitchen for those who love to prepare their meals, and a modern bathroom. Entertainment needs are met with the inclusion of a flat-screen TV, ensuring that guests have access to leisure even while indoors.
+---\ntitle: "Te SHPIA"\ndescription: "Te SHPIA, located in the serene Shkoder County region of Baks-Rrjoll, presents an idyllic retreat for travelers seeking tranquility and natural beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481848125.jpg?k=a650a8f78c0aa6bd751d033e296a9cc4fbb2237a729b1c32b728fafc69465084&o=&hp=1"\nlanguage: en\nslug: te-shpia\naddress: "Rruga Baks Rrjoll, Baks-Rrjoll, Albania"\ncity: "Baks-Rrjoll"\nlocation: "Baks-Rrjoll"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.85704798\n  lng: 19.49151858\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481848125.jpg?k=a650a8f78c0aa6bd751d033e296a9cc4fbb2237a729b1c32b728fafc69465084&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/481848155.jpg?k=71726827da60e9bc50be488e687221d37a190c3d6198e36b26619772cc905a17&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/481848159.jpg?k=f67df344a5878bc3bd5caea696873261b844636c2589635a34cb64932bc700d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/481848163.jpg?k=9816b1e691bc784f152d6ddca79cd34498d1f73b91769cf459409b18fd4974e0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/481848173.jpg?k=1e7266feed9f0401b6b1cf36acef7cc6059780e72485e469d6d3a136cbf5827c&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom House"\nnearbyRestaurants:\n  - "Kafe 1.9 km"\n  - "Viluni 3.8 km"\nnearbyBeaches:\n  - "Rana e Hedhun Beach 750 m"\n  - "Velipoja Beach 3.6 km"\n  - "Shëngjin Beach 10 km"\nwhatsNearby:\n  - "Copacabana 16 km"\n  - "Cola Beach 17 km"\n  - "Imperiam Beach 18 km"\n  - "Msm Beach 19 km"\n  - "Tropicana 19 km"\n  - "Plaža Safari 20 km"\nairports:\n  - "Tirana International Airport Mother Teresa 51 km"\n  - "Podgorica Airport 58 km"\n  - "Tivat Airport 86 km"\nbookingURL: "https://www.booking.com/hotel/al/te-shpia-baks-rrjoll.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nA mere 30 km from the historic Rozafa Castle Shkodra and 32 km from the breathtaking Lake Skadar, Te SHPIA serves as an ideal base for exploring the natural and cultural wonders of the area. The property itself boasts a thoughtful layout, featuring two cozy bedrooms, a fully equipped kitchen for those who love to prepare their meals, and a modern bathroom. Entertainment needs are met with the inclusion of a flat-screen TV, ensuring that guests have access to leisure even while indoors.
 
 For those traveling to or from the region, the proximity to Tirana International Mother Teresa Airport, located 84 km away, adds an extra layer of convenience to the stay at Te SHPIA. This holiday home is a top choice for travelers looking for a blend of comfort, convenience, and the opportunity to immerse themselves in the natural beauty of Baks-Rrjoll.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

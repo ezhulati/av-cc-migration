@@ -1,30 +1,7 @@
----
-title: Camping SuperPanorama
-description: Guests at Camping SuperPanorama are treated to more than just a place to stay; they are welcomed into a verdant garden setting that promises relaxation and reju
-featuredImage: "/images/accommodation/480818542.jpg"
-language: en
-slug: camping-superpanorama
-location: ""
-amenities: []
-images: []
----
-
-Guests at Camping SuperPanorama are treated to more than just a place to stay; they are welcomed into a verdant garden setting that promises relaxation and rejuvenation. The facility prides itself on offering complimentary WiFi and private parking, ensuring that guests' needs are met with the utmost convenience.
+---\ntitle: "Camping SuperPanorama"\ndescription: "Camping SuperPanorama stands out as a serene oasis in Kukës, offering a unique blend of natural beauty and convenience for travelers seeking an escape from the ordinary."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480818542.jpg?k=fda7f6bbfb61134b75e9afd7dc8247be51865a6d584a02f6be44d567c26ac0ba&o=&hp=1"\nlanguage: en\nslug: camping-superpanorama\naddress: "Bushat Sh32 Bushat, Kukës, 8501 Kukës, Albania"\ncity: "Kukës"\nlocation: "Kukës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.01603852\n  lng: 20.39466136\nprice: "US$19"\npriceFrom: 19\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 4\nratings:\n  overall: 9.6\n  location: 8.8\n  cleanliness: 9.4\n  facilities: 10\n  value: 9.4\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480818542.jpg?k=fda7f6bbfb61134b75e9afd7dc8247be51865a6d584a02f6be44d567c26ac0ba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480836794.jpg?k=346bc9fe883c0fae2c1cf46dc6cfd4cb2c8f919cd83ffa6ca0d98bd454cf4985&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505009838.jpg?k=8f614d7cff26c9819eb44096d1bb046ee1883bc81a211c10b7c5f83a5966eb7a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480835202.jpg?k=ad5cdf02140166f19d890d39c69827991d23210ed677f6c811b522f53d934761&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505009462.jpg?k=2096e9b25b1e558850b84d811464ced3d03226f2b53d10a1d8db5327b081d95e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480835984.jpg?k=dbac53eb22b1b36bb4227737fbc6f6732e4a5f55202542599c25d12bfdeda45b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480834558.jpg?k=75a31dfd0218963deeda0aff73a7c10e3484838d05b394b1b6fab125432acc70&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480835391.jpg?k=1553e99c8b81252ad1659865ccaa242b9c953038af2e9f081ab5ca562c575be6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480834774.jpg?k=83ae5bdbadbc185e5178784d2eb59bf696dc2dbbe634b47938894d4395116fcb&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Tent"\nnearbyRestaurants:\n  - "Ardoni 7 km"\n  - "Lugina e Drinit 7 km"\nwhatsNearby:\n  - "Partia Socialiste Kukes 7 km"\n  - "Brekija Perla Kuksiane 8 km"\nairports:\n  - "Pristina International Airport 80 km"\n  - "Tirana International Airport Mother Teresa 86 km"\n  - "Ohrid Airport 96 km"\nreviews:\n  - name: "Pauline"\n    country: "France"\n    text: "“Beautiful view, nice room, lovely house, really clean”"\n  - name: "Miguel"\n    country: "Germany"\n    text: "“It's a beautiful place in a very scenery landscape. I got welcomed super friendly, got served some local food and had a good sleep.”"\nbookingURL: "https://www.booking.com/hotel/al/tenda-superpanorama.en-gb.html?aid=8035640"\nbestFor: "Best for Panoramic Views"\nbestCategories: "Panoramic Views"\ncategory: "Panoramic Views"\n---\n\nGuests at Camping SuperPanorama are treated to more than just a place to stay; they are welcomed into a verdant garden setting that promises relaxation and rejuvenation. The facility prides itself on offering complimentary WiFi and private parking, ensuring that guests' needs are met with the utmost convenience.
 
 Accommodations at the campground are thoughtfully equipped with essential amenities to enhance the stay experience. The shared bathroom facilities are modern and include a shower, while all units are provided with bed linen and towels, reflecting the campground's commitment to comfort.
 
 For those looking to unwind, the property boasts a terrace that offers panoramic views of the surrounding landscape, as well as a bar where guests can enjoy a selection of drinks in a convivial atmosphere.
 
 Situated 116 km from Pristina International Airport, Camping SuperPanorama represents an ideal choice for travelers in search of a tranquil retreat that does not compromise on accessibility to notable landmarks and essential services.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

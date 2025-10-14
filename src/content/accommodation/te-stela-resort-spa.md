@@ -1,15 +1,4 @@
----
-title: Te Stela Resort & SPA
-description: "Brightly decorated rooms equipped with air conditioning, LCD satellite TV, and in some cases, a private balcony, provide a comfortable and inviting atmosphere."
-featuredImage: "/images/accommodation/112277465.jpg"
-language: en
-slug: te-stela-resort-spa
-location: ""
-amenities: []
-images: []
----
-
-Brightly decorated rooms equipped with air conditioning, LCD satellite TV, and in some cases, a private balcony, provide a comfortable and inviting atmosphere. Each room boasts a well-appointed bathroom complete with a shower and essential amenities, ensuring a pleasant stay.
+---\ntitle: "Te Stela Resort & SPA"\ndescription: "Discover a hidden gem along the SH2 Motorway that links Tiranë and Durrës, where modern amenities meet leisure and relaxation at Te Stela Resort & SPA."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/112277465.jpg?k=8d5b5c7b827f4b2cff79ff2e18b7a1f7e2770d55e8155a7df1de8f871ee63584&o=&hp=1"\nlanguage: en\nslug: te-stela-resort-spa\naddress: "Autostrada Tiranë - Durrës, km 7, 1000 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "resort"\ncoordinates:\n  lat: 41.35610695\n  lng: 19.74521041\nprice: "US$62"\npriceFrom: 62\nstarRating: 4\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 453\nratings:\n  overall: 8.4\n  location: 7.9\n  cleanliness: 8.5\n  facilities: 8.5\n  value: 8.5\n  comfort: 8.6\n  staff: 8.7\n  wifi: 8.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/112277465.jpg?k=8d5b5c7b827f4b2cff79ff2e18b7a1f7e2770d55e8155a7df1de8f871ee63584&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/48519696.jpg?k=9c62579b555a5a0aba46dfd50a05fde60318388ddf252dc355057cacf529c61d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15706911.jpg?k=7606f4785081aed18d90a6c6371836505d607f778e970470c43988bd5c9f4124&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/121265664.jpg?k=994086b99d7726c7a6552e84a152a34135858b6d21e93d2cfe95cc97d49431e2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/79647539.jpg?k=2802ea0857526924e62ae1658753d358d730fb761929d3893b79fa05ac5146d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/112272087.jpg?k=ee7ce81aea2da0686e9171343e7c0528466166f5d068aeef991b94d3f906a2bb&o=&hp=1"\namenities:\n  - "2 swimming pools"\n  - "Airport shuttle"\n  - "Spa and wellness centre"\n  - "Non-smoking rooms"\n  - "Fitness centre"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Bar"\n  - "Good breakfast"\nroomTypes:\n  - "Superior Double Room"\n  - "Superior Twin Room"\nnearbyAttractions:\n  - "National Museum of History Albania 7 km"\n  - "House of Leaves 7 km"\n  - "Skanderbeg Square 7 km"\n  - "Clock Tower Tirana 7 km"\n  - "Rinia Park 7 km"\n  - "National Gallery of Arts Tirana 7 km"\n  - "Former Residence of Enver Hoxha 7 km"\n  - "Tanners' Bridge 8 km"\n  - "Grand Park of Tirana 8 km"\n  - "Bunk'Art 1 Museum 10 km"\nnearbyRestaurants:\n  - "Kolonat 250 m"\n  - "Grill & Souvlaki Stop 250 m"\nwhatsNearby:\n  - "Shesh Rekreativ Yzberisht 4 km"\n  - "Park Lojrash 4.1 km"\n  - "Sheshi Rekreativ Lord Bajron 4.5 km"\n  - "Sheshi Xhuzepe Garibaldi 5 km"\n  - "Sheshi Rekreativ Parku 1Km 5 km"\n  - "Sheshi Rekreativ Kombinat 5 km"\n  - "Sheshi Rekreativ Pallati me Shigjeta 5 km"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 6 km"\n  - "Sheshi Rekreativ Don Bosko 6 km"\n  - "Sheshi Rekreativ Mine Peza 6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 5 km"\n  - "Ohrid Airport 86 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Tracey"\n    country: "United Kingdom"\n    text: "“Lovely hotel staff were fantastic facilities were amazing couldn’t have asked for better will definitely be back”"\n  - name: "Igor"\n    country: "Montenegro"\n    text: "“A great hotel for family vacation. The room was good, spa was great, children playground available. Mall is very close to hotel.”"\n  - name: "Mary-ann"\n    country: "United Kingdom"\n    text: "“The room and toilet was very neat, air condition worked well and the staffs at the reception were very friendly and helpful. I only had Issues with the two guys at the bar who were quite rude and acted like racist.”"\nbookingURL: "https://www.booking.com/hotel/al/te-stela-resort.en-gb.html?aid=8035640"\nbestFor: "Best for Resort Experience"\nbestCategories: "Resort Experience"\ncategory: "Resort Experience"\n---\n\nBrightly decorated rooms equipped with air conditioning, LCD satellite TV, and in some cases, a private balcony, provide a comfortable and inviting atmosphere. Each room boasts a well-appointed bathroom complete with a shower and essential amenities, ensuring a pleasant stay.
 
 For those looking to enhance their wellness and fitness during their stay, Te Stela Resort doesn't disappoint. Although some facilities and activities come with an additional fee, the options are vast. Guests can unwind at the outdoor pool, complete with a bar and adjacent restaurant, or opt for the indoor spa center, which offers a range of treatments, two indoor pools, and classes in aerobics and ballroom dancing.
 
@@ -18,19 +7,3 @@ Setting this resort apart is its unique ownership by the Birra Stela beer compan
 Conveniently located just 500 meters from the bustling QTU Shopping Centre, and with local buses to the city center stopping by every half hour, guests can easily explore the area or reach Tiranë's heart within 15 minutes. The resort is also a mere 9 km from Tiranë International Airport, making it an accessible choice for both local and international travelers.
 
 Te Stela Resort & SPA stands as a testament to thoughtful hospitality, where every detail is designed to ensure guests' comfort and enjoyment. Whether you're in Albania for business or leisure, this resort promises a memorable stay filled with relaxation, discovery, and perhaps, a newfound appreciation for beer.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

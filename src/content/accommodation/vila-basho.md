@@ -1,26 +1,3 @@
----
-title: Vila Basho
-description: The property is equipped with a selection of rooms, some of which feature a fully equipped kitchen, complete with an oven and stovetop, ideal for those who pref
-featuredImage: "/images/accommodation/354123794.jpg"
-language: en
-slug: vila-basho
-location: ""
-amenities: []
-images: []
----
-
-The property is equipped with a selection of rooms, some of which feature a fully equipped kitchen, complete with an oven and stovetop, ideal for those who prefer to prepare their meals. All units are air-conditioned, ensuring comfort regardless of the season, and come with a TV for entertainment. The private bathrooms are well-appointed with a bidet and complimentary toiletries, adding an extra layer of convenience.
+---\ntitle: "Vila Basho"\ndescription: "Vila Basho emerges as a serene retreat in Sarandë, positioned a mere 2."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354123794.jpg?k=fbe2c51cc55881281090c8687964f599e9e657451c594599c5fafca1f3dbf5df&o=&hp=1"\nlanguage: en\nslug: vila-basho\naddress: "Rruga Adem Sheme, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.88474547\n  lng: 19.99803583\nprice: "US$29"\npriceFrom: 29\nstarRating: 3\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 21\nratings:\n  overall: 7.5\n  location: 6.2\n  cleanliness: 8.1\n  facilities: 7.3\n  value: 7.4\n  comfort: 7.9\n  staff: 7.9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354123794.jpg?k=fbe2c51cc55881281090c8687964f599e9e657451c594599c5fafca1f3dbf5df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/475007291.jpg?k=243225763f87769d6e00b455f8f155156c3b17ddcfd3274ce90b57b115251932&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/475005954.jpg?k=9659689af247ae35297b7530a4473a76a458ac04493ab3e17fb67bf198d34111&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/477214668.jpg?k=d2a4751f923a120b64eaa85954e8cbae5f5c76e66877c647efcd2e64792d61bd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475009663.jpg?k=1dd09745d533e807a5c57c8b280e8068986d0a4a51fcbf3a0deb198fce2a6015&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475005700.jpg?k=d27221b6781d2b3a25af1bd1f9049c20017fd7772b71c10fb94274bf6e3441e2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/477215602.jpg?k=041f151c8d6dd4f4ae5448dd1ab8582f9f05385f64aaf19c0cfc2dfdaaca9345&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Free parking"\n  - "Family rooms"\n  - "Terrace"\nroomTypes:\n  - "Studio Apartment"\n  - "Duplex Apartment"\n  - "Duplex Apartment"\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Coffee House 800 m"\n  - "Ali Pasha 1,000 m"\nnearbyBeaches:\n  - "Sarande Main Beach 1.5 km"\n  - "Saranda City Beach 1.6 km"\n  - "Saranda Bay Beach 1.7 km"\n  - "La Petite Beach 2.3 km"\n  - "Maestral Beach 2.5 km"\nwhatsNearby:\n  - "Parc National de Butrint 3.7 km"\n  - "Butrint National Park 4.5 km"\n  - "Plazhi I Krorezes 9 km"\n  - "Parku Kombetar I Butrintit 13 km"\n  - "Butrint National Park 14 km"\nairports:\n  - "Corfu International Airport 31 km"\n  - "Ioannina Airport 72 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/vila-basho-sarande.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe property is equipped with a selection of rooms, some of which feature a fully equipped kitchen, complete with an oven and stovetop, ideal for those who prefer to prepare their meals. All units are air-conditioned, ensuring comfort regardless of the season, and come with a TV for entertainment. The private bathrooms are well-appointed with a bidet and complimentary toiletries, adding an extra layer of convenience.
 
 For moments of relaxation, guests are invited to unwind in the property's lush garden, a perfect setting for a peaceful retreat. Vila Basho's location is not only close to Sarande Main Beach, which is 2.8 km away, but also offers easy access to the natural beauty of Butrint National Park, located 18 km from the accommodation. For those traveling from afar, Ioannina Airport is the nearest, situated 98 km away, making Vila Basho an accessible choice for both local and international travelers seeking a tranquil escape in Sarandë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,7 @@
----
-title: Sofo Hotel Dhermi
-description: Accommodations at Sofo Hotel Dhermi are thoughtfully designed with the guest's utmost comfort in mind. Each room is equipped with modern amenities including a f
-featuredImage: "/images/accommodation/161547119.jpg"
-language: en
-slug: sofo-hotel-dhermi
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Sofo Hotel Dhermi are thoughtfully designed with the guest's utmost comfort in mind. Each room is equipped with modern amenities including a flat-screen TV and a wardrobe for personal belongings. The en-suite bathrooms boast a bidet, hairdryer, and complimentary slippers, ensuring a stay that combines both luxury and practicality.
+---\ntitle: "Sofo Hotel Dhermi"\ndescription: "Sofo Hotel Dhermi emerges as a prime choice for travelers seeking comfort and convenience in the heart of Dhërmi, merely a stone's throw away from the pristine Dhermi Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/161547119.jpg?k=d35facb3285804b23273cdf07c4bc7a61c5d5fbc1d2e856c9c7cf705a1c470fb&o=&hp=1"\nlanguage: en\nslug: sofo-hotel-dhermi\naddress: "\"Megali Hora\" nr 25, Kampi i Vjeter, 9422 Dhërmi, Albania"\ncity: "Dhërmi"\nlocation: "Dhërmi"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.14665585\n  lng: 19.63460143\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 212\nratings:\n  overall: 9.3\n  location: 9.1\n  cleanliness: 9.5\n  facilities: 9.2\n  value: 9.2\n  comfort: 9.5\n  staff: 9.3\n  wifi: 9.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/161547119.jpg?k=d35facb3285804b23273cdf07c4bc7a61c5d5fbc1d2e856c9c7cf705a1c470fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353944380.jpg?k=1bc553ddfb1034518d46dae6743caa887253f3ff6afef3c0fefc7713db5afa3a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/174294836.jpg?k=8f0c350a16cf572393a6bee8affbc7a7078a47593a26ba543d78eed9c8cf0c91&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155796553.jpg?k=1da8f240c36eed427d83eb0932413bd4db09d55fdf2ab21828fcc24ff8f3da88&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356973816.jpg?k=a26cef5dcbd48e43c224948506e8e8132261632e9b1f04048227c17f2f574c80&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155794883.jpg?k=12f0692eef7ec249f31dce9dbd4d5893df36da00810b4e1f66688e1ca71c6320&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356974022.jpg?k=8b2e041bd8b770237c8388487c6490685bfc00127a550562e7c60f28051db8df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356973919.jpg?k=58f808a098bab1818521914bf284f5dc4ae773a002e8941809737fc849f600bd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356973700.jpg?k=cfa39f17354642ab0103ca1878773fa93a625dea2ab18525f2db9aeb88bb343e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Bar"\n  - "Superb breakfast"\nnearbyRestaurants:\n  - "Taverna Pizzeria 50 m"\n  - "Piratet 250 m"\nnearbyBeaches:\n  - "Dhermi Beach 250 m"\n  - "Palasa Beach 1.4 km"\n  - "Gjipe Beach 3.7 km"\n  - "Nazar Beach 4.3 km"\n  - "Beach Me Shpella 4.3 km"\nwhatsNearby:\n  - "Llogora National Park 6 km"\nairports:\n  - "Corfu International Airport 64 km"\nreviews:\n  - name: "Wim"\n    country: "Belgium"\n    text: "“Clean and well maintained hotel. Tasty breakfast buffet.
+Car parking.
+Cat.”"\n  - name: "Agnieszka"\n    country: "Poland"\n    text: "“One of the best breakfasts we had in Albania. The hotel has a big parking lot and it’s close to the beach. The bathroom was nice as well, Wi-Fi worked perfectly”"\n  - name: "Karolina"\n    country: "Lithuania"\n    text: "“Very good breakfast. Staff very kind and welcoming.”"\nbookingURL: "https://www.booking.com/hotel/al/sofo-dhermi.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Sofo Hotel Dhermi are thoughtfully designed with the guest's utmost comfort in mind. Each room is equipped with modern amenities including a flat-screen TV and a wardrobe for personal belongings. The en-suite bathrooms boast a bidet, hairdryer, and complimentary slippers, ensuring a stay that combines both luxury and practicality.
 
 Guests can start their day on the right note with a continental breakfast served each morning, providing the perfect fuel for a day of exploration or relaxation. For those looking to venture a little further, Palasa Beach is just a short drive away, offering another beautiful locale to enjoy the sun and sea.
 
 Located 161 km from Ioannina Airport, Sofo Hotel Dhermi presents an accessible retreat for both domestic and international travelers. With its blend of convenience, comfort, and attentive service, this hotel stands out as a top choice for those visiting the picturesque town of Dhërmi.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

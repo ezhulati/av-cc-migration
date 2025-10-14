@@ -1,28 +1,5 @@
----
-title: front beach appartament
-description: "This air-conditioned apartment is not just about its prime location; it offers spacious living with a balcony that invites guests to enjoy their morni..."
-featuredImage: "/images/accommodation/465240556.jpg"
-language: en
-slug: front-beach-appartament
-location: ""
-amenities: []
-images: []
----
-
-This air-conditioned apartment is not just about its prime location; it offers spacious living with a balcony that invites guests to enjoy their morning coffee with a view. With two bedrooms, a living room, and a well-equipped kitchen, it caters perfectly to families or groups looking for a comfortable stay. The entire apartment is a smoke-free zone, ensuring a clean and healthy environment for its guests.
+---\ntitle: "front beach appartament"\ndescription: "Front Beach Apartment in Shëngjin emerges as a prime choice for travelers seeking a serene beachside retreat."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465240556.jpg?k=af091db476ddbf83031a598af8096bad3dfd4a8a8855fe1ebdaf65bd7528c1fa&o=&hp=1"\nlanguage: en\nslug: front-beach-appartament\naddress: "Shëtitorja Wilson, Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.8104499\n  lng: 19.5958221\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 8.3\nratingWords: "Very Good"\nnumberOfReviews: 1\nratings:\n  overall: 8.3\n  location: 10\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 5\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465240556.jpg?k=af091db476ddbf83031a598af8096bad3dfd4a8a8855fe1ebdaf65bd7528c1fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/465240649.jpg?k=758ba842c877aa09f11d46a9145e87b8923f996a4dce147dada5a90e081f6f76&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/465240654.jpg?k=202159af5f9e56fa43da04fc3ed6dd2875091d23bcceeeea23046538d27fbe7c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/465240658.jpg?k=8a4d6a2b1a4bf2c2d685854ebcf8f8df2a93909f868982b2c5457de6ad748685&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/465240660.jpg?k=0b5c5a00b5bad08d0fa487a16725a6d5bf99f89ad85dacab23ebe5182dc67f30&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Restorant Pizeri Mari 30 m"\n  - "Plaza 100 m"\nnearbyBeaches:\n  - "Shëngjin Beach 8 m"\n  - "Ylberi Beach 1.3 km"\n  - "Rana e Hedhun Beach 2.6 km"\n  - "Kune Beach 4.6 km"\n  - "Laguna Park Beach 4.6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 44 km"\n  - "Podgorica Airport 66 km"\n  - "Tivat Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/front-beach-appartament.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis air-conditioned apartment is not just about its prime location; it offers spacious living with a balcony that invites guests to enjoy their morning coffee with a view. With two bedrooms, a living room, and a well-equipped kitchen, it caters perfectly to families or groups looking for a comfortable stay. The entire apartment is a smoke-free zone, ensuring a clean and healthy environment for its guests.
 
 Connectivity is never an issue, as free WiFi is available throughout the premises, allowing guests to stay connected with the world or plan their next day's adventure in Shëngjin. For those looking to explore beyond the local beaches, Lake Skadar awaits at a distance of 43 km, offering a scenic escape into nature.
 
 Accessibility is also a highlight, with Tirana International Mother Teresa Airport just 49 km away, making Front Beach Apartment a convenient option for international travelers. This property stands out for those in pursuit of a tranquil beach getaway combined with the comfort of home.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -61,10 +61,3 @@ Guided tours can be arranged in advance for groups. Allow at least an hour to ap
 
 Whether you have a passion for folk arts, traditional lifeways, or Albanian history, the Berat Ethnographic Museum provides rare access to the country’s living heritage through the lens of material culture. Its one-of-a-kind collections within an Ottoman period home create an intimate, eye-opening experience.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

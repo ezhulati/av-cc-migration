@@ -5,9 +5,11 @@ featuredImage: "/images/pages/albania-visit-ez.jpg"
 language: en
 slug: enri
 seo:
-  metaTitle: Enri
-  metaDescription: ""
   canonicalURL: https://albaniavisit.com/enri/
+  focusKeyword: "enri"
+  metaTitle: "Destination Expert %sep% %sitename%"
+  metaDescription: "Discover Albania with guidance from locals who understand tourism. Find top destinations, attractions, and authentic experiences in this emerging destination."
+  focusKeyword: "enri"
 ---
 
 I'm Enri, the founder of AlbaniaVisit.com-a project born from both personal roots and a deep commitment to Albania's future as a world-class travel destination.

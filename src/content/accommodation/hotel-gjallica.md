@@ -1,28 +1,8 @@
----
-title: Hotel Gjallica
-description: The hotel doesn't just excel in accommodations; it also offers a range of facilities designed to make your visit as smooth as possible. The on-site a la carte r
-featuredImage: "/images/accommodation/77310094.jpg"
-language: en
-slug: hotel-gjallica
-location: ""
-amenities: []
-images: []
----
-
-The hotel doesn't just excel in accommodations; it also offers a range of facilities designed to make your visit as smooth as possible. The on-site a la carte restaurant serves up a variety of delicious options, catering to diverse tastes and preferences. For those moments of downtime, the hotel bar provides a cozy spot to unwind with a drink.
+---\ntitle: "Hotel Gjallica"\ndescription: "Hotel Gjallica in Kukës stands out for its commitment to comfort and convenience, providing guests with an experience that goes beyond the standard hotel stay."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/77310094.jpg?k=6fc2c639d53fed09653fb753a6e6ff9cbd2d3611aa1525007f98dd5bbce0d76a&o=&hp=1"\nlanguage: en\nslug: hotel-gjallica\naddress: "Rruga Dituria, 8503 Kukës, Albania"\ncity: "Kukës"\nlocation: "Kukës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.07685877\n  lng: 20.42088014\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 8.6\nratingWords: "Very Good"\nnumberOfReviews: 276\nratings:\n  overall: 8.6\n  location: 8.8\n  cleanliness: 8.6\n  facilities: 8.1\n  value: 8.5\n  comfort: 8.4\n  staff: 8.7\n  wifi: 9.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/77310094.jpg?k=6fc2c639d53fed09653fb753a6e6ff9cbd2d3611aa1525007f98dd5bbce0d76a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428220462.jpg?k=b05ccc6867b854791ce30e99f85e939963a6b09d6151f739636caed1cbe1357f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428225144.jpg?k=2ceb832767a4baa685dc348ed16659a0b09f0088ebd6a2bd037de6ecf9a55efa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150575896.jpg?k=f61c5466ca3d884d2d2cd283263803ccbdb697377fae7afce617c2251f072890&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428214294.jpg?k=04912ad069fee1563ef15e885e3099c1fa920f2eca7e64d9e7eb48e76ac4ff72&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428213704.jpg?k=64767be53bd603da46db7a02e4551a4a2c3bec9b07d3f687dbe8d833ea91a2be&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Room service"\n  - "Restaurant"\n  - "Free WiFi"\n  - "Facilities for disabled guests"\n  - "Family rooms"\n  - "Bar"\n  - "Good breakfast"\nroomTypes:\n  - "Deluxe Double Room"\n  - "Deluxe Double Room with Balcony"\nnearbyRestaurants:\n  - "The Old House Inn 100 m"\n  - "Fast Food Shehu 150 m"\nwhatsNearby:\n  - "Partia Socialiste Kukes 350 m"\n  - "Brekija Perla Kuksiane 900 m"\nairports:\n  - "Pristina International Airport 73 km"\n  - "Tirana International Airport Mother Teresa 93 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Anthony"\n    country: "United Kingdom"\n    text: "“A very pleasant stay. Food was good, and the room, though basic and a little out dated, was fine. Gated courtyard parking for my motorcycle.”"\n  - name: "Enrique"\n    country: "United Kingdom"\n    text: "“Great breakfast. Central location near most transport options. Good cleanliness. The bathroom was surprising, comprising two showers and some kind of jacuzzi, though the latter seemed to only partially work.”"\n  - name: "Adelheid"\n    country: "Netherlands"\n    text: "“Friendly and helpful staff.
+Private, on site parking
+Comfortable beds
+On site restaurant”"\nbookingURL: "https://www.booking.com/hotel/al/gjalica.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe hotel doesn't just excel in accommodations; it also offers a range of facilities designed to make your visit as smooth as possible. The on-site a la carte restaurant serves up a variety of delicious options, catering to diverse tastes and preferences. For those moments of downtime, the hotel bar provides a cozy spot to unwind with a drink.
 
 Guests can also take advantage of the 24-hour front desk service, ensuring assistance is always on hand, no matter the hour. Additional conveniences include luggage storage and complimentary parking, adding to the hassle-free experience.
 
 With its blend of essential amenities and attentive service, Hotel Gjallica emerges as a prime choice for travelers seeking a comfortable and convenient stay in Kukës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

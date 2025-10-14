@@ -1,28 +1,5 @@
----
-title: Favourite Airbnb
-description: This inviting apartment is not only a stone's throw away from the National Gallery of Arts Tirana, Clock Tower Tirana, and the Et'hem Bey Mosque but also ensure
-featuredImage: "/images/accommodation/517187891.jpg"
-language: en
-slug: favourite-airbnb
-location: ""
-amenities: []
-images: []
----
-
-This inviting apartment is not only a stone's throw away from the National Gallery of Arts Tirana, Clock Tower Tirana, and the Et'hem Bey Mosque but also ensures guests are connected with the essence of the city. The promise of free WiFi throughout the premises and the proximity to Skanderbeg Square, only 1.5 km away, adds to its appeal for both leisure and business travelers.
+---\ntitle: "Favourite Airbnb"\ndescription: "Favourite Airbnb emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517187891.jpg?k=19ecf2cd6dfe22ddfb0eb808405415bf87ccc2641b47e33e9cdef461b01138c8&o=&hp=1"\nlanguage: en\nslug: favourite-airbnb\naddress: "Rruga Bardhyl, Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3341495\n  lng: 19.83374613\nprice: "US$51"\npriceFrom: 51\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 0\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517187891.jpg?k=19ecf2cd6dfe22ddfb0eb808405415bf87ccc2641b47e33e9cdef461b01138c8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517187898.jpg?k=8565dcc0859cbc74ac99b82363ebe66dc4c241723093db5433550f4ec9bb58fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517187905.jpg?k=1045906b9cbd0f9058e6e45557b0d4a4b6ff3b5f39f1179842b87330fc2a4b9b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517187914.jpg?k=6efdaca3e4224d34efc8180f57565a242dcd7fe3004e052df55b180fe638e1df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517187918.jpg?k=038bb55fb4a52f7b0c09bbcbf218c6f5394dd03cf5224f341b6de53285e98182&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517187927.jpg?k=01643ada3f83703091bdcc954ee54ad722a4a30c8a99d6a81fdcce7c72dcecc3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517187932.jpg?k=0115f49c01f34ceae70eaf96c6cce754faa0bd8c8732db8ac90a7b3abec39f7d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517187844.jpg?k=0bc334c1367e6fb60ae85e4d3279949c00649d0f561e55e639ea63465592632a&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "National Museum of History Albania 1.5 km"\n  - "Rinia Park 1.7 km"\n  - "House of Leaves 1.7 km"\n  - "Former Residence of Enver Hoxha 2 km"\n  - "Grand Park of Tirana 2.5 km"\n  - "Bunk'Art 1 Museum 2.8 km"\nnearbyRestaurants:\n  - "DiSti Bar 30 m"\n  - "Mon cheri xhamlliku 40 m"\nwhatsNearby:\n  - "Sheshi Jjosef Shtraus 250 m"\n  - "Sheshi Rekreativ Gjolek Kokona 900 m"\n  - "Sheshi Rekreativ tek ish ATSh 900 m"\n  - "Tanners' Bridge 1.1 km"\n  - "Sheshi Sulejman Pasha 1.2 km"\n  - "Amazing Nature 1.2 km"\n  - "Clock Tower Tirana 1.4 km"\n  - "National Gallery of Arts Tirana 1.4 km"\n  - "Skanderbeg Square 1.4 km"\n  - "Parku Europa 1.4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 78 km"\nbookingURL: "https://www.booking.com/hotel/al/favourite-airbnb.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis inviting apartment is not only a stone's throw away from the National Gallery of Arts Tirana, Clock Tower Tirana, and the Et'hem Bey Mosque but also ensures guests are connected with the essence of the city. The promise of free WiFi throughout the premises and the proximity to Skanderbeg Square, only 1.5 km away, adds to its appeal for both leisure and business travelers.
 
 Boasting a spacious layout, the apartment features a balcony that offers a serene spot to unwind. The interiors are thoughtfully designed, comprising a comfortable bedroom, a cozy living room for relaxation, and a well-equipped kitchen for those who enjoy preparing their meals. Entertainment needs are catered to with a flat-screen TV, ensuring guests have a pleasant stay. Additionally, the commitment to a non-smoking environment underscores the property's dedication to providing a healthy and enjoyable experience for all guests.
 
 For those keen to explore, the apartment is conveniently located near Tanners' Bridge, Toptani Shopping Centre, and the National Theatre of Opera and Ballet of Albania, making it an ideal base for discovering the cultural richness of Tirana. With Tirana International Mother Teresa Airport just 15 km away, Favourite Airbnb offers ease of access for international travelers, making it an excellent choice for those looking to immerse themselves in the vibrant life of Albania's capital.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

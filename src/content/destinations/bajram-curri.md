@@ -5,11 +5,15 @@ region: Northern Albania
 featuredImage: /images/destinations/bajram-curri.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: bajram-curri
 highlights: []
+seo:
+  metaTitle: "%title% - Authentic Blend of History, Culture &amp; Nature"
+  metaDescription: "From its rich history and diverse culture to its stunning natural landscapes, find out why Bajram Curri is a must-visit."
 ---
 
 Key Takeaway
@@ -129,10 +133,3 @@ Bajram Curri is not just a destination; it’s an enriching experience that allo
 
 Whether you’re a history buff, a nature lover, or a foodie, this small town has something to offer for everyone. So why wait? Plan your visit to Bajram Curri and discover the authentic beauty of Albania.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

@@ -1,26 +1,4 @@
----
-title: Hotel Frida
-description: Accommodations at Hotel Frida are thoughtfully designed, with select units boasting balconies that offer breathtaking mountain views, allowing guests to connect
-featuredImage: "/images/accommodation/197509240.jpg"
-language: en
-slug: hotel-frida
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Hotel Frida are thoughtfully designed, with select units boasting balconies that offer breathtaking mountain views, allowing guests to connect with nature from the comfort of their rooms. For those who prefer the convenience of home-cooked meals, certain rooms are equipped with a kitchen, complete with a microwave, adding an element of home comfort to the travel experience.
+---\ntitle: "Hotel Frida"\ndescription: "Hotel Frida stands as a serene oasis in Himare, a stone's throw away from the pristine Spille Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197509240.jpg?k=1b5adc2c073f73932e879002a89ac29cc4cf73e35cc613f12a3e0a4d005f79f8&o=&hp=1"\nlanguage: en\nslug: hotel-frida\naddress: "Rruga Himarë Himara Park (at football fields), 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.10910477\n  lng: 19.74342433\nprice: "US$27"\npriceFrom: 27\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 50\nratings:\n  overall: 8.9\n  location: 8.2\n  cleanliness: 9.4\n  facilities: 9\n  value: 9\n  comfort: 8.9\n  staff: 9.1\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197509240.jpg?k=1b5adc2c073f73932e879002a89ac29cc4cf73e35cc613f12a3e0a4d005f79f8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491431419.jpg?k=3188198ed47ac1ddd4f7284cfdbff78049d52d1f2378fefb0e3a345ee274ea84&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456845922.jpg?k=d5342f7c2905c0f083db5c6251f591c2b6f3b87196a01131627268bc5c67d7b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/222297339.jpg?k=297be8e34b354e1c51f63834db4c389156615b985134134118c4df0a9f8903a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456847697.jpg?k=6667058c189ef3025fd907b8c4ddb572e03f09a1defbf34bf649dd46c011d00c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/222872938.jpg?k=86b4f34d2232507b0b55f6626d50566ae25321044ca3f8070c640befee840833&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/222296769.jpg?k=c61d213ef2e2f7ef397669255cf08d4314dfd2528f6d22b6340f5164e92632fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458184426.jpg?k=e592602c42608f52f1b486307b44c1639ff834fa61e820dceaf9a8203cf91838&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491431505.jpg?k=ca77b5944fc468cf31edf109cb6a88313b2a7801d93d9caca19b7467b9bd550c&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Standard Quadruple Room"\nnearbyRestaurants:\n  - "Blue Bay 650 m"\n  - "La Pasteria 700 m"\nnearbyBeaches:\n  - "Spille Beach 850 m"\n  - "Maracit Beach 1.1 km"\n  - "Livadhi Beach 1.2 km"\n  - "Prinos Beach 1.3 km"\n  - "Potam Beach 1.7 km"\nwhatsNearby:\n  - "Llogora National Park 16 km"\nairports:\n  - "Corfu International Airport 57 km"\nreviews:\n  - name: "Daniel"\n    country: "Czech Republic"\n    text: "“The hotel was nice and clean. It was pleasant that the hotel was away from the crowded busy center.
+Very friendly and helpful personal”"\n  - name: "Melina"\n    country: "France"\n    text: "“The staff was lovely, the room was big and the beds comfortables”"\n  - name: "Lieven"\n    country: "Belgium"\n    text: "“brandnew hotel, superb bathroom, huge balcony, friendly staff”"\nbookingURL: "https://www.booking.com/hotel/al/new-niko.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Hotel Frida are thoughtfully designed, with select units boasting balconies that offer breathtaking mountain views, allowing guests to connect with nature from the comfort of their rooms. For those who prefer the convenience of home-cooked meals, certain rooms are equipped with a kitchen, complete with a microwave, adding an element of home comfort to the travel experience.
 
 Adding to the appeal, the hotel features a cozy bar and barbecue facilities, perfect for unwinding after a day of exploration. Despite its tranquil location, Hotel Frida remains within reach of urban conveniences, with Ioannina Airport located 144 km away, ensuring accessibility for travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

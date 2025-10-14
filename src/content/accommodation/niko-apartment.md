@@ -1,28 +1,5 @@
----
-title: Niko Apartment
-description: The apartment itself is a spacious retreat, boasting a bedroom that promises restful nights. Entertainment is readily available with a flat-screen TV equipped w
-featuredImage: "/images/accommodation/471194770.jpg"
-language: en
-slug: niko-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a spacious retreat, boasting a bedroom that promises restful nights. Entertainment is readily available with a flat-screen TV equipped with satellite channels, ensuring guests stay connected and entertained. The heart of the home, a fully equipped kitchen, awaits those who love to cook, featuring modern appliances including a dishwasher, oven, washing machine, microwave, and toaster. While towels and linens are available upon request, the emphasis on comfort and convenience is unmistakable.
+---\ntitle: "Niko Apartment"\ndescription: "Niko Apartment stands as a prime choice for travelers seeking a serene getaway with the enchanting Sarandë seascape right at their doorstep."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471194770.jpg?k=58e0a1a5ab88c914b9455b0c3e930023c7bbbabe94dad9061642316d4ef6058d&o=&hp=1"\nlanguage: en\nslug: niko-apartment\naddress: "Rruga Butrinti, 9702 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86300498\n  lng: 20.0197746\nprice: "US$97"\npriceFrom: 97\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471194770.jpg?k=58e0a1a5ab88c914b9455b0c3e930023c7bbbabe94dad9061642316d4ef6058d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471196137.jpg?k=84f75eac33ead4bfecaf7a704b3a71e672c48d02494ccfd3ca18a36c2077f244&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471196130.jpg?k=89550f4dac12c70d4fbd499d9e7010d63cd779fe33d4b8c506d8e17a2c8e0000&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471196114.jpg?k=3585c915f119e75499e41cfd0d1f009a18502404ca91544641ae8c21c0e676c0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471196147.jpg?k=954533c3e1651c02e5360e52e07ded9c813841fb4eece9dc977202feeb849ea4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471195936.jpg?k=86714ee5e21a4b3933f04ada7a902339986485350e7fd64af23cf508a2ea0324&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471196138.jpg?k=075ad80dfe4789d0934cfa47c948bc770cb23f064d06f42ed27d18374a69547c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471196134.jpg?k=4126e60b74859849d37d60c566ecb76b2ca99a2b7c6ef3f198f0e30e4a4b47fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471195964.jpg?k=eece56d65c771df8548105e134a868ab5028743cb36b8ba6547a1b856737603f&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Taverna Argjiro 50 m"\n  - "Te Bequa 2 100 m"\nnearbyBeaches:\n  - "VIP Beach 450 m"\n  - "Maestral Beach 500 m"\n  - "Santa Quaranta Beach 500 m"\n  - "La Petite Beach 700 m"\n  - "Flamingo Beach 750 m"\nwhatsNearby:\n  - "Parc National de Butrint 650 m"\n  - "Butrint National Park 1.5 km"\n  - "Plazhi I Krorezes 7 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 11 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/niko-apartment-sarande.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a spacious retreat, boasting a bedroom that promises restful nights. Entertainment is readily available with a flat-screen TV equipped with satellite channels, ensuring guests stay connected and entertained. The heart of the home, a fully equipped kitchen, awaits those who love to cook, featuring modern appliances including a dishwasher, oven, washing machine, microwave, and toaster. While towels and linens are available upon request, the emphasis on comfort and convenience is unmistakable.
 
 Beyond the comforts of the apartment, guests are treated to captivating city views, adding an urban contrast to the natural beauty of the sea. For those looking to explore beyond the beach, VIP Beach offers an exclusive slice of paradise less than 1 km away, and the historic Butrint National Park is just a 14 km drive, offering a glimpse into the area's rich heritage.
 
 Situated 96 km from Ioannina Airport, Niko Apartment is not just a place to stay but a launchpad for an unforgettable Sarandë experience, combining the ease of access with the beauty and tranquility of Albania's coastal charm.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

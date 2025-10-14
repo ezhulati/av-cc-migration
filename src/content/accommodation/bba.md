@@ -1,30 +1,7 @@
----
-title: BBA
-description: BBA stands out with its airy, well-appointed apartment that boasts a generous layout. Guests will find themselves at home in a space that features a cozy bedroo
-featuredImage: "/images/accommodation/486892291.jpg"
-language: en
-slug: bba
-location: ""
-amenities: []
-images: []
----
-
-BBA stands out with its airy, well-appointed apartment that boasts a generous layout. Guests will find themselves at home in a space that features a cozy bedroom, a welcoming living room, a fully equipped kitchen ready for culinary adventures, and a pristine bathroom. Entertainment is readily available with a flat-screen TV, ensuring that guests have everything they need for a relaxing stay. The entire property is a smoke-free zone, promoting a clean and healthy environment.
+---\ntitle: "BBA"\ndescription: "Discover the charm of Korçë from the comfort of BBA, a prime accommodation choice located just a stone's throw away from the serene Monastery Saint Naum."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486892291.jpg?k=f5cc5498c8250660532c879ed03c9f740355dde0f826f236d15a093a6280ef4a&o=&hp=1"\nlanguage: en\nslug: bba\naddress: "Rruga Theodhor Kavalioti 16, 7001 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.6310825\n  lng: 20.7847818\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486892291.jpg?k=f5cc5498c8250660532c879ed03c9f740355dde0f826f236d15a093a6280ef4a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/486892332.jpg?k=16110a74c3c330baa3008c214ab1093441e4cfdda5e97f240630a00d27e6f933&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/486892340.jpg?k=a8443aaecd920ea45d7900d3fcf453ab08ef14891d95887348ae393957e51b6a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/486892343.jpg?k=6504dfc6ea34afaa0543bd05d5a3d18ae1816a81099d9e510560b0be058a79cc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/486892352.jpg?k=1e3137c7dbbf950f387f01d960319cb3a5c0403b11ff27f612e8e2e6b919485b&o=&hp=1"\namenities:\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Gjiro Stefa 300 m"\n  - "Rinia 450 m"\nwhatsNearby:\n  - "Parku Rinia 600 m"\n  - "Field of Tears 1.4 km"\n  - "Parku Themistokli Gërmenji 1.4 km"\n  - "Sheshi Patriku Joasaf 1.7 km"\n  - "Parku Rinia 1.8 km"\n  - "Parku Vangjush Mio 1.8 km"\n  - "Sheshi Panxhar 5 km"\n  - "Sheshi Koço Plaku 11 km"\n  - "Sheshi Penetori 11 km"\nairports:\n  - "Kastoria National Airport 45 km"\n  - "Ohrid Airport 60 km"\n  - "Kozani National Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/bba-korce2.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nBBA stands out with its airy, well-appointed apartment that boasts a generous layout. Guests will find themselves at home in a space that features a cozy bedroom, a welcoming living room, a fully equipped kitchen ready for culinary adventures, and a pristine bathroom. Entertainment is readily available with a flat-screen TV, ensuring that guests have everything they need for a relaxing stay. The entire property is a smoke-free zone, promoting a clean and healthy environment.
 
 Adding to the convenience, free WiFi envelops the property, allowing guests to stay connected with the world or plan their next day's adventures without a hitch. The apartment also comes with a balcony, offering a private outdoor space to enjoy the fresh air and perhaps a morning cup of coffee or an evening glass of wine.
 
 For those arriving by air, Kastoria National Airport is the nearest gateway, located 69 km from BBA, making it a relatively straightforward journey to this charming abode.
 
 BBA is not just an accommodation; it's a gateway to exploring the enchanting surroundings of Korçë, providing a comfortable and convenient base for all types of travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

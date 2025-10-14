@@ -1,30 +1,7 @@
----
-title: Villa Guci
-description: "This property prides itself on providing a smoke-free environment, ensuring a clean and healthy stay for all guests."
-featuredImage: "/images/accommodation/474447438.jpg"
-language: en
-slug: villa-guci
-location: ""
-amenities: []
-images: []
----
-
-This property prides itself on providing a smoke-free environment, ensuring a clean and healthy stay for all guests. With its generous offering of free private parking and complimentary WiFi, guests can enjoy the ease of access and connectivity during their stay. The highlight of Villa Guci is undoubtedly its expansive layout, featuring five separate bedrooms and an impressive total of six bathrooms, catering to large groups and families with ease.
+---\ntitle: "Villa Guci"\ndescription: "Villa Guci stands out as a serene retreat, offering guests a unique blend of comfort and convenience with its picturesque garden views and spacious accommodations."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474447438.jpg?k=f5a9464ddb9c973438245961261b9fb6c54dda71c90e4bde3b2d61f2c9e282e6&o=&hp=1"\nlanguage: en\nslug: villa-guci\naddress: "Rruga Shaban Baxhaku, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.3311099\n  lng: 19.876235\nprice: "US$269"\npriceFrom: 269\nstarRating: 3\nrating: 6.1\nratingWords: "Average"\nnumberOfReviews: 2\nratings:\n  overall: 6.1\n  location: 5\n  cleanliness: 6.3\n  facilities: 6.3\n  value: 6.3\n  comfort: 6.3\n  staff: 6.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474447438.jpg?k=f5a9464ddb9c973438245961261b9fb6c54dda71c90e4bde3b2d61f2c9e282e6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475704564.jpg?k=6910c92f8760c2b8fd1b80a1eab8ae1eb0b034a7241bb8abfbbbc12e12eba27a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475704568.jpg?k=46792e36f85194bb007e185b2c0b037f7f4da2f91ea3b8b6bbca82ffe3b59b0d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475705512.jpg?k=e7a16e437223567a7c0e0ee92b0ca75a21aefbe6b7a9512aaa66fe4a6c8b8e74&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474447460.jpg?k=44ead29ec440911bbc4da46b30e7f38a72806882d2846ed98d75080c85cc5db9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474447463.jpg?k=1883d731ededf6f408254665d0000f3e2b1392b5b4de4bbcf9205f13a852c66b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475704567.jpg?k=dd8fff945818a81eee5d08595cacc433d2603cb9482dfd27b87eeb2bc99b7890&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474447458.jpg?k=0013b28bab6034277be5b4a19637495b2fa44f0eef512f80d2cf65f3d65795f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475704561.jpg?k=114f1e5183f0af2a5a72a9165b81783422d614c4f17e58a072d62221b2baf0e7&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Breakfast"\nroomTypes:\n  - "Villa"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 4.7 km"\n  - "Grand Park of Tirana 4.7 km"\n  - "Clock Tower Tirana 4.7 km"\n  - "Skanderbeg Square 4.8 km"\n  - "Rinia Park 4.9 km"\n  - "National Museum of History Albania 4.9 km"\n  - "House of Leaves 5 km"\n  - "Former Residence of Enver Hoxha 5 km"\nnearbyRestaurants:\n  - "Bar Restorant Lokal Dasmash 600 m"\n  - "Kupi 950 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Banesat Sociale 1,000 m"\n  - "Dajti Mountain National Park 1.8 km"\n  - "Bunk'Art 1 Museum 2.5 km"\n  - "Sheshi Rekreativ Surrel 2.6 km"\n  - "Sheshi Rekreativ Gjolek Kokona 3.1 km"\n  - "Sheshi Jjosef Shtraus 3.4 km"\n  - "Sheshi Rekreativ Allias 3.9 km"\n  - "Sheshi Rekreativ tek ish ATSh 4.2 km"\n  - "Shesh Rekreativ 4.2 km"\n  - "Tanners' Bridge 4.2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 15 km"\n  - "Ohrid Airport 74 km"\nbookingURL: "https://www.booking.com/hotel/al/villa-guci.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nThis property prides itself on providing a smoke-free environment, ensuring a clean and healthy stay for all guests. With its generous offering of free private parking and complimentary WiFi, guests can enjoy the ease of access and connectivity during their stay. The highlight of Villa Guci is undoubtedly its expansive layout, featuring five separate bedrooms and an impressive total of six bathrooms, catering to large groups and families with ease.
 
 The villa's fully equipped kitchen allows for a home-cooked meal away from home, adding a personal touch to the dining experience. Additionally, the inclusion of a balcony and a terrace invites guests to unwind in the open air, taking in the tranquil garden surroundings.
 
 Notably, Villa Guci is conveniently positioned within reach of significant landmarks, including the Former Residence of Enver Hoxha and the Rock of Kavaje, making it a perfect base for exploring the rich cultural tapestry of the area. For those traveling by air, the Tirana International Mother Teresa Airport is a mere 20 km away, facilitating easy arrivals and departures.
 
 In summary, Villa Guci presents a compelling choice for travelers in search of a spacious and well-appointed accommodation that bridges the gap between tranquility and accessibility to Albania's notable sights.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

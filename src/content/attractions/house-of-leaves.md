@@ -7,6 +7,9 @@ featuredImage: /images/attractions/house-of-leaves.jpg
 images: []
 language: en
 slug: house-of-leaves
+seo:
+  metaTitle: "%title% Tirana %sep% %sitename%"
+  metaDescription: "Step inside Tirana’s House of Leaves, where Albania’s secret police spied on citizens for decades. Explore its chilling history, exhibits, and legacy."
 ---
 
 The Day My Father Learned His Home Was Bugged
@@ -140,10 +143,3 @@ For those visiting the House of Leaves, reading his account beforehand adds laye
 
 [**Get the book on Amazon →**](https://amzn.to/46IqzB7)
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

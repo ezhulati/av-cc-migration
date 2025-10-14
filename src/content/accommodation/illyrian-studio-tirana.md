@@ -1,15 +1,4 @@
----
-title: Illyrian studio Tirana
-description: Boasting breathtaking mountain views, Illyrian Studio Tirana positions itself as an ideal base for guests eager to explore the city's natural and historical won
-featuredImage: "/images/accommodation/513659966.jpg"
-language: en
-slug: illyrian-studio-tirana
-location: ""
-amenities: []
-images: []
----
-
-Boasting breathtaking mountain views, Illyrian Studio Tirana positions itself as an ideal base for guests eager to explore the city's natural and historical wonders. The property is strategically situated, with the Former Residence of Enver Hoxha just 3.7 km away, and the majestic Rock of Kavaje within a 44 km radius, offering a unique glimpse into Albania's rich history and stunning landscapes.
+---\ntitle: "Illyrian studio Tirana"\ndescription: "Illyrian Studio Tirana emerges as a serene retreat for travelers seeking the perfect blend of convenience and comfort in Albania's vibrant capital."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513659966.jpg?k=03784ee8335af5475b22d7a635811899ada828efc42d953d6ccadaf98e5e1555&o=&hp=1"\nlanguage: en\nslug: illyrian-studio-tirana\naddress: "Rruga e Dibrës, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3440098\n  lng: 19.83619653\nprice: "US$31"\npriceFrom: 31\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513659966.jpg?k=03784ee8335af5475b22d7a635811899ada828efc42d953d6ccadaf98e5e1555&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/513660003.jpg?k=4a0fc6018fd37b5328c29149bb30e7c3f32468487582c4c645591dd5edcdc539&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/513660006.jpg?k=05bd2175d6056297d432cdcc9ea2747be96eeb6bf3767dd0af676124cf81542a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/513660010.jpg?k=54005669386557bfcab4f222cdf53d91cc157358864fd03118c6df7fbe0a563e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/513660015.jpg?k=8d0563601117093e95f0b65282b17d6748e065a74bbcfe1ea015254ee7df3f3c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/513660020.jpg?k=9d8071e47a4ee0027a027fa8b1ff57576251a75976f4835928be5ece2a99dff6&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "Double Room"\nnearbyAttractions:\n  - "Skanderbeg Square 2.3 km"\n  - "National Gallery of Arts Tirana 2.4 km"\n  - "House of Leaves 2.5 km"\n  - "Rinia Park 2.6 km"\n  - "Former Residence of Enver Hoxha 3 km"\n  - "Grand Park of Tirana 3.7 km"\nnearbyRestaurants:\n  - "Byrektore 100 m"\n  - "Kafe Tokja 150 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Allias 550 m"\n  - "Sheshi Rekreativ Gjolek Kokona 600 m"\n  - "Sheshi Jjosef Shtraus 1 km"\n  - "Amazing Nature 1.8 km"\n  - "Sheshi Rekreativ tek ish ATSh 1.9 km"\n  - "Sheshi Sulejman Pasha 2.1 km"\n  - "Tanners' Bridge 2.1 km"\n  - "Bunk'Art 1 Museum 2.1 km"\n  - "National Museum of History Albania 2.3 km"\n  - "Clock Tower Tirana 2.3 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 78 km"\nbookingURL: "https://www.booking.com/hotel/al/illyrian-studio-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nBoasting breathtaking mountain views, Illyrian Studio Tirana positions itself as an ideal base for guests eager to explore the city's natural and historical wonders. The property is strategically situated, with the Former Residence of Enver Hoxha just 3.7 km away, and the majestic Rock of Kavaje within a 44 km radius, offering a unique glimpse into Albania's rich history and stunning landscapes.
 
 For those who appreciate the arts, the National Theatre of Opera and Ballet of Albania is conveniently located 2.3 km from the guest house, making it easy for guests to immerse themselves in the country's thriving cultural scene. Additionally, the National Museum of History Albania and the Toptani Shopping Centre are within easy reach, located 2.5 km and 2.7 km away, respectively, catering to both history buffs and shopping enthusiasts.
 
@@ -18,15 +7,3 @@ Illyrian Studio Tirana prides itself on providing a comfortable and welcoming en
 Accessibility is a key feature of Illyrian Studio Tirana, with the Dajti Ekspres Cable Car just 3.3 km away, offering an easy gateway to one of Tirana's most scenic attractions. Furthermore, the proximity to Tirana International Mother Teresa Airport, located 15 km from the guest house, provides peace of mind for international travelers, making arrivals and departures as smooth as possible.
 
 In summary, Illyrian Studio Tirana stands out as a top choice for visitors to Tirana, offering a harmonious blend of accessibility, comfort, and scenic beauty, all wrapped up in a welcoming guest house experience.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

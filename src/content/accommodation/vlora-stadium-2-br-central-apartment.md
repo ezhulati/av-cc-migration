@@ -1,28 +1,5 @@
----
-title: Vlora Stadium 2 BR Central Apartment
-description: The apartment itself is a haven of tranquility and privacy, boasting impressive city and garden views that can be enjoyed from the comfort of a spacious balcony
-featuredImage: "/images/accommodation/485191585.jpg"
-language: en
-slug: vlora-stadium-2-br-central-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of tranquility and privacy, boasting impressive city and garden views that can be enjoyed from the comfort of a spacious balcony. Inside, guests are treated to a modern living space equipped with air conditioning, ensuring a restful retreat from the city's hustle and bustle. The living quarters are thoughtfully designed, featuring two cozy bedrooms, a flat-screen TV for entertainment, a dining area for communal meals, and a fully equipped kitchen for those who prefer to prepare their own dishes. The inclusion of towels and bed linen adds a touch of home-like comfort to the stay.
+---\ntitle: "Vlora Stadium 2 BR Central Apartment"\ndescription: "Vlora Stadium 2 BR Central Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlore."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485191585.jpg?k=c8813b1de6a44018c03000461cc7cc3b45f677a62551fec77e209fbfb8e0424a&o=&hp=1"\nlanguage: en\nslug: vlora-stadium-2-br-central-apartment\naddress: "Rr. Gjergj Arianiti Stadium Vlore. Ipercoop Supermarket, 9406 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45749006\n  lng: 19.48679029\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485191585.jpg?k=c8813b1de6a44018c03000461cc7cc3b45f677a62551fec77e209fbfb8e0424a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485191623.jpg?k=d8260e4785aea06098819c71fc0706b85c1db46bcef6c57b666291af69586543&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485191654.jpg?k=5e18a825e5e8c240c8b3a82d442d8a33174f7d91761d8fbad266f23b86b8bbee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485191631.jpg?k=936a79f7fbad9a37a1b4cbf02089312be9b5e3ddefc2678ed1a646f43f8a74f9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485191635.jpg?k=13611afa26676e8f45039f96bcc03071313df2119448301d13c9efffea664ebb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485191594.jpg?k=88ff63006be7cdb1e625ab200c11d987a9b426e63d55c52b0670f39fc63f57fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485191542.jpg?k=75664a17cb502bbb5015636980c421f8d68d8b940ea08202da44a45555b571bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485191608.jpg?k=d904245be0408a067795cf5daf80d54c6d3cca70d83299df4b9e64d09832c35a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485725898.jpg?k=3ef4cf7ef8cb7314e89828611077f0ba42fd3ec19de1bdd86572fbe5cb860bc7&o=&hp=1"\namenities:\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Pizza Time 30 m"\n  - "Winners Sport Bar 100 m"\nnearbyBeaches:\n  - "Vjetër Beach 750 m"\n  - "Vlore Beach 1.2 km"\n  - "Ri Beach 2.5 km"\n  - "Beach at Government Villas 4.1 km"\n  - "Liro Beach 4.8 km"\nwhatsNearby:\n  - "Kuzum Baba 1.3 km"\n  - "Independence Square 1.5 km"\n  - "Scooby Doo Vlore 2.5 km"\nbookingURL: "https://www.booking.com/hotel/al/vlora-stadium-2-br-central-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a haven of tranquility and privacy, boasting impressive city and garden views that can be enjoyed from the comfort of a spacious balcony. Inside, guests are treated to a modern living space equipped with air conditioning, ensuring a restful retreat from the city's hustle and bustle. The living quarters are thoughtfully designed, featuring two cozy bedrooms, a flat-screen TV for entertainment, a dining area for communal meals, and a fully equipped kitchen for those who prefer to prepare their own dishes. The inclusion of towels and bed linen adds a touch of home-like comfort to the stay.
 
 Attention to detail is evident in the apartment's design, with soundproofing and a private entrance ensuring that guests' privacy and peace are paramount. Located less than 1 km from Vjetër Beach and with easy access to Kuzum Baba, the apartment serves as an ideal spot for those looking to immerse themselves in the local culture and natural beauty of the area.
 
 For travelers venturing from afar, the convenience of being 150 km from Tirana International Mother Teresa Airport makes Vlora Stadium 2 BR Central Apartment a compelling choice for both short and extended stays in Vlore, promising an experience that combines the comforts of home with the excitement of travel.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,15 +1,7 @@
----
-title: Vila HK
-description: Guests at Vila HK are treated to well-appointed family rooms, some of which boast private entrances, ensuring an exclusive and undisturbed stay. The rooms are t
-featuredImage: "/images/accommodation/448562254.jpg"
-language: en
-slug: vila-hk
-location: ""
-amenities: []
-images: []
----
-
-Guests at Vila HK are treated to well-appointed family rooms, some of which boast private entrances, ensuring an exclusive and undisturbed stay. The rooms are thoughtfully equipped with desks, wardrobes, and air conditioning for maximum comfort. Select units also feature balconies that present breathtaking mountain views, alongside cable flat-screen TVs for entertainment. The assurance of a private bathroom in every unit adds to the convenience factor, making stays here both comfortable and hassle-free.
+---\ntitle: "Vila HK"\ndescription: "Vila HK emerges as a charming bed and breakfast in Krujë, offering guests a unique blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448562254.jpg?k=902d41cf480fb6cff03dca19ceba57a167defdd74439470203557b09c7750006&o=&hp=1"\nlanguage: en\nslug: vila-hk\naddress: "Rruga Donika Kastrioti, 1501 Krujë, Albania"\ncity: "Krujë"\nlocation: "Krujë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.51173057\n  lng: 19.79163914\nprice: "US$52"\npriceFrom: 52\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 199\nratings:\n  overall: 9.7\n  location: 9.6\n  cleanliness: 9.8\n  facilities: 9.6\n  value: 9.5\n  comfort: 9.7\n  staff: 10\n  wifi: 9.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448562254.jpg?k=902d41cf480fb6cff03dca19ceba57a167defdd74439470203557b09c7750006&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484258226.jpg?k=1d749687bc41f7d967167be5069ba938ede198c7ea6949c22211b7c362b6f21f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448558657.jpg?k=7fc0ca5e08885d4b94bda12bb4be57aa2fd563d1f6e1b9a98e843a1dffacd923&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484258213.jpg?k=84b51e47cbfc0056d145375723359bdf8abba769a5cf19fa2e3e63de1129ac04&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452614316.jpg?k=b98e451f1c39f48fdcd7ff3f50c58db6b91939db1fcc219e6668980717cb69fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484258232.jpg?k=2831f4a73766b5c1bae7d12d55668f90664c885bbe1e452899ef97cc974741f4&o=&hp=1"\namenities:\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Superb breakfast"\nroomTypes:\n  - "Double Room with Balcony"\n  - "Triple Room with Balcony"\n  - "Quadruple Room with Balcony"\n  - "Comfort Triple Room with Shower"\nnearbyRestaurants:\n  - "Bar kafe mogliano veneto 50 m"\n  - "La Casa della Pasta 150 m"\nwhatsNearby:\n  - "Dajti Mountain National Park 3.2 km"\n  - "Sheshi Rekreativ Allias 18 km"\n  - "Bunk'Art 1 Museum 19 km"\n  - "Sheshi Rekreativ Lord Bajron 19 km"\n  - "Sheshi Rekreativ Gjolek Kokona 20 km"\n  - "Sheshi Rekreativ Don Bosko 20 km"\n  - "Sheshi Rekreativ Mine Peza 20 km"\n  - "Amazing Nature 20 km"\n  - "Sheshi Jjosef Shtraus 20 km"\n  - "Shesh Rekreativ Yzberisht 20 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 87 km"\nreviews:\n  - name: "Kristýna"\n    country: "Czech Republic"\n    text: "“Very friendly owner, delicious breakfast. Worth the money!”"\n  - name: "Campbell"\n    country: "New Zealand"\n    text: "“Easy check in, even when we showed up early fir check in we were still accommodated.
+Clean room and great host.
+Would stay again!”"\n  - name: "Carolina"\n    country: "Spain"\n    text: "“Everything was great!!! Room was clean and comfortable. Soni was the best host, super helpful and always smiling. Breakfast was delicious and well adapted for vegans upon request :).
+We definitely recommend this place!”"\nbookingURL: "https://www.booking.com/hotel/al/hk.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nGuests at Vila HK are treated to well-appointed family rooms, some of which boast private entrances, ensuring an exclusive and undisturbed stay. The rooms are thoughtfully equipped with desks, wardrobes, and air conditioning for maximum comfort. Select units also feature balconies that present breathtaking mountain views, alongside cable flat-screen TVs for entertainment. The assurance of a private bathroom in every unit adds to the convenience factor, making stays here both comfortable and hassle-free.
 
 The property doesn't just stop at providing cozy accommodations. It extends its hospitality by offering a bar with city views, perfect for unwinding after a day of exploration. The availability of free private parking, full-day security, and complimentary WiFi throughout the premises underscores Vila HK's commitment to guest satisfaction and safety.
 
@@ -18,15 +10,3 @@ For those looking to explore the local area or needing transportation arrangemen
 Located a mere 18 km from Tirana International Mother Teresa Airport, Vila HK is not only easily accessible but also serves as an ideal base for exploring nearby attractions, including the Former Residence of Enver Hoxha and the Rock of Kavaje.
 
 In summary, Vila HK offers a harmonious blend of comfort, convenience, and thoughtful amenities, making it a top choice for travelers seeking a memorable stay in Krujë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Family house
-description: "The highlight of Family House is its air-conditioned apartment, which is thoughtfully equipped with a flat-screen TV and a fully functional kitchen, e..."
-featuredImage: "/images/accommodation/462466018.jpg"
-language: en
-slug: family-house
-location: ""
-amenities: []
-images: []
----
-
-The highlight of Family House is its air-conditioned apartment, which is thoughtfully equipped with a flat-screen TV and a fully functional kitchen, ensuring a home-away-from-home experience in a smoke-free environment. For those who prefer not to dine out for every meal, the presence of a minimarket within the apartment complex is a welcome feature.
+---\ntitle: "Family house"\ndescription: "Family House emerges as a prime beachfront gem in Vlorë, boasting an enviable location just a stone's throw away from Ri Beach and a short stroll from the vibrant Vlore Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462466018.jpg?k=2154a994b0d50876ee728200414b41f79501f98ad358117dfa837fd2af45a072&o=&hp=1"\nlanguage: en\nslug: family-house\naddress: "Rruga Murat Tërbaçi, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.43513179\n  lng: 19.49557069\nprice: "US$41"\npriceFrom: 41\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462466018.jpg?k=2154a994b0d50876ee728200414b41f79501f98ad358117dfa837fd2af45a072&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/462466124.jpg?k=d56092f8ce8b7ea0d7875a69f3124bd7c592990a61152417070f034ea7e78a4c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/462466163.jpg?k=48f5ba57a64749ed29ad0f21a61c584b88b11b5f51d3a43e2a62c5f31049cb60&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/462466193.jpg?k=4de2323446e4a1a9f66d95e79e16cf119bd010cf9786e7c7735938381a7ea191&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/462466118.jpg?k=1d6ec904f9617dd53abec2b48a690ef177193752eb71adc51172009fe6d8122a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/462466141.jpg?k=18e2a1346c27ec9cce821f8cd389c862449ffd9c61c6038c8b4f750364016ad5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/462466136.jpg?k=987d5471a590d03c058e666222c0813ac1bcf79ec44b67ce7725797784078214&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/462466130.jpg?k=1173d8ed788e69b951bd59f2677f876896094f3ea47d9a0a2733e49a89463df8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/462466151.jpg?k=286ecaf7b6a162c65e2a996733a0c7b79cb59585d9530e69d812bb8f56be8bbc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/462466173.jpg?k=08f6cb5b5b2f9b388bc0e5080b25830c6a34a8529f71537a235f87e9f2037205&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Ohana 30 m"\n  - "Restorant Picaresco 50 m"\nnearbyBeaches:\n  - "Ri Beach 100 m"\n  - "Vlore Beach 850 m"\n  - "Beach at Government Villas 1.8 km"\n  - "Vjetër Beach 2.2 km"\n  - "Liro Beach 2.6 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 150 m"\n  - "Kuzum Baba 3.6 km"\n  - "Independence Square 4 km"\nbookingURL: "https://www.booking.com/hotel/al/family-house-vlore1.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nThe highlight of Family House is its air-conditioned apartment, which is thoughtfully equipped with a flat-screen TV and a fully functional kitchen, ensuring a home-away-from-home experience in a smoke-free environment. For those who prefer not to dine out for every meal, the presence of a minimarket within the apartment complex is a welcome feature.
 
 For guests looking to explore the area on two wheels or seeking an easy commute, both a shuttle service and bicycle rental are readily available, adding a layer of convenience to their stay. Active guests will appreciate the opportunity to engage in tennis directly on the premises or venture out for a fishing excursion in the nearby locales.
 
 Situated a mere 1.9 km from the serene Beach at Government Villas and 4.1 km from the historic Kuzum Baba, Family House serves as an ideal base for exploring the rich cultural tapestry and natural beauty of Vlorë. For international travelers, the Tirana International Mother Teresa Airport is 153 km away, making Family House a compelling choice for both domestic and overseas visitors seeking a tranquil beachfront retreat.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

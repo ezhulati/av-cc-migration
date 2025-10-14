@@ -1,32 +1,5 @@
----
-title: Tirana Loft Living
-description: The apartment itself boasts generous space, featuring two well-appointed bedrooms, a fully equipped kitchen for those who enjoy preparing their own meals, and t
-featuredImage: "/images/accommodation/526219525.jpg"
-language: en
-slug: tirana-loft-living
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself boasts generous space, featuring two well-appointed bedrooms, a fully equipped kitchen for those who enjoy preparing their own meals, and two modern bathrooms, ensuring a comfortable stay for all guests. The inclusion of air conditioning, a balcony for enjoying the city's ambiance, and complimentary WiFi access further enhances the living experience, providing all the comforts of home.
+---\ntitle: "Tirana Loft Living"\ndescription: "Tirana Loft Living emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526219525.jpg?k=87e3632ece2c763dd810ca063001913cf3c14e94875b955f823f45514e91ecb1&o=&hp=1"\nlanguage: en\nslug: tirana-loft-living\naddress: "Rruga Petro Nini Luarasi, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32561943\n  lng: 19.82691643\nprice: "US$78"\npriceFrom: 78\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526219525.jpg?k=87e3632ece2c763dd810ca063001913cf3c14e94875b955f823f45514e91ecb1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/526219517.jpg?k=8843b48a0d76b41e755bd4162721933c01ecf84ae8e82f797ecc88dad59ae35c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/526219521.jpg?k=e6059513f475b5260438d690965c24b5b8e3abc2ec5de3741edb01259d178248&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/526219484.jpg?k=3eea084cfece38434369d06930def68833e29094df72c498287b0988e4adf16f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/526219530.jpg?k=3192230977a96aeeffadb4508dc58df78c70a87e1af0125bb6fd9c361b913350&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "Rinia Park 750 m"\n  - "House of Leaves 900 m"\n  - "National Museum of History Albania 900 m"\n  - "Former Residence of Enver Hoxha 950 m"\n  - "Grand Park of Tirana 1.5 km"\n  - "Bunk'Art 1 Museum 3.9 km"\nnearbyRestaurants:\n  - "Mezeri Denisi 30 m"\n  - "Restorant Dajti 40 m"\nwhatsNearby:\n  - "Tanners' Bridge 100 m"\n  - "Sheshi Rekreativ tek ish ATSh 250 m"\n  - "Sheshi Rekreativ Piramida 450 m"\n  - "National Gallery of Arts Tirana 500 m"\n  - "Sheshi Sulejman Pasha 550 m"\n  - "Shesh Rekreativ 550 m"\n  - "Parku Rinia 650 m"\n  - "Clock Tower Tirana 650 m"\n  - "Parku Europa 700 m"\n  - "Skanderbeg Square 700 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\nbookingURL: "https://www.booking.com/hotel/al/tirana-loft-living.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself boasts generous space, featuring two well-appointed bedrooms, a fully equipped kitchen for those who enjoy preparing their own meals, and two modern bathrooms, ensuring a comfortable stay for all guests. The inclusion of air conditioning, a balcony for enjoying the city's ambiance, and complimentary WiFi access further enhances the living experience, providing all the comforts of home.
 
 Cultural enthusiasts will appreciate the proximity to notable landmarks such as the Pyramid of Tirana, Reja - The Cloud, and the Former Residence of Enver Hoxha, all within walking distance. Additionally, the property is conveniently located near the Saint Paul Cathedral, Toptani Shopping Centre, and the National Gallery of Arts Tirana, catering to a variety of interests from shopping to art appreciation.
 
 For those venturing from afar, the Tirana International Mother Teresa Airport is a mere 16 km away, making Tirana Loft Living an accessible retreat in the bustling city. Whether it's the allure of exploring Tirana's rich history or the convenience of modern amenities, this property promises a memorable stay for all who visit.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

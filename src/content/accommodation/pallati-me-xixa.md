@@ -1,30 +1,7 @@
----
-title: Pallati me Xixa
-description: This exquisite apartment boasts a spacious terrace that invites guests to bask in the tranquility of its surroundings. Inside, the air-conditioned space is thou
-featuredImage: "/images/accommodation/473863386.jpg"
-language: en
-slug: pallati-me-xixa
-location: ""
-amenities: []
-images: []
----
-
-This exquisite apartment boasts a spacious terrace that invites guests to bask in the tranquility of its surroundings. Inside, the air-conditioned space is thoughtfully designed with a cozy bedroom, a welcoming living room, and a well-equipped kitchen, ensuring a home-away-from-home experience.
+---\ntitle: "Pallati me Xixa"\ndescription: "Pallati me Xixa emerges as a serene retreat in the vibrant heart of Stan i Ri, offering a unique blend of comfort and convenience for travelers seeking an unforgettable stay."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473863386.jpg?k=e9dfaca2260626df3a689f0eeff108b16f9db3f3bc59b9066f803ee793581f90&o=&hp=1"\nlanguage: en\nslug: pallati-me-xixa\naddress: "Rruga e Hencëve no.170 Qerret, 2504 Stan i Ri, Albania"\ncity: "Durres"\nlocation: "Durres"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.21547605\n  lng: 19.50887017\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473863386.jpg?k=e9dfaca2260626df3a689f0eeff108b16f9db3f3bc59b9066f803ee793581f90&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/473863440.jpg?k=0e59a9aaff4b68ca5753f5ec4d632cb0d0412540894988dd9b373deb267d35d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/473863444.jpg?k=2f3629c29f8bc6a26362753751f652ee152132198e944689d71c4668531e176b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/473863447.jpg?k=aca61e0d5f03d428aa3a12d89c77fc8fb5c5b9f9b6c60b29175f2e75aae6dde6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/473863451.jpg?k=dc87e79a9743a7d8a518a74495fae1e650ea50b811481678fb5fd9d1c4c18351&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/473863456.jpg?k=a013bee6d7c96397815eb1468c5965e378914e37e2739d6e45da4897c2bb5536&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/473863460.jpg?k=52a4cfea1f5dc6105df3e720b53c411c653054ffe274a9427cef28c14080cbda&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Ylberi Bar Restorant 350 m"\n  - "Piceri Cegrani 350 m"\nnearbyBeaches:\n  - "Qerret Beach 400 m"\n  - "Mali I Robit Beach 1.7 km"\n  - "Golem Beach 3.7 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\n  - "Durres Beach 8 km"\nwhatsNearby:\n  - "Durres Amphiteatre 12 km"\n  - "1. Maj 12 km"\n  - "Wine Dhe Pooh 12 km"\n  - "Yje Dhe Hena 12 km"\n  - "Sheshi Demokracia 12 km"\n  - "Bekimi 13 km"\n  - "Sotir Noka 13 km"\n  - "Divjake-Karavasta National Park 18 km"\nairports:\n  - "Tirana International Airport Mother Teresa 27 km"\nbookingURL: "https://www.booking.com/hotel/al/pallati-me-xixa.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis exquisite apartment boasts a spacious terrace that invites guests to bask in the tranquility of its surroundings. Inside, the air-conditioned space is thoughtfully designed with a cozy bedroom, a welcoming living room, and a well-equipped kitchen, ensuring a home-away-from-home experience.
 
 For those arriving by car, the convenience of private parking on-site is a notable perk, alongside complimentary WiFi that keeps guests connected throughout their stay. Emphasizing a smoke-free environment, Pallati me Xixa ensures a clean and healthy atmosphere for all visitors.
 
 Situated just 2.7 km from the scenic Mali I Robit Beach and with the Tirana International Mother Teresa Airport 48 km away, this property not only offers ease of access to local attractions but also serves as a peaceful haven for relaxation and rejuvenation.
 
 Pallati me Xixa is more than just a place to stay; it's a gateway to exploring the rich cultural tapestry and natural beauty of Stan i Ri, making it an ideal choice for travelers who seek both adventure and serenity.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

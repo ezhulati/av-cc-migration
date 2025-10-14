@@ -1,28 +1,5 @@
----
-title: Vlora 3D Guesthouse
-description: A mere stone's throw away from the historic Kuzum Baba and only a short distance from Independence Square, the location of Vlora 3D Guesthouse is unbeatable for
-featuredImage: "/images/accommodation/487059966.jpg"
-language: en
-slug: vlora-3d-guesthouse
-location: ""
-amenities: []
-images: []
----
-
-A mere stone's throw away from the historic Kuzum Baba and only a short distance from Independence Square, the location of Vlora 3D Guesthouse is unbeatable for those eager to explore the city's rich cultural tapestry. The guesthouse prides itself on being a smoke-free environment, ensuring a clean and healthy stay for all guests.
+---\ntitle: "Vlora 3D Guesthouse"\ndescription: "Vlora 3D Guesthouse emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, positioned strategically close to both Vjetër Beach and Vlore Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487059966.jpg?k=a67c8b8f079f11f5fa617be0052ef3080f9c1b878558eea268f35fd2986214b5&o=&hp=1"\nlanguage: en\nslug: vlora-3d-guesthouse\naddress: "Rruga Sadik Zotaj, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.46001071\n  lng: 19.49050922\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 9.9\n  location: 9.2\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487059966.jpg?k=a67c8b8f079f11f5fa617be0052ef3080f9c1b878558eea268f35fd2986214b5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487060037.jpg?k=70f03a0fc9a563aa228f28edab85083e09af25d02feee1b8a2700b619847cf89&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487060047.jpg?k=6b5c15006024f52385e502b97efdcb1ae0a038b70501890718e55123b100f417&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493299035.jpg?k=e996272c83890ca1c165142f806f13f30a116e7d49455c605acf9bb7bfa70fa3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493299461.jpg?k=b66be8d80677eb3aa7dc25c990aeaa1e6c336788b919a98d3092e4a8734e2512&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493299530.jpg?k=fcb9bc32e371b0fec480dcb1ba885c29d8fa83c479006cd6cdab46e44bcc9b42&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493299408.jpg?k=3a251836ef0be5e382d74d56d083e005fb43e7532a82476a5252df66437db125&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493299238.jpg?k=5e822de96fac23242d4fd1cfa15d158e74bedfe265d22e3f32cd1da1571020ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493299996.jpg?k=d56b9cbe568ee43ce7e0d1f81e34e06f1afaba61bf0c9960b3fbe3d2894622cb&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Maestro Pizza al Metro 100 m"\n  - "Kali i Trojes 150 m"\nnearbyBeaches:\n  - "Vjetër Beach 1.2 km"\n  - "Vlore Beach 1.4 km"\n  - "Ri Beach 2.7 km"\n  - "Beach at Government Villas 4.4 km"\n  - "Liro Beach 5 km"\nwhatsNearby:\n  - "Kuzum Baba 900 m"\n  - "Independence Square 1.2 km"\n  - "Scooby Doo Vlore 2.7 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Denisv145"\n    country: "Albania"\n    text: "“Ho avuto il piacere di soggiornare in questo appartamento e ne sono rimasto estasiato. Posizione ideale vicinissima al lungomare e centro storico, l'alloggio è spazioso, ristrutturato e luminoso. Dopo giornate intense esplorando Vlora, è stato un...”"\nbookingURL: "https://www.booking.com/hotel/al/vlora-3d-guesthouse.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nA mere stone's throw away from the historic Kuzum Baba and only a short distance from Independence Square, the location of Vlora 3D Guesthouse is unbeatable for those eager to explore the city's rich cultural tapestry. The guesthouse prides itself on being a smoke-free environment, ensuring a clean and healthy stay for all guests.
 
 Guests will find themselves enveloped in comfort within the spacious two-bedroom apartment. The living space is equipped with a flat-screen TV for entertainment, a fully equipped kitchen boasting an oven and stovetop for home-cooked meals, and the convenience of a washing machine. The bathroom includes a bidet, adding a touch of luxury to the daily routine. Notably, the accommodation features a private entrance and soundproofing, offering an oasis of privacy and tranquility amidst the bustling city.
 
 For those traveling from afar, the Tirana International Mother Teresa Airport is located 150 km away, making Vlora 3D Guesthouse an accessible retreat for international and domestic travelers alike.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

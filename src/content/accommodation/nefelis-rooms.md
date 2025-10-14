@@ -1,30 +1,7 @@
----
-title: Nefelis Rooms
-description: Each room, equipped with a flat-screen TV and satellite channels, promises a stay that combines relaxation with modern amenities. Select accommodations boast b
-featuredImage: "/images/accommodation/308190651.jpg"
-language: en
-slug: nefelis-rooms
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Nefelis Rooms"\ndescription: "Nefelis Rooms is a prime choice for travelers seeking comfortable, air-conditioned accommodations in Himare."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308190651.jpg?k=5ed170b4aa3c4214e52778f6cc4a52c86687a5c71bfb703b4acb25004bb184c5&o=&hp=1"\nlanguage: en\nslug: nefelis-rooms\naddress: "Potam Himare, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.09532436\n  lng: 19.75938857\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 55\nratings:\n  overall: 9.7\n  location: 9.3\n  cleanliness: 9.9\n  facilities: 9.5\n  value: 9.5\n  comfort: 9.7\n  staff: 10\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308190651.jpg?k=5ed170b4aa3c4214e52778f6cc4a52c86687a5c71bfb703b4acb25004bb184c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469173499.jpg?k=081648e9f8fd57cadcb405283d5aaef9ca7e3b5edeb805094568a6bc64730e43&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469175441.jpg?k=ce454a1dfdd035835656366f3946abe861ec7a706f847801b9e234ff690d578c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469173095.jpg?k=27e3af6f1d45dd6d926e50ecf488d1a5a192fee437fd78fd5e14b79518cc834c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469174090.jpg?k=3245a4dc3edd1c340ebd91b88ee61c75ba971b0c85b08838a21284c5fa733d53&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469175804.jpg?k=8a8e262f6c5f0e4b626b6b05fb1527eb9bcb4d533b37e77a0bc634b6aef7b00e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469167419.jpg?k=f3cdc5ee2f78b3530d73b49a2b15a3006ee2b6505f49743551fba9e7efef2d57&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469274637.jpg?k=8c4a432c18a5327a17a56ab210df41800ac37a0618224c448decad1432831c3e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485451490.jpg?k=a7681082188ef95be56dfb5fc8b743836fc6a139859069561fd0b0953fe2f687&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Good free WiFi (35 Mbps)"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Taverna Velco 100 m"\n  - "Rapos A la Carte 250 m"\nnearbyBeaches:\n  - "Potam Beach 400 m"\n  - "Prinos Beach 500 m"\n  - "Maracit Beach 900 m"\n  - "Spille Beach 1.1 km"\n  - "Gjiri i Filikurit Beach 1.2 km"\nwhatsNearby:\n  - "Llogora National Park 18 km"\nairports:\n  - "Corfu International Airport 55 km"\nreviews:\n  - name: "Aliaj"\n    country: "Albania"\n    text: "“The property has a very nice location with an amazing sea view that is very relaxing. The staff is very welcoming, polite and helpful. What i like most are the clean rooms that make the stay even better. 10/10 would recommend”"\n  - name: "Albion"\n    country: "Albania"\n    text: "“The location is great, the rooms are clean and spacious. The balcony has a great view of Himara and you can enjoy the sunset.”"\n  - name: "Ben"\n    country: "Australia"\n    text: "“The staff were amazing, the room was clean, spacious and had a breathtaking view over the surrounding landscape, and the hotel was in an amazing location. I would definitely recommend staying here to anyone who is visiting the area.”"\nbookingURL: "https://www.booking.com/hotel/al/nefelis-rooms.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach room, equipped with a flat-screen TV and satellite channels, promises a stay that combines relaxation with modern amenities. 
 
-Each room, equipped with a flat-screen TV and satellite channels, promises a stay that combines relaxation with modern amenities.
+Select accommodations boast breathtaking views, whether it's the serene sea, the lush garden, or the vibrant cityscape, enhancing the guest experience. 
 
-Select accommodations boast breathtaking views, whether it's the serene sea, the lush garden, or the vibrant cityscape, enhancing the guest experience.
-
-The convenience of private bathrooms, complete with either a bath or shower, adds to the comfort of the stay. Additionally, the assurance of a 24-hour front desk ensures that guest needs are promptly attended to at any hour.
+The convenience of private bathrooms, complete with either a bath or shower, adds to the comfort of the stay. Additionally, the assurance of a 24-hour front desk ensures that guest needs are promptly attended to at any hour. 
 
 Located just 32 km from Sarandë and 47 km from Paleokastritsa, Nefelis Rooms is an ideal base for exploring the surrounding areas.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,30 +1,9 @@
----
-title: Yacht Hotel
-description: Positioned merely 3.9 km from the scenic Plazhi i Vjeter Beach and within a comfortable distance of 5 km from both Kuzum Baba and Independence Square, Yacht Hot
-featuredImage: "/images/accommodation/253648717.jpg"
-language: en
-slug: yacht-hotel
-location: ""
-amenities: []
-images: []
----
-
-Positioned merely 3.9 km from the scenic Plazhi i Vjeter Beach and within a comfortable distance of 5 km from both Kuzum Baba and Independence Square, Yacht Hotel serves as an ideal base for explorers keen to immerse themselves in the local culture and natural beauty of the area.
+---\ntitle: "Yacht Hotel"\ndescription: "Yacht Hotel stands as a beacon of comfort and luxury, just a stone's throw away from the pristine sands of Vlore Beach in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/253648717.jpg?k=bf274e43875edd25f53b494ab176a39117e42087f3d781ea78655a262ad50bf3&o=&hp=1"\nlanguage: en\nslug: yacht-hotel\naddress: "Rruga Dhimitër Konomi, 9405 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.43095992\n  lng: 19.49436074\nprice: "US$90"\npriceFrom: 90\nstarRating: 4\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 956\nratings:\n  overall: 9.4\n  location: 9.4\n  cleanliness: 9.7\n  facilities: 9.5\n  value: 9.1\n  comfort: 9.7\n  staff: 9.7\n  wifi: 8.9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/253648717.jpg?k=bf274e43875edd25f53b494ab176a39117e42087f3d781ea78655a262ad50bf3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524931438.jpg?k=02bbdd52f396ef9e4923b29b0d485cd65c2598ed27385e2ab74aec3192422845&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/429479750.jpg?k=303c76eba35201862a4d597d373c80e9f8d00db2ee34f7da9894a46b3e99f45d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/429491419.jpg?k=33c52ec459c3cc8d44475148f78dba1d5bfa30baf870e450f95f9ef49bfae27b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494680419.jpg?k=bdc85aec4db5e6da32100acf5f58338e26dfd3017c69ef02cff26c3db4a8ae2f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384267966.jpg?k=97d78b3dc11035aec9e7106cd2da54412d496499700cf535bb6266da2016b4a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295495493.jpg?k=1daf12d521ca54680453d4ebed18563bb6639ad5d8f1b68927dbfd728fb7b1dd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/287397880.jpg?k=f96b6c82ed642a34a6b721d01bb073de39d7300a4d2d5816c98061f5aad3cb7b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/345836385.jpg?k=86ee7805915f5695b11c1cc4205cc41f26159555446cf6253509106868674e58&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Private beach area"\n  - "Fabulous breakfast"\nroomTypes:\n  - "Superior Double Room with Sea View"\n  - "Deluxe Double Room with Balcony and Sea View"\n  - "Junior Suite with Sea View"\n  - "Deluxe Suite with Sea View"\n  - "Deluxe King Room"\n  - "Two-Bedroom Suite"\n  - "Family Suite with Sea View"\n  - "Family Room with Sea View"\nnearbyRestaurants:\n  - "The Yacht 20 m"\n  - "Mareluna 100 m"\nnearbyBeaches:\n  - "Ri Beach 50 m"\n  - "Vlore Beach 1.3 km"\n  - "Beach at Government Villas 1.4 km"\n  - "Liro Beach 2.1 km"\n  - "Vjetër Beach 2.6 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 600 m"\n  - "Kuzum Baba 4.1 km"\n  - "Independence Square 4.4 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Faisal"\n    country: "United Kingdom"\n    text: "“Fantastic location right in front of the beach. The view from the family room was exquisite! The staff were very friendly. The breakfast was really good.”"\n  - name: "Priyam"\n    country: "United Kingdom"\n    text: "“Location
+Rooms are spacious Staff very friendly
+Amazing breakfast buffet”"\n  - name: "Robert"\n    country: "Netherlands"\n    text: "“This was the second time staying at this hotel and it keeps exceeding my expectations. Absolutely nothing is out of place. The warm, yet professional welcome by the same personnel as before tributes how well this hotel strives to be among the...”"\nbookingURL: "https://www.booking.com/hotel/al/yacht.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nPositioned merely 3.9 km from the scenic Plazhi i Vjeter Beach and within a comfortable distance of 5 km from both Kuzum Baba and Independence Square, Yacht Hotel serves as an ideal base for explorers keen to immerse themselves in the local culture and natural beauty of the area.
 
 The accommodations at Yacht Hotel are designed with the discerning traveler in mind. Each air-conditioned room offers breathtaking sea views, ensuring guests wake up to the serene expanse of the ocean. The thoughtful in-room amenities include a desk, free WiFi, a seating area for moments of relaxation, a flat-screen TV with satellite channels for entertainment, and a private bathroom equipped with a hairdryer and shower. For added convenience, all guest rooms feature a wardrobe.
 
 Morning at Yacht Hotel begins with a delightful continental breakfast, setting the tone for a day of adventure or relaxation. Moreover, the hotel prides itself on its exceptional service, with a dedicated 24-hour front desk team ready to offer advice and ensure a memorable stay for every guest.
 
 Yacht Hotel emerges as a premier choice for travelers seeking a blend of luxury, comfort, and convenience, all wrapped up in an elegant package by the sea.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

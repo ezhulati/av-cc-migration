@@ -1,28 +1,5 @@
----
-title: Amazing Apartment
-description: "The apartment itself is a testament to thoughtful design and comfort, featuring a generous terrace that opens up to breathtaking mountain views."
-featuredImage: "/images/accommodation/427813916.jpg"
-language: en
-slug: amazing-apartment
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Amazing Apartment"\ndescription: "Amazing Apartment in Gjirokastër presents a refreshing retreat for travelers seeking comfort and convenience in one setting."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427813916.jpg?k=f67cb752c8ad3cc141e788595f6902bec86e6e28710428f3257c03690415a323&o=&hp=1"\nlanguage: en\nslug: amazing-apartment\naddress: "Bulevardi 18 Shtatori, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.0835079\n  lng: 20.14285606\nprice: "US$70"\npriceFrom: 70\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427813916.jpg?k=f67cb752c8ad3cc141e788595f6902bec86e6e28710428f3257c03690415a323&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/427813995.jpg?k=2b385c223be9a26e7e45a0f32871dd35cfd8debe4c5f3135e65b75f117150bf0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/427814000.jpg?k=695a9067b0e9cb678c368772fbbbf7a7428bc0373789595418fde6c83cecd9a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/427814006.jpg?k=be9fb194677330d7d9e2b3046b7265486b80f197c00bfb857c07ebec74145c38&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/427814010.jpg?k=a5465d8b4c692f4ca952a61ae61dfdb57b8bfcf8f4a0b7bcc448418a6fd9050a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/427814013.jpg?k=a6344ed801b08696f4de807dc0e6dc3fbc08150de660e14f471bc0867b47ce96&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/427814020.jpg?k=569946cb653dea09c1392b17b577f15752f629d41320c9e957ab78d20ed2e930&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/427814021.jpg?k=2d786c19b9a959d9389c1a3c6c01f1002ad208869d52ab6cbc74386cc587135e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Basic free WiFi (12 Mbps)"\n  - "Private parking"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Modus 100 m"\n  - "Bukowski Bar 150 m"\nairports:\n  - "Corfu International Airport 56 km"\n  - "Ioannina Airport 71 km"\nbookingURL: "https://www.booking.com/hotel/al/amazing-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe apartment itself is a testament to thoughtful design and comfort, featuring a generous terrace that opens up to breathtaking mountain views. Inside, guests will find a well-appointed living space that includes a bedroom, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen with a microwave and fridge, catering to all culinary needs. The inclusion of a bathroom with a bidet and the added bonus of garden views further enhance the living experience, ensuring a stay that is as comfortable as it is memorable.
 
-The apartment itself is a testament to thoughtful design and comfort, featuring a generous terrace that opens up to breathtaking mountain views. Inside, guests will find a well-appointed living space that includes a bedroom, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen with a microwave and fridge, catering to all culinary needs. The inclusion of a bathroom with a bidet and the added bonus of garden views further enhance the living experience, ensuring a stay that is as comfortable as it is memorable.
-
-For those looking to unwind with a drink, the convenience of an on-site bar adds to the apartment's appeal, providing a perfect spot to relax after a day of exploration. Moreover, with Ioannina Airport located just 82 km away, Amazing Apartment serves as an ideal base for both local and international travelers.
+For those looking to unwind with a drink, the convenience of an on-site bar adds to the apartment’s appeal, providing a perfect spot to relax after a day of exploration. Moreover, with Ioannina Airport located just 82 km away, Amazing Apartment serves as an ideal base for both local and international travelers.
 
 In summary, Amazing Apartment stands out as a prime choice for guests who value the blend of modern amenities, strategic location, and the natural beauty of Gjirokastër.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

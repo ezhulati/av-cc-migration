@@ -7,6 +7,11 @@ featuredImage: /images/attractions/dajti-national-park.jpg
 images: []
 language: en
 slug: dajti-national-park
+seo:
+  metaTitle: "%title% & Dajti Ekspres Cable Car"
+  metaDescription: "Explore Dajti National Park in Albania, a haven of biodiversity with rich history, stunning landscapes, and thrilling activities like the Dajti Ekspres Cable."
+  focusKeyword: "Dajti National Park"
+  robots: "index"
 ---
 
 Biodiversity & Stunning Landscapes
@@ -248,10 +253,3 @@ With its stunning landscapes, diverse flora and fauna, and various activities, t
 
 Whether you hike the trails, take a thrilling cable car ride, or enjoy the natural beauty, Dajti National Park will surely leave you with unforgettable memories of Albania’s remarkable outdoor treasures.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

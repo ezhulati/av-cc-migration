@@ -1,28 +1,6 @@
----
-title: BB Moderne Apartments
-description: Each apartment thoughtfully equipped with a kitchen ensures guests feel at home during their stay. A balcony in every unit adds a touch of elegance, allowing v
-featuredImage: "/images/accommodation/296653190.jpg"
-language: en
-slug: bb-moderne-apartments
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "BB Moderne Apartments"\ndescription: "BB Moderne Apartments is a prime choice for travelers seeking comfortable accommodations in Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296653190.jpg?k=2e0729bc78d263bbdc0b9a8ea02da004d0cdb53c7c3794a3370bf5064e55a549&o=&hp=1"\nlanguage: en\nslug: bb-moderne-apartments\naddress: "Rr.Ismal Qemali nr 97 Lagja Kodra Sarand, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87256943\n  lng: 19.99502599\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.1\nratingWords: "Very Good"\nnumberOfReviews: 48\nratings:\n  overall: 8.1\n  location: 8.2\n  cleanliness: 7.9\n  facilities: 7.7\n  value: 8.5\n  comfort: 8.4\n  staff: 8.2\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296653190.jpg?k=2e0729bc78d263bbdc0b9a8ea02da004d0cdb53c7c3794a3370bf5064e55a549&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333004471.jpg?k=9fab3aba8fa9b7d3a967e04c552c1661b1a6f5b60a264b098ce1be0295b14ef1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333006508.jpg?k=5a81453f11f3e951ac8eaec7567759ded2ce24b8c31a23282a9abad58d0499fd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469727807.jpg?k=e5f1ac44569dce345100193974b87f1f9f05d06c73c71dd1806b30f691739053&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333006561.jpg?k=0936c8d6e7441f0a80fd96fb727b33ed1e4304b09f9b43a614dee9242fa67b5a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306365585.jpg?k=defa4131a4345408ad735e4709e7fabf195fad14a30b80ea8ea832805ac68236&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469728126.jpg?k=7f8446977825df3071dcd6a6935bd4a96985d2d886d1f2d002ad107b4b573f0f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469730912.jpg?k=1dd515e92e15ad3a65ff865fe5ad06d4e56faefc2c19d950d2f24e738602daf9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469729112.jpg?k=f935cbc0ebbecf4c19d66f2c61a907c186749195d298c228da6a9928a0c878ea&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Skanderbeg Grill 100 m"\n  - "Taverna Joni 100 m"\nnearbyBeaches:\n  - "Sarande Main Beach 150 m"\n  - "Saranda Bay Beach 1.2 km"\n  - "Saranda City Beach 1.2 km"\n  - "La Petite Beach 1.7 km"\n  - "Maestral Beach 1.8 km"\nwhatsNearby:\n  - "Parc National de Butrint 3 km"\n  - "Butrint National Park 3.6 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Alexanter"\n    country: "Sweden"\n    text: "“The apartment was clean and the staff welcoming and willing to help. The location was very nice close to the beach supermarkets bars etc.”"\n  - name: "Leo"\n    country: "Germany"\n    text: "“Sehr nette Gastgeber super Lage das Apartment wahr sehr sauber und Groß Mann hat alles da was Mann braucht ,Albanien ist ein wunderschönes Land..”"\n  - name: "Osman"\n    country: "Turkey"\n    text: "“Ich war sehr zufriedenmit dem Apartment. Hat alles super geklappt und war sauber.
+Würde ich aufjedenfall weiterempfehlen.”"\nbookingURL: "https://www.booking.com/hotel/al/begus-apartments-saranda.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach apartment thoughtfully equipped with a kitchen ensures guests feel at home during their stay. 
 
-Each apartment thoughtfully equipped with a kitchen ensures guests feel at home during their stay.
-
-A balcony in every unit adds a touch of elegance, allowing visitors to enjoy their private outdoor space. For entertainment and convenience, a TV is provided alongside a private bathroom equipped with either a bath or shower.
+A balcony in every unit adds a touch of elegance, allowing visitors to enjoy their private outdoor space. For entertainment and convenience, a TV is provided alongside a private bathroom equipped with either a bath or shower. 
 
 The kitchen comes fully stocked with essential appliances such as an oven, fridge, and kettle, catering to all culinary needs. Situated just 27 km from Corfu Town, BB Moderne Apartments offers an ideal location for those exploring the surrounding area.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

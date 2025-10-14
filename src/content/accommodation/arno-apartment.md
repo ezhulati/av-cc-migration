@@ -1,30 +1,3 @@
----
-title: Arno Apartment
-description: This smoke-free property boasts a well-appointed apartment featuring a single bedroom, a bathroom, and a fully equipped kitchen, ensuring guests feel at home. E
-featuredImage: "/images/accommodation/527203457.jpg"
-language: en
-slug: arno-apartment
-location: ""
-amenities: []
-images: []
----
-
-This smoke-free property boasts a well-appointed apartment featuring a single bedroom, a bathroom, and a fully equipped kitchen, ensuring guests feel at home. Entertainment needs are catered to with a flat-screen TV, making it an ideal retreat after a day of exploration.
+---\ntitle: "Arno Apartment"\ndescription: "Arno Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Golem."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527203457.jpg?k=88ed7aa6ae15e5b1a5beb4e06e6d94d75182eb1a25974a92b8218266fb04ff62&o=&hp=1"\nlanguage: en\nslug: arno-apartment\naddress: "Rruga Fan Noli, 2505 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.2594666\n  lng: 19.52385144\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527203457.jpg?k=88ed7aa6ae15e5b1a5beb4e06e6d94d75182eb1a25974a92b8218266fb04ff62&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/527203486.jpg?k=c924e7a8cb4584629791e6c23940d081d13846a171d8bc194ff45d36a8e55f5b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/527203491.jpg?k=5feb108587c17cda06a4abc5d3ef3c0159c083ef8cf042415856120dd74f5445&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/527203494.jpg?k=481b5d167c33c359f51ac05afc646293b4e266696222e15851f75efbb44758b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/527203497.jpg?k=401118e2130711ddf204d27bf8dbadaf39774304113bd7f719f3bcf6fe363566&o=&hp=1"\namenities:\n  - "Free parking"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Flobede Furrë Buke 100 m"\n  - "Oaz Durres 500 m"\nnearbyBeaches:\n  - "Golem Beach 350 m"\n  - "Shkëmbi i Kavajës Beach 800 m"\n  - "Mali I Robit Beach 1.3 km"\n  - "Durres Beach 3.2 km"\n  - "Qerret Beach 3.4 km"\nwhatsNearby:\n  - "Bekimi 9 km"\n  - "Durres Amphiteatre 9 km"\n  - "Wine Dhe Pooh 9 km"\n  - "1. Maj 9 km"\n  - "Yje Dhe Hena 9 km"\n  - "Sheshi Demokracia 9 km"\n  - "Sotir Noka 9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/arno-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis smoke-free property boasts a well-appointed apartment featuring a single bedroom, a bathroom, and a fully equipped kitchen, ensuring guests feel at home. Entertainment needs are catered to with a flat-screen TV, making it an ideal retreat after a day of exploration. 
 
 Cultural enthusiasts will appreciate the proximity to the Former Residence of Enver Hoxha, located 45 km away, and the Durres Amphitheatre, just 14 km from the apartment. For those traveling by air, the convenience is further enhanced by the Tirana International Mother Teresa Airport, situated 38 km from Arno Apartment. Offering a harmonious blend of accessibility to both serene beaches and cultural landmarks, Arno Apartment stands out as a top-tier accommodation choice for discerning travelers.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

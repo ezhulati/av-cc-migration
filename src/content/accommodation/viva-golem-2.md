@@ -1,28 +1,5 @@
----
-title: VIVA Golem 2
-description: "Guests are treated to a meticulously appointed apartment that boasts a harmonious blend of comfort and functionality."
-featuredImage: "/images/accommodation/377603507.jpg"
-language: en
-slug: viva-golem-2
-location: ""
-amenities: []
-images: []
----
-
-Guests are treated to a meticulously appointed apartment that boasts a harmonious blend of comfort and functionality. The space is thoughtfully designed with a bedroom, a bathroom equipped with essential linens and towels, and a living area that includes a flat-screen TV for entertainment. The highlight, however, is the balcony that presents an unobstructed view of the sea, promising tranquil mornings and picturesque sunsets. The convenience extends to a fully equipped kitchenette, catering to those who prefer a home-cooked meal even while away from home.
+---\ntitle: "VIVA Golem 2"\ndescription: "VIVA Golem 2 stands as a prime example of beachfront living at its best in Durrës, offering guests the luxury of stepping directly onto the sands of Shkëmbi i Kavajës Beach from their accommodations."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377603507.jpg?k=30e621d964be99897a98aadce0eb41978b23425e67e0201dae3192f401937cb6&o=&hp=1"\nlanguage: en\nslug: viva-golem-2\naddress: "Rruga Skënderbeu, kompleksi Dibra Agza, 92, 2504 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.26994867\n  lng: 19.51798558\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.3\nratingWords: "Very Good"\nnumberOfReviews: 3\nratings:\n  overall: 8.3\n  location: 9.2\n  cleanliness: 6.7\n  facilities: 7.5\n  value: 8.3\n  comfort: 8.8\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377603507.jpg?k=30e621d964be99897a98aadce0eb41978b23425e67e0201dae3192f401937cb6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/377603630.jpg?k=964db43def263bf60299ad9c363698f75ca1776d35dfc741cd8cf46782f1b063&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/377603616.jpg?k=537203c7f585d41967c88489a6751468f0dbbca49b3c6af859d56d3a7f97dc34&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/377603631.jpg?k=26aa2471a5b85cdd4bc80f78edd928d5388bd844c39d1e382dc77b984e97cc35&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/377603627.jpg?k=a7e85b9e8c0b59b9dec191a2e88b62fb7c09dcb4a40f7b2f8f8acea0f9744439&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/377603622.jpg?k=b5a40d60b215e7f9de1a728b40327ec25fd05e2fd0eb8f77395942cae2f69667&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/377837501.jpg?k=96cc0dc2a0904fd6ac8a16bb22f49d3edf4375b31936e4b3cd2966edca4d9a88&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/377603609.jpg?k=97d483d9f71fdb7c5cb6d80b059776f21ab4e0c86275f4e27381e40b18817f41&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/377836786.jpg?k=71f70f1832d26b4a77c7870feed4897ed235b0e72f5773042b49c9ee4d3cbb11&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Anxhelson 40 m"\n  - "Bar Restorant Hotel Arberia 100 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 20 m"\n  - "Golem Beach 500 m"\n  - "Durres Beach 1.9 km"\n  - "Mali I Robit Beach 2.4 km"\n  - "Qerret Beach 4.4 km"\nwhatsNearby:\n  - "Bekimi 7 km"\n  - "Durres Amphiteatre 8 km"\n  - "Wine Dhe Pooh 8 km"\n  - "1. Maj 8 km"\n  - "Yje Dhe Hena 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "Sotir Noka 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/viva-golem-2.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are treated to a meticulously appointed apartment that boasts a harmonious blend of comfort and functionality. The space is thoughtfully designed with a bedroom, a bathroom equipped with essential linens and towels, and a living area that includes a flat-screen TV for entertainment. The highlight, however, is the balcony that presents an unobstructed view of the sea, promising tranquil mornings and picturesque sunsets. The convenience extends to a fully equipped kitchenette, catering to those who prefer a home-cooked meal even while away from home.
 
 For those looking to explore beyond the beach, the apartment is conveniently located within a manageable distance from major attractions. Skanderbeg Square, the heart of Tirana's cultural and historical landscape, is accessible, as is the Dajti Ekspres Cable Car, offering an adventurous route to Dajti Mountain's natural beauty. Moreover, the property is situated 37 km from Tirana International Mother Teresa Airport, with a paid shuttle service available to ensure seamless travel arrangements.
 
 VIVA Golem 2 emerges as a compelling choice for travelers seeking a blend of relaxation, convenience, and a touch of adventure in Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

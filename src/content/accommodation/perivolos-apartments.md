@@ -1,30 +1,7 @@
----
-title: Perivolos Apartments
-description: "Accommodations at Perivolos Apartments are thoughtfully appointed with modern amenities, including flat-screen satellite TVs and refrigerators, cateri..."
-featuredImage: "/images/accommodation/114427900.jpg"
-language: en
-slug: perivolos-apartments
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Perivolos Apartments"\ndescription: "Perivolos Apartments stands out as a prime choice for travelers seeking comfort and convenience in Dhermi."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/114427900.jpg?k=70a8b84d4fbbbb7834ea073f121503a40916ecae9baa46cfee84975451252fd1&o=&hp=1"\nlanguage: en\nslug: perivolos-apartments\naddress: "Kallam, Dhermi, 9425 Dhërmi, Albania"\ncity: "Dhërmi"\nlocation: "Dhërmi"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.153274\n  lng: 19.622076\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 438\nratings:\n  overall: 9.4\n  location: 8.3\n  cleanliness: 9.7\n  facilities: 9.4\n  value: 9.4\n  comfort: 9.5\n  staff: 9.8\n  wifi: 9.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/114427900.jpg?k=70a8b84d4fbbbb7834ea073f121503a40916ecae9baa46cfee84975451252fd1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357702163.jpg?k=7793fcd392088deaef4c7b253ffc80ac037a29f58688f0a42bed4000cf9c14d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357701465.jpg?k=a223217f31f4fd61b1a35659fc7b5cfb9f81a247f5665e214ca956b7ccd1e78a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357701095.jpg?k=2ee87ca5d1842ba061ec2a80380051dd8e3dceebe953f40770f1fa1f8b1ef770&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/261667160.jpg?k=883c9eafcbf486368c923b9daf064e2e97ce4dcd91af728d45be70eba1453b81&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/154213962.jpg?k=c53f213f127bff0736813e1f844159ce302dc3c0070c5b9a50cfe56a35b8d9fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260382670.jpg?k=9ebcda3c84d7030d9f59ca11f622343867382beafae6ebcedbbe0660afacb2d7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260381437.jpg?k=1339c81c611cd8a09666d7b24b54523ce7e1b45e868559f880bf2136225bd2bb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260387013.jpg?k=2e7a75de6d740854affa546473c0958fadc00b4b8ee0675212cf842c93af9b8b&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fast free WiFi (211 Mbps)"\n  - "Family rooms"\n  - "Bar"\n  - "Very good breakfast"\nnearbyRestaurants:\n  - "Luumabeach 500 m"\n  - "Restorant Genti 850 m"\nnearbyBeaches:\n  - "Palasa Beach 500 m"\n  - "Dhermi Beach 1.4 km"\n  - "Nazar Beach 3 km"\n  - "Gjipe Beach 5 km"\n  - "Beach Me Shpella 6 km"\nwhatsNearby:\n  - "Llogora National Park 5 km"\nairports:\n  - "Corfu International Airport 65 km"\nreviews:\n  - name: "Maplethorpe"\n    country: "United Kingdom"\n    text: "“Great location and facilities and breakfast included!”"\n  - name: "Fred"\n    country: "United Kingdom"\n    text: "“Wonderful staff, family run, they really care about their guests and also go above and beyond. Location is absolutely stunning and only a 10 minute walk down to two of the only quiet and secluded beaches in the area as of yet untouched by bad...”"\n  - name: "Marius"\n    country: "Germany"\n    text: "“Wonderful location, beautiful pool, clean room and paradise beach. Family is very peaceful and can speak perfect English”"\nbookingURL: "https://www.booking.com/hotel/al/dhermi-holiday-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Perivolos Apartments are thoughtfully appointed with modern amenities, including flat-screen satellite TVs and refrigerators, catering to the needs of the contemporary traveler. The en-suite bathrooms are well-equipped with showers and come stocked with fresh towels, adding to the comfort of the stay. Guests have the option to choose rooms that offer breathtaking sea views or those that provide serene garden vistas, allowing for a personalized experience tailored to individual preferences.
 
-Accommodations at Perivolos Apartments are thoughtfully appointed with modern amenities, including flat-screen satellite TVs and refrigerators, catering to the needs of the contemporary traveler. The en-suite bathrooms are well-equipped with showers and come stocked with fresh towels, adding to the comfort of the stay. Guests have the option to choose rooms that offer breathtaking sea views or those that provide serene garden vistas, allowing for a personalized experience tailored to individual preferences.
-
-One of the highlights of Perivolos Apartments is its bar, complete with a terrace that offers panoramic views of the hotel's swimming pool, creating an ideal setting for guests to unwind.
+One of the highlights of Perivolos Apartments is its bar, complete with a terrace that offers panoramic views of the hotel's swimming pool, creating an ideal setting for guests to unwind. 
 
 Situated just 2 km from the heart of Dhermi and 3 km from the nearest beach, the location of Perivolos Apartments offers a perfect balance between tranquility and accessibility to local attractions. Additionally, the convenience of complimentary parking adds to the hassle-free experience for those traveling by car.
 
 In summary, Perivolos Apartments presents a compelling option for guests looking for a blend of modern amenities, comfort, and strategic location in Dhermi.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

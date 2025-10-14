@@ -1,28 +1,5 @@
----
-title: GeNi apartments White residence
-description: The apartment itself is a haven of comfort and style, boasting a generous layout that includes a well-appointed bedroom, a cozy living room, and a balcony offer
-featuredImage: "/images/accommodation/422524101.jpg"
-language: en
-slug: geni-apartments-white-residence
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of comfort and style, boasting a generous layout that includes a well-appointed bedroom, a cozy living room, and a balcony offering breathtaking sea views. Modern conveniences are at guests' fingertips, with a flat-screen TV, a fully equipped kitchen featuring a dishwasher and an oven, and a contemporary bathroom equipped with a walk-in shower. The inclusion of towels and bed linen adds a touch of home-like comfort to the stay.
+---\ntitle: "GeNi apartments White residence"\ndescription: "GeNi Apartments White Residence emerges as a prime choice for travelers seeking a serene getaway in Sarandë, perfectly positioned just a short stroll from the pristine Santa Quaranta Beach and within easy reach of the enchanting Butrint National Park."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422524101.jpg?k=97441d09eff0411980ab540c999e42acac1ee1695789bbb1be58100ac668e56d&o=&hp=1"\nlanguage: en\nslug: geni-apartments-white-residence\naddress: "Rruga Butrinti, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.85709481\n  lng: 20.01984381\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422524101.jpg?k=97441d09eff0411980ab540c999e42acac1ee1695789bbb1be58100ac668e56d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422524136.jpg?k=9c9538598faf47f05ed3deeaaac8b545547f3e0abb1f4bff8ac30620b53b20f5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422524128.jpg?k=ea15f1237bd4a22699e9b010a690fe0a91e48d46a499e866d37d9e96a6f8015c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422524124.jpg?k=d1686e6bb4b73ca6e73936b22a7fdfbce63ff0f98e5302081b6be781234818a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422992333.jpg?k=d0a02a44437911dfb03961abacc0bdcc16651ef883bd37bfac3125651f8e52f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422524127.jpg?k=a145155b162dfc0aa83ba726bf48861e113b9a352ca656aa6b229f5bfad570b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422824557.jpg?k=a77c3847e3876ddbc39fd25f4e98c20055f477f46d10093502053ae48c619102&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483455977.jpg?k=c0bf5caa7dcd8f2b3176666ae38baf08d726bd260a63b733d07cb2ddf91bb907&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422991035.jpg?k=357d365e47c2c201c565f4fee2726d7f301eba6ad2195dcb3f6803991b61100a&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Salad Farm 50 m"\n  - "Baken Grill 100 m"\nnearbyBeaches:\n  - "Santa Quaranta Beach 50 m"\n  - "Flamingo Beach 100 m"\n  - "VIP Beach 150 m"\n  - "Mango Beach 300 m"\n  - "Maestral Beach 1.1 km"\nwhatsNearby:\n  - "Parc National de Butrint 500 m"\n  - "Butrint National Park 900 m"\n  - "Plazhi I Krorezes 7 km"\n  - "Parku Kombetar I Butrintit 10 km"\n  - "Butrint National Park 10 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/geni-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of comfort and style, boasting a generous layout that includes a well-appointed bedroom, a cozy living room, and a balcony offering breathtaking sea views. Modern conveniences are at guests' fingertips, with a flat-screen TV, a fully equipped kitchen featuring a dishwasher and an oven, and a contemporary bathroom equipped with a walk-in shower. The inclusion of towels and bed linen adds a touch of home-like comfort to the stay.
 
 For those who appreciate the outdoors, the property offers an inviting outdoor dining area, perfect for enjoying meals under the sky's canvas. Despite its tranquil location, GeNi Apartments White Residence ensures connectivity with complimentary WiFi and the convenience of private parking on site, catering to the needs of modern travelers.
 
 Situated 800 meters from VIP Beach and a mere 48 km from the historical site of Ancient Fanoti, the apartment serves as an ideal base for exploring the rich cultural tapestry of the area. For guests arriving by air, Ioannina Airport is the nearest gateway, located 97 km away, making GeNi Apartments White Residence an accessible retreat for both domestic and international visitors.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

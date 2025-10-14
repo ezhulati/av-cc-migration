@@ -1,30 +1,8 @@
----
-title: Karaburun Sunset Beach
-description: The property is distinguished by its family-friendly accommodations, where each unit is thoughtfully equipped with outdoor furniture for soaking in the scenic s
-featuredImage: "/images/accommodation/302697422.jpg"
-language: en
-slug: karaburun-sunset-beach
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Karaburun Sunset Beach"\ndescription: "Karaburun Sunset Beach emerges as a serene oasis in Orikum, offering guests an exclusive slice of paradise with its private beach area just a stone's throw away from Nettuno Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302697422.jpg?k=f53dcd54f7b3fba15724ec6573f66b14d6a670a2e708fb6e9a7a23951709117f&o=&hp=1"\nlanguage: en\nslug: karaburun-sunset-beach\naddress: "Rruga Pashaliman, 9426 Orikum, Albania"\ncity: "Orikum"\nlocation: "Orikum"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.33586521\n  lng: 19.46802557\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 89\nratings:\n  overall: 9.4\n  location: 9.7\n  cleanliness: 9.6\n  facilities: 9.2\n  value: 9.3\n  comfort: 9.4\n  staff: 9.6\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302697422.jpg?k=f53dcd54f7b3fba15724ec6573f66b14d6a670a2e708fb6e9a7a23951709117f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149103990.jpg?k=18ee2840baf57c31e5a1bc2c9521c2fdc740a07d02c0718e5ab1c9964030bca7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302688000.jpg?k=544d4d16953c4e18b3dabdeb23f913e17687b42f9048498bf9f8c14443d0591b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489851114.jpg?k=5c2b052fb9637f599a3f236b35e91d95bcf80903948ee3776592ebde32fb8bf6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302697229.jpg?k=fed62da141cc1c725fb0486f2d7c15264a25e40afd3b55f8f642bbcf9af47bae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302718600.jpg?k=0cdb81b50fa8d1ae6080a8e7dc17e8dc383ee800f3155f76420e5821378131b8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149103676.jpg?k=adac1d3d191beb9cd2a5bcb858890504ebae534fbc62602a96ddc7433778dcfc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302696711.jpg?k=5ae3d1eec756d68d1834ce7457927ba2ac9efa85a67d80c0df917a2a5a136b2c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149113954.jpg?k=073d90aa310efca7346add4273e578cac6aa9c3b6438cce7c2c42714f3b38331&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Fish House 100 m"\n  - "Pulebardha 2 250 m"\nnearbyBeaches:\n  - "Nettuno Beach 50 m"\n  - "Baro Beach 1,000 m"\n  - "Orikum Beach 1.2 km"\n  - "Al Breeze Beach 1.7 km"\n  - "Radhimë Beach 2.3 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 11 km"\n  - "Llogora National Park 14 km"\n  - "Kuzum Baba 15 km"\n  - "Independence Square 15 km"\nairports:\n  - "Corfu International Airport 89 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Natasa"\n    country: "North Macedonia"\n    text: "“I like everyting... the beach was wonderfull and very near its private beach ... veri clean and comfortable.”"\n  - name: "Mateusz"\n    country: "Austria"\n    text: "“Everything!!! Lovely family, beautiful and private beach. Luxury bathrooms and beach terrace with private tables.
+They even have an electric car charging station with 22K Pure relaxation…”"\n  - name: "Sybille"\n    country: "Albania"\n    text: "“Clean and comfortable room with very good en suite shower room. Beds are super comfortable and fluffy towels.”"\nbookingURL: "https://www.booking.com/hotel/al/karaburun-sunset-beach.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe property is distinguished by its family-friendly accommodations, where each unit is thoughtfully equipped with outdoor furniture for soaking in the scenic surroundings, a flat-screen TV for entertainment, and a private bathroom stocked with fresh bed linen and towels for a home-like comfort.
 
-The property is distinguished by its family-friendly accommodations, where each unit is thoughtfully equipped with outdoor furniture for soaking in the scenic surroundings, a flat-screen TV for entertainment, and a private bathroom stocked with fresh bed linen and towels for a home-like comfort.
-
-For those who prefer the coziness of homemade meals, the apartments are fitted with a handy kitchenette, complete with a fridge and kitchenware, making self-catering a breeze.
+For those who prefer the coziness of homemade meals, the apartments are fitted with a handy kitchenette, complete with a fridge and kitchenware, making self-catering a breeze. 
 
 Situated a mere 200 meters from Orikum Beach and a short drive from Baro Beach, the location of Karaburun Sunset Beach offers an ideal starting point for exploring the local coastline. Moreover, for international travelers, the convenience of Tirana International Mother Teresa Airport being only 168 km away adds to the appeal of choosing this property for their stay.
 
 With its blend of natural beauty, comfort, and convenience, Karaburun Sunset Beach stands out as a top choice for travelers seeking a tranquil retreat by the sea.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

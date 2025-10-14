@@ -1,30 +1,3 @@
----
-title: Ezekiel Luxury Suite
-description: Accommodating guests with a well-appointed bedroom, a bathroom equipped with essentials, and a living space that includes a flat-screen TV compatible with strea
-featuredImage: "/images/accommodation/527652485.jpg"
-language: en
-slug: ezekiel-luxury-suite
-location: ""
-amenities: []
-images: []
----
-
-Accommodating guests with a well-appointed bedroom, a bathroom equipped with essentials, and a living space that includes a flat-screen TV compatible with streaming services, the suite caters to the modern traveler's needs. The dining area and a fully equipped kitchen allow for home-cooked meals, while the balcony presents breathtaking mountain views, perfect for a tranquil retreat. Designed with soundproofing, the apartment promises a peaceful stay, and its allergy-free, non-smoking environment ensures the well-being of all guests.
+---\ntitle: "Ezekiel Luxury Suite"\ndescription: "Ezekiel Luxury Suite emerges as a premier choice for travelers seeking comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527652485.jpg?k=2ffe1628dc5f11b904cffe35130f34d7ad429aa46381c0a0d3c45725c4a84e7f&o=&hp=1"\nlanguage: en\nslug: ezekiel-luxury-suite\naddress: "Rruga Petro Marko, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.42755843\n  lng: 19.49382264\nprice: "US$68"\npriceFrom: 68\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527652485.jpg?k=2ffe1628dc5f11b904cffe35130f34d7ad429aa46381c0a0d3c45725c4a84e7f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527652608.jpg?k=2132bddd84310df1c130cd579aa5bcff0a3628becb4134189c9a42d7c3792d94&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527652621.jpg?k=78f5a2339d20ec4112f1fe4b81995c26356d92f51389ab57486067914daa22ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527652559.jpg?k=3203cf2f6ec2efd2c66d36d2470166e7def523d02f8043745cb3dc16797f788f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528028908.jpg?k=8de95866b6df76cf17506f667952fac671adb10fd2a1400b6a7fee2e317661cc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527652625.jpg?k=8fbb703f483e7f93a7b48a705a66115c26dc98cb5301bdfa6a242ccf22168822&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527652584.jpg?k=6fd79d39042259e8151f361661c237c6aa2d31e9cc7bcac4acaef73455a7b386&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527652616.jpg?k=20436b7565622702be73e8edb9ee9e0a0e0ffd2c447d47194ffb20d2a281a30f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527652562.jpg?k=3104c6f75f4009e6bc10c13c1952b8ab606b6997942df846745a0be50bf8e619&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Bar Restorant Piceri Xhokla 100 m"\n  - "Meteor Bar 150 m"\nnearbyBeaches:\n  - "Ri Beach 300 m"\n  - "Beach at Government Villas 1 km"\n  - "Vlore Beach 1.7 km"\n  - "Liro Beach 1.8 km"\n  - "Coco Bongo Beach 2.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1,000 m"\n  - "Kuzum Baba 4.4 km"\n  - "Independence Square 4.8 km"\nairports:\n  - "Corfu International Airport 97 km"\nbookingURL: "https://www.booking.com/hotel/al/ezekiel-luxury-suite.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodating guests with a well-appointed bedroom, a bathroom equipped with essentials, and a living space that includes a flat-screen TV compatible with streaming services, the suite caters to the modern traveler's needs. The dining area and a fully equipped kitchen allow for home-cooked meals, while the balcony presents breathtaking mountain views, perfect for a tranquil retreat. Designed with soundproofing, the apartment promises a peaceful stay, and its allergy-free, non-smoking environment ensures the well-being of all guests.
 
 Located conveniently close to the pristine Ri Beach, less than 1 km away, and Vlore Beach, just 2.2 km from the doorstep, Ezekiel Luxury Suite offers easy access to some of the area's most beautiful coastlines. For those traveling from afar, the Tirana International Mother Teresa Airport is 155 km away, making the suite a viable option for international and domestic visitors alike.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

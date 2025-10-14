@@ -1,28 +1,5 @@
----
-title: Apartment Tirana
-description: "This elegantly furnished apartment boasts a layout that includes a bedroom, a fully equipped kitchen for those who love to prepare their meals, and a..."
-featuredImage: "/images/accommodation/464951544.jpg"
-language: en
-slug: apartment-tirana
-location: ""
-amenities: []
-images: []
----
-
-This elegantly furnished apartment boasts a layout that includes a bedroom, a fully equipped kitchen for those who love to prepare their meals, and a bathroom, ensuring a stay that combines home comfort with the luxury of being away. Entertainment needs are catered to with a flat-screen TV, and guests can breathe easy in this non-smoking environment.
+---\ntitle: "Apartment Tirana"\ndescription: "Apartment Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464951544.jpg?k=81690b6c34572436d02831e8f2eb045d73f9cc6aedac5b80c5f1af0188e2ab34&o=&hp=1"\nlanguage: en\nslug: apartment-tirana\naddress: "Rruga Urani Pano, Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33747448\n  lng: 19.81698725\nprice: "US$26"\npriceFrom: 26\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 1\nratings:\n  overall: 7.9\n  location: 10\n  cleanliness: 7.5\n  facilities: 5\n  value: 10\n  comfort: 7.5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464951544.jpg?k=81690b6c34572436d02831e8f2eb045d73f9cc6aedac5b80c5f1af0188e2ab34&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/464951593.jpg?k=21c092e5e6d37fe18992c1246b9bf082a331e851d41a4a4420ade87868eb5c8c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/464951602.jpg?k=df11c1d729576f8adf04f817b6f699665cde29ce13cb578cf2464e08c4026b33&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/464951606.jpg?k=d9642dfab3b2a36e9ca6a168ce882e557df4f2cbbdcb1fda8e83a8d5b8c75fd1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/464951617.jpg?k=7fdf3b2413a74a90d969582252d112d608b867bd7d3bed9a3c51cce6e134944b&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 1.2 km"\n  - "National Gallery of Arts Tirana 1.3 km"\n  - "Rinia Park 1.4 km"\n  - "Tanners' Bridge 1.4 km"\n  - "Former Residence of Enver Hoxha 1.8 km"\n  - "Grand Park of Tirana 2.9 km"\n  - "Bunk'Art 1 Museum 3.9 km"\nnearbyRestaurants:\n  - "New Bulevard 150 m"\n  - "Mulliri i vjetër 150 m"\nwhatsNearby:\n  - "Amazing Nature 500 m"\n  - "Sheshi Rekreativ Mine Peza 900 m"\n  - "National Museum of History Albania 900 m"\n  - "Sheshi Rekreativ Don Bosko 900 m"\n  - "Sheshi Paris 900 m"\n  - "Sheshi Skënderbej 1 km"\n  - "Sheshi Sulejman Pasha 1.1 km"\n  - "Skanderbeg Square 1.1 km"\n  - "Clock Tower Tirana 1.1 km"\n  - "Parku Europa 1.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/apartment-tirana-tirane8.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis elegantly furnished apartment boasts a layout that includes a bedroom, a fully equipped kitchen for those who love to prepare their meals, and a bathroom, ensuring a stay that combines home comfort with the luxury of being away. Entertainment needs are catered to with a flat-screen TV, and guests can breathe easy in this non-smoking environment.
 
 Connectivity is never an issue, as free WiFi envelops the property, ensuring that guests remain linked to the world outside, whether for leisure or work. For those looking to immerse themselves in the local culture, the apartment is conveniently located near the National Theatre of Opera and Ballet of Albania, the National Museum of History Albania, and the Toptani Shopping Centre, offering a diverse mix of historical, cultural, and retail experiences.
 
 Travelers will find the Tirana International Mother Teresa Airport 13 km away, making Apartment Tirana an accessible retreat or a starting point for further adventures in Albania. This property stands out as a top recommendation for those eager to explore Tirana's rich history, culture, and modern conveniences.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

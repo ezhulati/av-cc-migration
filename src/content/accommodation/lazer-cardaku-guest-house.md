@@ -1,28 +1,5 @@
----
-title: Lazer Cardaku guest house
-description: This charming bed and breakfast provides complimentary private parking, making it a hassle-free choice for travelers. Accommodations include family rooms equip
-featuredImage: "/images/accommodation/473667811.jpg"
-language: en
-slug: lazer-cardaku-guest-house
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Lazer Cardaku guest house"\ndescription: "Lazer Cardaku Guest House, located in the serene Valbonë, offers a tranquil retreat with its bar and lush garden surroundings."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473667811.jpg?k=bf2c1a0314082acf7ba94f1714077ea28d249dec1fd18b50c1a18d5c89a3d3ec&o=&hp=1"\nlanguage: en\nslug: lazer-cardaku-guest-house\naddress: "Rruga Azem Hajdari Valbone Tropoj, 8702 Valbonë, Albania"\ncity: "Valbonë"\nlocation: "Valbonë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.43783737\n  lng: 19.87550637\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 468\nratings:\n  overall: 9.2\n  location: 9.4\n  cleanliness: 9.2\n  facilities: 8.6\n  value: 9.1\n  comfort: 9.1\n  staff: 9.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473667811.jpg?k=bf2c1a0314082acf7ba94f1714077ea28d249dec1fd18b50c1a18d5c89a3d3ec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472844166.jpg?k=6a74962f94d35cc43168b27b0b293984e3a28424e8bc3a60e1ce54d840ba1dcd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311179176.jpg?k=a576c0626c53790961c7adde4c96ec79c08bf7892b20e627b29f9dc6b46f4c1d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439848582.jpg?k=9eabdbea7dbd8cd29d6aa661487d00016623e000c3574006e15b68f1b0e26d60&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473667698.jpg?k=ba9fa14418bde4c7de4136612df8d58e046c20f7a6bd79ad2203257dbd3d11f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472762450.jpg?k=350aad210cd40e810a5a45501e9e5ec5f9c5e6bd8367f9de3d806c2b534ebae8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311179213.jpg?k=0350b8f27c43d4aa7aa7b508a6be74772a014cf845567bee3d1bd5a91717fbc5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439848657.jpg?k=2479883e3951e0853a9fad42d4883e47b44824e0d1cda87c503a92589bf7e528&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473772301.jpg?k=3161e77809a38818385688db3d1a6117a60f9235292ecb2a1996a4c6b4e5e04d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Family rooms"\n  - "Bar"\n  - "Superb breakfast"\nroomTypes:\n  - "Double Room with Private Bathroom"\n  - "Family Room with Private Bathroom"\n  - "Family Room with Mountain View"\n  - "Double Room"\nnearbyRestaurants:\n  - "Fusha E Gjes 900 m"\n  - "Tahirs Café & Guesthouse 2.4 km"\nwhatsNearby:\n  - "Valbona Valley National Park 0 m"\n  - "Parku Kombëtar Lugina e Valbonës 3.8 km"\n  - "Prokletije National Park 4.4 km"\n  - "Theth National Park 4.4 km"\n  - "Theth National Park 8 km"\n  - "Nacionalni Park Prokletije 11 km"\n  - "Prokletije National Park 12 km"\n  - "Nacionalni park Prokletije 15 km"\n  - "Valbona Valley National Park 20 km"\nairports:\n  - "Podgorica Airport 52 km"\n  - "Tivat Airport 94 km"\n  - "Pristina International Airport 96 km"\nreviews:\n  - name: "Wouter"\n    country: "Belgium"\n    text: "“I stayed at this guesthouse after my Theth to Valbone hike and I was extremely happy with it. It's a bit away from the trail start, but not all the way in Valbone. The owner also drove me to the end of the road the day after (walking back to...”"\n  - name: "Gareth"\n    country: "United Kingdom"\n    text: "“The people were amazing and helpful and the place was very comfortable”"\n  - name: "Louis"\n    country: "Belgium"\n    text: "“Great staff and location. Very local with great dinner”"\nbookingURL: "https://www.booking.com/hotel/al/lazer-cardaku-guest-house.en-gb.html?aid=8035640"\nbestFor: "Best for Hiking Trail Proximity"\nbestCategories: "Hiking Trail Proximity"\ncategory: "Hiking Trail Proximity"\n---\n\nThis charming bed and breakfast provides complimentary private parking, making it a hassle-free choice for travelers. 
 
-This charming bed and breakfast provides complimentary private parking, making it a hassle-free choice for travelers.
-
-Accommodations include family rooms equipped with a private bathroom for guests' convenience.
+Accommodations include family rooms equipped with a private bathroom for guests' convenience. 
 
 Pristina International Airport is 148 km away for those flying in, making Lazer Cardaku an accessible escape into tranquility.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

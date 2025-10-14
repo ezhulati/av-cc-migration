@@ -1,30 +1,7 @@
----
-title: Seaview Apartment Drymades22
-description: The apartment itself is a haven of comfort and luxury, featuring two well-appointed bedrooms, a cozy living room, and a balcony that opens up to mesmerizing sea
-featuredImage: "/images/accommodation/486790157.jpg"
-language: en
-slug: seaview-apartment-drymades22
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of comfort and luxury, featuring two well-appointed bedrooms, a cozy living room, and a balcony that opens up to mesmerizing sea vistas. Equipped with modern amenities such as a flat-screen TV, a fully furnished kitchen complete with a toaster and fridge, and a bathroom with a bidet, guests are guaranteed a stay that marries convenience with elegance. The option to request towels and linens as an added service further enhances the bespoke nature of the stay. Emphasizing privacy and security, the apartment benefits from a private entrance and round-the-clock security, offering peace of mind to its guests.
+---\ntitle: "Seaview Apartment Drymades22"\ndescription: "Seaview Apartment Drymades22 emerges as a prime choice for travelers seeking a serene beachfront escape in Himare, merely a stone's throw away from the pristine Palasa Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486790157.jpg?k=e0d6b4551061432fa2f1dedd50c010b7684daed6d5fc405b04530dee0718c71f&o=&hp=1"\nlanguage: en\nslug: seaview-apartment-drymades22\naddress: "Rruga Perivolo, 9422 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.1565786\n  lng: 19.6220067\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486790157.jpg?k=e0d6b4551061432fa2f1dedd50c010b7684daed6d5fc405b04530dee0718c71f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486790195.jpg?k=fa0cd01a2a78c4940b107c35ba6981aa5c55787a0030386373d431cd4a9bd46b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486790231.jpg?k=b34b35f514e1e1dd750acfe72a24f0334fc49d36828b9abb5ebdd966c93bf7e0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486790173.jpg?k=9c96847898c96045a90c2ec8393119a46df18b4a1cff10b55bd1bd02710ff329&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486790230.jpg?k=387ce8b248b3a1ed25c43af5b5abcc0a8759bfca15de2774436c1d917961d209&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486790252.jpg?k=dfd72d6be379bf60dd656625badfb6e9e58a8082bb8d949ce553ffe7655cc681&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486790254.jpg?k=748f549d796509cf32aac55ccf55d6ec282cdbcf394fd5579842fd34c412222c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486790203.jpg?k=6af79a6ce872dbe232863708dd77765fb88bd5694a4a6a396278843ff15338e6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486790217.jpg?k=45b938d05bc5c51780b17cff84d729e67710ddac88abf30af7a85cfd26123c5e&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Camping Paradise 600 m"\n  - "Taverna Fevan 650 m"\nnearbyBeaches:\n  - "Palasa Beach 750 m"\n  - "Dhermi Beach 1.7 km"\n  - "Nazar Beach 2.9 km"\n  - "Gjipe Beach 5 km"\n  - "Beach Me Shpella 6 km"\nwhatsNearby:\n  - "Llogora National Park 4.7 km"\nairports:\n  - "Corfu International Airport 65 km"\nbookingURL: "https://www.booking.com/hotel/al/seaview-apartment-drymades22.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of comfort and luxury, featuring two well-appointed bedrooms, a cozy living room, and a balcony that opens up to mesmerizing sea vistas. Equipped with modern amenities such as a flat-screen TV, a fully furnished kitchen complete with a toaster and fridge, and a bathroom with a bidet, guests are guaranteed a stay that marries convenience with elegance. The option to request towels and linens as an added service further enhances the bespoke nature of the stay. Emphasizing privacy and security, the apartment benefits from a private entrance and round-the-clock security, offering peace of mind to its guests.
 
 Beyond the confines of the apartment, the property caters to a variety of needs and preferences. A coffee shop on-site promises a delightful start to the day, while a nearby minimarket addresses any last-minute needs. Families visiting with children will appreciate the dedicated kids' pool, ensuring fun for all ages.
 
 For the adventurous at heart, Seaview Apartment Drymades22 does not disappoint. The surrounding area is a playground for outdoor enthusiasts, with activities such as diving, cycling, and fishing readily available. The convenience of bicycle rental service arranged by the property allows guests to explore the scenic beauty of Himare at their own pace.
 
 Situated 162 km from Ioannina Airport, the apartment serves as an ideal retreat for those looking to immerse themselves in the natural beauty of the Albanian coastline, all while enjoying the comforts of a thoughtfully designed accommodation.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

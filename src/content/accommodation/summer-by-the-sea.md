@@ -1,30 +1,7 @@
----
-title: Summer by the Sea
-description: Strategically situated, the property is a mere 41 km from the historic Skanderbeg Square, making it an ideal base for explorers keen on delving into the rich cu
-featuredImage: "/images/accommodation/403384416.jpg"
-language: en
-slug: summer-by-the-sea
-location: ""
-amenities: []
-images: []
----
-
-Strategically situated, the property is a mere 41 km from the historic Skanderbeg Square, making it an ideal base for explorers keen on delving into the rich cultural tapestry of the area. Additionally, the proximity to the Dajti Ekspres Cable Car, 45 km away, offers adventure seekers an easy gateway to breathtaking natural landscapes.
+---\ntitle: "Summer by the Sea"\ndescription: "Summer by the Sea emerges as a serene oasis in Hamallaj, offering guests a unique blend of comfort and convenience with its prime location just a stone's throw away from the pristine Lalëz Bay Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403384416.jpg?k=79a6db8637fbd6687ec46a67cdb9a512b2285e764fd6e0adbecdbbc8a1e449eb&o=&hp=1"\nlanguage: en\nslug: summer-by-the-sea\naddress: "Rruga Hamallaj-Rrushkull, 2010 Hamallaj, Albania"\ncity: "Hamallaj"\nlocation: "Hamallaj"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.48492569\n  lng: 19.51948281\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 12\nratings:\n  overall: 7.5\n  location: 7\n  cleanliness: 8.6\n  facilities: 6.4\n  value: 8\n  comfort: 7\n  staff: 8.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403384416.jpg?k=79a6db8637fbd6687ec46a67cdb9a512b2285e764fd6e0adbecdbbc8a1e449eb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378003253.jpg?k=71c91faefbc1cbcf77099091a140a510844df5f79d68702f22f2381cb6cd2d26&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378003195.jpg?k=d56a6a408a9ef845e719bd041eda6856f5837642dfa10e28c9bde009e3625d11&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378003257.jpg?k=60eeae0e762126d23889e553ea81defe5e637c4fe2db8bb4481d4381fcfef0cd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378003277.jpg?k=92e0ce8063581f38c653df5677343a09e86e8181634a3fff4938f86648932450&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378003338.jpg?k=07a4b717af8fcc6df8b814cf42307dcb6ac55d1b9229325b306641f3d5d5b3b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378003287.jpg?k=d956b8152048a151e79f7f42b5d2b0b294b93c7dc39f1b2125a3ecfdfa96c7d6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378003331.jpg?k=f4973d4ab68accb60956fcd73561fa519316979d3f4f01f31405d09ac087112c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378003218.jpg?k=1867d26fb802a78336a1b95a35f6ec816bf6205d019c50959b85bf5c430022e6&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Bedouin 1.2 km"\n  - "Oasis Bar 2.3 km"\nnearbyBeaches:\n  - "Lalëz Bay Beach 800 m"\nwhatsNearby:\n  - "Bekimi 18 km"\n  - "Sotir Noka 19 km"\n  - "Sheshi Demokracia 19 km"\n  - "Yje Dhe Hena 20 km"\n  - "Wine Dhe Pooh 20 km"\nairports:\n  - "Tirana International Airport Mother Teresa 17 km"\npaymentMethods:\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/summer-by-the-sea.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nStrategically situated, the property is a mere 41 km from the historic Skanderbeg Square, making it an ideal base for explorers keen on delving into the rich cultural tapestry of the area. Additionally, the proximity to the Dajti Ekspres Cable Car, 45 km away, offers adventure seekers an easy gateway to breathtaking natural landscapes.
 
 The apartment itself is a haven of comfort, featuring air-conditioned rooms that come with all the essentials for a self-sufficient stay. Each unit boasts a balcony that invites guests to unwind in the embrace of gentle breezes, a fully equipped kitchen for those who love to cook, and a cozy seating area perfect for relaxing evenings. Entertainment is readily available with a flat-screen TV, and the convenience of a washing machine adds to the hassle-free experience. For peace of mind, a safety deposit box is included in every unit.
 
 Notably, the property is within easy reach of several key attractions, including the Rock of Kavaje, 32 km away, and the intriguing Former Residence of Enver Hoxha, 41 km away. The Durres Amphitheatre, a relic of ancient times, is just 27 km from the apartment, while the House of Leaves museum lies 40 km away, offering a glimpse into the country's past.
 
 Accessibility is a breeze, with Tirana International Mother Teresa Airport located just 32 km from Summer by the Sea, ensuring smooth travel arrangements for guests. This apartment stands as a testament to the perfect blend of location, comfort, and convenience, making it an excellent choice for travelers seeking a memorable stay in Hamallaj.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

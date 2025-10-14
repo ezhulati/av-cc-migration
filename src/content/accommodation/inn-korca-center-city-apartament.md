@@ -4,9 +4,18 @@ description: INN Korça doesn't just offer a place to stay; it provides a home a
 featuredImage: "/images/accommodation/268533976.jpg"
 language: en
 slug: inn-korca-center-city-apartament
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Korçë"
+amenities:
+  - "Restaurant"
+  - "Spa"
+  - "Kitchen"
+  - "Mountain View"
+  - "TV"
 ---
 
 INN Korça doesn't just offer a place to stay; it provides a home away from home with its air-conditioned, spacious apartment that caters to every need. Guests will find themselves enveloped in comfort with a fully equipped kitchen, complete with a toaster, fridge, and all necessary kitchenware, making meal preparation a breeze. The living area, designed for relaxation, includes a cozy seating area and a dining space, perfect for enjoying home-cooked meals or entertaining guests. The apartment boasts two inviting bedrooms and a well-appointed bathroom featuring a bidet and shower, ensuring a comfortable stay for all.
@@ -17,14 +26,3 @@ For those who might need a quick snack or essential items, a convenient minimark
 
 Situated a mere 71 km from Kastoria National Airport, INN Korça, Center City Apartment is not only accessible but stands as a testament to comfort, convenience, and the beauty of Korçë. Whether it's for the stunning mountain views, the comfort of a fully equipped apartment, or the convenience of on-site services, this property promises an unforgettable stay for all who visit.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

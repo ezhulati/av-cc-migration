@@ -1,30 +1,7 @@
----
-title: Saints forty apartments I
-description: The apartment itself is a testament to modern living, featuring air conditioning for those warm Mediterranean days. It includes one separate bedroom, a fully eq
-featuredImage: "/images/accommodation/482859480.jpg"
-language: en
-slug: saints-forty-apartments-i
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Saints forty apartments I"\ndescription: "Saints Forty Apartments I emerges as a prime choice for travelers seeking comfort and convenience in Sarandë, Vlorë County."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482859480.jpg?k=a6918b0fe1bb7c85f002f67f2056fbf218b4a0437c491400c482976a2d5b1bbf&o=&hp=1"\nlanguage: en\nslug: saints-forty-apartments-i\naddress: "Rruga Idriz Alidhima, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87760114\n  lng: 19.9850584\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482859480.jpg?k=a6918b0fe1bb7c85f002f67f2056fbf218b4a0437c491400c482976a2d5b1bbf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/482859525.jpg?k=b83f2cf8b62c459ed324bb5bb48578a2f3519444289fbedc60a90f80091d2025&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/482859536.jpg?k=f507c7545a3b16b19cd68b6d567be17315df212aeb6b584b49d44ea6e4928e04&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/482859522.jpg?k=7923b6e74a0d78db0b42c8f7068a3ea06a18a59c7661c15871f12b8e324332f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/482859544.jpg?k=e65583f1b87a2de666cb4131fe1f51f87e9f954b1153b28fa2b557654c25e734&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/482859517.jpg?k=1ffd804be3716720dd212ae1c714fc845844058dc838e367410e9afa683d137d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/482859514.jpg?k=9774faed09e3dbb5e1e70c0ab53740d8801171003491b82bd2f964145e7ac566&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/482859532.jpg?k=70aca5968b2cbf55ec042411c903b7967fea8c3f4a913821933b258fb57a8a26&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/482859527.jpg?k=d480db7ec46df9add72f90b7ff8a28b75e829ecdd0092cdad6229f243805cdaa&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Terrace"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Kozi Bistro 100 m"\n  - "La Vista del Marine 400 m"\nnearbyBeaches:\n  - "Saranda Bay Beach 300 m"\n  - "Sarande Main Beach 800 m"\n  - "Saranda City Beach 2.1 km"\n  - "La Petite Beach 2.7 km"\n  - "Maestral Beach 2.8 km"\nwhatsNearby:\n  - "Parc National de Butrint 4 km"\n  - "Butrint National Park 4.6 km"\n  - "Plazhi I Krorezes 9 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 73 km"\nbookingURL: "https://www.booking.com/hotel/al/saints-forty-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to modern living, featuring air conditioning for those warm Mediterranean days. It includes one separate bedroom, a fully equipped kitchen for those who prefer to prepare their own meals, and a bathroom. Entertainment needs are met with the provision of a flat-screen TV, ensuring guests have access to their favorite shows and movies.
 
-The apartment itself is a testament to modern living, featuring air conditioning for those warm Mediterranean days. It includes one separate bedroom, a fully equipped kitchen for those who prefer to prepare their own meals, and a bathroom. Entertainment needs are met with the provision of a flat-screen TV, ensuring guests have access to their favorite shows and movies.
-
-For those who appreciate the outdoors, the property's garden offers a peaceful retreat, perfect for relaxation and contemplation.
+For those who appreciate the outdoors, the property's garden offers a peaceful retreat, perfect for relaxation and contemplation. 
 
 Location-wise, Saints Forty Apartments I is ideally positioned. It is merely 400 meters away from the picturesque Saranda Bay Beach, making it an excellent choice for beach enthusiasts. For those looking to explore further, Sarande Main Beach is within 1.2 km, and Saranda City Beach is 2.7 km away, offering a variety of beach experiences. For international travelers, Ioannina Airport is the nearest, located 99 km from the property, making it accessible for those coming from afar.
 
 In summary, Saints Forty Apartments I stands out as a top selection for visitors to Sarandë, offering a blend of comfort, convenience, and proximity to natural beauty.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

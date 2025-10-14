@@ -1,30 +1,7 @@
----
-title: Hotel Renti Velipoje
-description: Each guest room at Hotel Renti Velipoje is a haven of comfort, featuring a private balcony that offers a breath of fresh air and stunning views. The modern conv
-featuredImage: "/images/accommodation/455718521.jpg"
-language: en
-slug: hotel-renti-velipoje
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Hotel Renti Velipoje"\ndescription: "Hotel Renti Velipoje stands as a beacon of four-star luxury on the Velipojë coastline, boasting direct beachfront access that promises an unforgettable stay."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455718521.jpg?k=f130cf3ec302abacc68ef782461ab7d8cb7577b744e91e129440e6d9f3dce1a1&o=&hp=1"\nlanguage: en\nslug: hotel-renti-velipoje\naddress: "Rruga Pashko Selita, 4000 Velipojë, Albania"\ncity: "Velipojë"\nlocation: "Velipojë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.864723\n  lng: 19.422552\nprice: "US$44"\npriceFrom: 44\nstarRating: 4\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 1\nratings:\n  overall: 7.5\n  location: 7.5\n  cleanliness: 10\n  facilities: 5\n  value: 7.5\n  comfort: 5\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455718521.jpg?k=f130cf3ec302abacc68ef782461ab7d8cb7577b744e91e129440e6d9f3dce1a1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455718411.jpg?k=3d2f67be2b08221ece4e262972142f80e73706fbc61b2738fab72845390f37b8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455718567.jpg?k=9f81666da1747ca39bef0575a12e6b812b6e629a55ecbd492a07de2e12f20b73&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455718464.jpg?k=b9d6f686481b0386d3cf1be4c86e0ddbc6611356b15556f0c1caf968ab94b94b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455718619.jpg?k=24ba3c27d3050cae2a4208be3a519587314b81d758dac05f559e6d6f46a04167&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455718532.jpg?k=ef0168437cd0b3ec365bae2970dcaaad2ada03fb7e86b6f76092a6ba9238b5ad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455718467.jpg?k=932816c6979cc0ac38acf1ac390e42b1c970ba85bd84390458ac3c814c7470d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455718107.jpg?k=901ced6a30320d7526056e266390bf58979d7e50fd89f51583f7d47b7aeeabf0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455718634.jpg?k=087fb2dda7d33ff59d7e19a0816e454a14ba9023b65ebcc9711915fb004a129b&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Restaurant"\n  - "Beachfront"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Family Room with Sea View"\nnearbyAttractions:\n  - "Old Town Ulcinj 19 km"\nnearbyRestaurants:\n  - "Mondo Pizza al Mare 50 m"\n  - "Restorant Renti 100 m"\nnearbyBeaches:\n  - "Velipoja Beach 300 m"\n  - "Rana e Hedhun Beach 2.2 km"\n  - "Ada Bojana Beach 4.6 km"\n  - "Velika Plaza Beach 7 km"\nwhatsNearby:\n  - "Copacabana 10 km"\n  - "Cola Beach 11 km"\n  - "Imperiam Beach 13 km"\n  - "Msm Beach 13 km"\n  - "Tropicana 13 km"\n  - "Plaža Safari 14 km"\n  - "Bukurija Beach 14 km"\n  - "Saranda 15 km"\n  - "Plaža Toni 15 km"\n  - "Nudistička Plaža Albatros 18 km"\nairports:\n  - "Tirana International Airport Mother Teresa 54 km"\n  - "Podgorica Airport 55 km"\n  - "Tivat Airport 82 km"\nbookingURL: "https://www.booking.com/hotel/al/renti-velipoje-velipoje.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach guest room at Hotel Renti Velipoje is a haven of comfort, featuring a private balcony that offers a breath of fresh air and stunning views. The modern conveniences don’t end there; air conditioning and flat-screen TVs are standard in every room, ensuring a stay that blends relaxation with the comforts of home.
 
-Each guest room at Hotel Renti Velipoje is a haven of comfort, featuring a private balcony that offers a breath of fresh air and stunning views. The modern conveniences don't end there; air conditioning and flat-screen TVs are standard in every room, ensuring a stay that blends relaxation with the comforts of home.
-
-Mornings at Hotel Renti Velipoje start on a high note with a complimentary Italian breakfast, setting the tone for a day of exploration or relaxation. Whether it's lounging on the beach or enjoying a cocktail at the hotel's bar, guests are treated to top-notch service around the clock, thanks to the dedicated room service and 24-hour front desk.
+Mornings at Hotel Renti Velipoje start on a high note with a complimentary Italian breakfast, setting the tone for a day of exploration or relaxation. Whether it's lounging on the beach or enjoying a cocktail at the hotel’s bar, guests are treated to top-notch service around the clock, thanks to the dedicated room service and 24-hour front desk.
 
 For those looking to venture beyond the sand and sea, the historic Rozafa Castle in Shkodra is a mere 30 km away, offering a glimpse into the region's rich past. Similarly, the tranquil waters of Lake Skadar are just 32 km from the hotel, presenting an ideal day trip for nature enthusiasts. Conveniently, Tirana International Mother Teresa Airport is 83 km away, making Hotel Renti Velipoje an accessible retreat for both local and international travelers.
 
 In summary, Hotel Renti Velipoje is more than just a place to stay; it's a destination that promises an experience rich in comfort, convenience, and unforgettable memories.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Hotel Zogu
-description: The hotel goes above and beyond to cater to the needs of its guests, providing room service, a 24-hour front desk, and the luxury of free WiFi across the premis
-featuredImage: "/images/accommodation/518335568.jpg"
-language: en
-slug: hotel-zogu
-location: ""
-amenities: []
-images: []
----
-
-The hotel goes above and beyond to cater to the needs of its guests, providing room service, a 24-hour front desk, and the luxury of free WiFi across the premises. Each room at Hotel Zogu is thoughtfully designed with the guest's comfort in mind, featuring air conditioning, a desk, and a terrace that offers a stunning view of the city. The inclusion of a private bathroom, a flat-screen TV, bed linen, towels, a wardrobe, and a kettle in every room adds a touch of home to the hotel experience.
+---\ntitle: "Hotel Zogu"\ndescription: "Hotel Zogu stands out as a prime choice for travelers seeking comfort and convenience in Bulqizë, located just 38 km away from the historic Monastery of Saint George the Victorious."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518335568.jpg?k=4819c8227243cf50b70dd6a6a9070bd218401f62acde38c25cf6cba80688a18b&o=&hp=1"\nlanguage: en\nslug: hotel-zogu\naddress: "Bulqize, 8401 Bulqizë, Albania"\ncity: "Bulqizë"\nlocation: "Bulqizë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.49323007\n  lng: 20.21810601\nprice: "US$23"\npriceFrom: 23\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518335568.jpg?k=4819c8227243cf50b70dd6a6a9070bd218401f62acde38c25cf6cba80688a18b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518335623.jpg?k=6bb3d2a78880d5e9dba6e7cef05ff1adf86afa39f230c1d8075a1f9198899fb6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518335607.jpg?k=002a19e157dd1e7e4a29b969237b44b6880b9c3a4d3542538f5e56f5d07a37a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519241249.jpg?k=c28f067903bc404c1dfcc5db17c3b6ca1f0d61160f5af58d9cb84bf4568caffd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518335627.jpg?k=1d9bf604aa85ea8c0fbea347ddb8f798a703d6cd2fd2c40dd31cee29b8e3baca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519241848.jpg?k=aad6dcba2ed12b552bdd8921c5a622b2f69f9309c9176328635685b682716b23&o=&hp=1"\namenities:\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Balcony"\nnearbyRestaurants:\n  - "Sofra Durici 200 m"\n  - "Kashta 950 m"\nwhatsNearby:\n  - "Dajti Mountain National Park 18 km"\nairports:\n  - "Tirana International Airport Mother Teresa 42 km"\n  - "Ohrid Airport 55 km"\nbookingURL: "https://www.booking.com/hotel/al/zogu-bulqize3.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe hotel goes above and beyond to cater to the needs of its guests, providing room service, a 24-hour front desk, and the luxury of free WiFi across the premises. Each room at Hotel Zogu is thoughtfully designed with the guest's comfort in mind, featuring air conditioning, a desk, and a terrace that offers a stunning view of the city. The inclusion of a private bathroom, a flat-screen TV, bed linen, towels, a wardrobe, and a kettle in every room adds a touch of home to the hotel experience.
 
 Guests can start their day on a high note with a variety of breakfast options available at the hotel. Whether one prefers à la carte, continental, or halal, there's something to satisfy every palate.
 
 For those traveling to or from the area, the convenience of Tirana International Mother Teresa Airport being just 69 km away makes Hotel Zogu an ideal stopover or destination in its own right.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

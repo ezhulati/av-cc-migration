@@ -4,9 +4,20 @@ description: Upon arrival, visitors are greeted with the unique feature of a pri
 featuredImage: "/images/accommodation/378385840.jpg"
 language: en
 slug: white-blue-apartments
-location: ""
-amenities: []
 images: []
+category: "null"
+starRating: 4
+rating: 4
+accommodationType: "apartment"
+location: "Tirana"
+amenities:
+  - "Restaurant"
+  - "Bar"
+  - "Spa"
+  - "Kitchen"
+  - "Balcony"
+  - "Mountain View"
+  - "TV"
 ---
 
 Upon arrival, visitors are greeted with the unique feature of a private entrance, leading into spaces that are as welcoming as they are functional. The family-friendly nature of White & Blue Apartments is further highlighted by its thoughtful amenities, including a picnic area designed for memorable moments under the sun.
@@ -17,14 +28,3 @@ The allure of the outdoors is ever-present here, with a garden featuring a barbe
 
 For explorers keen to venture beyond the comfort of their apartment, Mali I Robit Beach offers its sandy shores just 1.4 km away, while the historic Skanderbeg Square awaits 49 km from the property. For international travelers, the convenience of Tirana International Mother Teresa Airport, located 43 km away, makes White & Blue Apartments an accessible haven of relaxation and discovery.
 
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

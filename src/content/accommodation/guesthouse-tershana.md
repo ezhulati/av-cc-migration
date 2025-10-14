@@ -1,15 +1,8 @@
----
-title: Guesthouse Tershana
-description: The property boasts a meticulously maintained garden that offers a tranquil garden view, setting the stage for a relaxing retreat. Guests are treated to a range
-featuredImage: "/images/accommodation/295548377.jpg"
-language: en
-slug: guesthouse-tershana
-location: ""
-amenities: []
-images: []
----
-
-The property boasts a meticulously maintained garden that offers a tranquil garden view, setting the stage for a relaxing retreat. Guests are treated to a range of thoughtful amenities, including an inviting picnic area complemented by an outdoor fireplace, ensuring memorable moments under the stars. The convenience of complimentary WiFi and private parking adds to the seamless experience.
+---\ntitle: "Guesthouse Tershana"\ndescription: "Guesthouse Tershana emerges as a serene haven for travelers seeking a blend of comfort and convenience, located in the picturesque town of Peshkopi."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295548377.jpg?k=7d02dfbfbb85c4ed432f3702d7d0567d65942296346174f4af58019a4adbcb58&o=&hp=1"\nlanguage: en\nslug: guesthouse-tershana\naddress: "Rr. Rahim Gjika Bujtina Tershana, Peshkopi, Albania"\ncity: "Peshkopi"\nlocation: "Peshkopi"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 41.68581547\n  lng: 20.42770464\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 182\nratings:\n  overall: 9.8\n  location: 9.7\n  cleanliness: 9.9\n  facilities: 9.9\n  value: 9.9\n  comfort: 9.9\n  staff: 9.9\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295548377.jpg?k=7d02dfbfbb85c4ed432f3702d7d0567d65942296346174f4af58019a4adbcb58&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295565424.jpg?k=0a6b66308d366b97f1c2c9dc8f72726070b43f653c1b700f255c406182e6a6eb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292030275.jpg?k=def9008b950ae0eb759ac427ac96dfc01e3395944d1d1aa662bd74460053c1a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/290744249.jpg?k=2d8e4765c2e5fab46eaeeb8ff2b4bdebe2e3021da3d31dc85fa497c9276dd485&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379677780.jpg?k=656c05720c445acc86cf702dee2a73da02059373336be21e15e55023afe116e0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295548206.jpg?k=07b2db5877094388171532376eb64a9c36f913fabd3cdff1a44b99ef98197cf1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/286735651.jpg?k=545717a9e5953bab00c3c68002d552b8abd3b46ee91ec9b9eac27ceb5e2f2ec6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/286735554.jpg?k=392f4353aae613370e68d700d980eef1a9571c64cc4d3dca5df35c5501c43527&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/286734884.jpg?k=42bfb89983c090f87fff6d4c098854bea0253a7fd499f2363f7cb81c53945b5e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292030361.jpg?k=d2bf4a1eabdbc556be7e7c49b2df19684cbf0590bdd70378bf9daa32141fce1a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/294539395.jpg?k=405f0018b98fce8187b362f2c67e88ba7b8c9c157439b494dec3b99e771385f0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/286735739.jpg?k=dd9879f6259cdb3052c8b75fa9524247b6cfa17a741e339d6003d320a5149aa9&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Good free WiFi (25 Mbps)"\n  - "Family rooms"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Twin Room"\n  - "Double Room"\n  - "Large Twin Room"\n  - "Deluxe Double Room"\n  - "Deluxe Family Room"\nnearbyRestaurants:\n  - "Bar Kafe \Turizmi i Vjeter\\"\" 50 m"\n  - "New York-Lounge 100 m"\nwhatsNearby:\n  - "Llixhat Peshkopi 1.7 km"\n  - "Llixhat e Peshkopi 1.7 km"\n  - "Lure National Park 19 km"\nairports:\n  - "Ohrid Airport 61 km"\n  - "Tirana International Airport Mother Teresa 65 km"\nreviews:\n  - name: "Daniel"\n    country: "Czech Republic"\n    text: "“Everything.
+All the other positive reviews are an understatement.
+The place is absolutely fabulous and exceptional.
+Bejet, Shprësa, and Linda do an incredible job, and they put in such an amazing and honest effort.
+Everything is perfectly managed,...”"\n  - name: "Pavlina"\n    country: "Czech Republic"\n    text: "“Tershana is a charming place just next to the centre of Peshkopi with extremely kind owners who do absolutely everything for you. The rooms are equipped with sturdy quality furniture and the beds are very comfortable. Breakfast is very good too!”"\n  - name: "Steve"\n    country: "Canada"\n    text: "“Amazing guest house. Beautiful decor and craftsmanship throughout. Great kitchen and garden. Our room was very comfortable, clean and quiet. We were greeted and immediately made to feel welcome on arrival. The owner and his family were all...”"\nbookingURL: "https://www.booking.com/hotel/al/bujtina-tershana.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nThe property boasts a meticulously maintained garden that offers a tranquil garden view, setting the stage for a relaxing retreat. Guests are treated to a range of thoughtful amenities, including an inviting picnic area complemented by an outdoor fireplace, ensuring memorable moments under the stars. The convenience of complimentary WiFi and private parking adds to the seamless experience.
 
 Accommodations at Guesthouse Tershana are thoughtfully designed with guest comfort in mind. Each air-conditioned unit is equipped with a desk, a safety deposit box, a flat-screen TV, and a private bathroom featuring a refreshing shower. The thoughtful touch of chocolates or cookies in the room, along with plush bed linen and towels, elevates the stay.
 
@@ -18,15 +11,3 @@ Culinary delights await guests each morning, with a choice of buffet and contine
 For moments of relaxation, the shared lounge area provides a cozy setting for unwinding or mingling with fellow travelers.
 
 Situated 85 km from Ohrid Airport, Guesthouse Tershana stands out as an inviting destination for those looking to immerse themselves in the beauty and heritage of Peshkopi, offering a blend of hospitality, comfort, and cultural exploration.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

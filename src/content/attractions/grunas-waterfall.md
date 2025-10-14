@@ -7,6 +7,9 @@ featuredImage: /images/attractions/grunas-waterfall.jpg
 images: []
 language: en
 slug: grunas-waterfall
+seo:
+  metaTitle: "Visit Northern Albania's Serene Grunas Waterfall "
+  metaDescription: "Discover the Grunas Waterfall in Theth National Park, where waterfalls tumble down granite cliffs into beautiful pools, creating a winter wonderland. "
 ---
 
 Visit Albania’s Serene Grunas Waterfall
@@ -35,10 +38,3 @@ The journey into this wild and untouched part of Europe is a commitment but offe
 
 Local families living here long before the modern borders were drawn survive off this rugged land and welcome visitors with open arms. They offer a glimpse into a life of awe-inspiring views and traditions, where running family guesthouses is a new chapter in their history. Visiting here is a rare opportunity to see this sacred place up close, guided by those who know it best.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

@@ -1,28 +1,7 @@
----
-title: Guesthouse Iljaz
-description: The holiday home itself is a testament to thoughtful accommodation, featuring a spacious terrace that presents breathtaking mountain views. Inside, the residenc
-featuredImage: "/images/accommodation/479842358.jpg"
-language: en
-slug: guesthouse-iljaz
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Guesthouse Iljaz"\ndescription: "Guesthouse Iljaz emerges as a charming retreat in the heart of Berat, offering guests a blend of comfort and convenience with its array of amenities."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479842358.jpg?k=dfb2fb0aaa57660ca17f03f8bd2159e7662dc654c78f47b62dd5a14ae38167c6&o=&hp=1"\nlanguage: en\nslug: guesthouse-iljaz\naddress: "Rruga Belulaj, 5012 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.70742125\n  lng: 19.92251538\nprice: "US$52"\npriceFrom: 52\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479842358.jpg?k=dfb2fb0aaa57660ca17f03f8bd2159e7662dc654c78f47b62dd5a14ae38167c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479842374.jpg?k=cb6335328ba53f2ef66b56967dd5fe4330625e9049cc0a36e6872ded6ad954eb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479842369.jpg?k=89beb6885d28671d5e7fab56cb4ce59f39e7fae8eb0c8456d059d2077ec867b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479842365.jpg?k=d1bfdf58cad3908789fcb152f586784f4bc2633a78d3fd6943d09d8b5bcc8bd3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479842375.jpg?k=c8cb2a8fcd7787d5910be9c5659f464982d378f6ecfe2a7668a42bfcfbe21631&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488980941.jpg?k=d749b2fecbc9a5849eeb192caf54fd98bf4ef41024712b68bf5d769965ce7b4a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479842367.jpg?k=2cf5f5e0ab0ebe6db05f4f32561ec7085a611140c8efb02203b01d50d67f78f6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479842364.jpg?k=7d46db72a4c29d98748b14f16f324fa2dfdd61b657fb41a102d2fb4b9af9d404&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479842361.jpg?k=50d41fb0fa47ffd12f88f1f5e8d004099542a786c7f105ab7d1e5015a4059cff&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom House"\nnearbyRestaurants:\n  - "Taverna Panorama 650 m"\n  - "Fast Food Polovina 1.5 km"\nwhatsNearby:\n  - "Tomorr Mountain National Park 11 km"\n  - "Sheshi Tomorri 18 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 85 km"\nreviews:\n  - name: "Uwe"\n    country: "Germany"\n    text: "“wunderbarer Blick auf Berat,
+sehr freundliche Gastgeber, perfekt sauber, wurden mit Obst aus dem eigenen Garten beschenkt und durften Olivenöl erwerben,
+sehr zu empfehlen”"\n  - name: "Petra"\n    country: "Germany"\n    text: "“Die Gastfreundschaft war großartig. Wir würden mit Melonen und Tomaten aus dem Garten beschenkt. Bei Fragen waren unsere Gastgeber stets hilfreich.”"\nbookingURL: "https://www.booking.com/hotel/al/panoramic-view-house.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe holiday home itself is a testament to thoughtful accommodation, featuring a spacious terrace that presents breathtaking mountain views. Inside, the residence boasts two well-appointed bedrooms, a cozy living room equipped with a satellite flat-screen TV, an equipped kitchen for those who love to cook, and two bathrooms complete with a walk-in shower and bidet. The highlight for many, however, is the opportunity to dine al fresco in the outdoor dining area, where meals are enjoyed against the backdrop of stunning river views. Importantly, the entire premises are designated as non-smoking, ensuring a clean and fresh environment for all guests.
 
-The holiday home itself is a testament to thoughtful accommodation, featuring a spacious terrace that presents breathtaking mountain views. Inside, the residence boasts two well-appointed bedrooms, a cozy living room equipped with a satellite flat-screen TV, an equipped kitchen for those who love to cook, and two bathrooms complete with a walk-in shower and bidet. The highlight for many, however, is the opportunity to dine al fresco in the outdoor dining area, where meals are enjoyed against the backdrop of stunning river views. Importantly, the entire premises are designated as non-smoking, ensuring a clean and fresh environment for all guests.
-
-For families, the inclusion of a kids pool adds a touch of fun, ensuring that younger guests are entertained, while adults may find solace in the lush garden, a perfect spot for relaxation.
+For families, the inclusion of a kids pool adds a touch of fun, ensuring that younger guests are entertained, while adults may find solace in the lush garden, a perfect spot for relaxation. 
 
 Situated 115 km from Tirana International Mother Teresa Airport, Guesthouse Iljaz presents itself as an ideal choice for travelers seeking a blend of relaxation and adventure in Berat. Whether it's the convenience of a shuttle service, the freedom of a car rental option, or simply the allure of a holiday home that feels like a private escape, this property caters to a wide range of needs and preferences.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

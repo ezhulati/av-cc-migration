@@ -1,26 +1,3 @@
----
-title: Nova apartments Qerret K4
-description: The apartment itself is a testament to thoughtful design and comfort, boasting a well-appointed bedroom, a fully equipped kitchen complete with an oven and frid
-featuredImage: "/images/accommodation/403807537.jpg"
-language: en
-slug: nova-apartments-qerret-k4
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a testament to thoughtful design and comfort, boasting a well-appointed bedroom, a fully equipped kitchen complete with an oven and fridge, and a cozy seating area. The highlight, however, is the bathroom fitted with a hot tub, promising relaxation after a day of exploration. The inclusion of a flat-screen TV ensures entertainment is always at hand. Perhaps the most captivating feature is the outdoor dining area, allowing guests to dine al fresco while soaking in breathtaking sea views, all from the privacy of their own balcony.
+---\ntitle: "Nova apartments Qerret K4"\ndescription: "Nova Apartments Qerret K4 emerges as a prime choice for travelers seeking a serene beachfront escape in Golem, just a stone's throw away from the pristine Qerret Beach and a short distance from the tranquil Mali I Robit Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403807537.jpg?k=de0abfb43e8744163d1d040dd45d4b274179119f51fb47c0995857d5f5d29bc8&o=&hp=1"\nlanguage: en\nslug: nova-apartments-qerret-k4\naddress: "Rruga Qerret Plazh, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.2168947\n  lng: 19.50471298\nprice: "US$59"\npriceFrom: 59\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403807537.jpg?k=de0abfb43e8744163d1d040dd45d4b274179119f51fb47c0995857d5f5d29bc8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/403807499.jpg?k=c808f69e0b32515d3ad6b71ffbbce3a05c6ee25694d6d9fb03fa84a79b6725fe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/403807532.jpg?k=cefd31d401a387b0cb8b6fef8e528173bf10e90391c47f69ec5ad0d62c5144ca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/403807534.jpg?k=d29a7d86bc60cdfed3f0b8698125515087000e8a69e3a71a820749bbb4537599&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/403807538.jpg?k=6d62ec4e9f785c3698211fc17df707fc1c76921a7d94e50f67c81dec093289fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/403807539.jpg?k=c6f526d7b8732bad7a03aefc4959204bc3a10884550ac16709c7b5c1a530fb8a&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Peshku Eger Xhikja 20 m"\n  - "Ylberi Bar Restorant 150 m"\nnearbyBeaches:\n  - "Qerret Beach 40 m"\n  - "Mali I Robit Beach 1.6 km"\n  - "Golem Beach 3.6 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\n  - "Durres Beach 8 km"\nwhatsNearby:\n  - "Durres Amphiteatre 12 km"\n  - "1. Maj 12 km"\n  - "Wine Dhe Pooh 12 km"\n  - "Yje Dhe Hena 12 km"\n  - "Sheshi Demokracia 12 km"\n  - "Sotir Noka 13 km"\n  - "Bekimi 13 km"\n  - "Divjake-Karavasta National Park 18 km"\nairports:\n  - "Tirana International Airport Mother Teresa 27 km"\nbookingURL: "https://www.booking.com/hotel/al/nova-apartaments-qerret-golem1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to thoughtful design and comfort, boasting a well-appointed bedroom, a fully equipped kitchen complete with an oven and fridge, and a cozy seating area. The highlight, however, is the bathroom fitted with a hot tub, promising relaxation after a day of exploration. The inclusion of a flat-screen TV ensures entertainment is always at hand. Perhaps the most captivating feature is the outdoor dining area, allowing guests to dine al fresco while soaking in breathtaking sea views, all from the privacy of their own balcony.
 
 Located 50 km from the historic Skanderbeg Square and a mere 8.5 km from the intriguing Rock of Kavaje, Nova Apartments Qerret K4 serves as an ideal base for those looking to immerse themselves in the local culture and natural beauty. With Tirana International Mother Teresa Airport just 44 km away, accessibility is another feather in its cap, making it a compelling choice for both domestic and international travelers seeking a blend of tranquility, convenience, and luxury by the sea.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

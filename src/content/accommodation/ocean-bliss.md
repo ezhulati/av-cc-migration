@@ -1,28 +1,5 @@
----
-title: Ocean Bliss
-description: This air-conditioned apartment boasts a spacious layout, including a bedroom that promises restful nights. The living space is equipped with a flat-screen TV, p
-featuredImage: "/images/accommodation/471018668.jpg"
-language: en
-slug: ocean-bliss
-location: ""
-amenities: []
-images: []
----
-
-This air-conditioned apartment boasts a spacious layout, including a bedroom that promises restful nights. The living space is equipped with a flat-screen TV, perfect for unwinding after a day of exploration. For those who prefer to dine in, the fully equipped kitchen caters to every culinary need, featuring an oven, microwave, washing machine, fridge, and stovetop. The convenience of towels and bed linen adds to the hassle-free experience, ensuring guests can travel light.
+---\ntitle: "Ocean Bliss"\ndescription: "Ocean Bliss stands out as a prime choice for travelers seeking comfort and convenience in Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471018668.jpg?k=1c4c0665af5b17637bebcc40afa0c48e6e66aa046e1a2126618d4157e0dee65d&o=&hp=1"\nlanguage: en\nslug: ocean-bliss\naddress: "Rruga Gjergj Araniti, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87376021\n  lng: 20.01466778\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471018668.jpg?k=1c4c0665af5b17637bebcc40afa0c48e6e66aa046e1a2126618d4157e0dee65d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471019582.jpg?k=6aaa65517a27396b1764a4d5681c6b9798f7ad0387743baf65bd21c84e46d4b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471025970.jpg?k=0968a25f399bc9d6c65c02e3ca44e725ec1fdc27bb5e8ed294c4803165c2856a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471019718.jpg?k=233506b8ddd1db4d8460509f1d92d993da02b39129b932c157be1c4cba08ba7e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471026021.jpg?k=f661f5c55cfd311e4f537596962514018661fd4a8afdf3819ea84713a4e62ecb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471026313.jpg?k=8444c7979b15c8fa94ef6de8675804774f26e5539ec4d430a70b73edf809f1b4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471018862.jpg?k=a004e88b2febe0137ad0f2006913ece773e1a264e29c11114e7e28eeb0626ccb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471065859.jpg?k=137d6c313a23995d383317021ae0fd2a5481fc132dd2120a93dd6e0fe2c7b465&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471064897.jpg?k=8b97c84b4c72ac422c330592e8d034c18de71536d4c0f5af6fae6891fa8cda0d&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\nnearbyRestaurants:\n  - "TUNELI RESTAURANT 100 m"\n  - "Tunnel Bar and 100 m"\nnearbyBeaches:\n  - "Saranda City Beach 150 m"\n  - "La Petite Beach 600 m"\n  - "Maestral Beach 750 m"\n  - "Sarande Main Beach 1.1 km"\n  - "VIP Beach 1.7 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.9 km"\n  - "Butrint National Park 2.8 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nbookingURL: "https://www.booking.com/hotel/al/ocean-bliss.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis air-conditioned apartment boasts a spacious layout, including a bedroom that promises restful nights. The living space is equipped with a flat-screen TV, perfect for unwinding after a day of exploration. For those who prefer to dine in, the fully equipped kitchen caters to every culinary need, featuring an oven, microwave, washing machine, fridge, and stovetop. The convenience of towels and bed linen adds to the hassle-free experience, ensuring guests can travel light.
 
 With the added benefit of private check-in and check-out, Ocean Bliss prioritizes guest privacy and convenience, making it an ideal choice for those seeking a tranquil retreat. The property's commitment to a non-smoking environment further enhances the comfort of its guests.
 
 For travelers venturing from afar, the nearest airport, Ioannina Airport, is located 96 km away, making Ocean Bliss an accessible destination for international and domestic visitors alike.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

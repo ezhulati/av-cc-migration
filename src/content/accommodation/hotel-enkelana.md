@@ -1,30 +1,12 @@
----
-title: Hotel Enkelana
-description: This esteemed establishment boasts a dedicated restaurant and bar and provides guests with the comfort of air-conditioned rooms, each featuring its own balcony.
-featuredImage: "/images/accommodation/269502559.jpg"
-language: en
-slug: hotel-enkelana
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Hotel Enkelana"\ndescription: "Enkelana Hotel, positioned directly on the shores of Ohrid Lake in Pogradec, presents guests with the luxury of a private beach, ensuring an exclusive lakeside retreat."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269502559.jpg?k=ca7ba2da752e51ddaaf1aef1fd562911d344e60085fe85d927dd2ba2c76505b7&o=&hp=1"\nlanguage: en\nslug: hotel-enkelana\naddress: "Rruga Reshit Collaku, 7301 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.90286\n  lng: 20.658402\nprice: "US$54"\npriceFrom: 54\nstarRating: 4\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 541\nratings:\n  overall: 8.2\n  location: 9.4\n  cleanliness: 8.2\n  facilities: 7.8\n  value: 8.2\n  comfort: 8.3\n  staff: 8\n  wifi: 7.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269502559.jpg?k=ca7ba2da752e51ddaaf1aef1fd562911d344e60085fe85d927dd2ba2c76505b7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/342426401.jpg?k=1907e7fc4baf0f387a9b8e6a9f3409bd6cc231bc4bda7afa322c3650b69ca09f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/342426441.jpg?k=eea175b2eaa083d5b593cd8fd935b0fe167b0d7194234ef4a994823e80ed49d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/148272565.jpg?k=d98e13f7ce63b98a598f19e86d70f746b809a7d104d6e42932f54c4a0b9b262b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309315733.jpg?k=0bfc094d673e1e090fc599fe56495ccb5f7553548d5d04572314ff65960dcaeb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309310696.jpg?k=10f05260e1cdce036fb3475a61e376034447989c9b7d7bf532c26d49eda0de44&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fitness centre"\n  - "Restaurant"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Balcony"\n  - "Twin Room with Balcony"\n  - "Standard Triple Room"\n  - "Triple Room"\n  - "Suite with Lake View"\n  - "Family Room with Balcony"\nnearbyRestaurants:\n  - "Summer longue 40 m"\n  - "Friends Bar and Grill 150 m"\nwhatsNearby:\n  - "Driloni National Park 1 km"\n  - "National Park Galicica 7 km"\n  - "National Park Galicica 14 km"\n  - "Bay of Bones 16 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 72 km"\n  - "Tirana International Airport Mother Teresa 96 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\n  - "Diners Club"\nreviews:\n  - name: "Thomas"\n    country: "Denmark"\n    text: "“Good location and nice big room, we travelled with young children and they loved the rooms and the TV channels. They also used the pool which they loved.”"\n  - name: "Ildishan"\n    country: "United Kingdom"\n    text: "“Everything was good!
+Room was clean and spacious!
+Very quiet!
+The staff when we checked in and out were very friendly and helped a lot. Makes you feel good when people go above and beyond to help you!”"\n  - name: "Peter"\n    country: "United Kingdom"\n    text: "“We had a wonderful two bed suite with 180 degree views of the lake. Stunning and plenty of room for 4 of us.
+Great location on the waterfront.
+Terraces are lovely”"\nbookingURL: "https://www.booking.com/hotel/al/enkelana.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nThis esteemed establishment boasts a dedicated restaurant and bar and provides guests with the comfort of air-conditioned rooms, each featuring its own balcony. 
 
-This esteemed establishment boasts a dedicated restaurant and bar and provides guests with the comfort of air-conditioned rooms, each featuring its own balcony.
+Connectivity is a breeze with complimentary in-room WiFi, and entertainment is guaranteed with satellite TV in all accommodations. 
 
-Connectivity is a breeze with complimentary in-room WiFi, and entertainment is guaranteed with satellite TV in all accommodations.
-
-Convenience is further enhanced by including private bathrooms with showers in every room.
+Convenience is further enhanced by including private bathrooms with showers in every room. 
 
 Additionally, guests benefit from complimentary private parking, adding ease to every stay at Enkelana Hotel.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

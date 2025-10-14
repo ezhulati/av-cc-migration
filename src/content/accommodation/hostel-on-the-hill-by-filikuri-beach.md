@@ -1,32 +1,5 @@
----
-title: Hostel on the Hill - by Filikuri Beach
-description: This property distinguishes itself with its commitment to a smoke-free environment, ensuring a clean and fresh stay for all guests. The availability of free WiF
-featuredImage: "/images/accommodation/526571502.jpg"
-language: en
-slug: hostel-on-the-hill-by-filikuri-beach
-location: ""
-amenities: []
-images: []
----
-
-This property distinguishes itself with its commitment to a smoke-free environment, ensuring a clean and fresh stay for all guests. The availability of free WiFi throughout the hostel allows visitors to stay connected, whether for leisure or work, without the hassle of additional charges. Adding to the charm is a well-maintained garden and a terrace that invites guests to relax and soak in the serene surroundings.
+---\ntitle: "Hostel on the Hill - by Filikuri Beach"\ndescription: "Hostel on the Hill - by Filikuri Beach stands out as a serene retreat in Himare, offering guests a unique blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526571502.jpg?k=bd845ae056f2bea884ba47200e8b77f5ec57e090154a8940891f4617b8db558b&o=&hp=1"\nlanguage: en\nslug: hostel-on-the-hill-by-filikuri-beach\naddress: "Rruga Andre Dhima 61, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "hostel"\ncoordinates:\n  lat: 40.0883808\n  lng: 19.75435902\nprice: "US$16"\npriceFrom: 16\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526571502.jpg?k=bd845ae056f2bea884ba47200e8b77f5ec57e090154a8940891f4617b8db558b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526709376.jpg?k=ef92d3e76da076754f3cae0536fe2d6b811e90138708a03b858251465af60f25&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526571622.jpg?k=b194afa166fdcebe5dfdd44b4f6d9bd00367c6618385149d9ebe6a9c392df3c9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526634165.jpg?k=ff9c4aee9209d780590f63651f019c7fc131255ff4a7dbfaeaa699fa42ab1e64&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526634158.jpg?k=2e10be604431af5ed94062b9723c4802a1b17dccf3c8b7e1d6074bffc3cf2962&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526571700.jpg?k=d7f01a6e88eddac48f7510c30f6a8ff262c29ef76ba52e00e8e7853c9217dea8&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\nroomTypes:\n  - "6-Bed Mixed Dormitory Room"\n  - "6-Bed Mixed Dormitory Room"\n  - "Mixed Dormitory Room"\nnearbyRestaurants:\n  - "Tramonto Ristorante 200 m"\n  - "Fanes & Beach Bar 350 m"\nnearbyBeaches:\n  - "Potam Beach 200 m"\n  - "Gjiri i Filikurit Beach 350 m"\n  - "Prinos Beach 850 m"\n  - "Maracit Beach 1.2 km"\n  - "Llamani Beach 1.3 km"\nwhatsNearby:\n  - "Llogora National Park 18 km"\nairports:\n  - "Corfu International Airport 55 km"\nbookingURL: "https://www.booking.com/hotel/al/hostel-on-the-hill-by-filikuri-beach.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis property distinguishes itself with its commitment to a smoke-free environment, ensuring a clean and fresh stay for all guests. The availability of free WiFi throughout the hostel allows visitors to stay connected, whether for leisure or work, without the hassle of additional charges. Adding to the charm is a well-maintained garden and a terrace that invites guests to relax and soak in the serene surroundings.
 
 Accommodations at Hostel on the Hill - by Filikuri Beach are thoughtfully designed with guest comfort in mind. Each room boasts a balcony, offering a private outdoor space for guests to enjoy the fresh air and views. The convenience of air conditioning and private bathrooms in every room further enhances the stay, ensuring a comfortable and private retreat.
 
 For travelers arriving by air, the nearest hub is Ioannina Airport, located 142 kilometers away, making the hostel an accessible destination for both domestic and international visitors seeking a tranquil getaway by the sea.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

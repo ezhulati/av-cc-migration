@@ -1,30 +1,7 @@
----
-title: Sunny studio in new complex
-description: The Sunny Studio is designed to cater to the needs of modern travelers, featuring a sleek, fully equipped kitchenette complete with an oven and fridge, ensuring
-featuredImage: "/images/accommodation/439208041.jpg"
-language: en
-slug: sunny-studio-in-new-complex
-location: ""
-amenities: []
-images: []
----
-
-The Sunny Studio is designed to cater to the needs of modern travelers, featuring a sleek, fully equipped kitchenette complete with an oven and fridge, ensuring that guests have everything they need at their fingertips. The living space is adorned with a flat-screen TV, perfect for unwinding after a day of exploration. A washing machine adds an extra layer of convenience for longer stays. The apartment boasts a comfortable bedroom and a bathroom equipped with either a bath or shower, complemented by fresh towels and bed linen for a hassle-free stay.
+---\ntitle: "Sunny studio in new complex"\ndescription: "Discover the charm of Tirana with a stay at the Sunny Studio, a modern gem located just a short distance from the city's vibrant heart."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439208041.jpg?k=11541945e79486ca937b8497b9fc4d6bc8c233fb10cdbc3e43ae9db8030b0019&o=&hp=1"\nlanguage: en\nslug: sunny-studio-in-new-complex\naddress: "Rruga e Dibrës, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.34248689\n  lng: 19.83542536\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439208041.jpg?k=11541945e79486ca937b8497b9fc4d6bc8c233fb10cdbc3e43ae9db8030b0019&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/441292680.jpg?k=4e613868a394ee6e6e3c4748795e86a443a041ff73ec6442abe60d9ff6be23a1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439208136.jpg?k=cf92f784e22d48632144b57f223444eab894dcfcdd3ac46165aecd10b87b2860&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/441292519.jpg?k=56d3fd849b6a59ecbd84a9eccc172b358a20d40d3f5749916495f94e67f2ddf5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/441292314.jpg?k=273056335dbe0839ee541f6a3ec906a647954a44e0224d35d9a80cde220f63d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/441293118.jpg?k=a49644bf44fd3c3e5a36202beffa948d225a16499446df951368f52ea4c08021&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439208128.jpg?k=a6e8b14cba88c9b5b1a314efb97d9a5171d18788b60b8dd9e8a34db15c673aa5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439208119.jpg?k=ecef2807feda2055c31ccc9a3764dec7fade004cb69f0eef527eeea7f066602a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/441292787.jpg?k=135ab3761d970de46683053b398d51fc2f1ac1cf0b56e436a010ad703cd6ce1b&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Private parking"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 2.3 km"\n  - "House of Leaves 2.4 km"\n  - "Rinia Park 2.4 km"\n  - "Former Residence of Enver Hoxha 2.8 km"\n  - "Grand Park of Tirana 3.5 km"\nnearbyRestaurants:\n  - "Bar London 50 m"\n  - "Nevada Caffe 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Gjolek Kokona 550 m"\n  - "Sheshi Rekreativ Allias 700 m"\n  - "Sheshi Jjosef Shtraus 850 m"\n  - "Amazing Nature 1.7 km"\n  - "Sheshi Rekreativ tek ish ATSh 1.8 km"\n  - "Sheshi Sulejman Pasha 1.9 km"\n  - "Tanners' Bridge 1.9 km"\n  - "National Museum of History Albania 2.1 km"\n  - "Clock Tower Tirana 2.1 km"\n  - "Skanderbeg Square 2.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 78 km"\nbookingURL: "https://www.booking.com/hotel/al/sunny-studio-in-new-complex.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe Sunny Studio is designed to cater to the needs of modern travelers, featuring a sleek, fully equipped kitchenette complete with an oven and fridge, ensuring that guests have everything they need at their fingertips. The living space is adorned with a flat-screen TV, perfect for unwinding after a day of exploration. A washing machine adds an extra layer of convenience for longer stays. The apartment boasts a comfortable bedroom and a bathroom equipped with either a bath or shower, complemented by fresh towels and bed linen for a hassle-free stay.
 
 For those arriving by car, private parking is available, ensuring peace of mind. The property prides itself on being a non-smoking environment, ensuring a clean and fresh atmosphere for all guests.
 
 Cultural enthusiasts will appreciate the apartment's proximity to the National Theatre of Opera and Ballet of Albania, located just 2.9 km away, while the Bektashi World Centre is a short 3.1 km journey. For ease of travel, the Tirana International Mother Teresa Airport is conveniently situated 16 km from the Sunny Studio, making arrivals and departures as smooth as possible.
 
 The Sunny Studio in the new complex stands out as an ideal choice for travelers seeking a blend of comfort, convenience, and a touch of modern living in the heart of Tirana.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

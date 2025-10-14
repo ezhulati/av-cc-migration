@@ -1,30 +1,3 @@
----
-title: Familiar Studios Sheme
-description: "Accommodations at Familiar Studios Sheme are thoughtfully designed with the guest's comfort in mind, featuring private bathrooms and access to free WiFi across the board."
-featuredImage: "/images/accommodation/527730387.jpg"
-language: en
-slug: familiar-studios-sheme
-location: ''
-amenities: []
-images: []
----
-
-Accommodations at Familiar Studios Sheme are thoughtfully designed with the guest's comfort in mind, featuring private bathrooms and access to free WiFi across the board. Select rooms elevate the experience further, boasting terraces that invite guests to unwind in their own private outdoor space.
+---\ntitle: "Familiar Studios Sheme"\ndescription: "Familiar Studios Sheme emerges as a prime choice for travelers seeking comfort and convenience in the heart of Ksamil."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527730387.jpg?k=76dc3aa78e2e9a242c66b60f43fd8f4592377f2f30545b6d2a1dc49aee17468c&o=&hp=1"\nlanguage: en\nslug: familiar-studios-sheme\naddress: "Rruga Butrint ,Ksamil 0458, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.76403524\n  lng: 20.00145197\nprice: "US$108"\npriceFrom: 108\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527730387.jpg?k=76dc3aa78e2e9a242c66b60f43fd8f4592377f2f30545b6d2a1dc49aee17468c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527968128.jpg?k=fec5876e3710a7232ba13472e4602ff96c2e4ea45f07ee487e1a4a80dad0bc50&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527968129.jpg?k=c65eede0980d221fbf06b14ba5b751350f7a8b8a2e57621972a8dcaa51682be2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527730435.jpg?k=8a6407b56e97864cf29824965d6d50e2313d03aeaaa2cd908944606b4a607004&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527730441.jpg?k=c6bcd1cfb989108f1f004bff1f049c14cd8c4a0c7c766803a000b3243ef39f7b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527730439.jpg?k=2e4c891844c6ffcd1d06790971cc3ebf773f71f54c8a4fb29041f26bc3d92a73&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Standard Triple Studio"\nnearbyAttractions:\n  - "Museum of Banknotes 17 km"\n  - "New Fortress 17 km"\n  - "Serbian Museum 17 km"\n  - "Theotoki G. Square 17 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 18 km"\n  - "Trion Martiron Park 18 km"\n  - "Mon Repos Palace 19 km"\n  - "Kapodistrias Museum 19 km"\nnearbyRestaurants:\n  - "Krenari Grill Station 20 m"\n  - "Mario Seafood 200 m"\nnearbyBeaches:\n  - "Paradise Beach 450 m"\n  - "Ksamil Beach 9 500 m"\n  - "Lori Beach 600 m"\n  - "Puerto Rico Beach 700 m"\n  - "Bora Bora Beach 800 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 400 m"\n  - "Butrint National Park 2.7 km"\n  - "Plazhi I Krorezes 4 km"\n  - "Parc National de Butrint 11 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 17 km"\n  - "Old Fortress 17 km"\nairports:\n  - "Corfu International Airport 19 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/familiar-studios-sheme.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Familiar Studios Sheme are thoughtfully designed with the guest's comfort in mind, featuring private bathrooms and access to free WiFi across the board. Select rooms elevate the experience further, boasting terraces that invite guests to unwind in their own private outdoor space.
 
 For those keen to explore beyond the beach, Butrint National Park offers a slice of natural and historical wonder just 2.7 km away. Additionally, the proximity to Corfu International Airport, located 92 km from the property, facilitates easy travel arrangements for international guests.
-
-#### Was this helpful?
-
-  
-✅ YES  
-  
-❌ NO  
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-  
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

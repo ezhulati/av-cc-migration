@@ -1,30 +1,7 @@
----
-title: Princess Home
-description: Guests are welcomed into a world of comfort and convenience, with the apartment featuring a shared lounge, the luxury of air conditioning, and the added bonuses
-featuredImage: "/images/accommodation/369863661.jpg"
-language: en
-slug: princess-home
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into a world of comfort and convenience, with the apartment featuring a shared lounge, the luxury of air conditioning, and the added bonuses of complimentary private parking and WiFi. The soundproofed property ensures a peaceful stay, complemented by captivating sea views from a private balcony.
+---\ntitle: "Princess Home"\ndescription: "Princess Home emerges as a serene retreat in the heart of Sarandë, merely a stone's throw away from the pristine Saranda City Beach and a short stroll from the charming La Petite Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369863661.jpg?k=9f20df64d84465f7eedff5af18216f9fb5c7a3bd0fbe0674f3f00a2fac16860e&o=&hp=1"\nlanguage: en\nslug: princess-home\naddress: "Rruga Qazim Demi, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.8737541\n  lng: 20.0140361\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 9.5\n  location: 9.2\n  cleanliness: 9.2\n  facilities: 9.2\n  value: 10\n  comfort: 10\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369863661.jpg?k=9f20df64d84465f7eedff5af18216f9fb5c7a3bd0fbe0674f3f00a2fac16860e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369863764.jpg?k=8f33a06aa0c154f024f5a30fb6bd66380435ff8fefaa55d7b23eadd825258d52&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369863739.jpg?k=f874aaf1e7a9637b80e6c8b582e4bc5cc90ba1ee34b25689d14ae7e4a86c0114&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465912056.jpg?k=86d42fb0ff7ba875925a7f6aa70645e29047c463c01a25aab8ff1153add926b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369863782.jpg?k=16f5869251a71987edbdfd21a885c98439bd50c8d33897b650ca50597a99b404&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369863810.jpg?k=bf15296a98358fea27bcbfec36683ee2c80085d3460d942077d7ff0b9d26a78b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369863745.jpg?k=3ce79f82dd2cbdc6d8a073296e7493762918ade1089d4ab2008a661a593a0a31&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465912015.jpg?k=6239df9f6004915a8670ebab099ca1b3d14997cf10d9dfa891855fe791789138&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369863726.jpg?k=3c8167c65a116f71d122b3c2a68994b58516c9af925e2920a400bebffcfdf026&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "La Brasseria da Franco 100 m"\n  - "TUNELI RESTAURANT 100 m"\nnearbyBeaches:\n  - "Saranda City Beach 150 m"\n  - "La Petite Beach 600 m"\n  - "Maestral Beach 750 m"\n  - "Sarande Main Beach 1.1 km"\n  - "VIP Beach 1.7 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.9 km"\n  - "Butrint National Park 2.8 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Anikó"\n    country: "Hungary"\n    text: "“A kilátás, a tulajdonos hozzáállása, segítőkészsége. Gyors probléma megoldása.”"\nbookingURL: "https://www.booking.com/hotel/al/princess-home.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into a world of comfort and convenience, with the apartment featuring a shared lounge, the luxury of air conditioning, and the added bonuses of complimentary private parking and WiFi. The soundproofed property ensures a peaceful stay, complemented by captivating sea views from a private balcony.
 
 The interior of Princess Home is thoughtfully designed for relaxation and entertainment. It houses two cozy bedrooms, a spacious living room adorned with a flat-screen TV, and a fully equipped kitchen complete with an oven and microwave. The inclusion of a bathroom with a bidet, alongside the provision of towels and bed linen, underscores the attention to detail in ensuring a comfortable stay. An outdoor dining area invites guests to enjoy meals under the open sky, adding to the apartment's appeal.
 
 For those looking to explore beyond the comforts of Princess Home, VIP Beach awaits at a distance of 2.4 km, offering a unique beach experience. Meanwhile, the historical allure of Butrint National Park is accessible at 16 km, promising a blend of natural beauty and ancient history. The nearest airport, Ioannina Airport, is located 96 km away, facilitating ease of travel for international and domestic visitors alike.
 
 Princess Home stands out as an ideal choice for travelers seeking a blend of serenity, convenience, and the promise of memorable experiences along the Albanian Riviera.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

@@ -1,28 +1,5 @@
----
-title: Leon Apartments 2
-description: "Offering a glimpse into the urban landscape of Sarandë, the apartment is also a mere 15 km away from the natural wonders of Butrint National Park, mak..."
-featuredImage: "/images/accommodation/473184061.jpg"
-language: en
-slug: leon-apartments-2
-location: ""
-amenities: []
-images: []
----
-
-Offering a glimpse into the urban landscape of Sarandë, the apartment is also a mere 15 km away from the natural wonders of Butrint National Park, making it an ideal base for both city explorers and nature enthusiasts. The interior of the apartment is thoughtfully designed for groups or families, featuring two well-appointed bedrooms, a living area with a flat-screen TV, and a fully equipped kitchen. Here, guests have everything they need to prepare meals just like at home, including a dishwasher, oven, washing machine, fridge, and stovetop.
+---\ntitle: "Leon Apartments 2"\ndescription: "Leon Apartments 2 emerges as a prime choice for travelers seeking comfort and convenience in Sarandë, located just a short stroll from Saranda City Beach and within easy reach of La Petite and Maestral Beaches."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473184061.jpg?k=93b855076258a219872f67704490afe03e1a8ac780254813a815e2aeb82bdcc2&o=&hp=1"\nlanguage: en\nslug: leon-apartments-2\naddress: "Rruga Skënderbeu, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86905886\n  lng: 20.01821127\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 6.1\nratingWords: "Average"\nnumberOfReviews: 2\nratings:\n  overall: 6.1\n  location: 5\n  cleanliness: 6.3\n  facilities: 6.3\n  value: 5\n  comfort: 5\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473184061.jpg?k=93b855076258a219872f67704490afe03e1a8ac780254813a815e2aeb82bdcc2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474605077.jpg?k=44dd47515aaffa111e076c1f513218dedb9f88433d10733c897eea784131ba50&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473184053.jpg?k=3392c0aca75d77b493c3bc3365ca330823078cf04ba5af1a679820e7de2d06b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473184051.jpg?k=34ab9836ee34363edea6b021253da92c372cf42ba1839d77addbf71f0296eb6f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482071028.jpg?k=45df78296836e58d9f4d1ddc18830014d44f932c471fcd206ea06ca3a16a0418&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474607116.jpg?k=e16893382c89085f454e29af8687bcc63937763fb587074d4bfad87311fb45af&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473183993.jpg?k=645eb9b6a07e040eb114f1802e31a3c1c01663413026dbbd58516b4516bbe7e1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473184056.jpg?k=e453f085538889171c903c7298a148d88ae0a35c19145f2ae1728125f34b70b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473184058.jpg?k=8e555181805ef8de454bcfe24360dbee5a8874f7e1c45ad0c82d954b06db6d83&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Kafe Bar Joana 100 m"\n  - "Bar Erdano 300 m"\nnearbyBeaches:\n  - "Maestral Beach 300 m"\n  - "La Petite Beach 300 m"\n  - "Saranda City Beach 500 m"\n  - "VIP Beach 1.1 km"\n  - "Santa Quaranta Beach 1.2 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.3 km"\n  - "Butrint National Park 2.2 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/leon-apartments-sarande1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nOffering a glimpse into the urban landscape of Sarandë, the apartment is also a mere 15 km away from the natural wonders of Butrint National Park, making it an ideal base for both city explorers and nature enthusiasts. The interior of the apartment is thoughtfully designed for groups or families, featuring two well-appointed bedrooms, a living area with a flat-screen TV, and a fully equipped kitchen. Here, guests have everything they need to prepare meals just like at home, including a dishwasher, oven, washing machine, fridge, and stovetop.
 
 One of the highlights of staying at Leon Apartments 2 is the opportunity to dine al fresco. The outdoor dining area offers not just a meal but an experience, allowing guests to savor their creations while taking in the serene sea views. For those looking to add a bit of fun to their stay, the apartment also offers table tennis facilities.
 
 Situated 95 km from Ioannina Airport, the apartment ensures that guests have a smooth transition from travel to tranquility. Leon Apartments 2 is not just a place to stay; it's a gateway to the diverse attractions of Sarandë, promising a memorable experience for all who visit.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

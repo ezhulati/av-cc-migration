@@ -1,30 +1,7 @@
----
-title: DritaStar
-description: The apartment itself is a haven of comfort and convenience, boasting a spacious layout that includes two well-appointed bedrooms, a cozy living room, and a balc
-featuredImage: "/images/accommodation/482761791.jpg"
-language: en
-slug: dritastar
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of comfort and convenience, boasting a spacious layout that includes two well-appointed bedrooms, a cozy living room, and a balcony that presents breathtaking sea views. Modern amenities such as satellite flat-screen TV, free WiFi, and air conditioning ensure a stay that combines relaxation with the comforts of home. The kitchen is fully equipped, catering to guests' culinary needs, while the bathroom features a walk-in shower and a bidet for added convenience.
+---\ntitle: "DritaStar"\ndescription: "DritaStar emerges as a prime choice for travelers seeking a serene beachfront retreat in Durrës, mere steps from the pristine Shkëmbi i Kavajës Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482761791.jpg?k=bf7dde13365397d78872a09c929b7503c223f0543c0d4b03ab059f1f88aa7f96&o=&hp=1"\nlanguage: en\nslug: dritastar\naddress: "Ruga plazh 13 12 and 9, 2021 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.27380791\n  lng: 19.51683304\nprice: "US$65"\npriceFrom: 65\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482761791.jpg?k=bf7dde13365397d78872a09c929b7503c223f0543c0d4b03ab059f1f88aa7f96&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Gelateri Anonimo 50 m"\n  - "Hotel Espana 100 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 30 m"\n  - "Golem Beach 950 m"\n  - "Durres Beach 1.5 km"\n  - "Mali I Robit Beach 2.9 km"\n  - "Qerret Beach 4.8 km"\nwhatsNearby:\n  - "Bekimi 7 km"\n  - "Wine Dhe Pooh 7 km"\n  - "Durres Amphiteatre 7 km"\n  - "Yje Dhe Hena 8 km"\n  - "1. Maj 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "Sotir Noka 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/dritastar.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of comfort and convenience, boasting a spacious layout that includes two well-appointed bedrooms, a cozy living room, and a balcony that presents breathtaking sea views. Modern amenities such as satellite flat-screen TV, free WiFi, and air conditioning ensure a stay that combines relaxation with the comforts of home. The kitchen is fully equipped, catering to guests' culinary needs, while the bathroom features a walk-in shower and a bidet for added convenience.
 
 One of the highlights of DritaStar is the outdoor dining area, allowing guests to savor their meals against the backdrop of a tranquil street view, enhancing the overall dining experience. The commitment to a smoke-free and soundproof environment underscores the property's dedication to providing a peaceful and healthy stay.
 
 Located a mere 1.6 km from Durres Beach and within proximity to Skanderbeg Square, DritaStar offers an excellent starting point for guests eager to explore the cultural and historical landmarks of the region. With Tirana International Mother Teresa Airport just 37 km away, the apartment ensures ease of travel for both domestic and international visitors.
 
 In summary, DritaStar presents an inviting option for those in search of a beachfront getaway that does not compromise on comfort, location, or amenities.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

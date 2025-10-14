@@ -1,26 +1,3 @@
----
-title: Berat2024
-description: Each room is equipped with a flat-screen TV, and guests can expect the added comfort of provided towels and bed linen, emphasizing the property's attention to d
-featuredImage: "/images/accommodation/522961277.jpg"
-language: en
-slug: berat2024
-location: ""
-amenities: []
-images: []
----
-
-Each room is equipped with a flat-screen TV, and guests can expect the added comfort of provided towels and bed linen, emphasizing the property's attention to detail. For those prioritizing a smoke-free environment, Berat2024 stands out as a non-smoking accommodation.
+---\ntitle: "Berat2024"\ndescription: "Berat2024 emerges as a distinguished choice for travelers seeking comfort and convenience in Berat."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522961277.jpg?k=1944497b60b87168fd9d194e73306b9c449a54417ab1efc7d715a71c1816b3c3&o=&hp=1"\nlanguage: en\nslug: berat2024\naddress: "Rruga Antipatrea, 5002 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.71133268\n  lng: 19.93857338\nprice: "US$19"\npriceFrom: 19\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522961277.jpg?k=1944497b60b87168fd9d194e73306b9c449a54417ab1efc7d715a71c1816b3c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/522961406.jpg?k=b803820d063bbbe450d9c786a04cc2e3e53a7a87290d5933c0c8ac22fe332b5d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/522961418.jpg?k=76ef492ba94c58eaadac6c0d880875249bfb0d897778a5ca061a30973084ef83&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/522961382.jpg?k=19fb144a2c1154bb9dc73e2b951b01e54a5a0f4588ee198a884f0fe64a1c0436&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/522961389.jpg?k=9dd902acc6cfc3a5b01b9b7ec46509171d43b2f992755b4a2480889e27bec4be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/522961393.jpg?k=6d06251dfa2b32709d947c6c5c17b4b741378f7100c3d2c2cda0442d72c7c535&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/522961395.jpg?k=8a3d1053fc7f0f4c4a1f03205e5a7228f8953e2d80f400fa730589f99afd3ef7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/522961415.jpg?k=0ec429ba834c2deb823da8252a6f155fc5d7f210dc612c037f3ed40128827b88&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Double Room"\nnearbyRestaurants:\n  - "Sweet House 40 m"\n  - "Pasticeri Landi 400 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 10 km"\n  - "Sheshi Tomorri 18 km"\nairports:\n  - "Tirana International Airport Mother Teresa 78 km"\n  - "Ohrid Airport 84 km"\nbookingURL: "https://www.booking.com/hotel/al/berat2024-berat2.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach room is equipped with a flat-screen TV, and guests can expect the added comfort of provided towels and bed linen, emphasizing the property's attention to detail. For those prioritizing a smoke-free environment, Berat2024 stands out as a non-smoking accommodation.
 
 Situated 116 km from Tirana International Mother Teresa Airport, the guest house offers a serene retreat while remaining accessible for international travelers.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

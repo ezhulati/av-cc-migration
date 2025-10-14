@@ -1,30 +1,7 @@
----
-title: Hotel Driti New Bazaar
-description: The hotel's proximity to significant landmarks, including the iconic Skanderbeg Square, the historical Former Residence of Enver Hoxha, and the charming Tanners
-featuredImage: "/images/accommodation/466806467.jpg"
-language: en
-slug: hotel-driti-new-bazaar
-location: ""
-amenities: []
-images: []
----
-
-The hotel's proximity to significant landmarks, including the iconic Skanderbeg Square, the historical Former Residence of Enver Hoxha, and the charming Tanners' Bridge, adds to its appeal for those looking to immerse themselves in the local history and lifestyle. Moreover, situated just 800 meters from the Toptani Shopping Centre, it offers ample opportunities for guests to engage in retail therapy without venturing far from their temporary home.
+---\ntitle: "Hotel Driti New Bazaar"\ndescription: "Hotel Driti New Bazaar emerges as a prime choice for travelers seeking convenience and comfort in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466806467.jpg?k=c32f0ce8f068463cc0c660341cbd18955199686d444787a7f99384cfa97b5737&o=&hp=1"\nlanguage: en\nslug: hotel-driti-new-bazaar\naddress: "Rruga Hoxhë Vokrri, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.331672\n  lng: 19.828029\nprice: "US$31"\npriceFrom: 31\nstarRating: 5\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 175\nratings:\n  overall: 7.9\n  location: 8.7\n  cleanliness: 7.6\n  facilities: 7.4\n  value: 7.9\n  comfort: 7.5\n  staff: 8.5\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466806467.jpg?k=c32f0ce8f068463cc0c660341cbd18955199686d444787a7f99384cfa97b5737&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467200595.jpg?k=18965c372f42d15cf108bfce4c67c69b83e73c66af6380954b5906805c6125de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467200851.jpg?k=0d7c6e94076cada65320bd95e578109fb8c00dd9073ba5bade8b1a7cc99a8685&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467204183.jpg?k=832c0fd8d81a595fc2e2e6930b71f7e6a2dd6a9d18bb1814fd84370ae6f10562&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467204156.jpg?k=4df8b2059b8b64b43ff2b51babe3e2f2e53313db9ab982e06c7c8913d32f556a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467200343.jpg?k=9c897f5cfda92c198e7b447f89a365e1631451967caed6c02c3572357d15bf98&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Double Room with Private Bathroom"\n  - "Standard King Room"\n  - "Triple Room with Private Bathroom"\n  - "Deluxe Triple Room"\nnearbyAttractions:\n  - "National Museum of History Albania 950 m"\n  - "House of Leaves 1.1 km"\n  - "Rinia Park 1.1 km"\n  - "Former Residence of Enver Hoxha 1.5 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 3.4 km"\nnearbyRestaurants:\n  - "Bar Kafe le Petit 100 m"\n  - "Bar Trattoria Logu 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ tek ish ATSh 400 m"\n  - "Tanners' Bridge 600 m"\n  - "Sheshi Sulejman Pasha 650 m"\n  - "Amazing Nature 750 m"\n  - "Sheshi Jjosef Shtraus 800 m"\n  - "Clock Tower Tirana 800 m"\n  - "Skanderbeg Square 850 m"\n  - "National Gallery of Arts Tirana 850 m"\n  - "Parku Europa 900 m"\n  - "Sheshi Skënderbej 900 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 78 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/driti-new-bazaar.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe hotel's proximity to significant landmarks, including the iconic Skanderbeg Square, the historical Former Residence of Enver Hoxha, and the charming Tanners' Bridge, adds to its appeal for those looking to immerse themselves in the local history and lifestyle. Moreover, situated just 800 meters from the Toptani Shopping Centre, it offers ample opportunities for guests to engage in retail therapy without venturing far from their temporary home.
 
 For those intrigued by natural landscapes and adventure, Hotel Driti New Bazaar is conveniently located 3.8 km from the Dajti Ekspres Cable Car, offering easy access to breathtaking views and outdoor activities. Additionally, the Rock of Kavaje, located 44 km away, presents a perfect day-trip option for guests looking to explore beyond the city limits.
 
 The hotel ensures a seamless stay with amenities such as complimentary WiFi, enhancing the convenience for both leisure and business travelers. Furthermore, the availability of a paid airport shuttle service provides a hassle-free transition to and from Tirana International Mother Teresa Airport, which is a mere 15 km away, ensuring a smooth beginning and end to the travel experience.
 
 Hotel Driti New Bazaar stands out not only for its prime location and essential amenities but also for its commitment to providing a comfortable and convenient base from which guests can explore the vibrant city of Tirana and its surroundings.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

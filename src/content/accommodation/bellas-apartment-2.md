@@ -1,30 +1,7 @@
----
-title: Bellas Apartment 2
-description: The apartment itself is a haven of modern amenities, boasting an air-conditioned space that includes a bedroom, a living room with a flat-screen TV, and a dinin
-featuredImage: "/images/accommodation/483759476.jpg"
-language: en
-slug: bellas-apartment-2
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself is a haven of modern amenities, boasting an air-conditioned space that includes a bedroom, a living room with a flat-screen TV, and a dining area. The kitchen doesn't disappoint, being fully equipped with a dishwasher among other essentials, making it perfect for those who prefer the comforts of home-cooked meals while traveling. The inclusion of towels and bed linen adds a touch of convenience, ensuring a comfortable stay.
+---\ntitle: "Bellas Apartment 2"\ndescription: "Bellas Apartment 2 emerges as a prime choice for travelers seeking a blend of comfort and convenience, with its prime location offering stunning city views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483759476.jpg?k=4ee326a78766cee50795610587443223f10c0067a69fd4d81a8b20eaf99b7a14&o=&hp=1"\nlanguage: en\nslug: bellas-apartment-2\naddress: "Rruga Gjergj Araniti, 9071 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87970898\n  lng: 20.00368222\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 9.9\n  location: 9.2\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483759476.jpg?k=4ee326a78766cee50795610587443223f10c0067a69fd4d81a8b20eaf99b7a14&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487103183.jpg?k=e7cfdf42c6f74199a5aab21b44544b326c918327172f819cd88b79e0a75d89de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487107077.jpg?k=ae772fdb0ae9becd63a67298eb3221f9db1d7e620c42db5c92596c94e57dab05&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463030177.jpg?k=06bd6b883f1455dc78d9765df4c7fb174aa717e7bb772b304a52e14f839d2856&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487105042.jpg?k=a41d3e85bcfc19662dc984fb29fff2bf0fcf415ca2d9e6ed7c5923a0ee0da82e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487109797.jpg?k=7d213b6c6a5bc5a38c888a0201687ba6f33ca760994bc64075c86b78e601b03b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487107529.jpg?k=aa444f306637367e15f64d76d2e1cf454a5a17e8e60022bf9bd128a23284fe6c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487106800.jpg?k=30ccc68cedc79c57cdcf8ab2d2b694de4d21241661dc191666d425897953628a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487106633.jpg?k=9c2189ece850ec477621bcb72a0153f2c91378055233b1ca9b96daf813b6aa2f&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Good free WiFi (40 Mbps)"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Coffee House 150 m"\n  - "Maliq coffee shop 300 m"\nnearbyBeaches:\n  - "Saranda City Beach 800 m"\n  - "Sarande Main Beach 1.2 km"\n  - "La Petite Beach 1.5 km"\n  - "Maestral Beach 1.7 km"\n  - "Saranda Bay Beach 1.9 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.9 km"\n  - "Butrint National Park 3.8 km"\n  - "Plazhi I Krorezes 9 km"\n  - "Parku Kombetar I Butrintit 13 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 31 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Mostafa"\n    country: "Hungary"\n    text: "“The apartment was so clean and it has everything, the host is friendly and flexible.”"\n  - name: "Ramos"\n    country: "Spain"\n    text: "“Muy cómodo, muy bonito y muy buena relacion calidad-precio!”"\n  - name: "Nadiia"\n    country: "Ukraine"\n    text: "“Гарна простора квартира, дуже зручна. Господиня надзвичайно привітна. Рекомендую”"\nbookingURL: "https://www.booking.com/hotel/al/bellas-apartment-2.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a haven of modern amenities, boasting an air-conditioned space that includes a bedroom, a living room with a flat-screen TV, and a dining area. The kitchen doesn't disappoint, being fully equipped with a dishwasher among other essentials, making it perfect for those who prefer the comforts of home-cooked meals while traveling. The inclusion of towels and bed linen adds a touch of convenience, ensuring a comfortable stay.
 
 Guests will particularly enjoy the outdoor dining area, which provides a unique opportunity to dine al fresco while soaking in the city's vibrant atmosphere. Free WiFi throughout the property ensures that guests stay connected, whether for leisure or work.
 
 For those looking to explore beyond the city, Butrint National Park offers a glimpse into the area's rich history and natural beauty, located just 17 km away. Additionally, the proximity to Ioannina Airport, 97 km from the apartment, facilitates easy travel arrangements for international guests.
 
 Bellas Apartment 2 represents an ideal accommodation choice for those who value the blend of strategic location, modern comforts, and the freedom to explore Sarande at their own pace.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

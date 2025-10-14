@@ -7,6 +7,10 @@ featuredImage: /images/attractions/dafina-bay-karaburun-albania.jpg
 images: []
 language: en
 slug: dafina-bay-karaburun-albania
+seo:
+  metaTitle: "Dafina Bay - Karaburun's Turquoise Treasure %sep% %sitename%"
+  metaDescription: "Experience Dafina Bay, Karaburun's hidden gem. Dive into its turquoise waters, soak up the sun on its pristine pebble shores, and create lasting memories."
+  focusKeyword: "Dafina Bay"
 ---
 
 Why Visit Dafina Bay
@@ -39,10 +43,3 @@ Come with an open mind and a spirit of exploration. Pitch a tent under the stars
 
 So set your compass for this unique coastal sanctuary on Albania’s Karaburun Peninsula. Away from the tides of tourism, an authentic experience awaits at Dafina Bay, where turquoise waters meet unspoiled nature.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

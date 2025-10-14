@@ -1,30 +1,10 @@
----
-title: Moni Apartments
-description: This accommodation stands out for its thoughtful amenities, including air conditioning, ensuring a comfortable stay regardless of the season. Guests will apprec
-featuredImage: "/images/accommodation/428263123.jpg"
-language: en
-slug: moni-apartments
-location: ""
-amenities: []
-images: []
----
-
-This accommodation stands out for its thoughtful amenities, including air conditioning, ensuring a comfortable stay regardless of the season. Guests will appreciate the convenience of free private parking, a feature that adds to the ease of exploring the surrounding area by car.
+---\ntitle: "Moni Apartments"\ndescription: "Moni Apartments emerges as a prime choice for travelers seeking comfort and convenience in Korçë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428263123.jpg?k=3f0e9e6ec04fded2b9e7cde3f73c7c7c09e4f69051cfff2a5bf2d80339125b37&o=&hp=1"\nlanguage: en\nslug: moni-apartments\naddress: "Rruga Dhimitër Denasi, 7001 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.62277843\n  lng: 20.77854882\nprice: "US$86"\npriceFrom: 86\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 9\nratings:\n  overall: 8.8\n  location: 9.1\n  cleanliness: 9.1\n  facilities: 8.4\n  value: 8.8\n  comfort: 8.4\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428263123.jpg?k=3f0e9e6ec04fded2b9e7cde3f73c7c7c09e4f69051cfff2a5bf2d80339125b37&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428263108.jpg?k=2c41e45521bb1322f89ac252540cabc86041c5ade65e9543443f370f7dbe465d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428263115.jpg?k=efc15816bf7fde15d21b692df5acc58b56541706151334c2395ecbcd2c07fbe5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428263127.jpg?k=a6e9edba162e36c5d2523a7b6e91510f0d2b92b5a437a55334cc6b5b0b106654&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440673303.jpg?k=d21113169f7f4684c33657e70073fcfd3e48ea9b60a727917272da2d316bffbc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428263072.jpg?k=f5f9631a3887308571d974dc1d26ffe7ba2a96c794d3d860a80c9c142feb4183&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428263113.jpg?k=66df5f409f006b562403c7602b0e543d271bcb00da421ef1b40ce06d904e9889&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428263119.jpg?k=d7c18950af9f69a786c6edb8328b434133bb8db98bfaa312d61b34197ca5d068&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428263121.jpg?k=d75e4bfcf6a5aca1866f8eb8e961b49f1ace65649c6457df5d314c007efd1b74&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Restorant Pirro. 9 m"\n  - "Korca 50 m"\nwhatsNearby:\n  - "Parku Themistokli Gërmenji 550 m"\n  - "Field of Tears 550 m"\n  - "Parku Rinia 800 m"\n  - "Parku Vangjush Mio 800 m"\n  - "Parku Rinia 800 m"\n  - "Sheshi Patriku Joasaf 900 m"\n  - "Sheshi Panxhar 5 km"\n  - "Sheshi Koço Plaku 12 km"\n  - "Sheshi Penetori 12 km"\nairports:\n  - "Kastoria National Airport 45 km"\n  - "Ohrid Airport 60 km"\n  - "Kozani National Airport 97 km"\nreviews:\n  - name: "Xhejson"\n    country: "Italy"\n    text: "“Appartamento ampio e ben arredato.
+Bagno molto pulito, provvisto di sapone liquido per mani, lavatrice e tutto il necessario.
+Buona la posizione: a pochi passi dal centro.
+Ascensore con chiave elettronica e al piano terra ampia disponibilità di...”"\n  - name: "Jacqueline"\n    country: "Netherlands"\n    text: "“Nice and large appartement in a good location (5min walk to center). We enjoyed sitting on the balcony and watch the korce skyline”"\n  - name: "Fredi"\n    country: "Albania"\n    text: "“Very good host, very clean and quitw play to stay. We recommend it to everybody.”"\nbookingURL: "https://www.booking.com/hotel/al/moni.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis accommodation stands out for its thoughtful amenities, including air conditioning, ensuring a comfortable stay regardless of the season. Guests will appreciate the convenience of free private parking, a feature that adds to the ease of exploring the surrounding area by car.
 
 The apartment itself is a testament to modern living, boasting 2 well-appointed bedrooms, a fully equipped kitchen for those who prefer to prepare their own meals, and a bathroom. Entertainment needs are catered to with the provision of a flat-screen TV, making it a cozy retreat after a day of adventure. Additionally, the inclusion of a balcony offers a private outdoor space to relax and unwind.
 
 Importantly, Moni Apartments is committed to providing a smoke-free environment, ensuring a clean and healthy stay for all guests. For those traveling by air, the proximity to Kastoria National Airport, located 70 km away, underscores the property's accessibility.
 
 In summary, Moni Apartments presents a compelling option for visitors to Korçë, combining essential amenities with a prime location to offer a comfortable and convenient stay.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

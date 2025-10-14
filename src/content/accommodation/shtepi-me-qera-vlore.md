@@ -1,26 +1,3 @@
----
-title: Shtepi me qera Vlore
-description: The apartment itself boasts a thoughtful layout, featuring two well-appointed bedrooms, a bathroom, and a kitchen equipped with everything needed for a self-suf
-featuredImage: "/images/accommodation/493814737.jpg"
-language: en
-slug: shtepi-me-qera-vlore
-location: ""
-amenities: []
-images: []
----
-
-The apartment itself boasts a thoughtful layout, featuring two well-appointed bedrooms, a bathroom, and a kitchen equipped with everything needed for a self-sufficient stay. Entertainment needs are also catered to with the inclusion of a flat-screen TV, making it an ideal retreat for relaxation after a day of exploring.
+---\ntitle: "Shtepi me qera Vlore"\ndescription: "Shtepi me qera Vlore stands out as a prime choice for travelers seeking comfortable lodging in Vlorë, conveniently positioned just a short distance from the iconic Kuzum Baba at 1."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493814737.jpg?k=54379b235f50b55bbf3278151f0959139187883260c76fd8024d7c4235b6dccd&o=&hp=1"\nlanguage: en\nslug: shtepi-me-qera-vlore\naddress: "Rruga Rakip Malile, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.47846795\n  lng: 19.48820806\nprice: "US$30"\npriceFrom: 30\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493814737.jpg?k=54379b235f50b55bbf3278151f0959139187883260c76fd8024d7c4235b6dccd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/493814828.jpg?k=f1679d7a96e71b6a1346a80451ab7692e96d0496c2beceb88de164a5d7766244&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/493814837.jpg?k=c24ed3732a18acf1fa02a7ed7b73c4c05d8190baac4e37f66bdbb89bd17cf23a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/493814842.jpg?k=9086ae766546d75fbea8c0debd5b42bbba3dabfa51825c1c0c00ebecc5280c39&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/493814848.jpg?k=5f4893b058ccf0f1b03479d96c9211eb8f4ec03283329b33bca40b9d44d241f5&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Novus Traditional Food 200 m"\n  - "Taverna te Porti 200 m"\nnearbyBeaches:\n  - "Vjetër Beach 2.8 km"\n  - "Vlore Beach 3.4 km"\n  - "Narta Beach 4.7 km"\n  - "Ri Beach 4.8 km"\n  - "Beach at Government Villas 7 km"\nwhatsNearby:\n  - "Independence Square 900 m"\n  - "Kuzum Baba 1.3 km"\n  - "Scooby Doo Vlore 4.7 km"\nbookingURL: "https://www.booking.com/hotel/al/shtepi-me-qera-vlore-vlore1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself boasts a thoughtful layout, featuring two well-appointed bedrooms, a bathroom, and a kitchen equipped with everything needed for a self-sufficient stay. Entertainment needs are also catered to with the inclusion of a flat-screen TV, making it an ideal retreat for relaxation after a day of exploring.
 
 For those traveling to or from the area, the Tirana International Mother Teresa Airport is located 148 km away, making Shtepi me qera Vlore a convenient base for both short and extended visits in this vibrant city.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

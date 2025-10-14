@@ -1,28 +1,5 @@
----
-title: Prince of Lake Hotel
-description: Strategically located in Canaj, a mere 48 km from Podgorica, this hotel stands out for its prime positioning. It offers easy access to the vibrant city of Bar,
-featuredImage: "/images/accommodation/497857379.jpg"
-language: en
-slug: prince-of-lake-hotel
-location: ""
-amenities: []
-images: []
----
+---\ntitle: "Prince of Lake Hotel"\ndescription: "Prince of Lake Hotel emerges as a distinguished choice for travelers seeking a serene getaway."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497857379.jpg?k=3acef9ad581640bcb1679facb036e3f19edb8bf28949ba6b749d9703e5f423d1&o=&hp=1"\nlanguage: en\nslug: prince-of-lake-hotel\naddress: "Sh41, Zus, Albania, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.03942797\n  lng: 19.48226202\nprice: "US$60"\npriceFrom: 60\nstarRating: 3\nrating: 7.8\nratingWords: "Good"\nnumberOfReviews: 377\nratings:\n  overall: 7.8\n  location: 8.5\n  cleanliness: 7.8\n  facilities: 7.7\n  value: 7.7\n  comfort: 7.8\n  staff: 7.6\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497857379.jpg?k=3acef9ad581640bcb1679facb036e3f19edb8bf28949ba6b749d9703e5f423d1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504135693.jpg?k=dd7d49e144b8e4dd30282aa37f1c064b630b29d2fa93ce258657ed591ea41f06&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374473720.jpg?k=ed0bb418684fea6c1e9e5637db726067eeacbe7104ab9eb57ee9be5100333288&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348617002.jpg?k=b2b79e85cc7847c5e705d453d4a2c6c67a5cfb42ba66f5f9fb8bbff4f2fea6ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504135746.jpg?k=b3ed49169b4c3f2211fda5bd05bf3ac2c428fed50c2785ff3e154c7af30a3d6d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504133273.jpg?k=056cf43f8d63631a08f73a6b5826b1a1f257f766247207678195ba18e532976a&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Facilities for disabled guests"\n  - "Bar"\n  - "Beachfront"\n  - "Private beach area"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Double Room"\n  - "Deluxe Double Room with Castle View"\n  - "Suite with River View"\n  - "Family Room"\n  - "Triple Room with Balcony"\n  - "Deluxe Family Suite"\nnearbyRestaurants:\n  - "Prince of Lake 20 m"\n  - "Illyria 50 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 1.2 km"\n  - "National Park Skadar Lake 9 km"\nairports:\n  - "Podgorica Airport 39 km"\n  - "Tirana International Airport Mother Teresa 71 km"\n  - "Tivat Airport 73 km"\nbookingURL: "https://www.booking.com/hotel/al/prince-of-lake.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nStrategically located in Canaj, a mere 48 km from Podgorica, this hotel stands out for its prime positioning. 
 
-Strategically located in Canaj, a mere 48 km from Podgorica, this hotel stands out for its prime positioning.
-
-It offers easy access to the vibrant city of Bar, just 33 km away, and the historic town of Ulcinj, located 26 km from the establishment.
+It offers easy access to the vibrant city of Bar, just 33 km away, and the historic town of Ulcinj, located 26 km from the establishment. 
 
 For those arriving by air, Tirana Airport is conveniently situated 72 km from the hotel, making it an accessible option for international guests.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

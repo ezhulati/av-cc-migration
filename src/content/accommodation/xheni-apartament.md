@@ -1,15 +1,4 @@
----
-title: Xheni Apartament
-description: This air-conditioned apartment boasts a generous layout, including three well-appointed bedrooms, a cozy living room complete with a flat-screen TV for entertai
-featuredImage: "/images/accommodation/364115602.jpg"
-language: en
-slug: xheni-apartament
-location: ""
-amenities: []
-images: []
----
-
-This air-conditioned apartment boasts a generous layout, including three well-appointed bedrooms, a cozy living room complete with a flat-screen TV for entertainment, an equipped kitchen for those who enjoy preparing their meals, and two modern bathrooms, ensuring a comfortable stay for families or groups. The inclusion of a balcony adds a touch of elegance, providing a perfect spot for morning coffees or evening relaxation.
+---\ntitle: "Xheni Apartament"\ndescription: "Xheni Apartament emerges as a prime choice for travelers seeking comfort and convenience in the heart of Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364115602.jpg?k=3e58aad79da355e2b75afd6d0d6cd6f949d958b90525d28d8c5f00566eabdc00&o=&hp=1"\nlanguage: en\nslug: xheni-apartament\naddress: "blloku qeveritar plazh prane tropikal resort, 2000 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.29942265\n  lng: 19.50218997\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.7\nratingWords: "Very Good"\nnumberOfReviews: 10\nratings:\n  overall: 8.7\n  location: 8\n  cleanliness: 8.1\n  facilities: 8.3\n  value: 8.3\n  comfort: 8.3\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364115602.jpg?k=3e58aad79da355e2b75afd6d0d6cd6f949d958b90525d28d8c5f00566eabdc00&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364115470.jpg?k=31d0316178c1cc13ccf818521d101b38afc6ec613b25b3ec16a54ac8866b7146&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362747793.jpg?k=d52e0a35f6a3f0749f38f7f4c316a39e8d6e2c4f3901bd809220de0cee68a94b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376377894.jpg?k=f739da017992f8aa1ff94e98811976f4b8300e161777da5a11c8fe5e04dc5135&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376377834.jpg?k=5d6dbe855ac4942c16b4cf37e194d7761137e664493d79b720dc886754e7b0ab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362747771.jpg?k=fa8487d64d1f0fb52cb7c6995a4573e06d78fb58fd8c116cff2370296bbae9a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364115564.jpg?k=478f6d5bc5322aa0d3962d86bef7e7d6e8b2623903e90547196d0c8dd5ea0d40&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376377711.jpg?k=44a2340ff8ced23873c0e8c0d02c48a5b6c0fad7444ac7130f49b64da5b9ac5d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362747799.jpg?k=d860fb835b9147f3d9f4e60e942a009fe5ec9af44bb99054f5a587fcbb5d3ee0&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Bar Restorant 3 Vellezerit 150 m"\n  - "Brendon 300 m"\nnearbyBeaches:\n  - "Durres Beach 350 m"\n  - "Shkëmbi i Kavajës Beach 1.6 km"\n  - "Golem Beach 4 km"\n  - "Currila Beach 4.6 km"\n  - "Mali I Robit Beach 6 km"\nwhatsNearby:\n  - "Bekimi 3.8 km"\n  - "Wine Dhe Pooh 4.8 km"\n  - "Sheshi Demokracia 4.9 km"\n  - "Yje Dhe Hena 5 km"\n  - "Durres Amphiteatre 5 km"\n  - "1. Maj 5 km"\n  - "Sotir Noka 5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\nreviews:\n  - name: "Jofre"\n    country: "Spain"\n    text: "“Two double beds and a kids bunk bed in three rooms. One full bathroom and a second toilet. Excellent apartment in terms of value for money and it has everything you need including washing machine and tumble dryer.”"\n  - name: "Sanjay"\n    country: "France"\n    text: "“Apartment was very good condition and beautiful apartment”"\nbookingURL: "https://www.booking.com/hotel/al/balla-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis air-conditioned apartment boasts a generous layout, including three well-appointed bedrooms, a cozy living room complete with a flat-screen TV for entertainment, an equipped kitchen for those who enjoy preparing their meals, and two modern bathrooms, ensuring a comfortable stay for families or groups. The inclusion of a balcony adds a touch of elegance, providing a perfect spot for morning coffees or evening relaxation.
 
 Beyond the confines of the apartment, guests will find themselves conveniently located 43 km from the Dajti Ekspres Cable Car, offering an opportunity for an adventurous day out. Additionally, the property's proximity to Skanderbeg Square, 40 km away, allows for easy exploration of the cultural and historical landmarks of the area.
 
@@ -18,15 +7,3 @@ For those interested in the historical context of Albania, the Former Residence 
 Accessibility is a breeze, with Tirana International Mother Teresa Airport only 34 km away, making Xheni Apartament an ideal base for both international visitors and those exploring the wider region.
 
 In summary, Xheni Apartament stands out as a stellar accommodation choice, offering spacious and comfortable living spaces, strategic location for beach lovers and cultural explorers alike, and the convenience of modern amenities, all contributing to a memorable stay in Durrës.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

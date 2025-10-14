@@ -1,26 +1,4 @@
----
-title: Bujtina Brahim Selimaj
-description: Accommodations at Bujtina Brahim Selimaj are thoughtfully designed, with select units boasting the added luxury of a dining area and/or private balcony, perfect
-featuredImage: "/images/accommodation/353505514.jpg"
-language: en
-slug: bujtina-brahim-selimaj
-location: ""
-amenities: []
-images: []
----
-
-Accommodations at Bujtina Brahim Selimaj are thoughtfully designed, with select units boasting the added luxury of a dining area and/or private balcony, perfect for those looking to enjoy their meals with a view or simply relax in their own secluded space.
+---\ntitle: "Bujtina Brahim Selimaj"\ndescription: "Bujtina Brahim Selimaj stands out as a charming retreat in the heart of Valbonë, offering guests a serene escape with its picturesque terrace and well-maintained garden."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353505514.jpg?k=800b758169d0d7cb6001c3f0816576583a733de43059aeeac4836eaf6b05cb71&o=&hp=1"\nlanguage: en\nslug: bujtina-brahim-selimaj\naddress: "Rruga Azem Hajdari, 8702 Valbonë, Albania"\ncity: "Valbonë"\nlocation: "Valbonë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.45391745\n  lng: 19.88903231\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 241\nratings:\n  overall: 9.1\n  location: 8.9\n  cleanliness: 9.2\n  facilities: 8.6\n  value: 9.2\n  comfort: 9.1\n  staff: 9.6\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353505514.jpg?k=800b758169d0d7cb6001c3f0816576583a733de43059aeeac4836eaf6b05cb71&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353505436.jpg?k=373b4dd35c0647494e1b01c46d80bd8aa91e37f8dca6bfb81becb8396c9359ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353505458.jpg?k=c479c192704f0967b2a097c425ffff84c289b6e70a350813f65fa316dc979589&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353505471.jpg?k=05204554a8f22c95eb33615e5cbb4b398e8402494fc85d4e24a83d576fc10bb5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378838471.jpg?k=2ee00fdb4791fa505ef5a3c27c3a9550771da711fe31ffb0637f2678eab4334d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448480624.jpg?k=50b76dc44e8a8498440f00bb741c8d793fd7308864a6773d80b644a5f9cab29d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471926243.jpg?k=d68759c7c48e806e7a85260774714c68a308023ff9aaf627d721a141f7c3b237&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353505496.jpg?k=3592ead7d35ddc4b348d64d6d4ad571220e44a805b38200e7744e3680b66fc49&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471888364.jpg?k=c6bdf2957b20f59e1be24e0aae151b5c0c359457823915161279ba7f2088af29&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Very good breakfast"\nnearbyRestaurants:\n  - "Tahirs Café & Guesthouse 400 m"\n  - "Café - occasionaly open 2.4 km"\nwhatsNearby:\n  - "Valbona Valley National Park 0 m"\n  - "Parku Kombëtar Lugina e Valbonës 2 km"\n  - "Prokletije National Park 3.1 km"\n  - "Theth National Park 4.8 km"\n  - "Nacionalni Park Prokletije 9 km"\n  - "Theth National Park 10 km"\n  - "Prokletije National Park 10 km"\n  - "Nacionalni park Prokletije 13 km"\n  - "Valbona Valley National Park 20 km"\nairports:\n  - "Podgorica Airport 53 km"\n  - "Pristina International Airport 94 km"\n  - "Tivat Airport 95 km"\nreviews:\n  - name: "Francesca"\n    country: "United Kingdom"\n    text: "“Run by a very friendly family. Lovely dinner and breakfast, and they gave us some foil to pack up our breakfast leftovers for our hike. Breakfast can be served from 7 which worked for us to quickly eat before heading out on our hike to Theth.
+Room...”"\n  - name: "Kat"\n    country: "Australia"\n    text: "“Great location, easy to get to. Lovely food, catered for my food allergies - thank you so much! Very much appreciated. Had a great stay, room was bigger than expected. Restaurant on nice outdoor terrace with beautiful views.”"\n  - name: "John"\n    country: "United Kingdom"\n    text: "“Everything and everyone involved were an absolute delight. The table water was out of this world, unbelievably amazing. Truly lovely experience.”"\nbookingURL: "https://www.booking.com/hotel/al/bujtina-brahim-selimaj.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Bujtina Brahim Selimaj are thoughtfully designed, with select units boasting the added luxury of a dining area and/or private balcony, perfect for those looking to enjoy their meals with a view or simply relax in their own secluded space.
 
 For travelers concerned about airport access, Pristina International Airport is located 138 km away, making the bed and breakfast a viable option for both local and international visitors seeking tranquility amidst nature.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

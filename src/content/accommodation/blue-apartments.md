@@ -1,26 +1,3 @@
----
-title: Blue Apartments
-description: "Each unit within the complex is thoughtfully equipped with modern amenities, including a flat-screen TV and a fully outfitted kitchen, catering to the..."
-featuredImage: "/images/accommodation/477724544.jpg"
-language: en
-slug: blue-apartments
-location: ""
-amenities: []
-images: []
----
-
-Each unit within the complex is thoughtfully equipped with modern amenities, including a flat-screen TV and a fully outfitted kitchen, catering to the needs of both short-term and extended stays. The inclusion of a private bathroom, complete with a bath and complimentary slippers, adds a touch of luxury to the guest experience. Moreover, the provision of free WiFi across the premises ensures that guests remain connected and entertained throughout their stay. Select rooms further enhance the living experience by offering balconies, allowing guests to enjoy the fresh air and views without leaving the comfort of their accommodation.
+---\ntitle: "Blue Apartments"\ndescription: "Blue Apartments emerges as a prime choice for travelers seeking comfortable accommodation in Shkodër."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477724544.jpg?k=f140bc4e134ab99f2ee345f7e527fb3965af4b0b22f493d74f117af9b82c8b5a&o=&hp=1"\nlanguage: en\nslug: blue-apartments\naddress: "Rruga Marin Bicikemi, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.0663321\n  lng: 19.5192931\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 8\nratingWords: "Very Good"\nnumberOfReviews: 10\nratings:\n  overall: 8\n  location: 8.5\n  cleanliness: 7.3\n  facilities: 7.3\n  value: 7.8\n  comfort: 8.3\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477724544.jpg?k=f140bc4e134ab99f2ee345f7e527fb3965af4b0b22f493d74f117af9b82c8b5a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477724779.jpg?k=8607ab69685007b51c994129685f4bbaed8db987c463a03edd80b57e7bb36a1b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477724680.jpg?k=c28342374a870899729b715e0ba0f92390ab60ff93e1dc6197b92d5ba62cd921&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477724731.jpg?k=6a19a5b5071f99d8023e35ed4dea9db1e6235e40f834feb1cdcad70b53db68d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477724427.jpg?k=c35657446f7e96152bf192ba8c03b97aaee91a9c3f840e7bf1f68b379101094c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477724724.jpg?k=18764295c9b40622484d8c9a9d641ae4cb8130af1544bbe23cf2397909e6a67b&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Fast free WiFi (89 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\n  - "One-Bedroom Apartment"\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "ORION 40 m"\n  - "BOBI 50 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 3.1 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 73 km"\n  - "Tivat Airport 74 km"\nbookingURL: "https://www.booking.com/hotel/al/blue-apartments-shkoder.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nEach unit within the complex is thoughtfully equipped with modern amenities, including a flat-screen TV and a fully outfitted kitchen, catering to the needs of both short-term and extended stays. The inclusion of a private bathroom, complete with a bath and complimentary slippers, adds a touch of luxury to the guest experience. Moreover, the provision of free WiFi across the premises ensures that guests remain connected and entertained throughout their stay. Select rooms further enhance the living experience by offering balconies, allowing guests to enjoy the fresh air and views without leaving the comfort of their accommodation.
 
 Conveniently located, Blue Apartments is just 58 km away from Podgorica Airport, making it an accessible option for international travelers. This combination of comfort, convenience, and connectivity positions Blue Apartments as a compelling choice for those visiting Shkodër.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

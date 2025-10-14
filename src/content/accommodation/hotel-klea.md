@@ -1,15 +1,4 @@
----
-title: Hotel Klea
-description: Upon entering, visitors are greeted with the convenience of complimentary WiFi in public areas, ensuring connectivity is never an issue. The 24-hour front desk,
-featuredImage: "/images/accommodation/308094784.jpg"
-language: en
-slug: hotel-klea
-location: ""
-amenities: []
-images: []
----
-
-Upon entering, visitors are greeted with the convenience of complimentary WiFi in public areas, ensuring connectivity is never an issue. The 24-hour front desk, a lush garden, and an inviting terrace further enhance the welcoming atmosphere of Hotel Klea.
+---\ntitle: "Hotel Klea"\ndescription: "Hotel Klea stands as a charming testament to traditional hospitality, right at the heart of the historic Castle of Berat, merely a stone's throw from the main entrance."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308094784.jpg?k=7d07066f5d639d76ea291789d50a103fb623beb4c8aec62fd6609919a9c0dbdc&o=&hp=1"\nlanguage: en\nslug: hotel-klea\naddress: "Lagja Kala, Berat, 5002 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.70968781\n  lng: 19.94502962\nprice: "US$40"\npriceFrom: 40\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 920\nratings:\n  overall: 9.7\n  location: 9.9\n  cleanliness: 9.7\n  facilities: 9.4\n  value: 9.9\n  comfort: 9.5\n  staff: 9.9\n  wifi: 9.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308094784.jpg?k=7d07066f5d639d76ea291789d50a103fb623beb4c8aec62fd6609919a9c0dbdc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31926405.jpg?k=a06abc2488b276a0e60eab6f10ade156eb0c7b66a02c87e635aaa86bb315f0b7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/37117277.jpg?k=507705af657b1a5797cc7b9d8a282d325f66d541a3a58e75cc197220649f24d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/37969546.jpg?k=da9bd56e18d7a9a59deb1eafdff32c7348250609dc2235cfadae03bb2a06fdc5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/52261538.jpg?k=259caddbb42436d38dbbc14c5aa0052d2991c07b36d11f391c08daac78999cf7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/61668063.jpg?k=1f8bec07f8ee60a8236e96920272d7465efdf0be8146162ab253cc4ffbf89f6c&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Facilities for disabled guests"\n  - "Restaurant"\n  - "Bar"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Twin Room"\n  - "Triple Room"\nnearbyRestaurants:\n  - "Onufri Traditional 50 m"\n  - "Te Zalua 100 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 17 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 84 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Yu"\n    country: "Japan"\n    text: "“Staff speak fluent English and are very helpful. They also gave us explanations about Berat and Albania, which helped us on our trip.”"\n  - name: "Bianca"\n    country: "Albania"\n    text: "“Amazing location inside the old town and castle of Berat! Cozy, warm, traditional housing :) plus a very rich and varied breakfast! The view was also stunning”"\n  - name: "Dimitry"\n    country: "Poland"\n    text: "“Everything.. Location.. kitchen.. and for sure 1000% personnel”"\nbookingURL: "https://www.booking.com/hotel/al/klea.en-gb.html?aid=8035640"\nbestFor: "Best for Historical Sites Proximity"\nbestCategories: "Historical Sites Proximity"\ncategory: "Historical Sites Proximity"\n---\n\nUpon entering, visitors are greeted with the convenience of complimentary WiFi in public areas, ensuring connectivity is never an issue. The 24-hour front desk, a lush garden, and an inviting terrace further enhance the welcoming atmosphere of Hotel Klea.
 
 Accommodations at Hotel Klea are thoughtfully designed for comfort and convenience. Each room is equipped with air conditioning, a television, and a desk, catering to both leisure and business travelers. The en-suite bathrooms boast both a bathtub and a shower, providing a refreshing start or a relaxing end to the day.
 
@@ -18,15 +7,3 @@ Culinary experiences at Hotel Klea are a highlight, with the on-site restaurant 
 Additional amenities include the convenience of grocery delivery services, a shared lounge for relaxing moments, and a tour desk ready to assist with local explorations. For those seeking adventure, a variety of activities such as hiking can be enjoyed in the picturesque surroundings.
 
 With the added benefit of complimentary private parking and the proximity to Tirana Airport, just 81 km away, Hotel Klea ensures a hassle-free stay for all its guests. This hotel not only promises a memorable visit to the Castle of Berat but also delivers an authentic experience of warmth and hospitality.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

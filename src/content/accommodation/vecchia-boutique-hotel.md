@@ -1,30 +1,7 @@
----
-title: Vecchia Boutique Hotel
-description: "Guests are welcomed into a realm of elegance, where each room is meticulously designed for comfort, featuring air conditioning, a flat-screen TV, and..."
-featuredImage: "/images/accommodation/398356959.jpg"
-language: en
-slug: vecchia-boutique-hotel
-location: ""
-amenities: []
-images: []
----
-
-Guests are welcomed into a realm of elegance, where each room is meticulously designed for comfort, featuring air conditioning, a flat-screen TV, and a private bathroom equipped with modern amenities including a bidet and hairdryer. For those desiring a touch of luxury, select rooms boast balconies that open up to the tranquil surroundings, offering a perfect nook for relaxation.
+---\ntitle: "Vecchia Boutique Hotel"\ndescription: "Vecchia Boutique Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Korçë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/398356959.jpg?k=e268048a40f93702f30e4ac27b017219e02b036ed0f9b62ba9b7aca63ff5cea2&o=&hp=1"\nlanguage: en\nslug: vecchia-boutique-hotel\naddress: "Bulevardi Republika, 7001 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.62356511\n  lng: 20.78293893\nprice: "US$91"\npriceFrom: 91\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 77\nratings:\n  overall: 9.5\n  location: 9.6\n  cleanliness: 9.8\n  facilities: 9.6\n  value: 9\n  comfort: 9.6\n  staff: 9.7\n  wifi: 9.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/398356959.jpg?k=e268048a40f93702f30e4ac27b017219e02b036ed0f9b62ba9b7aca63ff5cea2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/398358621.jpg?k=0c9ff4761a11666fdbfa47432a3ec64a6ba01dbced2102a94be76fb71674ea35&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384168870.jpg?k=f49278ee6e2a203a1cf0c519b3dba54ae82c9505df4683566006fe0c886e6b0c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/398363168.jpg?k=a3c0c05cacf28be955b2ddc47bfc0eeec001b6b8ad952f59b77d8cabc5253a9d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384168515.jpg?k=a644fc16bf7af47afc9c3be355b6a7b665dfa171b3a059a768f8a59766558323&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/398356725.jpg?k=1fa2e4d8b09728b89c21919fb47171045cd67a7ea214ef23162dbabd63d4b52a&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Deluxe Double Room (2 Adults + 1 Child)"\nnearbyRestaurants:\n  - "Vog Bar 30 m"\n  - "Dorys Coffee Shop 100 m"\nwhatsNearby:\n  - "Parku Rinia 450 m"\n  - "Field of Tears 550 m"\n  - "Parku Themistokli Gërmenji 550 m"\n  - "Sheshi Patriku Joasaf 900 m"\n  - "Parku Rinia 1 km"\n  - "Parku Vangjush Mio 1 km"\n  - "Sheshi Panxhar 5 km"\n  - "Sheshi Koço Plaku 11 km"\n  - "Sheshi Penetori 12 km"\nairports:\n  - "Kastoria National Airport 45 km"\n  - "Ohrid Airport 60 km"\n  - "Kozani National Airport 96 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Zaanqe"\n    country: "Austria"\n    text: "“Everything was perfect. The city center was a walking distance. Beautiful and classy restaurant in the hotel, as well as very nice coffee place on the ground floor. Excellent food. Also, in the neighborhood there were very nice restaurants.”"\n  - name: "Volseta"\n    country: "Belgium"\n    text: "“Excelllent service, very helpful staff, high quality overall standarts”"\n  - name: "Manuela"\n    country: "Albania"\n    text: "“the rooms were very nice, comfortable and furnished and decorated with taste. The breakfast was delicious. the staff was extremely pleasant. conveniently located.”"\nbookingURL: "https://www.booking.com/hotel/al/vecchia-boutique.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests are welcomed into a realm of elegance, where each room is meticulously designed for comfort, featuring air conditioning, a flat-screen TV, and a private bathroom equipped with modern amenities including a bidet and hairdryer. For those desiring a touch of luxury, select rooms boast balconies that open up to the tranquil surroundings, offering a perfect nook for relaxation.
 
 Beyond the confines of its well-appointed rooms, Vecchia Boutique Hotel extends its hospitality through a range of facilities. The garden invites guests to unwind in a peaceful setting, while the on-site restaurant and bar promise culinary delights and refreshing beverages. The inclusion of free private parking, room service, and complimentary WiFi throughout the property ensures a hassle-free stay for every guest.
 
 Adding to its allure, the hotel features a hot tub, providing an ideal respite after a day of exploring the vibrant city of Korçë or the natural beauty of the nearby attractions. The friendly staff at the reception are always on hand to offer insightful tips on navigating the area, ensuring guests make the most of their visit.
 
 Located a convenient 70 km from Kastoria National Airport, Vecchia Boutique Hotel stands as a beacon of hospitality, inviting travelers to immerse themselves in a memorable stay that combines the essence of Korçë's charm with the utmost in comfort and service.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

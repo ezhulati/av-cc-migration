@@ -5,11 +5,14 @@ region: Central Albania
 featuredImage: /images/destinations/durres.jpg
 images: []
 coordinates:
+seo:
   lat: 0
   lng: 0
 language: en
 slug: durres
 highlights: []
+seo:
+  metaDescription: "Discover the treasures of Durrës with our comprehensive category listings. Plan your visit with ease and make lasting memories."
 ---
 
 Why Visit
@@ -132,10 +135,3 @@ Your Turn to Visit
 
 Step off the beaten path in Durres, where seaside tranquility meets ancient grandeur. Lose yourself in its winding lanes, savor fresh seafood, and watch the sunset over the Adriatic. Create your journey through this coastal treasure at the crossroads of antiquity and modern life.
 
-#### Was this helpful?
-
- 
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.

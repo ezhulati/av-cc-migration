@@ -1,15 +1,4 @@
----
-title: Hotel Liss
-description: "The accommodations at Hotel Liss are designed with guest comfort in mind, featuring air-conditioned rooms that are well-appointed with satellite TV fo..."
-featuredImage: "/images/accommodation/354907317.jpg"
-language: en
-slug: hotel-liss
-location: ""
-amenities: []
-images: []
----
-
-The accommodations at Hotel Liss are designed with guest comfort in mind, featuring air-conditioned rooms that are well-appointed with satellite TV for a touch of home. Each room is also equipped with a minibar and desk, complemented by a private bathroom that includes a shower and hairdryer, ensuring a stay that combines both convenience and luxury.
+---\ntitle: "Hotel Liss"\ndescription: "Hotel Liss stands as a prime example of comfort and convenience in the heart of Lezhë, offering guests a unique blend of traditional Albanian hospitality and modern amenities."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354907317.jpg?k=2543f6fa3db6f1334e3ab070a8c1810f5355d844421aef6384f543e747c8ba82&o=&hp=1"\nlanguage: en\nslug: hotel-liss\naddress: "Rruga Beslidhja, 4501 Lezhë, Albania"\ncity: "Lezhë"\nlocation: "Lezhë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.78034893\n  lng: 19.6445379\nprice: "US$52"\npriceFrom: 52\nstarRating: 4\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 78\nratings:\n  overall: 9\n  location: 9.5\n  cleanliness: 9.1\n  facilities: 8.9\n  value: 9.3\n  comfort: 9.2\n  staff: 9.6\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354907317.jpg?k=2543f6fa3db6f1334e3ab070a8c1810f5355d844421aef6384f543e747c8ba82&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/275714947.jpg?k=e05a3fcdc646513a094d4737088115b94541bd3c40219b34c463e5bbe845a78a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354908842.jpg?k=6ea51689fa48f9721b2f82377c0011f0425eabbb7a383faa119bdd24677f4026&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/275714918.jpg?k=e7032a1b58c1e87ca125029d2ec4f6ef7b3dcf20eefd6b1382fb3bf8aba4ec99&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354907319.jpg?k=417d08399d7601156e1a7cb93eb49a6b085e41e084939465db277a5a7f0920d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354907312.jpg?k=52e140d2be5a13e67dc6ab0209802930458314a9ed5c47537e281d76d244e04b&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Single Room"\n  - "Double Room"\n  - "Twin Room"\n  - "Suite"\n  - "Triple Room with Bath"\nnearbyRestaurants:\n  - "The View 50 m"\n  - "Pizzeri Besa 200 m"\nnearbyBeaches:\n  - "Ylberi Beach 3.9 km"\n  - "Laguna Park Beach 4 km"\n  - "Shëngjin Beach 4.2 km"\n  - "Kune Beach 4.5 km"\n  - "Rana e Hedhun Beach 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 39 km"\n  - "Podgorica Airport 71 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Klaudia"\n    country: "Greece"\n    text: "“Best location a hotel could have someone to stay at the centre of lezha , Everything was perfect, the staff was lovely and polite , The rooms were always clean and very comfortable”"\n  - name: "Al"\n    country: "United Kingdom"\n    text: "“Friendly, helpful staff. Spacious rooms. The hotel is exactly as it appears in the photos. Very close to the Castle.”"\n  - name: "Tayla"\n    country: "Australia"\n    text: "“It was very close to the bus station and easy to locate. The room was extremely clean and the staff were so helpful!”"\nbookingURL: "https://www.booking.com/hotel/al/liss.en-gb.html?aid=8035640"\nbestFor: "Best for Location"\nbestCategories: "Location"\ncategory: "Location"\n---\n\nThe accommodations at Hotel Liss are designed with guest comfort in mind, featuring air-conditioned rooms that are well-appointed with satellite TV for a touch of home. Each room is also equipped with a minibar and desk, complemented by a private bathroom that includes a shower and hairdryer, ensuring a stay that combines both convenience and luxury.
 
 For those in need of additional services, Hotel Liss does not disappoint. Laundry and ironing services stand ready to assist, ensuring that every guest's needs are met with the utmost attention to detail.
 
@@ -18,15 +7,3 @@ The location of Hotel Liss could not be more ideal for travelers looking to expl
 Moreover, the hotel's location is a convenient gateway for those wishing to explore beyond, with the coast just 7.5 km away, promising a quick escape to the seaside.
 
 With a 24/7 front desk and a bar that serves a selection of local and international drinks, Hotel Liss ensures that every aspect of the guest experience is catered to, making it a standout choice for travelers seeking the perfect blend of tradition, comfort, and convenience in Lezhë.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}

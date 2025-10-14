@@ -1,26 +1,3 @@
----
-title: BEQIRI APARTMENT
-description: The apartment features a cozy 1-bedroom layout, complete with a living room that's ideal for relaxation. Entertainment is guaranteed with a flat-screen TV equip
-featuredImage: "/images/accommodation/522063121.jpg"
-language: en
-slug: beqiri-apartment
-location: ""
-amenities: []
-images: []
----
-
-The apartment features a cozy 1-bedroom layout, complete with a living room that's ideal for relaxation. Entertainment is guaranteed with a flat-screen TV equipped with satellite channels, ensuring guests are always connected to the world. The kitchen doesn't disappoint either; it's fully equipped with modern appliances including a microwave and fridge, catering to all culinary needs. Additionally, the convenience of having a bathroom within the apartment enhances the comfort of the stay.
+---\ntitle: "BEQIRI APARTMENT"\ndescription: "BEQIRI APARTMENT, situated in the vibrant city of Shkodër and a mere 49 km from the Port of Bar, presents a serene retreat with its air-conditioned accommodations that boast both mountain and garden views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522063121.jpg?k=cf272e590f500c8b096f0d8d09926cbbc991bad394d61a9b87c78c438c3eafd2&o=&hp=1"\nlanguage: en\nslug: beqiri-apartment\naddress: "Rruga Martin Camaj, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.07254877\n  lng: 19.51484648\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522063121.jpg?k=cf272e590f500c8b096f0d8d09926cbbc991bad394d61a9b87c78c438c3eafd2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/522063147.jpg?k=ced6c4e8900969eecb3837b71e7f459ac960bd10798e212d4294eafb6ca9e8eb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/522063150.jpg?k=1d6009daa06f1d093a9a6b7191735cde1f9feb46e87134b0a30b2871681c1ecd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/522063151.jpg?k=6f99b233638695a55f993e6578920c3822e23324c0d5bfd6f857e666e75f4f94&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/522063164.jpg?k=222b057131162ca85c7b687153b6caed20c15418e91242dd424c9e07e0feb3e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/522063173.jpg?k=b09d3ab462f1122fd5dbfbea091db825d3ca75039ea465874d8322d49f4e3401&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/522063179.jpg?k=5ae0f6b88513028ac31c388c0494e298b1cc47ab7e9d43c3a59850122ff78fc4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/522063181.jpg?k=2c9d2b5a9a193586fa3b789f17dfaac50d86c2fa3907a980c28100c782979f8d&o=&hp=1"\namenities:\n  - "Airport shuttle (free)"\n  - "Non-smoking rooms"\n  - "Parking on site"\n  - "Fast free WiFi (192 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Bar Kafe Dragani 100 m"\n  - "Bar Kafe - PROLIVE 150 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 3.4 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 37 km"\n  - "Tirana International Airport Mother Teresa 73 km"\n  - "Tivat Airport 74 km"\nbookingURL: "https://www.booking.com/hotel/al/beqiri-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe apartment features a cozy 1-bedroom layout, complete with a living room that's ideal for relaxation. Entertainment is guaranteed with a flat-screen TV equipped with satellite channels, ensuring guests are always connected to the world. The kitchen doesn't disappoint either; it's fully equipped with modern appliances including a microwave and fridge, catering to all culinary needs. Additionally, the convenience of having a bathroom within the apartment enhances the comfort of the stay.
 
 For travelers concerned about airport proximity, Podgorica Airport is conveniently located just 58 km away, making BEQIRI APARTMENT an excellent choice for both short and long-term stays. This apartment not only promises a comfortable and convenient stay but also serves as a gateway to exploring the rich culture and scenic beauty of Shkodër.
-
-#### Was this helpful?
-
-✅ YES ❌ NO
-
-Good job! Please give your positive feedback
-
-How could we improve this post? Please Help us.
-
-Submit
-
-.htwth-helpful-wraper{background:#f4f6f8}.htwth-helpful-wraper{border:2px solid #f4f6f8}.button-positive{background-color:#72d39f!important}.button-positive{border:2px solid #72d39f}.button-negative{background-color: #fc7e91 !important}.button-negative{border: 2px solid #fc7e91}.htwth-helpful-button{color:#fff}.yes-title,.no-title{color:#868e96}.feedback-textarea{color:#868e96} .loading-feedback p{color:#868e96}.feedback-textarea{background-color:#ffffff!important;}.feedback-textarea{border:2px solid #ffffff}.hlpful-submit-button{color:#ffffff}.hlpful-submit-button{background-color:#1e73be}.hlpful-submit-button{border:2px solid #1e73be}
