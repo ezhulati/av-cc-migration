@@ -65,7 +65,7 @@ Albanian cuisine places a strong emphasis on fresh, locally sourced ingredients.
 
 -   **Why**: Albanian food is a melting pot of Mediterranean flavors influenced by Greek, Italian, and Turkish cuisines.
 -   **Best Time to Visit**: Year-round, each season offers culinary delights.
--   **Pro Tip**: Byrek, a flaky pastry filled with cheese or meat, is a must-try.![Byrek](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Byrek.jpeg "Byrek")
+-   **Pro Tip**: Byrek, a flaky pastry filled with cheese or meat, is a must-try.![Byrek](/images/posts/Byrek.jpeg "Byrek")
 
 *Byrek with meat – a national dish, popular in Albania and other Balkan countries.*
 

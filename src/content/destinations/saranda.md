@@ -171,7 +171,7 @@ Restaurant prices vary dramatically between tourist spots on the promenade and l
 
 The seafood is consistently excellent, but prices have risen sharply in recent years – expect to pay similar rates to Greece in high-season promenade restaurants.
 
-![Beautiful beach in Saranda Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Beautiful-beach-in-Saranda-Albania.jpeg "Beautiful beach in Saranda Albania")
+![Beautiful beach in Saranda Albania](/images/posts/Beautiful-beach-in-Saranda-Albania.jpeg "Beautiful beach in Saranda Albania")
 
 *Beautiful Mango beach in Saranda, Albania.*
 

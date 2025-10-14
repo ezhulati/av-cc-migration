@@ -112,7 +112,7 @@ The third week of August, during the Tomorr pilgrimage, is insane in the best wa
 
 Winter? I went in February once. The castle in snow with nobody around felt like walking through history alone. Half the restaurants close but Hotel Mangalemi’s fireplace and raki make up for it.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/09/Windows-in-Berat-city.jpeg)
+![](/images/posts/Windows-in-Berat-city.jpeg)
 
 Houses in city of Berat in Albania, a UNESCO World Heritage Site
 

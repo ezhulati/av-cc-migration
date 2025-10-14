@@ -26,7 +26,7 @@ Albania is closer than you think. Use the tool below to compare flights to Tiran
 
 In 2023, underwater archaeologists confirmed that Lin is the site of Europe’s oldest known stilt-house settlement — older than the Swiss pile dwellings by nearly 2,000 years. Beneath [Lake Ohrid](https://albaniavisit.com/attractions/lake-ohrid/), they found wooden posts, artifacts, seeds, and evidence of a Neolithic village that dates back over 8,500 years.
 
-![Lin Basilica ruins](https://eia476h758b.exactdn.com/wp-content/uploads/2025/07/Remains-of-an-early-Christian-church-in-the-small-fishing-village-of-Lin-Albania-.jpeg)
+![Lin Basilica ruins](/images/posts/Remains-of-an-early-Christian-church-in-the-small-fishing-village-of-Lin-Albania-.jpeg)
 
 Above the water, Lin holds another treasure: the 6th-century Byzantine basilica that crowns the village hill. Covered for protection most of the year, its mosaics depict birds, bees, and fish, echoing both [Christian themes](https://albaniavisit.com/byzantine-era-albania/) and Lake Ohrid’s natural life. You can contact the caretaker to arrange a private viewing.
 
@@ -50,7 +50,7 @@ Staying in Lin means living in someone’s home. These are guesthouses, not hote
 
 Some listings show up under Pogradec, so search by name when using Booking.com. Most places require cash. Book ahead for summer.
 
-![Guesthouse in Lin Village, Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2025/07/Lin-Village-Stays-Albania.jpg)
+![Guesthouse in Lin Village, Albania](/images/accommodation/Lin-Village-Stays-Albania.jpg)
 
 *Guesthouse in Lin Village, Albania*
 

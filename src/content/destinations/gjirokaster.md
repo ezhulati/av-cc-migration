@@ -66,7 +66,7 @@ The town now hosts annual literature fairs, art exhibits, ethnographic workshops
 
 As young Albanians rediscover Gjirokastër’s inspirational atmosphere, the town promises to flourish through these creative investments, breathing new life into its instructed streets.
 
-![Gjirokaster old town city and Citadel](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Gjirokaster-old-town-city-and-Citadel.jpeg "Gjirokaster old town city and Citadel")Discover this Hidden Treasure
+![Gjirokaster old town city and Citadel](/images/posts/Gjirokaster-old-town-city-and-Citadel.jpeg "Gjirokaster old town city and Citadel")Discover this Hidden Treasure
 
 Gjirokastër’s sublime setting, living Ottoman inheritance, and revived creative edge make it an essential, offbeat gem for travelers seeking an authentic immersion in Albania’s cultural spirit. As one of Europe’s most intact Ottoman towns, it remains relatively untainted by tourism.
 

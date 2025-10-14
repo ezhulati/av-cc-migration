@@ -26,7 +26,7 @@ Volume
 
 [](# "Share on WhatsApp")[](# "Share on Facebook")[](# "Share on Twitter")[](# "Share on Telegram")[](# "Share via Email")
 
-![AlbaniaVisit logo](https://eia476h758b.exactdn.com/wp-content/uploads/2024/09/AlbaniaVisit_logo_plane_black.png?strip=all&lossy=1&w=1920&ssl=1)
+![AlbaniaVisit logo](/images/posts/AlbaniaVisit_logo_plane_black.png)
 
 The Capital City That Refuses to Be Defined
 
@@ -72,7 +72,7 @@ To explore these layers with a local perspective, try a [walking tour of Tirana�
 
 *National History Museum, Tirana*
 
-![Ancient Illyrian sculptures displayed in National Historical Museum of Tirana](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Interior-of-the-National-History-Museum--scaled.jpeg)
+![Ancient Illyrian sculptures displayed in National Historical Museum of Tirana](/images/posts/Interior-of-the-National-History-Museum--scaled.jpeg)
 
 *Exhibits on display a the National History Museum*
 
@@ -161,11 +161,11 @@ If you’re short on time, book a [Mount Dajti & Bunk’Art combo tour](https://
 
 *Tirana Pyramid in the center near Skanderbeg Square in Tirana.*
 
-![Bunk'Art Tirana](https://eia476h758b.exactdn.com/wp-content/uploads/2024/12/tirana_bunker_museum.jpeg)
+![Bunk'Art Tirana](/images/posts/tirana_bunker_museum.jpeg)
 
 *Bunk’Art museum Tirana*
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/12/WWII-bunker-BunkArt-Albania.jpeg)
+![](/images/posts/WWII-bunker-BunkArt-Albania.jpeg)
 
 *Tunnel leading to a Cold War bunker at Bunk’Art Tirana*
 

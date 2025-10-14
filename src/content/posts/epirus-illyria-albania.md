@@ -46,7 +46,7 @@ Above the lake's western shore lies Selcë e Poshtme, a site every history lover
 _Royal Illyrian Tombs of Selca e Poshtme  
 _
 
-![Royal Illyrian Tombs of Selca e Poshtme](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Selca_e_Poshtme_Tomb5.jpg?strip=all&lossy=1&ssl=1)
+![Royal Illyrian Tombs of Selca e Poshtme](/images/posts/Selca_e_Poshtme_Tomb5.jpg)
 
 When you step inside those tombs, time collapses. You stand in the same silence that Alexander's northern rivals once knew.
 
@@ -76,7 +76,7 @@ _Berat Castle_
 
 The road finally bends toward the Adriatic, where the Taulantii ruled long before Rome. They controlled the fertile plains from the Mat River to [Vlorë](https://albaniavisit.com/destinations/vlora/), shaping the coastal identity of southern Illyria.
 
-In [Durrës](https://albaniavisit.com/destinations/durres/), their ancient capital Dyrrhachium lives on beneath modern streets. Visit the [Roman Amphitheatre](https://albaniavisit.com/attractions/durres-amphitheatre/), one of the largest in the Balkans, and peer into its tunnels lined with early Christian mosaics. Then drive south to [Apollonia](https://albaniavisit.com/destinations/apollonia/), founded by Greek colonists but sustained by Illyrian labor and local kings. Its colonnaded streets, still standing against the sky, tell a [story of coexistence](https://eia476h758b.exactdn.com/wp-content/uploads/2025/07/Religious-Coexistence-Albania.jpg?strip=all&lossy=1&w=2560&ssl=1) rather than conquest.
+In [Durrës](https://albaniavisit.com/destinations/durres/), their ancient capital Dyrrhachium lives on beneath modern streets. Visit the [Roman Amphitheatre](https://albaniavisit.com/attractions/durres-amphitheatre/), one of the largest in the Balkans, and peer into its tunnels lined with early Christian mosaics. Then drive south to [Apollonia](https://albaniavisit.com/destinations/apollonia/), founded by Greek colonists but sustained by Illyrian labor and local kings. Its colonnaded streets, still standing against the sky, tell a [story of coexistence](/images/posts/Religious-Coexistence-Albania.jpg) rather than conquest.
 
 ![](/images/posts/Apollonia_AdobeStock_1593029192.jpeg)
 

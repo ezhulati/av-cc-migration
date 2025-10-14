@@ -53,7 +53,7 @@ Just beyond lies the ancient hilltop citadel gazing down over red-tiled roofs.
 
 Exploring the cobbled lanes of Berat’s historic quarters reveals the enduring beauty of craftsmanship from centuries past.
 
-![Houses in Berat](https://eia476h758b.exactdn.com/wp-content/uploads/2023/11/Windows-in-Berat-city.jpeg "Windows in Berat city")
+![Houses in Berat](/images/posts/Windows-in-Berat-city.jpeg "Windows in Berat city")
 
 *Ottoman Era Houses in Berat*
 

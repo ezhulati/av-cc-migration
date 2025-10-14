@@ -26,7 +26,7 @@ Volume
 
 [](# "Share on WhatsApp")[](# "Share on Facebook")[](# "Share on Twitter")[](# "Share on Telegram")[](# "Share via Email")
 
-![AlbaniaVisit logo](https://eia476h758b.exactdn.com/wp-content/uploads/2024/09/AlbaniaVisit_logo_plane_black.png?strip=all&lossy=1&w=1920&ssl=1)
+![AlbaniaVisit logo](/images/posts/AlbaniaVisit_logo_plane_black.png)
 
 Where Nature and Tradition Embrace in Albania’s Southeastern Heartland
 

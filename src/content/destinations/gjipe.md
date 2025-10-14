@@ -116,7 +116,7 @@ Even October works if you don’t mind 19°C water and the possibility that some
 
 Watch the weather if you’re camping or hiking. The canyon can flood during heavy rains, and flash flooding is a real danger. The trail becomes treacherous when wet.
 
-![Gjipe Beach](https://eia476h758b.exactdn.com/wp-content/uploads/2023/03/DJI_0555-HDR.jpg)![Gjipe Beach scaled](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/Gjipe-Beach-scaled.jpg)What’s Happening with Development
+![Gjipe Beach](/images/posts/DJI_0555-HDR.jpg)![Gjipe Beach scaled](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/Gjipe-Beach-scaled.jpg)What’s Happening with Development
 
 Here’s what nobody tells you: Albania’s government has been selling off coastal land for resort development. In August 2025, police came and destroyed the existing beach facilities, apparently because the land was sold to developers. Locals were pretty upset about it.
 

@@ -17,7 +17,7 @@ Sprawling at the heart of [Durrës](https://albaniavisit.com/destinations/durres
 
 Despite facing neglect amidst financial constraints and slow conservation efforts, this magnificent site continues attracting approximately 20,000 visitors per year — proof of its central role in the identity and social life of Durrës. New revitalization efforts led by the Albanian-American Development Foundation in cooperation with the Ministry of Culture seek to restore the amphitheater to its former glory. The project aims to integrate the structure into the urban fabric, improve accessibility for visitors and residents, and rejuvenate an area that will showcase the city’s rich history.
 
-![Roman Amphitheater Durrës](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Durres-Amiphitheater.jpg "Durres Amiphitheater")Marvel at an Architectural Giant
+![Roman Amphitheater Durrës](/images/posts/Durres-Amiphitheater.jpg "Durres Amiphitheater")Marvel at an Architectural Giant
 
 Walking through the arches into the expansive interior, it’s easy to imagine the spectacle of gladiatorial combat thrilling over 20,000 Roman spectators in the stands. The scale rivals famous Italian counterparts like Verona’s Arena. Skillful engineering integrated over 10,000 square feet of limestone walls into the planned city’s grid.
 

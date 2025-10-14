@@ -21,7 +21,7 @@ But perhaps even more intriguing are the connections that these findings reveal 
 
 ## The Arrival And Lives Of The Illyrians
 
-Around 2000 BCE, the [Illyrian tribes](https://albaniavisit.com/the-illyrians/) had established their presence in the hills and fields of the Balkan region. These pastoralists, who belonged to the Indo-European group, strategically settled in elevated areas that were easier to defend. As they entered the Bronze Age, their way of life revolved around herding animals, farming, fishing, and basic metalworking. Excavations by archaeologists have revealed remnants of their homes and [burial grounds](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/Kalmenica-Tumulus-Albania-Museum.png?strip=all&lossy=1&w=2560&ssl=1), providing insight into the mysterious Illyrian culture.
+Around 2000 BCE, the [Illyrian tribes](https://albaniavisit.com/the-illyrians/) had established their presence in the hills and fields of the Balkan region. These pastoralists, who belonged to the Indo-European group, strategically settled in elevated areas that were easier to defend. As they entered the Bronze Age, their way of life revolved around herding animals, farming, fishing, and basic metalworking. Excavations by archaeologists have revealed remnants of their homes and [burial grounds](/images/posts/Kalmenica-Tumulus-Albania-Museum.png), providing insight into the mysterious Illyrian culture.
 
 ## The Bronze And Iron Ages
 

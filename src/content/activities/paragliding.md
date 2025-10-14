@@ -124,7 +124,7 @@ Durrës Coastal Paratrike Adventures
 
 Albania’s historic coastal jewel offers paratrike flights that dance between the azure waters and golden beaches where civilizations have gathered for millennia. These beach-based operations provide gentle introduction flights while showcasing the magnificent coastline where Roman ruins meet contemporary resort life.
 
-![Durres, Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2022/03/Durres-3.jpeg)
+![Durres, Albania](/images/posts/Durres-3.jpeg)
 
 *Durrës, Albania*
 
@@ -168,7 +168,7 @@ Llogara National Park Seaside Cliff Launches
 
 Experience one of the Mediterranean’s most dramatic coastlines where the rugged Ceraunian Mountains plunge into the turquoise Ionian Sea, creating scenery so spectacular it defies imagination. Llogara’s seaside cliff launches provide endless views across crystalline waters to the mysterious Karaburun Peninsula, where ancient forests meet pristine beaches in harmony.
 
-![Llogara Pass on the Albanian Riviera by Car](https://eia476h758b.exactdn.com/wp-content/uploads/2024/05/Albanian-Riviera-by-Car.jpeg)
+![Llogara Pass on the Albanian Riviera by Car](/images/pages/Albanian-Riviera-by-Car.jpeg)
 
 *Llogara Pass on the Albanian Riviera*
 

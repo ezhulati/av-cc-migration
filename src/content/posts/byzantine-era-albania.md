@@ -38,7 +38,7 @@ The Normans may have captured Durrës in 1081, but these same walls witnessed By
 
 _Adriatic sea shore in Durrës_
 
-![Roman Amphitheater Durrës](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Durres-Amiphitheater-1024x576.jpg?strip=all&lossy=1&ssl=1)
+![Roman Amphitheater Durrës](/images/posts/Durres-Amiphitheater-1024x576.jpg)
 
 _Roman Amphitheater Durrës_
 
@@ -52,7 +52,7 @@ By the 12th and 13th centuries, as you wander these peaceful ruins with olive gr
 
 _Temple ruins in Apollonia_
 
-![Byzantine church of St Mary in Apollonia.](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Byzantine-Church-of-St.-Mary-Apollonia-Albania.jpeg?strip=all&lossy=1&ssl=1)
+![Byzantine church of St Mary in Apollonia.](/images/posts/Byzantine-Church-of-St.-Mary-Apollonia-Albania.jpeg)
 
 _Byzantine church of St Mary in Apollonia_
 
@@ -83,7 +83,7 @@ As Byzantine control weakened in the 14th century, local Albanian feudal familie
 
 _Krujë Castle and Fortress_
 
-![Skanderbeg museum](https://eia476h758b.exactdn.com/wp-content/uploads/2023/04/Kruje-Skanderbeg-Museum-scaled.jpeg?strip=all&lossy=1&ssl=1)
+![Skanderbeg museum](/images/posts/Kruje-Skanderbeg-Museum-scaled.jpeg)
 
 _The Skanderbeg Museum in Krujë_
 
@@ -99,7 +99,7 @@ The site's small museum includes fragments of Byzantine gold work, religious art
 
 _The Roman theater in Butrint_
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/The-Great-Basilica-Mozaic-Floor.jpg?strip=all&lossy=1&ssl=1)
+![](/images/posts/The-Great-Basilica-Mozaic-Floor.jpg)
 
 _World Heritage Site by UNESCO_
 
@@ -113,7 +113,7 @@ Meanwhile, the hauntingly beautiful polyphonic chanting in Orthodox churches acr
 
 _Byzantine art in Voskkopoja_
 
-![Permet Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2025/02/Permet-Albania.jpeg?strip=all&lossy=1&ssl=1)
+![Permet Albania](/images/posts/Permet-Albania.jpeg)
 
 _Birdseye view of Përmet_
 

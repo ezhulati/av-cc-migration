@@ -36,7 +36,7 @@ The beach itself stretches 1.5 kilometers of white pebbles that keep the water i
 
 Your accommodation choice will largely define your Palase experience. The [Green Coast Resort](https://albaniavisit.com/attractions/green-coast/) dominates the luxury end with its MGallery by Accor hotel featuring seven planned five-star properties across 40 acres. Guests rave about the infinity pools and mountain views, though some report water pressure issues during peak hours (typically 11 AM to 7:30 PM) and eye-watering sunbed prices that can reach €250 for premium spots.
 
-![Apartament Palase RRE Himare_1](https://eia476h758b.exactdn.com/wp-content/uploads/2024/03/465266231.jpg)
+![Apartament Palase RRE Himare_1](/images/accommodation/465266231.jpg)
 
 For a more intimate experience, Perseus Hotel consistently earns praise as a family-run property where the owners treat guests like relatives. The service is exceptional, and the atmosphere captures traditional Albanian hospitality without the corporate feel. Hotel Amare, perched dramatically on the hillside, offers stunning views and organic cuisine, though you’ll need a rental car with good power for the steep access road.
 

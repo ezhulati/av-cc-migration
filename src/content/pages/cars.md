@@ -106,7 +106,7 @@ If you brave Albania's roads, you'll be rewarded with some of the most epic driv
 
 Drive to the Albanian Alps.
 
-![Albanian Riviera by Car](https://eia476h758b.exactdn.com/wp-content/uploads/2024/05/Road-Vlore-Albania-1024x683.jpeg?strip=all&lossy=1&ssl=1 "Road Vlore Albania")
+![Albanian Riviera by Car](/images/pages/Road-Vlore-Albania-1024x683.jpeg "Road Vlore Albania")
 
 Drive along the Albanian Riviera.
 
@@ -114,7 +114,7 @@ Drive along the Albanian Riviera.
 
 View from the top of the Llogara Pass on the Albanian Riviera.
 
-![View from Llogara Pass on the Albanian Riviera](https://eia476h758b.exactdn.com/wp-content/uploads/2024/05/View-From-the-Llogara-Pass-Mountain-Range-1024x574.jpeg?strip=all&lossy=1&ssl=1 "View From the Llogara Pass Mountain Range")
+![View from Llogara Pass on the Albanian Riviera](/images/pages/View-From-the-Llogara-Pass-Mountain-Range-1024x574.jpeg "View From the Llogara Pass Mountain Range")
 
 View from the Llogara Pass mountain range.
 

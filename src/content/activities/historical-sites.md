@@ -17,7 +17,7 @@ While Albania is home to four UNESCO World Heritage sites—including Butrint an
 
 By visiting these well-preserved ruins, history enthusiasts can understand how strategic Mediterranean positions and rugged terrains shaped the destinies of empires.
 
-![Roman Amphitheater Durrës](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Durres-Amiphitheater.jpg "Durres Amiphitheater")
+![Roman Amphitheater Durrës](/images/posts/Durres-Amiphitheater.jpg "Durres Amiphitheater")
 
 Roman Amphitheater Durrës.
 
@@ -31,7 +31,7 @@ Founded in 588 BCE, Apollonia grew into a prominent Greek city-state before expe
 
 Visitors can explore ruins such as the Bouleuterion council house, a theater seating 3,500 people, and one of the area’s largest early churches, highlighting the extended Greek presence.
 
-![Ancient Illyrians](https://eia476h758b.exactdn.com/wp-content/uploads/2024/01/Ancient-Illyrians.png "Ancient Illyrians")
+![Ancient Illyrians](/images/posts/Ancient-Illyrians.png "Ancient Illyrians")
 
 Apollonia was an ancient Greek city in Illyria, located on the right bank of the Vjosa River.
 

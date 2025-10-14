@@ -55,7 +55,7 @@ Blloku provides varied lodging, from design-led boutique hotels and minimalist a
 
 Start days fueling up at European-style cafes before exploring side streets, eyeing pastel facades now home to trendy enterprises. Find the red-brick Villa of Enver Hoxha contrasting modern structures surrounding it. Later, take in stunning city views over [Mount Dajti](https://albaniavisit.com/attractions/mount-dajti/) from rooftop bars before sampling Blloku’s spirited nightlife into the early hours.
 
-![Enver Hoxhas Villa Blloku](https://eia476h758b.exactdn.com/wp-content/uploads/2024/01/Blloku-Enver-Hoxha.jpg "Blloku Enver Hoxha")
+![Enver Hoxhas Villa Blloku](/images/posts/Blloku-Enver-Hoxha.jpg "Blloku Enver Hoxha")
 
 *Former communist dictator Enver Hoxha’s Villa in the Blloku district.*
 

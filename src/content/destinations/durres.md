@@ -84,7 +84,7 @@ The Ethnographic Museum, Venetian Tower, and Fatih Mosque provide deep dives int
 
 From ancient architecture to waterfront relaxation, Durres offers varied attractions spanning history, culture, and natural beauty for visitors of all interests. The past is interwoven into the present in this coastal gem.
 
-![Durres, Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2022/03/Durres-2.jpeg "Durres 2")
+![Durres, Albania](/images/posts/Durres-2.jpeg "Durres 2")
 
 *City center (old town) and the harbour of Durres, Albania.*
 
@@ -94,7 +94,7 @@ Beyond sightseeing, experience Durres as a local. Shop in the city’s lively ma
 
 Try your hand at Albanian cooking during an immersive cooking class. Learn traditional recipes and savor the tastes of qofte, byrek, and stuffed peppers.
 
-![Byrek with meat - national dish, popular in the Balkans](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Byrek.jpeg "Byrek")
+![Byrek with meat - national dish, popular in the Balkans](/images/posts/Byrek.jpeg "Byrek")
 
 *Byrek with meat – national dish, popular in the Balkans*
 

@@ -112,7 +112,7 @@ Volume
 
 [](# "Share on WhatsApp")[](# "Share on Facebook")[](# "Share on Twitter")[](# "Share on Telegram")[](# "Share via Email")
 
-![AlbaniaVisit logo](https://eia476h758b.exactdn.com/wp-content/uploads/2024/09/AlbaniaVisit_logo_plane_black.png?strip=all&lossy=1&w=1920&ssl=1)
+![AlbaniaVisit logo](/images/posts/AlbaniaVisit_logo_plane_black.png)
 
 Where Ancient Prophecy Carved Its Name in Stone
 
@@ -202,7 +202,7 @@ Elena photographs the preserved stonework with the careful attention of someone 
 
 The forum’s dramatic ending—a late 4th-century earthquake that devastated the entire complex—illustrates how natural forces shape historical narratives as much as human ambition. Medieval residents later built modest homes among the ruins, recycling Roman stones for their own needs while inadvertently protecting ancient pavement beneath their floors.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Butrint-Albania-1.jpg)
+![](/images/posts/Butrint-Albania-1.jpg)
 
 Today, conservators work with techniques developed specifically for this site, balancing archaeological revelation with long-term preservation. The process requires patience—exposing small sections when weather conditions permit, then re-covering them when lagoon levels rise or humidity threatens the ancient mortar.
 
@@ -224,7 +224,7 @@ Elena kneels to examine details with the reverence of someone who has studied su
 
 The Great Basilica nearby continues this story of Christian transformation. Built as the bishop’s principal church—one of nine discovered in ancient Butrint—it evolved from 6th-century origins through medieval renovations that adapted changing liturgical needs. Walking between stone piers that replaced original columns, I point out hidden traces of the original mosaic floor beneath later flagstones.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/The-Great-Basilica-Mozaic-Floor.jpg)
+![](/images/posts/The-Great-Basilica-Mozaic-Floor.jpg)
 
 *The extraordinary mosaic floor of Butrint’s Byzantine Baptistery, where eight concentric bands – symbolizing eternal salvation – radiate from the central font, is one of the Mediterranean’s best-preserved early Christian artworks.*
 

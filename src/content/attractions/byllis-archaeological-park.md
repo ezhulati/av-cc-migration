@@ -57,7 +57,7 @@ Queen Teuta wasn’t some exception when she commanded naval forces against Rome
 
 Depiction of Illyrian Queen Teuta
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/01/Agron-of-Illyria-Image-Apr-13-2025-09_46_57-AM.jpg)
+![](/images/posts/Agron-of-Illyria-Image-Apr-13-2025-09_46_57-AM.jpg)
 
 Depiction of Illyrian King Agron
 

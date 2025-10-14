@@ -57,7 +57,7 @@ Our story begins at the edge of Lake Shkodër where I'm watching the morning mis
 
 Rozafa Castle, Shkodër, Albania
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/01/City-of-Shkoder-and-ramparts-of-Rozafa-castle-in-Albania_AdobeStock_354388722-1024x684.jpeg?strip=all&lossy=1&ssl=1)
+![](/images/posts/City-of-Shkoder-and-ramparts-of-Rozafa-castle-in-Albania_AdobeStock_354388722-1024x684.jpeg)
 
 Rozafa Castle Walls
 
@@ -77,7 +77,7 @@ I've come to trace the footsteps of these ancestors-not just mine, but potential
 
 Depiction of an Ancient Illyrian settlement
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/01/Reimagined-Illyrian-Settlement-Image-Apr-12-2025-08_23_10-PM-1024x683.jpg?strip=all&lossy=1&ssl=1)
+![](/images/posts/Reimagined-Illyrian-Settlement-Image-Apr-12-2025-08_23_10-PM-1024x683.jpg)
 
 Here's what most people miss about the Illyrians: they never called themselves that. "Illyrian" was primarily an exonym-a name applied by outsiders. The Greeks coined it, the Romans expanded it. To them, it was convenient shorthand for the diverse tribal peoples inhabiting lands north and west of Macedonia.
 
@@ -89,7 +89,7 @@ The morning finds us climbing a narrow trail toward the ancient hill fort of Gaj
 
 Gajtan, Albania
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/01/Gajtan-Albania.webp?strip=all&lossy=1&ssl=1)
+![](/images/posts/Gajtan-Albania.webp)
 
 Scholars contest Gajtan was known as Albanapolis
 
@@ -121,7 +121,7 @@ This is the first lesson of studying vanished civilizations: we often impose uni
 
 Risan, Montenegro
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/01/Bay-of-Kotor_Risan-Montenegro_AdobeStock_792657822-1024x684.jpeg?strip=all&lossy=1&ssl=1)
+![](/images/posts/Bay-of-Kotor_Risan-Montenegro_AdobeStock_792657822-1024x684.jpeg)
 
 Risan, Montenegro
 
@@ -131,7 +131,7 @@ As we moor at Risan's small harbor, I try to envision the scene two millennia ag
 
 Risan harbor, Montenegro
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/01/Risan_Montenegro_AdobeStock_135427872-1024x684.jpeg?strip=all&lossy=1&ssl=1)
+![](/images/posts/Risan_Montenegro_AdobeStock_135427872-1024x684.jpeg)
 
 Risan, Montenegro
 
@@ -147,7 +147,7 @@ Later that day, as we sail past hidden coves that once sheltered Illyrian raidin
 
 ![](/images/posts/Agron-of-Illyria-Image-Apr-13-2025-09_46_57-AM-683x1024.jpg)
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/01/Illyrian-Queen-Teuta-Image-Apr-13-2025-09_58_59-AM-683x1024.jpg?strip=all&lossy=1&ssl=1)
+![](/images/posts/Illyrian-Queen-Teuta-Image-Apr-13-2025-09_58_59-AM-683x1024.jpg)
 
 The setting sun casts long shadows across the water, and I can almost see ghost ships on the horizon-Roman quinqueremes advancing against Illyrian vessels in a clash of civilizations that would ultimately spell doom for the independent kingdoms of these shores.
 
@@ -171,7 +171,7 @@ The afternoon brings us to the archaeological site of Daorson near Stolac, Herze
 
 ![](/images/posts/View-over-the-town-of-Stolac-in-Bosnia-and-Herzegovina_AdobeStock_364579819-1024x683.jpeg)
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/01/Panorama-view-of-the-old-town-of-Stolac-in-Bosnia-and-Herzegovina_AdobeStock_779303051-1024x768.jpeg?strip=all&lossy=1&ssl=1)
+![](/images/posts/Panorama-view-of-the-old-town-of-Stolac-in-Bosnia-and-Herzegovina_AdobeStock_779303051-1024x768.jpeg)
 
 "The Daorsi tribe built this citadel using techniques similar to what you'd find in Mycenaean Greece," Mirad says as we walk along the cyclopean walls. "They were allies of Rome, which spared them during the Illyrian Wars, but they still maintained their own culture-even minting their own coins."
 
@@ -187,7 +187,7 @@ In the distance, a thunderstorm gathers over dark mountains, and I think of how 
 
 Prizren, Kosova
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/01/Prizren-in-Kosovo_AdobeStock_290618756-1024x768.jpeg?strip=all&lossy=1&ssl=1)
+![](/images/posts/Prizren-in-Kosovo_AdobeStock_290618756-1024x768.jpeg)
 
 Prizren, Kosova
 
@@ -205,7 +205,7 @@ In the afternoon, we drive to a breathtaking overlook where three countries-Koso
 
 ![](/images/posts/Illyrian-Wars-Image-Apr-13-2025-10_19_29-AM.jpg)
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/01/Constantine-the-Great-Image-Apr-13-2025-09_43_24-AM-683x1024.jpg?strip=all&lossy=1&ssl=1)
+![](/images/posts/Constantine-the-Great-Image-Apr-13-2025-09_43_24-AM-683x1024.jpg)
 
 After the Roman conquest, Illyrian identity didn't disappear overnight. Many embraced Roman ways, joining the legions, adopting Latin names, worshipping Roman gods alongside their traditional deities. Others retreated deeper into the mountains, preserving older ways of life.
 
@@ -223,7 +223,7 @@ Mosaic above the National History Museum featuring Socialist propaganda and hero
 
 ![Ancient Illyrian sculptures displayed in National Historical Museum of Tirana](/images/posts/Interior-of-the-National-History-Museum--1024x683.jpeg)
 
-![Ancient Illyrian sculptures displayed in National Historical Museum of Tirana](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/ancient-Illyrian-sculptures-displayed-in-Pavilion-of-Antiquities-of-National-Historical-Museum-of-Tirana-1024x683.jpeg?strip=all&lossy=1&ssl=1)
+![Ancient Illyrian sculptures displayed in National Historical Museum of Tirana](/images/posts/ancient-Illyrian-sculptures-displayed-in-Pavilion-of-Antiquities-of-National-Historical-Museum-of-Tirana-1024x683.jpeg)
 
 "The question of whether modern Albanians descend from the Illyrians has been both a scholarly pursuit and a matter of national identity," she explains as we tour the museum's extensive Illyrian collection. "The linguistic evidence is tantalizing but inconclusive-we simply lack sufficient Illyrian language samples to prove direct descent."
 
@@ -233,7 +233,7 @@ Later that day, I travel to the hillside settlement of Zgërdhesh near Krujë, p
 
 ![](/images/posts/Zgerdhesh_view_from_top-1024x662.jpg)
 
-![Zgërdhesh Castle](https://eia476h758b.exactdn.com/wp-content/uploads/2024/01/Zgerdhesh_Albania.jpg?strip=all&lossy=1&ssl=1)
+![Zgërdhesh Castle](/images/posts/Zgerdhesh_Albania.jpg)
 
 As the sun began to set, I hike to the archaeological site of Byllis, with its impressive theater and fortifications overlooking the Vjosa Valley. Here, the Bylliones tribe had formed a political league (koinon) and minted their own coins, showing both their autonomy and their integration into wider Hellenistic economic networks.
 
