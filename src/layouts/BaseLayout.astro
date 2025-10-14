@@ -71,7 +71,7 @@ const alternateLocale = language === 'sq' ? 'en_US' : 'sq_AL';
     <header class="site-header">
       <nav class="container">
         <a href={language === 'sq' ? '/sq/' : '/'} class="logo">
-          <span>Albania</span><span class="highlight">Visit</span>
+          <img src="/logo/AV Logo Transparent.png" alt="AlbaniaVisit Logo" />
         </a>
 
         <ul class="nav-menu">
@@ -191,14 +191,15 @@ const alternateLocale = language === 'sq' ? 'en_US' : 'sq_AL';
       }
 
       .logo {
-        font-size: 1.5rem;
-        font-weight: 700;
+        display: block;
         text-decoration: none;
-        color: var(--color-secondary);
+        line-height: 0;
       }
 
-      .logo .highlight {
-        color: var(--color-primary);
+      .logo img {
+        height: 50px;
+        width: auto;
+        display: block;
       }
 
       .nav-menu {
