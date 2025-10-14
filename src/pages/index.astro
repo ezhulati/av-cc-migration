@@ -25,10 +25,51 @@ posts.sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDat
   <!-- Hero Section with Image Slider -->
   <section class="hero-slider">
     <div class="slider-container">
-      <!-- Slide 1: Visit Albania -->
+      <!-- Slide 1: Visit Albania (Main) -->
       <div class="slide active" style="background-image: url('https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/VisitAlbania.jpeg');">
         <div class="slide-overlay"></div>
       </div>
+
+      <!-- Slide 2: Ksamil Beach -->
+      <div class="slide" style="background-image: url('https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/ksamil-1-scaled.jpeg');">
+        <div class="slide-overlay"></div>
+      </div>
+
+      <!-- Slide 3: Gjipe Beach -->
+      <div class="slide" style="background-image: url('https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Gjipe-copy-scaled.jpeg');">
+        <div class="slide-overlay"></div>
+      </div>
+
+      <!-- Slide 4: Himare Coast -->
+      <div class="slide" style="background-image: url('https://eia476h758b.exactdn.com/wp-content/uploads/2021/10/Himare-scaled.jpg');">
+        <div class="slide-overlay"></div>
+      </div>
+
+      <!-- Slide 5: Qeparo Village -->
+      <div class="slide" style="background-image: url('https://eia476h758b.exactdn.com/wp-content/uploads/2020/03/Qeparo-Albanian-Riviera-scaled.jpeg');">
+        <div class="slide-overlay"></div>
+      </div>
+
+      <!-- Slide 6: Palase Beach -->
+      <div class="slide" style="background-image: url('https://eia476h758b.exactdn.com/wp-content/uploads/2020/03/Palase_DJI_0280.jpg');">
+        <div class="slide-overlay"></div>
+      </div>
+
+      <!-- Slide 7: Apollonia Archaeological Site -->
+      <div class="slide" style="background-image: url('https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Apollonia.jpg');">
+        <div class="slide-overlay"></div>
+      </div>
+    </div>
+
+    <!-- Slider Dots Navigation -->
+    <div class="slider-dots">
+      <button class="dot active" data-slide="0" aria-label="Go to slide 1"></button>
+      <button class="dot" data-slide="1" aria-label="Go to slide 2"></button>
+      <button class="dot" data-slide="2" aria-label="Go to slide 3"></button>
+      <button class="dot" data-slide="3" aria-label="Go to slide 4"></button>
+      <button class="dot" data-slide="4" aria-label="Go to slide 5"></button>
+      <button class="dot" data-slide="5" aria-label="Go to slide 6"></button>
+      <button class="dot" data-slide="6" aria-label="Go to slide 7"></button>
     </div>
 
     <!-- Hero Content Overlay -->
@@ -48,6 +89,54 @@ posts.sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDat
     </div>
 
   </section>
+
+  <!-- Slider JavaScript -->
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const slides = document.querySelectorAll('.slide');
+      const dots = document.querySelectorAll('.dot');
+      let currentSlide = 0;
+      const slideInterval = 5000; // 5 seconds per slide
+
+      function showSlide(index) {
+        // Remove active class from all slides and dots
+        slides.forEach(slide => slide.classList.remove('active'));
+        dots.forEach(dot => dot.classList.remove('active'));
+
+        // Add active class to current slide and dot
+        slides[index].classList.add('active');
+        dots[index].classList.add('active');
+        currentSlide = index;
+      }
+
+      function nextSlide() {
+        currentSlide = (currentSlide + 1) % slides.length;
+        showSlide(currentSlide);
+      }
+
+      // Auto-advance slides
+      let autoSlide = setInterval(nextSlide, slideInterval);
+
+      // Dot click handlers
+      dots.forEach((dot, index) => {
+        dot.addEventListener('click', () => {
+          clearInterval(autoSlide);
+          showSlide(index);
+          autoSlide = setInterval(nextSlide, slideInterval);
+        });
+      });
+
+      // Pause on hover
+      const heroSlider = document.querySelector('.hero-slider');
+      heroSlider.addEventListener('mouseenter', () => {
+        clearInterval(autoSlide);
+      });
+
+      heroSlider.addEventListener('mouseleave', () => {
+        autoSlide = setInterval(nextSlide, slideInterval);
+      });
+    });
+  </script>
 
 
   <style>
