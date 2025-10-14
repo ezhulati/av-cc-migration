@@ -23,12 +23,6 @@ export default defineConfig({
     format: 'directory',
   },
   image: {
-    domains: ['albaniavisit.com', 'eia476h758b.exactdn.com'],
-    remotePatterns: [
-      {
-        protocol: 'https',
-        hostname: '**.exactdn.com',
-      },
-    ],
+    service: { entrypoint: 'astro/assets/services/noop' },
   },
 });
