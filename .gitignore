@@ -22,7 +22,8 @@ pnpm-debug.log*
 data/*.json
 !data/.gitkeep
 
-# downloaded images (too large for git)
-public/images/*
-!public/images/.gitkeep
+# Downloaded images - committing to git for Netlify deployment
+# Note: If repo becomes too large, consider Git LFS
+# public/images/*
+# !public/images/.gitkeep
 Practical-UI.pdf
