@@ -35,7 +35,7 @@ Don’t miss the medieval castle and defense tower from Butrint’s Venetian per
 
 Butrint encapsulates Albania’s layered history, earning its place as the country’s first UNESCO World Heritage Site in 1992.
 
-![butrint albania](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/butrint-1.jpeg "butrint 1 1024x684")
+![butrint albania](/images/attractions/butrint-1.jpeg "butrint 1 1024x684")
 
 *Ancient theater in the ruins of Butrint in southern Albania*
 
@@ -71,7 +71,7 @@ As you wander past the Ottoman-style houses, they grow organically from the rock
 
 Gjirokastra represents an architectural and cultural jewel that beautifully withstands the passage of time.
 
-![Gjirokastra](https://eia476h758b.exactdn.com/wp-content/uploads/2022/03/gjirokastra-albania.jpeg "gjirokastra albania")
+![Gjirokastra](/images/destinations/gjirokastra-albania.jpeg "gjirokastra albania")
 
 *Gjirokastra*
 
@@ -85,7 +85,7 @@ Moreover, the area around Ohrid formed an important crossroads between civilizat
 
 The region around Pogradec in Albania was [inhabited by Illyrians](https://albaniavisit.com/prehistory-albania/) in the 5th century BC, [followed by Romans](https://albaniavisit.com/albanias-roman-era/) along the Via Egnatia trade route.
 
-![Ohrid Lake](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/pogradec-ohrid-lake.jpeg "pogradec ohrid lake")
+![Ohrid Lake](/images/attractions/pogradec-ohrid-lake.jpeg "pogradec ohrid lake")
 
 *Lake Ohrid in Pogradec*
 
@@ -99,7 +99,7 @@ Its exquisite Byzantine frescoes watch over the lakeside from above.
 
 Walking the trails around the monastery with Lake Ohrid views perfectly showcases Albania’s harmony of culture and nature.
 
-![St. Naum Monastery](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/St.-Naum-Monastery.jpeg "St. Naum Monastery")
+![St. Naum Monastery](/images/attractions/St.-Naum-Monastery.jpeg "St. Naum Monastery")
 
 *Saint Naum Monastery near Ohrid in Macedonia*
 
@@ -121,7 +121,7 @@ The fresh mountain air and sunlight streaming through branches awaken your sense
 
 You’ll emerge reconnected with nature, understanding why the conservation of these ancient forests matters.
 
-![Albania Primeval Beech Forests](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Primeval-Beech-Forests-Albania-1.jpeg "Primeval Beech Forests Albania 1")
+![Albania Primeval Beech Forests](/images/attractions/Primeval-Beech-Forests-Albania-1.jpeg "Primeval Beech Forests Albania 1")
 
 *Albania’s Primeval Beech Forest*
 
@@ -131,7 +131,7 @@ Besides its four inscribed World Heritage sites, Albania maintains a tentative l
 
 The ancient city of [Apollonia](https://albaniavisit.com/destinations/apollonia/) represents an important archaeological gem spanning the Greek, Illyrian, and Roman eras.
 
-![Apollonia](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Apollonia-Albania-1.jpeg "Apollonia Albania 1")
+![Apollonia](/images/attractions/Apollonia-Albania-1.jpeg "Apollonia Albania 1")
 
 *Ancient ruins of Apollonia*
 

@@ -16,7 +16,7 @@ Why Visit Qeparo
 
 Along the [Albanian Riviera](https://albaniavisit.com/attractions/albanian-riviera/), Qeparo is a tranquil village that maintains its authentic character and natural beauty.
 
-![dji fly 20240820 185014 107 1724216491719 photo](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/dji_fly_20240820_185014_107_1724216491719_photo.jpg "dji fly 20240820 185014 107 1724216491719 photo")
+![dji fly 20240820 185014 107 1724216491719 photo](/images/destinations/dji_fly_20240820_185014_107_1724216491719_photo.jpg "dji fly 20240820 185014 107 1724216491719 photo")
 
 Qeapro village on the Albanian Riviera.
 
@@ -24,7 +24,7 @@ Unlike bustling Mediterranean resorts, Qeparo offers untouched beaches with clea
 
 The village’s cultural heritage and ancient landmarks provide a unique glimpse into Albania’s history.
 
-![Traditional houses Qeparo village Albanian Riviera](https://eia476h758b.exactdn.com/wp-content/uploads/2023/11/Traditional-houses-Qeparo-village-Albanian-Riviera.jpeg "Traditional houses Qeparo village Albanian Riviera")
+![Traditional houses Qeparo village Albanian Riviera](/images/destinations/Traditional-houses-Qeparo-village-Albanian-Riviera.jpeg "Traditional houses Qeparo village Albanian Riviera")
 
 Traditional houses in Qeparo.
 
@@ -34,7 +34,7 @@ Reaching Qeparo is straightforward. The nearest international gateway is Corfu A
 
 You can [rent a car](https://albaniavisit.com/travel-guide/rental-car-albania/) from the airport or take a bus to Qeparo. The drive takes about three hours and offers scenic views of the countryside.
 
-![dji fly 20240820 190134 124 1724216279243 photo](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/dji_fly_20240820_190134_124_1724216279243_photo.jpg "dji fly 20240820 190134 124 1724216279243 photo")
+![dji fly 20240820 190134 124 1724216279243 photo](/images/destinations/dji_fly_20240820_190134_124_1724216279243_photo.jpg "dji fly 20240820 190134 124 1724216279243 photo")
 
 Qeparo in the Albanian Riviera.
 
@@ -52,19 +52,19 @@ The architecture reflects Ottoman, Venetian, and Albanian influences, seen in tr
 
 For history enthusiasts, the nearby [ancient city of Phoenice](https://albaniavisit.com/attractions/ancient-city-phoenice/) offers well-preserved ruins of a theater, agora, and Roman baths, providing insight into life during the Roman era.
 
-![IMG 2333](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/IMG_2333.jpeg "IMG 2333")Local Cuisine
+![IMG 2333](/images/destinations/IMG_2333.jpeg "IMG 2333")Local Cuisine
 
 Qeparo is renowned for its fresh seafood sourced from the Ionian Sea. Enjoy dishes like grilled octopus, prawns, and fish with Mediterranean flavors.
 
 For an authentic dining experience, pair your meal with locally produced wine or raki, a traditional Albanian spirit.
 
-![IMG 2373](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/IMG_2373.jpeg "IMG 2373")Outdoor Activities
+![IMG 2373](/images/destinations/IMG_2373.jpeg "IMG 2373")Outdoor Activities
 
 Adventure seekers can explore Llogara National Park nearby, hiking through forests, spotting wildlife, and enjoying panoramic views of the Riviera.
 
 Boat tours are also available to discover hidden coves and secluded beaches accessible only by sea.
 
-![dji fly 20240820 201928 159 1724221289993 photo](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/dji_fly_20240820_201928_159_1724221289993_photo.jpg "dji fly 20240820 201928 159 1724221289993 photo")
+![dji fly 20240820 201928 159 1724221289993 photo](/images/destinations/dji_fly_20240820_201928_159_1724221289993_photo.jpg "dji fly 20240820 201928 159 1724221289993 photo")
 
 Qeparo beach and promenade.
 
@@ -78,7 +78,7 @@ You can stop by to enjoy a drink or dinner while watching the sunset over the se
 
 Live music often fills the air, enhancing the relaxed atmosphere.
 
-![dji fly 20240820 174604 85 1724212008195 photo](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/dji_fly_20240820_174604_85_1724212008195_photo.jpg "dji fly 20240820 174604 85 1724212008195 photo")
+![dji fly 20240820 174604 85 1724212008195 photo](/images/destinations/dji_fly_20240820_174604_85_1724212008195_photo.jpg "dji fly 20240820 174604 85 1724212008195 photo")
 
 Qeparo, by night in the summer, has a lively atmosphere.
 
@@ -86,7 +86,7 @@ Best Time to Visit
 
 The ideal time to visit Qeparo is from May to September when the weather is warm and sunny—perfect for beach activities and outdoor exploration. May and September offer pleasant temperatures with fewer tourists.
 
-![IMG 2324](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/IMG_2324.jpeg "IMG 2324")Getting Around
+![IMG 2324](/images/destinations/IMG_2324.jpeg "IMG 2324")Getting Around
 
 Once in Qeparo, the compact town center is easy to navigate on foot. Scooters and bicycles are available for rent to cover more ground. Local buses and taxis provide convenient transportation within the area.
 

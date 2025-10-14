@@ -20,13 +20,13 @@ This isn’t your typical Mediterranean beach resort. There’s no boardwalk, no
 
 The whole thing sits at the exact spot where the Adriatic meets the Ionian Sea, which creates these weird, perfect swimming conditions – crystal clear water with almost no current. It’s like swimming in a giant natural pool, if that pool happened to be surrounded by ancient history and [communist-era](https://albaniavisit.com/communist-era/) paranoia.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2020/03/Gjipe_DJI_0498.jpg)![](https://eia476h758b.exactdn.com/wp-content/uploads/2020/03/Gjipe_DJI_0496.jpg)Getting There
+![](/images/destinations/Gjipe_DJI_0498.jpg)![](/images/destinations/Gjipe_DJI_0496.jpg)Getting There
 
 The classic approach starts with finding the barely-marked turnoff for “Manastiri i Shen Theodhorit” on the coastal highway. Good luck with that – the sign looks like it was put up sometime during the Ottoman Empire and hasn’t been maintained since.
 
 The single-lane paved road winds 2.5 kilometers through olive groves and past those concrete bunkers that are everywhere here. There’s a parking lot where locals charge you €4 (sometimes €6 overnight) in cash only. From there, you hike 45 minutes down a rocky, completely exposed trail that feels like walking on the surface of Mars in August.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2020/03/Gjipe_DSC07564.jpg)![](https://eia476h758b.exactdn.com/wp-content/uploads/2020/03/Gjipe_DSC07572.jpg)
+![](/images/destinations/Gjipe_DSC07564.jpg)![](/images/destinations/Gjipe_DSC07572.jpg)
 
 If you’re driving from [Tirana](https://albaniavisit.com/destinations/tirana/), budget 4-5 hours. From [Saranda](https://albaniavisit.com/destinations/saranda/), about 3-4 hours. The new Llogara Tunnel cut 45 minutes off the drive from [Vlorë](https://albaniavisit.com/destinations/vlora/), which sounds great until you realize it also means way more people know about this place now.
 
@@ -34,11 +34,11 @@ Boat access from [Himarë](https://albaniavisit.com/destinations/himare/) runs �
 
 There’s also a 4-kilometer coastal trail from [Dhërmi](https://albaniavisit.com/destinations/dhermi/) if you’re feeling ambitious. Takes about 90 minutes and the views are incredible, but bring more water than you think you need and don’t attempt it in flip-flops.
 
-![Llogara pass in Albania 1](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Llogara-pass-in-Albania-1.jpeg)
+![Llogara pass in Albania 1](/images/destinations/Llogara-pass-in-Albania-1.jpeg)
 
 *Winding road on the Llogara pass, Albanian Riveira*.
 
-![Gjipe Beach](https://eia476h758b.exactdn.com/wp-content/uploads/2020/03/Gjipe-Beach.jpeg)
+![Gjipe Beach](/images/destinations/Gjipe-Beach.jpeg)
 
 *Gjipe Beach can also be reached by boat.*
 
@@ -50,21 +50,21 @@ The 14th-century [Saint Theodore Monastery](https://albaniavisit.com/attractions
 
 They’re restoring it now, and there’s still an annual religious celebration every March 4th that draws people from all over the Himara region. The views from up there are insane.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2020/03/Saint_Theodore_Monastery_143389813.jpeg)
+![](/images/destinations/Saint_Theodore_Monastery_143389813.jpeg)
 
 *Saint Theodore Monastery, lias Village, Albania*
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2020/03/Saint_Theodore_Monastery_144820159.jpeg)The Cold War Bunkers
+![](/images/destinations/Saint_Theodore_Monastery_144820159.jpeg)The Cold War Bunkers
 
 About those concrete bunkers scattered everywhere – this is where Albanian history gets really weird. Dictator Enver Hoxha was so paranoid about invasion that between 1967 and 1986, he had his chief military engineer Josif Zagali build over [750,000 bunkers](https://albaniavisit.com/albania-bunkers/) across the country. That’s 14.7 bunkers per square mile, or roughly one bunker for every four Albanians.
 
 The ones around Gjipe are built from concrete, iron, and steel designed to last centuries. Removing them costs about €800 each, so most are still there. They make for interesting photo props, and some of the hiking trails wind right past them. It’s surreal – you’re walking through this ancient landscape toward a pristine beach, and there are these little concrete domes reminding you that Albania spent decades convinced everyone was out to get them.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2020/03/Gjipe_DSC07568.jpg)
+![](/images/destinations/Gjipe_DSC07568.jpg)
 
 *Dome shaped communist-era bunkers, remnants of communist Albania*
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2020/03/Gjipe_DSC07616.jpg)Water and Marine Life
+![](/images/destinations/Gjipe_DSC07616.jpg)Water and Marine Life
 
 Water temperature stays 22-25°C from June through November, sometimes hitting 19°C even in October. The protected canyon location means almost no waves or current – perfect for kids and snorkeling.
 
@@ -74,7 +74,7 @@ Three dolphin species hang out in these waters – common bottlenose dolphins, s
 
 The whole area is recognized as an Important plant area by Plantlife International because of rare endemic Mediterranean species that grow nowhere else. There are even freshwater springs that bubble up through the beach pebbles where the canyon meets the sea.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2020/03/Gjipe_DJI_0506.jpg)![](https://eia476h758b.exactdn.com/wp-content/uploads/2020/03/Gjipe_DJI_0501.jpg)Caves, Climbing, and Adventure
+![](/images/destinations/Gjipe_DJI_0506.jpg)![](/images/destinations/Gjipe_DJI_0501.jpg)Caves, Climbing, and Adventure
 
 The limestone cliffs are riddled with sea caves you can swim or kayak to. Pirate’s Cave is the big one – you can actually stand inside it, and the acoustics are wild. Local legend says medieval pirates used it to stash treasure and hide from authorities, which sounds made up but adds to the atmosphere.
 
@@ -84,7 +84,7 @@ You can walk about a kilometer up into the canyon itself, past more bunkers and 
 
 Kayak rentals run €10 per hour if you want to explore the coastline. Just watch the conditions – even calm days can get choppy near the cave entrances.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2020/03/Gjipe_DSC07614.jpg)![](https://eia476h758b.exactdn.com/wp-content/uploads/2020/03/Gjipe_DSC07594.jpg)The Festival Scene
+![](/images/destinations/Gjipe_DSC07614.jpg)![](/images/destinations/Gjipe_DSC07594.jpg)The Festival Scene
 
 Here’s something most travel guides miss – this area has become a serious music destination. Kala Festival happens every June in nearby Dhërmi, bringing international electronic music acts to beach stages. Anjunadeep Explorations runs around the same time. These aren’t massive Coachella-type events, but intimate gatherings that attract a lot of UK and European festival-goers.
 
@@ -92,11 +92,11 @@ The 2023 Anjunadeep was particularly good – they had stages right on Gjipe Bea
 
 There’s also the Himara International Music Festival in August focusing on classical and chamber music, which reflects the region’s Greek Orthodox heritage.
 
-![Gjipe Beach Anjunadeep Explorations scaled](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Gjipe-Beach-Anjunadeep-Explorations-scaled.jpeg)
+![Gjipe Beach Anjunadeep Explorations scaled](/images/destinations/Gjipe-Beach-Anjunadeep-Explorations-scaled.jpeg)
 
 *Gjipe Beach Anjunadeep Explorations*
 
-![Marsh and Simon Doty, Anjunadeep Explorations, Gjipe Beach, Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Marsh-Simon-Doty-Anjunadeep-Ecplorations-Gjipe-Beach-scaled.jpeg)
+![Marsh and Simon Doty, Anjunadeep Explorations, Gjipe Beach, Albania](/images/destinations/Marsh-Simon-Doty-Anjunadeep-Ecplorations-Gjipe-Beach-scaled.jpeg)
 
 *International DJ Simon Doty performing at Anjunadeep Explorations, Gjipe Beach, Albania*
 
@@ -108,7 +108,7 @@ Dhërmi, just 3.5 kilometers away, has everything from the fancy [Sarajet e Pash
 
 Food at the beach runs about double town prices – a beer costs 600 LEK (€5) instead of 300 LEK elsewhere. Everything is cash only – no ATMs anywhere near the beach, so bring enough LEK or euros in small bills.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2020/03/Gjipe_DSC07608.jpg)![](https://eia476h758b.exactdn.com/wp-content/uploads/2020/03/Gjipe_DSC07606.jpg)When to Go
+![](/images/destinations/Gjipe_DSC07608.jpg)![](/images/destinations/Gjipe_DSC07606.jpg)When to Go
 
 September is the sweet spot. Water’s still warm (around 22°C), summer crowds have gone home, and accommodation prices drop 50-100%. May and June are good too, though the water’s cooler. July and August are peak season – hottest weather, most people, highest prices, but also when all the festivals happen.
 
@@ -116,7 +116,7 @@ Even October works if you don’t mind 19°C water and the possibility that some
 
 Watch the weather if you’re camping or hiking. The canyon can flood during heavy rains, and flash flooding is a real danger. The trail becomes treacherous when wet.
 
-![Gjipe Beach](/images/posts/DJI_0555-HDR.jpg)![Gjipe Beach scaled](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/Gjipe-Beach-scaled.jpg)What’s Happening with Development
+![Gjipe Beach](/images/posts/DJI_0555-HDR.jpg)![Gjipe Beach scaled](/images/destinations/Gjipe-Beach-scaled.jpg)What’s Happening with Development
 
 Here’s what nobody tells you: Albania’s government has been selling off coastal land for resort development. In August 2025, police came and destroyed the existing beach facilities, apparently because the land was sold to developers. Locals were pretty upset about it.
 
@@ -134,7 +134,7 @@ Essential Practical Info-   Bring 2-3 liters of water per person for day trips
 
 The hike back up takes 30-60 minutes depending on your fitness level. Cell coverage is spotty at beach level. Emergency number is 112, but the nearest hospitals are in Vlorë (42km) or Himarë (7km).
 
-![Gjipe Beach, Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Gjipe-Beach-blue-water-scaled.jpeg)![Gjipe Beach, Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Gjipe4-scaled.jpeg)Visit Gjipe
+![Gjipe Beach, Albania](/images/destinations/Gjipe-Beach-blue-water-scaled.jpeg)![Gjipe Beach, Albania](/images/destinations/Gjipe4-scaled.jpeg)Visit Gjipe
 
 Gjipe Beach isn’t just another pretty beach. It’s one of the last genuinely wild places on the Mediterranean coast – a spot where 252-million-year-old geology meets 2,000 years of human history, where you can swim in crystal-clear water surrounded by canyon walls and communist-era bunkers, where electronic music festivals happen in settings that look like fantasy movie sets.
 

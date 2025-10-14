@@ -15,7 +15,7 @@ Tucked amidst the forested slopes of the Drino River Valley in southern Albania 
 
 While rarely topping lists of must-see Albanian attractions, the humble pools offer welcome respite after long days exploring more famous sights — from UNESCO Berat’s Ottoman mansions to eerie Cold War bunkers perforating the countryside. Here, naturally rich with revitalizing minerals, water soothes stresses under canopies of oak and chestnut trees in one of Albania’s most scenic untamed woodland pockets.
 
-![Mineral enriched geothermal pools fueled by bubbling underground springs Make Albanias Benja forest sanctuary a secluded haven for sore muscles seeking medicinal thermal waters](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Mineral-enriched-geothermal-pools-fueled-by-bubbling-underground-springs-Make-Albanias-Benja-forest-sanctuary-a-secluded-haven-for-sore-muscles-seeking-medicinal-thermal-waters.jpeg "Mineral enriched geothermal pools fueled by bubbling underground springs Make Albanias Benja forest sanctuary a secluded haven for sore muscles seeking medicinal thermal waters")
+![Mineral enriched geothermal pools fueled by bubbling underground springs Make Albanias Benja forest sanctuary a secluded haven for sore muscles seeking medicinal thermal waters](/images/attractions/Mineral-enriched-geothermal-pools-fueled-by-bubbling-underground-springs-Make-Albanias-Benja-forest-sanctuary-a-secluded-haven-for-sore-muscles-seeking-medicinal-thermal-waters.jpeg "Mineral enriched geothermal pools fueled by bubbling underground springs Make Albanias Benja forest sanctuary a secluded haven for sore muscles seeking medicinal thermal waters")
 
 *Overhead view of the Benja Thermal Hot Springs near Përmet*
 
@@ -25,7 +25,7 @@ The various thermal pools lie scattered across a hillside 1.5 kilometers outside
 
 But after 1970, word spread about the location’s therapeutic waters and peaceful valley isolation, attracting Albanian holiday-goers craving immersive relaxation, which was unavailable behind the country’s tight borders. Fifty years later, the cascading pools, steam chambers, and stone aquatic structures channeling mineral-rich flows from the hillside continue drawing wellness seekers and nature lovers toward the backends.
 
-![Benja Thermal Baths in Permet](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Benja-Thermal-Baths-in-Permet.jpeg "Benja Thermal Baths in Permet")
+![Benja Thermal Baths in Permet](/images/attractions/Benja-Thermal-Baths-in-Permet.jpeg "Benja Thermal Baths in Permet")
 
 *Benja Thermal Baths near Permet*
 
@@ -35,7 +35,7 @@ The Benja Hot Springs supply various ponds and facilities by harnessing true geo
 
 This natural enrichment allows the cascading falls and pools fed by underground sources to assist many health conditions — from stimulating blood flow and lowering blood pressure to reducing inflammation, alleviating skin ailments like psoriasis, and soothing joint movement disorders like arthritis through minutes of bathing within the warm flowing mineral-rich waters.
 
-![Thermal baths of Permet 2](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Thermal-baths-of-Permet-2.jpeg "Thermal baths of Permet 2")An Ideal Escape Offering Flexible Experiences
+![Thermal baths of Permet 2](/images/attractions/Thermal-baths-of-Permet-2.jpeg "Thermal baths of Permet 2")An Ideal Escape Offering Flexible Experiences
 
 Part of the site’s quaint yet powerful allure comes from the decentralized layout where guests fluidly drift between several distinct facilities and specialty stations operated independently yet all unified by harnessing the region’s treasured hot springs stemming from mountain foothills nearby.
 

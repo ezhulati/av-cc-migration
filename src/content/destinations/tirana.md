@@ -2,7 +2,7 @@
 title: Tirana
 description: Tirana is the capital of Albania and its largest city. Known for its nightlife, shopping, and international cuisine Tirana is the main transport hub for Albania and a great place to start your Albania visit.
 region: Central Albania
-featuredImage: https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/AdobeStock_287498228.jpeg
+featuredImage: /images/destinations/AdobeStock_287498228.jpeg
 images: []
 coordinates:
   lat: 0
@@ -36,11 +36,11 @@ Surrounded by mountains and warmed by Mediterranean sun, Albania’s capital is 
 
 And yet, the city pulses with life.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/AdobeStock_287498228.jpeg)
+![](/images/destinations/AdobeStock_287498228.jpeg)
 
 *Tirana is the Capital City of Albania. Image by [adonis\_abril](https://stock.adobe.com/contributor/205721883/adonis-abril?load_type=author&prev_url=detail)*
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/AdobeStock_287497609.jpeg)
+![](/images/destinations/AdobeStock_287497609.jpeg)
 
 *Early morning in Tirana*. *Image by [adonis\_abril](https://stock.adobe.com/contributor/205721883/adonis-abril?load_type=author&prev_url=detail)*
 
@@ -68,7 +68,7 @@ Children still climb the base of the Skanderbeg statue, a rite of passage across
 
 To explore these layers with a local perspective, try a [walking tour of Tirana’s historic center](https://viator.tpm.li/JuNdTudQ) or this [communist-era Tirana tour](https://viator.tpm.li/15C9yedG) led by someone who lived through it.
 
-![National museum in Tirana](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Tirana-Musuem-scaled.jpeg)
+![National museum in Tirana](/images/destinations/Tirana-Musuem-scaled.jpeg)
 
 *National History Museum, Tirana*
 
@@ -76,15 +76,15 @@ To explore these layers with a local perspective, try a [walking tour of Tirana�
 
 *Exhibits on display a the National History Museum*
 
-![a group of people walking around a plaza with a clock tower in the background](https://eia476h758b.exactdn.com/wp-content/uploads/2024/02/egqgpwy3wlk.jpg)
+![a group of people walking around a plaza with a clock tower in the background](/images/destinations/egqgpwy3wlk.jpg)
 
 *Tirana city center.*
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/National_Arts_Gallery_in_Tirana.jpg)
+![](/images/destinations/National_Arts_Gallery_in_Tirana.jpg)
 
 *National Arts Gallery, Tirana*
 
-![National Arts Gallery Tirana](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/National-Arts-Gallery-Tirana.jpeg)
+![National Arts Gallery Tirana](/images/destinations/National-Arts-Gallery-Tirana.jpeg)
 
 *Interior of the National Arts Gallery, Tirana*
 
@@ -109,11 +109,11 @@ In the 2000s, then-mayor [Edi Rama](https://albaniavisit.com/tourism-politics/al
 
 But the paint faded. Rain streaked it. And under the color, problems remained—poor infrastructure, political corruption, and economic stagnation.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/AdobeStock_560046369.jpeg)
+![](/images/destinations/AdobeStock_560046369.jpeg)
 
 *Aerial view of Tirana city center and lake. Image by [frimufilms](https://stock.adobe.com/contributor/205725673/frimufilms)*
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/AdobeStock_458036824.jpeg)
+![](/images/destinations/AdobeStock_458036824.jpeg)
 
 *Apartment buildings in Tirana. Image by [Peter](https://stock.adobe.com/contributor/205721883/adonis-abril)*
 
@@ -153,11 +153,11 @@ Bunkers and the Pyramid-   [Bunk’Art 1](https://albaniavisit.com/attractions/b
 
 If you’re short on time, book a [Mount Dajti & Bunk’Art combo tour](https://viator.tpm.li/HYPriEnB). You’ll ride the Dajti cable car, explore Bunk’Art 1, and enjoy a traditional mountain lunch.
 
-![The Pyramid of Tirana](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/The-Pyramid-of-Tirana.jpeg)
+![The Pyramid of Tirana](/images/destinations/The-Pyramid-of-Tirana.jpeg)
 
 *View of Tirana Pyramid and city.*
 
-![Tirana Pyramid](https://eia476h758b.exactdn.com/wp-content/uploads/2023/11/Tirana-Pyramid.jpeg)
+![Tirana Pyramid](/images/destinations/Tirana-Pyramid.jpeg)
 
 *Tirana Pyramid in the center near Skanderbeg Square in Tirana.*
 
@@ -174,11 +174,11 @@ Mount Dajti-   15 minutes by [Dajti Ekspres cable car](https://albaniavisit.com/
 
 If you prefer convenience, the [guided Dajti tour with lunch](https://viator.tpm.li/HYPriEnB) includes transportation, museum entry, and food.
 
-![Dajti National Park](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Dajti-National-Park.jpeg)
+![Dajti National Park](/images/destinations/Dajti-National-Park.jpeg)
 
 *Dajti mountain in Tirana*
 
-![Tirana capital city, view from east hills, Cable Car.](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/Tirana-capital-city-view-from-east-hills-Cable-Car.jpg)
+![Tirana capital city, view from east hills, Cable Car.](/images/destinations/Tirana-capital-city-view-from-east-hills-Cable-Car.jpg)
 
 *Tirana is the capital city, viewed from the Dajti Cable Car*
 

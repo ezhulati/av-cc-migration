@@ -17,7 +17,7 @@ Just an hour’s drive from Albania’s historic port city of Durrës along the 
 
 As a first-time visitor to the Karavasta Lagoon, I wasn’t entirely sure what to expect. This part of the country remains solidly off most travelers’ radars. After just two days soaking in Karavasta’s natural splendor, one thing was certain – this place needed to be on every nature enthusiast’s bucket list. Let me explain why you should venture to this undiscovered patch of Albanian paradise.
 
-![The Divjake-Karavasta National Park](https://eia476h758b.exactdn.com/wp-content/uploads/2024/01/Divjake-Karavasta-National-Park.jpeg "Divjake Karavasta National Park")
+![The Divjake-Karavasta National Park](/images/attractions/Divjake-Karavasta-National-Park.jpeg "Divjake Karavasta National Park")
 
 *Domesticated Wild Pelican in the Divjake-Karavasta National Park, Albania.*
 
@@ -27,7 +27,7 @@ The Karavasta Lagoon rests between the fertile Albanian plains and the azure Adr
 
 Spring migratory season from April to early May sees the lagoon transformed into a giant fueling station for birds heading north to breed. Their numbers peak again in June and July when the breeding season commences. If avian observation is your game, these months promise the greatest rewards. The lagoon remains lush throughout summer, providing breeding habitat until migrants depart south in September through November, when the lagoon takes on a greater placidness.
 
-![The Divjake-Karavasta National Park](https://eia476h758b.exactdn.com/wp-content/uploads/2024/01/Divjake-Karavasta-National-Park-in-ALBANIA.jpeg "Divjake Karavasta National Park in ALBANIA")Guided Tours
+![The Divjake-Karavasta National Park](/images/attractions/Divjake-Karavasta-National-Park-in-ALBANIA.jpeg "Divjake Karavasta National Park in ALBANIA")Guided Tours
 
 Guided tours provide the best avenue for lagoon exploration unless you are a seasoned Balkan wildlife expert. My naturalist guide, Ada, grew up in the area and spent over a decade tracking subtle ecosystem shifts in Karavasta. Her passion for conservation was contagious. We glided in her small motorboat just after dawn when birds began their marathon mating displays.
 
@@ -37,7 +37,7 @@ Of course, professional birding gear helps maximize wildlife viewing, but casual
 
 Land lovers need not feel limited, either. Hiking paths cater to observational hikes or simple reflections while picnicking along the lagoon’s edge. My favorite became the barrier island trail, skirting tall reeds and glasswort plants that glitter like diamonds when caressed by the sea breeze. Interpretive signs share insider info about ecosystems and inhabitants. Benches tucked into alcoves provide front-row seats to nature’s theater.
 
-![The Divjake-Karavasta National Park](https://eia476h758b.exactdn.com/wp-content/uploads/2024/01/Lagoon-of-Karavasta.jpeg "Lagoon of Karavasta")
+![The Divjake-Karavasta National Park](/images/attractions/Lagoon-of-Karavasta.jpeg "Lagoon of Karavasta")
 
 *The Divjake-Karavasta National Park*
 
@@ -53,7 +53,7 @@ While the [political past](https://albaniavisit.com/communist-era/) left Albania
 
 Pay attention to marked trails, wear suitable shoes to avoid ankle rolls, and carry essential provisions like water, snacks, cameras/binoculars, and sun protection regardless of season. Spring and summer tend to see more crowds, though rarely excessive. Be wildlife-wise by keeping safe distances from nesting sites or seeming critter congregations. Also, expect bracing winds to be your most frequent wildlife encounter.
 
-![The Divjake-Karavasta National Park](https://eia476h758b.exactdn.com/wp-content/uploads/2024/01/The-Divjake-Karavasta-National-Park.jpeg "The Divjake Karavasta National Park")
+![The Divjake-Karavasta National Park](/images/attractions/The-Divjake-Karavasta-National-Park.jpeg "The Divjake Karavasta National Park")
 
 *The Divjake-Karavasta National Park*
 

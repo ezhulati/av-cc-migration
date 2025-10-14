@@ -18,7 +18,7 @@ Once a quiet fishing village, Ksamil has rapidly transformed into a bustling coa
 
 This evolution is evident throughout the town, from its crowded beaches to its expanding array of accommodations and restaurants, now resembling some well-known Greek islands.
 
-![Ksamil beaches](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Ksamil-beaches.-Four-islands.jpeg "Ksamil beaches. Four islands")
+![Ksamil beaches](/images/destinations/Ksamil-beaches.-Four-islands.jpeg "Ksamil beaches. Four islands")
 
 *Beaches, the four islands, and the bay in Ksamil*
 
@@ -26,11 +26,11 @@ Ksamil Beaches
 
 Ksamil’s primary draw remains its beaches, where the clear, turquoise waters of the Ionian Sea captivate visitors.
 
-![DSC00100](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/DSC00100.jpg "DSC00100")
+![DSC00100](/images/destinations/DSC00100.jpg "DSC00100")
 
 However, the beach experience has changed significantly. Beach clubs like Veranda by Apollonia now dominate much of the coastline, offering loungers and umbrellas and bringing a constant soundtrack of electronic, hip-hop, and pop music.
 
-![DSC00006](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/DSC00006.jpg "DSC00006")![Pema e thate](https://eia476h758b.exactdn.com/wp-content/uploads/2024/08/Pema-e-Thate.jpg)
+![DSC00006](/images/destinations/DSC00006.jpg "DSC00006")![Pema e thate](/images/destinations/Pema-e-Thate.jpg)
 
 For those seeking a quieter experience, it’s worth exploring beyond the main beaches.
 
@@ -38,7 +38,7 @@ For those seeking a quieter experience, it’s worth exploring beyond the main b
 
 The beach scene is vivacious during peak season (July and August), with younger travelers and couples dominating the main areas. Families tend to gravitate towards quieter spots.  
 
-![Ksamil Beach](https://eia476h758b.exactdn.com/wp-content/uploads/2023/09/Ksamil-beach-in-Albania.jpeg "Ksamil beach in Albania")
+![Ksamil Beach](/images/destinations/Ksamil-beach-in-Albania.jpeg "Ksamil beach in Albania")
 
 *Beach in Ksamil*
 
@@ -46,11 +46,11 @@ Water Activities and Island Hopping
 
 Water sports enthusiasts will find plenty to do in Ksamil. Kayaking, paddle boarding, and jet skiing are popular activities.
 
-![Ksamil](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Ksamil_5.jpeg "Ksamil 5 1024x576")
+![Ksamil](/images/destinations/Ksamil_5.jpeg "Ksamil 5 1024x576")
 
 The small islands visible from the shore are a major attraction, and many tourists paddle or take small boats to explore these rocky outcrops.
 
-![Ksamil Albanian Riviera](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Ksamil-1.svg "Ksamil 1")Dining and Nightlife
+![Ksamil Albanian Riviera](/images/destinations/Ksamil-1.svg "Ksamil 1")Dining and Nightlife
 
 Ksamil’s dining scene has expanded significantly, offering everything from upscale seafood restaurants to casual pizzerias and traditional Albanian tavernas.
 
@@ -58,7 +58,7 @@ Local specialties like fresh seafood and byrek are widely available, as are quic
 
 Prices vary widely, with beers costing 3-5 euros, coffees around 2.50 euros, and meals ranging from $8 for a casual lunch to $30 or more for a nicer dinner.
 
-![Albanian Riviera Cuisine Food](https://eia476h758b.exactdn.com/wp-content/uploads/2022/05/01_saranda_albaniavisit.com_.jpeg "01 saranda albaniavisit.com 1024x713")
+![Albanian Riviera Cuisine Food](/images/destinations/01_saranda_albaniavisit.com_.jpeg "01 saranda albaniavisit.com 1024x713")
 
 *Fresh seafood dishes in the Albanian Rivera*
 
@@ -66,7 +66,7 @@ The nightlife is vibrant, especially during summer, with beach bars transforming
 
 Local and international DJs frequently perform, though the quality of live music can be hit or miss.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Sarande-Ksamil.jpeg)
+![](/images/destinations/Sarande-Ksamil.jpeg)
 
 *Stone path at [Veranda by Apollonia](https://tripadvisor.tpm.li/7wJSSEKp), Ksamil—woven mirror accents and palms frame the descent to the Ionian waterfront loungers.*
 
@@ -219,7 +219,7 @@ While beaches are the main attraction, Ksamil offers other points of interest.
 
 The nearby [Butrint National Park](https://albaniavisit.com/destinations/butrint/), a [UNESCO World Heritage site](https://albaniavisit.com/attractions/unesco-world-heritage-sites/), showcases the region’s ancient history with ruins from Greek, [Roman](https://albaniavisit.com/albanias-roman-era/), and [Byzantine](https://albaniavisit.com/byzantine-era-albania/) civilizations.
 
-![Butrint Archeological Park](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Butrint-Archeological-Park.jpeg "Butrint Archeological Park")
+![Butrint Archeological Park](/images/destinations/Butrint-Archeological-Park.jpeg "Butrint Archeological Park")
 
 *Butrint Archeological Park*
 
@@ -229,7 +229,7 @@ Day trips to the Greek island of Corfu are popular, with regular [ferry services
 
 Some visitors also rent boats to explore hidden coves and [less accessible beaches](https://albaniavisit.com/attractions/secluded-boat-only-virgin-beaches/) along the coast.
 
-![Blue eye spring near Sarande, Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Blue-eye-spring-near-Sarande-Albania.jpeg "Blue eye spring near Sarande Albania")
+![Blue eye spring near Sarande, Albania](/images/destinations/Blue-eye-spring-near-Sarande-Albania.jpeg "Blue eye spring near Sarande Albania")
 
 *Blue Eye Spring near Ksamil, Albania*
 
@@ -259,7 +259,7 @@ While Ksamil has become quite internationalized, glimpses of traditional Albania
 
 However, these authentic experiences require some seeking out.
 
-![Butrint in Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Butrint-in-Albania-e1703210150722.jpeg "Butrint in Albania e1703210150722")
+![Butrint in Albania](/images/destinations/Butrint-in-Albania-e1703210150722.jpeg "Butrint in Albania e1703210150722")
 
 *Butrint National Park*
 

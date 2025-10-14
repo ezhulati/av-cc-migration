@@ -20,7 +20,7 @@ Its strategic location on the Adriatic brought Roman, Byzantine, and Ottoman con
 
 Walk in the footsteps of history at sites like the Roman Amphitheater. Built in the 2nd century CE, it could hold 15,000 spectators for gladiator battles and performances. Though partly ruined by an earthquake, its towering walls still impose.
 
-![Durrës Amphitheater](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Durres-Amphitheater.jpeg "Durres Amphitheater")
+![Durrës Amphitheater](/images/destinations/Durres-Amphitheater.jpeg "Durres Amphitheater")
 
 *Durrës Amphitheater*
 
@@ -28,7 +28,7 @@ Beyond its ancient attractions, Durres nurtures creativity. Albania’s most sig
 
 Durres honors its past while embracing the future. Ancient sites intermix with modern cafes and markets, coexisting seamlessly. The past nourishes the present.
 
-![Durres Beach, Adriatic Sea](https://eia476h758b.exactdn.com/wp-content/uploads/2023/09/sandy-beach-in-Durres-Adriatic-Sea.jpeg "sandy beach in Durres Adriatic Sea")
+![Durres Beach, Adriatic Sea](/images/destinations/sandy-beach-in-Durres-Adriatic-Sea.jpeg "sandy beach in Durres Adriatic Sea")
 
 *Golden sands, azure waters, and Adriatic views make Durres beach in Albania a scenic seaside escape for sun, sand, and sea.*
 
@@ -40,7 +40,7 @@ Thinking about my childhood summers in Durrës brings back happy memories of bui
 
 Though many years have passed, revisiting Durres’ attractions brings these memories rushing back.
 
-![Venetian Tower Durres Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2022/03/Durres.jpeg "Durres 1024x729")
+![Venetian Tower Durres Albania](/images/destinations/Durres.jpeg "Durres 1024x729")
 
 *Venetian Tower Durres, Albania*
 
@@ -48,7 +48,7 @@ Local Attractions
 
 Enter the [Durres Amphitheatre](https://albaniavisit.com/attractions/durres-amphitheatre/), an ancient marvel built in 100AD under Hadrian, and envision yourself among 20,000 cheering spectators.
 
-![Amphi Theatre in Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Amphitheatre-Durres-Albania-.jpeg "Amphitheatre Durres Albania 1024x681")
+![Amphi Theatre in Albania](/images/destinations/Amphitheatre-Durres-Albania-.jpeg "Amphitheatre Durres Albania 1024x681")
 
 *The Ancient Durrës Amphitheatre*
 
@@ -58,7 +58,7 @@ Over centuries, the castle has stood witness to historic events while being rein
 
 When you’ve had your fill of history, relax on Durres Beach. This lively 10km waterfront comes alive in summer with activities and snacks from vendors.
 
-![Golem Durres Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2023/11/Golem-Durres-Albania.jpeg "Golem Durres Albania")
+![Golem Durres Albania](/images/destinations/Golem-Durres-Albania.jpeg "Golem Durres Albania")
 
 *Sandy beach in the summer season in Golem, Durres, Albania*
 
@@ -66,13 +66,13 @@ Looking out over the sand, you can see the 1937 Royal Villa of Durres in the dis
 
 Explore Albania’s largest archaeological museum for more artifacts spanning [Ancient Illyrians](https://albaniavisit.com/prehistory-albania/) to the [Ottoman Empire](https://albaniavisit.com/albania-under-ottoman-rule/).
 
-![Durres](https://eia476h758b.exactdn.com/wp-content/uploads/2022/03/Durres-1.jpeg "Durres 1")
+![Durres](/images/destinations/Durres-1.jpeg "Durres 1")
 
 *Durres City, Albania*
 
 As you wander the modest 600-800s Byzantine Forum colonnades, imagine the everyday life of past inhabitants who once shopped and socialized here—Discover Durres’ Muslim heritage through the Great Mosque and the 1503 Fatih Mosque.
 
-![Great Mosque Durres Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2022/03/Great-Mosque-of-Durres-or-Grand-Mosque-of-Durres-Fatih-Mosque-.jpeg "Great Mosque of Durres or Grand Mosque of Durres Fatih Mosque 1024x680")
+![Great Mosque Durres Albania](/images/destinations/Great-Mosque-of-Durres-or-Grand-Mosque-of-Durres-Fatih-Mosque-.jpeg "Great Mosque of Durres or Grand Mosque of Durres Fatih Mosque 1024x680")
 
 *Great Mosque (or Grand Mosque of Durrës, Fatih Mosque) in Durrës*
 
@@ -110,7 +110,7 @@ Reach Durres easily by air, land, or sea. Tirana International Airport sits 37km
 
 Ferries cross from Durres’ busy port to Italy, Montenegro, and Croatia. Buses and furgons (minibuses) offer public transport around town and neighboring villages.
 
-![Port Durres](https://eia476h758b.exactdn.com/wp-content/uploads/2022/03/Port-Durres.jpeg "Port Durres")Accommodation
+![Port Durres](/images/destinations/Port-Durres.jpeg "Port Durres")Accommodation
 
 Durres offers diverse lodging, from hotels to rental apartments. Upscale options like the Royal Park Boutique Hotel provide scenic sea views, while budget hotels like the Kristal Hotel offer clean, affordable rooms.
 

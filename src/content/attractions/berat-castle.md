@@ -23,7 +23,7 @@ The main gate appears suddenly around a sharp turn. Built in the 13th century by
 
 Two men sit playing dominoes in the shade of the entrance arch. One nods a greeting; the other offers directions in a mix of Albanian and enthusiastic hand gestures, mentioning his family has operated the small café here for three generations.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Berat_Castle_876835384.jpeg)A Fortress That Refuses to Become a Museum
+![](/images/attractions/Berat_Castle_876835384.jpeg)A Fortress That Refuses to Become a Museum
 
 Inside the walls, the first surprise is how normal everything feels. Laundry flutters from lines strung between medieval towers. A tabby cat sleeps on a Byzantine wall. The sound of a television news broadcast escapes through an open window. This ordinariness, paradoxically, is what makes Berat Castle extraordinary.
 
@@ -31,7 +31,7 @@ The paths wind without apparent logic—this was never a planned city but an org
 
 The museum guard points out details tourists miss: how Onufri painted individual eyelashes on his saints, how his reds seem to glow from within. ‘He was revolutionary,’ she explains, ‘bringing emotion to faces that had been stylized for centuries.’ Her favorite is a small icon of St. Nicholas where the saint appears almost to be suppressing a smile—humanization that would have shocked earlier Byzantine artists.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Berat_Castle_1022819157.jpeg)
+![](/images/attractions/Berat_Castle_1022819157.jpeg)
 
 *These 13th-century fortress walls, marked with the red brick monogram of Byzantine despot Michael I Komnenos Doukas, still shelter 100 families who live within Berat Castle atop its 214-meter hill above the Osum River valley in southern Albania.*
 
@@ -43,7 +43,7 @@ The [Roman destruction](https://albaniavisit.com/albanias-roman-era/) in 200 BC 
 
 Byzantine Emperor Justinian reinforced it in the 6th century as part of his Balkan defense system. The Bulgarians renamed it Beligrad—”White City”—when they controlled it from the 9th to 11th centuries. The Serbs under Stefan Dušan took it in 1345. Each transition violent, yet somehow the place absorbed these changes, continued, endured.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Berat_1030894962.jpeg)
+![](/images/attractions/Berat_1030894962.jpeg)
 
 *Thirteenth-century fortress walls built by Byzantine despot Michael I Komnenos Doukas rise above the Osum valley, their limestone blocks bearing Illyrian foundations, Ottoman repairs, and the daily wear of residents who still call this Albanian citadel home after 2,400 years.*
 
@@ -55,7 +55,7 @@ In one of the 200-year-old guesthouses, the owner shows me her cellar where a na
 
 Her breakfast room overlooks the valley where morning mist clings to the Osum River. She serves tavë kosi—lamb and yogurt baked with eggs—with bread still warm from her neighbor’s oven. This neighbor, it turns out, has been baking bread in the same stone oven for forty years, as did her mother before her.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Berat_236197734.jpeg)The UNESCO Dilemma
+![](/images/attractions/Berat_236197734.jpeg)The UNESCO Dilemma
 
 In 2008, Berat gained [UNESCO World Heritage](https://albaniavisit.com/attractions/unesco-world-heritage-sites/) status, recognizing its “Outstanding Universal Value.” This brought funding, attention, and complications. The site management plan remains incomplete despite repeated UNESCO warnings. The entire Heritage Institute team recently departed, leaving conservation efforts in limbo.
 
@@ -63,7 +63,7 @@ Walking the ramparts, you see the challenges. Some sections of the walls, damage
 
 The real threat isn’t earthquakes or poor planning but success. Tourism has quadrupled in recent years. Summer brings 14,000 visitors monthly to a space that once held, at its peak, 6,000 residents. The narrow streets weren’t designed for tour groups. The Byzantine churches weren’t meant to echo with camera clicks.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Berat_1031930969.jpeg)
+![](/images/attractions/Berat_1031930969.jpeg)
 
 *Worn cobblestones lead between inhabited stone houses where laundry dries on lines strung across the narrow lane, one of countless unnamed paths threading through Kalaja quarter where Berat Castle’s hundred remaining families have lived, some for five centuries, behind these same weathered wooden doors.*
 
@@ -75,7 +75,7 @@ An elderly resident pours homemade raki and talks about changes. ‘My grandfath
 
 Yet he’s not pessimistic. “Albanians always leave and always return,” he says. “My son calls every week about renovating our old stable into a guesthouse. Tourism brings problems but also brings our children home.”
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Head-of-Constantine-the-Great_1030900701.jpeg)
+![](/images/attractions/Head-of-Constantine-the-Great_1030900701.jpeg)
 
 *A 3.5-meter limestone head of Emperor Constantine from 330 AD watches goats graze the castle grounds where they’ve wandered freely for generations, the ancient sculpture as much a part of daily life here as the livestock that locals still keep within Berat’s 2,400-year-old walls.*
 
@@ -85,7 +85,7 @@ From the castle heights, Mount Tomorr dominates the eastern horizon, Mount Shpir
 
 It’s a story that explains the landscape while encoding deeper truths about conflict, loss, and the permanence of geography versus the transience of human ambition. Every empire that took this castle eventually fell, but the mountains remain, the river still flows, and families still tell the story to their children.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Historic_Berat_678105019.jpeg)
+![](/images/attractions/Historic_Berat_678105019.jpeg)
 
 *White Ottoman houses stack down the hillside toward the Osum River, their countless windows catching afternoon light—the architectural repetition that earned Berat its nickname “City of a Thousand Windows” when these 18th-century homes replaced earlier structures destroyed in the 1851 earthquake.*
 
@@ -97,7 +97,7 @@ The [Onufri Museum](https://albaniavisit.com/attractions/onufri-iconographic-mus
 
 Several families run simple cafés and guesthouses within the walls. Staying overnight transforms the experience. You wake to roosters, not tour buses. You see the castle as residents do: not a monument but a neighborhood, ancient and ordinary at once.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/09/Berat-Castle-Berat-Albania.jpeg)
+![](/images/attractions/Berat-Castle-Berat-Albania.jpeg)
 
 *Limestone and brick fortifications rise ten meters high along Berat’s northern cliff edge, their oldest blocks laid by Illyrians in the 4th century BC and still supporting the weight of Byzantine additions, Ottoman repairs, and the daily footsteps of residents who live within.*
 

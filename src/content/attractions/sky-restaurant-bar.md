@@ -15,7 +15,7 @@ Sky Restaurant & Bar, located in the futuristic Sky Tower, offers a unique dinin
 
 The cylindrical revolving restaurant, situated 16 floors above the city, provides a weightless perspective of the Mediterranean skyline.
 
-![Sky restaurant and bar](https://eia476h758b.exactdn.com/wp-content/uploads/2023/11/Sky-Restaurant-Tirana-Downtown-Albania.jpeg "Sky Restaurant Tirana Downtown Albania")
+![Sky restaurant and bar](/images/attractions/Sky-Restaurant-Tirana-Downtown-Albania.jpeg "Sky Restaurant Tirana Downtown Albania")
 
 *View of downtown Tirana from the Sky Restaurant and Bar*
 
@@ -27,7 +27,7 @@ Reservations are recommended and available online or by contacting [restaurant@s
 
 Walk-ins are welcome, subject to availability.
 
-![Sky bar Tirana10](https://eia476h758b.exactdn.com/wp-content/uploads/2023/11/Sky-bar-Tirana10.jpg "Sky bar Tirana10")Dress Code & Hours
+![Sky bar Tirana10](/images/attractions/Sky-bar-Tirana10.jpg "Sky bar Tirana10")Dress Code & Hours
 
 A smart casual dress code (no shorts or athletic wear) is required.
 
@@ -41,7 +41,7 @@ The menu features regional specialties with a modern twist (e.g., stuffed grape 
 
 Luxurious armchairs and ever-changing cityscape views during the 45-minute tower rotation.
 
-Sky Hotel Tirana![Sky Hotel Tirana Tirana_5](https://eia476h758b.exactdn.com/wp-content/uploads/2024/03/118433430.jpg "118433430")
+Sky Hotel Tirana![Sky Hotel Tirana Tirana_5](/images/attractions/118433430.jpg "118433430")
 
 **4-star accommodation near the governmental district and Skanderbeg Square**
 

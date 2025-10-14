@@ -15,7 +15,7 @@ The Vjosa River flows untamed through southern Albania, cutting through canyons 
 
 Designated as [Europe’s first Wild River National Park](https://www.vjosanationalpark.al/) in March 2023, this 190-kilometer waterway flows freely from Greece to the Adriatic Sea, creating a paradise for outdoor enthusiasts and cultural explorers alike. Whether you’re seeking [adrenaline-pumping rafting](https://albaniavisit.com/activities/rafting/), soothing thermal springs, or immersion in traditional Albanian culture, this comprehensive guide provides everything you need to transform your Vjosa River dreams into reality.
 
-![Vjosa River](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/AdobeStock_560566362.jpeg)
+![Vjosa River](/images/attractions/AdobeStock_560566362.jpeg)
 
 *The winding Vjosa River – Europe’s last free-flowing natural river.*
 
@@ -86,7 +86,7 @@ The Vjosa offers distinct experiences throughout the year, with **April-June and
 
 **Winter (November-March)** finds many tourism businesses closed, with cold, wet weather limiting outdoor activities. However, budget travelers will find the lowest prices and ultimate solitude.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/AdobeStock_649841521.jpeg)
+![](/images/attractions/AdobeStock_649841521.jpeg)
 
 *Rafting the crystal clear water of the Vjosa river, Albania.*
 
@@ -98,7 +98,7 @@ This charming town serves as the adventure capital of the Vjosa, offering the [w
 
 Budget travelers should consider [Serenity Rooms](https://booking.tpm.li/mIxmkm5J) or [White Villa](https://booking.tpm.li/6ng8LfWs) (€22-35/night). For a unique experience, [Albania Rafting Group’s Glamping](https://booking.tpm.li/osT4Ipjw) site features 10 safari tents and 5 wooden houses directly on the riverbank, 2km from the city center.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/AdobeStock_803194664.jpeg)
+![](/images/attractions/AdobeStock_803194664.jpeg)
 
 *The Vjosa River on a cloudy day in Përmet, southern Albania.*
 
@@ -110,7 +110,7 @@ The birthplace of Ottoman ruler Ali Pasha offers fewer but distinctive options.
 
 Budget-conscious travelers will appreciate [Progon House](https://albaniavisit.com/accommodation/progon-house/) (€21/night) in the mountains or [Bujtina Peshtan Guesthouse & Camping](https://albaniavisit.com/accommodation/bujtina-peshtan-guesthousecamping/) (€25/night) with its peaceful garden setting.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/AdobeStock_1186460004.jpeg)
+![](/images/attractions/AdobeStock_1186460004.jpeg)
 
 *The Vjosa river in Tepelenë*.
 
@@ -118,7 +118,7 @@ Smaller Villages
 
 **Këlcyre** offers authentic rural experiences with establishments like [Hotel Gryka e Kelcyres](https://expedia.tpm.li/mtWzPqNN) and [Stone House](https://albaniavisit.com/accommodation/stone-house/) (€20-50/night range). These family-run guesthouses typically include breakfast and provide insights into traditional Albanian life. Book directly by phone or email for better rates, especially outside peak season.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/AdobeStock_518948102.jpeg)
+![](/images/attractions/AdobeStock_518948102.jpeg)
 
 *A crumbling wooden and steel footbridge bridge over the Vjosa river in Kelcyrë*.
 
@@ -130,7 +130,7 @@ For an exclusive experience, their VIP Rafting Tour (€109/person) covers 18km 
 
 The river offers different experiences by season: spring (March-May) brings higher water and more challenging rapids perfect for experienced paddlers, while summer and autumn provide gentler conditions ideal for families and beginners. Multi-day kayaking expeditions explore remote sections impossible to access by raft.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/Vjosa_AdobeStock_689855851.jpeg)
+![](/images/attractions/Vjosa_AdobeStock_689855851.jpeg)
 
 *White water rafting on the Vjosa river.*
 
@@ -142,7 +142,7 @@ For spectacular views without water crossings, the Sopoti Waterfall Trail provid
 
 Serious trekkers can explore the [4-day Zagoria Valley](https://tours.albaniavisit.com/tours/south-albania-zagori-valley) route or venture into the Nemercka Mountains, staying with one of eight trained homestay hosts in mountain communities. Certified local guides in Përmet can arrange customized adventures for all fitness levels.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/AdobeStock_566214217.jpeg)
+![](/images/attractions/AdobeStock_566214217.jpeg)
 
 *Vjosa river in Permet district, Albania*
 
@@ -154,7 +154,7 @@ Access is completely free, though facilities remain minimal—basic toilets were
 
 For a less crowded alternative, Sarandaporo Thermal Springs near Leskovik offers warmer waters (29-40°C) including a medicinal sulfur cave, accessed via a wide dirt road along the Vjosa.
 
-![Thermal baths of Përmet](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/thermal-baths-of-Permet-Albania.-Langarica-Canyon-Kadiut-Bridge.jpeg)
+![Thermal baths of Përmet](/images/destinations/thermal-baths-of-Permet-Albania.-Langarica-Canyon-Kadiut-Bridge.jpeg)
 
 *Stream of hot sulfuric water in the thermal baths of Permet Albania. Langarica Canyon, Kadiut Bridge*
 
@@ -164,7 +164,7 @@ Tepelene Castle, completed in 1819 by Ali Pasha, offers free access to 4.5 hecta
 
 The [ancient city of Byllis](https://albaniavisit.com/attractions/byllis-archaeological-park/) near the park showcases significant [Roman-era](https://albaniavisit.com/albanias-roman-era/) ruins with an archaeological museum housing extensive collections. Traditional villages like Benja feature stone architecture and Byzantine churches, with horseback riding tours available to explore the conservation area.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/AdobeStock_1473985241.jpeg)
+![](/images/attractions/AdobeStock_1473985241.jpeg)
 
 *The Vjosa River meanders through sunlit pebble bars and pine-framed limestone hills.*
 
@@ -174,7 +174,7 @@ The upper Vjosa sections near the Greek border offer excellent fly fishing for b
 
 Photographers will find endless opportunities, from the elevated perspectives at Tepelene Castle to river-level reflections during golden hour. The dramatic S-curve viewpoint near [Përmet](https://albaniavisit.com/destinations/permet/) delivers postcard-perfect shots, especially with winter’s snow-capped mountain backdrop. Albania’s relaxed drone regulations (maintain visual contact, fly below 120m during daylight) allow aerial perspectives, though always ask permission near public facilities.
 
-![Vjosa River National Park Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/Vjosa_National_Park_Fly_Fishing_Albania.jpeg)
+![Vjosa River National Park Albania](/images/attractions/Vjosa_National_Park_Fly_Fishing_Albania.jpeg)
 
 *Fly fishing the Vjosa River National Park*
 
@@ -190,7 +190,7 @@ While the Albanian Lek (ALL) serves as [official currency](https://albaniavisit.
 
 Credit cards work in larger hotels and upscale restaurants, but Albania remains largely cash-based. Budget €30-50 per person daily including accommodation, with restaurant meals costing €8-15, coffee €1-2, and local beer €2-3.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/AdobeStock_1322130871.jpeg)
+![](/images/attractions/AdobeStock_1322130871.jpeg)
 
 *The Vjosa River flows with turquoise currents between rocky banks.*
 
@@ -212,7 +212,7 @@ Download Google Translate’s offline Albanian package and use the camera functi
 
 For connectivity, [purchase a tourist eSIM](https://albaniavisit.com/travel-guide/best-esim-albania/). Networks provide excellent 4G coverage throughout the Vjosa region, though some canyon areas have dead zones.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/Vjosa-Permet.jpg)Food Scene Highlights
+![](/images/attractions/Vjosa-Permet.jpg)Food Scene Highlights
 
 Përmet’s Trifilia slow food restaurant champions organic local produce, with their pule fshati me therrime (traditional chicken soup) earning particular acclaim. [Bar Restorant Sofra Permetar](https://tripadvisor.tpm.li/MWhZc1bQ)e claims the #1 spot with riverside views and authentic Përmetare specialties. In [Tepelene](https://albaniavisit.com/destinations/tepelene/), [Lord Byron Guesthouse](https://albaniavisit.com/accommodation/guesthouse-lord-byron/) serves farm-to-table meals with vegetables grown on-site.
 
@@ -224,7 +224,7 @@ Albania ranks among [Europe’s safest countries](https://albaniavisit.com/trave
 
 Pack anti-diarrheal medication, pain relievers, and any prescription drugs you need. Tap water is generally safe, though bottled water prevents stomach issues from dietary changes. When rafting, use only Albanian Rafting Federation licensed operators—some unlicensed companies pose serious safety risks.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/AdobeStock_1124105996.jpeg)
+![](/images/attractions/AdobeStock_1124105996.jpeg)
 
 *The Vjosa river and mountain landscape in Albania.*
 

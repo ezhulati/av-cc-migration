@@ -36,25 +36,25 @@ While Himarë may not offer the hustle and bustle of a major city or the overly 
 
 Whether exploring its ancient ruins or lounging by the beach with a glass of local wine, Himarë lets you experience Albania’s Riviera on its terms—without frills or pretense.
 
-![Himare Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2021/10/Himare-Beach.jpg "Himare Beach")Top Sights and ActivitiesHimarë Castle
+![Himare Albania](/images/destinations/Himare-Beach.jpg "Himare Beach")Top Sights and ActivitiesHimarë Castle
 
 The **Himarë Castle** looms over the town, its 3,500-year-old walls telling tales of ancient Greeks, Romans, and Byzantines.
 
 This fortress has seen it all, from the days of Chaonian rule to the **[Byzantine Empire](https://albaniavisit.com/byzantine-era-albania/)** and beyond.
 
-![IMG 6780](https://eia476h758b.exactdn.com/wp-content/uploads/2021/10/IMG_6780.jpeg "IMG 6780")
+![IMG 6780](/images/destinations/IMG_6780.jpeg "IMG 6780")
 
 Standing here, you can’t help but feel that the castle is less about grandeur and more about survival—its stones have withstood centuries of war, occupation, and change.
 
 The view from up here is as you’d expect: stunning. The Ionian Sea sprawls out beneath you, and if you squint, you can almost see the ghosts of Venetian traders sailing past.
 
-![IMG 3522](https://eia476h758b.exactdn.com/wp-content/uploads/2021/10/IMG_3522.jpg "IMG 3522")
+![IMG 3522](/images/destinations/IMG_3522.jpg "IMG 3522")
 
 But don’t expect the castle to have been tidied up for tourists. You’ll navigate crumbling pathways, rough terrain, and a lack of any real signage. It’s not polished, and honestly, that makes it so intriguing.
 
 If you want slick brochures and guided tours, look elsewhere. This is the place if you’re after a genuine feel of what it must have been like to defend these walls centuries ago.
 
-![Himare Castle](https://eia476h758b.exactdn.com/wp-content/uploads/2021/10/Himare-Castle.jpeg "Himare Castle")
+![Himare Castle](/images/destinations/Himare-Castle.jpeg "Himare Castle")
 
 Old Himare castle at sunset, Albanian Riviera.
 
@@ -64,11 +64,11 @@ Himarë isn’t just about its castle, though. Its coastline, stretching along t
 
 And while Spile Beach is the town’s main strip, the smaller, less-trodden coves stand out.
 
-![IMG 2310](https://eia476h758b.exactdn.com/wp-content/uploads/2021/10/IMG_2310.jpg "IMG 2310")
+![IMG 2310](/images/destinations/IMG_2310.jpg "IMG 2310")
 
 Places like **Livadhi Beach** and **Filikuri Beach** offer the chance to escape the noise of the promenade, trading in the crowds for a bit of solitude—if you don’t mind pebbles instead of sand.
 
-![IMG 2455](https://eia476h758b.exactdn.com/wp-content/uploads/2021/10/IMG_2455.jpg "IMG 2455")
+![IMG 2455](/images/destinations/IMG_2455.jpg "IMG 2455")
 
 And yes, let’s be real—these aren’t the pristine, Instagram-ready beaches you might find elsewhere in the Mediterranean.
 
@@ -76,7 +76,7 @@ Himarë’s coastline is rugged. The roads to some beaches are barely more than 
 
 But again, that’s part of the deal here. You come to Himarë because it’s a little rough around the edges, not despite it.
 
-![Himare](https://eia476h758b.exactdn.com/wp-content/uploads/2021/10/Himare.jpeg "Himare")
+![Himare](/images/destinations/Himare.jpeg "Himare")
 
 Panoramic view of Himarë and the Ionian Sea on the Albanian Riviera.
 
@@ -86,11 +86,11 @@ Fresh seafood straight from the Ionian, olive oil pressed from nearby groves, an
 
 These are the places where the fish still tastes like the sea, and the wine comes from a vineyard not far from your table.
 
-![IMG 2375 1](https://eia476h758b.exactdn.com/wp-content/uploads/2021/10/IMG_2375-1.jpeg "IMG 2375 1")
+![IMG 2375 1](/images/destinations/IMG_2375-1.jpeg "IMG 2375 1")
 
 You won’t find fancy wine pairings or complicated fusion dishes here—just food that’s honest, hearty, and deeply connected to the land and sea.
 
-![IMG 2252](https://eia476h758b.exactdn.com/wp-content/uploads/2021/10/IMG_2252.jpg "IMG 2252")The Evening Stroll
+![IMG 2252](/images/destinations/IMG_2252.jpg "IMG 2252")The Evening Stroll
 
 As the sun sets, the locals emerge for **xhiro**, the Albanian evening stroll.
 
@@ -108,19 +108,19 @@ Getting There and Around
 
 The drive to Himarë is not for the faint of heart. From **Tirana**, it’s a winding, three-hour coastal road where the views are as jaw-dropping as the hairpin turns.
 
-![Albanian Riviera Driving](https://eia476h758b.exactdn.com/wp-content/uploads/2021/10/Albanian-Riviera-Driving.jpeg "Albanian Riviera Driving")
+![Albanian Riviera Driving](/images/destinations/Albanian-Riviera-Driving.jpeg "Albanian Riviera Driving")
 
 The road to Ali Pasha Tepelena Castle, also known as Porto Palermo Castle, in Himarë on the Albanian Riviera.
 
 For some, it’s a thrill. For others, it’s terrifying. If you’re uncomfortable behind the wheel, **[hiring a taxi](https://albaniavisit.com/cars/transfers/)** or [hopping on a bus](https://albaniavisit.com/bus/tirana-to-saranda/) might be your best bet.
 
-![IMG 2692](https://eia476h758b.exactdn.com/wp-content/uploads/2021/10/IMG_2692.jpg "IMG 2692")
+![IMG 2692](/images/destinations/IMG_2692.jpg "IMG 2692")
 
 Once in town, most of Himarë’s highlights are walkable, but you’ll want a car to explore further afield—like the **[Porto Palermo Castle](https://albaniavisit.com/attractions/porto-palermo-castle/)**.
 
 Just be prepared for some bumpy roads and the occasional goat crossing.
 
-![IMG 2321](https://eia476h758b.exactdn.com/wp-content/uploads/2021/10/IMG_2321.jpg "IMG 2321")When to Go
+![IMG 2321](/images/destinations/IMG_2321.jpg "IMG 2321")When to Go
 
 **July and August** bring the heat and the crowds, with Himarë’s beaches filling up fast.
 

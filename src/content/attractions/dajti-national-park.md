@@ -17,7 +17,7 @@ This stunning park is home to breathtaking landscapes, diverse flora, and fauna 
 
 One of the best ways to explore the park is by riding on the Dajti Ekspres Cable Car, which offers panoramic views of the surrounding area and a fascinating journey.
 
-![Mount Tujanit and Bovilla lake at Dajti national park in Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Mount-Tujanit-and-Bovilla-lake-at-Dajti-national-park-in-Albania.jpeg "Mount Tujanit and Bovilla lake at Dajti national park in Albania")
+![Mount Tujanit and Bovilla lake at Dajti national park in Albania](/images/attractions/Mount-Tujanit-and-Bovilla-lake-at-Dajti-national-park-in-Albania.jpeg "Mount Tujanit and Bovilla lake at Dajti national park in Albania")
 
 *Mount Tujanit and Bovilla lake at Dajti national park in Albania*
 
@@ -51,7 +51,7 @@ It has witnessed the rise and fall of empires, the footsteps of ancient civiliza
 
 Exploring the park is like stepping back in time, where every tree, every rock, and every path tells a story of its own.
 
-![Aerial view of Tirana city ​​and outskirts, Albania. Tirana city seen from the Dajti Express](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Aerial-view-of-Tirana-city-​​and-outskirts-Albania.-Tirana-city-seen-from-the-Dajti-Express.jpeg "Aerial view of Tirana city ​​and outskirts Albania. Tirana city seen from the Dajti Express 1024x683")
+![Aerial view of Tirana city ​​and outskirts, Albania. Tirana city seen from the Dajti Express](/images/attractions/Aerial-view-of-Tirana-city-​​and-outskirts-Albania.-Tirana-city-seen-from-the-Dajti-Express.jpeg "Aerial view of Tirana city ​​and outskirts Albania. Tirana city seen from the Dajti Express 1024x683")
 
 *Tirana city seen from the Dajti Express Cable Car*
 
@@ -67,7 +67,7 @@ If you’re lucky, you might spot a deer gracefully grazing or a fox darting thr
 
 The park is also home to wild boars, which can often be seen foraging for food.
 
-![Dajti National Park Fauna Flowers](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Dajti-National-Park-Fauna-Flowers.jpeg "Dajti National Park Fauna Flowers 1024x683")
+![Dajti National Park Fauna Flowers](/images/attractions/Dajti-National-Park-Fauna-Flowers.jpeg "Dajti National Park Fauna Flowers 1024x683")
 
 *Dajti National Park Fauna Flowers*
 
@@ -99,7 +99,7 @@ With its rich history, diverse ecosystems, and breathtaking landscapes, the park
 
 Whether hiking to the summit of [Mount Dajti](https://albaniavisit.com/attractions/mount-dajti/), discovering hidden waterfalls, or simply enjoying a stroll through the forest, Dajti National Park is a destination that will captivate your heart and soul.
 
-![Dajti Mountains](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Dajti-mountains-in-Albania.jpeg "Dajti mountains in Albania")
+![Dajti Mountains](/images/activities/Dajti-mountains-in-Albania.jpeg "Dajti mountains in Albania")
 
 *Mount Dajti*
 

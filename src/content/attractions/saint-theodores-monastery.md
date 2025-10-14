@@ -17,7 +17,7 @@ Getting there requires commitment. After you spot that easy-to-miss sign on the 
 
 Don’t expect a polished tourist attraction. As of 2024, visitors describe the place as “mostly looking like a construction site.” There’s scaffolding, building materials scattered around, and the ongoing restoration work can be pretty chaotic. But that’s part of what makes it interesting – you’re seeing a 600-year-old site being slowly brought back to life.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Saint_Theodore_Monastery_516571673.jpeg)Built on Zeus’ Old Stomping Grounds
+![](/images/attractions/Saint_Theodore_Monastery_516571673.jpeg)Built on Zeus’ Old Stomping Grounds
 
 The monastery sits exactly where an ancient temple to Zeus and Artemis once stood. This wasn’t accidental – early Christians had a thing for taking over pagan sacred sites and flipping them to their own purposes. Something about claiming spiritual territory and showing the old gods who’s boss now.
 
@@ -27,7 +27,7 @@ The building style is classic [Albanian-Byzantine](https://albaniavisit.com/byza
 
 The layout follows typical Orthodox monastery design – central church surrounded by monastic cells and service buildings, all enclosed within protective walls. The whole complex is roughly polygonal, adapting to the hilltop’s natural shape rather than forcing some geometric perfection.
 
-From Monastery to Soviet Resort![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Saint_Theodore_Monastery_144820159.jpeg)
+From Monastery to Soviet Resort![](/images/destinations/Saint_Theodore_Monastery_144820159.jpeg)
 
 Here’s where the story gets weird. In 1946, Albania’s new communist regime shut down all religious institutions, and Saint Theodore’s became just another abandoned building. But in 1952, something unexpected happened – the Soviets turned it into holiday homes for Russian navy officers.
 
@@ -37,7 +37,7 @@ This lasted until 1962, when Albania’s paranoid dictator Enver Hoxha had his f
 
 You can still see evidence of this military period – soldiers’ graffiti on walls, old military debris that workers are still clearing out, and the concrete bunkers scattered around the area. It’s a bizarre archaeological layer cake of Orthodox Christianity, Soviet strategy, and Albanian paranoia all mixed together.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Saint_Theodore_Monastery_144819924.jpeg)Current Restoration Reality
+![](/images/attractions/Saint_Theodore_Monastery_144819924.jpeg)Current Restoration Reality
 
 The Orthodox Autocephalous Church of Albania has been working to restore the monastery since the late 2010s, part of their massive effort to rebuild over 250 churches destroyed or damaged during the communist era. The church structure is mostly complete now, and several of the residential buildings have new roofs and walls.
 
@@ -47,7 +47,7 @@ The monastery offers free admission, though donations are encouraged. There are 
 
 The best time to visit is spring or fall when the heat won’t kill you on the hike back up from the beach. Summer temperatures can hit 40°C, and that uphill climb in the blazing sun is no joke.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Saint_Theodore_Monastery_60789115.jpeg)The Gjipe Beach Connection
+![](/images/attractions/Saint_Theodore_Monastery_60789115.jpeg)The Gjipe Beach Connection
 
 Most visitors combine the monastery with [Gjipe Beach](https://albaniavisit.com/destinations/gjipe/), since the parking area serves as the trailhead for both. After checking out the monastery ruins, you can continue down a steep rocky path for 30-40 minutes to reach one of Albania’s most pristine beaches.
 
@@ -55,13 +55,13 @@ The monastery makes for a nice bookend to the beach experience – ancient stone
 
 From the monastery’s terrace, you get panoramic views of the entire coast – the turquoise Ionian Sea, olive groves rolling down to the water, and Gjipe Canyon cutting dramatically through the landscape. On clear days, you can see all the way to the Greek island of Corfu.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Gjipe_DSC07653.jpg)Pirate Tales and Ancient Legends
+![](/images/attractions/Gjipe_DSC07653.jpg)Pirate Tales and Ancient Legends
 
 Local folklore adds another layer to the monastery’s appeal. The sea cave directly below the cliffs – known as Pirate’s Cave – supposedly sheltered corsairs and smugglers in medieval times. The cave is only accessible by boat and becomes part of the monastery’s mystique: sacred space above, lawless hideout below.
 
 There’s also the persistent legend about the ancient temple foundations. While there’s no visible evidence of Zeus and Artemis worship (probably buried under centuries of construction), the story speaks to something locals feel about the place – that this hilltop has been sacred for a very long time.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Saint_Theodore_Monastery_143389621.jpeg)What You’ll Actually Find
+![](/images/attractions/Saint_Theodore_Monastery_143389621.jpeg)What You’ll Actually Find
 
 Manage your expectations. This isn’t Meteora or Mount Athos – it’s a partially restored construction site with amazing views and a fascinating backstory. You can wander the courtyard when it’s open, peek into some ground-floor rooms, and admire the rebuilt portions alongside the still-ruined sections.
 
@@ -69,7 +69,7 @@ The juxtaposition is striking: brand new stone walls next to crumbling medieval 
 
 Sometimes caretakers are present who might unlock the church, but don’t count on it. Sometimes the whole place is closed for construction work. It’s unpredictable, which is part of its charm if you’re feeling adventurous, part of its frustration if you’re on a tight schedule.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Saint_Theodore_Monastery_143389723.jpeg)Why It Matters
+![](/images/attractions/Saint_Theodore_Monastery_143389723.jpeg)Why It Matters
 
 Saint Theodore’s Monastery represents something unique on the Mediterranean coast – a place where 2,000 years of history are still visible in the stones. Ancient temple foundations, Byzantine construction techniques, Ottoman-era modifications, Soviet-era adaptations, and modern restoration efforts all exist in the same space.
 

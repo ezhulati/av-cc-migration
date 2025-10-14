@@ -32,13 +32,13 @@ Where Waters Meet Mountains and History Embraces the Future
 
 The rain comes sideways in Shkodër, fierce and unannounced like most things in [northern Albania](https://albaniavisit.com/northern-albania/). I take shelter in a café where old men play dominoes, undisturbed by the weather’s tantrum. Through steamed windows, [Rozafa Castle](https://albaniavisit.com/attractions/castles-and-fortresses-in-albania/) looms in the distance – a weather-beaten sentinel perched on limestone that’s witnessed the rise and fall of empires for 2,400 years.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/03/Albania-Shkodra_AdobeStock_660856172.jpeg)
+![](/images/destinations/Albania-Shkodra_AdobeStock_660856172.jpeg)
 
 “The thing about Shkodër,” says Dritan, my childhood friend who returned after years in Italy, “is that everyone has always wanted it.” He lights a cigarette, disregarding the no-smoking sign with typical Albanian nonchalance. “[Illyrians](https://albaniavisit.com/the-illyrians/), [Romans](https://albaniavisit.com/albanias-roman-era/), [Byzantines](https://albaniavisit.com/byzantine-era-albania/), Serbs, Venetians, [Ottomans](https://albaniavisit.com/albania-under-ottoman-rule/)—they all fought for this spot where three rivers meet a lake beneath mountains. Geography is destiny.”
 
 The rain subsides as suddenly as it arrived. We step outside into streets washed clean, where the scent of wet stone mingles with wood smoke and coffee. Bicycles emerge immediately – Shkodër has been Albania’s city of bicycles since before it was fashionable, its flat terrain perfect for two wheels.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/03/city-skyline-in-Shkoder_AdobeStock_1051917172.jpeg)
+![](/images/destinations/city-skyline-in-Shkoder_AdobeStock_1051917172.jpeg)
 
 “My grandfather never drove a car,” Dritan tells me as we dodge a group of cyclists. “He said a proper Shkodran should be able to reach anywhere in town within 15 minutes on a bicycle. Even in his seventies, he’d cycle to the lake every morning to swim.”
 
@@ -48,7 +48,7 @@ The Castle That Three Brothers Built
 
 No first-time visit to Shkodër is complete without ascending to [Rozafa Castle](https://getyourguide.tpm.li/HMKcZPJy). The fortress stands on a rocky hill commanding views of the city, Lake Shkodër, and the distant [Albanian Alps](https://albaniavisit.com/attractions/albanian-alps/). We climb the steep path as Dritan recounts the legend that gives the castle its name.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/03/Rozafa-Castle-Fortress-in-Shkoder-Albania_AdobeStock_272041047.jpeg)
+![](/images/destinations/Rozafa-Castle-Fortress-in-Shkoder-Albania_AdobeStock_272041047.jpeg)
 
 Rozafa Castle
 
@@ -56,19 +56,19 @@ Rozafa Castle
 
 The story unfolds like all great Balkan tales – the two older brothers warned their wives, but the youngest kept silent. When his wife Rozafa arrived, they sealed her in the wall.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/03/Rozafa-Castle-Albania-Flag.jpeg)
+![](/images/destinations/Rozafa-Castle-Albania-Flag.jpeg)
 
 “But Rozafa asked for one breast to remain exposed to feed her baby, one arm free to caress him, and one foot to rock his cradle,” Dritan continues, pointing to a limestone outcrop where water seeps through. “They say this moisture is her milk, still flowing for her child after all these centuries.”
 
 At the summit, the reward is a 360-degree panorama that explains Shkodër’s strategic importance: the vast blue expanse of Lake Shkodër extending westward into Montenegro; the Buna River flowing from the lake toward the Adriatic; the mighty Drin River curving in from the east; and the jagged peaks of the Albanian Alps rising dramatically in the north.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/03/Rozafa-castle-Ramparts-and-Bojana-river-Shkodra-Albania_AdobeStock_361574682-1.jpeg)
+![](/images/destinations/Rozafa-castle-Ramparts-and-Bojana-river-Shkodra-Albania_AdobeStock_361574682-1.jpeg)
 
 “From this spot, you control everything,” Dritan says. “Water routes to the sea, mountain passes to the interior. The Illyrian king Gentius made his last stand against Rome here. The Venetians rebuilt these walls to guard their trading interests. The Ottomans held it for centuries.”
 
 The fortress contains ruins from each period – Illyrian stone foundations, Venetian ramparts, Ottoman modifications. A small museum displays artifacts spanning millennia, from Illyrian pottery to Roman coins to medieval armor.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/03/The-Shkoder-History-Museum_AdobeStock_628110694.jpeg)
+![](/images/destinations/The-Shkoder-History-Museum_AdobeStock_628110694.jpeg)
 
 Ilyrian art at the Shkodra Museum
 
@@ -80,7 +80,7 @@ Back in the city center, we navigate streets where minarets and church spires pu
 
 “My family is a perfect example,” Dritan explains. “My father’s side is Muslim, my mother’s Catholic. During Bajram, we celebrate with my paternal grandparents. During Easter, with my maternal side. Nobody finds this strange in Shkodër.”
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/03/Ebu-Bekr-mosque-in-Shkoder_AdobeStock_641464056.jpeg)
+![](/images/destinations/Ebu-Bekr-mosque-in-Shkoder_AdobeStock_641464056.jpeg)
 
 Ebu Bekr mosque
 
@@ -88,7 +88,7 @@ The grand Ebu Beker Mosque, with its elegant dome and tall minaret, stands near 
 
 “During communism, this cathedral became a sports hall,” Dritan says as we enter the restored church. “The regime declared Albania the world’s first atheist state in 1967. They closed or destroyed churches and mosques, imprisoned clergy. But people kept faith alive behind closed doors.”
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/03/Saint-Francis-Catholic-Church-bell-tower-Shkodra-Albania_AdobeStock_361575021.jpeg)
+![](/images/destinations/Saint-Francis-Catholic-Church-bell-tower-Shkodra-Albania_AdobeStock_361575021.jpeg)
 
 Saint Francis Catholic Church bell tower, Shkodra, Albania
 
@@ -136,7 +136,7 @@ Lake of Legends
 
 After lunch, we drive to Shiroka, a lakeside village that has become something of a weekend retreat for Shkodër residents. Lake Shkodër (Liqeni i Shkodrës) stretches before us – the largest lake in Southern Europe, shared between Albania and Montenegro.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/03/Skadar-lake-near-Shkoder-town-in-Albania_AdobeStock_1045555485.jpeg)
+![](/images/destinations/Skadar-lake-near-Shkoder-town-in-Albania_AdobeStock_1045555485.jpeg)
 
 Viewing tower on wooden pier on calm waters of Skadar lake near Shkoder town in Albania. Panoramic view of Dinaric Alps mountains, Southern Montenegro. Canoe boats for renting on lawn. Summer vacation
 
@@ -148,7 +148,7 @@ The lake is a protected wetland of international importance, home to rare birds 
 
 We stop at a lakeside restaurant built on stilts over the water. The specialty here is, predictably, fresh fish – but prepared with a lighter touch than the traditional tavë krapi. Crispy fried carp arrives with lemon and a view of pelicans gliding across the water.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/03/Lake-Shkodra_AdobeStock_1361615082.jpeg)
+![](/images/destinations/Lake-Shkodra_AdobeStock_1361615082.jpeg)
 
 “The lake faces challenges,” Dritan admits. “Pollution from both sides of the border, unregulated construction, climate change affecting water levels. But there’s growing awareness of its importance. Albanian and Montenegrin environmental groups are working together to protect it.”
 

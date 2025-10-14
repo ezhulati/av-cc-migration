@@ -106,7 +106,7 @@ Website: [paragliding.al](https://paragliding.al)
 Services: Training, competitions, international licenses  
 Courses: 5–7 days for beginner cert
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/IMG_4113.jpeg)Discovering Albania’s Spectacular Flying Locations
+![](/images/activities/IMG_4113.jpeg)Discovering Albania’s Spectacular Flying Locations
 
 Albania’s extraordinarily diverse terrain creates a paraglider’s paradise, offering everything from quick urban escapes above bustling cities to remote mountain expeditions through untamed wilderness. Each location reveals its own character and flying conditions, from gentle Mediterranean breezes to powerful mountain thermals that lift you toward ancient peaks.
 
@@ -114,7 +114,7 @@ Dajti Mountain Urban Alpine Flying
 
 Rising majestically 1,600 meters above Albania’s vibrant capital, Dajti Mountain creates a stunning natural amphitheater where urban energy meets alpine grandeur. This imposing peak offers immediate access to serious mountain flying while providing sweeping panoramic views that stretch from Tirana’s colorful rooftops to the shimmering Adriatic coast stretching endlessly toward the horizon.
 
-![Dajti Mountains](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Dajti-mountains-in-Albania.jpeg)
+![Dajti Mountains](/images/activities/Dajti-mountains-in-Albania.jpeg)
 
 *Dajti Mountain*
 
@@ -136,17 +136,17 @@ Berat Flying Above the UNESCO City
 
 Marvel at one of the world’s most remarkably preserved Ottoman cities as thermals rise from the serpentine Osum River Canyon, carrying you above thousands of whitewashed houses that cascade down ancient hillsides like frozen waterfalls. Berat’s UNESCO-designated old town creates an almost mythical view where medieval architecture flows into dramatic mountain valleys.
 
-![Berat Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2022/09/AdobeStock_127266497.jpeg)
+![Berat Albania](/images/activities/AdobeStock_127266497.jpeg)
 
 *Berat, Albania*
 
 **SkyFlySports Albania** and **Extreme Illyricum** both serve this extraordinary region. Takeoffs occur from hills surrounding the imposing Berat castle, with landings in the verdant Osum River valley far below. Morning thermals between 9:00 AM and noon typically provide the most reliable conditions as the sun warms the ancient stone streets.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Berat-Albania.jpeg)
+![](/images/activities/Berat-Albania.jpeg)
 
 *Berat, *Unesco World Heritage**
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Berat-Castle-Stone-Houses-Berat-Albania.jpeg)
+![](/images/activities/Berat-Castle-Stone-Houses-Berat-Albania.jpeg)
 
 Flights typically last 20-30 minutes floating above the historic city center, revealing the intricate patterns of the Gorica quarter and the massive castle complex that has dominated this valley for over 2,000 years. Afternoon conditions tend to be smooth and predictable, as the river valley creates natural wind channels through this spectacular terrain.
 
@@ -154,7 +154,7 @@ Lake Ohrid Ancient Waters and Mountain Views
 
 Glide serenely over the mirror-like surface of Lake Ohrid, one of Europe’s oldest and deepest lakes, where crystalline waters reflect towering mountain peaks and ancient churches perch on rocky peninsulas like forgotten dreams. This extraordinary natural wonder, shared between Albania and North Macedonia, creates a setting so pristine it seems untouched by time itself.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/DJI_0420.jpg)
+![](/images/activities/DJI_0420.jpg)
 
 *Lake Ohrid, Pogradec, Albania*
 
@@ -172,7 +172,7 @@ Experience one of the Mediterranean’s most dramatic coastlines where the rugge
 
 *Llogara Pass on the Albanian Riviera*
 
-![St Andrews Bay Karaburun Peninsula, Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Karaburun-Peninsula-Albania.jpg)
+![St Andrews Bay Karaburun Peninsula, Albania](/images/activities/Karaburun-Peninsula-Albania.jpg)
 
 *St Andrews Bay Karaburun Peninsula, Albania*
 
@@ -182,7 +182,7 @@ Vlorë Gentle Bay Flying
 
 The expansive Bay of Vlorë creates a natural flying amphitheater where gentle sea breezes meet protective mountain barriers, forming one of the most consistently flyable coastal environments in the Balkans. This historically significant bay, where Albania declared its independence, now offers some of the country’s most accessible and forgiving flying conditions.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Vlore.jpeg)
+![](/images/activities/Vlore.jpeg)
 
 *Vlorë, Albania*
 

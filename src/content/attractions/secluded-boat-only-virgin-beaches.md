@@ -31,7 +31,7 @@ For those looking to enjoy a meal or a drink, a local bar restaurant provides gr
 
 Additionally, the bay is part of the Karaburun-Sazan Marine Park and has earned the status of a natural monument.
 
-![Grama Bay Albania 1024x768](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/Grama-Bay-Albania.jpg "Grama Bay Albania 1024x768")Why Visit?
+![Grama Bay Albania 1024x768](/images/attractions/Grama-Bay-Albania.jpg "Grama Bay Albania 1024x768")Why Visit?
 
 Grama Bay is not just a picturesque location but also a site of historical and cultural importance.
 
@@ -73,7 +73,7 @@ It’s part of the larger Llogara National Park, making it a natural haven rich 
 
 The bay is accessible either by a challenging hike or by boat, offering two distinct ways to reach this hidden gem.
 
-![St Andrews Bay Karaburun Peninsula, Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Karaburun-Peninsula-Albania.jpg "Karaburun Peninsula Albania 1024x768")Why Visit?
+![St Andrews Bay Karaburun Peninsula, Albania](/images/activities/Karaburun-Peninsula-Albania.jpg "Karaburun Peninsula Albania 1024x768")Why Visit?
 
 The bay’s secluded nature makes it an ideal destination for those looking for an off-the-beaten-path experience.
 
@@ -107,7 +107,7 @@ Gjiri Anglezit, also known as English Bay, is a secluded haven on the Karaburun 
 
 Today, it’s not just a tranquil retreat but also a hotspot for Albania’s top models and influencers, making it the most Instagrammable beach in the country.
 
-![Gjiri Anglezit 1024x768](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/Gjiri-Anglezit.jpeg "Gjiri Anglezit 1024x768")Why Visit?
+![Gjiri Anglezit 1024x768](/images/attractions/Gjiri-Anglezit.jpeg "Gjiri Anglezit 1024x768")Why Visit?
 
 If you’re seeking both solitude and a touch of glamour, Gjiri Anglezit is your go-to destination.
 
@@ -147,7 +147,7 @@ Nestled along the Albanian Riviera, this bay is accessible only by boat, making 
 
 The bay is surrounded by lush forests and rocky cliffs, providing a picturesque backdrop for sunbathing, swimming, and snorkeling.
 
-![Dafina Bay Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/Dafina-Bay.jpeg "Dafina Bay")Why Visit?
+![Dafina Bay Albania](/images/attractions/Dafina-Bay.jpeg "Dafina Bay")Why Visit?
 
 Dafina Bay is not just a destination; it’s an experience that offers a unique blend of adventure and tranquility.
 
@@ -185,7 +185,7 @@ Located along the Ionian Sea, this bay is surrounded by olive groves and pine fo
 
 Accessible only by boat, Kakome Bay is a haven for those looking to connect with nature and enjoy the simpler things in life.
 
-![Kakome Bay Albania 1024x668](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/Kakome-Bay-Albania.jpeg "Kakome Bay Albania 1024x668")Why Visit?
+![Kakome Bay Albania 1024x668](/images/attractions/Kakome-Bay-Albania.jpeg "Kakome Bay Albania 1024x668")Why Visit?
 
 Kakome Bay is the epitome of tranquility. The bay’s isolation ensures that it remains unspoiled, offering a serene atmosphere that’s perfect for those looking to escape the hustle and bustle of modern life.
 
@@ -220,7 +220,7 @@ The beach is accessible only by boat, ensuring that it remains relatively uncrow
 
 The surrounding cliffs offer opportunities for cliff diving for the more adventurous.
 
-![Filikuri Beach Albania 1024x683](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/Filikuri-Beach-Albania.jpeg "Filikuri Beach Albania 1024x683")Why Visit?
+![Filikuri Beach Albania 1024x683](/images/attractions/Filikuri-Beach-Albania.jpeg "Filikuri Beach Albania 1024x683")Why Visit?
 
 Filikuri Beach is a sanctuary for those who truly appreciate natural beauty.
 
@@ -253,7 +253,7 @@ Known for their stunning beauty and crystal-clear waters, these islands are a po
 
 Accessible only by boat, the Ksamil Islands offer a range of activities including snorkeling, diving, and paddleboarding.
 
-![Ksamil beaches. Four islands 1024x682](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/Ksamil-beaches.-Four-islands.jpeg "Ksamil beaches. Four islands 1024x682")Why Visit?
+![Ksamil beaches. Four islands 1024x682](/images/destinations/Ksamil-beaches.-Four-islands.jpeg "Ksamil beaches. Four islands 1024x682")Why Visit?
 
 The Ksamil Islands offer something for everyone. Whether you’re a beach bum, a foodie, or an adventurer, these islands have got you covered.
 
@@ -284,7 +284,7 @@ Known for its stunning rock formations and clear waters, Gjipe Beach is a favori
 
 The beach is accessible only by boat or a challenging hike through the canyon, making it one of the more adventurous destinations on this list.
 
-![Gjipe Beach 1024x768](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/Gjipe-Beach.jpg "Gjipe Beach 1024x768")Why Visit?
+![Gjipe Beach 1024x768](/images/attractions/Gjipe-Beach.jpg "Gjipe Beach 1024x768")Why Visit?
 
 Gjipe Beach is where rugged natural beauty meets serene seascapes. The beach is framed by a stunning canyon, which you can explore if you’re up for an adventure.
 
@@ -316,7 +316,7 @@ Krorez Bay is a secluded paradise near Saranda, Albania, known for its untouched
 
 Accessible by boat the bay offers activities like kayaking and bird-watching. Ideal for those looking to escape the crowds, Krorez Bay is a must-visit for nature lovers.
 
-![Krorez bay](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/Krorez-bay.jpeg "Krorez bay")
+![Krorez bay](/images/attractions/Krorez-bay.jpeg "Krorez bay")
 
 *Paradise beach of Kroreza or Krorez on the Albanian Riviera in Saranda.*
 

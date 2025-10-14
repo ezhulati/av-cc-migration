@@ -34,7 +34,7 @@ By the 4th century BCE, the city became a respected cultural center. Renowned ph
 
 Major academies and the most extensive library in the region nurtured intellectual advancements. 
 
-![Apollonia](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Apollonia.jpeg "Apollonia")
+![Apollonia](/images/destinations/Apollonia.jpeg "Apollonia")
 
 Apollonia’s contributions to philosophical thinking, art, and innovations helped shape Mediterranean society.
 
@@ -42,7 +42,7 @@ Today, Apollonia’s longevity and past glory represent Albania’s important re
 
 The city remains a source of heritage and pride. Its ruins tell stories of ingenuity that still connect to Albania’s spirit.
 
-![Apollonia Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/apollonia-temple-albania.jpg "apollonia temple albania")Things To See and Do
+![Apollonia Albania](/images/destinations/apollonia-temple-albania.jpg "apollonia temple albania")Things To See and Do
 
 The sprawling archaeological park allows you to imagine Apollonia at its peak vividly. Major sites include:
 
@@ -60,7 +60,7 @@ Nearby activities to complement your exploration include hiking for panoramic vi
 
 The 13th-century Ardenica Monastery is a highlight nearby attraction.
 
-![Apollonia Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/apollonia-roman-temple-albania.jpg "apollonia roman temple albania")Travel Information
+![Apollonia Albania](/images/destinations/apollonia-roman-temple-albania.jpg "apollonia roman temple albania")Travel Information
 
 **When to Visit:** The spring and autumn months offer mild weather perfect for exploring the archaeological ruins. 
 
@@ -74,7 +74,7 @@ Summers can be hot, so visiting in the morning or late afternoon is best during 
 
 **Packing Tips:** Bring good walking shoes, sun protection, insect repellant, lightweight layers, and clothes that dry quickly.
 
-![Apollonia Albania 1024x768](https://eia476h758b.exactdn.com/wp-content/uploads/2023/03/Apollonia_Albania.jpeg "Apollonia Albania 1024x768")Planning Your Visit
+![Apollonia Albania 1024x768](/images/destinations/Apollonia_Albania.jpeg "Apollonia Albania 1024x768")Planning Your Visit
 
 **Getting There:** The airports in Tirana and Vlorë provide international access. Alternately, ferries arrive from Italy in Durrës and Vlorë. Rent a car or take a bus from these cities to reach Apollonia.
 
@@ -88,7 +88,7 @@ Summers can be hot, so visiting in the morning or late afternoon is best during 
 
 **Two-Week Itinerary:** After fully exploring Apollonia, visit Tirana, hike in Lura National Park, see the Blue Eye Spring, and island-hop along the Albanian Riviera.
 
-![Church of Saint Mary in Apollonia 1024x582](https://eia476h758b.exactdn.com/wp-content/uploads/2023/03/Church-of-Saint-Mary-in-Apollonia.jpeg "Church of Saint Mary in Apollonia 1024x582")Nearby Destinations
+![Church of Saint Mary in Apollonia 1024x582](/images/destinations/Church-of-Saint-Mary-in-Apollonia.jpeg "Church of Saint Mary in Apollonia 1024x582")Nearby Destinations
 
 Apollonia is conveniently located near several other fascinating Albanian destinations:
 

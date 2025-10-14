@@ -18,7 +18,7 @@ Valbona Valley is one of the most striking destinations in Albania, set deep in 
 
 You’ll find rugged beauty, warm hospitality, and just enough infrastructure—without the crowds.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/03/Valbona-Valley-Albanian-Alps.jpg)
+![](/images/destinations/Valbona-Valley-Albanian-Alps.jpg)
 
 *Jagged limestone peaks rising above Valbona Valley’s dense evergreens, Albanian Alps.*
 
@@ -34,7 +34,7 @@ Top Attractions and Things to Do
 
 Covering over 8,000 hectares, this protected area is home to wildlife like lynx, brown bears, and chamois, as well as old-growth beech and spruce forests. It’s perfect for trail walks, photography, or multi-day trekking.
 
-![Herd of sheep grazing on green meadow with view of mountain ridge massif Radohina in Albanian Alps (Accursed Mountains), Northern Albania. Scenic hiking trail to Theth. Wanderlust in alpine wilderness](https://eia476h758b.exactdn.com/wp-content/uploads/2024/03/Herd-of-sheep-grazing-on-green-meadow-in-the-Albanian-Alps-Accursed-Mountains-Northern-Albania.jpeg)
+![Herd of sheep grazing on green meadow with view of mountain ridge massif Radohina in Albanian Alps (Accursed Mountains), Northern Albania. Scenic hiking trail to Theth. Wanderlust in alpine wilderness](/images/destinations/Herd-of-sheep-grazing-on-green-meadow-in-the-Albanian-Alps-Accursed-Mountains-Northern-Albania.jpeg)
 
 *Sheep graze on a green meadow beneath the Radohina massif in the Albanian Alps (Accursed Mountains), northern Albania, with the hiking trail to Theth winding nearby.*
 
@@ -90,11 +90,11 @@ Valbona River
 
 Swim, picnic, or wade in some of the clearest river water in Europe. Some stretches also support catch-and-release fishing (ask your host).
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/03/Old-Mill-in-Valbona-Valley.jpeg)
+![](/images/destinations/Old-Mill-in-Valbona-Valley.jpeg)
 
 *The Old Mill in Valbona Valley—reached by crossing a wooden bridge over the river’s blue waters to a quiet stone structure tucked beneath the trees.*
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/03/Valbona-Valley-National-Park.jpeg)
+![](/images/destinations/Valbona-Valley-National-Park.jpeg)
 
 *The Valbona River cuts through the heart of the valley—crystal blue, ice-cold, and shaped by the snowmelt of the Albanian Alps.*
 
@@ -102,11 +102,11 @@ Rrogam Village
 
 The last inhabited point before the trailhead, Rrogam still has traditional stone houses. Nearby, Simoni Kafe is a well-known hiker pitstop for tea, coffee, and pancakes.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/03/Raki-Valbona-edited-5f44c739.jpg)
+![](/images/destinations/Raki-Valbona-edited-5f44c739.jpg)
 
 *Hospitality in Rrogam—where fresh mountain air, and a tray of coffee and raki welcome you like family.*
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/03/Valbona-Rrogam.jpg)
+![](/images/destinations/Valbona-Rrogam.jpg)
 
 *View of Rrogam village in the Albanian Alps.*
 
@@ -114,7 +114,7 @@ Qafa e Rosit
 
 One of the lesser-known but scenic hikes above Kukaj village. The trail is longer and steeper but has almost no tourist traffic. Best with a guide or GPS.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/03/Theth-Valley-to-Valbona-Valley-in-Albanian-Alps.jpeg)
+![](/images/destinations/Theth-Valley-to-Valbona-Valley-in-Albanian-Alps.jpeg)
 
 *Hikers on the Valbona to Theth trail—crossing one of Albania’s most scenic mountain passes, where every step offers views carved by centuries of wind, stone, and sky.*
 
@@ -122,7 +122,7 @@ Dragobi Cave
 
 An easy half-day walk from Dragobi village. This cave is linked to Albanian independence hero Bajram Curri and offers panoramic views over the gorge.
 
-Where to Stay![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/03/Valbona-1.jpg)
+Where to Stay![](/images/destinations/Valbona-1.jpg)
 
 Valbona has no big hotels—only [family-run guesthouses](https://booking.tpm.li/SPHQQHy2), small hotels, and a few eco-camps.
 
@@ -134,7 +134,7 @@ Solo Hikers & Backpackers
 
 [Valbona Eco Camping](https://www.camping.info/en/campsite/valbona-eco-camping) – 8 000 m² riverside meadow with showers, power, Wi-Fi, nightly campfire.
 
-![Valbona Valley National Park, Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Valbona-Valley-National-Park-Albania.jpeg)
+![Valbona Valley National Park, Albania](/images/destinations/Valbona-Valley-National-Park-Albania.jpeg)
 
 *Valbona Valley National Park, Albania*
 
@@ -146,7 +146,7 @@ Couples
 
 [Oda N’Bjeshke](https://booking.tpm.li/RvhkRNjp) – 4-star wood-and-stone boutique with terrace dining and modern rooms.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/03/Vabona-Valley-Guesthouse.jpg)Families
+![](/images/destinations/Vabona-Valley-Guesthouse.jpg)Families
 
 [Guesthouse Arben Selimaj](https://booking.tpm.li/XprrZxP5) – Half-board packages (dinner, breakfast, packed lunch) plus triple & quad rooms.
 
@@ -154,7 +154,7 @@ Couples
 
 [Bujtina Valbonë](https://booking.tpm.li/UFSCsXez) – Modern family rooms, riverside lawn, hearty morning pancakes.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/03/Valbona-to-Theth-Trail-Outpost.jpg)
+![](/images/destinations/Valbona-to-Theth-Trail-Outpost.jpg)
 
 *Simoni kafe – a picturesque pit stop on the Valbona to Theth trail where you can purchase drinks and snacks.*
 
@@ -166,7 +166,7 @@ Comfort & Boutique
 
 [Oda N’Bjeshke](https://booking.tpm.li/RvhkRNjp) – Also suits comfort seekers; crafted interiors and attentive service.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/03/Northern-Albania-Shala-River.jpeg)
+![](/images/destinations/Northern-Albania-Shala-River.jpeg)
 
 *Shala River, seen from the Komani Lake route—an alpine escape only reachable by boat. Many visitors to Valbona combine the two for a complete Northern Albania experience.*
 
@@ -204,7 +204,7 @@ Most guesthouses serve traditional dinners by default (~€12–15).
 
 [Guesthouse Kol Gjoni](https://tripadvisor.tpm.li/kr4qZxSq) – great home cooking
 
-Getting There & Away![Valbona Valley](https://eia476h758b.exactdn.com/wp-content/uploads/2024/03/Valbona-Valley.jpg)Public Transport
+Getting There & Away![Valbona Valley](/images/destinations/Valbona-Valley.jpg)Public Transport
 
 **Bus:** Tirana → Shkodër (every hour, 2 h)
 
@@ -244,7 +244,7 @@ Valbonë ↔ Theth (summer only, over pass): €120–150
 
 🚗 [Book Theth transfer here →](https://getyourguide.tpm.li/vDpzWPNv)
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/03/Albanian-Alps-Getting-There.jpg)
+![](/images/destinations/Albanian-Alps-Getting-There.jpg)
 
 *Don’t be surprised if you share the road with more than motor vehicles on your drive to the Albanian Alps.*
 
@@ -306,7 +306,7 @@ Quiet
 
 Guides and gear required
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/03/Valbona-to-Theth-Trail.jpg)Money, Phones, Safety & Language
+![](/images/destinations/Valbona-to-Theth-Trail.jpg)Money, Phones, Safety & Language
 
 **No ATMs** after Bajram Curri. Carry cash.
 
@@ -361,7 +361,7 @@ Discover Albania’s hidden gems with expert local guides. From Albanian Alps hi
 
 ⭐ **Most Popular:** Blue Eye + Butrint UNESCO site full-day tour (includes transportation & lunch)
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/03/Valbona.jpg)Beyond the Guidebooks
+![](/images/destinations/Valbona.jpg)Beyond the Guidebooks
 
 What most visitors don’t realize is that Valbona has layers of history, folklore, and resistance that go far beyond its hiking trails. This valley was once home to an [Illyrian](https://albaniavisit.com/the-illyrians/) settlement and fortress at Rosuja, dating back to the Iron Age. Archaeologists uncovered coins from ancient cities like [Apollonia](https://albaniavisit.com/destinations/apollonia/) and [Durrës](https://albaniavisit.com/destinations/durres/)—proof that Valbona wasn’t always remote. It was once connected to trade networks long before Albania existed.
 
@@ -375,7 +375,7 @@ The Accursed Mountains (Bjeshkët e Nemuna) get their name from another legend: 
 
 These stories, passed down through oral tradition, make Valbona more than scenic—it’s sacred.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/03/Valbona-Accursed-Mountains.jpg)
+![](/images/destinations/Valbona-Accursed-Mountains.jpg)
 
 *Peaks of the Albanian Alps, ‘Accursed Mountains’ in Northern Albania.*
 

@@ -16,7 +16,7 @@ What to Expect
 
 Walking the stone-paved streets of Vuno, you’d think parts of the Portuguese coast had somehow landed in Albania. The old houses, the way the village climbs the hillside, even the way locals gather in small squares – it all feels strangely familiar to Mediterranean travelers.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Village-of-Vuno-Albania.jpeg)
+![](/images/destinations/Village-of-Vuno-Albania.jpeg)
 
 *Village of Vuno, in the south of Albania*
 
@@ -26,7 +26,7 @@ This isn’t a tourist town trying to impress visitors. The streets stay quiet e
 
 You’ll either love or hate it here. If you need organized activities and buzzing nightlife, stay in Himarë instead. But if you want to experience coastal Albania without the tourism polish, Vuno works surprisingly well.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Vuno-Albanian-village.jpeg)
+![](/images/destinations/Vuno-Albanian-village.jpeg)
 
 *Vuno old village*
 
@@ -102,7 +102,7 @@ Unlike the organized tours from bigger towns, trips from Vuno mean figuring thin
 
 -   Better restaurant selection
 -   Organized beach clubs if you want a change
--   Small markets for supplies![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Dhermi-beach.jpeg)
+-   Small markets for supplies![](/images/destinations/Dhermi-beach.jpeg)
 
 *Dhërmi Beach*
 
@@ -111,7 +111,7 @@ Unlike the organized tours from bigger towns, trips from Vuno mean figuring thin
 -   Banks and ATMs
 -   Medical clinic if needed
 -   Bigger supermarkets
--   More accommodation options![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/02/Himare-Albanian-Riviera.jpeg)
+-   More accommodation options![](/images/destinations/Himare-Albanian-Riviera.jpeg)
 
 *Himarë coastline*
 
@@ -119,7 +119,7 @@ Unlike the organized tours from bigger towns, trips from Vuno mean figuring thin
 
 -   Ottoman castle with no entry fee
 -   Small beach with calm water
--   Simple fish restaurants![Porto Palermo Castle in Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Porto-Palermo-Castle-in-Albania.jpeg)
+-   Simple fish restaurants![Porto Palermo Castle in Albania](/images/destinations/Porto-Palermo-Castle-in-Albania.jpeg)
 
 *Porto Palermo (Ali Pasha Castle) on the Albanian Riviera*
 

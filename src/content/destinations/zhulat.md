@@ -106,7 +106,7 @@ As someone who carries the village’s name as my family identity, I invite you 
 
 ***[Enri Zhulati](https://albaniavisit.com/about/team/enri/)** is the founder of AlbaniaVisit.com and a proud descendant of Zhulat villagers who migrated to the highlands of the village of Grabovë near Përmet during Ottoman times. His family preserved their Christian faith while carrying the name of their ancestral village forward through generations.*
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/04/Zhulati-Crest-1.png)
+![](/images/destinations/Zhulati-Crest-1.png)
 
 #### Was this helpful?
 

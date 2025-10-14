@@ -49,7 +49,7 @@ In Durrës, the largest arena in the Balkans, constructed in the 2nd century AD 
 
 Despite the damage caused by the earthquake, its remains reflect its past grandeur. It once hosted events for up to 20,000 spectators.
 
-![Statue of emperor Constantine in the fortress of Berat city, Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Statue-of-emperor-Constantine-in-the-fortress-of-Berat-city-Albania.jpeg "Statue of emperor Constantine in the fortress of Berat city Albania")
+![Statue of emperor Constantine in the fortress of Berat city, Albania](/images/activities/Statue-of-emperor-Constantine-in-the-fortress-of-Berat-city-Albania.jpeg "Statue of emperor Constantine in the fortress of Berat city Albania")
 
 Statue of emperor Constantine in the fortress of Berat city.
 
@@ -63,7 +63,7 @@ Located on a hill overlooking the Vivari Channel, [Butrint](https://albaniavisit
 
 Visitors can explore structures like the theater, baptistery, and city walls amidst lush surroundings.
 
-![Butrint](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Butrint-in-Albania-2.jpeg "Butrint in Albania 2")
+![Butrint](/images/activities/Butrint-in-Albania-2.jpeg "Butrint in Albania 2")
 
 Butrint in Southern Albania.
 
@@ -75,7 +75,7 @@ Berat’s roots date back to 200 BCE with the Illyrians. It flourished under Byz
 
 Castle remnants, terraced houses, religious buildings, and cobblestone lanes reflect a blend of cultures over generations.
 
-![Berat Castle](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Berat-with-view-of-castle-walls.jpeg "Berat with view of castle walls")
+![Berat Castle](/images/activities/Berat-with-view-of-castle-walls.jpeg "Berat with view of castle walls")
 
 Berat castle walls and the tiled roofs of homes.
 
@@ -85,7 +85,7 @@ Berat castle walls and the tiled roofs of homes.
 
 The imposing Gjirokastër Fortress offers panoramic views and insights into Albania’s military past.
 
-![Clock Tower with waving Albanian flag in Gjirokaster Citadel or castle attraction in Albania, Europe](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Gjirokastra-Citadel-Castle.jpeg "Gjirokastra Citadel Castle")
+![Clock Tower with waving Albanian flag in Gjirokaster Citadel or castle attraction in Albania, Europe](/images/activities/Gjirokastra-Citadel-Castle.jpeg "Gjirokastra Citadel Castle")
 
 Clock Tower and Citadel in Gjirokastër.
 
@@ -103,7 +103,7 @@ It was perhaps the most important of the several classical towns known as Apollo
 
 The archaeological park allows visitors to step back in time among temples, stoas, and other classical structures.
 
-![APOLLONIA, ALBANIA](https://eia476h758b.exactdn.com/wp-content/uploads/2023/03/Apollonia-1.jpeg "Apollonia 1 1024x684")
+![APOLLONIA, ALBANIA](/images/activities/Apollonia-1.jpeg "Apollonia 1 1024x684")
 
 The ancient city of Apollonia.
 
@@ -115,7 +115,7 @@ In the 15th century, Skanderbeg led resistance against Ottoman forces, notably r
 
 The nearby Old Bazaar offers a glimpse into traditional Albanian culture, with handicraft shops and historic houses.
 
-![Fortress and Skanderbeg Museum, Kruja, Kruje, Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Fortress-and-Skanderbeg-Museum-Dusk-Kruja-Kruje.jpeg "Fortress and Skanderbeg Museum Dusk Kruja Kruje 1024x683")
+![Fortress and Skanderbeg Museum, Kruja, Kruje, Albania](/images/activities/Fortress-and-Skanderbeg-Museum-Dusk-Kruja-Kruje.jpeg "Fortress and Skanderbeg Museum Dusk Kruja Kruje 1024x683")
 
 Fortress and Skanderbeg Museum, Krujë, Albania.
 

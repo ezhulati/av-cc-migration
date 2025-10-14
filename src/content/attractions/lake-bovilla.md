@@ -23,7 +23,7 @@ Quick facts
 
 **Primary use:** Drinking water for Tirana alongside wells and groundwater sources.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Lake_Bovilla_AdobeStock_354859426-1.jpeg)
+![](/images/attractions/Lake_Bovilla_AdobeStock_354859426-1.jpeg)
 
 *Mount Tujanit and Bovilla lake from Dajti national park in Albania*
 
@@ -37,7 +37,7 @@ The setting is undeniably dramatic: turquoise water fills a limestone canyon bet
 
 My own connection to the area goes back to the 1980s, when my uncle worked as a doctor at the clinic in nearby Zall-Herr village. During communist times, the village hosted a military base where I spent one summer essentially adopting a military German Shepherd puppy I named Megi. Those soldiers, stern as they appeared, had soft hearts for persistent kids. Today, that same military base serves as a landmark where the paved road ends and the adventure begins.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Lake_Bovilla_AdobeStock_488639504-1.jpeg)The Infamous Road
+![](/images/attractions/Lake_Bovilla_AdobeStock_488639504-1.jpeg)The Infamous Road
 
 No aspect of Lake Bovilla generates more discussion than the access road.
 
@@ -55,11 +55,11 @@ Most Tirana taxi companies refuse the route entirely. Those willing to go charge
 
 While tour companies use 4×4 vehicles, many visitors report success with regular cars. One family managed in a Toyota Auris, though they noted “the last km was done in 25 minutes but the view is beautiful.” The key issue isn’t just the road quality—it’s that most rental insurance explicitly excludes dirt road damage.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Lake_Bovilla_AdobeStock_538623299.jpeg)The Hike and Viewpoint
+![](/images/attractions/Lake_Bovilla_AdobeStock_538623299.jpeg)The Hike and Viewpoint
 
 Once you survive the road, the actual Lake Bovilla experience centers on hiking to the Ballkoni Bovillë (Bovilla Balcony) viewpoint.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Lake_Bovilla__AdobeStock_1465588513.jpeg)![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Lake_Bovilla_AdobeStock_1465587958.jpeg)
+![](/images/attractions/Lake_Bovilla__AdobeStock_1465588513.jpeg)![](/images/attractions/Lake_Bovilla_AdobeStock_1465587958.jpeg)
 
 **The Trail**
 
@@ -73,7 +73,7 @@ The trail includes metal stairs bolted into the cliff face—a feature that gene
 
 Those who reach the platform universally praise the panorama. “I have traveled a lot, I think Bovilla Lake is the most beautiful place I have been,” wrote one July visitor. The viewpoint offers 180-degree views of turquoise water framed by mountains, with Tirana visible in the distance on clear days.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Lake_Bovilla_AdobeStock_596016338.jpeg)Our Rating
+![](/images/attractions/Lake_Bovilla_AdobeStock_596016338.jpeg)Our Rating
 
 While many first-time Albania visitors award Bovilla 5 stars, we need to be more nuanced for our readers planning their trips. We rate Lake Bovilla a solid 6 out of 10.
 
@@ -85,7 +85,7 @@ Does this mean it’s not beautiful? No. The turquoise water against limestone c
 
 Most visitors still find Bovilla beautiful and worth the challenging journey. We’re simply saying that in a country packed with world-class natural attractions, a municipal reservoir ranks as “good” rather than “essential.”
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Lake_Bovilla_AdobeStock_1128648386.jpeg)The Swimming Controversy
+![](/images/attractions/Lake_Bovilla_AdobeStock_1128648386.jpeg)The Swimming Controversy
 
 Swimming at Bovilla exists in an ethical gray zone. Signs prohibit it. This is Tirana’s drinking water. Yet I’ve read numerous visitor reviews mention swimming:
 
@@ -97,7 +97,7 @@ Beyond the ethics of swimming in drinking water, the reservoir has a history of 
 
 So, to be clear, should you swim? The answer is no. Follow the rules and be respectful.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Lake_Bovilla_AdobeStock_1134759388.jpeg)When to Visit
+![](/images/attractions/Lake_Bovilla_AdobeStock_1134759388.jpeg)When to Visit
 
 Strategic timing dramatically impacts the Bovilla experience.
 

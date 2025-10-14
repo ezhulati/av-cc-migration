@@ -18,7 +18,7 @@ I was sweating bullets climbing to [Berat Castle](https://albaniavisit.com/attra
 
 But here’s what blew my mind later: her family has probably lived in that exact house for 500 years. Not the neighborhood. That actual house. There are about 100 families up there whose ancestors received these properties during [Ottoman times](https://albaniavisit.com/albania-under-ottoman-rule/) and just… never left. Through empires, world wars, communism – they stayed. One silversmith told me his family’s been twisting filigree wire in the same workshop since the 1600s. The craft is dying now because his kids moved to [Tirana](https://albaniavisit.com/destinations/tirana/), but he still makes jewelry using techniques passed down through 15 generations.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/09/Albanian-city-Berat-with-view-of-castle-walls.jpeg)![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/09/balkan-houses-in-historic-old-town-of-berat-1.jpeg)The Castle
+![](/images/destinations/Albanian-city-Berat-with-view-of-castle-walls.jpeg)![](/images/destinations/balkan-houses-in-historic-old-town-of-berat-1.jpeg)The Castle
 
 Let’s get this out of the way: the walk up to Berat Castle is brutal. Twenty minutes of steep, slippery cobblestones that some sadist laid at the worst possible angle. But those stones? They’re covering Roman cisterns that still work. The entire castle sits on top of a sophisticated hydraulic system [the Romans](https://albaniavisit.com/albanias-roman-era/) built – underground water galleries that medieval residents expanded into a network nobody’s fully mapped yet.
 
@@ -26,37 +26,37 @@ Once you’re up there, skip the main tourist circuit for a minute. Find the Chu
 
 Yeah, about those letters. During [communism](https://albaniavisit.com/communist-era/), villagers were forced to paint “ENVER” (for dictator Enver Hoxha) in 100-meter-high letters on the mountain. In 2012, a ballsy farmer named Sheme Filja climbed up there and changed it to “NEVER” – as in “never again.” It’s still there. Look northeast from the castle around sunset when the light hits right.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/09/Berat_368324017.jpeg)
+![](/images/destinations/Berat_368324017.jpeg)
 
 *NEVER*, painted on the mountain (look closely)
 
 The [Onufri Museum](https://albaniavisit.com/attractions/onufri-iconographic-museum/) charges 500 LEK to see icons painted by this 16th-century genius who invented a red color that literally died with him. Scientists still can’t figure out how he made it – might have been minerals from Mount Tomorr mixed with something organic. But here’s what they don’t advertise: look closely at his icons and you’ll spot pagan sun and moon symbols hidden in the halos. Onufri was sneaking ancient [Illyrian mythology](https://albaniavisit.com/the-illyrians/) into Christian art 500 years ago. The museum also houses the Purple Codex of Berat – biblical manuscripts from the 6th century that predate most famous European texts. They only discovered these in 1968, hidden in local houses.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/09/Berat-Albania-River.jpeg)![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/09/Berat-with-view-of-castle-walls-1.jpeg)The Windows That Can Survive Earthquakes
+![](/images/destinations/Berat-Albania-River.jpeg)![](/images/destinations/Berat-with-view-of-castle-walls-1.jpeg)The Windows That Can Survive Earthquakes
 
 Everyone photographs those “thousand windows” but nobody mentions why they haven’t fallen down despite centuries of earthquakes. After the 1851 quake leveled half of Albania, Berat builders developed this insane technique called çatma – they embed horizontal timber beams every 80-120cm through the stone walls. The wood flexes during tremors while the stone stays rigid, creating a shock-absorbing system. The walls also get thinner as they go up (by 10-20cm per floor), which is why the houses look like they’re leaning back slightly.
 
 Those projecting windows (erkeri) that everyone loves? They’re engineered cantilevers extending exactly 50-60cm using Ottoman modular math. South-facing windows are systematically larger for solar heat in winter. The whole “thousand windows” effect only works because Berat sits at a 35-degree angle – any flatter and you wouldn’t see the stacking effect.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/09/Berat-city-center-and-university.jpeg)![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/09/Berat-Albania.jpeg)The Neighborhoods
+![](/images/destinations/Berat-city-center-and-university.jpeg)![](/images/activities/Berat-Albania.jpeg)The Neighborhoods
 
 Mangalem is the Muslim quarter, but during World War II it was also where Muslim families hid Jewish refugees in their homes. Kadri Cakrani, the local police commander and son of an independence hero, organized a network that saved 600 Jews. He gave them Muslim names, enrolled their kids in local schools, warned them before Nazi sweeps. His September 1943 letter survives: “I cannot trust anyone… I will have put all of Berat under the bullet.” Thirty-eight families risked execution to save strangers. You can still see Stars of David carved into mosque walls where Jews prayed when synagogues weren’t safe.
 
 Gorica across the river hides something even older. Above the quarter, completely unmarked, sits a ruined fortress from the 2nd century BC that might have Bronze Age foundations. Local kids showed me the trail – look for a narrow path between two stone houses on the western edge. It’s a 20-minute scramble through forest. Goat herders nap up there. The view is better than from the main castle and you’ll have it to yourself.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/09/Berat-1-1.jpeg)![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/09/Berat-2.jpeg)The Wine That Survived 500 Years of Being Illegal
+![](/images/destinations/Berat-1-1.jpeg)![](/images/destinations/Berat-2.jpeg)The Wine That Survived 500 Years of Being Illegal
 
 [Çobo Winery](https://cobowine.com/) makes wine from Pulës grapes that literally exist nowhere else on Earth except Berat County. During the Ottoman wine ban (yeah, 500 years of prohibition), locals planted these vines next to oak trees so they’d climb up and look like wild growth. The vines survived, uncrossed with European varieties, which makes them basically genetic time capsules from before the 1933 phylloxera plague.
 
 The Çobo family claims they’ve been making wine since the early 1900s, except for 1945-1990 when the Communists banned it again. Their Shëndeverë sparkling wine ages 18-48 months on dead yeast cells using a method they won’t fully explain. €25-45 for a tasting seems steep until you realize you’re drinking something that shouldn’t exist.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/09/Berat-Albania-2.jpeg)![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/09/Berat-3.jpeg)The Literary Revolution Nobody Knows About
+![](/images/destinations/Berat-Albania-2.jpeg)![](/images/destinations/Berat-3.jpeg)The Literary Revolution Nobody Knows About
 
 Here’s something that’ll make your head explode: Berat basically invented Albanian literature. In the early 1700s, a guy named Nezim Berati wrote the first complete literary work in Albanian – while also writing the same poems in Turkish, Persian, and Arabic. Sometimes in the same poem, alternating languages line by line. This was insanely illegal. The Ottomans had banned written Albanian. But Berat’s local Vlora dynasty rulers (1600-1800) let it slide, making this the only place in the empire where Albanian poetry was recited at official events.
 
 There’s a whole school of mystical poets from here who hid Albanian cultural identity inside Sufi religious texts. The tradition continued through a poet named Sulejman Naibi until the late 1700s. Without these guys, Albanian might have disappeared as a written language.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/09/Berati.jpg)Food, False Messiahs, and Communist Cafeterias
+![](/images/destinations/Berati.jpg)Food, False Messiahs, and Communist Cafeterias
 
 The sheep head soup from the cart at 7 AM near the castle entrance shouldn’t be good but it is. The lady making it told me the recipe hasn’t changed since her grandmother’s time, which tracks because I found out later that Berat families still make Tavë Kosi using exact Ottoman measurements: 2 pounds lamb, 4 cups yogurt, 6 eggs, baked in a specific sequence that creates layers.
 
@@ -64,7 +64,7 @@ But the weirdest food story? In 1676, Sabbatai Zevi – the false Jewish messiah
 
 During Communism, the castle served as a political prison while the Lead Mosque became a storage facility. The October 1944 meeting that created Albania’s Communist government happened right here in a castle building. Families developed elaborate coded languages to discuss politics. The bunkers Hoxha built everywhere? Some are restaurants now. One’s a wine bar.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/09/Mangalem-neighbourhood-in-Berat-Albania.jpeg)
+![](/images/destinations/Mangalem-neighbourhood-in-Berat-Albania.jpeg)
 
 ### 🚗 Compare Car Rental Deals from Tirana
 
@@ -78,13 +78,13 @@ Osum Canyon formed 2-3 million years ago when underground water dissolved Mesozo
 
 The caves haven’t been fully explored. Franz Nopcsa, this insane gay Austro-Hungarian baron who founded paleobiology and tried to become King of Albania, surveyed here in the early 1900s and noted probable dinosaur fossils in the rock formations. Then he went broke and killed himself, so nobody followed up.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/09/Streets-of-Berat-old-town.-Albania.jpeg)The Mountain Gods and Secret Sunrise Spots
+![](/images/destinations/Streets-of-Berat-old-town.-Albania.jpeg)The Mountain Gods and Secret Sunrise Spots
 
 Mount Tomorr – locals still swear oaths on “Father Tomorr” and won’t break them. Every August, thousands of Muslims, Christians, and people who aren’t sure what they believe climb it together for blessings. The legend says Tomorr and Shpirag were brother-giants who killed each other fighting over a fairy named Osum. She cried so much she became the river. The “wounds” on each mountain do look like battle damage if you squint.
 
 Here’s a secret: everyone says watch sunset from the castle. Wrong. Go at sunrise to the Gorica ruins I mentioned. The mist rises off the Osum River like something from a fantasy novel, and you’ll be completely alone except maybe for one old guy with his goats.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/09/Traditional-Albanian-carpets-for-sale-near-the-fortress-in-Berat.-Albania-Berat.jpeg)The Numbers That Matter
+![](/images/destinations/Traditional-Albanian-carpets-for-sale-near-the-fortress-in-Berat.-Albania-Berat.jpeg)The Numbers That Matter
 
 300 castle families, but only 100 still live there full-time. Others rent to tourists.
 
@@ -100,7 +100,7 @@ Here’s a secret: everyone says watch sunset from the castle. Wrong. Go at sunr
 
 DNA analysis in 2023 confirmed modern Berat residents have unbroken genetic continuity with ancient Illyrians from 2,400 years ago. They literally never left.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2022/09/Statue-of-emperor-Constantine-in-the-fortress-of-Berat-city-Albania-1.jpeg)
+![](/images/destinations/Statue-of-emperor-Constantine-in-the-fortress-of-Berat-city-Albania-1.jpeg)
 
 Statue of emperor Constantine in the fortress of Berat city.
 

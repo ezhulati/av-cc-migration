@@ -15,7 +15,7 @@ The [Albanian Riviera](https://albaniavisit.com/attractions/albanian-riviera/) s
 
 -   **Why Visit**: Imagine a coastline untouched by mass tourism, where locals and visitors alike revel in the natural beauty. That’s the Albanian Riviera for you.
 -   **Best Time to Visit**: June is ideal as it’s warm but not overcrowded.
--   **Pro Tip**: Dhermi Beach is a local and my personal favorite, offering a perfect blend of natural beauty and modern amenities.![Lukove, Albanian Riviera](https://eia476h758b.exactdn.com/wp-content/uploads/2023/09/Lukove-beach.jpeg "Lukove beach")
+-   **Pro Tip**: Dhermi Beach is a local and my personal favorite, offering a perfect blend of natural beauty and modern amenities.![Lukove, Albanian Riviera](/images/attractions/Lukove-beach.jpeg "Lukove beach")
 
 *Lukovë beach on the Albanian Riviera*
 
@@ -25,7 +25,7 @@ Don’t miss the [Ethnographic Museum](https://albaniavisit.com/attractions/gjir
 
 -   **Why Visit**: This [UNESCO World Heritage site](https://albaniavisit.com/attractions/unesco-world-heritage-sites/) is a living museum with stone houses and cobbled streets that tell tales of times long past.
 -   **Best Time to Visit**: Spring or Autumn for pleasant weather.
--   **Pro Tip**: The Gjirokastër Fortress offers panoramic views that are perfect for your Instagram feed.![Clock tower in the castle in Gjirokaster Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Clock-tower-in-the-castle-in-Gjirokaster-Albania.jpeg "Clock tower in the castle in Gjirokaster Albania")
+-   **Pro Tip**: The Gjirokastër Fortress offers panoramic views that are perfect for your Instagram feed.![Clock tower in the castle in Gjirokaster Albania](/images/attractions/Clock-tower-in-the-castle-in-Gjirokaster-Albania.jpeg "Clock tower in the castle in Gjirokaster Albania")
 
 *The clock tower and castle in Gjirokastra, a Unesco world heritage site.*
 
@@ -35,7 +35,7 @@ The [Accursed Mountains](https://albaniavisit.com/attractions/albanian-alps/) ar
 
 -   **Why Visit:** Also known as the Albanian Alps, these mountains offer some of the most breathtaking landscapes in Europe.
 -   **Best Time to Visit**: For the best hiking conditions, late spring to early autumn.
--   **Pro Tip**: The Valbona to Theth hike is a challenging but rewarding experience.![Tourists hiking Valbona](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/hiking-from-Theth-Valley-to-Valbona-Valley-in-Albanian-Alps.jpeg "hiking from Theth Valley to Valbona Valley in Albanian Alps")
+-   **Pro Tip**: The Valbona to Theth hike is a challenging but rewarding experience.![Tourists hiking Valbona](/images/destinations/hiking-from-Theth-Valley-to-Valbona-Valley-in-Albanian-Alps.jpeg "hiking from Theth Valley to Valbona Valley in Albanian Alps")
 
 *Tourists hiking in Valbona*
 
@@ -45,7 +45,7 @@ Apollonia was once a significant academic center, and it’s said that the Roman
 
 -   **Why Visit**: Once a bustling Illyrian and Roman city, Apollonia now stands as a testament to the passage of time.
 -   **Best Time to Visit**: Spring and autumn offer mild weather and fewer crowds.
--   **Pro Tip**: The on-site museum houses artifacts that contextualize the ruins.![Apollonia](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Apollonia.jpeg "Apollonia")
+-   **Pro Tip**: The on-site museum houses artifacts that contextualize the ruins.![Apollonia](/images/destinations/Apollonia.jpeg "Apollonia")
 
 *The ancient city of Apollonia in Albania*
 
@@ -55,7 +55,7 @@ A hydroelectric dam created the lake, and has become an unexpected tourist attra
 
 -   **Why Visit**: Often compared to the Norwegian fjords, Lake Koman offers stunning natural beauty.
 -   **Best Time to Visit**: Late spring to early autumn for the best weather.
--   **Pro Tip**: The early morning ride offers the best light for photography.![Komani Lake](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Koman-Lake-in-Albania.jpeg "Koman Lake in Albania")
+-   **Pro Tip**: The early morning ride offers the best light for photography.![Komani Lake](/images/attractions/Koman-Lake-in-Albania.jpeg "Koman Lake in Albania")
 
 *Komani Lake in Northern Albania*
 
@@ -75,7 +75,7 @@ Albanian cuisine places a strong emphasis on fresh, locally sourced ingredients.
 
 -   **Why Visit**: The capital city is a vibrant mix of old and new, with communist-era buildings next to modern art installations.
 -   **Best Time to Visit**: Year-round, as each season offers something unique.
--   **Pro Tip**: The BUNK’ART installations deeply dive into Albania’s communist past.![Monument of Skanderbeg in Tirana](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Monument-of-Skanderbeg-in-Tirana.jpeg "Monument of Skanderbeg in Tirana")
+-   **Pro Tip**: The BUNK’ART installations deeply dive into Albania’s communist past.![Monument of Skanderbeg in Tirana](/images/attractions/Monument-of-Skanderbeg-in-Tirana.jpeg "Monument of Skanderbeg in Tirana")
 
 *Skanderbeg monument, with Et’hem Bay mosque and clock tower in the center of Tirana, Albania*
 
@@ -85,7 +85,7 @@ The spring is a geological phenomenon where water bubbles up from more than 50 m
 
 -   **Why** **Visit**: This natural spring offers a mesmerizing blend of clear blue waters and lush green surroundings.
 -   **Best Time to Visit**: Spring or autumn to avoid the crowds.
--   **Pro Tip**: Early morning visits offer the best lighting for photos.![Blue eye spring near Sarande, Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Blue-eye-spring-near-Sarande-Albania.jpeg "Blue eye spring near Sarande Albania")
+-   **Pro Tip**: Early morning visits offer the best lighting for photos.![Blue eye spring near Sarande, Albania](/images/destinations/Blue-eye-spring-near-Sarande-Albania.jpeg "Blue eye spring near Sarande Albania")
 
 *Blue Eye Spring near Saranda, Albania*
 
@@ -95,7 +95,7 @@ The [Llogara pass](https://albaniavisit.com/attractions/llogara-pass-albanian-ri
 
 -   **Why Visit:** This mountain pass offers one of the most thrilling drives in Albania, with hairpin turns and stunning vistas.
 -   **Best Time to Visit**: Late spring to early autumn for clear skies.
--   **Pro Tip**: Stop at the viewpoints for some jaw-dropping photos.![Llogara pass in Albania.](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/White-fog-high-in-mountains-on-Llogara-pass.jpeg "White fog high in mountains on Llogara pass")
+-   **Pro Tip**: Stop at the viewpoints for some jaw-dropping photos.![Llogara pass in Albania.](/images/destinations/White-fog-high-in-mountains-on-Llogara-pass.jpeg "White fog high in mountains on Llogara pass")
 
 The *Llogara Pass in Albania offers incredible unobstructed views of the Ionian Sea*
 
@@ -105,7 +105,7 @@ Durrës is one of the oldest cities in Albania and was once the capital of the R
 
 -   **Why**: This coastal city offers a mix of modern amenities and historical sites, making it a perfect place to relax and explore.
 -   **Best Time to Visit**: June or September for warm weather without the crowds.
--   **Pro Tip**: The Roman amphitheater is a must-visit historical site.![Durres city and port](https://eia476h758b.exactdn.com/wp-content/uploads/2022/03/Durres-city-and-port.jpeg "Durres city and port")
+-   **Pro Tip**: The Roman amphitheater is a must-visit historical site.![Durres city and port](/images/attractions/Durres-city-and-port.jpeg "Durres city and port")
 
 *Durrës city and port*.
 

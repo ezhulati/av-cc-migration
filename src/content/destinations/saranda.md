@@ -38,7 +38,7 @@ While you’ll find the lowest prices of the year, be prepared for limited optio
 
 However, for digital nomads or those seeking an extended stay on a budget, winter in Saranda can offer an authentic glimpse of local life.
 
-![Saranda](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/summer-day-in-Saranda-Albania.jpeg "summer day in Saranda Albania")
+![Saranda](/images/destinations/summer-day-in-Saranda-Albania.jpeg "summer day in Saranda Albania")
 
 *A sunny summer day in Saranda*
 
@@ -58,7 +58,7 @@ The beaches here tend to be less crowded, and the restaurants more locally orien
 
 The hillside areas above the city center provide spectacular views but require uphill walks or regular taxis unless you [rent a car](https://albaniavisit.com/travel-guide/rental-car-albania/).
 
-![Saranda Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Saranda_Cruise.jpeg)Historical Heritage
+![Saranda Albania](/images/destinations/Saranda_Cruise.jpeg)Historical Heritage
 
 Beneath the modern development, Saranda holds fascinating historical treasures.
 
@@ -78,7 +78,7 @@ This [UNESCO World Heritage site](https://albaniavisit.com/attractions/unesco-wo
 
 Plan at least half a day here, and go early to avoid both crowds and heat.
 
-![Saranda](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/saranda-albaniavisit.jpeg)Staying Connected
+![Saranda](/images/destinations/saranda-albaniavisit.jpeg)Staying Connected
 
 Gone are the days of struggling to find reliable internet in Saranda.
 
@@ -157,7 +157,7 @@ Several operators run boat trips to secluded coves, and you can often spot dolph
 
 For the best swimming beaches, take a short taxi ride to [Ksamil](https://albaniavisit.com/destinations/ksamil/), where white sand and turquoise waters create a postcard-perfect setting.
 
-![Architecture in saranda](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Architecture-in-saranda.jpeg "Architecture in saranda")
+![Architecture in saranda](/images/destinations/Architecture-in-saranda.jpeg "Architecture in saranda")
 
 *Saranda Albania*
 

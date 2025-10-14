@@ -35,13 +35,13 @@ The Building That Listened
 
 The House of Leaves sits on Rruga Dëshmorët e 4 Shkurtit, across from Tirana’s Orthodox Cathedral. Its walls are covered in ivy that gives the building its name, though locals also say the “leaves” refer to the countless files once stored inside.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/House_of_LeavesIMG_8223-1.jpg)
+![](/images/attractions/House_of_LeavesIMG_8223-1.jpg)
 
 Built in 1931 as Albania’s first private maternity clinic, the building’s purpose shifted with each regime. The Gestapo claimed it in 1943. Then from 1944 to 1991, during [Albania’s communist era](https://albaniavisit.com/communist-era/), it served as the Sigurimi’s nerve center for technological surveillance – the place where phone calls were recorded, mail was opened, and conversations were transcribed.
 
 After communism fell, the building sat abandoned for over two decades. Rain leaked through the roof. Documents scattered. Equipment gathered dust. In 2017, it reopened as the Museum of Secret Surveillance, winning the European Museum of the Year Award in 2020.
 
-![House of Leaves Museum](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/House-of-Leaves-Museum4-2.jpg)
+![House of Leaves Museum](/images/attractions/House-of-Leaves-Museum4-2.jpg)
 
 *House of Leaves Museum Entrance, Tirana, Albania*
 
@@ -49,7 +49,7 @@ What You’ll Find in Those 31 RoomsThe Listening Posts
 
 Banks of East German Uher recording machines line the walls. Each could monitor multiple phone lines simultaneously. Standing here, I think about the officer who sat with headphones on, transcribing my father’s calls for five years. Someone doing their job, destroying lives one conversation at a time.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/House-of-Leaves-Albania.webp)Objects That Betrayed
+![](/images/attractions/House-of-Leaves-Albania.webp)Objects That Betrayed
 
 Glass cases display the creativity of paranoia: shoes with transmitters in the heel, handbags with sewn-in microphones, radios that transmitted instead of received. The Sigurimi would study your belongings, create perfect replicas with bugs inside, then swap them without you noticing.
 
@@ -61,7 +61,7 @@ Surveillance Abroad
 
 — On monitoring at the Albanian UN Mission
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/House-of-Leaves-Tirana.webp)The Laboratory
+![](/images/attractions/House-of-Leaves-Tirana.webp)The Laboratory
 
 The former maternity lab found new purpose: developing surveillance photos, analyzing fingerprints, producing keys for any lock, detecting invisible ink. Where doctors once tested blood samples, agents processed evidence that could send someone to forced labor.
 
@@ -69,7 +69,7 @@ Hotel Dajti’s Total Coverage
 
 Every foreign visitor stayed at Hotel Dajti, where every room contained multiple microphones. A sub-basement housed staff who monitored guests 24 hours a day. The museum preserves the actual recording equipment pulled from the hotel after 1991.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/House-of-Leaves.webp)![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/House-of-Leaves-Albania-Tirana.webp)The Files That Destroyed Trust
+![](/images/attractions/House-of-Leaves.webp)![](/images/attractions/House-of-Leaves-Albania-Tirana.webp)The Files That Destroyed Trust
 
 Shelves hold thousands of dossiers. The museum lists 18,000 names of Albanians prosecuted for political crimes. Over 5,000 were executed.
 
@@ -83,7 +83,7 @@ The Ultimate Betrayal
 
 — On discovering a trusted friend was reporting on him
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/House-of-Leaves-Museum.webp)![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/House-of-Leaves-Surveillance.webp)The System That Devoured Its Own
+![](/images/attractions/House-of-Leaves-Museum.webp)![](/images/attractions/House-of-Leaves-Surveillance.webp)The System That Devoured Its Own
 
 Even the regime’s most loyal servants weren’t safe. My father witnessed Defense Minister Hazbiu’s destruction through “grim video footage of his brutal torture, used to extract false confessions.”
 
@@ -91,7 +91,7 @@ As he observed: “Slavish obedience and self-sacrifice offered no protection fr
 
 This paranoia created what he called a “ludicrous system” where everyone watched everyone, and loyalty meant nothing. “If even a high-ranking official like him wasn’t safe from the regime’s arbitrary accusations, what hope did I have?”
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/House-of-Leaves-Tirana-Albania.jpg)Stories from the Files
+![](/images/attractions/House-of-Leaves-Tirana-Albania.jpg)Stories from the Files
 
 The museum displays testimonies that stay with you long after leaving:
 
@@ -101,7 +101,7 @@ At Tepelena concentration camp, families of “enemies” were held without tria
 
 These aren’t distant historical events. Many survivors still live in Tirana. Some refuse to read their files. As journalist Qazim Loloci explained: “I am afraid of learning I was betrayed by a close friend. It would break my heart.”
 
-![House of Leaves Museum](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/House-of-Leaves-Museum9.jpg)![House of Leaves Museum](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/House-of-Leaves-Museum8.jpg)Visiting the House of Leaves
+![House of Leaves Museum](/images/attractions/House-of-Leaves-Museum9.jpg)![House of Leaves Museum](/images/attractions/House-of-Leaves-Museum8.jpg)Visiting the House of Leaves
 
 **Essential Information:**
 
@@ -122,7 +122,7 @@ Beneath the building, concrete tunnels with heavy security doors connected the s
 
 Standing in these tunnels, you understand the Sigurimi wasn’t just in this building. “Plainclothes agents shadowed the guerrillas as they boarded the Tirana Express,” my father recalled of one incident. The surveillance network was everywhere, connected by threads both physical and psychological.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/House-of-Leaves-Tunnel.webp)![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/House-of-Leaves-Tirana-Tunnel.webp)What Stays After You Leave
+![](/images/attractions/House-of-Leaves-Tunnel.webp)![](/images/attractions/House-of-Leaves-Tirana-Tunnel.webp)What Stays After You Leave
 
 The museum ends in the garden, where benches offer space to process what you’ve seen. Prayer calls from the neighboring mosque drift over – sounds of religious freedom that would have meant prison during the atheist state years.
 
@@ -132,7 +132,7 @@ The House of Leaves succeeds because it refuses to comfort visitors. It simply s
 
 For my family, it validates what we always knew but couldn’t prove until those officers confessed in 1992. For visitors, it demonstrates how surveillance transforms a society – not through dramatic raids but through the quiet work of people in basements, wearing headphones, transcribing your dinner conversation.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/08/Lifting-the-Iron-Curtain.png)**Go Deeper**
+![](/images/attractions/Lifting-the-Iron-Curtain.png)**Go Deeper**
 
 The surveillance stories in this article come from my father’s firsthand experiences as documented in his memoir [“Lifting the Iron Curtain: The Untold Story of the Restoration of Diplomatic Relations Between Albania and the United States”](https://amzn.to/46IqzB7). The book provides the full context of how Albania’s paranoid isolation shaped not just domestic surveillance but also its eventual opening to the West.
 

@@ -15,7 +15,7 @@ The morning mist hadn’t yet lifted from the Drino Valley when I first climbed 
 
 This is not just Albania’s second-largest fortress. This is where Bronze Age warriors once stood guard, where a princess allegedly leapt to her death rather than surrender, where Ali Pasha plotted his empire, where political prisoners scratched their names into stone, and where today, every five years, a thousand voices rise in ancient polyphonic song. Below these ramparts lies a Cold War nuclear bunker that locals didn’t even know existed until 1991—an 800-meter labyrinth with 59 rooms built to shelter 300 communist party elites from an apocalypse that never came.
 
-![Gjirokastra Castle](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Gjirokastra_Castle_2025_DSC07127.jpg)![Gjirokastra Castle](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Gjirokastra_Castle_2025_DSC07013.jpg)Climbing Through Time
+![Gjirokastra Castle](/images/attractions/Gjirokastra_Castle_2025_DSC07127.jpg)![Gjirokastra Castle](/images/attractions/Gjirokastra_Castle_2025_DSC07013.jpg)Climbing Through Time
 
 The climb to Kalaja e Gjirokastrës takes 30-40 minutes from the Old Bazaar, and I insist you walk it rather than drive. Not for the exercise—though your calves will protest—but for the way Gjirokastra reveals itself with each switchback, like a medieval manuscript opening page by page.
 
@@ -23,13 +23,13 @@ Start before 9 AM when the castle opens. You’ll share the path only with elder
 
 Halfway up, you’ll encounter an old man selling honey from wild thyme that grows in the castle’s cracks. His bees, he claims, are descendants of those that fed on the same flowers when Ali Pasha ruled. The honey tastes of history—herbaceous and slightly bitter, like memories preserved in amber. Buy a jar; you’ll understand why when you taste it later, watching the sunset from the ramparts.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Gjirokastra_Castle_2025_DSC07074.jpg)
+![](/images/attractions/Gjirokastra_Castle_2025_DSC07074.jpg)
 
 The path itself is an archaeological record. Here, a Byzantine cornerstone recycled into an Ottoman retaining wall. There, Italian concrete patches from the 1930s prison construction. Each turn brings you higher and further back in time, until you reach the main gate—rebuilt by Ali Pasha in 1812 but incorporating stones that have stood here since the 4th century BC.
 
 *Practical note: Wear shoes with grip. These stones have been polished by 25 centuries of footsteps and turn treacherous when wet. Entry costs 400 LEK (€4), plus 200 LEK for all three museums. Summer hours: 09:00-19:00; winter: 09:00-17:00.*
 
-![Gjirokastra Castle](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Gjirokastra_Castle_2025_DSC07025.jpg)![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Gjirokastra_Castle_2025_DSC07090.jpg)Through the Gates
+![Gjirokastra Castle](/images/attractions/Gjirokastra_Castle_2025_DSC07025.jpg)![](/images/attractions/Gjirokastra_Castle_2025_DSC07090.jpg)Through the Gates
 
 Pass through the entrance and the temperature drops ten degrees instantly. The stone corridor compresses sound and light, creating a moment of sensory deprivation before releasing you into the vast courtyard. Here, the castle’s true scale becomes overwhelming: 500-600 meters of fortress stretching along the ridgeline, up to 90 meters wide at points, narrowing to just 10 meters at defensive bottlenecks.
 
@@ -37,7 +37,7 @@ But first, turn immediately right. There’s an unmarked stairway that 90% of vi
 
 The castle’s construction is a timeline in stone. Byzantine foundations support Ottoman walls strengthened with Venetian engineering techniques. Ali Pasha’s 19th-century additions rise from medieval ramparts. Communist concrete abuts ancient limestone. Even the mortar tells stories—lime and river sand mixed with egg whites in some sections, a technique that’s kept these walls standing through earthquakes that leveled lesser structures.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Gjirokastra_Castle_2025_DSC07052.jpg)Ali Pasha’s Monument
+![](/images/attractions/Gjirokastra_Castle_2025_DSC07052.jpg)Ali Pasha’s Monument
 
 The fortress you see today is essentially Ali Pasha’s vision made stone. Between 1811-1812, the semi-autonomous Ottoman governor transformed a respectable castle into one of the empire’s most formidable fortresses. His master builder, Petro Korçari, added seven towers reaching 30 meters high, walls three meters thick, and 80 cannon emplacements including modern British artillery gifted by His Majesty’s government in 1809—back when Britain saw Ali Pasha as a useful ally against Napoleon.
 
@@ -45,17 +45,17 @@ But Ali Pasha’s greatest engineering feat was solving the castle’s ancient w
 
 The clock tower, Ali Pasha’s most visible addition, deserves special attention. Climb the adjacent rampart just before sunset—around 7 PM in summer—and position yourself so the tower frames the city below. The clock still keeps time, though it runs seven minutes slow, as if Ali Pasha’s timepiece refuses to acknowledge the centuries that have passed since his death. When golden hour arrives, Gjirokastra earns its nickname “City of Stone” as every slate roof transforms into silver, and for a moment you see exactly what Ali Pasha saw from this same spot 200 years ago.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Gjirokastra_Castle_2025_DSC07098.jpg)The Museums
+![](/images/attractions/Gjirokastra_Castle_2025_DSC07098.jpg)The Museums
 
 The castle houses three distinct museums, each revealing a different chapter of Albania’s complex story. From ancient weaponry to communist-era prison cells to cutting-edge archaeological discoveries, these collections transform the fortress from mere architecture into a living archive. Allow at least two hours to explore them all—though the emotional weight of what you’ll encounter may linger far longer.
 
-![Gjirokastra Castle](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Gjirokastra_Castle_2025_DSC07092.jpg)The Armaments Museum
+![Gjirokastra Castle](/images/attractions/Gjirokastra_Castle_2025_DSC07092.jpg)The Armaments Museum
 
 The National Museum of Armaments occupies the former garrison halls, their vaulted stone ceilings now echoing with tourist chatter instead of soldiers’ boots. But it’s the American fighter jet that stops everyone mid-stride. This Lockheed T-33, forced to land in Tirana in 1957 when its pilot got lost during a training flight, sits surreally among Ottoman cannons and Illyrian swords. The communist propaganda claimed it was a captured spy plane; the truth is more mundane but somehow more poignant—a confused young pilot who took a wrong turn and ended up as a trophy in Albania’s paranoid Cold War museum.
 
 The weapons here tell intimate stories of violence. Notice the Italian rifles with notches carved into their stocks—partisans marking their kills. One rifle bears 23 notches. The guard, whose grandfather fought here, will show you bullet holes in the courtyard wall from a 1943 German execution. Two women, ‘he says, pointing to a memorial plaque,’ both in their twenties, shot for resisting the occupation.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Gjirokastra_Castle_2025_DSC07048.jpg)The Prison Museum
+![](/images/attractions/Gjirokastra_Castle_2025_DSC07048.jpg)The Prison Museum
 
 King Zog built this prison in 1932, but it was the communists who perfected its cruelty. Initially designed for 400 inmates, it crushed 1,200 political prisoners into its cells during the regime’s paranoid peak. The main hall’s seven barred windows overlooked the town market—prisoners could watch their families shopping for vegetables below but never speak to them. Hence the nickname: “Seven Windows Prison.”
 
@@ -63,7 +63,7 @@ Walk through these narrow cells where 4-6 prisoners were crammed into spaces bui
 
 Between 1945-1949 alone, 120 prisoners died here from disease—bronchitis, tuberculosis, dysentery ravaging bodies weakened by 400 grams of daily cornbread. ometimes former prisoners sit near the entrance selling their memoirs. He’ll show you Cell 7, where he spent seven years for writing a poem about freedom. “We shared even our crumbs,” he whispers, his fingers unconsciously measuring that meager bread portion in the air.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/03/Gjirokaster_castle_prison_museum_649839576.jpeg)
+![](/images/attractions/Gjirokaster_castle_prison_museum_649839576.jpeg)
 
 *The Prison (now a museum ) inside Gjirokastra castle once used by dictator Enver Hoxha, to imprison political adversaries.*
 
@@ -73,7 +73,7 @@ Opened in 2012, this modern exhibition space attempts the impossible—condensin
 
 Recent additions include finds from the 2025 excavations: that Late Antiquity warrior’s corroded sword, horse bones bearing weapon marks, pottery that helps date the castle’s earliest fortifications to the Hellenistic period. Each artifact shrinks the distance between then and now, until you realize you’re standing where people have stood for 2,500 years, looking at the same valley, fearing the same enemies, dreaming the same dreams of safety behind stone walls.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Gjirokastra_Castle_2025_DSC07110.jpg)59 Rooms of Paranoia
+![](/images/attractions/Gjirokastra_Castle_2025_DSC07110.jpg)59 Rooms of Paranoia
 
 The castle’s most astounding secret remained hidden until 1991. Beneath your feet runs a nuclear bunker that defies belief: 800 meters of tunnels, 59 rooms, built in the 1970s to shelter 300 communist party members from American bombs that never fell. The entrance, disguised near what’s now the gift shop, stays locked except for special tours. Convince a guard (a €20 tip helps) and descend into Enver Hoxha’s paranoid imagination made concrete.
 
@@ -81,7 +81,7 @@ The Czechoslovakian generator in Room 7 still drips oil. Filing cabinets in Room
 
 These modern tunnels intersect with medieval passages. One reportedly reaches the Babameto House in town, though structural damage keeps it sealed. Another connects to a Byzantine cistern 30 meters deep where water still drips in darkness, each drop echoing like whispered secrets. The temperature never varies—13°C year-round, preserved like the communist state that built it, frozen in time and paranoia.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/03/Gjirokaster_castle_628064701.jpeg)Princess Argjiro
+![](/images/attractions/Gjirokaster_castle_628064701.jpeg)Princess Argjiro
 
 Every guide tells Argjiro’s story differently, but here’s the version that haunts me: In 1418, as Ottoman armies breached the final gate, Princess Argjiro—sister of the last feudal lord Gjon Zenebishi—climbed the highest tower carrying her infant son. Rather than submit to the conquerers, she jumped. The child, caught by wind or miracle, survived. Milk flowed from the rocks to feed him—locals still point to the white calcium deposits on the cliff face as proof.
 
@@ -89,7 +89,7 @@ It’s mythology, of course. Byzantine documents mention “Argyrokastron” (Si
 
 Evliya Çelebi, the Ottoman travel writer, visited in 1670 and recorded local women singing laments about Argjiro. Ismail Kadare immortalized her in a 1960s poem. Greek author Kostas Krystallis wrote his own version in the 19th century. Each generation rewrites her story, but the ending never changes—she falls, the baby lives, the castle remembers.
 
-![Gjirokastra Castle](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Gjirokastra_Castle_2025_DSC07106.jpg)The Festival Grounds
+![Gjirokastra Castle](/images/attractions/Gjirokastra_Castle_2025_DSC07106.jpg)The Festival Grounds
 
 Every five years, the castle hosts Albania’s National Folk Festival, transforming from monument to living culture. I attended in 2023, when 1,000 performers filled the courtyard with iso-polyphonic singing—a UNESCO-recognized art form older than written history. The acoustics defy physics; voices bounce off stone walls and return transformed, harmonies splitting and multiplying until it seems the castle itself is singing.
 
@@ -97,7 +97,7 @@ The tradition began in 1968, when the communist regime, recognizing the propagan
 
 Between festivals, the stage stands empty but evocative. Climb onto it (no one objects) and face the amphitheater of stone seats. Here’s where Enver Hoxha watched approved folklore, where democracy’s first free concert erupted in 1991, where today wedding parties pay €5,000 to hold receptions that echo across the valley. Stand here at dusk when the swallows come home, their cries mixing with the evening call to prayer from the city’s mosques, and you’ll hear what this fortress has heard for a thousand years.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/03/Gjirokaster_castle_354717200-1.jpeg)
+![](/images/attractions/Gjirokaster_castle_354717200-1.jpeg)
 
 *Stage that hosts the international folklore festival inside the Gjirokaster castle.*
 
@@ -109,7 +109,7 @@ Filming at a UNESCO site presented unique challenges. The crew couldn’t alter 
 
 The film, while hardly high art, introduced Gjirokastra Castle to horror fans worldwide. Now Gothic tourists come seeking the locations where the creature stalked its victims, adding another layer to the castle’s mythology—from Byzantine fortress to Ottoman palace to communist prison to Hollywood horror set.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/03/Gjirokaster_castle_706563376.jpeg)Conservation
+![](/images/attractions/Gjirokaster_castle_706563376.jpeg)Conservation
 
 Recent seismic studies reveal the castle’s precarious position. In 2019, engineers discovered serious structural cracks, particularly in the northeastern tower. The solution involved space-age technology meeting medieval masonry: drones mapping every stone, 3D laser scanning creating millimeter-precise digital models, finite element analysis predicting stress points.
 
@@ -119,39 +119,39 @@ The 2008-2012 Gjirokastra Foundation restoration transformed visitor experience.
 
 Yet challenges persist. Each winter brings new cracks. Tourist numbers—over 10,000 in just five months of 2018, double the previous year—stress the ancient stones. Climate change intensifies storms that erode mortar. The castle requires constant vigilance, a battle against time that it’s been fighting for 2,500 years.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2023/03/Gjirokaster_castle_660721281.jpeg)Insider’s Guide to the Castle
+![](/images/attractions/Gjirokaster_castle_660721281.jpeg)Insider’s Guide to the Castle
 
 **When to Visit**
 
 October or April. The crowds thin, the light turns golden, and you might have entire ramparts to yourself. Mornings offer mist-shrouded mystery; evenings provide Instagram-perfect lighting.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Gjirokastra_Castle_2025_DSC07064.jpg)
+![](/images/attractions/Gjirokastra_Castle_2025_DSC07064.jpg)
 
 **What Most Visitors Miss**
 
 -   The unmarked door in the eastern rampart’s third tower leads to Ali Pasha’s private prayer room, its mihrab still visible
 -   Behind the clock tower, a narrow passage opens to the best sunset viewpoint in Albania
 -   The prison kitchen retains its original ovens with recipes scratched into stones by imprisoned cooks
--   A section of the medieval cistern is accessible through an unlocked grate near the museum entrance (bring a flashlight)![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Gjirokastra_Castle_2025_DSC07017.jpg)
+-   A section of the medieval cistern is accessible through an unlocked grate near the museum entrance (bring a flashlight)![](/images/attractions/Gjirokastra_Castle_2025_DSC07017.jpg)
 
 **Photography**
 
 -   Golden hour from the road below at 6 AM captures the clock tower lit while the valley remains in shadow
 -   The gallery windows frame perfect portraits with natural light between 2-4 PM
--   For the classic “floating castle” shot, position yourself on the hiking trail above the castle at dawn when valley fog obscures the town![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Gjirokastra_Castle_2025_DSC07071.jpg)
+-   For the classic “floating castle” shot, position yourself on the hiking trail above the castle at dawn when valley fog obscures the town![](/images/attractions/Gjirokastra_Castle_2025_DSC07071.jpg)
 
 **Local Knowledge**
 
 -   Bring water and snacks—café prices reflect the altitude
 -   Download offline maps before climbing—cell signal vanishes on the ramparts
 -   The museum guard with the magnificent mustache (you’ll know him) gives unofficial tours for €10 that include areas normally closed to public
--   If you see the castle cat (a massive tabby the locals have adopted), it’s good luck—locals leave food for him, believing he’s the reincarnation of a Byzantine prince![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Gjirokastra_Castle_2025_DSC07014.jpg)
+-   If you see the castle cat (a massive tabby the locals have adopted), it’s good luck—locals leave food for him, believing he’s the reincarnation of a Byzantine prince![](/images/attractions/Gjirokastra_Castle_2025_DSC07014.jpg)
 
 **The Secret Season**
 
 Visit during a thunderstorm if you dare. Lightning illuminates the castle in strobe-light flashes while thunder echoes through the galleries like Ottoman cannons. The tourists flee, leaving you alone with centuries of ghosts.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Gjirokastra_Castle_2025_DSC07015.jpg)Carrying History in Your Pocket
+![](/images/attractions/Gjirokastra_Castle_2025_DSC07015.jpg)Carrying History in Your Pocket
 
 Tradition says to take a small stone when you leave—not from the walls, that’s forbidden, but from the ground. Gjirokastra’s children do this when they leave for university or emigration, keeping a piece of the castle with them in Tirana, London, New York. “So we don’t forget,” a young doctor told me at Rinas Airport, patting his pocket where a small gray stone lay next to his medical degree.
 
@@ -163,7 +163,7 @@ Some fortresses protect against enemies. Gjirokastra Castle protects against for
 
 *Visit Gjirokastra Castle not to see Albania’s past but to collide with it, to feel 25 centuries of weight pressing through limestone into your bones, transforming you from tourist to witness, from observer to participant in a story that began before Christ and continues with your footsteps on these ancient stones.*
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Gjirokastra_Castle_2025_DSC07061.jpg)
+![](/images/attractions/Gjirokastra_Castle_2025_DSC07061.jpg)
 
 #### Was this helpful?
 

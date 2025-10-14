@@ -17,7 +17,7 @@ Demarcated Boundaries
 
 This small enclave stretches between main city thoroughfares: Boulevard Dëshmorët e Kombit, Rruga Ibrahim Rugova, Rruga Myslym Shyri, and Rruga Kavajës. You’ll find peaceful tree-lined sidewalks perfect for strolling by colorful buildings alongside enough modern cafes, boutiques, and galleries to keep visitors engaged.
 
-![Boulevard Dhëshmorët Tirana](https://eia476h758b.exactdn.com/wp-content/uploads/2024/01/Boulevard-Deshmoret-Tirana.jpg "Boulevard Deshmoret Tirana")
+![Boulevard Dhëshmorët Tirana](/images/attractions/Boulevard-Deshmoret-Tirana.jpg "Boulevard Deshmoret Tirana")
 
 *Boulevard Dhëshmorët e Kombit*, *Tirana*
 
@@ -27,7 +27,7 @@ Given its current vibe, it’s startling, but entering Blloku was strictly illeg
 
 **Read**: [From Dictator’s Enclave to Tirana’s Trendiest Neighborhood](https://albaniavisit.com/blloku-tirana-history/)
 
-![Former dictator Enver Hoxhas home.](https://eia476h758b.exactdn.com/wp-content/uploads/2024/01/Former_Enver_Hoxha_House.jpg "Former Enver Hoxha House")
+![Former dictator Enver Hoxhas home.](/images/attractions/Former_Enver_Hoxha_House.jpg "Former Enver Hoxha House")
 
 *Former dictator Enver Hoxhas home.*
 
@@ -39,13 +39,13 @@ Nightlife and Hospitality
 
 After hours, cocktail bars, pubs, and dance spots welcome revelrous locals and worldly visitors eager to connect. Sip thoughtfully mixed beverages on an open terrace or enter a pulsating nightclub within a transformed communist villa. Also, visit the famed Hemingway Bar, named for the legendary writer.
 
-![Hemingway Bar Tirana](https://eia476h758b.exactdn.com/wp-content/uploads/2024/01/hemingway-bar-tirana.jpg "hemingway bar tirana")
+![Hemingway Bar Tirana](/images/attractions/hemingway-bar-tirana.jpg "hemingway bar tirana")
 
 *Hemingway Bar, Tirana*
 
 Beyond bars, Blloku also claims cultural pillars like the National Arts Gallery or Mezuraj Museum, which showcase Albanian fine art and sculpture. Various independent galleries promote the country’s thriving contemporary creativity.
 
-![National Arts Gallery Tirana](https://eia476h758b.exactdn.com/wp-content/uploads/2024/01/National-Arts-Gallery-Tirana.jpg "National Arts Gallery Tirana")
+![National Arts Gallery Tirana](/images/attractions/National-Arts-Gallery-Tirana.jpg "National Arts Gallery Tirana")
 
 *National Arts Gallery, Tirana*
 

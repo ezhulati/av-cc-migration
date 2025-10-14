@@ -21,7 +21,7 @@ Evidence of human activity around Lake Ohrid dates to the Paleolithic Era, makin
 
 This rich, unbroken history practically jumps off the landscape through sites like the UNESCO-honored St. Naum Monastery, still guarding the lake’s mysterious southern fingers leading out towards its only drainage point. Or black volcanic sailboats hand-built using [ancient Illyrian](https://albaniavisit.com/prehistory-albania/) design principles still hauling bountiful catches of endemic koran fish best-grilled waterside — just as Macedonian dynasties and humble fishermen have done for eons.
 
-![St. Naum Monastery](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/St.-Naum-Monastery.jpeg "St. Naum Monastery")
+![St. Naum Monastery](/images/attractions/St.-Naum-Monastery.jpeg "St. Naum Monastery")
 
 *Saint Naum Monastery near Ohrid in Macedonia*
 
@@ -29,13 +29,13 @@ Pogradec – Base for Exploring Albanian Ohrid
 
 On the southeastern Albanian shores, [Pogradec](https://albaniavisit.com/destinations/pogradec/) provides the ideal home base to uncover Ohrid’s compelling heritage and outdoor adventures. Its immaculate lakefront strand and promenade filled with restaurants, hotels, and cafes offering spectacular constant views across transparent waters make lingering in town enjoyable before touring further afield. The city museum makes an essential stop for visualizing Pogradec’s story through archaeological discoveries, religious artifacts, ethnographic heritage, and [communist legacies](https://albaniavisit.com/communist-era/).
 
-![Pogradec Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2023/04/Pogradec.jpeg "Pogradec 1024x685")
+![Pogradec Albania](/images/attractions/Pogradec.jpeg "Pogradec 1024x685")
 
 *The city of Pogradec*
 
 Day trips venture south to the UNESCO-honored Lin Peninsula, jutting towards North Macedonia, where early medieval foundations of the ‘Church of Virgin Mary’s basilica remain undergoing restoration. Or catch a shuttle bus less than 10 miles north of town to the sprawling ruins of Drilon leisure complex and Tushemisht sandy beach, Albania’s most popular lakeside summer escape packed with pedalos, jet skis, beach clubs and floating snack bars for families and groups.
 
-![Lin Lake Ohrid](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Lin-Lake-Ohrid.jpeg "Lin Lake Ohrid")
+![Lin Lake Ohrid](/images/attractions/Lin-Lake-Ohrid.jpeg "Lin Lake Ohrid")
 
 *Lin Village in Korcë County*
 
@@ -49,7 +49,7 @@ The lake spans nearly 145 square miles yet reaches astounding maximum depths nea
 
 Dedicated scuba divers plunge deeper to explore submerged cave systems and curiosities like the iconic ‘Underwater Cross’ moored below monastery ruins. Seemingly endless comblines allow laid-back paddling past compact waterfront villages where time moves slowly. Above, [paragliders](https://albaniavisit.com/activities/paragliding/) catch thermals rising from the boggy edges along Lin Peninsula for unrivaled sightlines across two nations and crumbling fortifications still notating controversial old boundaries.
 
-![Tandem Paraglider over Lake Ohrid Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Tandem-Paraglider-Lake-Ohrid.jpeg "Tandem Paraglider Lake Ohrid")
+![Tandem Paraglider over Lake Ohrid Albania](/images/attractions/Tandem-Paraglider-Lake-Ohrid.jpeg "Tandem Paraglider Lake Ohrid")
 
 *Tandem Paraglider is flying over Lake Ohrid in Pogradec*
 

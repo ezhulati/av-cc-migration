@@ -28,7 +28,7 @@ Reaching this hidden gem requires a bit of effort, but the journey is part of th
 2.  **Head to Ksamil:** From Saranda, take a local bus or taxi to [Ksamil](https://albaniavisit.com/destinations/ksamil/), which takes about 15 minutes.
 3.  **The Final Stretch:** From Ksamil, you have two options:-   **By Road:** Hire a taxi or rent a car for the last 3 km. The road is partially paved and winds through beautiful forest scenery.
     -   **By Sea:** For a more scenic approach, take a boat trip from Ksamil. Many local operators offer this service during the summer months.
-4.  **Walking Option:** For the adventurous, hiking from Ksamil is possible. The trail is about 3 km and offers stunning views, but ensure you’re prepared with water and proper footwear.![IMG 1929](https://eia476h758b.exactdn.com/wp-content/uploads/2024/08/IMG_1929.jpg "IMG 1929")
+4.  **Walking Option:** For the adventurous, hiking from Ksamil is possible. The trail is about 3 km and offers stunning views, but ensure you’re prepared with water and proper footwear.![IMG 1929](/images/destinations/IMG_1929.jpg "IMG 1929")
 
 There is no entrance fee to access the beach. For sunbathers, beach chairs and umbrellas are available for rent.
 
@@ -36,17 +36,17 @@ Prices can vary depending on the season, ranging from $10 to $40 per day for a s
 
 It’s advisable to bring cash, as card facilities may be limited.
 
-![pema e thate beach beds and umbrellas](https://eia476h758b.exactdn.com/wp-content/uploads/2024/08/DSC00469.jpg "DSC00469")
+![pema e thate beach beds and umbrellas](/images/destinations/DSC00469.jpg "DSC00469")
 
 **Best Time to Visit:** Late spring (May-June) or early autumn (September-October) offer pleasant weather and fewer crowds. Summer (July-August) is busiest but perfect for beach activities.
 
-![Pema e thate parking free](https://eia476h758b.exactdn.com/wp-content/uploads/2024/08/IMG_1938.jpeg "IMG 1938")
+![Pema e thate parking free](/images/destinations/IMG_1938.jpeg "IMG 1938")
 
 **Parking:** Parking is free.
 
 **Amenities and Facilities:** Pema e Thatë offers more facilities than you might expect for a secluded beach. There’s a pizzeria on-site for those craving a slice of Italy by the Ionian Sea. Additionally, a beach cafe serves several food and drinks, allowing you to stay refreshed throughout your visit.
 
-![Pema e Thate](https://eia476h758b.exactdn.com/wp-content/uploads/2024/08/Pema-e-thate-1.jpg "Pema e thate 1")
+![Pema e Thate](/images/destinations/Pema-e-thate-1.jpg "Pema e thate 1")
 
 **Tip:** While there are food and drink options available, it’s still a good idea to bring some of your snacks, water, and beach essentials. This gives you more flexibility, especially if you explore beyond the immediate beach area.
 
@@ -56,7 +56,7 @@ At first glance, Pema e Thatë’s pebbled shoreline resembles many other beache
 
 However, you’ll notice something different once you enter the water. The sea floor is covered in soft sand. This unexpected change in texture surprised me.
 
-![Pema e Thatë](https://eia476h758b.exactdn.com/wp-content/uploads/2024/08/IMG_1939.jpeg "IMG 1939")
+![Pema e Thatë](/images/destinations/IMG_1939.jpeg "IMG 1939")
 
 Online articles report that this sand may not be natural, suggesting beach operators added it to enhance the swimming experience and the blue color of the water.
 
@@ -66,7 +66,7 @@ Over the centuries, the area has seen the rise and fall of various civilizations
 
 Nearby, the ancient city of [Butrint](https://albaniavisit.com/destinations/butrint/), now a [UNESCO World Heritage site](https://albaniavisit.com/attractions/unesco-world-heritage-sites/), speaks of Greek, [Roman](https://albaniavisit.com/albanias-roman-era/), and [Byzantine](https://albaniavisit.com/byzantine-era-albania/) legacies. But the beach’s recent past gives it a unique character.
 
-![Butrint](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Butrint-in-Albania-2.jpeg "Butrint in Albania 2")
+![Butrint](/images/activities/Butrint-in-Albania-2.jpeg "Butrint in Albania 2")
 
 *Butrint National Park*
 

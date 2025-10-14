@@ -18,7 +18,7 @@ Lying amidst the brooding mountains of southern Albania, the historic town of Gj
 
 Long overlooked on the tourist trail, Gjirokastër has undergone a quiet transformation – retaining its old-world allure while embracing fresh cultural dynamism. This scenically set town offers an authentic glimpse into Albania’s rich heritage.
 
-![Gjirokaster UNESCO](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Gjirokaster-UNESCO.jpg "Gjirokaster UNESCO")
+![Gjirokaster UNESCO](/images/destinations/Gjirokaster-UNESCO.jpg "Gjirokaster UNESCO")
 
 *Gjirokaster UNESCO World heritage Site*
 
@@ -30,7 +30,7 @@ A journey through the castle reveals remnants spanning the epochs, from its medi
 
 Alongside the fascinating history, the fortress rewards visitors with sublime views over terra cotta rooftops dotted on the mountainside and valley stretches beyond. Its sublime setting makes the challenging uphill trek worthwhile.
 
-![Clock Tower with waving Albanian flag in Gjirokaster Citadel or castle attraction in Albania, Europe](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Gjirokastra-Citadel-Castle.jpeg "Gjirokastra Citadel Castle")
+![Clock Tower with waving Albanian flag in Gjirokaster Citadel or castle attraction in Albania, Europe](/images/activities/Gjirokastra-Citadel-Castle.jpeg "Gjirokastra Citadel Castle")
 
 *Clock Tower and Citadel in Gjirokastër, Albania*
 
@@ -42,7 +42,7 @@ Winding cobblestoned alleyways thread between these historic dwellings, revealin
 
 This remarkably intact old town earned Gjirokastër UNESCO distinction and seemed to transport you to a past era with its quintessential Ottoman essence and community feels.
 
-![Gjirokastra Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Gjirokastra.jpg "Gjirokastra")
+![Gjirokastra Albania](/images/destinations/Gjirokastra.jpg "Gjirokastra")
 
 *Gjirokaster Ottoman-style homes, a result of 500 years of Ottoman Occupation, which ended in 1912*
 
@@ -54,7 +54,7 @@ The town is also known for its vibrant festivals, filling the streets with music
 
 Gjirokastër’s friendly hospitality shines through such spirited gatherings that visitors are warmly welcomed to observe or directly join. The cultural events encapsulate the soul of the town.
 
-![Gjirokastra](https://eia476h758b.exactdn.com/wp-content/uploads/2022/03/Gjirokastra.jpeg "Gjirokastra")
+![Gjirokastra](/images/destinations/Gjirokastra.jpeg "Gjirokastra")
 
 *Gjirokastra Castle and Clock Tower*
 
@@ -72,7 +72,7 @@ Gjirokastër’s sublime setting, living Ottoman inheritance, and revived creati
 
 Yet, with growing artistic buzz and improved infrastructure, the town eagerly welcomes visitors to become enchanted by its past charms and promising future. A journey here unveils the real Albania.
 
-![Gjirokastra](https://eia476h758b.exactdn.com/wp-content/uploads/2022/03/gjirokastra-albania.jpeg "gjirokastra albania")
+![Gjirokastra](/images/destinations/gjirokastra-albania.jpeg "gjirokastra albania")
 
 *Gjirokastra Castle*
 

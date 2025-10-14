@@ -38,7 +38,7 @@ Known as the “City of Roses,” this southeastern Albanian treasure rests in t
 
 Founded centuries ago, then transformed through Ottoman rule and communist isolation, Përmet has emerged as a living narrative of Albania’s vibrant history. Yet somehow, it remains one of the country’s best-kept secrets.
 
-![Permet, Albania, The town swuare and memorial  bust of Naim Frasheri.](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Permet-Albania-Town-Center.jpeg "Permet Albania Town Center")
+![Permet, Albania, The town swuare and memorial  bust of Naim Frasheri.](/images/destinations/Permet-Albania-Town-Center.jpeg "Permet Albania Town Center")
 
 *The town square Përmet, Albania,*
 
@@ -50,7 +50,7 @@ The first time I visited Përmet, I was a child sent to stay with my aunt for a 
 
 Today, I’m returning to share this special place with you.
 
-![Përmet on the Vjosa River](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Permet-on-the-Vjosa-River-in-Albania-1.jpeg "Permet on the Vjosa River in Albania 1")
+![Përmet on the Vjosa River](/images/destinations/Permet-on-the-Vjosa-River-in-Albania-1.jpeg "Permet on the Vjosa River in Albania 1")
 
 *Përmet on the Vjosa River*
 
@@ -60,7 +60,7 @@ The Embrace of Mountains
 
 We begin our day with a short climb up to the City Stone (Guri i Qytetit), a massive rock outcropping at the edge of town. Local legend claims it was thrown here by an ancient giant. The modest hike rewards us with panoramic views of Përmet and the surrounding landscape.
 
-![White water rafting](https://eia476h758b.exactdn.com/wp-content/uploads/2024/01/rafters-floating-on-Vjose-river-Permet-Albania.jpeg "rafters floating on Vjose river Permet Albania")
+![White water rafting](/images/destinations/rafters-floating-on-Vjose-river-Permet-Albania.jpeg "rafters floating on Vjose river Permet Albania")
 
 *Rafters floating on Vjosa river.*
 
@@ -72,7 +72,7 @@ As we descend back into town, the aroma of fresh byrek and strong mountain coffe
 
 “Përmet people are known for their hospitality,” I say. “It’s a place where different religions—Orthodox, Muslim, and Bektashi—have coexisted peacefully for centuries. That spirit of welcome extends to visitors too.”
 
-![Albanian mountain ring Trebeshine - Dhembel - Nemercke hugged by the  crystal clear waters of river Vjosa](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Trebeshine-Dhembel-Nemercke-hugged-by-the-crystal-clear-waters-of-river-Vjosa.jpeg "Trebeshine Dhembel Nemercke hugged by the crystal clear waters of river Vjosa")
+![Albanian mountain ring Trebeshine - Dhembel - Nemercke hugged by the  crystal clear waters of river Vjosa](/images/destinations/Trebeshine-Dhembel-Nemercke-hugged-by-the-crystal-clear-waters-of-river-Vjosa.jpeg "Trebeshine Dhembel Nemercke hugged by the crystal clear waters of river Vjosa")
 
 *Albanian mountain ring Trebeshinë – Dhëmbel – Nemërçkë hugged by the crystal clear waters of the river Vjosa, Përmet.*
 
@@ -92,7 +92,7 @@ Our lunch at a family-run restaurant introduces more traditional dishes: gjellë
 
 “Albanian cuisine reflects our history,” explains the restaurant owner. “The Ottoman influence, the isolation during communism when we had to be self-sufficient, and our connection to the land—it’s all there on the plate.”
 
-![Vjosa River ](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/The-River-Vjosa-in-Permet-Albania.jpeg "The River Vjosa in Permet Albania")
+![Vjosa River ](/images/destinations/The-River-Vjosa-in-Permet-Albania.jpeg "The River Vjosa in Permet Albania")
 
 *The Vjosa River and mountains through flowers in Përmet, also known as the city of flowers.*
 
@@ -122,7 +122,7 @@ We arrive at the elegant [Katiu Bridge](https://albaniavisit.com/attractions/kad
 
 The warm water (around 30°C) feels divine after our active day. Steam rises from the pools, creating a mystical atmosphere as the setting sun paints the canyon walls golden. Other visitors—both locals and tourists—share the space respectfully, some engaged in quiet conversation, others simply closing their eyes in meditation.
 
-![Thermal baths of Përmet](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/thermal-baths-of-Permet-Albania.-Langarica-Canyon-Kadiut-Bridge.jpeg "thermal baths of Permet Albania. Langarica Canyon Kadiut Bridge")
+![Thermal baths of Përmet](/images/destinations/thermal-baths-of-Permet-Albania.-Langarica-Canyon-Kadiut-Bridge.jpeg "thermal baths of Permet Albania. Langarica Canyon Kadiut Bridge")
 
 *Stream of hot sulfuric water in the thermal baths of Përmet Albania. Langarica Canyon, Kadiut Bridge*
 
@@ -140,7 +140,7 @@ Over dinner—grilled trout from the Vjosa, mountain herbs, and local wine—we 
 
 “In these songs, you hear the soul of Albania,” I tell my friend. “Especially in Përmet, where culture and nature have always been intertwined.”
 
-![Canyon Langaric](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Thermal-baths-of-Permet.jpeg "Thermal baths of Permet")
+![Canyon Langaric](/images/destinations/Thermal-baths-of-Permet.jpeg "Thermal baths of Permet")
 
 *Thermal springs in Langarica Canyon.*
 
@@ -152,7 +152,7 @@ We begin with a drive to Leusë, a small village perched on a mountainside with 
 
 As we approach the whitewashed church, an elderly caretaker greets us warmly and unlocks the heavy wooden door. Inside, the walls come alive with vibrant Byzantine-style paintings depicting saints, biblical scenes, and everyday life from the 18th century.
 
-![Teqe of Baba Abdullah is a Bektashi tekke in the village of Alipostivan](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Teqja-Permet.jpeg "Teqja Permet")
+![Teqe of Baba Abdullah is a Bektashi tekke in the village of Alipostivan](/images/destinations/Teqja-Permet.jpeg "Teqja Permet")
 
 *Teqe of Baba Abdullah is a Bektashi tekke in the village of Alipostivan, Përmet Municipality.*
 
@@ -166,7 +166,7 @@ From Leusë, we continue to Frashër, the ancestral home of the Frashëri brothe
 
 Standing in the simple stone house where such influential minds once gathered, my friend comments on how often small places produce great thinkers. “Perhaps it’s the solitude of mountains,” I suggest, “or the need to reach beyond one’s borders when physical space is limited.”
 
-![Guri i Qyteit, a big rock portruding from the ground in Përmet.](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Permet-1.jpeg "Permet 1")
+![Guri i Qyteit, a big rock portruding from the ground in Përmet.](/images/destinations/Permet-1.jpeg "Permet 1")
 
 *Guri i Qytetit, a large rock protruding vertically from the ground in Përmet.*
 
@@ -176,7 +176,7 @@ Our final destination is the Fir of Hotova National Park, often called the “lu
 
 As we hike beneath ancient fir trees, the filtered sunlight creates patterns on the forest floor. The air feels noticeably cooler and carries the scent of pine resin and wild herbs.
 
-![Vjosa Rover and mountains in Permet Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2023/08/Vjosa-Rover-and-mountains-in-Permet-Albania.jpeg "Vjosa Rover and mountains in Permet Albania")
+![Vjosa Rover and mountains in Permet Albania](/images/destinations/Vjosa-Rover-and-mountains-in-Permet-Albania.jpeg "Vjosa Rover and mountains in Permet Albania")
 
 “My cousin Foti knew all the medicinal plants in these forests,” I say, pointing out wild oregano growing alongside the trail. “He could treat a cold, a cut, or a stomachache with leaves and roots gathered right here.”
 
@@ -192,7 +192,7 @@ For our final evening in Përmet, we’re invited to dinner at a local family’
 
 The table overflows with home-cooked dishes: peppers stuffed with rice and herbs, slow-roasted lamb with mountain potatoes, fresh salads drizzled with local olive oil, and of course, several varieties of gliko for dessert. Each dish comes with a story—where the ingredients were grown, how the recipe was passed down, what occasions traditionally call for such food.
 
-![Canyon of Lengarica in the Fir of Hotova National Park, Përmet.](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Fir-of-Hotova-National-Park-Permet.jpeg "Fir of Hotova National Park Permet")
+![Canyon of Lengarica in the Fir of Hotova National Park, Përmet.](/images/destinations/Fir-of-Hotova-National-Park-Permet.jpeg "Fir of Hotova National Park Permet")
 
 *Canyon of Lengarica in the Fir of Hotova National Park, Përmet.*
 
@@ -208,7 +208,7 @@ Beyond Përmet
 
 Përmet rewards those who linger, but even a day or two reveals its essential character. For travelers planning their own journey to this special corner of Albania, here are some practical considerations:
 
-![Gryka e Kelcyres](https://eia476h758b.exactdn.com/wp-content/uploads/2024/01/Gryka_e_Kelcyres.jpg "Gryka e Kelcyres")
+![Gryka e Kelcyres](/images/destinations/Gryka_e_Kelcyres.jpg "Gryka e Kelcyres")
 
 *Kelcyra Gorge*
 
@@ -231,7 +231,7 @@ Përmet rewards those who linger, but even a day or two reveals its essential ch
 
 **Packing Tips**: Bring sturdy shoes for hiking, swimwear for the thermal springs, and light layers for changing mountain weather. If planning to camp or hike extensively, a good map or GPS is essential as trail markings can be inconsistent.
 
-![Souvenir shopping in Përmet](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Souvenirs-Permet.jpeg "Souvenirs Permet")
+![Souvenir shopping in Përmet](/images/destinations/Souvenirs-Permet.jpeg "Souvenirs Permet")
 
 *Souvenir shopping in Përmet*
 

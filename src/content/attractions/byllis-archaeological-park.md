@@ -15,7 +15,7 @@ Forget everything you think you know about archaeological sites in Albania. Byll
 
 Oh, and there’s an inscription at the gate that literally calls out to you after 1,500 years: “Hey foreigner, do not turn your gaze away from the beauty of Byllis.”
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/08/Byllis_37970067.jpeg)
+![](/images/attractions/Byllis_37970067.jpeg)
 
 Ruins of theatre in the ancient city of Byllis, Albania
 
@@ -39,7 +39,7 @@ Choose your city or airport pickup location. Compare rentals across Albania from
 
 [Search Cars in Albania →](https://geni.us/rent-cars-from-locals)
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/08/Byllis_1621143994.jpeg)![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/08/Byllis_806899234.jpeg)The Bitumen Empire Nobody Mentions
+![](/images/attractions/Byllis_1621143994.jpeg)![](/images/attractions/Byllis_806899234.jpeg)The Bitumen Empire Nobody Mentions
 
 Here’s what your guidebook won’t tell you: fifteen kilometers from Byllis, at Selenica, sits Europe’s only natural bitumen mine still operating today. The Bylliones tribe built their entire economy on this black gold. Recent molecular analysis (2020) proved they were shipping this stuff to Italy in 5000 BCE. That’s 7,000 years of international trade.
 
@@ -47,13 +47,13 @@ The bitumen wasn’t just tar for boats. Near the mines, the Nymphaion sanctuary
 
 Between 270-148 BCE, they minted coins showing Zeus on one side and a snake wrapped around a cornucopia on the other. Perfect symbolism – wealth literally bubbling from the earth, protected by divine authority.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/08/Qyteti-Ilir-Bylisit.jpg)Women Who Ran the Ancient World
+![](/images/attractions/Qyteti-Ilir-Bylisit.jpg)Women Who Ran the Ancient World
 
 Archaeological evidence from Byllis and nearby [Illyrian sites](https://albaniavisit.com/the-illyrians/) reveals something extraordinary: women here were moneylenders. Financial independence. Property ownership. They drank at banquets with men, raised toasts, held military commands.
 
 Queen Teuta wasn’t some exception when she commanded naval forces against Rome in 230 BCE. She was following Illyrian tradition. Ivory tablets from [Durrës](https://albaniavisit.com/destinations/durres/), dated 1,800 years ago, document women conducting high-level financial transactions that would’ve been illegal in Athens or Rome.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2024/01/Teuta-Image-Apr-12-2025-07_43_00-PM.jpg)
+![](/images/attractions/Teuta-Image-Apr-12-2025-07_43_00-PM.jpg)
 
 Depiction of Illyrian Queen Teuta
 
@@ -63,7 +63,7 @@ Depiction of Illyrian King Agron
 
 At Byllis’s South Gate, archaeologists found musical instruments scattered across 1.5 square meters – cymbals, gongs, bells. Public performances where gender probably mattered less than talent. This wasn’t some backward hill tribe. These people had social freedoms Europe wouldn’t see again for fifteen centuries.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/08/Byllis_1622154586.jpeg)![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/08/Byllis_1621145006.jpeg)The Mosaics That Changed Everything
+![](/images/attractions/Byllis_1622154586.jpeg)![](/images/attractions/Byllis_1621145006.jpeg)The Mosaics That Changed Everything
 
 March 2025 marked a turning point: the EU funded a major conservation project for what archaeologists call Albania’s most significant mosaic discovery. The Cathedral of Byllis (Basilica B) contains over one hectare of mosaics. Not biblical scenes – real life. Shepherds working. Fishermen hauling nets. Crabs, lobsters, shrimp, deer, mushrooms, fruit trees.
 
@@ -71,7 +71,7 @@ Currently buried under protective gravel (frustrating for visitors, necessary fo
 
 Five churches with mosaic floors transformed Byllis into a Christian powerhouse by the 5th century. Bishop Praisos literally signed his name in the floor of Basilica C. But here’s the twist – the bishops weren’t just praying. They ran wine and oil production facilities right in the episcopal complex. Spiritual leadership with a side business.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/08/Byllis_96262477.jpeg)![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/08/Byllis_96262289.jpeg)The Engineer Who Refused to Surrender
+![](/images/attractions/Byllis_96262477.jpeg)![](/images/attractions/Byllis_96262289.jpeg)The Engineer Who Refused to Surrender
 
 After Gothic invasions destroyed Byllis around 550 CE, Emperor Justinian sent his best engineer-general: Viktorinos. This guy didn’t just patch walls. He reimagined the entire city, shrinking it from 30 to 11 hectares, concentrating defenses around what could actually be defended.
 
@@ -82,7 +82,7 @@ Viktorinos left inscriptions everywhere, including this heartbreaker at Gate 6: 
 He’s literally speaking to you across fifteen centuries, asking you to see past the ruins to remember glory. His confidence inscription claimed the city “no longer fears the barbarians.” Thirty-six years later, Slavic forces proved him wrong. Byllis burned. Everyone fled. Nobody ever lived here again.
 
 ![Pillar in Byllis Albania
-](https://eia476h758b.exactdn.com/wp-content/uploads/2025/08/Byllis_191156761.jpeg)![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/08/Byllis_96262336.jpeg)What You’ll Actually See
+](/images/attractions/Byllis_191156761.jpeg)![](/images/attractions/Byllis_96262336.jpeg)What You’ll Actually See
 
 **The Theater:** 7,500 seats carved into the hillside. Forty rows, each precisely 40cm high. Still has perfect acoustics – test it yourself. Stand in the orchestra area, speak normally. Your friend in row 30 will hear every word.
 
@@ -96,7 +96,7 @@ He’s literally speaking to you across fifteen centuries, asking you to see pas
 
 **The Mystery Statue:** Found in 2011 during road construction. Possibly an Illyrian war deity. Now in Fier’s museum, but its discovery spot is marked.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/08/Qyteti_Ilir_I_Bylisit.jpg)Practical Visitor Information-   **Entrance:** 300 lek (about €2.50)
+![](/images/attractions/Qyteti_Ilir_I_Bylisit.jpg)Practical Visitor Information-   **Entrance:** 300 lek (about €2.50)
 -   **Hours:** Summer 9am-7pm, Winter 9am-4pm, Closed Mondays
 -   **Facilities:** Basic. Ticket booth, portable toilets. Bring water, snacks, sunscreen.
 -   **Time needed:** Minimum 2 hours, better with 3-4
@@ -117,7 +117,7 @@ He’s literally speaking to you across fifteen centuries, asking you to see pas
 -   The ticket guard might offer to guide you for tips – worth it if his English works
 -   Sheep and goats have right of way
 -   Wind can be fierce – secure your hat
--   Village shop in Hekal sells water if you forget![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/08/Byllis_Albania-2.jpg)Combine With
+-   Village shop in Hekal sells water if you forget![](/images/attractions/Byllis_Albania-2.jpg)Combine With
 
 **Same day:**
 
@@ -128,13 +128,13 @@ He’s literally speaking to you across fifteen centuries, asking you to see pas
 **Or make it a base for exploring:**
 
 -   Stay in [Vlorë](https://albaniavisit.com/destinations/vlora) (beach town, 1 hour)
--   Stay in [Berat](https://albaniavisit.com/destinations/berat/) (UNESCO city, 1.5 hours)![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/08/Byllis_1621144906.jpeg)Why Byllis Matters Now
+-   Stay in [Berat](https://albaniavisit.com/destinations/berat/) (UNESCO city, 1.5 hours)![](/images/attractions/Byllis_1621144906.jpeg)Why Byllis Matters Now
 
 That EU conservation agreement from March 2025? It’s the beginning. Major excavations planned. Those buried mosaics will eventually be visible. The residential quarters beyond the agora remain untouched. The Roman bathhouse built by the Saleni family (known from inscriptions) hasn’t been found yet.
 
 Every year reveals something new. The 2019 Franco-Albanian excavation report was 533 pages documenting just thirteen years of digging. Most of the city remains underground.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/08/Byllis_35679492.jpeg)
+![](/images/attractions/Byllis_35679492.jpeg)
 
 Ruins of episcopal complex in the ancient city of Byllis, Albania
 

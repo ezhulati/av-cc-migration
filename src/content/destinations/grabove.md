@@ -16,7 +16,7 @@ Why Visit Grabovë
 
 Few Albanian villages feel as untouched yet welcoming as Grabovë, a tiny settlement 5 km southeast of Këlcyrë and about half an hour from the town of [Përmet](https://albaniavisit.com/destinations/permet/). Perched at **344 m above sea level** on the sunny side of the Vjosa Valley, it offers stone architecture, farm-to-table meals, and direct access to forest and river trails.
 
-![St Kyriaki (Shën e Diela) Church in Grabovë, Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2025/06/St-Kyriaki-Shen-e-Diela-Church.jpg)
+![St Kyriaki (Shën e Diela) Church in Grabovë, Albania](/images/destinations/St-Kyriaki-Shen-e-Diela-Church.jpg)
 
 St Kyriaki Chapel, Grabovë. Under [communism](https://albaniavisit.com/communist-era/) (1967-1990) locals masked the ruined shrine as a barn and worshipped beneath this 200-year oak; after the regime collapsed they rebuilt the chapel and erected the white cross now visible.
 
@@ -79,7 +79,7 @@ Bujtina Te Xhako has earned exceptional ratings:
 
 **Tip:** Tek Xhako fills fast on summer weekends—book ahead or message them on WhatsApp if dates look full online.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/06/DSC06885.jpg)![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/06/DJI_0319.jpg)**Food & Dining at Bujtina Te Xhako**
+![](/images/destinations/DSC06885.jpg)![](/images/destinations/DJI_0319.jpg)**Food & Dining at Bujtina Te Xhako**
 
 The property is particularly celebrated for its cuisine, offering both traditional Albanian dishes and exceptional hospitality:
 

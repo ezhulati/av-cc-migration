@@ -13,7 +13,7 @@ Why Visit Berat
 
 Known for its storied past and picturesque landscapes, Berat offers diverse attractions spanning magnificent historical structures, scenic natural wonders, and vibrant modern amenities.
 
-![Berat, Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2022/09/AdobeStock_82270387.jpeg "AdobeStock 82270387 1024x683")
+![Berat, Albania](/images/attractions/AdobeStock_82270387.jpeg "AdobeStock 82270387 1024x683")
 
 The historic city of Berat.
 
@@ -21,7 +21,7 @@ Berat Castle
 
 The hilltop fortress of Berat Castle originated in the 4th century BC and evolved under Illyrians, Romans, Byzantines, and Ottomans. Still inhabited today, it houses around 1000 residents amidst ruins, churches, and mosques—Marvel at the views across Berat’s quarters to the Osum and Seman rivers from various vantage points.
 
-![Berat Castle](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/castle-in-the-mountains-in-Berat-Albania.jpeg "castle in the mountains in Berat Albania")
+![Berat Castle](/images/attractions/castle-in-the-mountains-in-Berat-Albania.jpeg "castle in the mountains in Berat Albania")
 
 Berat Castle
 
@@ -29,7 +29,7 @@ St. Mary of Blachernae Church
 
 Within the castle grounds, this 13th-14th century church exemplifies rare Byzantine architecture that survived periods of destruction. Gaze upon original frescoes from 1578 AD inside and admire the brick and stone construction phases of the facade.
 
-![St. Theodores church in Berat](https://eia476h758b.exactdn.com/wp-content/uploads/2022/09/AdobeStock_82272831.jpeg "AdobeStock 82272831 1024x683")
+![St. Theodores church in Berat](/images/attractions/AdobeStock_82272831.jpeg "AdobeStock 82272831 1024x683")
 
 St. Theodore Church in Berat City, Albania
 
@@ -49,11 +49,11 @@ Mangalem Quarter
 
 Meander through the historic Mangalem quarter to spy ornate bay windows and wooden overhangs dotting the charming Ottoman-era stone houses and narrow lanes.
 
-![Mangalem neighbourhood in Berat Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2023/11/Mangalem-neighbourhood-in-Berat-Albania.jpeg "Mangalem neighbourhood in Berat Albania")Craftwork Shops
+![Mangalem neighbourhood in Berat Albania](/images/destinations/Mangalem-neighbourhood-in-Berat-Albania.jpeg "Mangalem neighbourhood in Berat Albania")Craftwork Shops
 
 Seek out coppersmithing, filigree silver jewelry, and carved wood workshops where artisans keep century-old handicraft methods alive. Watching them work makes for fascinating viewing.
 
-![Traditional Albanian carpets for sale near the fortress in Berat. Albania Berat](https://eia476h758b.exactdn.com/wp-content/uploads/2023/11/Traditional-Albanian-carpets-for-sale-near-the-fortress-in-Berat.-Albania-Berat.jpeg "Traditional Albanian carpets for sale near the fortress in Berat. Albania Berat")
+![Traditional Albanian carpets for sale near the fortress in Berat. Albania Berat](/images/destinations/Traditional-Albanian-carpets-for-sale-near-the-fortress-in-Berat.-Albania-Berat.jpeg "Traditional Albanian carpets for sale near the fortress in Berat. Albania Berat")
 
 Traditional Albanian carpets for sale near the fortress in Berat.
 
@@ -61,7 +61,7 @@ Ethnographic Museum
 
 For glimpses into Berat’s past lifeways and industries, visit this museum inside an 18th-century dwelling to view regional costumes, silversmith tools, filigree jewelry, and relics from ancient settlements around Berat.
 
-![Berat ethnographic museum](https://eia476h758b.exactdn.com/wp-content/uploads/2023/03/Ethnographic-museum-in-Berat.jpeg "Ethnographic museum in Berat")
+![Berat ethnographic museum](/images/attractions/Ethnographic-museum-in-Berat.jpeg "Ethnographic museum in Berat")
 
 Ethnographic museum in Berat
 

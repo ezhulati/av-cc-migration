@@ -22,7 +22,7 @@ Getting to Borsh
 
 The coastal road The journey to Borsh sets the tone for what you’ll find—beautiful but requiring a bit of patience with Albanian logistics. From Saranda, the coastal road hugs dramatic cliffs before descending toward Borsh’s distinctive long beach, a route that offers glimpses of every cove and village you’ll want to explore later.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Borsh-Beach-Albanian-Riviera-2.jpg)
+![](/images/destinations/Borsh-Beach-Albanian-Riviera-2.jpg)
 
 **From Saranda by Bus**
 
@@ -55,7 +55,7 @@ Together, these communities maintain their agricultural identity despite growing
 
 This cultural authenticity sets Borsh apart from more developed Albanian coastal destinations. Tourism happens around village life rather than replacing it, creating opportunities for genuine cultural exchange that many travelers find more meaningful than resort experiences.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2025/09/Borsh-Beach-Albania-2.jpg)Where to Stay in Borsh
+![](/images/destinations/Borsh-Beach-Albania-2.jpg)Where to Stay in Borsh
 
 Borsh, Albania: The Seven-Kilometer Beach
 

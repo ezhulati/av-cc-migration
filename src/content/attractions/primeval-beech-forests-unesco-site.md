@@ -41,7 +41,7 @@ Zall-Gjoçaj (Mat Municipality)
 
 Rrajcë (Përrenjas Municipality)
 
-![Primeval Beech Forrests Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2023/09/Primeval-Beech-Forrests-Albania.jpeg "Primeval Beech Forrests Albania")
+![Primeval Beech Forrests Albania](/images/attractions/Primeval-Beech-Forrests-Albania.jpeg "Primeval Beech Forrests Albania")
 
 These ancient beech forests remain wild places, untouched by human activity. Four of them are located in the southern Albanian Alps.
 

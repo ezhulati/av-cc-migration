@@ -16,23 +16,23 @@ Why Visit
 
 Take an enchanting journey into Albania’s past within the medieval cobblestone lanes of Krujë. This historical place lets you experience the 15th-century battles with the Ottomans through the castle. Here, Albanian national hero Skanderbeg made his legendary last stand until finally falling to the Ottoman army in 1478.
 
-![Kruje Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Kruje_View_From_Castle.jpeg "Kruje View From Castle 1024x683")
+![Kruje Albania](/images/destinations/Kruje_View_From_Castle.jpeg "Kruje View From Castle 1024x683")
 
 Visit Krujë’s old bazaar to buy traditional silver jewelry and carved shepherd’s flutes. Visit the Ethnographic Museum to learn about the everyday lives of Albanians long ago. The surrounding national park invites rejuvenating hikes among springs and waterfalls. From the cultural to the natural, Krujë enthralls visitors with Albania’s enduring legacy.
 
-![Kruje Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Kruje-2.jpeg "Kruje 2 1024x301")Experience Albania’s Living History
+![Kruje Albania](/images/destinations/Kruje-2.jpeg "Kruje 2 1024x301")Experience Albania’s Living History
 
 Krujë offers a window into Albania’s rich culture and turbulent history. Walking through its winding lanes feels like time travel to the 15th-century principality of Krujë, the first Albanian capital.
 
-![Kruje Bazaar](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Kruje-bazaar.jpg "Kruje bazaar")
+![Kruje Bazaar](/images/destinations/Kruje-bazaar.jpg "Kruje bazaar")
 
 Skanderbeg’s Krujë Castle is an iconic symbol of resistance against the [Ottoman Empire](https://albaniavisit.com/albania-under-ottoman-rule/). The excellent [Skanderbeg Museum](https://albaniavisit.com/attractions/skanderbeg-museum/) chronicles his military resistance.
 
-![Skanderbeg Museum Kruje](https://eia476h758b.exactdn.com/wp-content/uploads/2023/04/Kruja.jpeg "Kruja 1024x646")
+![Skanderbeg Museum Kruje](/images/destinations/Kruja.jpeg "Kruja 1024x646")
 
 The Old Bazaar’s cobblestone alleyways evoke Krujë’s Ottoman merchant era. Discover handicrafts and antiques among stalls that have remained unchanged for centuries. Nearby, the [Ethnographic Museum](https://albaniavisit.com/attractions/ethnographic-museum-kruje/) provides insight into ancient lifestyles.
 
-![Kruje Bazaar, old ottoman market, Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2021/09/Kruje-Bazaar.jpeg "Kruje Bazaar 1024x683")Top Attractions and Activities-   Tour the ruins of picturesque Krujë Castle, Albania’s most famous fortress.
+![Kruje Bazaar, old ottoman market, Albania](/images/destinations/Kruje-Bazaar.jpeg "Kruje Bazaar 1024x683")Top Attractions and Activities-   Tour the ruins of picturesque Krujë Castle, Albania’s most famous fortress.
 -   Learn about national hero Skanderbeg at the Skanderbeg Museum within the castle grounds.
 -   Shop for handicrafts, carpets, and souvenirs in the historic 17th-century Old Bazaar.
 -   Explore the exhibits on traditional life at the Ethnographic Museum.

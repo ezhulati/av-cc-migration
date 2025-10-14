@@ -116,7 +116,7 @@ Beaches like Shëngjin, Velipoja, and Rana e Hedhun are ideal for swimming, sunb
 
 Nearby villages offer opportunities to experience local culture and cuisine.
 
-![IMG 3504](https://eia476h758b.exactdn.com/wp-content/uploads/2023/04/IMG_3504.jpeg "IMG 3504")
+![IMG 3504](/images/destinations/IMG_3504.jpeg "IMG 3504")
 
 The Adriatic coastline in Lezhë.
 
@@ -138,19 +138,19 @@ While in Lezhë, visiting **Mrizi i Zanave Agroturizëm** is highly recommended.
 
 Located in the nearby village of Fishtë, this farm-to-table restaurant has gained national acclaim for its commitment to sustainable agriculture and traditional Albanian cuisine with a modern twist.
 
-![IMG 3532](https://eia476h758b.exactdn.com/wp-content/uploads/2023/04/IMG_3532.jpeg "IMG 3532")
+![IMG 3532](/images/destinations/IMG_3532.jpeg "IMG 3532")
 
 Set in a picturesque rural landscape, Mrizi i Zanave offers a unique dining experience.
 
 Nearly all ingredients are sourced directly from the restaurant’s organic farm or local producers.
 
-![IMG 3545](https://eia476h758b.exactdn.com/wp-content/uploads/2023/04/IMG_3545.jpeg "IMG 3545")
+![IMG 3545](/images/destinations/IMG_3545.jpeg "IMG 3545")
 
 The menu changes seasonally, reflecting the freshest available produce.
 
 Guests can savor homemade cheeses, cured meats, fresh salads, and slow-cooked meats, all prepared with care and creativity.
 
-![IMG 3538](https://eia476h758b.exactdn.com/wp-content/uploads/2023/04/IMG_3538.jpeg "IMG 3538")
+![IMG 3538](/images/destinations/IMG_3538.jpeg "IMG 3538")
 
 Beyond dining, visitors can tour the farm, learn about traditional farming practices, and even participate in cooking workshops.
 

@@ -19,17 +19,17 @@ slug: green-coast
 
 **The beach and scenery are beautiful—but public beach access is limited.** Parts of the coastline are restricted by resort construction, making public beach access harder than in nearby areas like Dhërmi or Jale.
 
-![Palase, Green Coast, Albanian Riviera](https://eia476h758b.exactdn.com/wp-content/uploads/2020/03/Palase_IMG_2967.jpg)
+![Palase, Green Coast, Albanian Riviera](/images/destinations/Palase_IMG_2967.jpg)
 
 Europe’s Last Hidden Mediterranean Paradise
 
 Albania’s Green Coast on the **[Albanian Riviera](https://albaniavisit.com/attractions/albanian-riviera/)**, stretches along 100+ kilometers of pristine Ionian coastline from Vlorë to the Greek border, offering an extraordinary blend of turquoise waters, dramatic mountain backdrops, and authentic Mediterranean culture at a fraction of the cost of neighboring destinations. This rapidly emerging destination combines untouched natural beauty with 3,000 years of history, creating what many travelers consider Europe’s last undiscovered coastal gem.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2020/03/Palase_DJI_0295.jpg)
+![](/images/destinations/Palase_DJI_0295.jpg)
 
 The region earns its “green” designation from the remarkable convergence of the Ceraunian Mountains with the sea, creating diverse microclimates that support 36% forest coverage and exceptional biodiversity. The mountains rise dramatically to over 2,000 meters directly from the coastline, hosting 3,200 plant species and serving as home to endangered species including the Mediterranean monk seal and golden eagle. Protected areas like [Llogara National Park](https://albaniavisit.com/attractions/llogara-national-park/) and the [Karaburun-Sazan Marine Park](https://albaniavisit.com/attractions/karaburun-sazan-marine-national-park/) preserve these ecosystems while offering visitors access to both alpine forests and pristine underwater environments.
 
-![](https://eia476h758b.exactdn.com/wp-content/uploads/2020/03/Palase_DJI_0279.jpg)A Coastline of Contrasts and Hidden Treasures
+![](/images/destinations/Palase_DJI_0279.jpg)A Coastline of Contrasts and Hidden Treasures
 
 The [Albanian Riviera](https://albaniavisit.com/attractions/albanian-riviera/) presents remarkable diversity across its major beach destinations. [Ksamil](https://albaniavisit.com/destinations/ksamil/), dubbed the “Albanian Maldives,” features soft white sand beaches and four small islands accessible by swimming, though its popularity means significant summer crowds. [Dhërmi](https://albaniavisit.com/destinations/dhermi/) offers a 2-kilometer stretch of white pebbles backed by traditional stone houses, earning comparisons to Santorini and hosting the renowned Kala music festival each June. For those seeking seclusion, [Gjipe Beach](https://albaniavisit.com/destinations/gjipe/) requires a 30-minute hike through a dramatic canyon but rewards adventurers with an undeveloped paradise surrounded by towering cliffs.
 

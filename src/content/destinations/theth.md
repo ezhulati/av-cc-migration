@@ -24,7 +24,7 @@ Theth is best reached by car. It is about 100 kilometers (62 miles) from Tirana 
 
 You should leave early in the morning to give yourself ample time on the winding mountain roads. Several buses run from Tirana to Theth several times a week. The journey takes around three hours.
 
-![Theth](https://eia476h758b.exactdn.com/wp-content/uploads/2020/02/Thethi-Northen-Albanian-Alps.jpeg "Thethi Northen Albanian Alps")
+![Theth](/images/destinations/Thethi-Northen-Albanian-Alps.jpeg "Thethi Northen Albanian Alps")
 
 *Alpine village with an ancient church in the mountains.*
 
@@ -32,13 +32,13 @@ What to do
 
 There are plenty of activities to keep visitors occupied in Theth. In the summer, people like to hike and camp around the village, surrounded by beautiful mountains and forests. 
 
-![Theth National Park. Shkoder County Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/Theth-National-Park.-Shkoder-County-Albania.jpeg "Theth National Park. Shkoder County Albania")
+![Theth National Park. Shkoder County Albania](/images/destinations/Theth-National-Park.-Shkoder-County-Albania.jpeg "Theth National Park. Shkoder County Albania")
 
 *Theth National Park in Shkoder County, Albanian Alps*
 
 For those who prefer indoor activities, several museums in Theth chronicle the village’s history and culture.  A trip to Theth would be incomplete without trying the local cuisine; dishes like fasulakia (cooked green beans in tomato sauce) and katakulli (a type of cheese pie) are not to be missed.
 
-![Peaks of Albanian Alps in Valbona Valley National Park, Albania](https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/Peaks-of-Albanian-Alps-in-Valbona-Valley-National-Park-Albania.jpeg "Peaks of Albanian Alps in Valbona Valley National Park Albania 1024x683")
+![Peaks of Albanian Alps in Valbona Valley National Park, Albania](/images/destinations/Peaks-of-Albanian-Alps-in-Valbona-Valley-National-Park-Albania.jpeg "Peaks of Albanian Alps in Valbona Valley National Park Albania 1024x683")
 
 *Peaks of the* Albanian Alps, also called the *Accursed Mountains*
 
@@ -46,7 +46,7 @@ Where to Stay
 
 Accommodation options in Theth are limited but charming. There are a few guesthouses in the village, or you could stay in one of the nearby towns, like [Bajram Curri](https://albaniavisit.com/destinations/bajram-curri/) or [Shkoder](https://albaniavisit.com/destinations/shkoder/). For those who don’t mind roughing it, numerous campsites around Theth have beautiful views of the surrounding mountains.
 
-![Hiking Albanian Alps](https://eia476h758b.exactdn.com/wp-content/uploads/2023/12/hiking-from-Theth-Valley-to-Valbona-Valley-in-Albanian-Alps-1.jpeg "hiking from Theth Valley to Valbona Valley in Albanian Alps 1")
+![Hiking Albanian Alps](/images/destinations/hiking-from-Theth-Valley-to-Valbona-Valley-in-Albanian-Alps-1.jpeg "hiking from Theth Valley to Valbona Valley in Albanian Alps 1")
 
 *Hiking the Albanian Alps*
 
